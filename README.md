@@ -1,2 +1,2 @@
 # the-grunfeld
-Advanced stats for unadvanced managers
+Advanced stats for unadvanced managers.
