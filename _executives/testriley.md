@@ -6,6 +6,7 @@ start_year: 1990
 end_year: 2024
 rank: 1
 points: 25000
+image_url: https://upload.wikimedia.org/wikipedia/commons/7/79/Pat_Riley_speaks_at_Eglin_Air_Force_Base_%28cropped%29.jpg
 ---
 
 Can you believe that are probably 100 schools out there offering degrees in sports management and analytics and the like? Meanwhile the guy who sort of helped invent this gig is still around. Most NBA players peak at some point during their actual playing careers. He might be nearly 80 but he forged the latest version of Miami Heat contender out of just Jimmy Butler, hand me downs from Goodwill, and some Florida sunshine.
