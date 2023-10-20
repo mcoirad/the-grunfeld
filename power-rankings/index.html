@@ -2,17 +2,18 @@
 layout: page
 title: Power Rankings
 ---
+{% assign executives = site.executives  | sort: "bpm_rank" reversed  %}
 
-{% for executive in site.executives %}
+{% for executive in executives%}
 
-
+{% assign name_clean = executive.name | replace: " ", "_"  %}
 
 <div class="container">
   <div class="row">
     <div class="col-lg-4">
       <img src="{{ executive.image_url }}" class="img-fluid w-100">
       <div class="position-absolute bottom-0 text-light" style="background-color: rgba(0, 0, 0, 0.5)">
-        <h3 class="p-2 m-0">Rank: {{ executive.rank }}</h3>
+        <h3 class="p-2 m-0">Rank: {{ executive.bpm_rank }}</h3>
       </div>
       
     </div>
@@ -29,23 +30,23 @@ title: Power Rankings
           {% else %}
           present
           {% endif %}
-          &middot; Points: {{ executive.points }}
+          &middot; Points: {{ executive.final_bpm }}
         </p>
-        <div class="accordion" id="accordionExample">
+        <div class="accordion" id="accordionExample{{ name_clean }}">
           <div class="accordion-item">
-            <h2 class="accordion-header" id="headingOne">
+            <h2 class="accordion-header" id="headingOne{{ name_clean }}">
               <button
                 class="accordion-button"
                 type="button"
                 data-mdb-toggle="collapse"
-                data-mdb-target="#collapseOne"
+                data-mdb-target="#collapseOne{{ name_clean }}"
                 aria-expanded="true"
-                aria-controls="collapseOne"
+                aria-controls="collapseOne{{ name_clean }}"
               >
                 Read Full Analysis
               </button>
             </h2>
-            <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-mdb-parent="#accordionExample">
+            <div id="collapseOne{{ name_clean }}" class="accordion-collapse collapse" aria-labelledby="headingOne{{ name_clean }}" data-mdb-parent="#accordionExample{{ name_clean }}">
               <div class="accordion-body">
                 {{ executive.content }}
               </div>
