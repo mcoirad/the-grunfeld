@@ -25,6 +25,7 @@ layout: default
 {% include executive.html executive=executive %}
             {{ content }}
 {% assign exec_data = site.data[executive.href] %}
+<div class="container">
 <table class="table table-striped">
   {% for row in exec_data %}
     {% if forloop.first %}
@@ -40,3 +41,4 @@ layout: default
     {% endtablerow %}
   {% endfor %}
 </table>
+</div>

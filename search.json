@@ -1,0 +1,15 @@
+---
+---
+[
+  {% for executive in site.executives %}
+    {
+
+      "title"    : "{{ executive.name | strip_html | escape }}",
+      "url"      : "{{ site.baseurl }}{{ executive.url }}",
+      "team" : "{{executive.team | join: ', '}}",
+      "start_year"     : "{{ executive.start_year }}",
+      "end_year" : "{{executive.end_year}}"
+
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
