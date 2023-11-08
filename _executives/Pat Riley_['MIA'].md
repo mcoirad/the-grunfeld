@@ -4,6 +4,7 @@ draft_rating: -2.4
 draft_rating_grade: C
 end_year: 2024
 final_bpm: 190347
+href: rileypa01x
 name: Pat Riley
 start_year: 2008
 team:

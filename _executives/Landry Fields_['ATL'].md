@@ -4,6 +4,7 @@ draft_rating: null
 draft_rating_grade: null
 end_year: 2024
 final_bpm: 16729
+href: fieldla01x
 name: Landry Fields
 start_year: 2022
 team:

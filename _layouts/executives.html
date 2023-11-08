@@ -1,0 +1,42 @@
+---
+layout: default
+---
+{% assign executive = site.executives | where: 'name', page.name | first %}
+<header class="masthead">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row">
+            <div class="page-heading">
+                <h1>{{ page.name }}</h1>
+                <h2>{{ page.position }}</h2>
+                <h3 class="post-subtitle">
+                    {% for team in executive.team  %}
+                    {{team}}{% if forloop.last %}{% else %}, {% endif %}
+                    {% endfor %}
+                </h3>
+            </div>
+            
+        </div>
+        
+    </div>
+    
+</header>
+
+{% include executive.html executive=executive %}
+            {{ content }}
+{% assign exec_data = site.data[executive.href] %}
+<table class="table table-striped">
+  {% for row in exec_data %}
+    {% if forloop.first %}
+    <tr>
+      {% for pair in row %}
+        <th>{{ pair[0] }}</th>
+      {% endfor %}
+    </tr>
+    {% endif %}
+
+    {% tablerow pair in row %}
+      {{ pair[1] }}
+    {% endtablerow %}
+  {% endfor %}
+</table>

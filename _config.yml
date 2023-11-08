@@ -56,3 +56,20 @@ collections:
   executives:
     output: true
     sort_by: bpm_rank
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "executives"
+    values:
+      layout: "executives"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"

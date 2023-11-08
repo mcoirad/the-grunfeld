@@ -4,6 +4,7 @@ draft_rating: 0.2
 draft_rating_grade: C+
 end_year: 2024
 final_bpm: 11005
+href: pritcke01x
 name: Kevin Pritchard
 start_year: 2017
 team:

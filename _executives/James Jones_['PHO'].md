@@ -4,6 +4,7 @@ draft_rating: null
 draft_rating_grade: null
 end_year: 2024
 final_bpm: -4234
+href: jonesja99x
 name: James Jones
 start_year: 2018
 team:

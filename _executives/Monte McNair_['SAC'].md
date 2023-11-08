@@ -4,6 +4,7 @@ draft_rating: -1.8
 draft_rating_grade: C+
 end_year: 2024
 final_bpm: -24094
+href: mcnaimo99x
 name: Monte McNair
 start_year: 2020
 team:

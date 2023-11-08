@@ -4,6 +4,7 @@ draft_rating: null
 draft_rating_grade: null
 end_year: 2024
 final_bpm: -24291
+href: boothca01x
 name: Calvin Booth
 start_year: 2022
 team:

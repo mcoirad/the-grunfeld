@@ -4,6 +4,7 @@ draft_rating: -13.1
 draft_rating_grade: F
 end_year: 2024
 final_bpm: -89432
+href: wrighbr99x
 name: Brian Wright
 start_year: 2019
 team:

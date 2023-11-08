@@ -4,6 +4,7 @@ draft_rating: null
 draft_rating_grade: null
 end_year: 2024
 final_bpm: 34950
+href: frankla99x
 name: Lawrence Frank
 start_year: 2017
 team:

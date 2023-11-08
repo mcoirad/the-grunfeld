@@ -4,6 +4,7 @@ draft_rating: null
 draft_rating_grade: null
 end_year: 2024
 final_bpm: 42903
+href: rosele99x
 name: Leon Rose
 start_year: 2020
 team:

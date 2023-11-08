@@ -4,6 +4,7 @@ draft_rating: 15.4
 draft_rating_grade: S
 end_year: 2024
 final_bpm: 179137
+href: moreyda99x
 name: Daryl Morey
 start_year: 2020
 team:

@@ -4,6 +4,7 @@ draft_rating: 10.2
 draft_rating_grade: A
 end_year: 2024
 final_bpm: -273075
+href: kupchmi01x
 name: Mitch Kupchak
 start_year: 2018
 team:
