@@ -1,7 +1,14 @@
 ---
 bpm_rank: 20
+draft_bust_list: null
+draft_description: This executive has only drafted 1 player and thus doesn't have
+  a draft grade.
+draft_num_players: 1
 draft_rating: null
 draft_rating_grade: null
+draft_win_list: '<ul>
+
+  </ul>'
 end_year: 2024
 final_bpm: -24291
 href: boothca01x
@@ -14,5 +21,5 @@ team_shortcode:
 trade_rating: null
 trade_rating_grade: null
 transaction_rating: -0.31
-transaction_rating_grade: C-
+transaction_rating_grade: C
 ---
