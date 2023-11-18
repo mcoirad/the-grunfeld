@@ -1,0 +1,526 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  
+    <title>
+      Compare - The Grunfeld
+      
+    </title>
+  
+    <meta name="description" content="The best and worst in NBA executives.">
+  
+    <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+  
+    <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
+  
+    <link rel="stylesheet" href="/the-grunfeld/assets/main.css">
+    <link rel="canonical" href="http://localhost:8080/the-grunfeld/compare.html">
+    <link rel="alternate" type="application/rss+xml" title="The Grunfeld" href="/the-grunfeld/feed.xml">
+    <link
+    href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.4.2/mdb.min.css"
+    rel="stylesheet"
+  />
+  </head>
+
+<body>
+
+  <!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+  <div class="container">
+    <a class="navbar-brand" href="/the-grunfeld/">The Grunfeld</a>
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+      Menu
+      <i class="fa fa-bars"></i>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="/the-grunfeld/">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/the-grunfeld/power-rankings">Power Rankings</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/the-grunfeld/about">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/the-grunfeld/posts">Posts</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/the-grunfeld/contact">Contact</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+  <!-- Page Header -->
+
+  <header class="masthead">
+    
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-10 col-md-12 mx-auto">
+          <div class="page-heading">
+            <h1>Compare</h1>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 col-md-12 mx-auto">
+
+          <head>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+  </head>
+ 
+  <body>
+      <style>svg {
+  font-family: Sans-Serif, Arial;
+}
+
+.line {
+  stroke-width: 2;
+  fill: none;
+}
+
+.axis path {
+  stroke: black;
+}
+
+.text {
+  font-size: 12px;
+}
+
+.title-text {
+  font-size: 12px;
+}</style>
+      
+    <div id="chart"></div>
+    <script>
+      console.log("hello");
+     var data = [{
+    name: "USA",
+    values: [{
+        date: "2000",
+        price: "100"
+      },
+      {
+        date: "2001",
+        price: "110"
+      },
+      {
+        date: "2002",
+        price: "145"
+      },
+      {
+        date: "2003",
+        price: "241"
+      },
+      {
+        date: "2004",
+        price: "101"
+      },
+      {
+        date: "2005",
+        price: "90"
+      },
+      {
+        date: "2006",
+        price: "10"
+      },
+      {
+        date: "2007",
+        price: "35"
+      },
+      {
+        date: "2008",
+        price: "21"
+      },
+      {
+        date: "2009",
+        price: "201"
+      }
+    ]
+  },
+  {
+    name: "Canada",
+    values: [{
+        date: "2000",
+        price: "100"
+      },
+      {
+        date: "2001",
+        price: "110"
+      },
+      {
+        date: "2002",
+        price: "145"
+      },
+      {
+        date: "2003",
+        price: "241"
+      },
+      {
+        date: "2004",
+        price: "101"
+      },
+      {
+        date: "2005",
+        price: "90"
+      },
+      {
+        date: "2006",
+        price: "10"
+      },
+      {
+        date: "2007",
+        price: "35"
+      },
+      {
+        date: "2008",
+        price: "21"
+      },
+      {
+        date: "2009",
+        price: "201"
+      }
+    ]
+  },
+  {
+    name: "Maxico",
+    values: [{
+        date: "2000",
+        price: "100"
+      },
+      {
+        date: "2001",
+        price: "110"
+      },
+      {
+        date: "2002",
+        price: "145"
+      },
+      {
+        date: "2003",
+        price: "241"
+      },
+      {
+        date: "2004",
+        price: "101"
+      },
+      {
+        date: "2005",
+        price: "90"
+      },
+      {
+        date: "2006",
+        price: "10"
+      },
+      {
+        date: "2007",
+        price: "35"
+      },
+      {
+        date: "2008",
+        price: "21"
+      },
+      {
+        date: "2009",
+        price: "201"
+      }
+    ]
+  }
+];
+
+var width = 500;
+var height = 300;
+var margin = 50;
+var duration = 250;
+
+var lineOpacity = "0.25";
+var lineOpacityHover = "0.85";
+var otherLinesOpacityHover = "0.1";
+var lineStroke = "1.5px";
+var lineStrokeHover = "2.5px";
+
+var circleOpacity = '0.85';
+var circleOpacityOnLineHover = "0.25"
+var circleRadius = 3;
+var circleRadiusHover = 6;
+
+
+/* Format Data */
+var parseDate = d3.timeParse("%Y");
+data.forEach(function(d) {
+  d.values.forEach(function(d) {
+    d.date = parseDate(d.date);
+    d.price = +d.price;
+  });
+});
+
+
+/* Scale */
+var xScale = d3.scaleTime()
+  .domain(d3.extent(data[0].values, d => d.date))
+  .range([0, width - margin]);
+
+var yScale = d3.scaleLinear()
+  .domain([0, d3.max(data[0].values, d => d.price)])
+  .range([height - margin, 0]);
+
+var color = d3.scaleOrdinal(d3.schemeCategory10);
+
+/* Add SVG */
+var svg = d3.select("#chart").append("svg")
+  .attr("width", (width + margin) + "px")
+  .attr("height", (height + margin) + "px")
+  .append('g')
+  .attr("transform", `translate(${margin}, ${margin})`);
+
+
+/* Add line into SVG */
+var line = d3.line()
+  .x(d => xScale(d.date))
+  .y(d => yScale(d.price));
+
+let lines = svg.append('g')
+  .attr('class', 'lines');
+
+lines.selectAll('.line-group')
+  .data(data).enter()
+  .append('g')
+  .attr('id',function(d){ return d.name.replace(/\s+/g, '')+"-line"; })
+  .attr('class', 'line-group')
+  .on("mouseover", function(d, i) {
+    svg.append("text")
+      .attr("class", "title-text")
+      .style("fill", color(i))
+      .text(d.name)
+      .attr("text-anchor", "middle")
+      .attr("x", (width - margin) / 2)
+      .attr("y", 5);
+  })
+  .on("mouseout", function(d) {
+    svg.select(".title-text").remove();
+  })
+  .append('path')
+  .attr('class', 'line')
+  .attr('d', d => line(d.values))
+  .style('stroke', (d, i) => color(i))
+  .style('opacity', lineOpacity)
+  .on("mouseover", function(d) {
+    d3.selectAll('.line')
+      .style('opacity', otherLinesOpacityHover);
+    d3.selectAll('.circle')
+      .style('opacity', circleOpacityOnLineHover);
+    d3.select(this)
+      .style('opacity', lineOpacityHover)
+      .style("stroke-width", lineStrokeHover)
+      .style("cursor", "pointer");
+  })
+  .on("mouseout", function(d) {
+    d3.selectAll(".line")
+      .style('opacity', lineOpacity);
+    d3.selectAll('.circle')
+      .style('opacity', circleOpacity);
+    d3.select(this)
+      .style("stroke-width", lineStroke)
+      .style("cursor", "none");
+  });
+
+
+/* Add circles in the line */
+lines.selectAll("circle-group")
+  .data(data).enter()
+  .append("g")
+  .attr('id',function(d){ return d.name.replace(/\s+/g, '')+"-circle"; })
+  .style("fill", (d, i) => color(i))
+  .selectAll("circle")
+  .data(d => d.values).enter()
+  .append("g")
+  .attr("class", "circle")
+  .on("mouseover", function(d) {
+    d3.select(this)
+      .style("cursor", "pointer")
+      .append("text")
+      .attr("class", "text")
+      .text(`${d.price}`)
+      .attr("x", d => xScale(d.date) + 5)
+      .attr("y", d => yScale(d.price) - 10);
+  })
+  .on("mouseout", function(d) {
+    d3.select(this)
+      .style("cursor", "none")
+      .transition()
+      .duration(duration)
+      .selectAll(".text").remove();
+  })
+  .append("circle")
+  .attr("cx", d => xScale(d.date))
+  .attr("cy", d => yScale(d.price))
+  .attr("r", circleRadius)
+  .style('opacity', circleOpacity)
+  .on("mouseover", function(d) {
+    d3.select(this)
+      .transition()
+      .duration(duration)
+      .attr("r", circleRadiusHover);
+  })
+  .on("mouseout", function(d) {
+    d3.select(this)
+      .transition()
+      .duration(duration)
+      .attr("r", circleRadius);
+  });
+
+
+/* Add Axis into SVG */
+var xAxis = d3.axisBottom(xScale).ticks(5);
+var yAxis = d3.axisLeft(yScale).ticks(5);
+
+svg.append("g")
+  .attr("class", "x axis")
+  .attr("transform", `translate(0, ${height-margin})`)
+  .call(xAxis);
+
+svg.append("g")
+  .attr("class", "y axis")
+  .call(yAxis)
+  .append('text')
+  .attr("y", 15)
+  .attr("transform", "rotate(-90)")
+  .attr("fill", "#000")
+  .text("Total values");
+
+
+var dataNest = d3.nest()
+  .key(function(d) {
+    return d.name;
+  })
+  .entries(data);
+
+var legendSpace = width / dataNest.length;
+
+// Loop through each symbol / key
+dataNest.forEach(function(d, i) {
+
+  // Add the Legend
+  svg.append("text")
+    .attr("x", (legendSpace / 2) + i * legendSpace) // space legend
+    .attr("y", height)
+    .attr("class", "legend") // style the legend
+    .style("fill", color(i))
+    .on("click", function() {
+      // Determine if current line is visible
+      var active = d.active ? false : true,
+        newOpacity = active ? 0 : 1;
+      // Hide or show the elements based on the ID
+      d3.select("#" + d.key.replace(/\s+/g, '') + "-line")
+        .transition().duration(100)
+        .style("opacity", newOpacity);
+      d3.select("#" + d.key.replace(/\s+/g, '') + "-circle")
+        .transition().duration(100)
+        .style("opacity", newOpacity);
+      // Update whether or not the elements are active
+      d.active = active;
+    })
+    .text(d.key);
+});
+
+ </script>
+  </body>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+
+<hr>
+
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <ul class="list-inline text-center">
+          
+          <li class="list-inline-item">
+            <a href="mailto:admin@thegrunfeld.com">
+              <span class="fa-stack fa-lg">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="far fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+          
+          <li class="list-inline-item">
+            <a href="https://twitter.com/thegrunfeld">
+              <span class="fa-stack fa-lg">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+          
+          
+          
+          <li class="list-inline-item">
+            <a href="https://github.com/mcoirad">
+              <span class="fa-stack fa-lg">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+          
+        </ul>
+        <p class="copyright text-muted">Copyright &copy;  2023</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
+<script
+  type="text/javascript"
+  src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.4.2/mdb.min.js"
+></script>
+<script src="/the-grunfeld/assets/vendor/startbootstrap-clean-blog/js/scripts.js"></script>
+
+<script src="/the-grunfeld/assets/scripts.js"></script>
+
+
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '');
+</script>
+
+
+
+</body>
+
+</html>
