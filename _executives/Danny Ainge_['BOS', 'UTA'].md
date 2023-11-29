@@ -28,6 +28,8 @@ end_year: 2024
 final_bpm: 437218
 href: aingeda01x
 name: Danny Ainge
+signing_rating: -0.2
+signing_rating_grade: A
 start_year: 2021
 team:
 - Boston Celtics
@@ -35,8 +37,21 @@ team:
 team_shortcode:
 - BOS
 - UTA
-trade_rating: 0.41
-trade_rating_grade: A+
-transaction_rating: -0.09
-transaction_rating_grade: A
+trade_description: Danny Ainge ranks in the 90th percentile for trading among executives
+  in our database. That's basically average. It could be worse though lol.
+trade_lose_list: '<ul>
+
+  <li>Added Gerald Green, Ryan Gomes, Orien Greene, Paris Bass to BOS.</li>
+
+  </ul>'
+trade_rating: 0.31
+trade_rating_grade: A
+trade_win_list: '<ul>
+
+  <li>Added Kevin Garnett, Luka Šamanić to BOS.</li>
+
+  <li>Lost Ryan Gomes, Gerald Green, Al Jefferson, Theo Ratliff, Sebastian Telfair,
+  Wayne Ellington, Jonny Flynn to MIN.</li>
+
+  </ul>'
 ---

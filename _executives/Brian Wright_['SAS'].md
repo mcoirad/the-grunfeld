@@ -24,13 +24,27 @@ end_year: 2024
 final_bpm: -89432
 href: wrighbr99x
 name: Brian Wright
+signing_rating: -0.31
+signing_rating_grade: B+
 start_year: 2019
 team:
 - San Antonio Spurs
 team_shortcode:
 - SAS
-trade_rating: -0.33
+trade_description: Brian Wright ranks in the 18th percentile for trading among executives
+  in our database. That's basically average. It could be worse though lol.
+trade_lose_list: '<ul>
+
+  <li>Added Al-Farouq Aminu, Thaddeus Young, Kennedy Chandler to SAS.</li>
+
+  <li>Lost DeMar DeRozan to CHI.</li>
+
+  </ul>'
+trade_rating: -0.22
 trade_rating_grade: F
-transaction_rating: -0.3
-transaction_rating_grade: C
+trade_win_list: '<ul>
+
+  <li>Added Dejounte Murray to SAS.</li>
+
+  </ul>'
 ---

@@ -28,6 +28,8 @@ end_year: 2024
 final_bpm: -33337
 href: conneti99x
 name: Tim Connelly
+signing_rating: -0.41
+signing_rating_grade: C+
 start_year: 2022
 team:
 - Denver Nuggets
@@ -35,8 +37,22 @@ team:
 team_shortcode:
 - DEN
 - MIN
-trade_rating: 0.0
-trade_rating_grade: D+
-transaction_rating: -0.3
-transaction_rating_grade: C
+trade_description: Tim Connelly ranks in the 12th percentile for trading among executives
+  in our database. That's basically average. It could be worse though lol.
+trade_lose_list: '<ul>
+
+  <li>Added Erick Green, Walker Kessler, TyTy Washington Jr. to DEN.</li>
+
+  <li>Lost Rudy Gobert to UTA.</li>
+
+  <li>Lost Jake LaRavia, Gregory Jackson to MEM.</li>
+
+  </ul>'
+trade_rating: -0.29
+trade_rating_grade: F
+trade_win_list: '<ul>
+
+  <li>Added Nikola Jokić to DEN.</li>
+
+  </ul>'
 ---

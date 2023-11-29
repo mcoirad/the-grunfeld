@@ -22,13 +22,27 @@ end_year: 2024
 final_bpm: -128584
 href: weltmje01x
 name: Jeff Weltman
+signing_rating: -0.35
+signing_rating_grade: B
 start_year: 2017
 team:
 - Orlando Magic
 team_shortcode:
 - ORL
-trade_rating: -0.11
-trade_rating_grade: F
-transaction_rating: -0.3
-transaction_rating_grade: C
+trade_description: Jeff Weltman ranks in the 63th percentile for trading among executives
+  in our database. That's basically average. It could be worse though lol.
+trade_lose_list: '<ul>
+
+  <li>Added R.J. Hampton, Gary Harris to ORL.</li>
+
+  <li>Lost Gary Clark, Aaron Gordon to DEN.</li>
+
+  </ul>'
+trade_rating: 0.11
+trade_rating_grade: B-
+trade_win_list: '<ul>
+
+  <li>Added Nikola Vučević to ORL.</li>
+
+  </ul>'
 ---

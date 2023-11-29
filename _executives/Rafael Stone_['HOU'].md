@@ -22,13 +22,32 @@ end_year: 2024
 final_bpm: -90714
 href: stonera99x
 name: Rafael Stone
+signing_rating: -0.3
+signing_rating_grade: A-
 start_year: 2020
 team:
 - Houston Rockets
 team_shortcode:
 - HOU
-trade_rating: -0.1
+trade_description: Rafael Stone ranks in the 14th percentile for trading among executives
+  in our database. That's basically average. It could be worse though lol.
+trade_lose_list: '<ul>
+
+  <li>Added Rodions Kurucs, Tari Eason, Dante Exum, MarJon Beauchamp, Victor Oladipo
+  to HOU.</li>
+
+  <li>Lost Jalen Pickett to IND.</li>
+
+  <li>Lost James Harden to BRK.</li>
+
+  </ul>'
+trade_rating: -0.24
 trade_rating_grade: F
-transaction_rating: -0.25
-transaction_rating_grade: B-
+trade_win_list: '<ul>
+
+  <li>Added Christian Wood, Luka Garza to HOU.</li>
+
+  <li>Lost Trevor Ariza, Isaiah Stewart to DET.</li>
+
+  </ul>'
 ---

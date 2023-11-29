@@ -19,13 +19,27 @@ end_year: 2024
 final_bpm: 761
 href: karniar99x
 name: Artūras Karnišovas
+signing_rating: -0.22
+signing_rating_grade: A-
 start_year: 2020
 team:
 - Chicago Bulls
 team_shortcode:
 - CHI
+trade_description: This executive has only made 70 trades and thus doesn't have a
+  trade grade.
+trade_lose_list: '<ul>
+
+  <li>Added Ayo Dosunmu to CHI.</li>
+
+  </ul>'
 trade_rating: null
 trade_rating_grade: null
-transaction_rating: -0.14
-transaction_rating_grade: A-
+trade_win_list: '<ul>
+
+  <li>Added DeMar DeRozan to CHI.</li>
+
+  <li>Lost Al-Farouq Aminu, Thaddeus Young, Kennedy Chandler to SAS.</li>
+
+  </ul>'
 ---

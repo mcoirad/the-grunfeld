@@ -15,13 +15,25 @@ end_year: 2024
 final_bpm: -21667
 href: pelinro99x
 name: Rob Pelinka
+signing_rating: -0.47
+signing_rating_grade: C
 start_year: 2019
 team:
 - Los Angeles Lakers
 team_shortcode:
 - LAL
-trade_rating: 0.0
-trade_rating_grade: D+
-transaction_rating: -0.39
-transaction_rating_grade: D-
+trade_description: Rob Pelinka ranks in the 16th percentile for trading among executives
+  in our database. That's basically average. It could be worse though lol.
+trade_lose_list: '<ul>
+
+  <li>Added Avery Bradley to LAL.</li>
+
+  </ul>'
+trade_rating: -0.23
+trade_rating_grade: F
+trade_win_list: '<ul>
+
+  <li>Added Anthony Davis to LAL.</li>
+
+  </ul>'
 ---

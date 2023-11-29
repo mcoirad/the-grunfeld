@@ -24,13 +24,25 @@ end_year: 2024
 final_bpm: -24094
 href: mcnaimo99x
 name: Monte McNair
+signing_rating: -0.33
+signing_rating_grade: B+
 start_year: 2020
 team:
 - Sacramento Kings
 team_shortcode:
 - SAC
+trade_description: Monte McNair ranks in the 48th percentile for trading among executives
+  in our database. That's basically average. It could be worse though lol.
+trade_lose_list: '<ul>
+
+  <li>Added Davion Mitchell to SAC.</li>
+
+  </ul>'
 trade_rating: 0.0
-trade_rating_grade: D+
-transaction_rating: -0.24
-transaction_rating_grade: B-
+trade_rating_grade: C
+trade_win_list: '<ul>
+
+  <li>Added Tyrese Haliburton to SAC.</li>
+
+  </ul>'
 ---

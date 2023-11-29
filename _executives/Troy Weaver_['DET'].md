@@ -24,13 +24,25 @@ end_year: 2024
 final_bpm: -81397
 href: weavetr99x
 name: Troy Weaver
+signing_rating: -0.51
+signing_rating_grade: D+
 start_year: 2020
 team:
 - Detroit Pistons
 team_shortcode:
 - DET
-trade_rating: 0.14
-trade_rating_grade: C+
-transaction_rating: -0.34
-transaction_rating_grade: D+
+trade_description: Troy Weaver ranks in the 36th percentile for trading among executives
+  in our database. That's basically average. It could be worse though lol.
+trade_lose_list: '<ul>
+
+  <li>Added Killian Hayes to DET.</li>
+
+  </ul>'
+trade_rating: -0.05
+trade_rating_grade: D+
+trade_win_list: '<ul>
+
+  <li>Added Jerami Grant, Nikola Radičević to DET.</li>
+
+  </ul>'
 ---

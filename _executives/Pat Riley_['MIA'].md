@@ -24,13 +24,30 @@ end_year: 2024
 final_bpm: 190347
 href: rileypa01x
 name: Pat Riley
+signing_rating: -0.31
+signing_rating_grade: A-
 start_year: 2008
 team:
 - Miami Heat
 team_shortcode:
 - MIA
-trade_rating: 0.26
-trade_rating_grade: B+
-transaction_rating: -0.2
-transaction_rating_grade: B
+trade_description: Pat Riley ranks in the 63th percentile for trading among executives
+  in our database. That's basically average. It could be worse though lol.
+trade_lose_list: '<ul>
+
+  <li>Added Norris Cole to MIA.</li>
+
+  <li>Lost Bojan Bogdanović to MIN.</li>
+
+  </ul>'
+trade_rating: 0.09
+trade_rating_grade: B-
+trade_win_list: '<ul>
+
+  <li>Added LeBron James to MIA.</li>
+
+  <li>Lost Milan Mačvan, Jae Crowder, Nemanja Nedović, Timothé Luwawu-Cabarrot to
+  CLE.</li>
+
+  </ul>'
 ---

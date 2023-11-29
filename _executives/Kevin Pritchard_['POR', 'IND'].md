@@ -25,6 +25,8 @@ end_year: 2024
 final_bpm: 11005
 href: pritcke01x
 name: Kevin Pritchard
+signing_rating: -0.43
+signing_rating_grade: C+
 start_year: 2017
 team:
 - Portland Trail Blazers
@@ -32,8 +34,22 @@ team:
 team_shortcode:
 - POR
 - IND
-trade_rating: 0.19
-trade_rating_grade: B
-transaction_rating: -0.26
-transaction_rating_grade: C+
+trade_description: Kevin Pritchard ranks in the 54th percentile for trading among
+  executives in our database. That's basically average. It could be worse though lol.
+trade_lose_list: '<ul>
+
+  <li>Added Juwan Howard, Aaron Holiday to POR.</li>
+
+  </ul>'
+trade_rating: 0.06
+trade_rating_grade: C+
+trade_win_list: '<ul>
+
+  <li>Added Nicolas Batum, Ben Moore to POR.</li>
+
+  <li>Lost Darrell Arthur to MEM.</li>
+
+  <li>Lost Joey Dorsey to HOU.</li>
+
+  </ul>'
 ---

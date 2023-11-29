@@ -13,13 +13,28 @@ end_year: 2024
 final_bpm: -48140
 href: cronijo99x
 name: Joe Cronin
+signing_rating: -0.23
+signing_rating_grade: A-
 start_year: 2021
 team:
 - Portland Trail Blazers
 team_shortcode:
 - POR
-trade_rating: -0.33
-trade_rating_grade: F
-transaction_rating: -0.25
-transaction_rating_grade: B-
+trade_description: 'Joe Cronin ranks in the 0th percentile for trading among executives
+  in our database. '
+trade_lose_list: '<ul>
+
+  <li>Added Eric Bledsoe, Keon Johnson, Justise Winslow, future 2nd round pick to
+  POR.</li>
+
+  <li>Lost Robert Covington, Norman Powell to LAC.</li>
+
+  </ul>'
+trade_rating: -0.67
+trade_rating_grade: F-
+trade_win_list: '<ul>
+
+  <li>Added Drew Eubanks to POR.</li>
+
+  </ul>'
 ---

@@ -28,6 +28,8 @@ end_year: 2024
 final_bpm: -273075
 href: kupchmi01x
 name: Mitch Kupchak
+signing_rating: -0.5
+signing_rating_grade: C-
 start_year: 2018
 team:
 - Los Angeles Lakers
@@ -35,8 +37,23 @@ team:
 team_shortcode:
 - LAL
 - CHA
-trade_rating: -0.05
-trade_rating_grade: D-
-transaction_rating: -0.48
-transaction_rating_grade: F
+trade_description: Mitch Kupchak ranks in the 31th percentile for trading among executives
+  in our database. That's basically average. It could be worse though lol.
+trade_lose_list: '<ul>
+
+  <li>Added Chucky Atkins, Jumaine Jones, Chris Mihm, Ray Spalding to LAL.</li>
+
+  <li>Lost Rick Fox, Gary Payton, Rajon Rondo to BOS.</li>
+
+  </ul>'
+trade_rating: -0.07
+trade_rating_grade: D
+trade_win_list: '<ul>
+
+  <li>Added Caron Butler, Brian Grant, Lamar Odom, Jordan Farmar, Renaldas Seibutis,
+  Jalen McDaniels to LAL.</li>
+
+  <li>Lost Shaquille O''Neal to MIA.</li>
+
+  </ul>'
 ---

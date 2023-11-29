@@ -28,13 +28,28 @@ end_year: 2024
 final_bpm: -134551
 href: prestsa99x
 name: Sam Presti
+signing_rating: -0.32
+signing_rating_grade: B+
 start_year: 2007
 team:
 - Oklahoma City Thunder
 team_shortcode:
 - OKC
-trade_rating: -0.02
+trade_description: Sam Presti ranks in the 31th percentile for trading among executives
+  in our database. That's basically average. It could be worse though lol.
+trade_lose_list: '<ul>
+
+  <li>Added Jeremy Lamb, Kevin Martin, Steven Adams, Álex Abrines, Mitch McGary to
+  OKC.</li>
+
+  <li>Lost Cole Aldrich, Daequan Cook, James Harden, Lazar Hayward to HOU.</li>
+
+  </ul>'
+trade_rating: -0.08
 trade_rating_grade: D
-transaction_rating: -0.2
-transaction_rating_grade: B
+trade_win_list: '<ul>
+
+  <li>Added Kevin Durant, Carl Landry, Glen Davis to OKC.</li>
+
+  </ul>'
 ---

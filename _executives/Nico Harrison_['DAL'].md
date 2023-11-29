@@ -11,13 +11,30 @@ end_year: 2024
 final_bpm: -26537
 href: harrini01x
 name: Nico Harrison
+signing_rating: -0.39
+signing_rating_grade: B-
 start_year: 2021
 team:
 - Dallas Mavericks
 team_shortcode:
 - DAL
-trade_rating: 0.0
-trade_rating_grade: D+
-transaction_rating: -0.33
-transaction_rating_grade: C-
+trade_description: Nico Harrison ranks in the 27th percentile for trading among executives
+  in our database. That's basically average. It could be worse though lol.
+trade_lose_list: '<ul>
+
+  <li>Added Davis Bertans, Spencer Dinwiddie to DAL.</li>
+
+  <li>Lost Kristaps Porzingis, Yannick Nzosa to WAS.</li>
+
+  </ul>'
+trade_rating: -0.12
+trade_rating_grade: D
+trade_win_list: '<ul>
+
+  <li>Added Kyrie Irving, Markieff Morris to DAL.</li>
+
+  <li>Lost Spencer Dinwiddie, Dorian Finney-Smith, future 2nd round pick, future 1st
+  round pick, future 2nd round pick to BRK.</li>
+
+  </ul>'
 ---

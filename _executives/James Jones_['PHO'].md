@@ -13,13 +13,27 @@ end_year: 2024
 final_bpm: -4234
 href: jonesja99x
 name: James Jones
+signing_rating: -0.34
+signing_rating_grade: B
 start_year: 2018
 team:
 - Phoenix Suns
 team_shortcode:
 - PHO
-trade_rating: 0.11
-trade_rating_grade: C+
-transaction_rating: -0.24
-transaction_rating_grade: B-
+trade_description: James Jones ranks in the 48th percentile for trading among executives
+  in our database. That's basically average. It could be worse though lol.
+trade_lose_list: '<ul>
+
+  <li>Added Jevon Carter, Kyle Korver to PHO.</li>
+
+  <li>Lost Josh Jackson, De''Anthony Melton, Robert Woodard to MEM.</li>
+
+  </ul>'
+trade_rating: 0.0
+trade_rating_grade: C
+trade_win_list: '<ul>
+
+  <li>Added Chris Paul to PHO.</li>
+
+  </ul>'
 ---

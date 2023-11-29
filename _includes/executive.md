@@ -61,7 +61,7 @@
             Trade 
           </div>
           <div class="col-md-1">
-            Transaction 
+            Signing
           </div>
         </div>
   <div class="row">
@@ -72,7 +72,7 @@
             <h3>{{ executive.trade_rating_grade}}</h3>
           </div>
           <div class="col-md-1">
-            <h3> {{ executive.transaction_rating_grade}}</h3>
+            <h3> {{ executive.signing_rating_grade}}</h3>
           </div>
         </div>
 </div>

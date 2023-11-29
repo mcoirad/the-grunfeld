@@ -20,13 +20,30 @@ end_year: 2024
 final_bpm: 15567
 href: marksse99x
 name: Sean Marks
+signing_rating: -0.31
+signing_rating_grade: B+
 start_year: 2016
 team:
 - Brooklyn Nets
 team_shortcode:
 - BRK
-trade_rating: 0.18
-trade_rating_grade: B-
-transaction_rating: -0.21
-transaction_rating_grade: B
+trade_description: Sean Marks ranks in the 50th percentile for trading among executives
+  in our database. That's basically average. It could be worse though lol.
+trade_lose_list: '<ul>
+
+  <li>Added Seth Curry, Andre Drummond, Ben Simmons, Brice Sensabaugh, future 1st
+  round pick to BRK.</li>
+
+  <li>Lost James Harden, Paul Millsap to PHI.</li>
+
+  </ul>'
+trade_rating: 0.03
+trade_rating_grade: C
+trade_win_list: '<ul>
+
+  <li>Added Kevin Durant to BRK.</li>
+
+  <li>Lost Treveon Graham, Shabazz Napier, D''Angelo Russell to GSW.</li>
+
+  </ul>'
 ---

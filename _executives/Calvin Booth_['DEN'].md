@@ -13,13 +13,23 @@ end_year: 2024
 final_bpm: -24291
 href: boothca01x
 name: Calvin Booth
+signing_rating: -0.36
+signing_rating_grade: B
 start_year: 2022
 team:
 - Denver Nuggets
 team_shortcode:
 - DEN
+trade_description: This executive has only made 30 trades and thus doesn't have a
+  trade grade.
+trade_lose_list: '<ul>
+
+  <li>Added Kentavious Caldwell-Pope, Ish Smith to DEN.</li>
+
+  <li>Lost Will Barton, Monte Morris to WAS.</li>
+
+  </ul>'
 trade_rating: null
 trade_rating_grade: null
-transaction_rating: -0.31
-transaction_rating_grade: C
+trade_win_list: null
 ---

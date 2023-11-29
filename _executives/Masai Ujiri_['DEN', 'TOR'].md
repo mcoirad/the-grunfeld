@@ -28,6 +28,8 @@ end_year: 2024
 final_bpm: 73136
 href: ujirima99x
 name: Masai Ujiri
+signing_rating: -0.15
+signing_rating_grade: A
 start_year: 2013
 team:
 - Denver Nuggets
@@ -35,8 +37,25 @@ team:
 team_shortcode:
 - DEN
 - TOR
-trade_rating: 0.19
-trade_rating_grade: B
-transaction_rating: -0.09
-transaction_rating_grade: A
+trade_description: Masai Ujiri ranks in the 90th percentile for trading among executives
+  in our database. That's basically average. It could be worse though lol.
+trade_lose_list: '<ul>
+
+  <li>Added Kosta Koufos, Wilson Chandler, Raymond Felton, Danilo Gallinari, Timofey
+  Mozgov, Quincy Miller, Romero Osby, Dario Šarić, Jamal Murray, Dwight Buycks to
+  DEN.</li>
+
+  <li>Lost Carmelo Anthony, Renaldo Balkman, Chauncey Billups, Anthony Carter, Shelden
+  Williams, Jakob Pöltl to NYK.</li>
+
+  <li>Lost Richaun Holmes to MIN.</li>
+
+  </ul>'
+trade_rating: 0.31
+trade_rating_grade: A
+trade_win_list: '<ul>
+
+  <li>Added Pascal Siakam to TOR.</li>
+
+  </ul>'
 ---

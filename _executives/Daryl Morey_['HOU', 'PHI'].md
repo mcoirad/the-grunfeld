@@ -28,6 +28,8 @@ end_year: 2024
 final_bpm: 179137
 href: moreyda99x
 name: Daryl Morey
+signing_rating: -0.36
+signing_rating_grade: B
 start_year: 2020
 team:
 - Houston Rockets
@@ -35,8 +37,20 @@ team:
 team_shortcode:
 - HOU
 - PHI
-trade_rating: 0.3
-trade_rating_grade: A-
-transaction_rating: -0.18
-transaction_rating_grade: B+
+trade_description: Daryl Morey ranks in the 74th percentile for trading among executives
+  in our database. That's basically average. It could be worse though lol.
+trade_lose_list: '<ul>
+
+  <li>Added Gary Forbes, Steven Adams, Montrezl Harrell to HOU.</li>
+
+  <li>Lost Kyle Lowry to TOR.</li>
+
+  </ul>'
+trade_rating: 0.18
+trade_rating_grade: B+
+trade_win_list: '<ul>
+
+  <li>Added James Harden to HOU.</li>
+
+  </ul>'
 ---
