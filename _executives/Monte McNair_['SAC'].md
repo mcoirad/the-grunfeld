@@ -24,25 +24,49 @@ end_year: 2024
 final_bpm: -24094
 href: mcnaimo99x
 name: Monte McNair
-signing_rating: -0.33
+signing_description: 'Monte McNair ranks in the 75th percentile for free agency signings
+  among executives in our database. '
+signing_lose_list: '<ul>
+
+  <li>Signed Chimezie Metu in 2020.</li>
+
+  <li>Signed Maurice Harkless in 2021.</li>
+
+  <li>Signed Alex Len in 2021.</li>
+
+  </ul>'
+signing_rating: -0.31
 signing_rating_grade: B+
+signing_win_list: '<ul>
+
+  <li>Signed Malik Monk in 2022.</li>
+
+  <li>Signed Damian Jones in 2021.</li>
+
+  <li>Signed Keon Ellis in 2022.</li>
+
+  </ul>'
 start_year: 2020
 team:
 - Sacramento Kings
 team_shortcode:
 - SAC
-trade_description: Monte McNair ranks in the 48th percentile for trading among executives
+trade_description: Monte McNair ranks in the 50th percentile for trading among executives
   in our database. That's basically average. It could be worse though lol.
 trade_lose_list: '<ul>
 
-  <li>Added Davion Mitchell to SAC.</li>
+  <li>Added Justin Holiday, Jeremy Lamb, Domantas Sabonis, Jordan Walsh to SAC.</li>
+
+  <li>Lost Tyrese Haliburton, Buddy Hield, Tristan Thompson to IND.</li>
 
   </ul>'
 trade_rating: 0.0
 trade_rating_grade: C
 trade_win_list: '<ul>
 
-  <li>Added Tyrese Haliburton to SAC.</li>
+  <li>Added Delon Wright to SAC.</li>
+
+  <li>Lost Cory Joseph, Luka Garza to DET.</li>
 
   </ul>'
 ---

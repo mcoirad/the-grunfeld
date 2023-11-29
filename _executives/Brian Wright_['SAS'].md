@@ -24,15 +24,35 @@ end_year: 2024
 final_bpm: -89432
 href: wrighbr99x
 name: Brian Wright
-signing_rating: -0.31
-signing_rating_grade: B+
+signing_description: 'Brian Wright ranks in the 82th percentile for free agency signings
+  among executives in our database. '
+signing_lose_list: '<ul>
+
+  <li>Signed Keita Bates-Diop in 2021.</li>
+
+  <li>Signed Dominick Barlow in 2022.</li>
+
+  <li>Signed Gorgui Dieng in 2023.</li>
+
+  </ul>'
+signing_rating: -0.22
+signing_rating_grade: A-
+signing_win_list: '<ul>
+
+  <li>Signed Dejounte Murray in 2019.</li>
+
+  <li>Signed Jakob Pöltl in 2020.</li>
+
+  <li>Signed Gorgui Dieng in 2021.</li>
+
+  </ul>'
 start_year: 2019
 team:
 - San Antonio Spurs
 team_shortcode:
 - SAS
-trade_description: Brian Wright ranks in the 18th percentile for trading among executives
-  in our database. That's basically average. It could be worse though lol.
+trade_description: 'Brian Wright ranks in the 17th percentile for trading among executives
+  in our database. '
 trade_lose_list: '<ul>
 
   <li>Added Al-Farouq Aminu, Thaddeus Young, Kennedy Chandler to SAS.</li>
@@ -44,7 +64,9 @@ trade_rating: -0.22
 trade_rating_grade: F
 trade_win_list: '<ul>
 
-  <li>Added Dejounte Murray to SAS.</li>
+  <li>Added Juan Hernangomez to SAS.</li>
+
+  <li>Lost Bryn Forbes to DEN.</li>
 
   </ul>'
 ---

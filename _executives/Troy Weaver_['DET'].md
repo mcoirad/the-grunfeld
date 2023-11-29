@@ -24,18 +24,40 @@ end_year: 2024
 final_bpm: -81397
 href: weavetr99x
 name: Troy Weaver
-signing_rating: -0.51
-signing_rating_grade: D+
+signing_description: 'Troy Weaver ranks in the 41th percentile for free agency signings
+  among executives in our database. '
+signing_lose_list: '<ul>
+
+  <li>Signed Isaiah Stewart in 2020.</li>
+
+  <li>Signed Josh Jackson in 2020.</li>
+
+  <li>Signed Cory Joseph in 2021.</li>
+
+  </ul>'
+signing_rating: -0.48
+signing_rating_grade: C-
+signing_win_list: '<ul>
+
+  <li>Signed Mason Plumlee in 2020.</li>
+
+  <li>Signed Kelly Olynyk in 2021.</li>
+
+  <li>Signed Stanley Umude in 2023.</li>
+
+  </ul>'
 start_year: 2020
 team:
 - Detroit Pistons
 team_shortcode:
 - DET
-trade_description: Troy Weaver ranks in the 36th percentile for trading among executives
-  in our database. That's basically average. It could be worse though lol.
+trade_description: 'Troy Weaver ranks in the 37th percentile for trading among executives
+  in our database. '
 trade_lose_list: '<ul>
 
-  <li>Added Killian Hayes to DET.</li>
+  <li>Added Trevor Ariza, Isaiah Stewart to DET.</li>
+
+  <li>Lost Christian Wood, Luka Garza to HOU.</li>
 
   </ul>'
 trade_rating: -0.05

@@ -28,8 +28,28 @@ end_year: 2024
 final_bpm: -273075
 href: kupchmi01x
 name: Mitch Kupchak
-signing_rating: -0.5
-signing_rating_grade: C-
+signing_description: 'Mitch Kupchak ranks in the 64th percentile for free agency signings
+  among executives in our database. '
+signing_lose_list: '<ul>
+
+  <li>Signed Stanislav Medvedenko in 2000.</li>
+
+  <li>Signed Derek Fisher in 2007.</li>
+
+  <li>Signed Josh Powell in 2008.</li>
+
+  </ul>'
+signing_rating: -0.36
+signing_rating_grade: B-
+signing_win_list: '<ul>
+
+  <li>Signed Lou Williams in 2015.</li>
+
+  <li>Signed Gary Payton in 2003.</li>
+
+  <li>Signed Karl Malone in 2003.</li>
+
+  </ul>'
 start_year: 2018
 team:
 - Los Angeles Lakers
@@ -37,21 +57,21 @@ team:
 team_shortcode:
 - LAL
 - CHA
-trade_description: Mitch Kupchak ranks in the 31th percentile for trading among executives
-  in our database. That's basically average. It could be worse though lol.
+trade_description: 'Mitch Kupchak ranks in the 38th percentile for trading among executives
+  in our database. '
 trade_lose_list: '<ul>
 
-  <li>Added Chucky Atkins, Jumaine Jones, Chris Mihm, Ray Spalding to LAL.</li>
+  <li>Added Chucky Atkins, Jumaine Jones, Chris Mihm to LAL.</li>
 
   <li>Lost Rick Fox, Gary Payton, Rajon Rondo to BOS.</li>
 
   </ul>'
-trade_rating: -0.07
-trade_rating_grade: D
+trade_rating: -0.04
+trade_rating_grade: D+
 trade_win_list: '<ul>
 
-  <li>Added Caron Butler, Brian Grant, Lamar Odom, Jordan Farmar, Renaldas Seibutis,
-  Jalen McDaniels to LAL.</li>
+  <li>Added Caron Butler, Brian Grant, Lamar Odom, Jordan Farmar, Renaldas Seibutis
+  to LAL.</li>
 
   <li>Lost Shaquille O''Neal to MIA.</li>
 

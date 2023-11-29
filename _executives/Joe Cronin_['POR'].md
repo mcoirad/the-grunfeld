@@ -13,8 +13,28 @@ end_year: 2024
 final_bpm: -48140
 href: cronijo99x
 name: Joe Cronin
-signing_rating: -0.23
+signing_description: 'Joe Cronin ranks in the 85th percentile for free agency signings
+  among executives in our database. '
+signing_lose_list: '<ul>
+
+  <li>Signed Brandon Williams in 2022.</li>
+
+  <li>Signed Anfernee Simons in 2022.</li>
+
+  <li>Signed Kris Dunn in 2022.</li>
+
+  </ul>'
+signing_rating: -0.21
 signing_rating_grade: A-
+signing_win_list: '<ul>
+
+  <li>Signed Drew Eubanks in 2022.</li>
+
+  <li>Signed Jusuf Nurkić in 2022.</li>
+
+  <li>Signed Shaquille Harrison in 2023.</li>
+
+  </ul>'
 start_year: 2021
 team:
 - Portland Trail Blazers
@@ -32,9 +52,5 @@ trade_lose_list: '<ul>
   </ul>'
 trade_rating: -0.67
 trade_rating_grade: F-
-trade_win_list: '<ul>
-
-  <li>Added Drew Eubanks to POR.</li>
-
-  </ul>'
+trade_win_list: null
 ---

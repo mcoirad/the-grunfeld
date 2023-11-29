@@ -28,8 +28,28 @@ end_year: 2024
 final_bpm: -33337
 href: conneti99x
 name: Tim Connelly
+signing_description: 'Tim Connelly ranks in the 55th percentile for free agency signings
+  among executives in our database. '
+signing_lose_list: '<ul>
+
+  <li>Signed Jeff Green in 2021.</li>
+
+  <li>Signed Jameer Nelson in 2015.</li>
+
+  <li>Signed Gary Harris in 2017.</li>
+
+  </ul>'
 signing_rating: -0.41
 signing_rating_grade: C+
+signing_win_list: '<ul>
+
+  <li>Signed Nikola Jokić in 2018.</li>
+
+  <li>Signed Jamal Murray in 2019.</li>
+
+  <li>Signed Mason Plumlee in 2017.</li>
+
+  </ul>'
 start_year: 2022
 team:
 - Denver Nuggets
@@ -37,22 +57,22 @@ team:
 team_shortcode:
 - DEN
 - MIN
-trade_description: Tim Connelly ranks in the 12th percentile for trading among executives
-  in our database. That's basically average. It could be worse though lol.
+trade_description: 'Tim Connelly ranks in the 19th percentile for trading among executives
+  in our database. '
 trade_lose_list: '<ul>
 
-  <li>Added Erick Green, Walker Kessler, TyTy Washington Jr. to DEN.</li>
+  <li>Added Erick Green to DEN.</li>
 
   <li>Lost Rudy Gobert to UTA.</li>
 
-  <li>Lost Jake LaRavia, Gregory Jackson to MEM.</li>
-
   </ul>'
-trade_rating: -0.29
+trade_rating: -0.2
 trade_rating_grade: F
 trade_win_list: '<ul>
 
-  <li>Added Nikola Jokić to DEN.</li>
+  <li>Added Gary Clark, Aaron Gordon to DEN.</li>
+
+  <li>Lost R.J. Hampton, Gary Harris to ORL.</li>
 
   </ul>'
 ---

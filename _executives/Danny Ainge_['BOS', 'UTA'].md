@@ -28,8 +28,28 @@ end_year: 2024
 final_bpm: 437218
 href: aingeda01x
 name: Danny Ainge
-signing_rating: -0.2
+signing_description: 'Danny Ainge ranks in the 91th percentile for free agency signings
+  among executives in our database. '
+signing_lose_list: '<ul>
+
+  <li>Signed Brian Scalabrine in 2005.</li>
+
+  <li>Signed Jonas Jerebko in 2015.</li>
+
+  <li>Signed Phil Pressey in 2013.</li>
+
+  </ul>'
+signing_rating: -0.17
 signing_rating_grade: A
+signing_win_list: '<ul>
+
+  <li>Signed Al Horford in 2016.</li>
+
+  <li>Signed Jaylen Brown in 2019.</li>
+
+  <li>Signed Eddie House in 2007.</li>
+
+  </ul>'
 start_year: 2021
 team:
 - Boston Celtics
@@ -37,18 +57,22 @@ team:
 team_shortcode:
 - BOS
 - UTA
-trade_description: Danny Ainge ranks in the 90th percentile for trading among executives
-  in our database. That's basically average. It could be worse though lol.
+trade_description: 'Danny Ainge ranks in the 86th percentile for trading among executives
+  in our database. '
 trade_lose_list: '<ul>
 
-  <li>Added Gerald Green, Ryan Gomes, Orien Greene, Paris Bass to BOS.</li>
+  <li>Added Keyonte Johnson to BOS.</li>
+
+  <li>Lost Enes Kanter to POR.</li>
+
+  <li>Lost Desmond Bane to MEM.</li>
 
   </ul>'
-trade_rating: 0.31
-trade_rating_grade: A
+trade_rating: 0.27
+trade_rating_grade: A-
 trade_win_list: '<ul>
 
-  <li>Added Kevin Garnett, Luka Šamanić to BOS.</li>
+  <li>Added Kevin Garnett to BOS.</li>
 
   <li>Lost Ryan Gomes, Gerald Green, Al Jefferson, Theo Ratliff, Sebastian Telfair,
   Wayne Ellington, Jonny Flynn to MIN.</li>

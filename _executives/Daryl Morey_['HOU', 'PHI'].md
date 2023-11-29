@@ -28,8 +28,28 @@ end_year: 2024
 final_bpm: 179137
 href: moreyda99x
 name: Daryl Morey
-signing_rating: -0.36
-signing_rating_grade: B
+signing_description: 'Daryl Morey ranks in the 76th percentile for free agency signings
+  among executives in our database. '
+signing_lose_list: '<ul>
+
+  <li>Signed P.J. Tucker in 2017.</li>
+
+  <li>Signed Eric Gordon in 2019.</li>
+
+  <li>Signed Corey Brewer in 2015.</li>
+
+  </ul>'
+signing_rating: -0.3
+signing_rating_grade: B+
+signing_win_list: '<ul>
+
+  <li>Signed James Harden in 2016.</li>
+
+  <li>Signed James Harden in 2022.</li>
+
+  <li>Signed Trevor Ariza in 2009.</li>
+
+  </ul>'
 start_year: 2020
 team:
 - Houston Rockets
@@ -37,20 +57,23 @@ team:
 team_shortcode:
 - HOU
 - PHI
-trade_description: Daryl Morey ranks in the 74th percentile for trading among executives
-  in our database. That's basically average. It could be worse though lol.
+trade_description: 'Daryl Morey ranks in the 77th percentile for trading among executives
+  in our database. '
 trade_lose_list: '<ul>
 
-  <li>Added Gary Forbes, Steven Adams, Montrezl Harrell to HOU.</li>
+  <li>Added Gary Forbes, Steven Adams to HOU.</li>
 
   <li>Lost Kyle Lowry to TOR.</li>
 
   </ul>'
-trade_rating: 0.18
+trade_rating: 0.2
 trade_rating_grade: B+
 trade_win_list: '<ul>
 
-  <li>Added James Harden to HOU.</li>
+  <li>Added Cole Aldrich, Daequan Cook, James Harden, Lazar Hayward to HOU.</li>
+
+  <li>Lost Jeremy Lamb, Kevin Martin, Steven Adams, Álex Abrines, Mitch McGary to
+  OKC.</li>
 
   </ul>'
 ---

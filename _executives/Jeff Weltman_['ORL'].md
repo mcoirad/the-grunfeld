@@ -22,15 +22,35 @@ end_year: 2024
 final_bpm: -128584
 href: weltmje01x
 name: Jeff Weltman
-signing_rating: -0.35
+signing_description: 'Jeff Weltman ranks in the 72th percentile for free agency signings
+  among executives in our database. '
+signing_lose_list: '<ul>
+
+  <li>Signed Terrence Ross in 2019.</li>
+
+  <li>Signed Jonathon Simmons in 2017.</li>
+
+  <li>Signed Dwayne Bacon in 2020.</li>
+
+  </ul>'
+signing_rating: -0.33
 signing_rating_grade: B
+signing_win_list: '<ul>
+
+  <li>Signed Nikola Vučević in 2019.</li>
+
+  <li>Signed Moritz Wagner in 2021.</li>
+
+  <li>Signed Aaron Gordon in 2018.</li>
+
+  </ul>'
 start_year: 2017
 team:
 - Orlando Magic
 team_shortcode:
 - ORL
-trade_description: Jeff Weltman ranks in the 63th percentile for trading among executives
-  in our database. That's basically average. It could be worse though lol.
+trade_description: 'Jeff Weltman ranks in the 64th percentile for trading among executives
+  in our database. '
 trade_lose_list: '<ul>
 
   <li>Added R.J. Hampton, Gary Harris to ORL.</li>
@@ -42,7 +62,9 @@ trade_rating: 0.11
 trade_rating_grade: B-
 trade_win_list: '<ul>
 
-  <li>Added Nikola Vučević to ORL.</li>
+  <li>Added Jerian Grant, Timofey Mozgov to ORL.</li>
+
+  <li>Lost Bismack Biyombo, Cody Martin, Yam Madar to CHO.</li>
 
   </ul>'
 ---

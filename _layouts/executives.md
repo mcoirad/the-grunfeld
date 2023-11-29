@@ -54,10 +54,27 @@ layout: default
     </div>
     <div class="col-md-9">
       {{ executive.trade_description}}
-      <h5>Some of their biggest wins:</h5>
+      <h5>Their biggest win:</h5>
       {{ executive.trade_win_list}}
-      <h5>Some of their biggest Ls:</h5>
+      <h5>Their biggest L:</h5>
       {{ executive.trade_lose_list}}
+    </div>
+  </div>
+</div>
+<hr>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-3">
+      <h3> Signing Rating:</h3>
+      <p style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);"> {{ executive.signing_rating_grade}}</h3>
+    </div>
+    <div class="col-md-9">
+      {{ executive.signing_description}}
+      <h5>Their best signings:</h5>
+      {{ executive.signing_win_list}}
+      <h5>Their worst signings:</h5>
+      {{ executive.signing_lose_list}}
     </div>
   </div>
 </div>

@@ -11,15 +11,23 @@ end_year: 2024
 final_bpm: 16729
 href: fieldla01x
 name: Landry Fields
-signing_rating: -0.12
-signing_rating_grade: A
+signing_description: This executive has only made 6 signings in free agency and thus
+  doesn't have a signing grade.
+signing_lose_list: '<ul>
+
+  <li>Signed Donovan Williams in 2023.</li>
+
+  </ul>'
+signing_rating: .nan
+signing_rating_grade: null
+signing_win_list: null
 start_year: 2022
 team:
 - Atlanta Hawks
 team_shortcode:
 - ATL
-trade_description: This executive has only made 16 trades and thus doesn't have a
-  trade grade.
+trade_description: This executive has only made 6 trades and thus doesn't have a trade
+  grade.
 trade_lose_list: '<ul>
 
   <li>Added Bruno Fernando, Garrison Mathews to ATL.</li>

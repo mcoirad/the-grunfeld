@@ -25,8 +25,28 @@ end_year: 2024
 final_bpm: 11005
 href: pritcke01x
 name: Kevin Pritchard
-signing_rating: -0.43
-signing_rating_grade: C+
+signing_description: 'Kevin Pritchard ranks in the 63th percentile for free agency
+  signings among executives in our database. '
+signing_lose_list: '<ul>
+
+  <li>Signed Oshae Brisset in 2021.</li>
+
+  <li>Signed Juwan Howard in 2009.</li>
+
+  <li>Signed Justin Holiday in 2020.</li>
+
+  </ul>'
+signing_rating: -0.37
+signing_rating_grade: B-
+signing_win_list: '<ul>
+
+  <li>Signed Domantas Sabonis in 2019.</li>
+
+  <li>Signed Darren Collison in 2017.</li>
+
+  <li>Signed Andre Miller in 2009.</li>
+
+  </ul>'
 start_year: 2017
 team:
 - Portland Trail Blazers
@@ -34,18 +54,21 @@ team:
 team_shortcode:
 - POR
 - IND
-trade_description: Kevin Pritchard ranks in the 54th percentile for trading among
+trade_description: Kevin Pritchard ranks in the 52th percentile for trading among
   executives in our database. That's basically average. It could be worse though lol.
 trade_lose_list: '<ul>
 
-  <li>Added Juwan Howard, Aaron Holiday to POR.</li>
+  <li>Added Malik Fitts, Juwan Morgan, Aaron Nesmith, Nik Stauskas, Daniel Theis,
+  Julian Strawther to IND.</li>
+
+  <li>Lost Malcolm Brogdon to BOS.</li>
 
   </ul>'
-trade_rating: 0.06
-trade_rating_grade: C+
+trade_rating: 0.05
+trade_rating_grade: C
 trade_win_list: '<ul>
 
-  <li>Added Nicolas Batum, Ben Moore to POR.</li>
+  <li>Added Nicolas Batum to POR.</li>
 
   <li>Lost Darrell Arthur to MEM.</li>
 

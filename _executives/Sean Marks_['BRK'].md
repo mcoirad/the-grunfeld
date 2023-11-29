@@ -20,14 +20,34 @@ end_year: 2024
 final_bpm: 15567
 href: marksse99x
 name: Sean Marks
-signing_rating: -0.31
+signing_description: 'Sean Marks ranks in the 74th percentile for free agency signings
+  among executives in our database. '
+signing_lose_list: '<ul>
+
+  <li>Signed Isaiah Whitehead in 2016.</li>
+
+  <li>Signed Timothe Luwawu-Cabarrot in 2020.</li>
+
+  <li>Signed Sean Kilpatrick in 2016.</li>
+
+  </ul>'
+signing_rating: -0.32
 signing_rating_grade: B+
+signing_win_list: '<ul>
+
+  <li>Signed Kyrie Irving in 2019.</li>
+
+  <li>Signed Nicolas Claxton in 2022.</li>
+
+  <li>Signed DeAndre Jordan in 2019.</li>
+
+  </ul>'
 start_year: 2016
 team:
 - Brooklyn Nets
 team_shortcode:
 - BRK
-trade_description: Sean Marks ranks in the 50th percentile for trading among executives
+trade_description: Sean Marks ranks in the 51th percentile for trading among executives
   in our database. That's basically average. It could be worse though lol.
 trade_lose_list: '<ul>
 

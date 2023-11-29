@@ -26,15 +26,35 @@ end_year: 2024
 final_bpm: -64995
 href: altmako01x
 name: Koby Altman
+signing_description: 'Koby Altman ranks in the 58th percentile for free agency signings
+  among executives in our database. '
+signing_lose_list: '<ul>
+
+  <li>Signed Cedi Osman in 2019.</li>
+
+  <li>Signed Cedi Osman in 2017.</li>
+
+  <li>Signed Lamar Stevens in 2020.</li>
+
+  </ul>'
 signing_rating: -0.39
-signing_rating_grade: B-
+signing_rating_grade: C+
+signing_win_list: '<ul>
+
+  <li>Signed Kevin Love in 2018.</li>
+
+  <li>Signed Jarrett Allen in 2021.</li>
+
+  <li>Signed Larry Nance Jr. in 2018.</li>
+
+  </ul>'
 start_year: 2017
 team:
 - Cleveland Cavaliers
 team_shortcode:
 - CLE
-trade_description: Koby Altman ranks in the 57th percentile for trading among executives
-  in our database. That's basically average. It could be worse though lol.
+trade_description: 'Koby Altman ranks in the 55th percentile for trading among executives
+  in our database. '
 trade_lose_list: '<ul>
 
   <li>Added Jae Crowder, Isaiah Thomas, Ante Žižić, Collin Sexton, Skylar Mays to
@@ -47,7 +67,11 @@ trade_rating: 0.07
 trade_rating_grade: C+
 trade_win_list: '<ul>
 
-  <li>Added Kevin Love to CLE.</li>
+  <li>Added Donovan Mitchell to CLE.</li>
+
+  <li>Lost Ochai Agbaji, Lauri Markkanen, Collin Sexton, future 1st round pick, future
+  1st round pick, future 1st round pick, future 1st round pick, future 1st round pick
+  to UTA.</li>
 
   </ul>'
 ---

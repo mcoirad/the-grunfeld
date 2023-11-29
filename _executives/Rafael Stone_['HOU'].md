@@ -22,15 +22,35 @@ end_year: 2024
 final_bpm: -90714
 href: stonera99x
 name: Rafael Stone
-signing_rating: -0.3
+signing_description: 'Rafael Stone ranks in the 81th percentile for free agency signings
+  among executives in our database. '
+signing_lose_list: '<ul>
+
+  <li>Signed Daishen Nix in 2021.</li>
+
+  <li>Signed Jae''Sean Tate in 2020.</li>
+
+  <li>Signed Kenyon Martin Jr. in 2020.</li>
+
+  </ul>'
+signing_rating: -0.26
 signing_rating_grade: A-
+signing_win_list: '<ul>
+
+  <li>Signed Alperen Şengün in 2021.</li>
+
+  <li>Signed Boban Marjanović in 2023.</li>
+
+  <li>Signed Trevelin Queen in 2021.</li>
+
+  </ul>'
 start_year: 2020
 team:
 - Houston Rockets
 team_shortcode:
 - HOU
-trade_description: Rafael Stone ranks in the 14th percentile for trading among executives
-  in our database. That's basically average. It could be worse though lol.
+trade_description: 'Rafael Stone ranks in the 12th percentile for trading among executives
+  in our database. '
 trade_lose_list: '<ul>
 
   <li>Added Rodions Kurucs, Tari Eason, Dante Exum, MarJon Beauchamp, Victor Oladipo

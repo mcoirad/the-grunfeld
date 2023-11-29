@@ -24,15 +24,35 @@ end_year: 2024
 final_bpm: 190347
 href: rileypa01x
 name: Pat Riley
-signing_rating: -0.31
-signing_rating_grade: A-
+signing_description: 'Pat Riley ranks in the 78th percentile for free agency signings
+  among executives in our database. '
+signing_lose_list: '<ul>
+
+  <li>Signed Gabe Vincent in 2021.</li>
+
+  <li>Signed Rodney McGruder in 2016.</li>
+
+  <li>Signed Kendrick Nunn in 2019.</li>
+
+  </ul>'
+signing_rating: -0.3
+signing_rating_grade: B+
+signing_win_list: '<ul>
+
+  <li>Signed Dwyane Wade in 2010.</li>
+
+  <li>Signed Hassan Whiteside in 2014.</li>
+
+  <li>Signed Hassan Whiteside in 2016.</li>
+
+  </ul>'
 start_year: 2008
 team:
 - Miami Heat
 team_shortcode:
 - MIA
-trade_description: Pat Riley ranks in the 63th percentile for trading among executives
-  in our database. That's basically average. It could be worse though lol.
+trade_description: 'Pat Riley ranks in the 60th percentile for trading among executives
+  in our database. '
 trade_lose_list: '<ul>
 
   <li>Added Norris Cole to MIA.</li>
