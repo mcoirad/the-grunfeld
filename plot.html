@@ -53,7 +53,7 @@ d3.csv("https://raw.githubusercontent.com/mcoirad/the-grunfeld/master/_data/aing
 
     // Add Y axis
     var y = d3.scaleLinear()
-      .domain( [8000, 9200])
+      .domain(d3.extent(data, function(d) { return d.value; }))
       .range([ height, 0 ]);
     svg.append("g")
       .call(d3.axisLeft(y));
