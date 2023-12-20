@@ -1,5 +1,5 @@
 ---
-bpm_rank: 26
+bpm_rank: 132
 draft_bust_list: '<ul>
 
   <li>Drafted Malaki Branham with 20th pick but was worth 45th pick.</li>

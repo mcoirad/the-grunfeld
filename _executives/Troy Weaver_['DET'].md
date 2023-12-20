@@ -1,5 +1,5 @@
 ---
-bpm_rank: 25
+bpm_rank: 128
 draft_bust_list: '<ul>
 
   <li>Drafted Killian Hayes with 7th pick but was worth 58th pick.</li>

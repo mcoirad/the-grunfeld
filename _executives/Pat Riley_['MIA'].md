@@ -1,5 +1,5 @@
 ---
-bpm_rank: 2
+bpm_rank: 10
 draft_bust_list: '<ul>
 
   <li>Drafted Justise Winslow with 10th pick but was worth 40th pick.</li>

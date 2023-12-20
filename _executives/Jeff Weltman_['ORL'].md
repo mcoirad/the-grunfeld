@@ -1,5 +1,5 @@
 ---
-bpm_rank: 28
+bpm_rank: 145
 draft_bust_list: '<ul>
 
   <li>Drafted Mohamed Bamba with 6th pick but was worth 13th pick.</li>

@@ -1,5 +1,5 @@
 ---
-bpm_rank: 4
+bpm_rank: 14
 draft_bust_list: '<ul>
 
   <li>Drafted Kira Lewis Jr. with 13th pick but was worth 39th pick.</li>

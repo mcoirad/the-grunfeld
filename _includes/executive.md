@@ -1,13 +1,14 @@
 {% assign executive = include.executive %}
+{% assign shortcode = executive.team_shortcode %}
 <div class="container">
   <div class="row">
-    <div class="col-lg-4">
-      <img src="{{ executive.image_url }}" class="img-fluid w-100">
+    <div class="col-lg-3">
+      <img src="../assets/img/logos/{{ executive.team_shortcode | last | downcase }}.png" class="img-fluid w-100" style="outline: thick solid #000;">
       <div class="position-absolute bottom-0 text-light" style="background-color: rgba(0, 0, 0, 0.5)">
         <h3 class="p-2 m-0">Rank: {{ executive.bpm_rank }}</h3>
       </div>
     </div>
-    <div class="col-lg-8">
+    <div class="col-lg-9">
       <article class="post-preview">
         <a href="{{ executive.url | prepend: site.baseurl | replace: '//', '/' }}">
           <h2 class="post-title">{{ executive.name }}</h2>

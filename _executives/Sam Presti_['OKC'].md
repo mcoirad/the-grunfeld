@@ -1,5 +1,5 @@
 ---
-bpm_rank: 29
+bpm_rank: 149
 draft_bust_list: '<ul>
 
   <li>Drafted Terrance Ferguson with 21th pick but was worth 52th pick.</li>

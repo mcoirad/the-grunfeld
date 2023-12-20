@@ -1,5 +1,5 @@
 ---
-bpm_rank: 6
+bpm_rank: 33
 draft_bust_list: '<ul>
 
   <li>Drafted D.J. Wilson with 17th pick but was worth 37th pick.</li>

@@ -1,5 +1,5 @@
 ---
-bpm_rank: 3
+bpm_rank: 12
 draft_bust_list: '<ul>
 
   <li>Drafted Marcus Morris with 14th pick but was worth 44th pick.</li>

@@ -1,5 +1,5 @@
 ---
-bpm_rank: 13
+bpm_rank: 52
 draft_bust_list: '<ul>
 
   <li>Drafted Dante Cunningham with 33th pick but was worth 50th pick.</li>

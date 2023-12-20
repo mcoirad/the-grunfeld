@@ -1,5 +1,5 @@
 ---
-bpm_rank: 24
+bpm_rank: 121
 draft_bust_list: '<ul>
 
   <li>Drafted Collin Sexton with 8th pick but was worth 56th pick.</li>

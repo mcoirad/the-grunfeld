@@ -1,5 +1,5 @@
 ---
-bpm_rank: 19
+bpm_rank: 91
 draft_bust_list: '<ul>
 
   <li>Drafted Davion Mitchell with 9th pick but was worth 55th pick.</li>
