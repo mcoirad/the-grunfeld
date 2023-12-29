@@ -3,10 +3,16 @@
 <div class="container">
   <div class="row">
     <div class="col-lg-3">
-      <img src="../assets/img/logos/{{ executive.team_shortcode | last | downcase }}.png" class="img-fluid w-100" style="outline: thick solid #000;">
-      <div class="position-absolute bottom-0 text-light" style="background-color: rgba(0, 0, 0, 0.5)">
-        <h3 class="p-2 m-0">Rank: {{ executive.bpm_rank }}</h3>
-      </div>
+      <article class="post-preview">
+        <a>
+          <h2 class="post-title">Rank: {{ executive.bpm_rank }}</h3>
+        </a>
+        <img src="../assets/img/headshots/{{ executive.href }}.png" class="img-fluid w-100" style="outline: thick solid #000;">
+        <!-- <img src="../assets/img/logos/{{ executive.team_shortcode | last | downcase }}.png" class="img-fluid w-100" style="outline: thick solid #000;"> -->
+        <div class="position-absolute bottom-0 text-light" style="background-color: rgba(0, 0, 0, 0.5)">
+          <!-- <h3 class="p-2 m-0">Rank: {{ executive.bpm_rank }}</h3> -->
+        </div>
+      </article>
     </div>
     <div class="col-lg-9">
       <article class="post-preview">
@@ -27,8 +33,8 @@
           {% endif %}
           &middot; Points: {{ executive.final_bpm }}
         </p>
-        
-        <div class="accordion" id="accordionExample{{ name_clean }}">
+      
+      <!--<div class="accordion" id="accordionExample{{ name_clean }}">
           <div class="accordion-item">
             <h2 class="accordion-header" id="headingOne{{ name_clean }}">
               <button
@@ -49,9 +55,9 @@
             </div>
           </div>
           
-        </div>
+        </div> -->
       </article>
-      
+      <img src="../assets/img/preview_plots/{{ executive.href }}.png" class="img-fluid w-100">
     </div>
   </div>
     <div class="row">

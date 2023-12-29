@@ -1,5 +1,5 @@
 ---
-bpm_rank: 12
+bpm_rank: 3
 draft_bust_list: '<ul>
 
   <li>Drafted Marcus Morris with 14th pick but was worth 44th pick.</li>
@@ -28,7 +28,7 @@ end_year: 2024
 final_bpm: 179137
 href: moreyda99x
 name: Daryl Morey
-signing_description: 'Daryl Morey ranks in the 76th percentile for free agency signings
+signing_description: 'Daryl Morey ranks in the 75th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 

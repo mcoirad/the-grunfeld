@@ -1,5 +1,5 @@
 ---
-bpm_rank: 52
+bpm_rank: 13
 draft_bust_list: '<ul>
 
   <li>Drafted Dante Cunningham with 33th pick but was worth 50th pick.</li>
@@ -36,7 +36,7 @@ signing_lose_list: '<ul>
   <li>Signed Justin Holiday in 2020.</li>
 
   </ul>'
-signing_rating: -0.37
+signing_rating: -0.36
 signing_rating_grade: B-
 signing_win_list: '<ul>
 

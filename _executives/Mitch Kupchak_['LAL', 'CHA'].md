@@ -1,5 +1,5 @@
 ---
-bpm_rank: 160
+bpm_rank: 30
 draft_bust_list: '<ul>
 
   <li>Drafted Brandon Ingram with 2th pick but was worth 25th pick.</li>

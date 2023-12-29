@@ -1,5 +1,5 @@
 ---
-bpm_rank: 28
+bpm_rank: 5
 draft_bust_list: '<ul>
 
   <li>Drafted Evan Fournier with 20th pick but was worth 52th pick.</li>

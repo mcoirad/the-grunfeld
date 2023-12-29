@@ -1,5 +1,5 @@
 ---
-bpm_rank: 14
+bpm_rank: 4
 draft_bust_list: '<ul>
 
   <li>Drafted Kira Lewis Jr. with 13th pick but was worth 39th pick.</li>
@@ -24,7 +24,7 @@ end_year: 2024
 final_bpm: 174123
 href: griffin01x
 name: David Griffin
-signing_description: 'David Griffin ranks in the 77th percentile for free agency signings
+signing_description: 'David Griffin ranks in the 76th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 

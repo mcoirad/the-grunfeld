@@ -1,5 +1,5 @@
 ---
-bpm_rank: 132
+bpm_rank: 26
 draft_bust_list: '<ul>
 
   <li>Drafted Malaki Branham with 20th pick but was worth 45th pick.</li>
@@ -24,7 +24,7 @@ end_year: 2024
 final_bpm: -89432
 href: wrighbr99x
 name: Brian Wright
-signing_description: 'Brian Wright ranks in the 82th percentile for free agency signings
+signing_description: 'Brian Wright ranks in the 85th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -35,7 +35,7 @@ signing_lose_list: '<ul>
   <li>Signed Gorgui Dieng in 2023.</li>
 
   </ul>'
-signing_rating: -0.22
+signing_rating: -0.21
 signing_rating_grade: A-
 signing_win_list: '<ul>
 

@@ -1,5 +1,5 @@
 ---
-bpm_rank: 46
+bpm_rank: 10
 draft_bust_list: null
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.

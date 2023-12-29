@@ -1,5 +1,5 @@
 ---
-bpm_rank: 109
+bpm_rank: 23
 draft_bust_list: null
 draft_description: This executive has only drafted 2 players and thus doesn't have
   a draft grade.
@@ -13,7 +13,7 @@ end_year: 2024
 final_bpm: -48140
 href: cronijo99x
 name: Joe Cronin
-signing_description: 'Joe Cronin ranks in the 85th percentile for free agency signings
+signing_description: 'Joe Cronin ranks in the 84th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 

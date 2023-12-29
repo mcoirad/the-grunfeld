@@ -1,5 +1,5 @@
 ---
-bpm_rank: 91
+bpm_rank: 19
 draft_bust_list: '<ul>
 
   <li>Drafted Davion Mitchell with 9th pick but was worth 55th pick.</li>
@@ -24,7 +24,7 @@ end_year: 2024
 final_bpm: -24094
 href: mcnaimo99x
 name: Monte McNair
-signing_description: 'Monte McNair ranks in the 75th percentile for free agency signings
+signing_description: 'Monte McNair ranks in the 78th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -35,7 +35,7 @@ signing_lose_list: '<ul>
   <li>Signed Alex Len in 2021.</li>
 
   </ul>'
-signing_rating: -0.31
+signing_rating: -0.3
 signing_rating_grade: B+
 signing_win_list: '<ul>
 

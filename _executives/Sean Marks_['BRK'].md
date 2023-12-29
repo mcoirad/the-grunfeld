@@ -1,5 +1,5 @@
 ---
-bpm_rank: 49
+bpm_rank: 12
 draft_bust_list: null
 draft_description: Sean Marks ranks in the 93th percentile for drafting among executives
   in our database. Marks's draft picks average out to be worth the equivalent of 12

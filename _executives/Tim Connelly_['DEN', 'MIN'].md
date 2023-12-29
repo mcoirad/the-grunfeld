@@ -1,5 +1,5 @@
 ---
-bpm_rank: 100
+bpm_rank: 22
 draft_bust_list: '<ul>
 
   <li>Drafted Emmanuel Mudiay with 7th pick but was worth 42th pick.</li>

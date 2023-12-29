@@ -1,5 +1,5 @@
 ---
-bpm_rank: 74
+bpm_rank: 17
 draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
   a draft grade.
@@ -11,7 +11,7 @@ end_year: 2024
 final_bpm: -6036
 href: wingemi99x
 name: Michael Winger
-signing_description: This executive has only made 6 signings in free agency and thus
+signing_description: This executive has only made 7 signings in free agency and thus
   doesn't have a signing grade.
 signing_lose_list: null
 signing_rating: .nan

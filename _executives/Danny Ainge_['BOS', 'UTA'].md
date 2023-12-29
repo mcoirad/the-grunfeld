@@ -1,5 +1,5 @@
 ---
-bpm_rank: 2
+bpm_rank: 1
 draft_bust_list: '<ul>
 
   <li>Drafted Jeff Green with 5th pick but was worth 48th pick.</li>

@@ -1,5 +1,5 @@
 ---
-bpm_rank: 133
+bpm_rank: 27
 draft_bust_list: '<ul>
 
   <li>Drafted Jalen Green with 2th pick but was worth 54th pick.</li>

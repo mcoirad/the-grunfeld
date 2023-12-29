@@ -1,5 +1,5 @@
 ---
-bpm_rank: 59
+bpm_rank: 14
 draft_bust_list: '<ul>
 
   <li>Drafted Patrick Williams with 4th pick but was worth 48th pick.</li>
