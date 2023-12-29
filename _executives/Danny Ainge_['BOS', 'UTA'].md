@@ -1,4 +1,5 @@
 ---
+badges: shark,rebuilder,smallmarket
 bpm_rank: 1
 draft_bust_list: '<ul>
 

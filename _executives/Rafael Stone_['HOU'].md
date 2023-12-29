@@ -1,4 +1,5 @@
 ---
+badges: tanker,baddrafter
 bpm_rank: 27
 draft_bust_list: '<ul>
 

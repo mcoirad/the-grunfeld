@@ -1,4 +1,5 @@
 ---
+badges: lucky,smallmarket,gambler,superteam,champion
 bpm_rank: 4
 draft_bust_list: '<ul>
 

@@ -1,4 +1,5 @@
 ---
+badges: mediocre,gambler,badluck
 bpm_rank: 14
 draft_bust_list: '<ul>
 

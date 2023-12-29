@@ -1,4 +1,5 @@
 ---
+badges: shark,greatdrafter,optimizer
 bpm_rank: 3
 draft_bust_list: '<ul>
 

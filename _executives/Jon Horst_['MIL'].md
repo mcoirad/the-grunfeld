@@ -1,4 +1,5 @@
 ---
+badges: gambler,champion,optimizer
 bpm_rank: 6
 draft_bust_list: '<ul>
 

@@ -1,4 +1,5 @@
 ---
+badges: lucky,gambler,rebuilder
 bpm_rank: 22
 draft_bust_list: '<ul>
 

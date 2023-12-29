@@ -1,4 +1,5 @@
 ---
+badges: gambler,greatdrafter,champion
 bpm_rank: 5
 draft_bust_list: '<ul>
 

@@ -1,4 +1,5 @@
 ---
+badges: tanker,squanderer
 bpm_rank: 26
 draft_bust_list: '<ul>
 

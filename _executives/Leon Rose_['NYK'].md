@@ -1,4 +1,5 @@
 ---
+badges: destination,noob
 bpm_rank: 7
 draft_bust_list: null
 draft_description: This executive has only drafted 2 players and thus doesn't have
@@ -12,7 +13,7 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2024
-final_bpm: 42903
+final_bpm: 42860
 href: rosele99x
 name: Leon Rose
 signing_description: 'Leon Rose ranks in the 95th percentile for free agency signings
@@ -26,7 +27,7 @@ signing_lose_list: '<ul>
   <li>Signed Taj Gibson in 2021.</li>
 
   </ul>'
-signing_rating: -0.06
+signing_rating: -0.07
 signing_rating_grade: A+
 signing_win_list: '<ul>
 

@@ -1,4 +1,5 @@
 ---
+badges: baddrafter,rebuilder
 bpm_rank: 28
 draft_bust_list: '<ul>
 

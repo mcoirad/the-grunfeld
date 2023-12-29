@@ -1,4 +1,5 @@
 ---
+badges: squanderer
 bpm_rank: 23
 draft_bust_list: null
 draft_description: This executive has only drafted 2 players and thus doesn't have

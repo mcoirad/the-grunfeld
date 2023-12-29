@@ -1,4 +1,5 @@
 ---
+badges: rebuilder
 bpm_rank: 9
 draft_bust_list: null
 draft_description: This executive has only drafted 2 players and thus doesn't have

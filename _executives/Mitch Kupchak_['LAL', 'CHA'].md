@@ -1,4 +1,5 @@
 ---
+badges: squanderer,mediocre
 bpm_rank: 30
 draft_bust_list: '<ul>
 

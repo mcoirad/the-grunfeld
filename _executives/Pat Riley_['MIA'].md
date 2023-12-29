@@ -1,4 +1,5 @@
 ---
+badges: godfather,superteam,destination,champion
 bpm_rank: 2
 draft_bust_list: '<ul>
 

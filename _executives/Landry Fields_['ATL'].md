@@ -1,4 +1,5 @@
 ---
+badges: noob
 bpm_rank: 11
 draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
@@ -11,7 +12,7 @@ end_year: 2024
 final_bpm: 16729
 href: fieldla01x
 name: Landry Fields
-signing_description: This executive has only made 6 signings in free agency and thus
+signing_description: This executive has only made 7 signings in free agency and thus
   doesn't have a signing grade.
 signing_lose_list: '<ul>
 

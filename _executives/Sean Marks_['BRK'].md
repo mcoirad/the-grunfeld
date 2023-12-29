@@ -1,4 +1,5 @@
 ---
+badges: superteam,greatdrafter,badluck
 bpm_rank: 12
 draft_bust_list: null
 draft_description: Sean Marks ranks in the 93th percentile for drafting among executives

@@ -1,4 +1,5 @@
 ---
+badges: gambler,squanderer
 bpm_rank: 24
 draft_bust_list: '<ul>
 

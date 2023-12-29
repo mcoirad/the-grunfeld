@@ -1,4 +1,5 @@
 ---
+badges: tanker,rebuilder,superteam,smallmarket
 bpm_rank: 29
 draft_bust_list: '<ul>
 
