@@ -68,6 +68,8 @@
     <script src="https://d3js.org/d3.v5.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/luxon/3.4.4/luxon.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-adapter-luxon/0.2.1/chartjs-adapter-luxon.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-annotation/3.0.1/chartjs-plugin-annotation.min.js"></script>
+
   </head>
 
 <header class="masthead">
@@ -75,6 +77,7 @@
     <div class="container">
         <div class="row">
             <div class="page-heading">
+                <img src="../assets/img/headshots/babcoro99x.png" >
                 <h1>Rob Babcock</h1>
                 <h2></h2>
                 <h3 class="post-subtitle">
@@ -92,125 +95,11 @@
 
 
 
-<div class="container">
-  <div class="row">
-    <div class="col-lg-3">
-      <article class="post-preview">
-        <a>
-          <h2 class="post-title">Rank: 126</h3>
-        </a>
-        <img src="../assets/img/headshots/babcoro99x.png" class="img-fluid w-100" style="outline: thick solid #000;">
-        <!-- <img src="../assets/img/logos/tor.png" class="img-fluid w-100" style="outline: thick solid #000;"> -->
-        <div class="position-absolute bottom-0 text-light" style="background-color: rgba(0, 0, 0, 0.5)">
-          <!-- <h3 class="p-2 m-0">Rank: 126</h3> -->
-        </div>
-      </article>
-    </div>
-    <div class="col-lg-9">
-      <article class="post-preview">
-        <a href="/the-grunfeld/executives/Rob%20Babcock_%5B'TOR'%5D.html">
-          <h2 class="post-title">Rob Babcock</h2>
-          <h3 class="post-subtitle">
-            
-            Toronto Raptors
-            
-          </h3>
-        </a>
-        <p class="post-meta">Tenure: 
-          2004 -
-          
-          2006
-          
-          &middot; Points: -72826
-        </p>
-        
-
-      <!--<div class="accordion" id="accordionExample">
-          <div class="accordion-item">
-            <h2 class="accordion-header" id="headingOne">
-              <button
-                class="accordion-button"
-                type="button"
-                data-mdb-toggle="collapse"
-                data-mdb-target="#collapseOne"
-                aria-expanded="true"
-                aria-controls="collapseOne"
-              >
-                Read Full Analysis
-              </button>
-            </h2>
-            <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-mdb-parent="#accordionExample">
-              <div class="accordion-body">
-                
-
-              </div>
-            </div>
-          </div>
-          
-        </div> -->
-      </article>
-      <img src="../assets/img/preview_plots/babcoro99x.png" class="img-fluid w-100">
-      
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-md-3">
-      <div class="row">
-            <div class="col-md-3">
-              Draft
-            </div>
-            <div class="col-md-3">
-              Trade 
-            </div>
-            <div class="col-md-3">
-              Signing
-            </div>
-            
-          </div>
-      <div class="row">
-            <div class="col-md-3">
-              <h3> F</h3>
-            </div>
-            <div class="col-md-3">
-              <h3></h3>
-            </div>
-            <div class="col-md-3">
-              <h3> </h3>
-            </div>
-            
-            
-      </div>
-    </div>
-    <div class="col-md-9">
-     <div class="row">
-      
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          </div>
-    </div>
-  </div>
-        
-</div>
-            
-
-
 
     <div class="container">
-        <div class="row"><canvas id="executiveTenure"></canvas></div></div>
+        <div class="row">
+          <h1 style=" text-align:center;">Transaction BPM over Tenure</h1>
+          <canvas id="executiveTenure"></canvas></div></div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
@@ -227,7 +116,11 @@
       return d.value;
     });
     var tooltipData = exec_data.map(function (d) {
-      return d.Transaction + ': ' + d.single_value;
+      var plusSign = '+';
+      if (d.single_value < 0){
+        plusSign = '';
+      } 
+      return d.Transaction + ': ' + plusSign + d.single_value;
     });
     var pointRadii = exec_data.map(function(d) {
       return Math.sqrt(Math.abs(d.single_value) / 100);
@@ -300,6 +193,17 @@
             },
             mode: 'nearest',
             intersect: false,
+          },
+          annotation: {
+            annotations: {
+              line: {
+                type: 'line',
+                yMin: 0,
+                yMax: 0,
+                borderWidth: 2,
+                borderColor: 'gray'
+              }
+            }
           }
         },
         hover: {
@@ -313,9 +217,12 @@
   }
   
 </script>
-
+<hr>
+<hr>
 <div class="container">
   <div class="row">
+    <h1 style=" text-align:center;">Grade Report</h1>
+    
     <div class="col-md-3">
       <h3> Draft Rating:</h3>
       <p style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);"> F</h3>
@@ -387,326 +294,6 @@
 
 <div class="container">
 <table class="table table-striped">
-  
-    
-    <tr>
-      
-        <th>date</th>
-      
-        <th>Transaction</th>
-      
-        <th>single_value</th>
-      
-        <th>value</th>
-      
-    </tr>
-    
-
-    <tr class="row1">
-<td class="col1">
-      2004-06-24 00:00:00
-    </td><td class="col2">
-      added Rafael Araújo to TOR
-    </td><td class="col3">
-      -10074
-    </td><td class="col4">
-      -10074
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2004-06-24 00:00:00
-    </td><td class="col2">
-      added Albert Miralles to TOR
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      -10074
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2004-06-24 00:00:00
-    </td><td class="col2">
-      lost Albert Miralles to MIA
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      -10074
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2004-06-24 00:00:00
-    </td><td class="col2">
-      added Pape Sow to TOR
-    </td><td class="col3">
-      -4972
-    </td><td class="col4">
-      -15046
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2004-06-24 00:00:00
-    </td><td class="col2">
-      added Uroš Slokar to TOR
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      -15046
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2004-07-14 00:00:00
-    </td><td class="col2">
-      added Rafer Alston to TOR
-    </td><td class="col3">
-      2445
-    </td><td class="col4">
-      -12601
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2004-08-18 00:00:00
-    </td><td class="col2">
-      added Loren Woods to TOR
-    </td><td class="col3">
-      -2913
-    </td><td class="col4">
-      -15514
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2004-12-17 00:00:00
-    </td><td class="col2">
-      lost Vince Carter to NJN
-    </td><td class="col3">
-      -56724
-    </td><td class="col4">
-      -72238
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2004-12-17 00:00:00
-    </td><td class="col2">
-      added Alonzo Mourning to TOR
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      -72238
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2004-12-17 00:00:00
-    </td><td class="col2">
-      added Aaron Williams to TOR
-    </td><td class="col3">
-      -2211
-    </td><td class="col4">
-      -74449
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2004-12-17 00:00:00
-    </td><td class="col2">
-      added Eric Williams to TOR
-    </td><td class="col3">
-      -3813
-    </td><td class="col4">
-      -78263
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2004-12-17 00:00:00
-    </td><td class="col2">
-      added Joey Graham to TOR
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      -78263
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2004-12-17 00:00:00
-    </td><td class="col2">
-      added Renaldo Balkman to TOR
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      -78263
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2005-04-09 00:00:00
-    </td><td class="col2">
-      added Omar Cook to TOR
-    </td><td class="col3">
-      162
-    </td><td class="col4">
-      -78100
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2005-06-28 00:00:00
-    </td><td class="col2">
-      added Charlie Villanueva to TOR
-    </td><td class="col3">
-      -2124
-    </td><td class="col4">
-      -80225
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2005-06-28 00:00:00
-    </td><td class="col2">
-      added Joey Graham to TOR
-    </td><td class="col3">
-      -16058
-    </td><td class="col4">
-      -96284
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2005-06-28 00:00:00
-    </td><td class="col2">
-      added Roko Ukić to TOR
-    </td><td class="col3">
-      -4094
-    </td><td class="col4">
-      -100378
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2005-06-28 00:00:00
-    </td><td class="col2">
-      added Uroš Slokar to TOR
-    </td><td class="col3">
-      -403
-    </td><td class="col4">
-      -100781
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2005-08-03 00:00:00
-    </td><td class="col2">
-      added José Calderón to TOR
-    </td><td class="col3">
-      27187
-    </td><td class="col4">
-      -73593
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2005-10-04 00:00:00
-    </td><td class="col2">
-      lost Rafer Alston to HOU
-    </td><td class="col3">
-      -2432
-    </td><td class="col4">
-      -76026
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2005-10-04 00:00:00
-    </td><td class="col2">
-      added Mike James to TOR
-    </td><td class="col3">
-      5265
-    </td><td class="col4">
-      -70761
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2005-11-16 00:00:00
-    </td><td class="col2">
-      added Darrick Martin to TOR
-    </td><td class="col3">
-      -2064
-    </td><td class="col4">
-      -72826
-    </td></tr>
-
   
 </table>
 </div>

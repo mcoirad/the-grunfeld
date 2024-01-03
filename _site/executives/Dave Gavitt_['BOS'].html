@@ -68,6 +68,8 @@
     <script src="https://d3js.org/d3.v5.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/luxon/3.4.4/luxon.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-adapter-luxon/0.2.1/chartjs-adapter-luxon.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-annotation/3.0.1/chartjs-plugin-annotation.min.js"></script>
+
   </head>
 
 <header class="masthead">
@@ -75,6 +77,7 @@
     <div class="container">
         <div class="row">
             <div class="page-heading">
+                <img src="../assets/img/headshots/gavitda99x.png" >
                 <h1>Dave Gavitt</h1>
                 <h2></h2>
                 <h3 class="post-subtitle">
@@ -92,125 +95,11 @@
 
 
 
-<div class="container">
-  <div class="row">
-    <div class="col-lg-3">
-      <article class="post-preview">
-        <a>
-          <h2 class="post-title">Rank: 77</h3>
-        </a>
-        <img src="../assets/img/headshots/gavitda99x.png" class="img-fluid w-100" style="outline: thick solid #000;">
-        <!-- <img src="../assets/img/logos/bos.png" class="img-fluid w-100" style="outline: thick solid #000;"> -->
-        <div class="position-absolute bottom-0 text-light" style="background-color: rgba(0, 0, 0, 0.5)">
-          <!-- <h3 class="p-2 m-0">Rank: 77</h3> -->
-        </div>
-      </article>
-    </div>
-    <div class="col-lg-9">
-      <article class="post-preview">
-        <a href="/the-grunfeld/executives/Dave%20Gavitt_%5B'BOS'%5D.html">
-          <h2 class="post-title">Dave Gavitt</h2>
-          <h3 class="post-subtitle">
-            
-            Boston Celtics
-            
-          </h3>
-        </a>
-        <p class="post-meta">Tenure: 
-          1990 -
-          
-          1994
-          
-          &middot; Points: -13986
-        </p>
-        
-
-      <!--<div class="accordion" id="accordionExample">
-          <div class="accordion-item">
-            <h2 class="accordion-header" id="headingOne">
-              <button
-                class="accordion-button"
-                type="button"
-                data-mdb-toggle="collapse"
-                data-mdb-target="#collapseOne"
-                aria-expanded="true"
-                aria-controls="collapseOne"
-              >
-                Read Full Analysis
-              </button>
-            </h2>
-            <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-mdb-parent="#accordionExample">
-              <div class="accordion-body">
-                
-
-              </div>
-            </div>
-          </div>
-          
-        </div> -->
-      </article>
-      <img src="../assets/img/preview_plots/gavitda99x.png" class="img-fluid w-100">
-      
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-md-3">
-      <div class="row">
-            <div class="col-md-3">
-              Draft
-            </div>
-            <div class="col-md-3">
-              Trade 
-            </div>
-            <div class="col-md-3">
-              Signing
-            </div>
-            
-          </div>
-      <div class="row">
-            <div class="col-md-3">
-              <h3> </h3>
-            </div>
-            <div class="col-md-3">
-              <h3></h3>
-            </div>
-            <div class="col-md-3">
-              <h3> C</h3>
-            </div>
-            
-            
-      </div>
-    </div>
-    <div class="col-md-9">
-     <div class="row">
-      
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          </div>
-    </div>
-  </div>
-        
-</div>
-            
-
-
 
     <div class="container">
-        <div class="row"><canvas id="executiveTenure"></canvas></div></div>
+        <div class="row">
+          <h1 style=" text-align:center;">Transaction BPM over Tenure</h1>
+          <canvas id="executiveTenure"></canvas></div></div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
@@ -227,7 +116,11 @@
       return d.value;
     });
     var tooltipData = exec_data.map(function (d) {
-      return d.Transaction + ': ' + d.single_value;
+      var plusSign = '+';
+      if (d.single_value < 0){
+        plusSign = '';
+      } 
+      return d.Transaction + ': ' + plusSign + d.single_value;
     });
     var pointRadii = exec_data.map(function(d) {
       return Math.sqrt(Math.abs(d.single_value) / 100);
@@ -300,6 +193,17 @@
             },
             mode: 'nearest',
             intersect: false,
+          },
+          annotation: {
+            annotations: {
+              line: {
+                type: 'line',
+                yMin: 0,
+                yMax: 0,
+                borderWidth: 2,
+                borderColor: 'gray'
+              }
+            }
           }
         },
         hover: {
@@ -313,9 +217,12 @@
   }
   
 </script>
-
+<hr>
+<hr>
 <div class="container">
   <div class="row">
+    <h1 style=" text-align:center;">Grade Report</h1>
+    
     <div class="col-md-3">
       <h3> Draft Rating:</h3>
       <p style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);"> </h3>
@@ -382,564 +289,6 @@
 
 <div class="container">
 <table class="table table-striped">
-  
-    
-    <tr>
-      
-        <th>date</th>
-      
-        <th>Transaction</th>
-      
-        <th>single_value</th>
-      
-        <th>value</th>
-      
-    </tr>
-    
-
-    <tr class="row1">
-<td class="col1">
-      1990-06-27 00:00:00
-    </td><td class="col2">
-      added Dee Brown to BOS
-    </td><td class="col3">
-      11796
-    </td><td class="col4">
-      11796
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1990-08-17 00:00:00
-    </td><td class="col2">
-      added Dave Popson to BOS
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      11796
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1990-10-02 00:00:00
-    </td><td class="col2">
-      added Stojko Vranković to BOS
-    </td><td class="col3">
-      -1789
-    </td><td class="col4">
-      10006
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1990-12-22 00:00:00
-    </td><td class="col2">
-      added Derek Smith to BOS
-    </td><td class="col3">
-      33
-    </td><td class="col4">
-      10040
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1990-12-27 00:00:00
-    </td><td class="col2">
-      added Dave Popson to BOS
-    </td><td class="col3">
-      -563
-    </td><td class="col4">
-      9476
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1991-03-25 00:00:00
-    </td><td class="col2">
-      added A.J. Wynder to BOS
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      9476
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1991-04-12 00:00:00
-    </td><td class="col2">
-      added A.J. Wynder to BOS
-    </td><td class="col3">
-      -206
-    </td><td class="col4">
-      9270
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1991-06-26 00:00:00
-    </td><td class="col2">
-      added Rick Fox to BOS
-    </td><td class="col3">
-      7401
-    </td><td class="col4">
-      16671
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1991-09-25 00:00:00
-    </td><td class="col2">
-      added Kennard Winchester to BOS
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      16671
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1991-10-02 00:00:00
-    </td><td class="col2">
-      added Steve Scheffler to BOS
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      16671
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1991-10-29 00:00:00
-    </td><td class="col2">
-      added Larry Robinson to BOS
-    </td><td class="col3">
-      -155
-    </td><td class="col4">
-      16515
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1991-10-30 00:00:00
-    </td><td class="col2">
-      added Kevin Pritchard to BOS
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      16515
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1991-11-06 00:00:00
-    </td><td class="col2">
-      added Rickey Green to BOS
-    </td><td class="col3">
-      -770
-    </td><td class="col4">
-      15745
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1991-11-27 00:00:00
-    </td><td class="col2">
-      added Kevin Pritchard to BOS
-    </td><td class="col3">
-      -40
-    </td><td class="col4">
-      15704
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1992-01-10 00:00:00
-    </td><td class="col2">
-      added Tony Massenburg to BOS
-    </td><td class="col3">
-      -368
-    </td><td class="col4">
-      15336
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1992-01-10 00:00:00
-    </td><td class="col2">
-      lost Brian Shaw to MIA
-    </td><td class="col3">
-      1984
-    </td><td class="col4">
-      17320
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1992-01-10 00:00:00
-    </td><td class="col2">
-      added Sherman Douglas to BOS
-    </td><td class="col3">
-      -6141
-    </td><td class="col4">
-      11179
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1992-01-18 00:00:00
-    </td><td class="col2">
-      added Kenny Battle to BOS
-    </td><td class="col3">
-      9
-    </td><td class="col4">
-      11188
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1992-06-24 00:00:00
-    </td><td class="col2">
-      added Jon Barry to BOS
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      11188
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1992-06-24 00:00:00
-    </td><td class="col2">
-      added Darren Morningstar to BOS
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      11188
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1992-09-10 00:00:00
-    </td><td class="col2">
-      added Xavier McDaniel to BOS
-    </td><td class="col3">
-      -7058
-    </td><td class="col4">
-      4130
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1992-09-16 00:00:00
-    </td><td class="col2">
-      added Kenny Battle to BOS
-    </td><td class="col3">
-      2
-    </td><td class="col4">
-      4133
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1992-09-21 00:00:00
-    </td><td class="col2">
-      added Marcus Webb to BOS
-    </td><td class="col3">
-      -107
-    </td><td class="col4">
-      4026
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1992-10-02 00:00:00
-    </td><td class="col2">
-      added Joe Wolf to BOS
-    </td><td class="col3">
-      -151
-    </td><td class="col4">
-      3874
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1992-10-08 00:00:00
-    </td><td class="col2">
-      added Bart Kofoed to BOS
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      3874
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1992-12-02 00:00:00
-    </td><td class="col2">
-      added Bart Kofoed to BOS
-    </td><td class="col3">
-      -20
-    </td><td class="col4">
-      3854
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1992-12-04 00:00:00
-    </td><td class="col2">
-      lost Jon Barry to MIL
-    </td><td class="col3">
-      1879
-    </td><td class="col4">
-      5733
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1992-12-04 00:00:00
-    </td><td class="col2">
-      lost Eric Snow to MIL
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      5733
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1992-12-04 00:00:00
-    </td><td class="col2">
-      added Alaa Abdelnaby to BOS
-    </td><td class="col3">
-      -5784
-    </td><td class="col4">
-      -50
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1992-12-24 00:00:00
-    </td><td class="col2">
-      added John Bagley to BOS
-    </td><td class="col3">
-      -950
-    </td><td class="col4">
-      -1001
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1993-01-11 00:00:00
-    </td><td class="col2">
-      added Lorenzo Williams to BOS
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      -1001
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1993-02-01 00:00:00
-    </td><td class="col2">
-      added Lorenzo Williams to BOS
-    </td><td class="col3">
-      -90
-    </td><td class="col4">
-      -1092
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1993-06-30 00:00:00
-    </td><td class="col2">
-      added Acie Earl to BOS
-    </td><td class="col3">
-      -9319
-    </td><td class="col4">
-      -10411
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1993-09-01 00:00:00
-    </td><td class="col2">
-      added Jimmy Oliver to BOS
-    </td><td class="col3">
-      -2322
-    </td><td class="col4">
-      -12733
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1993-09-15 00:00:00
-    </td><td class="col2">
-      added Chris Corchiani to BOS
-    </td><td class="col3">
-      -1120
-    </td><td class="col4">
-      -13854
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1993-09-17 00:00:00
-    </td><td class="col2">
-      added Brian Oliver to BOS
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      -13854
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1993-09-30 00:00:00
-    </td><td class="col2">
-      added Matt Wenstrom to BOS
-    </td><td class="col3">
-      -136
-    </td><td class="col4">
-      -13991
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1994-03-06 00:00:00
-    </td><td class="col2">
-      added Tony Harris to BOS
-    </td><td class="col3">
-      24
-    </td><td class="col4">
-      -13966
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1994-03-29 00:00:00
-    </td><td class="col2">
-      added Todd Lichti to BOS
-    </td><td class="col3">
-      -19
-    </td><td class="col4">
-      -13986
-    </td></tr>
-
   
 </table>
 </div>

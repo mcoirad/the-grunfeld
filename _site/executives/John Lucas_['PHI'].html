@@ -68,6 +68,8 @@
     <script src="https://d3js.org/d3.v5.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/luxon/3.4.4/luxon.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-adapter-luxon/0.2.1/chartjs-adapter-luxon.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-annotation/3.0.1/chartjs-plugin-annotation.min.js"></script>
+
   </head>
 
 <header class="masthead">
@@ -75,6 +77,7 @@
     <div class="container">
         <div class="row">
             <div class="page-heading">
+                <img src="../assets/img/headshots/lucasjo01x.png" >
                 <h1>John Lucas</h1>
                 <h2></h2>
                 <h3 class="post-subtitle">
@@ -92,125 +95,11 @@
 
 
 
-<div class="container">
-  <div class="row">
-    <div class="col-lg-3">
-      <article class="post-preview">
-        <a>
-          <h2 class="post-title">Rank: 122</h3>
-        </a>
-        <img src="../assets/img/headshots/lucasjo01x.png" class="img-fluid w-100" style="outline: thick solid #000;">
-        <!-- <img src="../assets/img/logos/phi.png" class="img-fluid w-100" style="outline: thick solid #000;"> -->
-        <div class="position-absolute bottom-0 text-light" style="background-color: rgba(0, 0, 0, 0.5)">
-          <!-- <h3 class="p-2 m-0">Rank: 122</h3> -->
-        </div>
-      </article>
-    </div>
-    <div class="col-lg-9">
-      <article class="post-preview">
-        <a href="/the-grunfeld/executives/John%20Lucas_%5B'PHI'%5D.html">
-          <h2 class="post-title">John Lucas</h2>
-          <h3 class="post-subtitle">
-            
-            Philadelphia 76ers
-            
-          </h3>
-        </a>
-        <p class="post-meta">Tenure: 
-          1994 -
-          
-          1996
-          
-          &middot; Points: -65132
-        </p>
-        
-
-      <!--<div class="accordion" id="accordionExample">
-          <div class="accordion-item">
-            <h2 class="accordion-header" id="headingOne">
-              <button
-                class="accordion-button"
-                type="button"
-                data-mdb-toggle="collapse"
-                data-mdb-target="#collapseOne"
-                aria-expanded="true"
-                aria-controls="collapseOne"
-              >
-                Read Full Analysis
-              </button>
-            </h2>
-            <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-mdb-parent="#accordionExample">
-              <div class="accordion-body">
-                
-
-              </div>
-            </div>
-          </div>
-          
-        </div> -->
-      </article>
-      <img src="../assets/img/preview_plots/lucasjo01x.png" class="img-fluid w-100">
-      
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-md-3">
-      <div class="row">
-            <div class="col-md-3">
-              Draft
-            </div>
-            <div class="col-md-3">
-              Trade 
-            </div>
-            <div class="col-md-3">
-              Signing
-            </div>
-            
-          </div>
-      <div class="row">
-            <div class="col-md-3">
-              <h3> D-</h3>
-            </div>
-            <div class="col-md-3">
-              <h3></h3>
-            </div>
-            <div class="col-md-3">
-              <h3> F-</h3>
-            </div>
-            
-            
-      </div>
-    </div>
-    <div class="col-md-9">
-     <div class="row">
-      
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          </div>
-    </div>
-  </div>
-        
-</div>
-            
-
-
 
     <div class="container">
-        <div class="row"><canvas id="executiveTenure"></canvas></div></div>
+        <div class="row">
+          <h1 style=" text-align:center;">Transaction BPM over Tenure</h1>
+          <canvas id="executiveTenure"></canvas></div></div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
@@ -227,7 +116,11 @@
       return d.value;
     });
     var tooltipData = exec_data.map(function (d) {
-      return d.Transaction + ': ' + d.single_value;
+      var plusSign = '+';
+      if (d.single_value < 0){
+        plusSign = '';
+      } 
+      return d.Transaction + ': ' + plusSign + d.single_value;
     });
     var pointRadii = exec_data.map(function(d) {
       return Math.sqrt(Math.abs(d.single_value) / 100);
@@ -300,6 +193,17 @@
             },
             mode: 'nearest',
             intersect: false,
+          },
+          annotation: {
+            annotations: {
+              line: {
+                type: 'line',
+                yMin: 0,
+                yMax: 0,
+                borderWidth: 2,
+                borderColor: 'gray'
+              }
+            }
           }
         },
         hover: {
@@ -313,9 +217,12 @@
   }
   
 </script>
-
+<hr>
+<hr>
 <div class="container">
   <div class="row">
+    <h1 style=" text-align:center;">Grade Report</h1>
+    
     <div class="col-md-3">
       <h3> Draft Rating:</h3>
       <p style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);"> D-</h3>
@@ -381,578 +288,6 @@
 
 <div class="container">
 <table class="table table-striped">
-  
-    
-    <tr>
-      
-        <th>date</th>
-      
-        <th>Transaction</th>
-      
-        <th>single_value</th>
-      
-        <th>value</th>
-      
-    </tr>
-    
-
-    <tr class="row1">
-<td class="col1">
-      1994-06-29 00:00:00
-    </td><td class="col2">
-      added Sharone Wright to PHI
-    </td><td class="col3">
-      -12220
-    </td><td class="col4">
-      -12220
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1994-06-29 00:00:00
-    </td><td class="col2">
-      added B.J. Tyler to PHI
-    </td><td class="col3">
-      -4045
-    </td><td class="col4">
-      -16265
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1994-06-29 00:00:00
-    </td><td class="col2">
-      added Derrick Alston to PHI
-    </td><td class="col3">
-      -7202
-    </td><td class="col4">
-      -23467
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1994-07-25 00:00:00
-    </td><td class="col2">
-      lost Eric Leckner to DET
-    </td><td class="col3">
-      4419
-    </td><td class="col4">
-      -19048
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1994-07-25 00:00:00
-    </td><td class="col2">
-      added Jamie Feick to PHI
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      -19048
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1994-07-28 00:00:00
-    </td><td class="col2">
-      added Scott Williams to PHI
-    </td><td class="col3">
-      -10819
-    </td><td class="col4">
-      -29867
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1994-10-05 00:00:00
-    </td><td class="col2">
-      added Tate George to PHI
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      -29867
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1994-10-06 00:00:00
-    </td><td class="col2">
-      added Steve Bardo to PHI
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      -29867
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1994-10-08 00:00:00
-    </td><td class="col2">
-      added Lloyd Daniels to PHI
-    </td><td class="col3">
-      -617
-    </td><td class="col4">
-      -30485
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1994-11-08 00:00:00
-    </td><td class="col2">
-      added Willie Burton to PHI
-    </td><td class="col3">
-      -1720
-    </td><td class="col4">
-      -32205
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1994-11-15 00:00:00
-    </td><td class="col2">
-      added Jaren Jackson to PHI
-    </td><td class="col3">
-      -848
-    </td><td class="col4">
-      -33053
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-01-05 00:00:00
-    </td><td class="col2">
-      added Jeff Grayer to PHI
-    </td><td class="col3">
-      -4282
-    </td><td class="col4">
-      -37336
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-02-15 00:00:00
-    </td><td class="col2">
-      added Kevin Pritchard to PHI
-    </td><td class="col3">
-      -514
-    </td><td class="col4">
-      -37850
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-02-17 00:00:00
-    </td><td class="col2">
-      added Jerome Harmon to PHI
-    </td><td class="col3">
-      -505
-    </td><td class="col4">
-      -38356
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-03-24 00:00:00
-    </td><td class="col2">
-      added Alaa Abdelnaby to PHI
-    </td><td class="col3">
-      -747
-    </td><td class="col4">
-      -39103
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-03-27 00:00:00
-    </td><td class="col2">
-      added Alphonso Ford to PHI
-    </td><td class="col3">
-      -1078
-    </td><td class="col4">
-      -40181
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-04-04 00:00:00
-    </td><td class="col2">
-      added Corey Gaines to PHI
-    </td><td class="col3">
-      -1176
-    </td><td class="col4">
-      -41357
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-06-28 00:00:00
-    </td><td class="col2">
-      added Jerry Stackhouse to PHI
-    </td><td class="col3">
-      -9890
-    </td><td class="col4">
-      -51248
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-09-21 00:00:00
-    </td><td class="col2">
-      added Richard Dumas to PHI
-    </td><td class="col3">
-      -2143
-    </td><td class="col4">
-      -53391
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-09-26 00:00:00
-    </td><td class="col2">
-      added Vernon Maxwell to PHI
-    </td><td class="col3">
-      -4868
-    </td><td class="col4">
-      -58260
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-10-05 00:00:00
-    </td><td class="col2">
-      added Charles Smith to PHI
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      -58260
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-10-05 00:00:00
-    </td><td class="col2">
-      added Elmer Bennett to PHI
-    </td><td class="col3">
-      -745
-    </td><td class="col4">
-      -59005
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-11-21 00:00:00
-    </td><td class="col2">
-      added Greg Grant to PHI
-    </td><td class="col3">
-      -1064
-    </td><td class="col4">
-      -60069
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-11-30 00:00:00
-    </td><td class="col2">
-      lost Shawn Bradley to NJN
-    </td><td class="col3">
-      2931
-    </td><td class="col4">
-      -57138
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-11-30 00:00:00
-    </td><td class="col2">
-      lost Greg Graham to NJN
-    </td><td class="col3">
-      1261
-    </td><td class="col4">
-      -55877
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-11-30 00:00:00
-    </td><td class="col2">
-      lost Tim Perry to NJN
-    </td><td class="col3">
-      -16
-    </td><td class="col4">
-      -55894
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-11-30 00:00:00
-    </td><td class="col2">
-      added Derrick Coleman to PHI
-    </td><td class="col3">
-      2134
-    </td><td class="col4">
-      -53760
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-11-30 00:00:00
-    </td><td class="col2">
-      added Sean Higgins to PHI
-    </td><td class="col3">
-      -3297
-    </td><td class="col4">
-      -57057
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-11-30 00:00:00
-    </td><td class="col2">
-      added Rex Walters to PHI
-    </td><td class="col3">
-      -2178
-    </td><td class="col4">
-      -59236
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-12-03 00:00:00
-    </td><td class="col2">
-      added Trevor Ruffin to PHI
-    </td><td class="col3">
-      -3102
-    </td><td class="col4">
-      -62338
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-12-07 00:00:00
-    </td><td class="col2">
-      added Trevor Wilson to PHI
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      -62338
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-12-12 00:00:00
-    </td><td class="col2">
-      added Mike Brown to PHI
-    </td><td class="col3">
-      -988
-    </td><td class="col4">
-      -63326
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-12-12 00:00:00
-    </td><td class="col2">
-      added Scott Skiles to PHI
-    </td><td class="col3">
-      -991
-    </td><td class="col4">
-      -64317
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-01-10 00:00:00
-    </td><td class="col2">
-      added Greg Sutton to PHI
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      -64317
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-01-11 00:00:00
-    </td><td class="col2">
-      added LaSalle Thompson to PHI
-    </td><td class="col3">
-      -4483
-    </td><td class="col4">
-      -68800
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-01-30 00:00:00
-    </td><td class="col2">
-      added Greg Sutton to PHI
-    </td><td class="col3">
-      -1813
-    </td><td class="col4">
-      -70614
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-02-22 00:00:00
-    </td><td class="col2">
-      lost Sharone Wright to TOR
-    </td><td class="col3">
-      9550
-    </td><td class="col4">
-      -61064
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-02-22 00:00:00
-    </td><td class="col2">
-      added Tony Massenburg to PHI
-    </td><td class="col3">
-      -3457
-    </td><td class="col4">
-      -64521
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-02-22 00:00:00
-    </td><td class="col2">
-      added Ed Pinckney to PHI
-    </td><td class="col3">
-      -611
-    </td><td class="col4">
-      -65132
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-02-22 00:00:00
-    </td><td class="col2">
-      added James Collins to PHI
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      -65132
-    </td></tr>
-
   
 </table>
 </div>

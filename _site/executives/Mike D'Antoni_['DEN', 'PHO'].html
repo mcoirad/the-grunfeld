@@ -68,6 +68,8 @@
     <script src="https://d3js.org/d3.v5.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/luxon/3.4.4/luxon.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-adapter-luxon/0.2.1/chartjs-adapter-luxon.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-annotation/3.0.1/chartjs-plugin-annotation.min.js"></script>
+
   </head>
 
 <header class="masthead">
@@ -75,6 +77,7 @@
     <div class="container">
         <div class="row">
             <div class="page-heading">
+                <img src="../assets/img/headshots/dantomi01x.png" >
                 <h1>Mike D'Antoni</h1>
                 <h2></h2>
                 <h3 class="post-subtitle">
@@ -94,127 +97,11 @@
 
 
 
-<div class="container">
-  <div class="row">
-    <div class="col-lg-3">
-      <article class="post-preview">
-        <a>
-          <h2 class="post-title">Rank: 107</h3>
-        </a>
-        <img src="../assets/img/headshots/dantomi01x.png" class="img-fluid w-100" style="outline: thick solid #000;">
-        <!-- <img src="../assets/img/logos/pho.png" class="img-fluid w-100" style="outline: thick solid #000;"> -->
-        <div class="position-absolute bottom-0 text-light" style="background-color: rgba(0, 0, 0, 0.5)">
-          <!-- <h3 class="p-2 m-0">Rank: 107</h3> -->
-        </div>
-      </article>
-    </div>
-    <div class="col-lg-9">
-      <article class="post-preview">
-        <a href="/the-grunfeld/executives/Mike%20D'Antoni_%5B'DEN',%20'PHO'%5D.html">
-          <h2 class="post-title">Mike D'Antoni</h2>
-          <h3 class="post-subtitle">
-            
-            Denver Nuggets, 
-            
-            Phoenix Suns
-            
-          </h3>
-        </a>
-        <p class="post-meta">Tenure: 
-          2006 -
-          
-          2007
-          
-          &middot; Points: -42581
-        </p>
-        
-
-      <!--<div class="accordion" id="accordionExample">
-          <div class="accordion-item">
-            <h2 class="accordion-header" id="headingOne">
-              <button
-                class="accordion-button"
-                type="button"
-                data-mdb-toggle="collapse"
-                data-mdb-target="#collapseOne"
-                aria-expanded="true"
-                aria-controls="collapseOne"
-              >
-                Read Full Analysis
-              </button>
-            </h2>
-            <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-mdb-parent="#accordionExample">
-              <div class="accordion-body">
-                
-
-              </div>
-            </div>
-          </div>
-          
-        </div> -->
-      </article>
-      <img src="../assets/img/preview_plots/dantomi01x.png" class="img-fluid w-100">
-      
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-md-3">
-      <div class="row">
-            <div class="col-md-3">
-              Draft
-            </div>
-            <div class="col-md-3">
-              Trade 
-            </div>
-            <div class="col-md-3">
-              Signing
-            </div>
-            
-          </div>
-      <div class="row">
-            <div class="col-md-3">
-              <h3> </h3>
-            </div>
-            <div class="col-md-3">
-              <h3></h3>
-            </div>
-            <div class="col-md-3">
-              <h3> </h3>
-            </div>
-            
-            
-      </div>
-    </div>
-    <div class="col-md-9">
-     <div class="row">
-      
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          </div>
-    </div>
-  </div>
-        
-</div>
-            
-
-
 
     <div class="container">
-        <div class="row"><canvas id="executiveTenure"></canvas></div></div>
+        <div class="row">
+          <h1 style=" text-align:center;">Transaction BPM over Tenure</h1>
+          <canvas id="executiveTenure"></canvas></div></div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
@@ -231,7 +118,11 @@
       return d.value;
     });
     var tooltipData = exec_data.map(function (d) {
-      return d.Transaction + ': ' + d.single_value;
+      var plusSign = '+';
+      if (d.single_value < 0){
+        plusSign = '';
+      } 
+      return d.Transaction + ': ' + plusSign + d.single_value;
     });
     var pointRadii = exec_data.map(function(d) {
       return Math.sqrt(Math.abs(d.single_value) / 100);
@@ -304,6 +195,17 @@
             },
             mode: 'nearest',
             intersect: false,
+          },
+          annotation: {
+            annotations: {
+              line: {
+                type: 'line',
+                yMin: 0,
+                yMax: 0,
+                borderWidth: 2,
+                borderColor: 'gray'
+              }
+            }
           }
         },
         hover: {
@@ -317,9 +219,12 @@
   }
   
 </script>
-
+<hr>
+<hr>
 <div class="container">
   <div class="row">
+    <h1 style=" text-align:center;">Grade Report</h1>
+    
     <div class="col-md-3">
       <h3> Draft Rating:</h3>
       <p style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);"> </h3>
@@ -384,200 +289,6 @@
 
 <div class="container">
 <table class="table table-striped">
-  
-    
-    <tr>
-      
-        <th>date</th>
-      
-        <th>Transaction</th>
-      
-        <th>single_value</th>
-      
-        <th>value</th>
-      
-    </tr>
-    
-
-    <tr class="row1">
-<td class="col1">
-      1998-03-04 00:00:00
-    </td><td class="col2">
-      added Cory Alexander to DEN
-    </td><td class="col3">
-      -2239
-    </td><td class="col4">
-      -2239
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2006-06-28 00:00:00
-    </td><td class="col2">
-      
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      -2239
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2006-06-28 00:00:00
-    </td><td class="col2">
-      added Rajon Rondo to PHO
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      -2239
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2006-06-28 00:00:00
-    </td><td class="col2">
-      added Sergio Rodríguez to PHO
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      -2239
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2006-06-28 00:00:00
-    </td><td class="col2">
-      lost Sergio Rodríguez to POR
-    </td><td class="col3">
-      4986
-    </td><td class="col4">
-      2747
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2006-06-28 00:00:00
-    </td><td class="col2">
-      lost Brian Grant to BOS
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      2747
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2006-06-28 00:00:00
-    </td><td class="col2">
-      lost Rajon Rondo to BOS
-    </td><td class="col3">
-      -40961
-    </td><td class="col4">
-      -38213
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2006-06-28 00:00:00
-    </td><td class="col2">
-      added Rudy Fernández to PHO
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      -38213
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2006-07-13 00:00:00
-    </td><td class="col2">
-      added Eric Piatkowski to PHO
-    </td><td class="col3">
-      -538
-    </td><td class="col4">
-      -38751
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2006-07-20 00:00:00
-    </td><td class="col2">
-      added Marcus Banks to PHO
-    </td><td class="col3">
-      -2678
-    </td><td class="col4">
-      -41430
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2006-07-27 00:00:00
-    </td><td class="col2">
-      added Sean Marks to PHO
-    </td><td class="col3">
-      -410
-    </td><td class="col4">
-      -41841
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2006-08-31 00:00:00
-    </td><td class="col2">
-      added Jumaine Jones to PHO
-    </td><td class="col3">
-      -1035
-    </td><td class="col4">
-      -42876
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      2006-11-07 00:00:00
-    </td><td class="col2">
-      added Jalen Rose to PHO
-    </td><td class="col3">
-      295
-    </td><td class="col4">
-      -42580
-    </td></tr>
-
   
 </table>
 </div>

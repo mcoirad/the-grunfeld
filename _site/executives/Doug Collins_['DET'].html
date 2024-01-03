@@ -68,6 +68,8 @@
     <script src="https://d3js.org/d3.v5.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/luxon/3.4.4/luxon.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-adapter-luxon/0.2.1/chartjs-adapter-luxon.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-annotation/3.0.1/chartjs-plugin-annotation.min.js"></script>
+
   </head>
 
 <header class="masthead">
@@ -75,6 +77,7 @@
     <div class="container">
         <div class="row">
             <div class="page-heading">
+                <img src="../assets/img/headshots/collido01x.png" >
                 <h1>Doug Collins</h1>
                 <h2></h2>
                 <h3 class="post-subtitle">
@@ -92,125 +95,11 @@
 
 
 
-<div class="container">
-  <div class="row">
-    <div class="col-lg-3">
-      <article class="post-preview">
-        <a>
-          <h2 class="post-title">Rank: 101</h3>
-        </a>
-        <img src="../assets/img/headshots/collido01x.png" class="img-fluid w-100" style="outline: thick solid #000;">
-        <!-- <img src="../assets/img/logos/det.png" class="img-fluid w-100" style="outline: thick solid #000;"> -->
-        <div class="position-absolute bottom-0 text-light" style="background-color: rgba(0, 0, 0, 0.5)">
-          <!-- <h3 class="p-2 m-0">Rank: 101</h3> -->
-        </div>
-      </article>
-    </div>
-    <div class="col-lg-9">
-      <article class="post-preview">
-        <a href="/the-grunfeld/executives/Doug%20Collins_%5B'DET'%5D.html">
-          <h2 class="post-title">Doug Collins</h2>
-          <h3 class="post-subtitle">
-            
-            Detroit Pistons
-            
-          </h3>
-        </a>
-        <p class="post-meta">Tenure: 
-          1995 -
-          
-          1998
-          
-          &middot; Points: -33836
-        </p>
-        
-
-      <!--<div class="accordion" id="accordionExample">
-          <div class="accordion-item">
-            <h2 class="accordion-header" id="headingOne">
-              <button
-                class="accordion-button"
-                type="button"
-                data-mdb-toggle="collapse"
-                data-mdb-target="#collapseOne"
-                aria-expanded="true"
-                aria-controls="collapseOne"
-              >
-                Read Full Analysis
-              </button>
-            </h2>
-            <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-mdb-parent="#accordionExample">
-              <div class="accordion-body">
-                
-
-              </div>
-            </div>
-          </div>
-          
-        </div> -->
-      </article>
-      <img src="../assets/img/preview_plots/collido01x.png" class="img-fluid w-100">
-      
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-md-3">
-      <div class="row">
-            <div class="col-md-3">
-              Draft
-            </div>
-            <div class="col-md-3">
-              Trade 
-            </div>
-            <div class="col-md-3">
-              Signing
-            </div>
-            
-          </div>
-      <div class="row">
-            <div class="col-md-3">
-              <h3> A-</h3>
-            </div>
-            <div class="col-md-3">
-              <h3></h3>
-            </div>
-            <div class="col-md-3">
-              <h3> F</h3>
-            </div>
-            
-            
-      </div>
-    </div>
-    <div class="col-md-9">
-     <div class="row">
-      
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          </div>
-    </div>
-  </div>
-        
-</div>
-            
-
-
 
     <div class="container">
-        <div class="row"><canvas id="executiveTenure"></canvas></div></div>
+        <div class="row">
+          <h1 style=" text-align:center;">Transaction BPM over Tenure</h1>
+          <canvas id="executiveTenure"></canvas></div></div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
@@ -227,7 +116,11 @@
       return d.value;
     });
     var tooltipData = exec_data.map(function (d) {
-      return d.Transaction + ': ' + d.single_value;
+      var plusSign = '+';
+      if (d.single_value < 0){
+        plusSign = '';
+      } 
+      return d.Transaction + ': ' + plusSign + d.single_value;
     });
     var pointRadii = exec_data.map(function(d) {
       return Math.sqrt(Math.abs(d.single_value) / 100);
@@ -300,6 +193,17 @@
             },
             mode: 'nearest',
             intersect: false,
+          },
+          annotation: {
+            annotations: {
+              line: {
+                type: 'line',
+                yMin: 0,
+                yMax: 0,
+                borderWidth: 2,
+                borderColor: 'gray'
+              }
+            }
           }
         },
         hover: {
@@ -313,9 +217,12 @@
   }
   
 </script>
-
+<hr>
+<hr>
 <div class="container">
   <div class="row">
+    <h1 style=" text-align:center;">Grade Report</h1>
+    
     <div class="col-md-3">
       <h3> Draft Rating:</h3>
       <p style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);"> A-</h3>
@@ -383,592 +290,6 @@
 
 <div class="container">
 <table class="table table-striped">
-  
-    
-    <tr>
-      
-        <th>date</th>
-      
-        <th>Transaction</th>
-      
-        <th>single_value</th>
-      
-        <th>value</th>
-      
-    </tr>
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-06-28 00:00:00
-    </td><td class="col2">
-      lost Shawn Respert to POR
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      0
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-06-28 00:00:00
-    </td><td class="col2">
-      added Randolph Childress to DET
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      0
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-06-28 00:00:00
-    </td><td class="col2">
-      added Theo Ratliff to DET
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      0
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-06-28 00:00:00
-    </td><td class="col2">
-      added Don Reid to DET
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      0
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-06-28 00:00:00
-    </td><td class="col2">
-      added Theo Ratliff to DET
-    </td><td class="col3">
-      -230
-    </td><td class="col4">
-      -230
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-06-28 00:00:00
-    </td><td class="col2">
-      added Randolph Childress to DET
-    </td><td class="col3">
-      -294
-    </td><td class="col4">
-      -524
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-06-28 00:00:00
-    </td><td class="col2">
-      added Lou Roe to DET
-    </td><td class="col3">
-      -1116
-    </td><td class="col4">
-      -1640
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-06-28 00:00:00
-    </td><td class="col2">
-      added Don Reid to DET
-    </td><td class="col3">
-      -5443
-    </td><td class="col4">
-      -7084
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-09-20 00:00:00
-    </td><td class="col2">
-      lost Randolph Childress to POR
-    </td><td class="col3">
-      2012
-    </td><td class="col4">
-      -5072
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-09-20 00:00:00
-    </td><td class="col2">
-      lost Bill Curley to POR
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      -5072
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-09-20 00:00:00
-    </td><td class="col2">
-      added Otis Thorpe to DET
-    </td><td class="col3">
-      -2733
-    </td><td class="col4">
-      -7805
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1995-10-05 00:00:00
-    </td><td class="col2">
-      added Steve Bardo to DET
-    </td><td class="col3">
-      -319
-    </td><td class="col4">
-      -8124
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-01-31 00:00:00
-    </td><td class="col2">
-      added Michael Curry to DET
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      -8124
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-02-22 00:00:00
-    </td><td class="col2">
-      added Michael Curry to DET
-    </td><td class="col3">
-      -1123
-    </td><td class="col4">
-      -9248
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-06-26 00:00:00
-    </td><td class="col2">
-      added Jerome Williams to DET
-    </td><td class="col3">
-      4450
-    </td><td class="col4">
-      -4798
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-07-15 00:00:00
-    </td><td class="col2">
-      added Michael Curry to DET
-    </td><td class="col3">
-      -26704
-    </td><td class="col4">
-      -31502
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-07-15 00:00:00
-    </td><td class="col2">
-      lost Cal Bowdler to ATL
-    </td><td class="col3">
-      4418
-    </td><td class="col4">
-      -27084
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-07-15 00:00:00
-    </td><td class="col2">
-      lost Dion Glover to ATL
-    </td><td class="col3">
-      10446
-    </td><td class="col4">
-      -16638
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-07-15 00:00:00
-    </td><td class="col2">
-      lost Lari Ketner to ATL
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      -16638
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-07-15 00:00:00
-    </td><td class="col2">
-      added Stacey Augmon to DET
-    </td><td class="col3">
-      -963
-    </td><td class="col4">
-      -17601
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-07-15 00:00:00
-    </td><td class="col2">
-      added Grant Long to DET
-    </td><td class="col3">
-      -1512
-    </td><td class="col4">
-      -19114
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-08-05 00:00:00
-    </td><td class="col2">
-      added Rick Mahorn to DET
-    </td><td class="col3">
-      -4712
-    </td><td class="col4">
-      -23826
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-08-30 00:00:00
-    </td><td class="col2">
-      added Litterial Green to DET
-    </td><td class="col3">
-      -124
-    </td><td class="col4">
-      -23950
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-09-17 00:00:00
-    </td><td class="col2">
-      added Kenny Smith to DET
-    </td><td class="col3">
-      140
-    </td><td class="col4">
-      -23809
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1997-01-24 00:00:00
-    </td><td class="col2">
-      lost Stacey Augmon to POR
-    </td><td class="col3">
-      191
-    </td><td class="col4">
-      -23618
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1997-01-24 00:00:00
-    </td><td class="col2">
-      added Randolph Childress to DET
-    </td><td class="col3">
-      -294
-    </td><td class="col4">
-      -23912
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1997-01-24 00:00:00
-    </td><td class="col2">
-      added Reggie Jordan to DET
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      -23912
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1997-01-24 00:00:00
-    </td><td class="col2">
-      added Aaron McKie to DET
-    </td><td class="col3">
-      1133
-    </td><td class="col4">
-      -22778
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1997-06-25 00:00:00
-    </td><td class="col2">
-      added Scot Pollard to DET
-    </td><td class="col3">
-      -634
-    </td><td class="col4">
-      -23412
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1997-06-25 00:00:00
-    </td><td class="col2">
-      added Charles O'Bannon to DET
-    </td><td class="col3">
-      -821
-    </td><td class="col4">
-      -24234
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1997-08-07 00:00:00
-    </td><td class="col2">
-      lost Otis Thorpe to VAN
-    </td><td class="col3">
-      3777
-    </td><td class="col4">
-      -20456
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1997-08-07 00:00:00
-    </td><td class="col2">
-      added Darko Miličić to DET
-    </td><td class="col3">
-      -4136
-    </td><td class="col4">
-      -24592
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1997-08-16 00:00:00
-    </td><td class="col2">
-      added Bison Dele to DET
-    </td><td class="col3">
-      -1177
-    </td><td class="col4">
-      -25769
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1997-10-25 00:00:00
-    </td><td class="col2">
-      added Malik Sealy to DET
-    </td><td class="col3">
-      -984
-    </td><td class="col4">
-      -26754
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1997-12-18 00:00:00
-    </td><td class="col2">
-      lost Aaron McKie to PHI
-    </td><td class="col3">
-      -11420
-    </td><td class="col4">
-      -38174
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1997-12-18 00:00:00
-    </td><td class="col2">
-      lost Theo Ratliff to PHI
-    </td><td class="col3">
-      -8964
-    </td><td class="col4">
-      -47139
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1997-12-18 00:00:00
-    </td><td class="col2">
-      lost Carlos Delfino to PHI
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      -47139
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1997-12-18 00:00:00
-    </td><td class="col2">
-      added Eric Montross to DET
-    </td><td class="col3">
-      -9941
-    </td><td class="col4">
-      -57081
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1997-12-18 00:00:00
-    </td><td class="col2">
-      added Jerry Stackhouse to DET
-    </td><td class="col3">
-      23970
-    </td><td class="col4">
-      -33110
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1997-12-18 00:00:00
-    </td><td class="col2">
-      added Alex Acker to DET
-    </td><td class="col3">
-      -459
-    </td><td class="col4">
-      -33570
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1998-01-17 00:00:00
-    </td><td class="col2">
-      added Steve Henson to DET
-    </td><td class="col3">
-      -265
-    </td><td class="col4">
-      -33835
-    </td></tr>
-
   
 </table>
 </div>

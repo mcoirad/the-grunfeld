@@ -68,6 +68,8 @@
     <script src="https://d3js.org/d3.v5.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/luxon/3.4.4/luxon.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-adapter-luxon/0.2.1/chartjs-adapter-luxon.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-annotation/3.0.1/chartjs-plugin-annotation.min.js"></script>
+
   </head>
 
 <header class="masthead">
@@ -75,6 +77,7 @@
     <div class="container">
         <div class="row">
             <div class="page-heading">
+                <img src="../assets/img/headshots/grantke99x.png" >
                 <h1>Keith Grant</h1>
                 <h2></h2>
                 <h3 class="post-subtitle">
@@ -92,125 +95,11 @@
 
 
 
-<div class="container">
-  <div class="row">
-    <div class="col-lg-3">
-      <article class="post-preview">
-        <a>
-          <h2 class="post-title">Rank: 79</h3>
-        </a>
-        <img src="../assets/img/headshots/grantke99x.png" class="img-fluid w-100" style="outline: thick solid #000;">
-        <!-- <img src="../assets/img/logos/dal.png" class="img-fluid w-100" style="outline: thick solid #000;"> -->
-        <div class="position-absolute bottom-0 text-light" style="background-color: rgba(0, 0, 0, 0.5)">
-          <!-- <h3 class="p-2 m-0">Rank: 79</h3> -->
-        </div>
-      </article>
-    </div>
-    <div class="col-lg-9">
-      <article class="post-preview">
-        <a href="/the-grunfeld/executives/Keith%20Grant_%5B'DAL'%5D.html">
-          <h2 class="post-title">Keith Grant</h2>
-          <h3 class="post-subtitle">
-            
-            Dallas Mavericks
-            
-          </h3>
-        </a>
-        <p class="post-meta">Tenure: 
-          1996 -
-          
-          1996
-          
-          &middot; Points: -14700
-        </p>
-        
-
-      <!--<div class="accordion" id="accordionExample">
-          <div class="accordion-item">
-            <h2 class="accordion-header" id="headingOne">
-              <button
-                class="accordion-button"
-                type="button"
-                data-mdb-toggle="collapse"
-                data-mdb-target="#collapseOne"
-                aria-expanded="true"
-                aria-controls="collapseOne"
-              >
-                Read Full Analysis
-              </button>
-            </h2>
-            <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-mdb-parent="#accordionExample">
-              <div class="accordion-body">
-                
-
-              </div>
-            </div>
-          </div>
-          
-        </div> -->
-      </article>
-      <img src="../assets/img/preview_plots/grantke99x.png" class="img-fluid w-100">
-      
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-md-3">
-      <div class="row">
-            <div class="col-md-3">
-              Draft
-            </div>
-            <div class="col-md-3">
-              Trade 
-            </div>
-            <div class="col-md-3">
-              Signing
-            </div>
-            
-          </div>
-      <div class="row">
-            <div class="col-md-3">
-              <h3> </h3>
-            </div>
-            <div class="col-md-3">
-              <h3></h3>
-            </div>
-            <div class="col-md-3">
-              <h3> </h3>
-            </div>
-            
-            
-      </div>
-    </div>
-    <div class="col-md-9">
-     <div class="row">
-      
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          </div>
-    </div>
-  </div>
-        
-</div>
-            
-
-
 
     <div class="container">
-        <div class="row"><canvas id="executiveTenure"></canvas></div></div>
+        <div class="row">
+          <h1 style=" text-align:center;">Transaction BPM over Tenure</h1>
+          <canvas id="executiveTenure"></canvas></div></div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
@@ -227,7 +116,11 @@
       return d.value;
     });
     var tooltipData = exec_data.map(function (d) {
-      return d.Transaction + ': ' + d.single_value;
+      var plusSign = '+';
+      if (d.single_value < 0){
+        plusSign = '';
+      } 
+      return d.Transaction + ': ' + plusSign + d.single_value;
     });
     var pointRadii = exec_data.map(function(d) {
       return Math.sqrt(Math.abs(d.single_value) / 100);
@@ -300,6 +193,17 @@
             },
             mode: 'nearest',
             intersect: false,
+          },
+          annotation: {
+            annotations: {
+              line: {
+                type: 'line',
+                yMin: 0,
+                yMax: 0,
+                borderWidth: 2,
+                borderColor: 'gray'
+              }
+            }
           }
         },
         hover: {
@@ -313,9 +217,12 @@
   }
   
 </script>
-
+<hr>
+<hr>
 <div class="container">
   <div class="row">
+    <h1 style=" text-align:center;">Grade Report</h1>
+    
     <div class="col-md-3">
       <h3> Draft Rating:</h3>
       <p style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);"> </h3>
@@ -381,284 +288,6 @@
 
 <div class="container">
 <table class="table table-striped">
-  
-    
-    <tr>
-      
-        <th>date</th>
-      
-        <th>Transaction</th>
-      
-        <th>single_value</th>
-      
-        <th>value</th>
-      
-    </tr>
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-06-21 00:00:00
-    </td><td class="col2">
-      lost Antoine Walker to BOS
-    </td><td class="col3">
-      -14859
-    </td><td class="col4">
-      -14859
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-06-21 00:00:00
-    </td><td class="col2">
-      lost Ron Mercer to BOS
-    </td><td class="col3">
-      7294
-    </td><td class="col4">
-      -7565
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-06-21 00:00:00
-    </td><td class="col2">
-      added Eric Montross to DAL
-    </td><td class="col3">
-      -5904
-    </td><td class="col4">
-      -13469
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-06-21 00:00:00
-    </td><td class="col2">
-      added Samaki Walker to DAL
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      -13469
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-06-26 00:00:00
-    </td><td class="col2">
-      added Samaki Walker to DAL
-    </td><td class="col3">
-      -8810
-    </td><td class="col4">
-      -22279
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-06-26 00:00:00
-    </td><td class="col2">
-      added Shawn Harvey to DAL
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      -22279
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-06-26 00:00:00
-    </td><td class="col2">
-      added Darnell Robinson to DAL
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      -22279
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-06-29 00:00:00
-    </td><td class="col2">
-      lost Cherokee Parks to MIN
-    </td><td class="col3">
-      4974
-    </td><td class="col4">
-      -17305
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-07-16 00:00:00
-    </td><td class="col2">
-      added Chris Gatling to DAL
-    </td><td class="col3">
-      1191
-    </td><td class="col4">
-      -16114
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-07-23 00:00:00
-    </td><td class="col2">
-      lost Popeye Jones to TOR
-    </td><td class="col3">
-      9331
-    </td><td class="col4">
-      -6783
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-07-23 00:00:00
-    </td><td class="col2">
-      lost John Thomas to TOR
-    </td><td class="col3">
-      5937
-    </td><td class="col4">
-      -845
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-07-23 00:00:00
-    </td><td class="col2">
-      added Jimmy King to DAL
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      -845
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-07-23 00:00:00
-    </td><td class="col2">
-      added Ansu Sesay to DAL
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      -845
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-07-23 00:00:00
-    </td><td class="col2">
-      added Gordan Giriček to DAL
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      -845
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-07-26 00:00:00
-    </td><td class="col2">
-      added Derek Harper to DAL
-    </td><td class="col3">
-      -3094
-    </td><td class="col4">
-      -3939
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-09-30 00:00:00
-    </td><td class="col2">
-      added Greg Dreiling to DAL
-    </td><td class="col3">
-      -1983
-    </td><td class="col4">
-      -5923
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-10-01 00:00:00
-    </td><td class="col2">
-      added Erick Strickland to DAL
-    </td><td class="col3">
-      -6402
-    </td><td class="col4">
-      -12325
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-10-04 00:00:00
-    </td><td class="col2">
-      added Fred Roberts to DAL
-    </td><td class="col3">
-      -284
-    </td><td class="col4">
-      -12609
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1996-10-17 00:00:00
-    </td><td class="col2">
-      added Oliver Miller to DAL
-    </td><td class="col3">
-      -2090
-    </td><td class="col4">
-      -14699
-    </td></tr>
-
   
 </table>
 </div>

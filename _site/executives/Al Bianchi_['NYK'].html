@@ -68,6 +68,8 @@
     <script src="https://d3js.org/d3.v5.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/luxon/3.4.4/luxon.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-adapter-luxon/0.2.1/chartjs-adapter-luxon.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-annotation/3.0.1/chartjs-plugin-annotation.min.js"></script>
+
   </head>
 
 <header class="masthead">
@@ -75,6 +77,7 @@
     <div class="container">
         <div class="row">
             <div class="page-heading">
+                <img src="../assets/img/headshots/biancal01x.png" >
                 <h1>Al Bianchi</h1>
                 <h2></h2>
                 <h3 class="post-subtitle">
@@ -92,125 +95,11 @@
 
 
 
-<div class="container">
-  <div class="row">
-    <div class="col-lg-3">
-      <article class="post-preview">
-        <a>
-          <h2 class="post-title">Rank: 30</h3>
-        </a>
-        <img src="../assets/img/headshots/biancal01x.png" class="img-fluid w-100" style="outline: thick solid #000;">
-        <!-- <img src="../assets/img/logos/nyk.png" class="img-fluid w-100" style="outline: thick solid #000;"> -->
-        <div class="position-absolute bottom-0 text-light" style="background-color: rgba(0, 0, 0, 0.5)">
-          <!-- <h3 class="p-2 m-0">Rank: 30</h3> -->
-        </div>
-      </article>
-    </div>
-    <div class="col-lg-9">
-      <article class="post-preview">
-        <a href="/the-grunfeld/executives/Al%20Bianchi_%5B'NYK'%5D.html">
-          <h2 class="post-title">Al Bianchi</h2>
-          <h3 class="post-subtitle">
-            
-            New York Knicks
-            
-          </h3>
-        </a>
-        <p class="post-meta">Tenure: 
-          1987 -
-          
-          1991
-          
-          &middot; Points: 56742
-        </p>
-        
-
-      <!--<div class="accordion" id="accordionExample">
-          <div class="accordion-item">
-            <h2 class="accordion-header" id="headingOne">
-              <button
-                class="accordion-button"
-                type="button"
-                data-mdb-toggle="collapse"
-                data-mdb-target="#collapseOne"
-                aria-expanded="true"
-                aria-controls="collapseOne"
-              >
-                Read Full Analysis
-              </button>
-            </h2>
-            <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-mdb-parent="#accordionExample">
-              <div class="accordion-body">
-                
-
-              </div>
-            </div>
-          </div>
-          
-        </div> -->
-      </article>
-      <img src="../assets/img/preview_plots/biancal01x.png" class="img-fluid w-100">
-      
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-md-3">
-      <div class="row">
-            <div class="col-md-3">
-              Draft
-            </div>
-            <div class="col-md-3">
-              Trade 
-            </div>
-            <div class="col-md-3">
-              Signing
-            </div>
-            
-          </div>
-      <div class="row">
-            <div class="col-md-3">
-              <h3> A-</h3>
-            </div>
-            <div class="col-md-3">
-              <h3></h3>
-            </div>
-            <div class="col-md-3">
-              <h3> D</h3>
-            </div>
-            
-            
-      </div>
-    </div>
-    <div class="col-md-9">
-     <div class="row">
-      
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          </div>
-    </div>
-  </div>
-        
-</div>
-            
-
-
 
     <div class="container">
-        <div class="row"><canvas id="executiveTenure"></canvas></div></div>
+        <div class="row">
+          <h1 style=" text-align:center;">Transaction BPM over Tenure</h1>
+          <canvas id="executiveTenure"></canvas></div></div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
@@ -227,7 +116,11 @@
       return d.value;
     });
     var tooltipData = exec_data.map(function (d) {
-      return d.Transaction + ': ' + d.single_value;
+      var plusSign = '+';
+      if (d.single_value < 0){
+        plusSign = '';
+      } 
+      return d.Transaction + ': ' + plusSign + d.single_value;
     });
     var pointRadii = exec_data.map(function(d) {
       return Math.sqrt(Math.abs(d.single_value) / 100);
@@ -300,6 +193,17 @@
             },
             mode: 'nearest',
             intersect: false,
+          },
+          annotation: {
+            annotations: {
+              line: {
+                type: 'line',
+                yMin: 0,
+                yMax: 0,
+                borderWidth: 2,
+                borderColor: 'gray'
+              }
+            }
           }
         },
         hover: {
@@ -313,9 +217,12 @@
   }
   
 </script>
-
+<hr>
+<hr>
 <div class="container">
   <div class="row">
+    <h1 style=" text-align:center;">Grade Report</h1>
+    
     <div class="col-md-3">
       <h3> Draft Rating:</h3>
       <p style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);"> A-</h3>
@@ -384,480 +291,6 @@
 
 <div class="container">
 <table class="table table-striped">
-  
-    
-    <tr>
-      
-        <th>date</th>
-      
-        <th>Transaction</th>
-      
-        <th>single_value</th>
-      
-        <th>value</th>
-      
-    </tr>
-    
-
-    <tr class="row1">
-<td class="col1">
-      1987-10-09 00:00:00
-    </td><td class="col2">
-      added Ray Tolbert to NYK
-    </td><td class="col3">
-      -424
-    </td><td class="col4">
-      -424
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1987-10-15 00:00:00
-    </td><td class="col2">
-      lost Jawann Oldham to SAC
-    </td><td class="col3">
-      1797
-    </td><td class="col4">
-      1372
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1987-10-15 00:00:00
-    </td><td class="col2">
-      added Fennis Dembo to NYK
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      1372
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1987-10-29 00:00:00
-    </td><td class="col2">
-      lost Ron Moore to DET
-    </td><td class="col3">
-      335
-    </td><td class="col4">
-      1707
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1987-10-29 00:00:00
-    </td><td class="col2">
-      lost Fennis Dembo to DET
-    </td><td class="col3">
-      799
-    </td><td class="col4">
-      2506
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1987-10-29 00:00:00
-    </td><td class="col2">
-      added Sidney Green to NYK
-    </td><td class="col3">
-      -10132
-    </td><td class="col4">
-      -7625
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1987-11-12 00:00:00
-    </td><td class="col2">
-      added Johnny Newman to NYK
-    </td><td class="col3">
-      -2954
-    </td><td class="col4">
-      -10579
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1987-11-12 00:00:00
-    </td><td class="col2">
-      lost Rory Sparrow to CHI
-    </td><td class="col3">
-      4072
-    </td><td class="col4">
-      -6507
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1987-11-12 00:00:00
-    </td><td class="col2">
-      added Greg Butler to NYK
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      -6507
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1987-11-30 00:00:00
-    </td><td class="col2">
-      added Rick Carlisle to NYK
-    </td><td class="col3">
-      -306
-    </td><td class="col4">
-      -6813
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1987-12-11 00:00:00
-    </td><td class="col2">
-      added Billy Donovan to NYK
-    </td><td class="col3">
-      -1346
-    </td><td class="col4">
-      -8160
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1988-03-02 00:00:00
-    </td><td class="col2">
-      added Carey Scurry to NYK
-    </td><td class="col3">
-      50
-    </td><td class="col4">
-      -8110
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1988-03-13 00:00:00
-    </td><td class="col2">
-      added Sedric Toney to NYK
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      -8110
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1988-03-23 00:00:00
-    </td><td class="col2">
-      added Sedric Toney to NYK
-    </td><td class="col3">
-      -83
-    </td><td class="col4">
-      -8193
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1988-06-27 00:00:00
-    </td><td class="col2">
-      lost Bill Cartwright to CHI
-    </td><td class="col3">
-      35849
-    </td><td class="col4">
-      27656
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1988-06-27 00:00:00
-    </td><td class="col2">
-      lost Will Perdue to CHI
-    </td><td class="col3">
-      20862
-    </td><td class="col4">
-      48518
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1988-06-27 00:00:00
-    </td><td class="col2">
-      added Charles Oakley to NYK
-    </td><td class="col3">
-      11201
-    </td><td class="col4">
-      59720
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1988-06-27 00:00:00
-    </td><td class="col2">
-      added Rod Strickland to NYK
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      59720
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1988-06-28 00:00:00
-    </td><td class="col2">
-      added Rod Strickland to NYK
-    </td><td class="col3">
-      4210
-    </td><td class="col4">
-      63930
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1988-06-28 00:00:00
-    </td><td class="col2">
-      added Greg Butler to NYK
-    </td><td class="col3">
-      -2017
-    </td><td class="col4">
-      61913
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1988-06-28 00:00:00
-    </td><td class="col2">
-      added Phil Stinnie to NYK
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      61913
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1988-10-03 00:00:00
-    </td><td class="col2">
-      added Eddie Lee Wilkins to NYK
-    </td><td class="col3">
-      -15204
-    </td><td class="col4">
-      46709
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1988-12-20 00:00:00
-    </td><td class="col2">
-      added Pete Myers to NYK
-    </td><td class="col3">
-      -510
-    </td><td class="col4">
-      46198
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1989-02-23 00:00:00
-    </td><td class="col2">
-      lost Byron Irvin to POR
-    </td><td class="col3">
-      -488
-    </td><td class="col4">
-      45710
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1989-02-23 00:00:00
-    </td><td class="col2">
-      added Kiki Vandeweghe to NYK
-    </td><td class="col3">
-      -3723
-    </td><td class="col4">
-      41986
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1989-06-27 00:00:00
-    </td><td class="col2">
-      added Brian Quinnett to NYK
-    </td><td class="col3">
-      -5054
-    </td><td class="col4">
-      36932
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1990-02-21 00:00:00
-    </td><td class="col2">
-      lost Rod Strickland to SAS
-    </td><td class="col3">
-      -11254
-    </td><td class="col4">
-      25677
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1990-02-21 00:00:00
-    </td><td class="col2">
-      added Maurice Cheeks to NYK
-    </td><td class="col3">
-      5200
-    </td><td class="col4">
-      30878
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1990-02-22 00:00:00
-    </td><td class="col2">
-      lost Jimmy Oliver to CHH
-    </td><td class="col3">
-      0
-    </td><td class="col4">
-      30878
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1990-02-22 00:00:00
-    </td><td class="col2">
-      added Stuart Gray to NYK
-    </td><td class="col3">
-      -1312
-    </td><td class="col4">
-      29566
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1990-06-27 00:00:00
-    </td><td class="col2">
-      added Jerrod Mustaf to NYK
-    </td><td class="col3">
-      -4125
-    </td><td class="col4">
-      25441
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1990-10-01 00:00:00
-    </td><td class="col2">
-      added John Starks to NYK
-    </td><td class="col3">
-      31653
-    </td><td class="col4">
-      57095
-    </td></tr>
-
-  
-    
-
-    <tr class="row1">
-<td class="col1">
-      1990-10-01 00:00:00
-    </td><td class="col2">
-      added Greg Grant to NYK
-    </td><td class="col3">
-      -353
-    </td><td class="col4">
-      56741
-    </td></tr>
-
   
 </table>
 </div>
