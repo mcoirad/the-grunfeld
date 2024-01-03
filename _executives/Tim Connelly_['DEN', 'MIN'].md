@@ -1,6 +1,6 @@
 ---
 badges: lucky,gambler,rebuilder
-bpm_rank: 22
+bpm_rank: 100
 draft_bust_list: '<ul>
 
   <li>Drafted Emmanuel Mudiay with 7th pick but was worth 42th pick.</li>
@@ -28,6 +28,7 @@ draft_win_list: '<ul>
 end_year: 2024
 final_bpm: -33337
 href: conneti99x
+is_active: true
 name: Tim Connelly
 signing_description: 'Tim Connelly ranks in the 55th percentile for free agency signings
   among executives in our database. '

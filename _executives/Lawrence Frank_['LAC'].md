@@ -1,6 +1,6 @@
 ---
 badges: destination,gambler
-bpm_rank: 8
+bpm_rank: 38
 draft_bust_list: null
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
@@ -15,6 +15,7 @@ draft_win_list: '<ul>
 end_year: 2024
 final_bpm: 34950
 href: frankla99x
+is_active: true
 name: Lawrence Frank
 signing_description: 'Lawrence Frank ranks in the 89th percentile for free agency
   signings among executives in our database. '

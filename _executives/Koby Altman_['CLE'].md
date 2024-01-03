@@ -1,6 +1,6 @@
 ---
 badges: gambler,squanderer
-bpm_rank: 24
+bpm_rank: 121
 draft_bust_list: '<ul>
 
   <li>Drafted Collin Sexton with 8th pick but was worth 56th pick.</li>
@@ -26,6 +26,7 @@ draft_win_list: '<ul>
 end_year: 2024
 final_bpm: -64995
 href: altmako01x
+is_active: true
 name: Koby Altman
 signing_description: 'Koby Altman ranks in the 58th percentile for free agency signings
   among executives in our database. '

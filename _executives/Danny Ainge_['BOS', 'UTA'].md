@@ -1,6 +1,6 @@
 ---
 badges: shark,rebuilder,smallmarket
-bpm_rank: 1
+bpm_rank: 2
 draft_bust_list: '<ul>
 
   <li>Drafted Jeff Green with 5th pick but was worth 48th pick.</li>
@@ -28,6 +28,7 @@ draft_win_list: '<ul>
 end_year: 2024
 final_bpm: 437218
 href: aingeda01x
+is_active: true
 name: Danny Ainge
 signing_description: 'Danny Ainge ranks in the 91th percentile for free agency signings
   among executives in our database. '

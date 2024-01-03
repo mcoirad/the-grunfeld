@@ -1,6 +1,6 @@
 ---
 badges: noob
-bpm_rank: 15
+bpm_rank: 62
 draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
   a draft grade.
@@ -11,6 +11,7 @@ draft_win_list: null
 end_year: 2024
 final_bpm: -838
 href: dunlemi02x
+is_active: true
 name: Mike Dunleavy
 signing_description: 'Mike Dunleavy ranks in the 99th percentile for free agency signings
   among executives in our database. '

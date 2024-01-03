@@ -1,6 +1,6 @@
 ---
 badges: noob,champion
-bpm_rank: 20
+bpm_rank: 92
 draft_bust_list: null
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
@@ -13,6 +13,7 @@ draft_win_list: '<ul>
 end_year: 2024
 final_bpm: -24291
 href: boothca01x
+is_active: true
 name: Calvin Booth
 signing_description: 'Calvin Booth ranks in the 72th percentile for free agency signings
   among executives in our database. '

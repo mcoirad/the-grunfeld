@@ -1,6 +1,6 @@
 ---
 badges: squanderer
-bpm_rank: 23
+bpm_rank: 109
 draft_bust_list: null
 draft_description: This executive has only drafted 2 players and thus doesn't have
   a draft grade.
@@ -13,6 +13,7 @@ draft_win_list: '<ul>
 end_year: 2024
 final_bpm: -48140
 href: cronijo99x
+is_active: true
 name: Joe Cronin
 signing_description: 'Joe Cronin ranks in the 84th percentile for free agency signings
   among executives in our database. '
