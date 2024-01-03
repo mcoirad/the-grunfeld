@@ -8,7 +8,7 @@ draft_num_players: 0
 draft_rating: null
 draft_rating_grade: null
 draft_win_list: null
-end_year: 2024
+end_year: 2025
 final_bpm: 16729
 href: fieldla01x
 is_active: true

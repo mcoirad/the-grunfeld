@@ -25,7 +25,7 @@ draft_win_list: '<ul>
   <li>Drafted Jayson Tatum with 3th pick but was worth 1th pick.</li>
 
   </ul>'
-end_year: 2024
+end_year: 2025
 final_bpm: 437218
 href: aingeda01x
 is_active: true

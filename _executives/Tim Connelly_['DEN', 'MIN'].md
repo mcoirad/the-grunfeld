@@ -25,7 +25,7 @@ draft_win_list: '<ul>
   <li>Drafted Vlatko Čančar with 49th pick but was worth 31th pick.</li>
 
   </ul>'
-end_year: 2024
+end_year: 2025
 final_bpm: -33337
 href: conneti99x
 is_active: true

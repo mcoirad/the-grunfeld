@@ -23,7 +23,7 @@ draft_win_list: '<ul>
   <li>Drafted Dylan Windler with 26th pick but was worth 21th pick.</li>
 
   </ul>'
-end_year: 2024
+end_year: 2025
 final_bpm: -64995
 href: altmako01x
 is_active: true

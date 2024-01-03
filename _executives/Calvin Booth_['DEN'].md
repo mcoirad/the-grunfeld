@@ -10,7 +10,7 @@ draft_rating_grade: null
 draft_win_list: '<ul>
 
   </ul>'
-end_year: 2024
+end_year: 2025
 final_bpm: -24291
 href: boothca01x
 is_active: true

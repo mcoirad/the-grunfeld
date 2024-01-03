@@ -12,7 +12,7 @@ draft_win_list: '<ul>
   <li>Drafted Terance Mann with 48th pick but was worth 28th pick.</li>
 
   </ul>'
-end_year: 2024
+end_year: 2025
 final_bpm: 34950
 href: frankla99x
 is_active: true

@@ -28,6 +28,7 @@ signing_lose_list: '<ul>
   <li>Signed Don MacLean in 1996.</li>
 
   </ul>'
+signing_rating: -0.75
 signing_rating_grade: F
 signing_win_list: null
 start_year: 1996
@@ -37,6 +38,8 @@ team_shortcode:
 - PHI
 trade_description: This executive hasn't traded any players, and thus doesn't have
   a trade grade.
+trade_lose_list: null
+trade_rating: null
 trade_rating_grade: null
 trade_win_list: '<ul>
 
