@@ -4,6 +4,12 @@ layout: default
 
 {% assign executive = site.executives | where: 'name', page.name | first %}
 
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/luxon/3.4.4/luxon.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-adapter-luxon/0.2.1/chartjs-adapter-luxon.min.js"></script>
+  </head>
 
 <header class="masthead">
     <div class="overlay"></div>
@@ -28,6 +34,97 @@ layout: default
 {% include executive.md executive=executive %}
             {{ content }}
 {% assign exec_data = site.data[executive.href] %}
+
+    <div class="container">
+        <div class="row"><canvas id="executiveTenure"></canvas></div></div>
+
+<!-- <script type="module" src="dimensions.js"></script> -->
+<script>
+  
+  // Load the dataset
+  d3.csv("https://raw.githubusercontent.com/mcoirad/the-grunfeld/master/_data/{{ executive.href }}.csv").then(makeChart);
+  
+  function makeChart(exec_data) {
+    
+    var dateLabels = exec_data.map(function (d) {
+      return d.date.slice(0, 10);
+    });
+    var scoreData = exec_data.map(function (d) {
+      return d.value;
+    });
+    var tooltipData = exec_data.map(function (d) {
+      return d.Transaction + ': ' + d.single_value;
+    });
+    var pointRadii = exec_data.map(function(d) {
+      return Math.sqrt(Math.abs(d.single_value) / 100);
+    })
+    
+    
+    const config = {
+      
+    };
+    
+
+    const myChart = new Chart('executiveTenure', {
+      data: {
+        labels: dateLabels,
+          datasets: [{
+            label: 'My First Dataset',
+            data: scoreData,
+            fill: false,
+            borderColor: 'rgb(75, 192, 192)',
+            tension: 0.1,
+            pointRadius:  pointRadii,
+            pointHoverBackgroundColor: 'red',
+            pointHoverRadius: pointRadii
+          }]
+      },
+      type: 'line',
+      options: {
+        scales: {
+          x: {
+            type: 'time',
+            time: {
+                unit: 'day',
+                round: 'day',
+                displayFormats: {
+                    day: 'MMM yyyy',
+                    month: 'MMM yyyy'
+                }
+            }
+          },
+          
+        },
+        responsive: true,
+        plugins: {
+          legend: {
+            display: false,
+          },
+          title: {
+            display: true,
+            text: '{{ executive.name }}'
+          },
+          tooltip: {
+            callbacks: {
+                label: function(context) {
+                    return tooltipData[ context.dataIndex];
+                }
+            },
+            mode: 'nearest',
+            intersect: false,
+          }
+        },
+        hover: {
+          mode: 'nearest',
+          intersect: false
+        },
+      }
+      
+    });
+    console.log("hello");
+  }
+  
+</script>
 
 <div class="container">
   <div class="row">
