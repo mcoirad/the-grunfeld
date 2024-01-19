@@ -1,0 +1,102 @@
+{% if executive.badges contains "shark" %}
+          <div class="col-md-2">
+            <h1>🦈</h1>
+            <p>shark</p>
+          </div>
+          {% endif %}
+          {% if executive.badges contains "rebuilder" %}
+          <div class="col-md-2">
+            <h1>🚧</h1>
+            <p>rebuilder</p>
+          </div>
+          {% endif %}
+          {% if executive.badges contains "smallmarket" %}
+          <div class="col-md-2">
+            <h1>🧑‍🌾</h1>
+            <p>small market</p>
+          </div>
+          {% endif %}
+          {% if executive.badges contains "godfather" %}
+          <div class="col-md-2">
+            <h1>🤵🏻</h1>
+            <span>godfather</span>
+          </div>
+          {% endif %}
+          {% if executive.badges contains "superteam" %}
+          <div class="col-md-2">
+            <h1>🦸</h1>
+            <p>superteam</p>
+          </div>
+          {% endif %}
+          {% if executive.badges contains "destination" %}
+          <div class="col-md-2">
+            <h1>🏖️</h1>
+            <p>destination</p>
+          </div>
+          {% endif %}
+          {% if executive.badges contains "gambler" %}
+          <div class="col-md-2">
+            <h1>🎰️</h1>
+            <p>gambler</p>
+          </div>
+          {% endif %}
+          {% if executive.badges contains "lucky" %}
+          <div class="col-md-2">
+            <h1>🍀️</h1>
+            <p>lucky</p>
+          </div>
+          {% endif %}
+          {% if executive.badges contains "noob" %}
+          <div class="col-md-2">
+            <h1>🤓️</h1>
+            <p>noob</p>
+          </div>
+          {% endif %}
+          {% if executive.badges contains "greatdrafter" %}
+          <div class="col-md-2">
+            <h1>🕵️️</h1>
+            <p>great drafter</p>
+          </div>
+          {% endif %}
+          {% if executive.badges contains "champion" %}
+          <div class="col-md-2">
+            <h1>👑️️</h1>
+            <p>champion</p>
+          </div>
+          {% endif %}
+          {% if executive.badges contains "squanderer" %}
+          <div class="col-md-2">
+            <h1>💔️️</h1>
+            <p>talent squanderer</p>
+          </div>
+          {% endif %}
+          {% if executive.badges contains "mediocre" %}
+          <div class="col-md-2">
+            <h1>😐️️</h1>
+            <p>middling</p>
+          </div>
+          {% endif %}
+          {% if executive.badges contains "badluck" %}
+          <div class="col-md-2">
+            <h1>🐈‍⬛️️</h1>
+            <p>unlucky</p>
+          </div>
+          {% endif %}
+          {% if executive.badges contains "tanker" %}
+          <div class="col-md-2">
+            <h1>🚆️</h1>
+            <p>tanker</p>
+          </div>
+          {% endif %}
+          {% if executive.badges contains "baddrafter" %}
+          <div class="col-md-2">
+            <h1>🤡️</h1>
+            <p>bad drafter</p>
+          </div>
+          {% endif %}
+          {% if executive.badges contains "optimizer" %}
+          <div class="col-md-2">
+            <h1>🖩️</h1>
+            <p>optimizer</p>
+          </div>
+          {% endif %}
