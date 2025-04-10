@@ -1,21 +1,18 @@
 ---
-badges: ''
-bpm_rank: 66
+bpm_rank: 67
 draft_bust_list: null
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
 draft_num_players: 1
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: '<ul>
-
-  </ul>'
+draft_win_list: null
 end_year: 1999
-final_bpm: -2354
+final_bpm: -4013
 href: calipjo99x
 is_active: false
 name: John Calipari
-signing_description: 'John Calipari ranks in the 21th percentile for free agency signings
+signing_description: 'John Calipari ranks in the 23th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -26,7 +23,7 @@ signing_lose_list: '<ul>
   <li>Signed Sherman Douglas in 1997.</li>
 
   </ul>'
-signing_rating: -0.57
+signing_rating: -0.56
 signing_rating_grade: D-
 signing_win_list: '<ul>
 
@@ -40,7 +37,7 @@ team:
 - Brooklyn Nets
 team_shortcode:
 - BRK
-trade_description: John Calipari ranks in the 50th percentile for trading among executives
+trade_description: John Calipari ranks in the 48th percentile for trading among executives
   in our database. That's basically average. It could be worse though lol.
 trade_lose_list: '<ul>
 

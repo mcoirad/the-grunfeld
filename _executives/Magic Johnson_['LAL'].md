@@ -1,29 +1,18 @@
 ---
-badges: ''
-bpm_rank: 43
-draft_bust_list: '<ul>
-
-  <li>Drafted Lonzo Ball with 2th pick but was worth 7th pick.</li>
-
-  <li>Drafted Moritz Wagner with 25th pick but was worth 33th pick.</li>
-
-  <li>Drafted Sviatoslav Mykhailiuk with 47th pick but was worth 48th pick.</li>
-
-  </ul>'
+bpm_rank: 36
+draft_bust_list: null
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: '<ul>
-
-  </ul>'
+draft_win_list: null
 end_year: 2019
-final_bpm: 27881
+final_bpm: 48667
 href: johnsma01x
 is_active: false
 name: Magic Johnson
-signing_description: 'Magic Johnson ranks in the 72th percentile for free agency signings
+signing_description: 'Magic Johnson ranks in the 76th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -35,7 +24,7 @@ signing_lose_list: '<ul>
 
   </ul>'
 signing_rating: -0.33
-signing_rating_grade: B
+signing_rating_grade: B+
 signing_win_list: '<ul>
 
   <li>Signed LeBron James in 2018.</li>
@@ -54,9 +43,9 @@ trade_description: 'Magic Johnson ranks in the 0th percentile for trading among 
   in our database. '
 trade_lose_list: '<ul>
 
-  <li>Added Channing Frye, Isaiah Thomas, Moritz Wagner to LAL.</li>
+  <li>Added Mike Muscala to LAL.</li>
 
-  <li>Lost Jordan Clarkson, Larry Nance Jr. to CLE.</li>
+  <li>Lost Michael Beasley, Ivica Zubac to LAC.</li>
 
   </ul>'
 trade_rating: -0.75

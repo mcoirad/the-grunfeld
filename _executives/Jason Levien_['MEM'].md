@@ -1,15 +1,12 @@
 ---
-badges: ''
-bpm_rank: 53
+bpm_rank: 51
 draft_bust_list: null
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
 draft_num_players: 1
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: '<ul>
-
-  </ul>'
+draft_win_list: null
 end_year: 2014
 final_bpm: 10651
 href: levieja99x
@@ -42,7 +39,7 @@ team:
 - Memphis Grizzlies
 team_shortcode:
 - MEM
-trade_description: 'Jason Levien ranks in the 68th percentile for trading among executives
+trade_description: 'Jason Levien ranks in the 69th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -58,7 +55,7 @@ trade_rating: 0.12
 trade_rating_grade: B
 trade_win_list: '<ul>
 
-  <li></li>
+  <li>Didn''t receive any players or picks.</li>
 
   <li>Lost Tony Wroten to PHI.</li>
 

@@ -1,34 +1,19 @@
 ---
-badges: ''
-bpm_rank: 125
-draft_bust_list: '<ul>
-
-  <li>Drafted Jacque Vaughn with 27th pick but was worth 46th pick.</li>
-
-  <li>Drafted Blue Edwards with 21th pick but was worth 44th pick.</li>
-
-  <li>Drafted Mike Sweetney with 9th pick but was worth 31th pick.</li>
-
-  </ul>'
+bpm_rank: 122
+draft_bust_list: null
 draft_description: Scott Layden ranks in the 78th percentile for drafting among executives
   in our database. Layden's draft picks average out to be worth the equivalent of
   7 spots higher than they were picked due to his good drafting.
 draft_num_players: 12
 draft_rating: 6.7
 draft_rating_grade: B+
-draft_win_list: '<ul>
-
-  <li>Drafted Lavor Postell with 39th pick but was worth 14th pick.</li>
-
-  <li>Drafted Bryon Russell with 45th pick but was worth 5th pick.</li>
-
-  </ul>'
+draft_win_list: null
 end_year: 2019
 final_bpm: -70280
 href: laydesc99x
 is_active: false
 name: Scott Layden
-signing_description: 'Scott Layden ranks in the 28th percentile for free agency signings
+signing_description: 'Scott Layden ranks in the 29th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -39,7 +24,7 @@ signing_lose_list: '<ul>
   <li>Signed Antoine Carr in 1994.</li>
 
   </ul>'
-signing_rating: -0.54
+signing_rating: -0.53
 signing_rating_grade: D
 signing_win_list: '<ul>
 
@@ -59,7 +44,7 @@ team_shortcode:
 - UTA
 - NYK
 - MIN
-trade_description: 'Scott Layden ranks in the 64th percentile for trading among executives
+trade_description: 'Scott Layden ranks in the 62th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 

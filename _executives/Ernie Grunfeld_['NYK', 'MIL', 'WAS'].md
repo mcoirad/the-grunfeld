@@ -1,36 +1,19 @@
 ---
-badges: ''
 bpm_rank: 110
-draft_bust_list: '<ul>
-
-  <li>Drafted John Wall with 1th pick but was worth 2th pick.</li>
-
-  <li>Drafted Jan Veselý with 6th pick but was worth 35th pick.</li>
-
-  <li>Drafted Nick Young with 16th pick but was worth 47th pick.</li>
-
-  </ul>'
-draft_description: Ernie Grunfeld ranks in the 41th percentile for drafting among
+draft_bust_list: null
+draft_description: Ernie Grunfeld ranks in the 39th percentile for drafting among
   executives in our database. Grunfeld's draft picks average out to be worth the equivalent
-  of 4 spots lower than they were picked due to their terrible drafting.
+  of 3 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 28
-draft_rating: -3.6
-draft_rating_grade: C-
-draft_win_list: '<ul>
-
-  <li>Drafted Michael Redd with 43th pick but was worth 1th pick.</li>
-
-  <li>Drafted Charlie Ward with 26th pick but was worth 4th pick.</li>
-
-  <li>Drafted Dominic McGuire with 47th pick but was worth 32th pick.</li>
-
-  </ul>'
+draft_rating: -3.2
+draft_rating_grade: D+
+draft_win_list: null
 end_year: 2019
-final_bpm: -48304
+final_bpm: -49321
 href: grunfer01x
 is_active: false
 name: Ernie Grunfeld
-signing_description: Ernie Grunfeld ranks in the 48th percentile for free agency signings
+signing_description: Ernie Grunfeld ranks in the 49th percentile for free agency signings
   among executives in our database. That's basically average. It could be worse though
   lol.
 signing_lose_list: '<ul>
@@ -62,7 +45,7 @@ team_shortcode:
 - NYK
 - MIL
 - WAS
-trade_description: 'Ernie Grunfeld ranks in the 29th percentile for trading among
+trade_description: 'Ernie Grunfeld ranks in the 30th percentile for trading among
   executives in our database. '
 trade_lose_list: '<ul>
 

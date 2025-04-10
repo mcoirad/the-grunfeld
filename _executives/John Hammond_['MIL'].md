@@ -1,36 +1,19 @@
 ---
-badges: ''
-bpm_rank: 27
-draft_bust_list: '<ul>
-
-  <li>Drafted Jabari Parker with 2th pick but was worth 37th pick.</li>
-
-  <li>Drafted Joe Alexander with 8th pick but was worth 22th pick.</li>
-
-  <li>Drafted Thon Maker with 10th pick but was worth 40th pick.</li>
-
-  </ul>'
-draft_description: John Hammond ranks in the 44th percentile for drafting among executives
+bpm_rank: 21
+draft_bust_list: null
+draft_description: John Hammond ranks in the 42th percentile for drafting among executives
   in our database. Hammond's draft picks average out to be worth the equivalent of
   3 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 16
-draft_rating: -3.2
+draft_rating: -2.8
 draft_rating_grade: C-
-draft_win_list: '<ul>
-
-  <li>Drafted Giannis Antetokounmpo with 15th pick but was worth 1th pick.</li>
-
-  <li>Drafted Malcolm Brogdon with 36th pick but was worth 5th pick.</li>
-
-  <li>Drafted Jodie Meeks with 41th pick but was worth 34th pick.</li>
-
-  </ul>'
+draft_win_list: null
 end_year: 2017
-final_bpm: 76512
+final_bpm: 118197
 href: hammojo99x
 is_active: false
 name: John Hammond
-signing_description: 'John Hammond ranks in the 61th percentile for free agency signings
+signing_description: 'John Hammond ranks in the 64th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -57,7 +40,7 @@ team:
 - Milwaukee Bucks
 team_shortcode:
 - MIL
-trade_description: 'John Hammond ranks in the 56th percentile for trading among executives
+trade_description: 'John Hammond ranks in the 57th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 

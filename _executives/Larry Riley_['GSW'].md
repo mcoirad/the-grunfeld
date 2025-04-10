@@ -1,28 +1,19 @@
 ---
-badges: ''
-bpm_rank: 8
+bpm_rank: 6
 draft_bust_list: null
-draft_description: Larry Riley ranks in the 39th percentile for drafting among executives
+draft_description: Larry Riley ranks in the 36th percentile for drafting among executives
   in our database. Riley's draft picks average out to be worth the equivalent of 4
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 4
 draft_rating: -3.8
 draft_rating_grade: D+
-draft_win_list: '<ul>
-
-  <li>Drafted Stephen Curry with 7th pick but was worth 2th pick.</li>
-
-  <li>Drafted Charles Jenkins with 44th pick but was worth 33th pick.</li>
-
-  <li>Drafted Klay Thompson with 11th pick but was worth 9th pick.</li>
-
-  </ul>'
+draft_win_list: null
 end_year: 2012
-final_bpm: 260613
+final_bpm: 289861
 href: rileyla99x
 is_active: false
 name: Larry Riley
-signing_description: 'Larry Riley ranks in the 17th percentile for free agency signings
+signing_description: 'Larry Riley ranks in the 14th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -49,7 +40,7 @@ team:
 - Golden State Warriors
 team_shortcode:
 - GSW
-trade_description: 'Larry Riley ranks in the 72th percentile for trading among executives
+trade_description: 'Larry Riley ranks in the 71th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 

@@ -1,36 +1,19 @@
 ---
-badges: shark,greatdrafter,optimizer
-bpm_rank: 12
-draft_bust_list: '<ul>
-
-  <li>Drafted Marcus Morris with 14th pick but was worth 44th pick.</li>
-
-  <li>Drafted Aaron Brooks with 26th pick but was worth 36th pick.</li>
-
-  <li>Drafted Isaiah Canaan with 34th pick but was worth 38th pick.</li>
-
-  </ul>'
+bpm_rank: 25
+draft_bust_list: null
 draft_description: Daryl Morey ranks in the 97th percentile for drafting among executives
-  in our database. Morey's draft picks average out to be worth the equivalent of 15
+  in our database. Morey's draft picks average out to be worth the equivalent of 13
   spots higher than they were picked due to his good drafting.
-draft_num_players: 18
-draft_rating: 15.4
+draft_num_players: 25
+draft_rating: 13.2
 draft_rating_grade: S
-draft_win_list: '<ul>
-
-  <li>Drafted Clint Capela with 25th pick but was worth 3th pick.</li>
-
-  <li>Drafted Chandler Parsons with 38th pick but was worth 10th pick.</li>
-
-  <li>Drafted Zhou Qi with 43th pick but was worth 24th pick.</li>
-
-  </ul>'
-end_year: 2025
-final_bpm: 179137
+draft_win_list: null
+end_year: 2026
+final_bpm: 102816
 href: moreyda99x
 is_active: true
 name: Daryl Morey
-signing_description: 'Daryl Morey ranks in the 75th percentile for free agency signings
+signing_description: 'Daryl Morey ranks in the 70th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -41,8 +24,8 @@ signing_lose_list: '<ul>
   <li>Signed Corey Brewer in 2015.</li>
 
   </ul>'
-signing_rating: -0.3
-signing_rating_grade: B+
+signing_rating: -0.35
+signing_rating_grade: B
 signing_win_list: '<ul>
 
   <li>Signed James Harden in 2016.</li>
@@ -59,7 +42,7 @@ team:
 team_shortcode:
 - HOU
 - PHI
-trade_description: 'Daryl Morey ranks in the 77th percentile for trading among executives
+trade_description: 'Daryl Morey ranks in the 73th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -68,7 +51,7 @@ trade_lose_list: '<ul>
   <li>Lost Kyle Lowry to TOR.</li>
 
   </ul>'
-trade_rating: 0.2
+trade_rating: 0.15
 trade_rating_grade: B+
 trade_win_list: '<ul>
 

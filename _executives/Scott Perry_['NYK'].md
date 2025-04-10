@@ -1,5 +1,4 @@
 ---
-badges: ''
 bpm_rank: 56
 draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have

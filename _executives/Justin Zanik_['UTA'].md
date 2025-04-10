@@ -1,5 +1,4 @@
 ---
-badges: ''
 bpm_rank: 57
 draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
@@ -9,7 +8,7 @@ draft_rating: null
 draft_rating_grade: null
 draft_win_list: null
 end_year: 2021
-final_bpm: 5440
+final_bpm: 731
 href: zanikju01x
 is_active: false
 name: Justin Zanik
@@ -44,14 +43,16 @@ trade_description: This executive has only made 3 trades and thus doesn't have a
   grade.
 trade_lose_list: '<ul>
 
-  <li>Added Eric Paschall to UTA.</li>
+  <li>Added Jared Butler, Jabari Walker to UTA.</li>
+
+  <li>Lost Santi Aldama to MEM.</li>
 
   </ul>'
 trade_rating: null
 trade_rating_grade: null
 trade_win_list: '<ul>
 
-  <li></li>
+  <li>Didn''t receive any players or picks.</li>
 
   <li>Lost Derrick Favors to OKC.</li>
 

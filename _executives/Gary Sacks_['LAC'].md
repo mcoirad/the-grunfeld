@@ -1,6 +1,5 @@
 ---
-badges: ''
-bpm_rank: 67
+bpm_rank: 66
 draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
   a draft grade.
@@ -13,7 +12,7 @@ final_bpm: -2992
 href: sacksga99x
 is_active: false
 name: Gary Sacks
-signing_description: 'Gary Sacks ranks in the 62th percentile for free agency signings
+signing_description: 'Gary Sacks ranks in the 65th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 

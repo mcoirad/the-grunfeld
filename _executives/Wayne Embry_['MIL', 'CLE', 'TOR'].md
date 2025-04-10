@@ -1,36 +1,19 @@
 ---
-badges: ''
-bpm_rank: 163
-draft_bust_list: '<ul>
-
-  <li>Drafted Vitaly Potapenko with 12th pick but was worth 45th pick.</li>
-
-  <li>Drafted Scott Lloyd with 24th pick but was worth 50th pick.</li>
-
-  <li>Drafted Randolph Keys with 22th pick but was worth 41th pick.</li>
-
-  </ul>'
-draft_description: Wayne Embry ranks in the 69th percentile for drafting among executives
+bpm_rank: 156
+draft_bust_list: null
+draft_description: Wayne Embry ranks in the 68th percentile for drafting among executives
   in our database. Embry's draft picks average out to be worth the equivalent of 2
   spots higher than they were picked due to his good drafting.
-draft_num_players: 29
-draft_rating: 2.4
+draft_num_players: 28
+draft_rating: 2.5
 draft_rating_grade: B
-draft_win_list: '<ul>
-
-  <li>Drafted Terrell Brandon with 11th pick but was worth 1th pick.</li>
-
-  <li>Drafted Cedric Henderson with 45th pick but was worth 38th pick.</li>
-
-  <li>Drafted Derek Anderson with 13th pick but was worth 4th pick.</li>
-
-  </ul>'
+draft_win_list: null
 end_year: 2006
-final_bpm: -431169
+final_bpm: -214966
 href: embrywa01x
 is_active: false
 name: Wayne Embry
-signing_description: 'Wayne Embry ranks in the 12th percentile for free agency signings
+signing_description: 'Wayne Embry ranks in the 21th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -41,8 +24,8 @@ signing_lose_list: '<ul>
   <li>Signed Henry James in 1991.</li>
 
   </ul>'
-signing_rating: -0.65
-signing_rating_grade: F
+signing_rating: -0.56
+signing_rating_grade: D-
 signing_win_list: '<ul>
 
   <li>Signed Craig Ehlo in 1987.</li>
@@ -61,16 +44,16 @@ team_shortcode:
 - MIL
 - CLE
 - TOR
-trade_description: 'Wayne Embry ranks in the 22th percentile for trading among executives
+trade_description: 'Wayne Embry ranks in the 26th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
-  <li>Added Junior Bridgeman, Dave Meyers, Elmore Smith, Brian Winters to MIL.</li>
+  <li>Added Fred Carter to MIL.</li>
 
-  <li>Lost Kareem Abdul-Jabbar, Walt Wesley to LAL.</li>
+  <li>Lost Wilson Washington, Maurice Cheeks to PHI.</li>
 
   </ul>'
-trade_rating: -0.17
+trade_rating: -0.12
 trade_rating_grade: D-
 trade_win_list: '<ul>
 

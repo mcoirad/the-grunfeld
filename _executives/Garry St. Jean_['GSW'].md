@@ -1,34 +1,20 @@
 ---
-badges: ''
 bpm_rank: 155
-draft_bust_list: '<ul>
-
-  <li>Drafted Mickaël Piétrus with 11th pick but was worth 32th pick.</li>
-
-  <li>Drafted Jason Richardson with 5th pick but was worth 6th pick.</li>
-
-  </ul>'
+draft_bust_list: null
 draft_description: Garry St. Jean ranks in the 91th percentile for drafting among
   executives in our database. St.'s draft picks average out to be worth the equivalent
   of 11 spots higher than they were picked due to his good drafting.
 draft_num_players: 7
 draft_rating: 10.9
 draft_rating_grade: A
-draft_win_list: '<ul>
-
-  <li>Drafted Gilbert Arenas with 31th pick but was worth 3th pick.</li>
-
-  <li>Drafted Troy Murphy with 14th pick but was worth 12th pick.</li>
-
-  </ul>'
+draft_win_list: null
 end_year: 2004
 final_bpm: -213311
 href: stjeaga99x
 is_active: false
 name: Garry St. Jean
-signing_description: Garry St. Jean ranks in the 53th percentile for free agency signings
-  among executives in our database. That's basically average. It could be worse though
-  lol.
+signing_description: 'Garry St. Jean ranks in the 57th percentile for free agency
+  signings among executives in our database. '
 signing_lose_list: '<ul>
 
   <li>Signed Calbert Cheaney in 2003.</li>
@@ -54,7 +40,7 @@ team:
 - Golden State Warriors
 team_shortcode:
 - GSW
-trade_description: 'Garry St. Jean ranks in the 3th percentile for trading among executives
+trade_description: 'Garry St. Jean ranks in the 2th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -64,7 +50,7 @@ trade_lose_list: '<ul>
 
   </ul>'
 trade_rating: -0.6
-trade_rating_grade: F
+trade_rating_grade: F-
 trade_win_list: '<ul>
 
   <li>Added Jim Jackson, Clarence Weatherspoon to GSW.</li>

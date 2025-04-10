@@ -1,34 +1,19 @@
 ---
-badges: ''
-bpm_rank: 106
-draft_bust_list: '<ul>
-
-  <li>Drafted Antoine Walker with 6th pick but was worth 10th pick.</li>
-
-  <li>Drafted Eric Montross with 9th pick but was worth 44th pick.</li>
-
-  <li>Drafted Eric Williams with 14th pick but was worth 48th pick.</li>
-
-  </ul>'
-draft_description: M.L. Carr ranks in the 18th percentile for drafting among executives
+bpm_rank: 105
+draft_bust_list: null
+draft_description: M.L. Carr ranks in the 17th percentile for drafting among executives
   in our database. Carr's draft picks average out to be worth the equivalent of 9
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
 draft_rating: -9.2
 draft_rating_grade: F
-draft_win_list: '<ul>
-
-  <li>Drafted Steve Hamer with 38th pick but was worth 21th pick.</li>
-
-  <li>Drafted Junior Burrough with 33th pick but was worth 23th pick.</li>
-
-  </ul>'
+draft_win_list: null
 end_year: 1997
 final_bpm: -42264
 href: carrml01x
 is_active: false
 name: M.L. Carr
-signing_description: 'M.L. Carr ranks in the 59th percentile for free agency signings
+signing_description: 'M.L. Carr ranks in the 63th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -40,7 +25,7 @@ signing_lose_list: '<ul>
 
   </ul>'
 signing_rating: -0.38
-signing_rating_grade: C+
+signing_rating_grade: B-
 signing_win_list: '<ul>
 
   <li>Signed Dana Barros in 1995.</li>

@@ -1,21 +1,12 @@
 ---
-badges: ''
-bpm_rank: 86
+bpm_rank: 88
 draft_bust_list: null
-draft_description: Del Harris ranks in the 55th percentile for drafting among executives
+draft_description: Del Harris ranks in the 53th percentile for drafting among executives
   in our database. That's basically average. It could worse though lol.
 draft_num_players: 4
 draft_rating: -0.2
 draft_rating_grade: C+
-draft_win_list: '<ul>
-
-  <li>Drafted Steve Henson with 44th pick but was worth 19th pick.</li>
-
-  <li>Drafted Tito Horford with 39th pick but was worth 29th pick.</li>
-
-  <li>Drafted Frank Kornet with 30th pick but was worth 28th pick.</li>
-
-  </ul>'
+draft_win_list: null
 end_year: 1992
 final_bpm: -21869
 href: harride99x
@@ -46,13 +37,13 @@ team:
 - Milwaukee Bucks
 team_shortcode:
 - MIL
-trade_description: 'Del Harris ranks in the 34th percentile for trading among executives
+trade_description: 'Del Harris ranks in the 33th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
   <li>Added Larry Krystkowiak to MIL.</li>
 
-  <li>Lost Charles Davis to SAS.</li>
+  <li>Lost Charles Davis, Reggie Turner to SAS.</li>
 
   </ul>'
 trade_rating: -0.07

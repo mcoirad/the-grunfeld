@@ -1,36 +1,19 @@
 ---
-badges: ''
-bpm_rank: 51
-draft_bust_list: '<ul>
-
-  <li>Drafted Harrison Barnes with 7th pick but was worth 54th pick.</li>
-
-  <li>Drafted James Wiseman with 2th pick but was worth 46th pick.</li>
-
-  <li>Drafted Jordan Poole with 28th pick but was worth 52th pick.</li>
-
-  </ul>'
-draft_description: Bob Myers ranks in the 40th percentile for drafting among executives
-  in our database. Myers's draft picks average out to be worth the equivalent of 4
+bpm_rank: 49
+draft_bust_list: null
+draft_description: Bob Myers ranks in the 48th percentile for drafting among executives
+  in our database. Myers's draft picks average out to be worth the equivalent of 2
   spots lower than they were picked due to their terrible drafting.
-draft_num_players: 14
-draft_rating: -3.7
-draft_rating_grade: C-
-draft_win_list: '<ul>
-
-  <li>Drafted Draymond Green with 35th pick but was worth 3th pick.</li>
-
-  <li>Drafted Kevon Looney with 30th pick but was worth 11th pick.</li>
-
-  <li>Drafted Nico Mannion with 48th pick but was worth 25th pick.</li>
-
-  </ul>'
+draft_num_players: 15
+draft_rating: -1.9
+draft_rating_grade: C
+draft_win_list: null
 end_year: 2023
-final_bpm: 14321
+final_bpm: 12181
 href: myersbo99x
 is_active: false
 name: Bob Myers
-signing_description: 'Bob Myers ranks in the 85th percentile for free agency signings
+signing_description: 'Bob Myers ranks in the 86th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -41,7 +24,7 @@ signing_lose_list: '<ul>
   <li>Signed Damion Lee in 2019.</li>
 
   </ul>'
-signing_rating: -0.19
+signing_rating: -0.22
 signing_rating_grade: A-
 signing_win_list: '<ul>
 

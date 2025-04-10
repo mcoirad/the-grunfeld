@@ -1,36 +1,19 @@
 ---
-badges: ''
-bpm_rank: 58
-draft_bust_list: '<ul>
-
-  <li>Drafted Darko Miličić with 2th pick but was worth 36th pick.</li>
-
-  <li>Drafted Brandon Knight with 8th pick but was worth 49th pick.</li>
-
-  <li>Drafted Kentavious Caldwell-Pope with 8th pick but was worth 46th pick.</li>
-
-  </ul>'
-draft_description: Joe Dumars ranks in the 74th percentile for drafting among executives
+bpm_rank: 60
+draft_bust_list: null
+draft_description: Joe Dumars ranks in the 76th percentile for drafting among executives
   in our database. Dumars's draft picks average out to be worth the equivalent of
   5 spots higher than they were picked due to his good drafting.
 draft_num_players: 26
-draft_rating: 4.9
+draft_rating: 5.0
 draft_rating_grade: B+
-draft_win_list: '<ul>
-
-  <li>Drafted Mehmet Okur with 38th pick but was worth 7th pick.</li>
-
-  <li>Drafted Andre Drummond with 9th pick but was worth 5th pick.</li>
-
-  <li>Drafted Tayshaun Prince with 23th pick but was worth 5th pick.</li>
-
-  </ul>'
+draft_win_list: null
 end_year: 2014
-final_bpm: 2721
+final_bpm: -90
 href: dumarjo01x
 is_active: false
 name: Joe Dumars
-signing_description: 'Joe Dumars ranks in the 18th percentile for free agency signings
+signing_description: 'Joe Dumars ranks in the 16th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -57,7 +40,7 @@ team:
 - Detroit Pistons
 team_shortcode:
 - DET
-trade_description: 'Joe Dumars ranks in the 59th percentile for trading among executives
+trade_description: 'Joe Dumars ranks in the 61th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -67,7 +50,7 @@ trade_lose_list: '<ul>
 
   </ul>'
 trade_rating: 0.09
-trade_rating_grade: C+
+trade_rating_grade: B-
 trade_win_list: '<ul>
 
   <li>Added Chucky Atkins, Ben Wallace to DET.</li>

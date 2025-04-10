@@ -1,26 +1,14 @@
 ---
-badges: ''
-bpm_rank: 20
-draft_bust_list: '<ul>
-
-  <li>Drafted Dennis Smith Jr. with 9th pick but was worth 50th pick.</li>
-
-  <li>Drafted Josh Green with 18th pick but was worth 44th pick.</li>
-
-  </ul>'
-draft_description: Donn Nelson ranks in the 59th percentile for drafting among executives
-  in our database. Nelson's draft picks average out to be worth the equivalent of
-  1 spot higher than they were picked due to his good drafting.
+bpm_rank: 17
+draft_bust_list: null
+draft_description: Donn Nelson ranks in the 55th percentile for drafting among executives
+  in our database. That's basically average. It could worse though lol.
 draft_num_players: 8
-draft_rating: 1.2
+draft_rating: 0.4
 draft_rating_grade: C+
-draft_win_list: '<ul>
-
-  <li>Drafted A.J. Hammons with 46th pick but was worth 23th pick.</li>
-
-  </ul>'
+draft_win_list: null
 end_year: 2021
-final_bpm: 119850
+final_bpm: 134461
 href: nelsodo99x
 is_active: false
 name: Donn Nelson
@@ -35,7 +23,7 @@ signing_lose_list: '<ul>
   <li>Signed J.J. Barea in 2006.</li>
 
   </ul>'
-signing_rating: -0.38
+signing_rating: -0.4
 signing_rating_grade: B-
 signing_win_list: '<ul>
 
@@ -51,7 +39,7 @@ team:
 - Dallas Mavericks
 team_shortcode:
 - DAL
-trade_description: 'Donn Nelson ranks in the 87th percentile for trading among executives
+trade_description: 'Donn Nelson ranks in the 85th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -60,8 +48,8 @@ trade_lose_list: '<ul>
   <li>Lost Trae Young, Cam Reddish to ATL.</li>
 
   </ul>'
-trade_rating: 0.28
-trade_rating_grade: A
+trade_rating: 0.24
+trade_rating_grade: A-
 trade_win_list: '<ul>
 
   <li>Added Malik Allen, Jason Kidd, Antoine Wright to DAL.</li>

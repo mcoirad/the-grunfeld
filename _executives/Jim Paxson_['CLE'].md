@@ -1,32 +1,19 @@
 ---
-badges: ''
 bpm_rank: 9
-draft_bust_list: '<ul>
-
-  <li>Drafted DeSagana Diop with 8th pick but was worth 40th pick.</li>
-
-  <li>Drafted Dajuan Wagner with 6th pick but was worth 32th pick.</li>
-
-  <li>Drafted Trajan Langdon with 11th pick but was worth 23th pick.</li>
-
-  </ul>'
-draft_description: Jim Paxson ranks in the 42th percentile for drafting among executives
+draft_bust_list: null
+draft_description: Jim Paxson ranks in the 37th percentile for drafting among executives
   in our database. Paxson's draft picks average out to be worth the equivalent of
   4 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 11
 draft_rating: -3.5
-draft_rating_grade: C-
-draft_win_list: '<ul>
-
-  <li>Drafted Carlos Boozer with 35th pick but was worth 2th pick.</li>
-
-  </ul>'
+draft_rating_grade: D+
+draft_win_list: null
 end_year: 2005
 final_bpm: 202110
 href: paxsoji02x
 is_active: false
 name: Jim Paxson
-signing_description: 'Jim Paxson ranks in the 66th percentile for free agency signings
+signing_description: 'Jim Paxson ranks in the 78th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -37,8 +24,8 @@ signing_lose_list: '<ul>
   <li>Signed Mark Bryant in 1999.</li>
 
   </ul>'
-signing_rating: -0.34
-signing_rating_grade: B-
+signing_rating: -0.32
+signing_rating_grade: B+
 signing_win_list: '<ul>
 
   <li>Signed Earl Boykins in 2000.</li>

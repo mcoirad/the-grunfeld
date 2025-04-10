@@ -1,15 +1,12 @@
 ---
-badges: ''
-bpm_rank: 96
+bpm_rank: 95
 draft_bust_list: null
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
 draft_num_players: 1
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: '<ul>
-
-  </ul>'
+draft_win_list: null
 end_year: 2018
 final_bpm: -27113
 href: brownbr99x

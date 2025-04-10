@@ -1,42 +1,31 @@
 ---
-badges: ''
-bpm_rank: 13
-draft_bust_list: '<ul>
-
-  <li>Drafted Dante Exum with 5th pick but was worth 49th pick.</li>
-
-  <li>Drafted Trey Lyles with 12th pick but was worth 36th pick.</li>
-
-  <li>Drafted Grayson Allen with 21th pick but was worth 29th pick.</li>
-
-  </ul>'
-draft_description: Dennis Lindsey ranks in the 75th percentile for drafting among
+bpm_rank: 14
+draft_bust_list: null
+draft_description: Dennis Lindsey ranks in the 69th percentile for drafting among
   executives in our database. Lindsey's draft picks average out to be worth the equivalent
-  of 5 spots higher than they were picked due to his good drafting.
-draft_num_players: 9
-draft_rating: 5.4
-draft_rating_grade: B+
-draft_win_list: '<ul>
-
-  </ul>'
+  of 3 spots higher than they were picked due to his good drafting.
+draft_num_players: 10
+draft_rating: 2.7
+draft_rating_grade: B
+draft_win_list: null
 end_year: 2021
-final_bpm: 175707
+final_bpm: 167150
 href: lindsde99x
 is_active: false
 name: Dennis Lindsey
-signing_description: 'Dennis Lindsey ranks in the 84th percentile for free agency
+signing_description: 'Dennis Lindsey ranks in the 87th percentile for free agency
   signings among executives in our database. '
 signing_lose_list: '<ul>
+
+  <li>Signed Jordan Clarkson in 2020.</li>
 
   <li>Signed Trey Burke in 2013.</li>
 
   <li>Signed Raul Neto in 2015.</li>
 
-  <li>Signed Elijah Millsap in 2015.</li>
-
   </ul>'
 signing_rating: -0.21
-signing_rating_grade: A-
+signing_rating_grade: A
 signing_win_list: '<ul>
 
   <li>Signed Rudy Gobert in 2016.</li>
@@ -51,8 +40,8 @@ team:
 - Utah Jazz
 team_shortcode:
 - UTA
-trade_description: Dennis Lindsey ranks in the 54th percentile for trading among executives
-  in our database. That's basically average. It could be worse though lol.
+trade_description: 'Dennis Lindsey ranks in the 69th percentile for trading among
+  executives in our database. '
 trade_lose_list: '<ul>
 
   <li>Added Thomas Bryant, Grant Jerrett, Kendrick Perkins, Tibor Pleiß, Josh Okogie
@@ -61,8 +50,8 @@ trade_lose_list: '<ul>
   <li>Lost Enes Kanter, Steve Novak to OKC.</li>
 
   </ul>'
-trade_rating: 0.06
-trade_rating_grade: C+
+trade_rating: 0.12
+trade_rating_grade: B
 trade_win_list: '<ul>
 
   <li>Added Mike Conley to UTA.</li>

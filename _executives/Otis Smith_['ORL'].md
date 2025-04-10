@@ -1,24 +1,19 @@
 ---
-badges: ''
-bpm_rank: 31
+bpm_rank: 34
 draft_bust_list: null
-draft_description: Otis Smith ranks in the 85th percentile for drafting among executives
+draft_description: Otis Smith ranks in the 86th percentile for drafting among executives
   in our database. Smith's draft picks average out to be worth the equivalent of 10
   spots higher than they were picked due to his good drafting.
 draft_num_players: 6
 draft_rating: 9.7
 draft_rating_grade: A-
-draft_win_list: '<ul>
-
-  <li>Drafted J.J. Redick with 11th pick but was worth 8th pick.</li>
-
-  </ul>'
+draft_win_list: null
 end_year: 2012
 final_bpm: 52979
 href: smithot01x
 is_active: false
 name: Otis Smith
-signing_description: 'Otis Smith ranks in the 72th percentile for free agency signings
+signing_description: 'Otis Smith ranks in the 76th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -30,7 +25,7 @@ signing_lose_list: '<ul>
 
   </ul>'
 signing_rating: -0.33
-signing_rating_grade: B
+signing_rating_grade: B+
 signing_win_list: '<ul>
 
   <li>Signed Matt Barnes in 2009.</li>
@@ -45,7 +40,7 @@ team:
 - Orlando Magic
 team_shortcode:
 - ORL
-trade_description: Otis Smith ranks in the 53th percentile for trading among executives
+trade_description: Otis Smith ranks in the 52th percentile for trading among executives
   in our database. That's basically average. It could be worse though lol.
 trade_lose_list: '<ul>
 
@@ -55,7 +50,7 @@ trade_lose_list: '<ul>
 
   </ul>'
 trade_rating: 0.05
-trade_rating_grade: C+
+trade_rating_grade: C
 trade_win_list: '<ul>
 
   <li>Added Ryan Anderson, Vince Carter to ORL.</li>

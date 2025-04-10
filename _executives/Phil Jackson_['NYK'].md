@@ -1,5 +1,4 @@
 ---
-badges: ''
 bpm_rank: 116
 draft_bust_list: null
 draft_description: This executive has only drafted 3 players and thus doesn't have
@@ -7,21 +6,14 @@ draft_description: This executive has only drafted 3 players and thus doesn't ha
 draft_num_players: 3
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: '<ul>
-
-  <li>Drafted Kristaps Porziņģis with 4th pick but was worth 3th pick.</li>
-
-  <li>Drafted Cleanthony Early with 34th pick but was worth 31th pick.</li>
-
-  </ul>'
+draft_win_list: null
 end_year: 2017
-final_bpm: -54748
+final_bpm: -54733
 href: jacksph99x
 is_active: false
 name: Phil Jackson
-signing_description: Phil Jackson ranks in the 53th percentile for free agency signings
-  among executives in our database. That's basically average. It could be worse though
-  lol.
+signing_description: 'Phil Jackson ranks in the 58th percentile for free agency signings
+  among executives in our database. '
 signing_lose_list: '<ul>
 
   <li>Signed Lance Thomas in 2016.</li>
@@ -31,7 +23,7 @@ signing_lose_list: '<ul>
   <li>Signed Jason Smith in 2014.</li>
 
   </ul>'
-signing_rating: -0.42
+signing_rating: -0.41
 signing_rating_grade: C+
 signing_win_list: '<ul>
 

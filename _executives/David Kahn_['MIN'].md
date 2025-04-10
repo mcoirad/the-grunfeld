@@ -1,24 +1,13 @@
 ---
-badges: ''
-bpm_rank: 139
-draft_bust_list: '<ul>
-
-  <li>Drafted Derrick Williams with 2th pick but was worth 42th pick.</li>
-
-  <li>Drafted Wesley Johnson with 4th pick but was worth 48th pick.</li>
-
-  <li>Drafted Jonny Flynn with 6th pick but was worth 45th pick.</li>
-
-  </ul>'
-draft_description: David Kahn ranks in the 2th percentile for drafting among executives
+bpm_rank: 138
+draft_bust_list: null
+draft_description: David Kahn ranks in the 1th percentile for drafting among executives
   in our database. Kahn's draft picks average out to be worth the equivalent of 20
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 6
-draft_rating: -20.5
+draft_rating: -20.3
 draft_rating_grade: F-
-draft_win_list: '<ul>
-
-  </ul>'
+draft_win_list: null
 end_year: 2013
 final_bpm: -105060
 href: kahnda99x
@@ -51,7 +40,7 @@ team:
 - Minnesota Timberwolves
 team_shortcode:
 - MIN
-trade_description: 'David Kahn ranks in the 17th percentile for trading among executives
+trade_description: 'David Kahn ranks in the 16th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 

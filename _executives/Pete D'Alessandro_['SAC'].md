@@ -1,29 +1,18 @@
 ---
-badges: ''
-bpm_rank: 112
-draft_bust_list: '<ul>
-
-  <li>Drafted Ben McLemore with 7th pick but was worth 51th pick.</li>
-
-  <li>Drafted Nik Stauskas with 8th pick but was worth 51th pick.</li>
-
-  </ul>'
+bpm_rank: 111
+draft_bust_list: null
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: '<ul>
-
-  <li>Drafted Ray McCallum with 36th pick but was worth 33th pick.</li>
-
-  </ul>'
+draft_win_list: null
 end_year: 2015
-final_bpm: -50198
+final_bpm: -50067
 href: dalespe99x
 is_active: false
 name: Pete D'Alessandro
-signing_description: 'Pete D''Alessandro ranks in the 44th percentile for free agency
+signing_description: 'Pete D''Alessandro ranks in the 43th percentile for free agency
   signings among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -48,7 +37,7 @@ team:
 - Sacramento Kings
 team_shortcode:
 - SAC
-trade_description: 'Pete D''Alessandro ranks in the 10th percentile for trading among
+trade_description: 'Pete D''Alessandro ranks in the 11th percentile for trading among
   executives in our database. '
 trade_lose_list: '<ul>
 

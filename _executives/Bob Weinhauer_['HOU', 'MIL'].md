@@ -1,5 +1,4 @@
 ---
-badges: ''
 bpm_rank: 153
 draft_bust_list: null
 draft_description: Bob Weinhauer ranks in the 90th percentile for drafting among executives
@@ -8,21 +7,13 @@ draft_description: Bob Weinhauer ranks in the 90th percentile for drafting among
 draft_num_players: 4
 draft_rating: 10.2
 draft_rating_grade: A
-draft_win_list: '<ul>
-
-  <li>Drafted Randy Livingston with 42th pick but was worth 30th pick.</li>
-
-  <li>Drafted Jerald Honeycutt with 39th pick but was worth 20th pick.</li>
-
-  <li>Drafted Rafer Alston with 39th pick but was worth 13th pick.</li>
-
-  </ul>'
+draft_win_list: null
 end_year: 1999
 final_bpm: -196638
 href: weinhbo99x
 is_active: false
 name: Bob Weinhauer
-signing_description: 'Bob Weinhauer ranks in the 19th percentile for free agency signings
+signing_description: 'Bob Weinhauer ranks in the 16th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -51,7 +42,7 @@ team:
 team_shortcode:
 - HOU
 - MIL
-trade_description: Bob Weinhauer ranks in the 50th percentile for trading among executives
+trade_description: Bob Weinhauer ranks in the 48th percentile for trading among executives
   in our database. That's basically average. It could be worse though lol.
 trade_lose_list: '<ul>
 
@@ -66,7 +57,7 @@ trade_win_list: '<ul>
 
   <li>Added Clyde Drexler, Tracy Murray to HOU.</li>
 
-  <li>Lost Otis Thorpe, Randolph Childress to POR.</li>
+  <li>Lost Marcelo Nicola, Otis Thorpe, Randolph Childress to POR.</li>
 
   </ul>'
 ---

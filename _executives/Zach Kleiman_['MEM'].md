@@ -1,23 +1,19 @@
 ---
-badges: rebuilder
-bpm_rank: 42
+bpm_rank: 53
 draft_bust_list: null
-draft_description: This executive has only drafted 2 players and thus doesn't have
-  a draft grade.
-draft_num_players: 2
-draft_rating: null
-draft_rating_grade: null
-draft_win_list: '<ul>
-
-  <li>Drafted Ja Morant with 2th pick but was worth 1th pick.</li>
-
-  </ul>'
-end_year: 2025
-final_bpm: 29063
+draft_description: Zach Kleiman ranks in the 75th percentile for drafting among executives
+  in our database. Kleiman's draft picks average out to be worth the equivalent of
+  5 spots higher than they were picked due to his good drafting.
+draft_num_players: 7
+draft_rating: 4.9
+draft_rating_grade: B+
+draft_win_list: null
+end_year: 2026
+final_bpm: 7819
 href: kleimza99x
 is_active: true
 name: Zach Kleiman
-signing_description: 'Zach Kleiman ranks in the 86th percentile for free agency signings
+signing_description: 'Zach Kleiman ranks in the 83th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -28,13 +24,13 @@ signing_lose_list: '<ul>
   <li>Signed David Roddy in 2022.</li>
 
   </ul>'
-signing_rating: -0.19
+signing_rating: -0.28
 signing_rating_grade: A-
 signing_win_list: '<ul>
 
-  <li>Signed Brandon Clarke in 2019.</li>
-
   <li>Signed Desmond Bane in 2020.</li>
+
+  <li>Signed Brandon Clarke in 2019.</li>
 
   <li>Signed Jonas Valančiūnas in 2019.</li>
 
@@ -44,8 +40,8 @@ team:
 - Memphis Grizzlies
 team_shortcode:
 - MEM
-trade_description: 'Zach Kleiman ranks in the 30th percentile for trading among executives
-  in our database. '
+trade_description: Zach Kleiman ranks in the 53th percentile for trading among executives
+  in our database. That's basically average. It could be worse though lol.
 trade_lose_list: '<ul>
 
   <li>Added Grayson Allen, Darius Bazley, Jae Crowder, Kyle Korver, Walker Kessler
@@ -54,13 +50,13 @@ trade_lose_list: '<ul>
   <li>Lost Mike Conley to UTA.</li>
 
   </ul>'
-trade_rating: -0.08
-trade_rating_grade: D
+trade_rating: 0.06
+trade_rating_grade: C+
 trade_win_list: '<ul>
 
   <li>Added Brandon Clarke to MEM.</li>
 
-  <li>Lost Darius Bazley to OKC.</li>
+  <li>Lost Darius Bazley, Bobi Klintman to OKC.</li>
 
   </ul>'
 ---

@@ -1,5 +1,4 @@
 ---
-badges: ''
 bpm_rank: 19
 draft_bust_list: null
 draft_description: Steve Patterson ranks in the 95th percentile for drafting among
@@ -8,19 +7,13 @@ draft_description: Steve Patterson ranks in the 95th percentile for drafting amo
 draft_num_players: 6
 draft_rating: 12.2
 draft_rating_grade: A+
-draft_win_list: '<ul>
-
-  <li>Drafted Robert Horry with 11th pick but was worth 3th pick.</li>
-
-  <li>Drafted John Turner with 20th pick but was worth 18th pick.</li>
-
-  </ul>'
+draft_win_list: null
 end_year: 2007
 final_bpm: 120463
 href: pattest99x
 is_active: false
 name: Steve Patterson
-signing_description: 'Steve Patterson ranks in the 32th percentile for free agency
+signing_description: 'Steve Patterson ranks in the 30th percentile for free agency
   signings among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -47,15 +40,15 @@ team:
 team_shortcode:
 - HOU
 - POR
-trade_description: 'Steve Patterson ranks in the 97th percentile for trading among
+trade_description: 'Steve Patterson ranks in the 96th percentile for trading among
   executives in our database. '
 trade_lose_list: '<ul>
 
   <li>Added Sergio Rodríguez to POR.</li>
 
   </ul>'
-trade_rating: 0.56
-trade_rating_grade: S
+trade_rating: 0.53
+trade_rating_grade: A+
 trade_win_list: '<ul>
 
   <li>Added Brandon Roy to POR.</li>

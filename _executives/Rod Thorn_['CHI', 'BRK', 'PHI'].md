@@ -1,36 +1,19 @@
 ---
-badges: ''
-bpm_rank: 15
-draft_bust_list: '<ul>
-
-  <li>Drafted Dave Greenwood with 2th pick but was worth 46th pick.</li>
-
-  <li>Drafted Sidney Green with 5th pick but was worth 56th pick.</li>
-
-  <li>Drafted Kenyon Martin with 1th pick but was worth 4th pick.</li>
-
-  </ul>'
-draft_description: Rod Thorn ranks in the 67th percentile for drafting among executives
+bpm_rank: 12
+draft_bust_list: null
+draft_description: Rod Thorn ranks in the 66th percentile for drafting among executives
   in our database. Thorn's draft picks average out to be worth the equivalent of 2
   spots higher than they were picked due to his good drafting.
 draft_num_players: 20
 draft_rating: 2.4
-draft_rating_grade: B
-draft_win_list: '<ul>
-
-  <li>Drafted Michael Jordan with 3th pick but was worth 1th pick.</li>
-
-  <li>Drafted Nikola Vučević with 16th pick but was worth 5th pick.</li>
-
-  <li>Drafted James Wilkes with 50th pick but was worth 29th pick.</li>
-
-  </ul>'
+draft_rating_grade: B-
+draft_win_list: null
 end_year: 2012
-final_bpm: 173636
+final_bpm: 188498
 href: thornro01x
 is_active: false
 name: Rod Thorn
-signing_description: 'Rod Thorn ranks in the 7th percentile for free agency signings
+signing_description: 'Rod Thorn ranks in the 6th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -41,11 +24,9 @@ signing_lose_list: '<ul>
   <li>Signed Travis Outlaw in 2010.</li>
 
   </ul>'
-signing_rating: -0.71
+signing_rating: -0.69
 signing_rating_grade: F
 signing_win_list: '<ul>
-
-  <li>Signed Coby Dietrick in 1979.</li>
 
   <li>Signed Todd MacCulloch in 2001.</li>
 
@@ -61,7 +42,7 @@ team_shortcode:
 - CHI
 - BRK
 - PHI
-trade_description: 'Rod Thorn ranks in the 61th percentile for trading among executives
+trade_description: 'Rod Thorn ranks in the 55th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -72,8 +53,8 @@ trade_lose_list: '<ul>
   <li>Lost Andre Iguodala to DEN.</li>
 
   </ul>'
-trade_rating: 0.1
-trade_rating_grade: B-
+trade_rating: 0.07
+trade_rating_grade: C+
 trade_win_list: '<ul>
 
   <li>Added Chris Dudley, Jason Kidd to BRK.</li>

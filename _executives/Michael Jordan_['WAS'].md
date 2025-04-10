@@ -1,5 +1,4 @@
 ---
-badges: ''
 bpm_rank: 97
 draft_bust_list: null
 draft_description: This executive has only drafted 2 players and thus doesn't have
@@ -7,19 +6,19 @@ draft_description: This executive has only drafted 2 players and thus doesn't ha
 draft_num_players: 2
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: '<ul>
-
-  </ul>'
+draft_win_list: null
 end_year: 2001
-final_bpm: -29221
+final_bpm: -31551
 href: jordami01x
 is_active: false
 name: Michael Jordan
-signing_description: This executive has only made 4 signings in free agency and thus
+signing_description: This executive has only made 5 signings in free agency and thus
   doesn't have a signing grade.
 signing_lose_list: '<ul>
 
   <li>Signed Tyronn Lue in 2001.</li>
+
+  <li>Signed Gerard King in 2000.</li>
 
   <li>Signed David Vanterpool in 2001.</li>
 

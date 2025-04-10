@@ -1,29 +1,18 @@
 ---
-badges: ''
-bpm_rank: 119
-draft_bust_list: '<ul>
-
-  <li>Drafted RJ Barrett with 3th pick but was worth 58th pick.</li>
-
-  <li>Drafted Kevin Knox with 9th pick but was worth 57th pick.</li>
-
-  </ul>'
+bpm_rank: 113
+draft_bust_list: null
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: '<ul>
-
-  <li>Drafted Mitchell Robinson with 36th pick but was worth 5th pick.</li>
-
-  </ul>'
+draft_win_list: null
 end_year: 2020
-final_bpm: -59810
+final_bpm: -52537
 href: millsst99x
 is_active: false
 name: Steve Mills
-signing_description: 'Steve Mills ranks in the 75th percentile for free agency signings
+signing_description: 'Steve Mills ranks in the 80th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -35,7 +24,7 @@ signing_lose_list: '<ul>
 
   </ul>'
 signing_rating: -0.31
-signing_rating_grade: B+
+signing_rating_grade: A-
 signing_win_list: '<ul>
 
   <li>Signed Julius Randle in 2019.</li>

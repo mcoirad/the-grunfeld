@@ -1,6 +1,5 @@
 ---
-badges: ''
-bpm_rank: 37
+bpm_rank: 40
 draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
   a draft grade.
@@ -13,7 +12,7 @@ final_bpm: 39581
 href: warkema99x
 is_active: false
 name: Mark Warkentien
-signing_description: 'Mark Warkentien ranks in the 44th percentile for free agency
+signing_description: 'Mark Warkentien ranks in the 43th percentile for free agency
   signings among executives in our database. '
 signing_lose_list: '<ul>
 

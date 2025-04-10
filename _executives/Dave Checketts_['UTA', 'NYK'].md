@@ -1,27 +1,18 @@
 ---
-badges: ''
-bpm_rank: 103
-draft_bust_list: '<ul>
-
-  <li>Drafted Eric Leckner with 17th pick but was worth 55th pick.</li>
-
-  <li>Drafted José Ortiz with 15th pick but was worth 35th pick.</li>
-
-  </ul>'
+bpm_rank: 102
+draft_bust_list: null
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: '<ul>
-
-  </ul>'
+draft_win_list: null
 end_year: 1999
 final_bpm: -39209
 href: checkda99x
 is_active: false
 name: Dave Checketts
-signing_description: 'Dave Checketts ranks in the 4th percentile for free agency signings
+signing_description: 'Dave Checketts ranks in the 3th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -55,7 +46,7 @@ trade_rating: null
 trade_rating_grade: null
 trade_win_list: '<ul>
 
-  <li></li>
+  <li>Added Jeff Moe, Phil Henderson to UTA.</li>
 
   <li>Lost Darryl Dawkins to DET.</li>
 

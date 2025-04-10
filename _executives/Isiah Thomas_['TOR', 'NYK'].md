@@ -1,30 +1,13 @@
 ---
-badges: ''
 bpm_rank: 146
-draft_bust_list: '<ul>
-
-  <li>Drafted Marcus Camby with 2th pick but was worth 5th pick.</li>
-
-  <li>Drafted Wilson Chandler with 23th pick but was worth 41th pick.</li>
-
-  <li>Drafted Channing Frye with 8th pick but was worth 36th pick.</li>
-
-  </ul>'
+draft_bust_list: null
 draft_description: Isiah Thomas ranks in the 66th percentile for drafting among executives
   in our database. Thomas's draft picks average out to be worth the equivalent of
   2 spots higher than they were picked due to his good drafting.
 draft_num_players: 10
 draft_rating: 2.3
 draft_rating_grade: B-
-draft_win_list: '<ul>
-
-  <li>Drafted Tracy McGrady with 9th pick but was worth 2th pick.</li>
-
-  <li>Drafted Trevor Ariza with 43th pick but was worth 7th pick.</li>
-
-  <li>Drafted David Lee with 30th pick but was worth 5th pick.</li>
-
-  </ul>'
+draft_win_list: null
 end_year: 2008
 final_bpm: -131029
 href: thomais01x
@@ -41,7 +24,7 @@ signing_lose_list: '<ul>
   <li>Signed Jerome James in 2005.</li>
 
   </ul>'
-signing_rating: -0.78
+signing_rating: -0.76
 signing_rating_grade: F-
 signing_win_list: '<ul>
 
@@ -55,7 +38,7 @@ team:
 team_shortcode:
 - TOR
 - NYK
-trade_description: 'Isiah Thomas ranks in the 8th percentile for trading among executives
+trade_description: 'Isiah Thomas ranks in the 7th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -71,8 +54,8 @@ trade_win_list: '<ul>
 
   <li>Added Anfernee Hardaway, Stephon Marbury, Cezary Trybański to NYK.</li>
 
-  <li>Lost Howard Eisley, Maciej Lampe, Antonio McDyess, Charlie Ward, Kirk Snyder,
-  Gordon Hayward to PHO.</li>
+  <li>Lost Howard Eisley, Maciej Lampe, Antonio McDyess, Milos Vujanic, Charlie Ward,
+  Kirk Snyder, Gordon Hayward to PHO.</li>
 
   </ul>'
 ---

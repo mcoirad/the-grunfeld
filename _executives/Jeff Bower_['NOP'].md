@@ -1,6 +1,5 @@
 ---
-badges: ''
-bpm_rank: 40
+bpm_rank: 42
 draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
   a draft grade.
@@ -13,14 +12,14 @@ final_bpm: 31172
 href: bowerje99x
 is_active: false
 name: Jeff Bower
-signing_description: 'Jeff Bower ranks in the 95th percentile for free agency signings
+signing_description: 'Jeff Bower ranks in the 96th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
   <li>Signed Melvin Ely in 2007.</li>
 
   </ul>'
-signing_rating: -0.08
+signing_rating: -0.07
 signing_rating_grade: A+
 signing_win_list: null
 start_year: 2005
@@ -36,7 +35,7 @@ trade_lose_list: '<ul>
 
   <li>Lost Marcus Vinicius to MEM.</li>
 
-  <li>Lost Bobby Jackson, Maarty Leunen to HOU.</li>
+  <li>Lost Adam Haluska, Bobby Jackson, Maarty Leunen to HOU.</li>
 
   </ul>'
 trade_rating: 0.35

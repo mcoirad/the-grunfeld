@@ -1,5 +1,4 @@
 ---
-badges: ''
 bpm_rank: 54
 draft_bust_list: null
 draft_description: This executive has only drafted 2 players and thus doesn't have
@@ -7,11 +6,9 @@ draft_description: This executive has only drafted 2 players and thus doesn't ha
 draft_num_players: 2
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: '<ul>
-
-  </ul>'
+draft_win_list: null
 end_year: 1998
-final_bpm: 7350
+final_bpm: 7081
 href: brownla01x
 is_active: false
 name: Larry Brown

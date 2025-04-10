@@ -1,23 +1,18 @@
 ---
-badges: ''
-bpm_rank: 24
+bpm_rank: 27
 draft_bust_list: null
 draft_description: This executive has only drafted 2 players and thus doesn't have
   a draft grade.
 draft_num_players: 2
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: '<ul>
-
-  <li>Drafted Mark Hendrickson with 31th pick but was worth 29th pick.</li>
-
-  </ul>'
+draft_win_list: null
 end_year: 1997
 final_bpm: 90400
 href: greenbr99x
 is_active: false
 name: Brad Greenberg
-signing_description: 'Brad Greenberg ranks in the 4th percentile for free agency signings
+signing_description: 'Brad Greenberg ranks in the 3th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -41,9 +36,5 @@ trade_description: This executive hasn't traded any players, and thus doesn't ha
 trade_lose_list: null
 trade_rating: null
 trade_rating_grade: null
-trade_win_list: '<ul>
-
-  <li></li>
-
-  </ul>'
+trade_win_list: null
 ---

@@ -1,36 +1,19 @@
 ---
-badges: ''
-bpm_rank: 143
-draft_bust_list: '<ul>
-
-  <li>Drafted Rony Seikaly with 9th pick but was worth 57th pick.</li>
-
-  <li>Drafted Jeff Turner with 17th pick but was worth 57th pick.</li>
-
-  <li>Drafted Glen Rice with 4th pick but was worth 6th pick.</li>
-
-  </ul>'
-draft_description: Lewis Schaffel ranks in the 86th percentile for drafting among
+bpm_rank: 144
+draft_bust_list: null
+draft_description: Lewis Schaffel ranks in the 88th percentile for drafting among
   executives in our database. Schaffel's draft picks average out to be worth the equivalent
   of 10 spots higher than they were picked due to his good drafting.
 draft_num_players: 19
 draft_rating: 9.9
-draft_rating_grade: A-
-draft_win_list: '<ul>
-
-  <li>Drafted Scott Haffner with 45th pick but was worth 26th pick.</li>
-
-  <li>Drafted Steve Smith with 5th pick but was worth 3th pick.</li>
-
-  <li>Drafted Sylvester Gray with 35th pick but was worth 28th pick.</li>
-
-  </ul>'
+draft_rating_grade: A
+draft_win_list: null
 end_year: 1995
-final_bpm: -122097
+final_bpm: -125108
 href: schafle99x
 is_active: false
 name: Lewis Schaffel
-signing_description: 'Lewis Schaffel ranks in the 34th percentile for free agency
+signing_description: 'Lewis Schaffel ranks in the 33th percentile for free agency
   signings among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -41,7 +24,7 @@ signing_lose_list: '<ul>
   <li>Signed Pat Cummings in 1988.</li>
 
   </ul>'
-signing_rating: -0.52
+signing_rating: -0.51
 signing_rating_grade: D+
 signing_win_list: '<ul>
 
@@ -63,17 +46,17 @@ team_shortcode:
 - ATL
 - BRK
 - MIA
-trade_description: 'Lewis Schaffel ranks in the 40th percentile for trading among
+trade_description: 'Lewis Schaffel ranks in the 31th percentile for trading among
   executives in our database. '
 trade_lose_list: '<ul>
 
   <li>Added Kevin Willis, Walter McCarty to MIA.</li>
 
-  <li>Lost Grant Long, Steve Smith to ATL.</li>
+  <li>Lost Grant Long, Steve Smith, Joe Vogel to ATL.</li>
 
   </ul>'
-trade_rating: -0.04
-trade_rating_grade: C-
+trade_rating: -0.07
+trade_rating_grade: D
 trade_win_list: '<ul>
 
   <li>Added Slick Watts to UTA.</li>

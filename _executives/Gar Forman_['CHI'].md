@@ -1,36 +1,19 @@
 ---
-badges: ''
-bpm_rank: 84
-draft_bust_list: '<ul>
-
-  <li>Drafted Tony Snell with 20th pick but was worth 50th pick.</li>
-
-  <li>Drafted Coby White with 7th pick but was worth 56th pick.</li>
-
-  <li>Drafted Taj Gibson with 26th pick but was worth 47th pick.</li>
-
-  </ul>'
-draft_description: Gar Forman ranks in the 52th percentile for drafting among executives
+bpm_rank: 82
+draft_bust_list: null
+draft_description: Gar Forman ranks in the 50th percentile for drafting among executives
   in our database. Forman's draft picks average out to be worth the equivalent of
   2 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 15
-draft_rating: -1.9
+draft_rating: -1.6
 draft_rating_grade: C
-draft_win_list: '<ul>
-
-  <li>Drafted Jimmy Butler with 30th pick but was worth 2th pick.</li>
-
-  <li>Drafted Cameron Bairstow with 49th pick but was worth 17th pick.</li>
-
-  <li>Drafted James Johnson with 16th pick but was worth 14th pick.</li>
-
-  </ul>'
+draft_win_list: null
 end_year: 2020
-final_bpm: -21270
+final_bpm: -17459
 href: formaga99x
 is_active: false
 name: Gar Forman
-signing_description: 'Gar Forman ranks in the 80th percentile for free agency signings
+signing_description: 'Gar Forman ranks in the 84th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -41,7 +24,7 @@ signing_lose_list: '<ul>
   <li>Signed Cristiano Felício in 2017.</li>
 
   </ul>'
-signing_rating: -0.27
+signing_rating: -0.26
 signing_rating_grade: A-
 signing_win_list: '<ul>
 
@@ -57,7 +40,7 @@ team:
 - Chicago Bulls
 team_shortcode:
 - CHI
-trade_description: 'Gar Forman ranks in the 66th percentile for trading among executives
+trade_description: 'Gar Forman ranks in the 65th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 

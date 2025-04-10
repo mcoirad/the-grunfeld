@@ -1,15 +1,12 @@
 ---
-badges: ''
-bpm_rank: 148
+bpm_rank: 149
 draft_bust_list: null
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
 draft_num_players: 1
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: '<ul>
-
-  </ul>'
+draft_win_list: null
 end_year: 2005
 final_bpm: -133781
 href: bristal01x
@@ -42,7 +39,7 @@ team_shortcode:
 - CHA
 - DEN
 - NOP
-trade_description: 'Allan Bristow ranks in the 11th percentile for trading among executives
+trade_description: 'Allan Bristow ranks in the 12th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 

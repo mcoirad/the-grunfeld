@@ -1,15 +1,12 @@
 ---
-badges: ''
-bpm_rank: 79
+bpm_rank: 80
 draft_bust_list: null
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
 draft_num_players: 1
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: '<ul>
-
-  </ul>'
+draft_win_list: null
 end_year: 1996
 final_bpm: -14700
 href: grantke99x

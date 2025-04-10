@@ -1,6 +1,5 @@
 ---
-badges: ''
-bpm_rank: 3
+bpm_rank: 1
 draft_bust_list: null
 draft_description: Gregg Popovich ranks in the 100th percentile for drafting among
   executives in our database. Popovich's draft picks average out to be worth the equivalent
@@ -8,19 +7,13 @@ draft_description: Gregg Popovich ranks in the 100th percentile for drafting amo
 draft_num_players: 5
 draft_rating: 21.2
 draft_rating_grade: S
-draft_win_list: '<ul>
-
-  <li>Drafted Manu Ginóbili with 57th pick but was worth 1th pick.</li>
-
-  <li>Drafted Tony Parker with 28th pick but was worth 5th pick.</li>
-
-  </ul>'
+draft_win_list: null
 end_year: 2002
 final_bpm: 422591
 href: popovgr99x
 is_active: false
 name: Gregg Popovich
-signing_description: 'Gregg Popovich ranks in the 60th percentile for free agency
+signing_description: 'Gregg Popovich ranks in the 66th percentile for free agency
   signings among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -31,7 +24,7 @@ signing_lose_list: '<ul>
   <li>Signed Malik Rose in 1997.</li>
 
   </ul>'
-signing_rating: -0.38
+signing_rating: -0.37
 signing_rating_grade: B-
 signing_win_list: '<ul>
 
@@ -56,7 +49,7 @@ trade_lose_list: '<ul>
   <li>Lost Derek Anderson, Steve Kerr, Andreas Glyniadakis to POR.</li>
 
   </ul>'
-trade_rating: 0.22
+trade_rating: 0.2
 trade_rating_grade: A-
 trade_win_list: '<ul>
 
