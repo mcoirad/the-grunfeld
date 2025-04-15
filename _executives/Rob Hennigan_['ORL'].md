@@ -1,13 +1,23 @@
 ---
 bpm_rank: 140
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Mario Hezonja with 5th pick but was worth 40th pick.</li>
+
+  <li>Drafted Andrew Nicholson with 19th pick but was worth 54th pick.</li>
+
+  </ul>'
 draft_description: Rob Hennigan ranks in the 22th percentile for drafting among executives
   in our database. Hennigan's draft picks average out to be worth the equivalent of
   6 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 6
 draft_rating: -6.3
 draft_rating_grade: D-
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Kyle O''Quinn with 49th pick but was worth 11th pick.</li>
+
+  </ul>'
 end_year: 2017
 final_bpm: -105165
 href: henniro99x

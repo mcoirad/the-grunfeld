@@ -1,13 +1,29 @@
 ---
 bpm_rank: 81
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Coby White with 7th pick but was worth 16th pick.</li>
+
+  <li>Drafted Tony Snell with 20th pick but was worth 32th pick.</li>
+
+  <li>Drafted Taj Gibson with 26th pick but was worth 17th pick.</li>
+
+  </ul>'
 draft_description: Gar Forman ranks in the 61th percentile for drafting among executives
   in our database. Forman's draft picks average out to be worth the equivalent of
   3 spots higher than they were picked due to his good drafting.
 draft_num_players: 15
 draft_rating: 2.7
 draft_rating_grade: B-
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Jimmy Butler with 30th pick but was worth 1th pick.</li>
+
+  <li>Drafted Cameron Bairstow with 49th pick but was worth 36th pick.</li>
+
+  <li>Drafted James Johnson with 16th pick but was worth 14th pick.</li>
+
+  </ul>'
 end_year: 2020
 final_bpm: -17030
 href: formaga99x

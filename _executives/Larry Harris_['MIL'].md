@@ -1,13 +1,25 @@
 ---
 bpm_rank: 98
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Andrew Bogut with 1th pick but was worth 6th pick.</li>
+
+  <li>Drafted Yi Jianlian with 6th pick but was worth 49th pick.</li>
+
+  <li>Drafted Ramon Sessions with 56th pick but was worth 11th pick.</li>
+
+  </ul>'
 draft_description: Larry Harris ranks in the 76th percentile for drafting among executives
   in our database. Harris's draft picks average out to be worth the equivalent of
   5 spots higher than they were picked due to his good drafting.
 draft_num_players: 5
 draft_rating: 5.4
 draft_rating_grade: B+
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted David Noel with 39th pick but was worth 32th pick.</li>
+
+  </ul>'
 end_year: 2008
 final_bpm: -32548
 href: harrila99x

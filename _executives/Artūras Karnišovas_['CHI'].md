@@ -1,15 +1,25 @@
 ---
 bpm_rank: 107
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Patrick Williams with 4th pick but was worth 47th pick.</li>
+
+  <li>Drafted Ayo Dosunmu with 38th pick but was worth 24th pick.</li>
+
+  <li>Drafted Dalen Terry with 18th pick but was worth 34th pick.</li>
+
+  </ul>'
 draft_description: Artūras Karnišovas ranks in the 7th percentile for drafting among
   executives in our database. Karnišovas's draft picks average out to be worth the
   equivalent of 13 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
 draft_rating: -12.6
 draft_rating_grade: F
-draft_win_list: null
+draft_win_list: '<ul>
+
+  </ul>'
 end_year: 2026
-final_bpm: -46871
+final_bpm: -46455
 href: karniar99x
 is_active: true
 name: Artūras Karnišovas

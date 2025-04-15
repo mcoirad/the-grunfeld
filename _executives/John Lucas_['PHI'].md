@@ -1,13 +1,25 @@
 ---
 bpm_rank: 121
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Jerry Stackhouse with 3th pick but was worth 5th pick.</li>
+
+  <li>Drafted Sharone Wright with 6th pick but was worth 43th pick.</li>
+
+  <li>Drafted B.J. Tyler with 20th pick but was worth 36th pick.</li>
+
+  </ul>'
 draft_description: John Lucas ranks in the 4th percentile for drafting among executives
   in our database. Lucas's draft picks average out to be worth the equivalent of 14
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 4
 draft_rating: -14.0
 draft_rating_grade: F
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Derrick Alston with 33th pick but was worth 34th pick.</li>
+
+  </ul>'
 end_year: 1996
 final_bpm: -65132
 href: lucasjo01x

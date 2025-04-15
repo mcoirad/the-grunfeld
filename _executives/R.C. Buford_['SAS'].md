@@ -1,13 +1,29 @@
 ---
 bpm_rank: 7
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Lonnie Walker with 18th pick but was worth 55th pick.</li>
+
+  <li>Drafted Cory Joseph with 29th pick but was worth 19th pick.</li>
+
+  <li>Drafted Beno Udrih with 28th pick but was worth 18th pick.</li>
+
+  </ul>'
 draft_description: R.C. Buford ranks in the 80th percentile for drafting among executives
   in our database. Buford's draft picks average out to be worth the equivalent of
   7 spots higher than they were picked due to his good drafting.
 draft_num_players: 17
 draft_rating: 6.7
 draft_rating_grade: A-
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Derrick White with 29th pick but was worth 5th pick.</li>
+
+  <li>Drafted Kyle Anderson with 30th pick but was worth 5th pick.</li>
+
+  <li>Drafted George Hill with 26th pick but was worth 7th pick.</li>
+
+  </ul>'
 end_year: 2019
 final_bpm: 260709
 href: buforrc99x

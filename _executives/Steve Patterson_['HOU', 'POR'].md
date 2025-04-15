@@ -1,5 +1,5 @@
 ---
-bpm_rank: 21
+bpm_rank: 20
 draft_bust_list: null
 draft_description: Steve Patterson ranks in the 78th percentile for drafting among
   executives in our database. Patterson's draft picks average out to be worth the
@@ -7,7 +7,13 @@ draft_description: Steve Patterson ranks in the 78th percentile for drafting amo
 draft_num_players: 6
 draft_rating: 6.0
 draft_rating_grade: B+
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Robert Horry with 11th pick but was worth 3th pick.</li>
+
+  <li>Drafted John Turner with 20th pick but was worth 29th pick.</li>
+
+  </ul>'
 end_year: 2007
 final_bpm: 120463
 href: pattest99x

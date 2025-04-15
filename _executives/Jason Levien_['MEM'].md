@@ -6,7 +6,9 @@ draft_description: This executive has only drafted 1 player and thus doesn't hav
 draft_num_players: 1
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: null
+draft_win_list: '<ul>
+
+  </ul>'
 end_year: 2014
 final_bpm: 10651
 href: levieja99x

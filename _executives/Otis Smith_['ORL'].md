@@ -7,7 +7,11 @@ draft_description: Otis Smith ranks in the 83th percentile for drafting among ex
 draft_num_players: 6
 draft_rating: 7.5
 draft_rating_grade: A-
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted J.J. Redick with 11th pick but was worth 7th pick.</li>
+
+  </ul>'
 end_year: 2012
 final_bpm: 52979
 href: smithot01x

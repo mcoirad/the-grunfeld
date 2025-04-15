@@ -1,13 +1,25 @@
 ---
 bpm_rank: 48
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Michael Kidd-Gilchrist with 2th pick but was worth 20th pick.</li>
+
+  <li>Drafted Cody Zeller with 4th pick but was worth 13th pick.</li>
+
+  <li>Drafted Jeff Taylor with 31th pick but was worth 53th pick.</li>
+
+  </ul>'
 draft_description: Rich Cho ranks in the 13th percentile for drafting among executives
   in our database. Cho's draft picks average out to be worth the equivalent of 11
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 4
 draft_rating: -11.2
 draft_rating_grade: F
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Kemba Walker with 9th pick but was worth 5th pick.</li>
+
+  </ul>'
 end_year: 2018
 final_bpm: 15202
 href: chori99x

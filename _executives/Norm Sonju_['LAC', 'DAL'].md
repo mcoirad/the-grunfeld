@@ -1,13 +1,29 @@
 ---
 bpm_rank: 162
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Sam Perkins with 4th pick but was worth 5th pick.</li>
+
+  <li>Drafted Mark Aguirre with 1th pick but was worth 3th pick.</li>
+
+  <li>Drafted Bill Garnett with 4th pick but was worth 19th pick.</li>
+
+  </ul>'
 draft_description: Norm Sonju ranks in the 53th percentile for drafting among executives
   in our database. Sonju's draft picks average out to be worth the equivalent of 2
   spots higher than they were picked due to his good drafting.
 draft_num_players: 36
 draft_rating: 1.6
 draft_rating_grade: C+
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Jason Kidd with 2th pick but was worth 1th pick.</li>
+
+  <li>Drafted Derek Harper with 11th pick but was worth 2th pick.</li>
+
+  <li>Drafted Detlef Schrempf with 8th pick but was worth 5th pick.</li>
+
+  </ul>'
 end_year: 1996
 final_bpm: -325728
 href: sonjuno99x

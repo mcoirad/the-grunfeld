@@ -1,13 +1,29 @@
 ---
 bpm_rank: 5
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Armen Gilliam with 2th pick but was worth 12th pick.</li>
+
+  <li>Drafted William Bedford with 6th pick but was worth 64th pick.</li>
+
+  <li>Drafted Ricky Sobers with 16th pick but was worth 11th pick.</li>
+
+  </ul>'
 draft_description: Jerry Colangelo ranks in the 95th percentile for drafting among
   executives in our database. Colangelo's draft picks average out to be worth the
   equivalent of 12 spots higher than they were picked due to his good drafting.
 draft_num_players: 52
 draft_rating: 11.8
 draft_rating_grade: A+
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Larry Nance with 20th pick but was worth 1th pick.</li>
+
+  <li>Drafted Jeff Hornacek with 46th pick but was worth 1th pick.</li>
+
+  <li>Drafted Dan Majerle with 14th pick but was worth 3th pick.</li>
+
+  </ul>'
 end_year: 1994
 final_bpm: 301413
 href: colanje99x

@@ -1,13 +1,23 @@
 ---
 bpm_rank: 133
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Killian Hayes with 7th pick but was worth 58th pick.</li>
+
+  <li>Drafted Jaden Ivey with 5th pick but was worth 42th pick.</li>
+
+  <li>Drafted Cade Cunningham with 1th pick but was worth 7th pick.</li>
+
+  </ul>'
 draft_description: Troy Weaver ranks in the 5th percentile for drafting among executives
   in our database. Weaver's draft picks average out to be worth the equivalent of
   14 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 6
 draft_rating: -13.5
 draft_rating_grade: F
-draft_win_list: null
+draft_win_list: '<ul>
+
+  </ul>'
 end_year: 2024
 final_bpm: -95153
 href: weavetr99x

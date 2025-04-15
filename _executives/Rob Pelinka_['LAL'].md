@@ -1,15 +1,25 @@
 ---
-bpm_rank: 85
-draft_bust_list: null
+bpm_rank: 84
+draft_bust_list: '<ul>
+
+  <li>Drafted Max Christie with 35th pick but was worth 40th pick.</li>
+
+  <li>Drafted Jalen Hood-Schifino with 17th pick but was worth 44th pick.</li>
+
+  <li>Drafted Dalton Knecht with 17th pick but was worth 16th pick.</li>
+
+  </ul>'
 draft_description: Rob Pelinka ranks in the 60th percentile for drafting among executives
   in our database. Pelinka's draft picks average out to be worth the equivalent of
   3 spots higher than they were picked due to his good drafting.
 draft_num_players: 6
 draft_rating: 2.7
 draft_rating_grade: B-
-draft_win_list: null
+draft_win_list: '<ul>
+
+  </ul>'
 end_year: 2026
-final_bpm: -19989
+final_bpm: -19559
 href: pelinro99x
 is_active: true
 name: Rob Pelinka

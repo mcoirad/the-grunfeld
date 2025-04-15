@@ -1,15 +1,31 @@
 ---
 bpm_rank: 25
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Dillon Brooks with 45th pick but was worth 57th pick.</li>
+
+  <li>Drafted Marcus Morris with 14th pick but was worth 15th pick.</li>
+
+  <li>Drafted Aaron Brooks with 26th pick but was worth 19th pick.</li>
+
+  </ul>'
 draft_description: Daryl Morey ranks in the 92th percentile for drafting among executives
   in our database. Morey's draft picks average out to be worth the equivalent of 10
   spots higher than they were picked due to his good drafting.
 draft_num_players: 25
 draft_rating: 10.2
 draft_rating_grade: A
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Clint Capela with 25th pick but was worth 4th pick.</li>
+
+  <li>Drafted Paul Reed with 58th pick but was worth 16th pick.</li>
+
+  <li>Drafted Chandler Parsons with 38th pick but was worth 10th pick.</li>
+
+  </ul>'
 end_year: 2026
-final_bpm: 100589
+final_bpm: 100067
 href: moreyda99x
 is_active: true
 name: Daryl Morey

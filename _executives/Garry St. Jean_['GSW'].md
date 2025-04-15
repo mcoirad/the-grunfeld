@@ -1,13 +1,25 @@
 ---
 bpm_rank: 155
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Mickaël Piétrus with 11th pick but was worth 18th pick.</li>
+
+  <li>Drafted Jason Richardson with 5th pick but was worth 5th pick.</li>
+
+  </ul>'
 draft_description: Garry St. Jean ranks in the 88th percentile for drafting among
   executives in our database. St.'s draft picks average out to be worth the equivalent
   of 9 spots higher than they were picked due to his good drafting.
 draft_num_players: 7
 draft_rating: 9.0
 draft_rating_grade: A
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Gilbert Arenas with 31th pick but was worth 7th pick.</li>
+
+  <li>Drafted Troy Murphy with 14th pick but was worth 12th pick.</li>
+
+  </ul>'
 end_year: 2004
 final_bpm: -213311
 href: stjeaga99x

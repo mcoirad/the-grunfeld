@@ -1,13 +1,27 @@
 ---
 bpm_rank: 13
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Kenny Thomas with 22th pick but was worth 16th pick.</li>
+
+  <li>Drafted Bryce Drew with 16th pick but was worth 46th pick.</li>
+
+  <li>Drafted Michael Dickerson with 14th pick but was worth 22th pick.</li>
+
+  </ul>'
 draft_description: Carroll Dawson ranks in the 55th percentile for drafting among
   executives in our database. Dawson's draft picks average out to be worth the equivalent
   of 2 spots higher than they were picked due to his good drafting.
 draft_num_players: 10
 draft_rating: 2.2
 draft_rating_grade: C+
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Cuttino Mobley with 41th pick but was worth 8th pick.</li>
+
+  <li>Drafted Luther Head with 24th pick but was worth 23th pick.</li>
+
+  </ul>'
 end_year: 2007
 final_bpm: 179951
 href: dawsoca99x

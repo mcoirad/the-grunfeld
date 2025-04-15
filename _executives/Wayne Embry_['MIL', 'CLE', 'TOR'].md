@@ -1,13 +1,29 @@
 ---
 bpm_rank: 156
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Vitaly Potapenko with 12th pick but was worth 47th pick.</li>
+
+  <li>Drafted Scott Lloyd with 24th pick but was worth 53th pick.</li>
+
+  <li>Drafted Randolph Keys with 22th pick but was worth 54th pick.</li>
+
+  </ul>'
 draft_description: Wayne Embry ranks in the 55th percentile for drafting among executives
   in our database. Embry's draft picks average out to be worth the equivalent of 2
   spots higher than they were picked due to his good drafting.
 draft_num_players: 28
 draft_rating: 2.0
 draft_rating_grade: C+
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Terrell Brandon with 11th pick but was worth 2th pick.</li>
+
+  <li>Drafted Cedric Henderson with 45th pick but was worth 39th pick.</li>
+
+  <li>Drafted Derek Anderson with 13th pick but was worth 4th pick.</li>
+
+  </ul>'
 end_year: 2006
 final_bpm: -214966
 href: embrywa01x

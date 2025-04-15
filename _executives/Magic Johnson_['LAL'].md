@@ -1,12 +1,22 @@
 ---
 bpm_rank: 37
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Lonzo Ball with 2th pick but was worth 12th pick.</li>
+
+  <li>Drafted Sviatoslav Mykhailiuk with 47th pick but was worth 51th pick.</li>
+
+  </ul>'
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Moritz Wagner with 25th pick but was worth 17th pick.</li>
+
+  </ul>'
 end_year: 2019
 final_bpm: 47930
 href: johnsma01x

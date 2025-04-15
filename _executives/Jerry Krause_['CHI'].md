@@ -1,13 +1,29 @@
 ---
 bpm_rank: 159
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Scott May with 2th pick but was worth 15th pick.</li>
+
+  <li>Drafted Eddy Curry with 4th pick but was worth 45th pick.</li>
+
+  <li>Drafted Elton Brand with 1th pick but was worth 5th pick.</li>
+
+  </ul>'
 draft_description: Jerry Krause ranks in the 25th percentile for drafting among executives
   in our database. Krause's draft picks average out to be worth the equivalent of
   6 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 38
 draft_rating: -5.7
 draft_rating_grade: D-
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Toni Kukoč with 29th pick but was worth 2th pick.</li>
+
+  <li>Drafted Horace Grant with 10th pick but was worth 6th pick.</li>
+
+  <li>Drafted Lonny Baxter with 44th pick but was worth 42th pick.</li>
+
+  </ul>'
 end_year: 2003
 final_bpm: -238766
 href: krausje99x

@@ -1,13 +1,27 @@
 ---
 bpm_rank: 122
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Jacque Vaughn with 27th pick but was worth 46th pick.</li>
+
+  <li>Drafted Blue Edwards with 21th pick but was worth 18th pick.</li>
+
+  <li>Drafted Shandon Anderson with 54th pick but was worth 17th pick.</li>
+
+  </ul>'
 draft_description: Scott Layden ranks in the 84th percentile for drafting among executives
   in our database. Layden's draft picks average out to be worth the equivalent of
   8 spots higher than they were picked due to his good drafting.
 draft_num_players: 12
 draft_rating: 7.8
 draft_rating_grade: A-
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Lavor Postell with 39th pick but was worth 30th pick.</li>
+
+  <li>Drafted Bryon Russell with 45th pick but was worth 7th pick.</li>
+
+  </ul>'
 end_year: 2019
 final_bpm: -70280
 href: laydesc99x

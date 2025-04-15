@@ -6,7 +6,13 @@ draft_description: This executive has only drafted 3 players and thus doesn't ha
 draft_num_players: 3
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Kristaps Porziņģis with 4th pick but was worth 2th pick.</li>
+
+  <li>Drafted Cleanthony Early with 34th pick but was worth 46th pick.</li>
+
+  </ul>'
 end_year: 2017
 final_bpm: -54733
 href: jacksph99x

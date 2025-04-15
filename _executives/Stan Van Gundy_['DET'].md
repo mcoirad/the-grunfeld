@@ -1,13 +1,27 @@
 ---
 bpm_rank: 47
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Stanley Johnson with 8th pick but was worth 42th pick.</li>
+
+  <li>Drafted Luke Kennard with 12th pick but was worth 14th pick.</li>
+
+  <li>Drafted Henry Ellenson with 18th pick but was worth 42th pick.</li>
+
+  </ul>'
 draft_description: Stan Van Gundy ranks in the 38th percentile for drafting among
   executives in our database. Van's draft picks average out to be worth the equivalent
   of 2 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 6
 draft_rating: -2.3
 draft_rating_grade: D+
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Darrun Hilliard with 38th pick but was worth 38th pick.</li>
+
+  <li>Drafted Spencer Dinwiddie with 38th pick but was worth 10th pick.</li>
+
+  </ul>'
 end_year: 2018
 final_bpm: 16776
 href: vangust01x

@@ -1,13 +1,29 @@
 ---
 bpm_rank: 94
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Tyreke Evans with 4th pick but was worth 11th pick.</li>
+
+  <li>Drafted Thomas Robinson with 5th pick but was worth 54th pick.</li>
+
+  <li>Drafted Jason Thompson with 12th pick but was worth 51th pick.</li>
+
+  </ul>'
 draft_description: Geoff Petrie ranks in the 71th percentile for drafting among executives
   in our database. Petrie's draft picks average out to be worth the equivalent of
   4 spots higher than they were picked due to his good drafting.
 draft_num_players: 29
 draft_rating: 4.1
 draft_rating_grade: B
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Peja Stojaković with 14th pick but was worth 7th pick.</li>
+
+  <li>Drafted Gerald Wallace with 25th pick but was worth 6th pick.</li>
+
+  <li>Drafted Hassan Whiteside with 33th pick but was worth 7th pick.</li>
+
+  </ul>'
 end_year: 2013
 final_bpm: -25546
 href: petrige01x

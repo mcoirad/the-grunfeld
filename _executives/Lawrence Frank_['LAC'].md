@@ -7,7 +7,15 @@ draft_description: Lawrence Frank ranks in the 94th percentile for drafting amon
 draft_num_players: 6
 draft_rating: 11.7
 draft_rating_grade: A+
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Jordan Miller with 48th pick but was worth 25th pick.</li>
+
+  <li>Drafted Terance Mann with 48th pick but was worth 11th pick.</li>
+
+  <li>Drafted Kobe Brown with 30th pick but was worth 31th pick.</li>
+
+  </ul>'
 end_year: 2026
 final_bpm: 2461
 href: frankla99x

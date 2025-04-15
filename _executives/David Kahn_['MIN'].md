@@ -1,13 +1,23 @@
 ---
 bpm_rank: 138
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Derrick Williams with 2th pick but was worth 26th pick.</li>
+
+  <li>Drafted Wesley Johnson with 4th pick but was worth 20th pick.</li>
+
+  <li>Drafted Jonny Flynn with 6th pick but was worth 50th pick.</li>
+
+  </ul>'
 draft_description: David Kahn ranks in the 12th percentile for drafting among executives
   in our database. Kahn's draft picks average out to be worth the equivalent of 12
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 6
 draft_rating: -11.5
 draft_rating_grade: F
-draft_win_list: null
+draft_win_list: '<ul>
+
+  </ul>'
 end_year: 2013
 final_bpm: -105060
 href: kahnda99x

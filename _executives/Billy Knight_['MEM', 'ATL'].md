@@ -1,13 +1,29 @@
 ---
 bpm_rank: 135
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Marvin Williams with 2th pick but was worth 9th pick.</li>
+
+  <li>Drafted Shelden Williams with 5th pick but was worth 47th pick.</li>
+
+  <li>Drafted Stromile Swift with 2th pick but was worth 14th pick.</li>
+
+  </ul>'
 draft_description: Billy Knight ranks in the 31th percentile for drafting among executives
   in our database. Knight's draft picks average out to be worth the equivalent of
   4 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 17
 draft_rating: -4.4
 draft_rating_grade: D
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Josh Smith with 17th pick but was worth 3th pick.</li>
+
+  <li>Drafted Antonis Fotsis with 48th pick but was worth 27th pick.</li>
+
+  <li>Drafted Travis Hansen with 37th pick but was worth 36th pick.</li>
+
+  </ul>'
 end_year: 2008
 final_bpm: -99794
 href: knighbi01x

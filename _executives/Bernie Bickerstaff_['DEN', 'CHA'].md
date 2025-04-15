@@ -1,13 +1,29 @@
 ---
 bpm_rank: 134
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Emeka Okafor with 2th pick but was worth 17th pick.</li>
+
+  <li>Drafted Adam Morrison with 3th pick but was worth 51th pick.</li>
+
+  <li>Drafted Raymond Felton with 5th pick but was worth 11th pick.</li>
+
+  </ul>'
 draft_description: Bernie Bickerstaff ranks in the 22th percentile for drafting among
   executives in our database. Bickerstaff's draft picks average out to be worth the
   equivalent of 6 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 14
 draft_rating: -6.5
 draft_rating_grade: D-
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Robert Werdann with 46th pick but was worth 35th pick.</li>
+
+  <li>Drafted Dikembe Mutombo with 4th pick but was worth 1th pick.</li>
+
+  <li>Drafted Bernard Robinson with 45th pick but was worth 26th pick.</li>
+
+  </ul>'
 end_year: 2007
 final_bpm: -98037
 href: bickebe99x

@@ -1,15 +1,31 @@
 ---
 bpm_rank: 120
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Terrance Ferguson with 21th pick but was worth 53th pick.</li>
+
+  <li>Drafted Tre Mann with 18th pick but was worth 52th pick.</li>
+
+  <li>Drafted Cameron Payne with 14th pick but was worth 19th pick.</li>
+
+  </ul>'
 draft_description: Sam Presti ranks in the 72th percentile for drafting among executives
   in our database. Presti's draft picks average out to be worth the equivalent of
   4 spots higher than they were picked due to his good drafting.
 draft_num_players: 22
 draft_rating: 4.2
 draft_rating_grade: B
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted James Harden with 3th pick but was worth 1th pick.</li>
+
+  <li>Drafted Kevin Durant with 2th pick but was worth 1th pick.</li>
+
+  <li>Drafted Russell Westbrook with 4th pick but was worth 1th pick.</li>
+
+  </ul>'
 end_year: 2026
-final_bpm: -64045
+final_bpm: -63951
 href: prestsa99x
 is_active: true
 name: Sam Presti

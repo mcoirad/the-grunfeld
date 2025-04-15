@@ -1,13 +1,29 @@
 ---
 bpm_rank: 16
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Kent Benson with 1th pick but was worth 15th pick.</li>
+
+  <li>Drafted Tyrone Hill with 11th pick but was worth 17th pick.</li>
+
+  <li>Drafted Alton Lister with 21th pick but was worth 16th pick.</li>
+
+  </ul>'
 draft_description: Don Nelson ranks in the 66th percentile for drafting among executives
   in our database. Nelson's draft picks average out to be worth the equivalent of
   4 spots higher than they were picked due to his good drafting.
 draft_num_players: 30
 draft_rating: 3.5
 draft_rating_grade: B-
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Tim Hardaway with 14th pick but was worth 1th pick.</li>
+
+  <li>Drafted Sidney Moncrief with 5th pick but was worth 2th pick.</li>
+
+  <li>Drafted Dwayne Morton with 45th pick but was worth 28th pick.</li>
+
+  </ul>'
 end_year: 2005
 final_bpm: 142877
 href: nelsodo01x

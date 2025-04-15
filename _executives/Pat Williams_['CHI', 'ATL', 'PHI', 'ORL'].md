@@ -1,13 +1,29 @@
 ---
 bpm_rank: 8
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Darryl Dawkins with 5th pick but was worth 9th pick.</li>
+
+  <li>Drafted Terry Catledge with 21th pick but was worth 61th pick.</li>
+
+  <li>Drafted Stanley Roberts with 23th pick but was worth 39th pick.</li>
+
+  </ul>'
 draft_description: Pat Williams ranks in the 57th percentile for drafting among executives
   in our database. Williams's draft picks average out to be worth the equivalent of
   2 spots higher than they were picked due to his good drafting.
 draft_num_players: 35
 draft_rating: 2.4
 draft_rating_grade: C+
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Charles Barkley with 5th pick but was worth 3th pick.</li>
+
+  <li>Drafted Maurice Cheeks with 36th pick but was worth 2th pick.</li>
+
+  <li>Drafted Nick Anderson with 11th pick but was worth 6th pick.</li>
+
+  </ul>'
 end_year: 1996
 final_bpm: 254672
 href: willipa99x

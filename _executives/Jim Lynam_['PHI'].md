@@ -1,12 +1,22 @@
 ---
 bpm_rank: 152
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Shawn Bradley with 2th pick but was worth 10th pick.</li>
+
+  <li>Drafted Clarence Weatherspoon with 9th pick but was worth 10th pick.</li>
+
+  </ul>'
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Alphonso Ford with 32th pick but was worth 32th pick.</li>
+
+  </ul>'
 end_year: 1994
 final_bpm: -176611
 href: lynamji99x

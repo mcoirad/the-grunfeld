@@ -1,13 +1,25 @@
 ---
 bpm_rank: 143
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Derrick Coleman with 1th pick but was worth 3th pick.</li>
+
+  <li>Drafted Kenny Anderson with 2th pick but was worth 5th pick.</li>
+
+  <li>Drafted Rex Walters with 16th pick but was worth 23th pick.</li>
+
+  </ul>'
 draft_description: Willis Reed ranks in the 16th percentile for drafting among executives
   in our database. Reed's draft picks average out to be worth the equivalent of 9
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 7
 draft_rating: -9.1
 draft_rating_grade: F
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted P.J. Brown with 29th pick but was worth 7th pick.</li>
+
+  </ul>'
 end_year: 1996
 final_bpm: -121622
 href: reedwi01x

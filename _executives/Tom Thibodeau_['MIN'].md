@@ -1,12 +1,22 @@
 ---
 bpm_rank: 77
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Kris Dunn with 5th pick but was worth 14th pick.</li>
+
+  <li>Drafted Josh Okogie with 20th pick but was worth 29th pick.</li>
+
+  </ul>'
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Keita Bates-Diop with 48th pick but was worth 27th pick.</li>
+
+  </ul>'
 end_year: 2019
 final_bpm: -13422
 href: thiboto99x

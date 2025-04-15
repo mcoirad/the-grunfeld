@@ -1,13 +1,25 @@
 ---
 bpm_rank: 139
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Mohamed Bamba with 6th pick but was worth 19th pick.</li>
+
+  <li>Drafted Jalen Suggs with 5th pick but was worth 15th pick.</li>
+
+  <li>Drafted Wesley Iwundu with 33th pick but was worth 51th pick.</li>
+
+  </ul>'
 draft_description: Jeff Weltman ranks in the 11th percentile for drafting among executives
   in our database. Weltman's draft picks average out to be worth the equivalent of
   12 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 14
 draft_rating: -11.7
 draft_rating_grade: F
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Franz Wagner with 8th pick but was worth 5th pick.</li>
+
+  </ul>'
 end_year: 2026
 final_bpm: -105155
 href: weltmje01x

@@ -1,13 +1,23 @@
 ---
 bpm_rank: 117
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Rui Hachimura with 9th pick but was worth 26th pick.</li>
+
+  <li>Drafted Corey Kispert with 15th pick but was worth 46th pick.</li>
+
+  <li>Drafted Deni Avdija with 9th pick but was worth 14th pick.</li>
+
+  </ul>'
 draft_description: Tommy Sheppard ranks in the 0th percentile for drafting among executives
   in our database. Sheppard's draft picks average out to be worth the equivalent of
   22 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 4
 draft_rating: -22.5
 draft_rating_grade: F-
-draft_win_list: null
+draft_win_list: '<ul>
+
+  </ul>'
 end_year: 2023
 final_bpm: -56167
 href: sheppto01x

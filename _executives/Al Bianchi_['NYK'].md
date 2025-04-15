@@ -6,7 +6,13 @@ draft_description: Al Bianchi ranks in the 45th percentile for drafting among ex
 draft_num_players: 4
 draft_rating: 0.2
 draft_rating_grade: C-
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Rod Strickland with 19th pick but was worth 1th pick.</li>
+
+  <li>Drafted Greg Butler with 37th pick but was worth 44th pick.</li>
+
+  </ul>'
 end_year: 1991
 final_bpm: 56742
 href: biancal01x

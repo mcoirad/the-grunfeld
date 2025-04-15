@@ -1,13 +1,23 @@
 ---
 bpm_rank: 17
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Dennis Smith Jr. with 9th pick but was worth 37th pick.</li>
+
+  <li>Drafted Josh Green with 18th pick but was worth 56th pick.</li>
+
+  </ul>'
 draft_description: Donn Nelson ranks in the 30th percentile for drafting among executives
   in our database. Nelson's draft picks average out to be worth the equivalent of
   5 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 8
 draft_rating: -4.8
 draft_rating_grade: D
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted A.J. Hammons with 46th pick but was worth 38th pick.</li>
+
+  </ul>'
 end_year: 2021
 final_bpm: 133941
 href: nelsodo99x

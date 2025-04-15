@@ -1,13 +1,25 @@
 ---
 bpm_rank: 86
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Johan Petro with 25th pick but was worth 55th pick.</li>
+
+  <li>Drafted Nick Collison with 12th pick but was worth 19th pick.</li>
+
+  <li>Drafted Earl Watson with 40th pick but was worth 19th pick.</li>
+
+  </ul>'
 draft_description: Rick Sund ranks in the 39th percentile for drafting among executives
   in our database. Sund's draft picks average out to be worth the equivalent of 2
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 8
 draft_rating: -1.9
 draft_rating_grade: D+
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Jeff Teague with 19th pick but was worth 7th pick.</li>
+
+  </ul>'
 end_year: 2012
 final_bpm: -20758
 href: sundri99x

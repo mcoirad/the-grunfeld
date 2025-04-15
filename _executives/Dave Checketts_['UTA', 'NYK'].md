@@ -1,12 +1,20 @@
 ---
 bpm_rank: 102
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Eric Leckner with 17th pick but was worth 58th pick.</li>
+
+  <li>Drafted José Ortiz with 15th pick but was worth 41th pick.</li>
+
+  </ul>'
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: null
+draft_win_list: '<ul>
+
+  </ul>'
 end_year: 1999
 final_bpm: -39209
 href: checkda99x

@@ -1,13 +1,23 @@
 ---
 bpm_rank: 158
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Michael Doleac with 12th pick but was worth 55th pick.</li>
+
+  <li>Drafted Keyon Dooling with 10th pick but was worth 26th pick.</li>
+
+  <li>Drafted Steven Hunter with 15th pick but was worth 37th pick.</li>
+
+  </ul>'
 draft_description: John Gabriel ranks in the 24th percentile for drafting among executives
   in our database. Gabriel's draft picks average out to be worth the equivalent of
   6 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 12
 draft_rating: -5.8
 draft_rating_grade: D-
-draft_win_list: null
+draft_win_list: '<ul>
+
+  </ul>'
 end_year: 2004
 final_bpm: -237188
 href: gabrijo99x

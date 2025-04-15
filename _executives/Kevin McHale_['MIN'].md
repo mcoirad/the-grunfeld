@@ -1,13 +1,29 @@
 ---
 bpm_rank: 136
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Wally Szczerbiak with 6th pick but was worth 12th pick.</li>
+
+  <li>Drafted Corey Brewer with 7th pick but was worth 21th pick.</li>
+
+  <li>Drafted Rasho Nesterović with 17th pick but was worth 16th pick.</li>
+
+  </ul>'
 draft_description: Kevin McHale ranks in the 64th percentile for drafting among executives
   in our database. McHale's draft picks average out to be worth the equivalent of
   3 spots higher than they were picked due to his good drafting.
 draft_num_players: 18
 draft_rating: 3.2
 draft_rating_grade: B-
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Kevin Garnett with 5th pick but was worth 1th pick.</li>
+
+  <li>Drafted Jerome Allen with 49th pick but was worth 35th pick.</li>
+
+  <li>Drafted Mark Davis with 48th pick but was worth 35th pick.</li>
+
+  </ul>'
 end_year: 2008
 final_bpm: -101471
 href: mchalke01x

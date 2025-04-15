@@ -1,15 +1,27 @@
 ---
 bpm_rank: 56
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Jaylen Wells with 39th pick but was worth 25th pick.</li>
+
+  <li>Drafted Jaylen Wells with 39th pick but was worth 25th pick.</li>
+
+  </ul>'
 draft_description: Zach Kleiman ranks in the 97th percentile for drafting among executives
   in our database. Kleiman's draft picks average out to be worth the equivalent of
   13 spots higher than they were picked due to his good drafting.
 draft_num_players: 5
 draft_rating: 13.0
 draft_rating_grade: S
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Vince Williams Jr. with 47th pick but was worth 19th pick.</li>
+
+  <li>Drafted Gregory Jackson II with 45th pick but was worth 36th pick.</li>
+
+  </ul>'
 end_year: 2026
-final_bpm: 5210
+final_bpm: 5625
 href: kleimza99x
 is_active: true
 name: Zach Kleiman

@@ -1,15 +1,31 @@
 ---
 bpm_rank: 30
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Evan Fournier with 20th pick but was worth 13th pick.</li>
+
+  <li>Drafted Gradey Dick with 13th pick but was worth 52th pick.</li>
+
+  <li>Drafted Malachi Flynn with 29th pick but was worth 47th pick.</li>
+
+  </ul>'
 draft_description: Masai Ujiri ranks in the 69th percentile for drafting among executives
   in our database. Ujiri's draft picks average out to be worth the equivalent of 4
   spots higher than they were picked due to his good drafting.
 draft_num_players: 20
 draft_rating: 4.0
 draft_rating_grade: B
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Pascal Siakam with 27th pick but was worth 2th pick.</li>
+
+  <li>Drafted Delon Wright with 20th pick but was worth 7th pick.</li>
+
+  <li>Drafted Jakob Pöltl with 9th pick but was worth 8th pick.</li>
+
+  </ul>'
 end_year: 2026
-final_bpm: 73066
+final_bpm: 72878
 href: ujirima99x
 is_active: true
 name: Masai Ujiri

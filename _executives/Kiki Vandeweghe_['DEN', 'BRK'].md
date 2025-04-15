@@ -1,13 +1,29 @@
 ---
 bpm_rank: 78
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Nikoloz Tskitishvili with 5th pick but was worth 47th pick.</li>
+
+  <li>Drafted Terrence Williams with 11th pick but was worth 43th pick.</li>
+
+  <li>Drafted Carmelo Anthony with 3th pick but was worth 3th pick.</li>
+
+  </ul>'
 draft_description: Kiki Vandeweghe ranks in the 23th percentile for drafting among
   executives in our database. Vandeweghe's draft picks average out to be worth the
   equivalent of 6 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 9
 draft_rating: -6.0
 draft_rating_grade: D-
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Brook Lopez with 10th pick but was worth 4th pick.</li>
+
+  <li>Drafted Ryan Anderson with 21th pick but was worth 11th pick.</li>
+
+  <li>Drafted Vincent Yarbrough with 33th pick but was worth 24th pick.</li>
+
+  </ul>'
 end_year: 2010
 final_bpm: -14237
 href: vandeki01x

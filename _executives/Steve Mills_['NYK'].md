@@ -1,12 +1,22 @@
 ---
 bpm_rank: 114
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted RJ Barrett with 3th pick but was worth 21th pick.</li>
+
+  <li>Drafted Kevin Knox with 9th pick but was worth 57th pick.</li>
+
+  </ul>'
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Mitchell Robinson with 36th pick but was worth 8th pick.</li>
+
+  </ul>'
 end_year: 2020
 final_bpm: -52353
 href: millsst99x

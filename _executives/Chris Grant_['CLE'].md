@@ -1,13 +1,25 @@
 ---
 bpm_rank: 151
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Anthony Bennett with 1th pick but was worth 50th pick.</li>
+
+  <li>Drafted Tristan Thompson with 4th pick but was worth 22th pick.</li>
+
+  <li>Drafted Dion Waiters with 4th pick but was worth 42th pick.</li>
+
+  </ul>'
 draft_description: Chris Grant ranks in the 2th percentile for drafting among executives
   in our database. Grant's draft picks average out to be worth the equivalent of 15
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 8
 draft_rating: -15.0
 draft_rating_grade: F-
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Jae Crowder with 34th pick but was worth 7th pick.</li>
+
+  </ul>'
 end_year: 2014
 final_bpm: -165712
 href: grantch99x

@@ -6,7 +6,11 @@ draft_description: This executive has only drafted 2 players and thus doesn't ha
 draft_num_players: 2
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Jaylen Nowell with 43th pick but was worth 33th pick.</li>
+
+  </ul>'
 end_year: 2021
 final_bpm: 450
 href: rosasge99x

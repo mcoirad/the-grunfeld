@@ -1,13 +1,29 @@
 ---
 bpm_rank: 93
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Enes Kanter with 3th pick but was worth 11th pick.</li>
+
+  <li>Drafted DeShawn Stevenson with 23th pick but was worth 49th pick.</li>
+
+  <li>Drafted Sasha Pavlović with 19th pick but was worth 46th pick.</li>
+
+  </ul>'
 draft_description: Kevin O'Connor ranks in the 63th percentile for drafting among
   executives in our database. O'Connor's draft picks average out to be worth the equivalent
   of 3 spots higher than they were picked due to his good drafting.
 draft_num_players: 21
 draft_rating: 2.9
 draft_rating_grade: B-
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Paul Millsap with 47th pick but was worth 3th pick.</li>
+
+  <li>Drafted Gordon Hayward with 9th pick but was worth 3th pick.</li>
+
+  <li>Drafted Mo Williams with 47th pick but was worth 11th pick.</li>
+
+  </ul>'
 end_year: 2012
 final_bpm: -25289
 href: oconnke99x

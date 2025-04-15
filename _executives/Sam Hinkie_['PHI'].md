@@ -1,13 +1,25 @@
 ---
 bpm_rank: 126
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Jahlil Okafor with 3th pick but was worth 29th pick.</li>
+
+  <li>Drafted Michael Carter-Williams with 11th pick but was worth 19th pick.</li>
+
+  <li>Drafted Jerami Grant with 39th pick but was worth 12th pick.</li>
+
+  </ul>'
 draft_description: Sam Hinkie ranks in the 52th percentile for drafting among executives
   in our database. Hinkie's draft picks average out to be worth the equivalent of
   1 spot higher than they were picked due to his good drafting.
 draft_num_players: 6
 draft_rating: 1.3
 draft_rating_grade: C
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Joel Embiid with 3th pick but was worth 2th pick.</li>
+
+  </ul>'
 end_year: 2016
 final_bpm: -76674
 href: hinkisa99x

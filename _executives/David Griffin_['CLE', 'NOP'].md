@@ -1,13 +1,27 @@
 ---
 bpm_rank: 26
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Jordan Hawkins with 14th pick but was worth 51th pick.</li>
+
+  <li>Drafted Kira Lewis Jr. with 13th pick but was worth 50th pick.</li>
+
+  <li>Drafted Yves Missi with 21th pick but was worth 41th pick.</li>
+
+  </ul>'
 draft_description: David Griffin ranks in the 43th percentile for drafting among executives
   in our database. Griffin's draft picks average out to be worth the equivalent of
   1 spot lower than they were picked due to their terrible drafting.
 draft_num_players: 9
 draft_rating: -0.7
 draft_rating_grade: C-
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Karlo Matkovic with 52th pick but was worth 24th pick.</li>
+
+  <li>Drafted Herb Jones with 35th pick but was worth 10th pick.</li>
+
+  </ul>'
 end_year: 2026
 final_bpm: 98081
 href: griffin01x

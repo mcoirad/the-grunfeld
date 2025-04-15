@@ -6,7 +6,9 @@ draft_description: This executive has only drafted 3 players and thus doesn't ha
 draft_num_players: 3
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: null
+draft_win_list: '<ul>
+
+  </ul>'
 end_year: 2026
 final_bpm: 125309
 href: stevebr99x

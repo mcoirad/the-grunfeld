@@ -7,7 +7,11 @@ draft_description: Flip Saunders ranks in the 82th percentile for drafting among
 draft_num_players: 4
 draft_rating: 7.2
 draft_rating_grade: A-
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Zach LaVine with 13th pick but was worth 6th pick.</li>
+
+  </ul>'
 end_year: 2015
 final_bpm: 28220
 href: saundfl99x

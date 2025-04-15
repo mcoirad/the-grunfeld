@@ -7,7 +7,15 @@ draft_description: Larry Riley ranks in the 37th percentile for drafting among e
 draft_num_players: 4
 draft_rating: -3.0
 draft_rating_grade: D+
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Stephen Curry with 7th pick but was worth 2th pick.</li>
+
+  <li>Drafted Charles Jenkins with 44th pick but was worth 48th pick.</li>
+
+  <li>Drafted Klay Thompson with 11th pick but was worth 8th pick.</li>
+
+  </ul>'
 end_year: 2012
 final_bpm: 290628
 href: rileyla99x

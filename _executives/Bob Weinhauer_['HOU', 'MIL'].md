@@ -7,7 +7,15 @@ draft_description: Bob Weinhauer ranks in the 86th percentile for drafting among
 draft_num_players: 4
 draft_rating: 8.0
 draft_rating_grade: A-
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Randy Livingston with 42th pick but was worth 31th pick.</li>
+
+  <li>Drafted Jerald Honeycutt with 39th pick but was worth 29th pick.</li>
+
+  <li>Drafted Rafer Alston with 39th pick but was worth 12th pick.</li>
+
+  </ul>'
 end_year: 1999
 final_bpm: -196638
 href: weinhbo99x

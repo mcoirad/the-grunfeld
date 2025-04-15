@@ -1,13 +1,23 @@
 ---
 bpm_rank: 14
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Dante Exum with 5th pick but was worth 50th pick.</li>
+
+  <li>Drafted Trey Lyles with 12th pick but was worth 20th pick.</li>
+
+  </ul>'
 draft_description: Dennis Lindsey ranks in the 50th percentile for drafting among
   executives in our database. Lindsey's draft picks average out to be worth the equivalent
   of 1 spot higher than they were picked due to his good drafting.
 draft_num_players: 10
 draft_rating: 1.1
 draft_rating_grade: C
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Grayson Allen with 21th pick but was worth 14th pick.</li>
+
+  </ul>'
 end_year: 2021
 final_bpm: 166769
 href: lindsde99x

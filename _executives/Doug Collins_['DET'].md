@@ -7,7 +7,13 @@ draft_description: Doug Collins ranks in the 78th percentile for drafting among 
 draft_num_players: 7
 draft_rating: 6.0
 draft_rating_grade: B+
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Jerome Williams with 26th pick but was worth 14th pick.</li>
+
+  <li>Drafted Lou Roe with 30th pick but was worth 35th pick.</li>
+
+  </ul>'
 end_year: 1998
 final_bpm: -33567
 href: collido01x

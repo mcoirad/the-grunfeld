@@ -1,13 +1,29 @@
 ---
 bpm_rank: 23
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Kevin Willis with 11th pick but was worth 47th pick.</li>
+
+  <li>Drafted Jon Koncak with 5th pick but was worth 21th pick.</li>
+
+  <li>Drafted Al Wood with 4th pick but was worth 19th pick.</li>
+
+  </ul>'
 draft_description: Stan Kasten ranks in the 91th percentile for drafting among executives
   in our database. Kasten's draft picks average out to be worth the equivalent of
   10 spots higher than they were picked due to his good drafting.
 draft_num_players: 17
 draft_rating: 10.2
 draft_rating_grade: A
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Doc Rivers with 31th pick but was worth 3th pick.</li>
+
+  <li>Drafted Sedric Toney with 59th pick but was worth 56th pick.</li>
+
+  <li>Drafted Rudy Macklin with 52th pick but was worth 58th pick.</li>
+
+  </ul>'
 end_year: 1990
 final_bpm: 109536
 href: kastest99x

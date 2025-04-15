@@ -1,13 +1,29 @@
 ---
 bpm_rank: 4
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted James Worthy with 1th pick but was worth 3th pick.</li>
+
+  <li>Drafted Drew Gooden with 4th pick but was worth 11th pick.</li>
+
+  <li>Drafted Derek Fisher with 24th pick but was worth 13th pick.</li>
+
+  </ul>'
 draft_description: Jerry West ranks in the 79th percentile for drafting among executives
   in our database. West's draft picks average out to be worth the equivalent of 6
   spots higher than they were picked due to his good drafting.
 draft_num_players: 24
 draft_rating: 6.1
 draft_rating_grade: B+
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Eddie Jones with 10th pick but was worth 3th pick.</li>
+
+  <li>Drafted Kyle Lowry with 24th pick but was worth 1th pick.</li>
+
+  <li>Drafted Vlade Divac with 26th pick but was worth 3th pick.</li>
+
+  </ul>'
 end_year: 2007
 final_bpm: 302682
 href: westje01x

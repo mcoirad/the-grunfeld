@@ -1,12 +1,20 @@
 ---
 bpm_rank: 91
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Markieff Morris with 13th pick but was worth 20th pick.</li>
+
+  <li>Drafted Kendall Marshall with 13th pick but was worth 49th pick.</li>
+
+  </ul>'
 draft_description: This executive has only drafted 2 players and thus doesn't have
   a draft grade.
 draft_num_players: 2
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: null
+draft_win_list: '<ul>
+
+  </ul>'
 end_year: 2013
 final_bpm: -23410
 href: blankla01x

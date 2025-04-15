@@ -1,13 +1,29 @@
 ---
 bpm_rank: 110
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Alan Henderson with 16th pick but was worth 18th pick.</li>
+
+  <li>Drafted Adam Keefe with 10th pick but was worth 22th pick.</li>
+
+  <li>Drafted Todd Lichti with 15th pick but was worth 34th pick.</li>
+
+  </ul>'
 draft_description: Pete Babcock ranks in the 21th percentile for drafting among executives
   in our database. Babcock's draft picks average out to be worth the equivalent of
   7 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 19
 draft_rating: -6.7
 draft_rating_grade: D-
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Jason Terry with 10th pick but was worth 4th pick.</li>
+
+  <li>Drafted Trevor Wilson with 36th pick but was worth 34th pick.</li>
+
+  <li>Drafted Rodney Monroe with 30th pick but was worth 26th pick.</li>
+
+  </ul>'
 end_year: 2003
 final_bpm: -49127
 href: babcope99x

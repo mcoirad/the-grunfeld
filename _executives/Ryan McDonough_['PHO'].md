@@ -1,13 +1,25 @@
 ---
 bpm_rank: 118
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Deandre Ayton with 1th pick but was worth 7th pick.</li>
+
+  <li>Drafted Josh Jackson with 4th pick but was worth 54th pick.</li>
+
+  <li>Drafted Alex Len with 5th pick but was worth 25th pick.</li>
+
+  </ul>'
 draft_description: Ryan McDonough ranks in the 8th percentile for drafting among executives
   in our database. McDonough's draft picks average out to be worth the equivalent
   of 12 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 12
 draft_rating: -12.5
 draft_rating_grade: F
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Devin Booker with 13th pick but was worth 3th pick.</li>
+
+  </ul>'
 end_year: 2018
 final_bpm: -56981
 href: mcdonry99x

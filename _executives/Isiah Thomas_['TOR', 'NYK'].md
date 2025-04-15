@@ -1,13 +1,29 @@
 ---
 bpm_rank: 146
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Marcus Camby with 2th pick but was worth 5th pick.</li>
+
+  <li>Drafted Wilson Chandler with 23th pick but was worth 16th pick.</li>
+
+  <li>Drafted Channing Frye with 8th pick but was worth 15th pick.</li>
+
+  </ul>'
 draft_description: Isiah Thomas ranks in the 75th percentile for drafting among executives
   in our database. Thomas's draft picks average out to be worth the equivalent of
   5 spots higher than they were picked due to his good drafting.
 draft_num_players: 10
 draft_rating: 5.0
 draft_rating_grade: B+
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Tracy McGrady with 9th pick but was worth 2th pick.</li>
+
+  <li>Drafted Trevor Ariza with 43th pick but was worth 5th pick.</li>
+
+  <li>Drafted David Lee with 30th pick but was worth 4th pick.</li>
+
+  </ul>'
 end_year: 2008
 final_bpm: -131029
 href: thomais01x

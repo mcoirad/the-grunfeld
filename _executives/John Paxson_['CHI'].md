@@ -1,13 +1,25 @@
 ---
 bpm_rank: 46
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Derrick Rose with 1th pick but was worth 8th pick.</li>
+
+  <li>Drafted Ben Gordon with 3th pick but was worth 14th pick.</li>
+
+  <li>Drafted Kirk Hinrich with 7th pick but was worth 8th pick.</li>
+
+  </ul>'
 draft_description: John Paxson ranks in the 49th percentile for drafting among executives
   in our database. Paxson's draft picks average out to be worth the equivalent of
   1 spot higher than they were picked due to his good drafting.
 draft_num_players: 6
 draft_rating: 1.0
 draft_rating_grade: C
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Joakim Noah with 9th pick but was worth 5th pick.</li>
+
+  </ul>'
 end_year: 2009
 final_bpm: 20001
 href: paxsojo01x

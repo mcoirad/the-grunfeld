@@ -1,13 +1,29 @@
 ---
 bpm_rank: 62
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Darko Miličić with 2th pick but was worth 42th pick.</li>
+
+  <li>Drafted Brandon Knight with 8th pick but was worth 22th pick.</li>
+
+  <li>Drafted Kentavious Caldwell-Pope with 8th pick but was worth 10th pick.</li>
+
+  </ul>'
 draft_description: Joe Dumars ranks in the 74th percentile for drafting among executives
   in our database. Dumars's draft picks average out to be worth the equivalent of
   5 spots higher than they were picked due to his good drafting.
 draft_num_players: 26
 draft_rating: 4.9
 draft_rating_grade: B+
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Mehmet Okur with 38th pick but was worth 11th pick.</li>
+
+  <li>Drafted Andre Drummond with 9th pick but was worth 5th pick.</li>
+
+  <li>Drafted Tayshaun Prince with 23th pick but was worth 5th pick.</li>
+
+  </ul>'
 end_year: 2014
 final_bpm: -90
 href: dumarjo01x

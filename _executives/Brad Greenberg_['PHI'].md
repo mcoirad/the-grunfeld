@@ -6,7 +6,11 @@ draft_description: This executive has only drafted 2 players and thus doesn't ha
 draft_num_players: 2
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Mark Hendrickson with 31th pick but was worth 36th pick.</li>
+
+  </ul>'
 end_year: 1997
 final_bpm: 90400
 href: greenbr99x

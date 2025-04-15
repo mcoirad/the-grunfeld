@@ -1,15 +1,31 @@
 ---
-bpm_rank: 19
-draft_bust_list: null
+bpm_rank: 21
+draft_bust_list: '<ul>
+
+  <li>Drafted Emmanuel Mudiay with 7th pick but was worth 44th pick.</li>
+
+  <li>Drafted Malik Beasley with 19th pick but was worth 13th pick.</li>
+
+  <li>Drafted Juan Hernangómez with 15th pick but was worth 21th pick.</li>
+
+  </ul>'
 draft_description: Tim Connelly ranks in the 89th percentile for drafting among executives
   in our database. Connelly's draft picks average out to be worth the equivalent of
   10 spots higher than they were picked due to his good drafting.
 draft_num_players: 14
 draft_rating: 9.9
 draft_rating_grade: A
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Nikola Jokić with 41th pick but was worth 1th pick.</li>
+
+  <li>Drafted Monte Morris with 51th pick but was worth 13th pick.</li>
+
+  <li>Drafted Vlatko Čančar with 49th pick but was worth 37th pick.</li>
+
+  </ul>'
 end_year: 2026
-final_bpm: 120703
+final_bpm: 120182
 href: conneti99x
 is_active: true
 name: Tim Connelly

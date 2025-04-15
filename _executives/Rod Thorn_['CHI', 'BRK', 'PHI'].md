@@ -1,13 +1,29 @@
 ---
 bpm_rank: 12
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Dave Greenwood with 2th pick but was worth 13th pick.</li>
+
+  <li>Drafted Sidney Green with 5th pick but was worth 57th pick.</li>
+
+  <li>Drafted Kenyon Martin with 1th pick but was worth 5th pick.</li>
+
+  </ul>'
 draft_description: Rod Thorn ranks in the 59th percentile for drafting among executives
   in our database. Thorn's draft picks average out to be worth the equivalent of 3
   spots higher than they were picked due to his good drafting.
 draft_num_players: 20
 draft_rating: 2.6
 draft_rating_grade: C+
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Michael Jordan with 3th pick but was worth 1th pick.</li>
+
+  <li>Drafted Nikola Vučević with 16th pick but was worth 4th pick.</li>
+
+  <li>Drafted James Wilkes with 50th pick but was worth 32th pick.</li>
+
+  </ul>'
 end_year: 2012
 final_bpm: 188498
 href: thornro01x

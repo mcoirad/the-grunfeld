@@ -1,13 +1,29 @@
 ---
 bpm_rank: 131
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Felton Spencer with 6th pick but was worth 50th pick.</li>
+
+  <li>Drafted Doug West with 38th pick but was worth 47th pick.</li>
+
+  <li>Drafted Lindsey Hunter with 10th pick but was worth 9th pick.</li>
+
+  </ul>'
 draft_description: Billy McKinney ranks in the 30th percentile for drafting among
   executives in our database. McKinney's draft picks average out to be worth the equivalent
   of 5 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 8
 draft_rating: -4.8
 draft_rating_grade: D
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Gary Leonard with 34th pick but was worth 27th pick.</li>
+
+  <li>Drafted Allan Houston with 11th pick but was worth 5th pick.</li>
+
+  <li>Drafted Grant Hill with 3th pick but was worth 2th pick.</li>
+
+  </ul>'
 end_year: 1995
 final_bpm: -87831
 href: mckinbi01x

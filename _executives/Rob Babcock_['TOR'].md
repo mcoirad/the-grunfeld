@@ -1,13 +1,25 @@
 ---
 bpm_rank: 124
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Rafael Araújo with 8th pick but was worth 44th pick.</li>
+
+  <li>Drafted Charlie Villanueva with 7th pick but was worth 20th pick.</li>
+
+  <li>Drafted Joey Graham with 16th pick but was worth 53th pick.</li>
+
+  </ul>'
 draft_description: Rob Babcock ranks in the 2th percentile for drafting among executives
   in our database. Babcock's draft picks average out to be worth the equivalent of
   15 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
 draft_rating: -15.0
 draft_rating_grade: F-
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Roko Ukić with 41th pick but was worth 47th pick.</li>
+
+  </ul>'
 end_year: 2006
 final_bpm: -72826
 href: babcoro99x

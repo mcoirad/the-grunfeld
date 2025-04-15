@@ -1,13 +1,23 @@
 ---
 bpm_rank: 123
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Billy Owens with 3th pick but was worth 11th pick.</li>
+
+  <li>Drafted Bobby Hurley with 7th pick but was worth 43th pick.</li>
+
+  <li>Drafted Duane Causwell with 18th pick but was worth 35th pick.</li>
+
+  </ul>'
 draft_description: Jerry Reynolds ranks in the 35th percentile for drafting among
   executives in our database. Reynolds's draft picks average out to be worth the equivalent
   of 3 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 11
 draft_rating: -3.5
 draft_rating_grade: D+
-draft_win_list: null
+draft_win_list: '<ul>
+
+  </ul>'
 end_year: 1994
 final_bpm: -72655
 href: reynoje99x

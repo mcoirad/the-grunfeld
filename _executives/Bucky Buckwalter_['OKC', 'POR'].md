@@ -1,13 +1,29 @@
 ---
 bpm_rank: 39
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Mark Bryant with 21th pick but was worth 57th pick.</li>
+
+  <li>Drafted Alaa Abdelnaby with 25th pick but was worth 44th pick.</li>
+
+  <li>Drafted Ronnie Murphy with 17th pick but was worth 37th pick.</li>
+
+  </ul>'
 draft_description: Bucky Buckwalter ranks in the 70th percentile for drafting among
   executives in our database. Buckwalter's draft picks average out to be worth the
   equivalent of 4 spots higher than they were picked due to his good drafting.
 draft_num_players: 14
 draft_rating: 4.1
 draft_rating_grade: B
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Arvydas Sabonis with 24th pick but was worth 7th pick.</li>
+
+  <li>Drafted Clifford Robinson with 36th pick but was worth 4th pick.</li>
+
+  <li>Drafted Reggie Smith with 31th pick but was worth 35th pick.</li>
+
+  </ul>'
 end_year: 1992
 final_bpm: 45355
 href: buckwbu99x

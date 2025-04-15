@@ -1,15 +1,31 @@
 ---
 bpm_rank: 36
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Bennedict Mathurin with 6th pick but was worth 50th pick.</li>
+
+  <li>Drafted Dante Cunningham with 33th pick but was worth 27th pick.</li>
+
+  <li>Drafted Aaron Holiday with 23th pick but was worth 32th pick.</li>
+
+  </ul>'
 draft_description: Kevin Pritchard ranks in the 51th percentile for drafting among
   executives in our database. Pritchard's draft picks average out to be worth the
   equivalent of 1 spot higher than they were picked due to his good drafting.
 draft_num_players: 21
 draft_rating: 1.2
 draft_rating_grade: C
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Cassius Stanley with 54th pick but was worth 44th pick.</li>
+
+  <li>Drafted Goga Bitadze with 18th pick but was worth 10th pick.</li>
+
+  <li>Drafted Armon Johnson with 34th pick but was worth 38th pick.</li>
+
+  </ul>'
 end_year: 2026
-final_bpm: 49105
+final_bpm: 49140
 href: pritcke01x
 is_active: true
 name: Kevin Pritchard

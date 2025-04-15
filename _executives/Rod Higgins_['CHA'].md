@@ -1,13 +1,27 @@
 ---
 bpm_rank: 128
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Gerald Henderson with 12th pick but was worth 30th pick.</li>
+
+  <li>Drafted D.J. Augustin with 9th pick but was worth 14th pick.</li>
+
+  <li>Drafted Alexis Ajinça with 20th pick but was worth 47th pick.</li>
+
+  </ul>'
 draft_description: Rod Higgins ranks in the 27th percentile for drafting among executives
   in our database. Higgins's draft picks average out to be worth the equivalent of
   5 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
 draft_rating: -5.4
 draft_rating_grade: D
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Derrick Brown with 40th pick but was worth 32th pick.</li>
+
+  <li>Drafted Jared Dudley with 22th pick but was worth 7th pick.</li>
+
+  </ul>'
 end_year: 2011
 final_bpm: -83723
 href: higgiro01x

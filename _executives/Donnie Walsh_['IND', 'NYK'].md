@@ -1,13 +1,29 @@
 ---
 bpm_rank: 3
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Chuck Person with 4th pick but was worth 10th pick.</li>
+
+  <li>Drafted Rik Smits with 2th pick but was worth 10th pick.</li>
+
+  <li>Drafted Erick Dampier with 10th pick but was worth 16th pick.</li>
+
+  </ul>'
 draft_description: Donnie Walsh ranks in the 62th percentile for drafting among executives
   in our database. Walsh's draft picks average out to be worth the equivalent of 3
   spots higher than they were picked due to his good drafting.
 draft_num_players: 28
 draft_rating: 2.8
 draft_rating_grade: B-
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Reggie Miller with 11th pick but was worth 2th pick.</li>
+
+  <li>Drafted Sean Green with 41th pick but was worth 33th pick.</li>
+
+  <li>Drafted Dale Davis with 13th pick but was worth 6th pick.</li>
+
+  </ul>'
 end_year: 2011
 final_bpm: 307200
 href: walshdo99x

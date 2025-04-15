@@ -7,7 +7,15 @@ draft_description: Del Harris ranks in the 20th percentile for drafting among ex
 draft_num_players: 4
 draft_rating: -7.0
 draft_rating_grade: D-
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Steve Henson with 44th pick but was worth 20th pick.</li>
+
+  <li>Drafted Tito Horford with 39th pick but was worth 47th pick.</li>
+
+  <li>Drafted Frank Kornet with 30th pick but was worth 37th pick.</li>
+
+  </ul>'
 end_year: 1992
 final_bpm: -21869
 href: harride99x

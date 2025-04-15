@@ -6,7 +6,13 @@ draft_description: This executive has only drafted 3 players and thus doesn't ha
 draft_num_players: 3
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Dee Brown with 19th pick but was worth 5th pick.</li>
+
+  <li>Drafted Rick Fox with 24th pick but was worth 9th pick.</li>
+
+  </ul>'
 end_year: 1994
 final_bpm: -14250
 href: gavitda99x

@@ -1,15 +1,31 @@
 ---
 bpm_rank: 10
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Justise Winslow with 10th pick but was worth 34th pick.</li>
+
+  <li>Drafted Precious Achiuwa with 20th pick but was worth 43th pick.</li>
+
+  <li>Drafted Jaime Jaquez Jr. with 18th pick but was worth 11th pick.</li>
+
+  </ul>'
 draft_description: Pat Riley ranks in the 68th percentile for drafting among executives
   in our database. Riley's draft picks average out to be worth the equivalent of 4
   spots higher than they were picked due to his good drafting.
 draft_num_players: 11
 draft_rating: 3.8
 draft_rating_grade: B
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Bam Adebayo with 14th pick but was worth 3th pick.</li>
+
+  <li>Drafted Josh Richardson with 40th pick but was worth 14th pick.</li>
+
+  <li>Drafted Tyler Herro with 13th pick but was worth 4th pick.</li>
+
+  </ul>'
 end_year: 2026
-final_bpm: 193061
+final_bpm: 192967
 href: rileypa01x
 is_active: true
 name: Pat Riley

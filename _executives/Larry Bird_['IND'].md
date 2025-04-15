@@ -1,13 +1,29 @@
 ---
 bpm_rank: 113
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Tyler Hansbrough with 13th pick but was worth 34th pick.</li>
+
+  <li>Drafted Solomon Hill with 23th pick but was worth 40th pick.</li>
+
+  <li>Drafted Shawne Williams with 17th pick but was worth 36th pick.</li>
+
+  </ul>'
 draft_description: Larry Bird ranks in the 73th percentile for drafting among executives
   in our database. Bird's draft picks average out to be worth the equivalent of 4
   spots higher than they were picked due to his good drafting.
 draft_num_players: 12
 draft_rating: 4.3
 draft_rating_grade: B+
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Paul George with 10th pick but was worth 1th pick.</li>
+
+  <li>Drafted Danny Granger with 17th pick but was worth 5th pick.</li>
+
+  <li>Drafted Joe Young with 43th pick but was worth 38th pick.</li>
+
+  </ul>'
 end_year: 2017
 final_bpm: -50452
 href: birdla01x

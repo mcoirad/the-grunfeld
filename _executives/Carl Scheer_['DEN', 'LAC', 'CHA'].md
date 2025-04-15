@@ -1,13 +1,25 @@
 ---
 bpm_rank: 161
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Benoit Benjamin with 3th pick but was worth 19th pick.</li>
+
+  <li>Drafted Marvin Webster with 3th pick but was worth 10th pick.</li>
+
+  <li>Drafted Tom LaGarde with 9th pick but was worth 62th pick.</li>
+
+  </ul>'
 draft_description: Carl Scheer ranks in the 0th percentile for drafting among executives
   in our database. Scheer's draft picks average out to be worth the equivalent of
   19 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 14
 draft_rating: -19.2
 draft_rating_grade: F-
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Robert Smith with 65th pick but was worth 31th pick.</li>
+
+  </ul>'
 end_year: 1990
 final_bpm: -308690
 href: scheeca99x

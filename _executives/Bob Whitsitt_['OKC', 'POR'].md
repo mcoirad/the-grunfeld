@@ -7,7 +7,13 @@ draft_description: Bob Whitsitt ranks in the 96th percentile for drafting among 
 draft_num_players: 7
 draft_rating: 12.4
 draft_rating_grade: A+
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Jermaine O''Neal with 17th pick but was worth 11th pick.</li>
+
+  <li>Drafted Zach Randolph with 19th pick but was worth 9th pick.</li>
+
+  </ul>'
 end_year: 2003
 final_bpm: -40057
 href: whitsbo99x

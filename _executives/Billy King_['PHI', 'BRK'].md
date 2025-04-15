@@ -1,13 +1,27 @@
 ---
 bpm_rank: 154
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Samuel Dalembert with 26th pick but was worth 15th pick.</li>
+
+  <li>Drafted Larry Hughes with 8th pick but was worth 10th pick.</li>
+
+  </ul>'
 draft_description: Billy King ranks in the 93th percentile for drafting among executives
   in our database. King's draft picks average out to be worth the equivalent of 11
   spots higher than they were picked due to his good drafting.
 draft_num_players: 13
 draft_rating: 11.4
 draft_rating_grade: A+
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Andre Iguodala with 9th pick but was worth 1th pick.</li>
+
+  <li>Drafted Lou Williams with 45th pick but was worth 3th pick.</li>
+
+  <li>Drafted Mason Plumlee with 22th pick but was worth 4th pick.</li>
+
+  </ul>'
 end_year: 2016
 final_bpm: -207084
 href: kingbi99x

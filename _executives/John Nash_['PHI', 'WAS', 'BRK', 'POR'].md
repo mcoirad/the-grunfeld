@@ -1,13 +1,29 @@
 ---
 bpm_rank: 147
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Juwan Howard with 5th pick but was worth 15th pick.</li>
+
+  <li>Drafted Calbert Cheaney with 6th pick but was worth 42th pick.</li>
+
+  <li>Drafted Sebastian Telfair with 13th pick but was worth 46th pick.</li>
+
+  </ul>'
 draft_description: John Nash ranks in the 6th percentile for drafting among executives
   in our database. Nash's draft picks average out to be worth the equivalent of 13
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 10
 draft_rating: -12.7
 draft_rating_grade: F
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Ha Seung-Jin with 46th pick but was worth 35th pick.</li>
+
+  <li>Drafted Evan Eschmeyer with 34th pick but was worth 37th pick.</li>
+
+  <li>Drafted Sergei Monia with 23th pick but was worth 32th pick.</li>
+
+  </ul>'
 end_year: 2006
 final_bpm: -131746
 href: nashjo99x

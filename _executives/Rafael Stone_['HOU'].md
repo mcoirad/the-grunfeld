@@ -1,15 +1,29 @@
 ---
 bpm_rank: 109
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Jalen Green with 2th pick but was worth 12th pick.</li>
+
+  <li>Drafted Jabari Smith with 3th pick but was worth 13th pick.</li>
+
+  <li>Drafted Josh Christopher with 24th pick but was worth 51th pick.</li>
+
+  </ul>'
 draft_description: Rafael Stone ranks in the 33th percentile for drafting among executives
   in our database. Stone's draft picks average out to be worth the equivalent of 4
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 9
 draft_rating: -4.2
 draft_rating_grade: D+
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Amen Thompson with 4th pick but was worth 2th pick.</li>
+
+  <li>Drafted Tari Eason with 17th pick but was worth 7th pick.</li>
+
+  </ul>'
 end_year: 2026
-final_bpm: -48881
+final_bpm: -48786
 href: stonera99x
 is_active: true
 name: Rafael Stone

@@ -1,13 +1,25 @@
 ---
 bpm_rank: 9
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted DeSagana Diop with 8th pick but was worth 21th pick.</li>
+
+  <li>Drafted Dajuan Wagner with 6th pick but was worth 45th pick.</li>
+
+  <li>Drafted Trajan Langdon with 11th pick but was worth 21th pick.</li>
+
+  </ul>'
 draft_description: Jim Paxson ranks in the 34th percentile for drafting among executives
   in our database. Paxson's draft picks average out to be worth the equivalent of
   4 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 11
 draft_rating: -3.6
 draft_rating_grade: D+
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Carlos Boozer with 35th pick but was worth 1th pick.</li>
+
+  </ul>'
 end_year: 2005
 final_bpm: 202110
 href: paxsoji02x

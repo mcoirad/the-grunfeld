@@ -1,13 +1,29 @@
 ---
 bpm_rank: 82
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Isaac Okoro with 5th pick but was worth 29th pick.</li>
+
+  <li>Drafted Collin Sexton with 8th pick but was worth 23th pick.</li>
+
+  <li>Drafted Darius Garland with 5th pick but was worth 7th pick.</li>
+
+  </ul>'
 draft_description: Koby Altman ranks in the 54th percentile for drafting among executives
   in our database. Altman's draft picks average out to be worth the equivalent of
   2 spots higher than they were picked due to his good drafting.
 draft_num_players: 9
 draft_rating: 1.8
 draft_rating_grade: C+
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Emoni Bates with 49th pick but was worth 36th pick.</li>
+
+  <li>Drafted Evan Mobley with 3th pick but was worth 2th pick.</li>
+
+  <li>Drafted Dylan Windler with 26th pick but was worth 25th pick.</li>
+
+  </ul>'
 end_year: 2026
 final_bpm: -17744
 href: altmako01x

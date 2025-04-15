@@ -1,13 +1,29 @@
 ---
 bpm_rank: 2
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Jeff Green with 5th pick but was worth 15th pick.</li>
+
+  <li>Drafted Avery Bradley with 19th pick but was worth 50th pick.</li>
+
+  <li>Drafted Jaylen Brown with 3th pick but was worth 9th pick.</li>
+
+  </ul>'
 draft_description: Danny Ainge ranks in the 48th percentile for drafting among executives
   in our database. Ainge's draft picks average out to be worth the equivalent of 1
   spot higher than they were picked due to his good drafting.
 draft_num_players: 48
 draft_rating: 0.9
 draft_rating_grade: C
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Jayson Tatum with 3th pick but was worth 1th pick.</li>
+
+  <li>Drafted Al Jefferson with 15th pick but was worth 6th pick.</li>
+
+  <li>Drafted Robert Williams with 27th pick but was worth 10th pick.</li>
+
+  </ul>'
 end_year: 2026
 final_bpm: 336675
 href: aingeda01x

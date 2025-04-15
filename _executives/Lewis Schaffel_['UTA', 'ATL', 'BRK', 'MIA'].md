@@ -1,13 +1,29 @@
 ---
 bpm_rank: 144
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Rony Seikaly with 9th pick but was worth 25th pick.</li>
+
+  <li>Drafted Jeff Turner with 17th pick but was worth 58th pick.</li>
+
+  <li>Drafted Glen Rice with 4th pick but was worth 5th pick.</li>
+
+  </ul>'
 draft_description: Lewis Schaffel ranks in the 98th percentile for drafting among
   executives in our database. Schaffel's draft picks average out to be worth the equivalent
   of 13 spots higher than they were picked due to his good drafting.
 draft_num_players: 19
 draft_rating: 13.1
 draft_rating_grade: S
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Scott Haffner with 45th pick but was worth 34th pick.</li>
+
+  <li>Drafted Steve Smith with 5th pick but was worth 3th pick.</li>
+
+  <li>Drafted Sylvester Gray with 35th pick but was worth 39th pick.</li>
+
+  </ul>'
 end_year: 1995
 final_bpm: -125108
 href: schafle99x

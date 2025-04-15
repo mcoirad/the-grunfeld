@@ -1,13 +1,23 @@
 ---
 bpm_rank: 50
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted D.J. Wilson with 17th pick but was worth 37th pick.</li>
+
+  <li>Drafted MarJon Beauchamp with 24th pick but was worth 40th pick.</li>
+
+  </ul>'
 draft_description: Jon Horst ranks in the 44th percentile for drafting among executives
   in our database. Horst's draft picks average out to be worth the equivalent of 1
   spot lower than they were picked due to their terrible drafting.
 draft_num_players: 10
 draft_rating: -0.6
 draft_rating_grade: C-
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Jordan Nwora with 45th pick but was worth 51th pick.</li>
+
+  </ul>'
 end_year: 2026
 final_bpm: 11733
 href: horstjo01x

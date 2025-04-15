@@ -1,13 +1,29 @@
 ---
 bpm_rank: 70
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Michael Beasley with 2th pick but was worth 25th pick.</li>
+
+  <li>Drafted Rasual Butler with 53th pick but was worth 13th pick.</li>
+
+  <li>Drafted Caron Butler with 10th pick but was worth 7th pick.</li>
+
+  </ul>'
 draft_description: Randy Pfund ranks in the 85th percentile for drafting among executives
   in our database. Pfund's draft picks average out to be worth the equivalent of 8
   spots higher than they were picked due to his good drafting.
 draft_num_players: 13
 draft_rating: 7.9
 draft_rating_grade: A-
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Dwyane Wade with 5th pick but was worth 2th pick.</li>
+
+  <li>Drafted Ken Johnson with 49th pick but was worth 31th pick.</li>
+
+  <li>Drafted Eddie House with 37th pick but was worth 8th pick.</li>
+
+  </ul>'
 end_year: 2008
 final_bpm: -4425
 href: pfundra99x

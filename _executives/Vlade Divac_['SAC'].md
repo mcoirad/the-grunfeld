@@ -1,13 +1,25 @@
 ---
 bpm_rank: 108
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Marvin Bagley III with 2th pick but was worth 26th pick.</li>
+
+  <li>Drafted De''Aaron Fox with 5th pick but was worth 6th pick.</li>
+
+  <li>Drafted Frank Mason III with 34th pick but was worth 40th pick.</li>
+
+  </ul>'
 draft_description: Vlade Divac ranks in the 19th percentile for drafting among executives
   in our database. Divac's draft picks average out to be worth the equivalent of 8
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
 draft_rating: -8.2
 draft_rating_grade: F
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Justin James with 40th pick but was worth 40th pick.</li>
+
+  </ul>'
 end_year: 2020
 final_bpm: -48080
 href: divacvl99x

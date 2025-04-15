@@ -1,13 +1,29 @@
 ---
-bpm_rank: 20
-draft_bust_list: null
+bpm_rank: 19
+draft_bust_list: '<ul>
+
+  <li>Drafted Jabari Parker with 2th pick but was worth 21th pick.</li>
+
+  <li>Drafted Joe Alexander with 8th pick but was worth 41th pick.</li>
+
+  <li>Drafted Thon Maker with 10th pick but was worth 30th pick.</li>
+
+  </ul>'
 draft_description: John Hammond ranks in the 41th percentile for drafting among executives
   in our database. Hammond's draft picks average out to be worth the equivalent of
   2 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 16
 draft_rating: -1.8
 draft_rating_grade: C-
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Giannis Antetokounmpo with 15th pick but was worth 1th pick.</li>
+
+  <li>Drafted Malcolm Brogdon with 36th pick but was worth 7th pick.</li>
+
+  <li>Drafted Jodie Meeks with 41th pick but was worth 19th pick.</li>
+
+  </ul>'
 end_year: 2017
 final_bpm: 120607
 href: hammojo99x

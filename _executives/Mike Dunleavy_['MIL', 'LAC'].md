@@ -1,13 +1,23 @@
 ---
 bpm_rank: 29
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Glenn Robinson with 1th pick but was worth 7th pick.</li>
+
+  <li>Drafted Blake Griffin with 1th pick but was worth 3th pick.</li>
+
+  <li>Drafted Vin Baker with 8th pick but was worth 13th pick.</li>
+
+  </ul>'
 draft_description: Mike Dunleavy ranks in the 26th percentile for drafting among executives
   in our database. Dunleavy's draft picks average out to be worth the equivalent of
   6 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 7
 draft_rating: -5.6
 draft_rating_grade: D-
-draft_win_list: null
+draft_win_list: '<ul>
+
+  </ul>'
 end_year: 2010
 final_bpm: 81952
 href: dunlemi01x

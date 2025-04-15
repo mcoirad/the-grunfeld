@@ -1,13 +1,29 @@
 ---
 bpm_rank: 49
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Harrison Barnes with 7th pick but was worth 8th pick.</li>
+
+  <li>Drafted James Wiseman with 2th pick but was worth 54th pick.</li>
+
+  <li>Drafted Jordan Poole with 28th pick but was worth 22th pick.</li>
+
+  </ul>'
 draft_description: Bob Myers ranks in the 66th percentile for drafting among executives
   in our database. Myers's draft picks average out to be worth the equivalent of 3
   spots higher than they were picked due to his good drafting.
 draft_num_players: 15
 draft_rating: 3.4
 draft_rating_grade: B-
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Draymond Green with 35th pick but was worth 3th pick.</li>
+
+  <li>Drafted Nico Mannion with 48th pick but was worth 37th pick.</li>
+
+  <li>Drafted Kevon Looney with 30th pick but was worth 12th pick.</li>
+
+  </ul>'
 end_year: 2023
 final_bpm: 11979
 href: myersbo99x

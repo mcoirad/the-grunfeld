@@ -1,13 +1,23 @@
 ---
 bpm_rank: 92
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Marco Belinelli with 18th pick but was worth 18th pick.</li>
+
+  <li>Drafted Ike Diogu with 9th pick but was worth 49th pick.</li>
+
+  <li>Drafted Andris Biedriņš with 11th pick but was worth 19th pick.</li>
+
+  </ul>'
 draft_description: Chris Mullin ranks in the 33th percentile for drafting among executives
   in our database. Mullin's draft picks average out to be worth the equivalent of
   4 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 9
 draft_rating: -4.2
 draft_rating_grade: D+
-draft_win_list: null
+draft_win_list: '<ul>
+
+  </ul>'
 end_year: 2009
 final_bpm: -24048
 href: mullich01x

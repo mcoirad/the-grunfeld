@@ -7,7 +7,13 @@ draft_description: Gregg Popovich ranks in the 100th percentile for drafting amo
 draft_num_players: 5
 draft_rating: 22.8
 draft_rating_grade: S
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Manu Ginóbili with 57th pick but was worth 2th pick.</li>
+
+  <li>Drafted Tony Parker with 28th pick but was worth 2th pick.</li>
+
+  </ul>'
 end_year: 2002
 final_bpm: 422591
 href: popovgr99x

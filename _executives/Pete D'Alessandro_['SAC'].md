@@ -1,12 +1,22 @@
 ---
 bpm_rank: 112
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Ben McLemore with 7th pick but was worth 51th pick.</li>
+
+  <li>Drafted Nik Stauskas with 8th pick but was worth 52th pick.</li>
+
+  </ul>'
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: null
+draft_win_list: '<ul>
+
+  <li>Drafted Ray McCallum with 36th pick but was worth 43th pick.</li>
+
+  </ul>'
 end_year: 2015
 final_bpm: -50067
 href: dalespe99x
