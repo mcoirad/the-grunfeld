@@ -1,5 +1,4 @@
 ---
-badges: ''
 bpm_rank: 64
 draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
@@ -37,9 +36,5 @@ trade_description: This executive hasn't traded any players, and thus doesn't ha
 trade_lose_list: null
 trade_rating: null
 trade_rating_grade: null
-trade_win_list: '<ul>
-
-  <li></li>
-
-  </ul>'
+trade_win_list: null
 ---

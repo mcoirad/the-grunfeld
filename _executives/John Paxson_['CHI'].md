@@ -1,32 +1,19 @@
 ---
-badges: ''
-bpm_rank: 45
-draft_bust_list: '<ul>
-
-  <li>Drafted Derrick Rose with 1th pick but was worth 7th pick.</li>
-
-  <li>Drafted Ben Gordon with 3th pick but was worth 34th pick.</li>
-
-  <li>Drafted Kirk Hinrich with 7th pick but was worth 11th pick.</li>
-
-  </ul>'
-draft_description: John Paxson ranks in the 35th percentile for drafting among executives
+bpm_rank: 46
+draft_bust_list: null
+draft_description: John Paxson ranks in the 49th percentile for drafting among executives
   in our database. Paxson's draft picks average out to be worth the equivalent of
-  4 spots lower than they were picked due to their terrible drafting.
+  1 spot higher than they were picked due to his good drafting.
 draft_num_players: 6
-draft_rating: -4.5
-draft_rating_grade: D+
-draft_win_list: '<ul>
-
-  <li>Drafted Joakim Noah with 9th pick but was worth 5th pick.</li>
-
-  </ul>'
+draft_rating: 1.0
+draft_rating_grade: C
+draft_win_list: null
 end_year: 2009
 final_bpm: 20001
 href: paxsojo01x
 is_active: false
 name: John Paxson
-signing_description: 'John Paxson ranks in the 5th percentile for free agency signings
+signing_description: 'John Paxson ranks in the 32th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -37,8 +24,8 @@ signing_lose_list: '<ul>
   <li>Signed Kendall Gill in 2003.</li>
 
   </ul>'
-signing_rating: -0.72
-signing_rating_grade: F
+signing_rating: -0.12
+signing_rating_grade: D
 signing_win_list: '<ul>
 
   <li>Signed Ben Wallace in 2006.</li>
@@ -49,7 +36,7 @@ team:
 - Chicago Bulls
 team_shortcode:
 - CHI
-trade_description: 'John Paxson ranks in the 17th percentile for trading among executives
+trade_description: 'John Paxson ranks in the 26th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -58,8 +45,8 @@ trade_lose_list: '<ul>
   <li>Lost LaMarcus Aldridge, Demetris Nichols to POR.</li>
 
   </ul>'
-trade_rating: -0.22
-trade_rating_grade: F
+trade_rating: -0.11
+trade_rating_grade: D-
 trade_win_list: '<ul>
 
   <li>Added Luol Deng to CHI.</li>

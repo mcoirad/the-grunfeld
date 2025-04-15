@@ -1,48 +1,31 @@
 ---
-badges: ''
-bpm_rank: 76
-draft_bust_list: '<ul>
-
-  <li>Drafted Dennis Hopson with 3th pick but was worth 45th pick.</li>
-
-  <li>Drafted Chris Morris with 4th pick but was worth 8th pick.</li>
-
-  <li>Drafted Ron Anderson with 27th pick but was worth 50th pick.</li>
-
-  </ul>'
-draft_description: Harry Weltman ranks in the 58th percentile for drafting among executives
+bpm_rank: 74
+draft_bust_list: null
+draft_description: Harry Weltman ranks in the 67th percentile for drafting among executives
   in our database. Weltman's draft picks average out to be worth the equivalent of
-  1 spot higher than they were picked due to his good drafting.
+  4 spots higher than they were picked due to his good drafting.
 draft_num_players: 13
-draft_rating: 1.2
-draft_rating_grade: C+
-draft_win_list: '<ul>
-
-  <li>Drafted Mookie Blaylock with 12th pick but was worth 2th pick.</li>
-
-  <li>Drafted Hot Rod Williams with 45th pick but was worth 9th pick.</li>
-
-  <li>Drafted Paul Thompson with 50th pick but was worth 22th pick.</li>
-
-  </ul>'
+draft_rating: 3.5
+draft_rating_grade: B
+draft_win_list: null
 end_year: 1990
-final_bpm: -11073
+final_bpm: -6268
 href: weltmha99x
 is_active: false
 name: Harry Weltman
-signing_description: 'Harry Weltman ranks in the 16th percentile for free agency signings
+signing_description: 'Harry Weltman ranks in the 27th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
   <li>Signed Mark West in 1984.</li>
 
-  <li>Signed Sam Lacey in 1982.</li>
-
   <li>Signed Purvis Short in 1989.</li>
 
+  <li>Signed Kevin Williams in 1988.</li>
+
   </ul>'
-signing_rating: -0.6
-signing_rating_grade: F
+signing_rating: -0.13
+signing_rating_grade: D
 signing_win_list: '<ul>
 
   <li>Signed Dudley Bradley in 1987.</li>
@@ -59,7 +42,7 @@ team:
 team_shortcode:
 - CLE
 - BRK
-trade_description: 'Harry Weltman ranks in the 32th percentile for trading among executives
+trade_description: 'Harry Weltman ranks in the 18th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -68,8 +51,8 @@ trade_lose_list: '<ul>
   <li>Lost Žan Tabak, Richard Petruška to CLE.</li>
 
   </ul>'
-trade_rating: -0.07
-trade_rating_grade: D
+trade_rating: -0.23
+trade_rating_grade: F
 trade_win_list: '<ul>
 
   <li>Added World B. Free to CLE.</li>

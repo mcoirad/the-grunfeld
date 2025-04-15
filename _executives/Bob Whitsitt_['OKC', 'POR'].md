@@ -1,26 +1,19 @@
 ---
-badges: ''
-bpm_rank: 104
+bpm_rank: 103
 draft_bust_list: null
-draft_description: Bob Whitsitt ranks in the 98th percentile for drafting among executives
+draft_description: Bob Whitsitt ranks in the 96th percentile for drafting among executives
   in our database. Whitsitt's draft picks average out to be worth the equivalent of
-  16 spots higher than they were picked due to his good drafting.
+  12 spots higher than they were picked due to his good drafting.
 draft_num_players: 7
-draft_rating: 15.6
-draft_rating_grade: S
-draft_win_list: '<ul>
-
-  <li>Drafted Jermaine O''Neal with 17th pick but was worth 11th pick.</li>
-
-  <li>Drafted Zach Randolph with 19th pick but was worth 9th pick.</li>
-
-  </ul>'
+draft_rating: 12.4
+draft_rating_grade: A+
+draft_win_list: null
 end_year: 2003
 final_bpm: -40057
 href: whitsbo99x
 is_active: false
 name: Bob Whitsitt
-signing_description: 'Bob Whitsitt ranks in the 90th percentile for free agency signings
+signing_description: 'Bob Whitsitt ranks in the 89th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -31,7 +24,7 @@ signing_lose_list: '<ul>
   <li>Signed James Edwards in 1994.</li>
 
   </ul>'
-signing_rating: -0.17
+signing_rating: 0.13
 signing_rating_grade: A
 signing_win_list: '<ul>
 
@@ -49,7 +42,7 @@ team:
 team_shortcode:
 - OKC
 - POR
-trade_description: 'Bob Whitsitt ranks in the 91th percentile for trading among executives
+trade_description: 'Bob Whitsitt ranks in the 29th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -58,8 +51,8 @@ trade_lose_list: '<ul>
   <li>Lost Scottie Pippen, Jeff Sanders to CHI.</li>
 
   </ul>'
-trade_rating: 0.33
-trade_rating_grade: A
+trade_rating: -0.1
+trade_rating_grade: D
 trade_win_list: '<ul>
 
   <li>Added Mitchell Butler, Rasheed Wallace to POR.</li>

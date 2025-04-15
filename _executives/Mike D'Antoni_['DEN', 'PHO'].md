@@ -1,6 +1,5 @@
 ---
-badges: ''
-bpm_rank: 107
+bpm_rank: 106
 draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
   a draft grade.
@@ -51,7 +50,7 @@ trade_rating: null
 trade_rating_grade: null
 trade_win_list: '<ul>
 
-  <li></li>
+  <li>Didn''t receive any players or picks.</li>
 
   <li>Lost Sergio Rodríguez to POR.</li>
 

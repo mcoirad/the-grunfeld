@@ -1,25 +1,18 @@
 ---
-badges: ''
-bpm_rank: 77
+bpm_rank: 79
 draft_bust_list: null
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: '<ul>
-
-  <li>Drafted Dee Brown with 19th pick but was worth 4th pick.</li>
-
-  <li>Drafted Rick Fox with 24th pick but was worth 11th pick.</li>
-
-  </ul>'
+draft_win_list: null
 end_year: 1994
-final_bpm: -13986
+final_bpm: -14250
 href: gavitda99x
 is_active: false
 name: Dave Gavitt
-signing_description: Dave Gavitt ranks in the 50th percentile for free agency signings
+signing_description: Dave Gavitt ranks in the 47th percentile for free agency signings
   among executives in our database. That's basically average. It could be worse though
   lol.
 signing_lose_list: '<ul>
@@ -31,7 +24,7 @@ signing_lose_list: '<ul>
   <li>Signed Stojko Vranković in 1990.</li>
 
   </ul>'
-signing_rating: -0.45
+signing_rating: -0.06
 signing_rating_grade: C
 signing_win_list: '<ul>
 

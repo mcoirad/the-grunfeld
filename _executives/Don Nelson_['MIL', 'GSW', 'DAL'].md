@@ -1,36 +1,19 @@
 ---
-badges: ''
-bpm_rank: 17
-draft_bust_list: '<ul>
-
-  <li>Drafted Kent Benson with 1th pick but was worth 12th pick.</li>
-
-  <li>Drafted Tyrone Hill with 11th pick but was worth 49th pick.</li>
-
-  <li>Drafted Alton Lister with 21th pick but was worth 58th pick.</li>
-
-  </ul>'
-draft_description: Don Nelson ranks in the 47th percentile for drafting among executives
+bpm_rank: 16
+draft_bust_list: null
+draft_description: Don Nelson ranks in the 66th percentile for drafting among executives
   in our database. Nelson's draft picks average out to be worth the equivalent of
-  3 spots lower than they were picked due to their terrible drafting.
+  4 spots higher than they were picked due to his good drafting.
 draft_num_players: 30
-draft_rating: -2.7
-draft_rating_grade: C
-draft_win_list: '<ul>
-
-  <li>Drafted Tim Hardaway with 14th pick but was worth 1th pick.</li>
-
-  <li>Drafted Sidney Moncrief with 5th pick but was worth 2th pick.</li>
-
-  <li>Drafted Dwayne Morton with 45th pick but was worth 15th pick.</li>
-
-  </ul>'
+draft_rating: 3.5
+draft_rating_grade: B-
+draft_win_list: null
 end_year: 2005
-final_bpm: 160947
+final_bpm: 142877
 href: nelsodo01x
 is_active: false
 name: Don Nelson
-signing_description: 'Don Nelson ranks in the 31th percentile for free agency signings
+signing_description: 'Don Nelson ranks in the 37th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -41,8 +24,8 @@ signing_lose_list: '<ul>
   <li>Signed Tom Tolbert in 1989.</li>
 
   </ul>'
-signing_rating: -0.53
-signing_rating_grade: D
+signing_rating: -0.11
+signing_rating_grade: D+
 signing_win_list: '<ul>
 
   <li>Signed John Lucas in 1987.</li>
@@ -61,7 +44,7 @@ team_shortcode:
 - MIL
 - GSW
 - DAL
-trade_description: 'Don Nelson ranks in the 42th percentile for trading among executives
+trade_description: 'Don Nelson ranks in the 44th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 

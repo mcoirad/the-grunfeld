@@ -1,34 +1,19 @@
 ---
-badges: ''
-bpm_rank: 118
-draft_bust_list: '<ul>
-
-  <li>Drafted Evan Turner with 2th pick but was worth 50th pick.</li>
-
-  <li>Drafted Marreese Speights with 16th pick but was worth 48th pick.</li>
-
-  <li>Drafted Antoine Wright with 15th pick but was worth 50th pick.</li>
-
-  </ul>'
+bpm_rank: 119
+draft_bust_list: null
 draft_description: Ed Stefanski ranks in the 15th percentile for drafting among executives
   in our database. Stefanski's draft picks average out to be worth the equivalent
   of 11 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 11
-draft_rating: -10.5
+draft_rating: -10.6
 draft_rating_grade: F
-draft_win_list: '<ul>
-
-  <li>Drafted Jrue Holiday with 17th pick but was worth 4th pick.</li>
-
-  <li>Drafted Bruce Brown with 42th pick but was worth 41th pick.</li>
-
-  </ul>'
+draft_win_list: null
 end_year: 2020
 final_bpm: -57455
 href: stefaed99x
 is_active: false
 name: Ed Stefanski
-signing_description: 'Ed Stefanski ranks in the 39th percentile for free agency signings
+signing_description: 'Ed Stefanski ranks in the 17th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -39,8 +24,8 @@ signing_lose_list: '<ul>
   <li>Signed Royal Ivey in 2008.</li>
 
   </ul>'
-signing_rating: -0.5
-signing_rating_grade: D+
+signing_rating: -0.17
+signing_rating_grade: F
 signing_win_list: '<ul>
 
   <li>Signed Derrick Rose in 2019.</li>
@@ -59,7 +44,7 @@ team_shortcode:
 - BRK
 - PHI
 - DET
-trade_description: 'Ed Stefanski ranks in the 14th percentile for trading among executives
+trade_description: 'Ed Stefanski ranks in the 22th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -68,8 +53,8 @@ trade_lose_list: '<ul>
   <li>Lost Chris Taft, Stéphane Lasme to GSW.</li>
 
   </ul>'
-trade_rating: -0.23
-trade_rating_grade: F
+trade_rating: -0.14
+trade_rating_grade: D-
 trade_win_list: '<ul>
 
   <li>Added Vince Carter to BRK.</li>

@@ -1,39 +1,31 @@
 ---
-badges: mediocre,superteam,badluck
-bpm_rank: 59
-draft_bust_list: '<ul>
-
-  <li>Drafted Patrick Williams with 4th pick but was worth 48th pick.</li>
-
-  <li>Drafted Ayo Dosunmu with 38th pick but was worth 52th pick.</li>
-
-  </ul>'
-draft_description: This executive has only drafted 3 players and thus doesn't have
-  a draft grade.
-draft_num_players: 3
-draft_rating: null
-draft_rating_grade: null
-draft_win_list: '<ul>
-
-  </ul>'
-end_year: 2025
-final_bpm: 761
+bpm_rank: 107
+draft_bust_list: null
+draft_description: Artūras Karnišovas ranks in the 7th percentile for drafting among
+  executives in our database. Karnišovas's draft picks average out to be worth the
+  equivalent of 13 spots lower than they were picked due to their terrible drafting.
+draft_num_players: 5
+draft_rating: -12.6
+draft_rating_grade: F
+draft_win_list: null
+end_year: 2026
+final_bpm: -46871
 href: karniar99x
 is_active: true
 name: Artūras Karnišovas
-signing_description: 'Artūras Karnišovas ranks in the 87th percentile for free agency
+signing_description: 'Artūras Karnišovas ranks in the 70th percentile for free agency
   signings among executives in our database. '
 signing_lose_list: '<ul>
 
+  <li>Signed Patrick Williams in 2024.</li>
+
+  <li>Signed Julian Phillips in 2023.</li>
+
   <li>Signed Garrett Temple in 2020.</li>
 
-  <li>Signed Goran Dragic in 2022.</li>
-
-  <li>Signed Denzel Valentine in 2020.</li>
-
   </ul>'
-signing_rating: -0.18
-signing_rating_grade: A
+signing_rating: 0.0
+signing_rating_grade: B
 signing_win_list: '<ul>
 
   <li>Signed Zach LaVine in 2022.</li>
@@ -48,8 +40,8 @@ team:
 - Chicago Bulls
 team_shortcode:
 - CHI
-trade_description: This executive has only made 7 trades and thus doesn't have a trade
-  grade.
+trade_description: Artūras Karnišovas ranks in the 53th percentile for trading among
+  executives in our database. That's basically average. It could be worse though lol.
 trade_lose_list: '<ul>
 
   <li>Added Javonte Green, Daniel Theis, Troy Brown Jr. to CHI.</li>
@@ -59,8 +51,8 @@ trade_lose_list: '<ul>
   <li>Lost Luke Kornet to BOS.</li>
 
   </ul>'
-trade_rating: null
-trade_rating_grade: null
+trade_rating: 0.0
+trade_rating_grade: C+
 trade_win_list: '<ul>
 
   <li>Added DeMar DeRozan to CHI.</li>

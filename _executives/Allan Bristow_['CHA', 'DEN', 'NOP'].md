@@ -1,22 +1,20 @@
 ---
-badges: ''
-bpm_rank: 148
+bpm_rank: 149
 draft_bust_list: null
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
 draft_num_players: 1
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: '<ul>
-
-  </ul>'
+draft_win_list: null
 end_year: 2005
 final_bpm: -133781
 href: bristal01x
 is_active: false
 name: Allan Bristow
-signing_description: 'Allan Bristow ranks in the 99th percentile for free agency signings
-  among executives in our database. '
+signing_description: Allan Bristow ranks in the 53th percentile for free agency signings
+  among executives in our database. That's basically average. It could be worse though
+  lol.
 signing_lose_list: '<ul>
 
   <li>Signed Dean Garrett in 1997.</li>
@@ -24,8 +22,8 @@ signing_lose_list: '<ul>
   <li>Signed Kiwane Garris in 1997.</li>
 
   </ul>'
-signing_rating: 0.0
-signing_rating_grade: S
+signing_rating: -0.05
+signing_rating_grade: C+
 signing_win_list: '<ul>
 
   <li>Signed Jimmy King in 1997.</li>
@@ -42,7 +40,7 @@ team_shortcode:
 - CHA
 - DEN
 - NOP
-trade_description: 'Allan Bristow ranks in the 11th percentile for trading among executives
+trade_description: 'Allan Bristow ranks in the 3th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -51,7 +49,7 @@ trade_lose_list: '<ul>
   <li>Lost James Cotton, Rashard Lewis to SEA.</li>
 
   </ul>'
-trade_rating: -0.25
+trade_rating: -0.4
 trade_rating_grade: F
 trade_win_list: '<ul>
 

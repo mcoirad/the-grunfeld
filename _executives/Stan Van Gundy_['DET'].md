@@ -1,34 +1,19 @@
 ---
-badges: ''
 bpm_rank: 47
-draft_bust_list: '<ul>
-
-  <li>Drafted Stanley Johnson with 8th pick but was worth 44th pick.</li>
-
-  <li>Drafted Luke Kennard with 12th pick but was worth 26th pick.</li>
-
-  <li>Drafted Henry Ellenson with 18th pick but was worth 29th pick.</li>
-
-  </ul>'
-draft_description: Stan Van Gundy ranks in the 64th percentile for drafting among
+draft_bust_list: null
+draft_description: Stan Van Gundy ranks in the 38th percentile for drafting among
   executives in our database. Van's draft picks average out to be worth the equivalent
-  of 2 spots higher than they were picked due to his good drafting.
+  of 2 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 6
-draft_rating: 2.2
-draft_rating_grade: B-
-draft_win_list: '<ul>
-
-  <li>Drafted Spencer Dinwiddie with 38th pick but was worth 8th pick.</li>
-
-  <li>Drafted Darrun Hilliard with 38th pick but was worth 26th pick.</li>
-
-  </ul>'
+draft_rating: -2.3
+draft_rating_grade: D+
+draft_win_list: null
 end_year: 2018
 final_bpm: 16776
 href: vangust01x
 is_active: false
 name: Stan Van Gundy
-signing_description: 'Stan Van Gundy ranks in the 92th percentile for free agency
+signing_description: 'Stan Van Gundy ranks in the 96th percentile for free agency
   signings among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -39,8 +24,8 @@ signing_lose_list: '<ul>
   <li>Signed Ish Smith in 2016.</li>
 
   </ul>'
-signing_rating: -0.1
-signing_rating_grade: A
+signing_rating: 0.23
+signing_rating_grade: A+
 signing_win_list: '<ul>
 
   <li>Signed Andre Drummond in 2016.</li>
@@ -55,7 +40,7 @@ team:
 - Detroit Pistons
 team_shortcode:
 - DET
-trade_description: 'Stan Van Gundy ranks in the 77th percentile for trading among
+trade_description: 'Stan Van Gundy ranks in the 66th percentile for trading among
   executives in our database. '
 trade_lose_list: '<ul>
 
@@ -64,8 +49,8 @@ trade_lose_list: '<ul>
   <li>Lost Marcus Morris to BOS.</li>
 
   </ul>'
-trade_rating: 0.2
-trade_rating_grade: B+
+trade_rating: 0.07
+trade_rating_grade: B-
 trade_win_list: '<ul>
 
   <li>Added Reggie Jackson to DET.</li>

@@ -1,38 +1,20 @@
 ---
-badges: ''
-bpm_rank: 114
-draft_bust_list: '<ul>
-
-  <li>Drafted Tyler Hansbrough with 13th pick but was worth 44th pick.</li>
-
-  <li>Drafted Solomon Hill with 23th pick but was worth 47th pick.</li>
-
-  <li>Drafted Shawne Williams with 17th pick but was worth 43th pick.</li>
-
-  </ul>'
-draft_description: Larry Bird ranks in the 43th percentile for drafting among executives
-  in our database. Bird's draft picks average out to be worth the equivalent of 3
-  spots lower than they were picked due to their terrible drafting.
+bpm_rank: 113
+draft_bust_list: null
+draft_description: Larry Bird ranks in the 73th percentile for drafting among executives
+  in our database. Bird's draft picks average out to be worth the equivalent of 4
+  spots higher than they were picked due to his good drafting.
 draft_num_players: 12
-draft_rating: -3.2
-draft_rating_grade: C-
-draft_win_list: '<ul>
-
-  <li>Drafted Paul George with 10th pick but was worth 1th pick.</li>
-
-  <li>Drafted Danny Granger with 17th pick but was worth 4th pick.</li>
-
-  <li>Drafted Joe Young with 43th pick but was worth 28th pick.</li>
-
-  </ul>'
+draft_rating: 4.3
+draft_rating_grade: B+
+draft_win_list: null
 end_year: 2017
-final_bpm: -53172
+final_bpm: -50452
 href: birdla01x
 is_active: false
 name: Larry Bird
-signing_description: Larry Bird ranks in the 49th percentile for free agency signings
-  among executives in our database. That's basically average. It could be worse though
-  lol.
+signing_description: 'Larry Bird ranks in the 75th percentile for free agency signings
+  among executives in our database. '
 signing_lose_list: '<ul>
 
   <li>Signed Dahntay Jones in 2009.</li>
@@ -42,8 +24,8 @@ signing_lose_list: '<ul>
   <li>Signed Earl Watson in 2009.</li>
 
   </ul>'
-signing_rating: -0.45
-signing_rating_grade: C
+signing_rating: 0.03
+signing_rating_grade: B+
 signing_win_list: '<ul>
 
   <li>Signed David West in 2011.</li>
@@ -58,7 +40,7 @@ team:
 - Indiana Pacers
 team_shortcode:
 - IND
-trade_description: 'Larry Bird ranks in the 23th percentile for trading among executives
+trade_description: 'Larry Bird ranks in the 80th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -67,8 +49,8 @@ trade_lose_list: '<ul>
   <li>Lost Dāvis Bertāns, Kawhi Leonard, Erazem Lorbek to SAS.</li>
 
   </ul>'
-trade_rating: -0.14
-trade_rating_grade: D-
+trade_rating: 0.17
+trade_rating_grade: A-
 trade_win_list: '<ul>
 
   <li>Added Ike Diogu, Mike Dunleavy, Keith McLeod, Troy Murphy to IND.</li>

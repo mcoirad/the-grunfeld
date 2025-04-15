@@ -1,28 +1,19 @@
 ---
-badges: ''
-bpm_rank: 141
-draft_bust_list: '<ul>
-
-  <li>Drafted Austin Rivers with 10th pick but was worth 56th pick.</li>
-
-  <li>Drafted Buddy Hield with 6th pick but was worth 7th pick.</li>
-
-  </ul>'
-draft_description: Dell Demps ranks in the 11th percentile for drafting among executives
-  in our database. Demps's draft picks average out to be worth the equivalent of 12
+bpm_rank: 145
+draft_bust_list: null
+draft_description: Dell Demps ranks in the 14th percentile for drafting among executives
+  in our database. Demps's draft picks average out to be worth the equivalent of 11
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 4
-draft_rating: -11.8
+draft_rating: -10.8
 draft_rating_grade: F
-draft_win_list: '<ul>
-
-  </ul>'
+draft_win_list: null
 end_year: 2019
-final_bpm: -120292
+final_bpm: -126236
 href: dempsde01x
 is_active: false
 name: Dell Demps
-signing_description: 'Dell Demps ranks in the 57th percentile for free agency signings
+signing_description: 'Dell Demps ranks in the 30th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -33,8 +24,8 @@ signing_lose_list: '<ul>
   <li>Signed Frank Jackson in 2017.</li>
 
   </ul>'
-signing_rating: -0.4
-signing_rating_grade: C+
+signing_rating: -0.13
+signing_rating_grade: D
 signing_win_list: '<ul>
 
   <li>Signed Jrue Holiday in 2017.</li>
@@ -49,7 +40,7 @@ team:
 - New Orleans Pelicans
 team_shortcode:
 - NOP
-trade_description: 'Dell Demps ranks in the 69th percentile for trading among executives
+trade_description: 'Dell Demps ranks in the 35th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -58,8 +49,8 @@ trade_lose_list: '<ul>
   <li>Lost Chris Paul, Artūras Gudaitis to LAC.</li>
 
   </ul>'
-trade_rating: 0.13
-trade_rating_grade: B
+trade_rating: -0.07
+trade_rating_grade: D+
 trade_win_list: '<ul>
 
   <li>Added Frank Jackson to NOP.</li>

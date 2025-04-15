@@ -1,34 +1,19 @@
 ---
-badges: ''
-bpm_rank: 11
-draft_bust_list: '<ul>
-
-  <li>Drafted Kenny Thomas with 22th pick but was worth 46th pick.</li>
-
-  <li>Drafted Bryce Drew with 16th pick but was worth 45th pick.</li>
-
-  <li>Drafted Michael Dickerson with 14th pick but was worth 36th pick.</li>
-
-  </ul>'
-draft_description: Carroll Dawson ranks in the 51th percentile for drafting among
+bpm_rank: 13
+draft_bust_list: null
+draft_description: Carroll Dawson ranks in the 55th percentile for drafting among
   executives in our database. Dawson's draft picks average out to be worth the equivalent
-  of 2 spots lower than they were picked due to their terrible drafting.
+  of 2 spots higher than they were picked due to his good drafting.
 draft_num_players: 10
-draft_rating: -1.9
-draft_rating_grade: C
-draft_win_list: '<ul>
-
-  <li>Drafted Cuttino Mobley with 41th pick but was worth 27th pick.</li>
-
-  <li>Drafted Luther Head with 24th pick but was worth 12th pick.</li>
-
-  </ul>'
+draft_rating: 2.2
+draft_rating_grade: C+
+draft_win_list: null
 end_year: 2007
 final_bpm: 179951
 href: dawsoca99x
 is_active: false
 name: Carroll Dawson
-signing_description: 'Carroll Dawson ranks in the 39th percentile for free agency
+signing_description: 'Carroll Dawson ranks in the 60th percentile for free agency
   signings among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -39,8 +24,8 @@ signing_lose_list: '<ul>
   <li>Signed Matt Maloney in 1996.</li>
 
   </ul>'
-signing_rating: -0.5
-signing_rating_grade: D+
+signing_rating: -0.02
+signing_rating_grade: B-
 signing_win_list: '<ul>
 
   <li>Signed Chuck Hayes in 2006.</li>
@@ -55,7 +40,7 @@ team:
 - Houston Rockets
 team_shortcode:
 - HOU
-trade_description: 'Carroll Dawson ranks in the 95th percentile for trading among
+trade_description: 'Carroll Dawson ranks in the 91th percentile for trading among
   executives in our database. '
 trade_lose_list: '<ul>
 
@@ -65,8 +50,8 @@ trade_lose_list: '<ul>
   <li>Lost Scottie Pippen to POR.</li>
 
   </ul>'
-trade_rating: 0.4
-trade_rating_grade: A+
+trade_rating: 0.31
+trade_rating_grade: A
 trade_win_list: '<ul>
 
   <li>Added Don MacLean, Jason Collins, Steve Francis, Tony Massenburg to HOU.</li>

@@ -1,34 +1,19 @@
 ---
-badges: ''
 bpm_rank: 154
-draft_bust_list: '<ul>
-
-  <li>Drafted Samuel Dalembert with 26th pick but was worth 42th pick.</li>
-
-  <li>Drafted Larry Hughes with 8th pick but was worth 23th pick.</li>
-
-  </ul>'
-draft_description: Billy King ranks in the 96th percentile for drafting among executives
-  in our database. King's draft picks average out to be worth the equivalent of 13
+draft_bust_list: null
+draft_description: Billy King ranks in the 93th percentile for drafting among executives
+  in our database. King's draft picks average out to be worth the equivalent of 11
   spots higher than they were picked due to his good drafting.
 draft_num_players: 13
-draft_rating: 12.8
+draft_rating: 11.4
 draft_rating_grade: A+
-draft_win_list: '<ul>
-
-  <li>Drafted Andre Iguodala with 9th pick but was worth 1th pick.</li>
-
-  <li>Drafted Lou Williams with 45th pick but was worth 3th pick.</li>
-
-  <li>Drafted Mason Plumlee with 22th pick but was worth 5th pick.</li>
-
-  </ul>'
+draft_win_list: null
 end_year: 2016
-final_bpm: -201317
+final_bpm: -207084
 href: kingbi99x
 is_active: false
 name: Billy King
-signing_description: 'Billy King ranks in the 30th percentile for free agency signings
+signing_description: 'Billy King ranks in the 42th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -39,8 +24,8 @@ signing_lose_list: '<ul>
   <li>Signed Stephen Graham in 2010.</li>
 
   </ul>'
-signing_rating: -0.53
-signing_rating_grade: D
+signing_rating: -0.08
+signing_rating_grade: C-
 signing_win_list: '<ul>
 
   <li>Signed Brook Lopez in 2015.</li>
@@ -57,8 +42,8 @@ team:
 team_shortcode:
 - PHI
 - BRK
-trade_description: 'Billy King ranks in the 26th percentile for trading among executives
-  in our database. '
+trade_description: Billy King ranks in the 53th percentile for trading among executives
+  in our database. That's basically average. It could be worse though lol.
 trade_lose_list: '<ul>
 
   <li>Added Gerald Wallace to BRK.</li>
@@ -66,8 +51,8 @@ trade_lose_list: '<ul>
   <li>Lost Mehmet Okur, Shawne Williams, Damian Lillard to POR.</li>
 
   </ul>'
-trade_rating: -0.1
-trade_rating_grade: D-
+trade_rating: 0.0
+trade_rating_grade: C+
 trade_win_list: '<ul>
 
   <li>Added Roshown McLeod, Dikembe Mutombo to PHI.</li>

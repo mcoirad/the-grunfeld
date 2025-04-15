@@ -1,32 +1,19 @@
 ---
-badges: ''
-bpm_rank: 144
-draft_bust_list: '<ul>
-
-  <li>Drafted Tim Hardaway Jr. with 24th pick but was worth 45th pick.</li>
-
-  <li>Drafted Michael Bradley with 17th pick but was worth 38th pick.</li>
-
-  <li>Drafted Morris Peterson with 21th pick but was worth 27th pick.</li>
-
-  </ul>'
-draft_description: Glen Grunwald ranks in the 13th percentile for drafting among executives
+bpm_rank: 148
+draft_bust_list: null
+draft_description: Glen Grunwald ranks in the 32th percentile for drafting among executives
   in our database. Grunwald's draft picks average out to be worth the equivalent of
-  11 spots lower than they were picked due to their terrible drafting.
+  4 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
-draft_rating: -11.2
-draft_rating_grade: F
-draft_win_list: '<ul>
-
-  <li>Drafted Chris Bosh with 4th pick but was worth 3th pick.</li>
-
-  </ul>'
+draft_rating: -4.4
+draft_rating_grade: D
+draft_win_list: null
 end_year: 2013
-final_bpm: -127533
+final_bpm: -131828
 href: grunwgl99x
 is_active: false
 name: Glen Grunwald
-signing_description: 'Glen Grunwald ranks in the 29th percentile for free agency signings
+signing_description: 'Glen Grunwald ranks in the 62th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -37,8 +24,8 @@ signing_lose_list: '<ul>
   <li>Signed Jelani McCoy in 2002.</li>
 
   </ul>'
-signing_rating: -0.54
-signing_rating_grade: D
+signing_rating: -0.01
+signing_rating_grade: B-
 signing_win_list: '<ul>
 
   <li>Signed Jason Kidd in 2012.</li>
@@ -57,7 +44,7 @@ team_shortcode:
 - DEN
 - TOR
 - NYK
-trade_description: 'Glen Grunwald ranks in the 41th percentile for trading among executives
+trade_description: 'Glen Grunwald ranks in the 22th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -66,8 +53,8 @@ trade_lose_list: '<ul>
   <li>Lost Tracy McGrady to ORL.</li>
 
   </ul>'
-trade_rating: -0.03
-trade_rating_grade: C-
+trade_rating: -0.16
+trade_rating_grade: D-
 trade_win_list: '<ul>
 
   <li>Added Vince Carter to TOR.</li>

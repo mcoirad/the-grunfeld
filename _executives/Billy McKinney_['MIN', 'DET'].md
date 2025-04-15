@@ -1,36 +1,19 @@
 ---
-badges: ''
 bpm_rank: 131
-draft_bust_list: '<ul>
-
-  <li>Drafted Felton Spencer with 6th pick but was worth 51th pick.</li>
-
-  <li>Drafted Doug West with 38th pick but was worth 48th pick.</li>
-
-  <li>Drafted Lindsey Hunter with 10th pick but was worth 32th pick.</li>
-
-  </ul>'
-draft_description: Billy McKinney ranks in the 27th percentile for drafting among
+draft_bust_list: null
+draft_description: Billy McKinney ranks in the 30th percentile for drafting among
   executives in our database. McKinney's draft picks average out to be worth the equivalent
-  of 7 spots lower than they were picked due to their terrible drafting.
+  of 5 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 8
-draft_rating: -7.2
+draft_rating: -4.8
 draft_rating_grade: D
-draft_win_list: '<ul>
-
-  <li>Drafted Gary Leonard with 34th pick but was worth 17th pick.</li>
-
-  <li>Drafted Allan Houston with 11th pick but was worth 8th pick.</li>
-
-  <li>Drafted Grant Hill with 3th pick but was worth 2th pick.</li>
-
-  </ul>'
+draft_win_list: null
 end_year: 1995
 final_bpm: -87831
 href: mckinbi01x
 is_active: false
 name: Billy McKinney
-signing_description: 'Billy McKinney ranks in the 12th percentile for free agency
+signing_description: 'Billy McKinney ranks in the 24th percentile for free agency
   signings among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -41,8 +24,8 @@ signing_lose_list: '<ul>
   <li>Signed Tod Murphy in 1989.</li>
 
   </ul>'
-signing_rating: -0.63
-signing_rating_grade: F
+signing_rating: -0.14
+signing_rating_grade: D-
 signing_win_list: '<ul>
 
   <li>Signed Tracy Moore in 1993.</li>
@@ -70,7 +53,7 @@ trade_rating: -0.38
 trade_rating_grade: F
 trade_win_list: '<ul>
 
-  <li>Added Pete Chilcutt, Cal Bowdler to DET.</li>
+  <li>Added Pete Chilcutt, Jevon Crudup, Cal Bowdler to DET.</li>
 
   <li>Lost Olden Polynice to SAC.</li>
 

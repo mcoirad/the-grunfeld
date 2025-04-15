@@ -1,6 +1,5 @@
 ---
-badges: ''
-bpm_rank: 105
+bpm_rank: 101
 draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
   a draft grade.
@@ -9,7 +8,7 @@ draft_rating: null
 draft_rating_grade: null
 draft_win_list: null
 end_year: 1992
-final_bpm: -40984
+final_bpm: -37540
 href: shuege01x
 is_active: false
 name: Gene Shue
@@ -24,7 +23,7 @@ signing_lose_list: '<ul>
   <li>Signed Rickey Green in 1990.</li>
 
   </ul>'
-signing_rating: -1.0
+signing_rating: -0.55
 signing_rating_grade: F-
 signing_win_list: null
 start_year: 1990
@@ -45,7 +44,7 @@ trade_rating: null
 trade_rating_grade: null
 trade_win_list: '<ul>
 
-  <li></li>
+  <li>Added Alvaro Teheran to PHI.</li>
 
   <li>Lost Bob Thornton to MIN.</li>
 

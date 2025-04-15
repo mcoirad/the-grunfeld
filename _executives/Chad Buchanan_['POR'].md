@@ -1,15 +1,12 @@
 ---
-badges: ''
-bpm_rank: 21
+bpm_rank: 22
 draft_bust_list: null
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
 draft_num_players: 1
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: '<ul>
-
-  </ul>'
+draft_win_list: null
 end_year: 2012
 final_bpm: 109677
 href: buchach99x

@@ -1,23 +1,19 @@
 ---
-badges: ''
-bpm_rank: 18
+bpm_rank: 15
 draft_bust_list: null
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
 draft_num_players: 1
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: '<ul>
-
-  </ul>'
+draft_win_list: null
 end_year: 1996
 final_bpm: 144313
 href: wohlda01x
 is_active: false
 name: Dave Wohl
-signing_description: Dave Wohl ranks in the 47th percentile for free agency signings
-  among executives in our database. That's basically average. It could be worse though
-  lol.
+signing_description: 'Dave Wohl ranks in the 93th percentile for free agency signings
+  among executives in our database. '
 signing_lose_list: '<ul>
 
   <li>Signed Bruce Bowen in 1995.</li>
@@ -27,8 +23,8 @@ signing_lose_list: '<ul>
   <li>Signed Danny Schayes in 1995.</li>
 
   </ul>'
-signing_rating: -0.47
-signing_rating_grade: C
+signing_rating: 0.18
+signing_rating_grade: A+
 signing_win_list: '<ul>
 
   <li>Signed Dan Majerle in 1996.</li>

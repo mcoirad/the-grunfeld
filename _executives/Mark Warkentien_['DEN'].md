@@ -1,6 +1,5 @@
 ---
-badges: ''
-bpm_rank: 37
+bpm_rank: 40
 draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
   a draft grade.
@@ -13,7 +12,7 @@ final_bpm: 39581
 href: warkema99x
 is_active: false
 name: Mark Warkentien
-signing_description: 'Mark Warkentien ranks in the 44th percentile for free agency
+signing_description: 'Mark Warkentien ranks in the 20th percentile for free agency
   signings among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -24,8 +23,8 @@ signing_lose_list: '<ul>
   <li>Signed Al Harrington in 2010.</li>
 
   </ul>'
-signing_rating: -0.47
-signing_rating_grade: C-
+signing_rating: -0.16
+signing_rating_grade: D-
 signing_win_list: '<ul>
 
   <li>Signed Chris Andersen in 2008.</li>
@@ -38,7 +37,7 @@ team:
 - Denver Nuggets
 team_shortcode:
 - DEN
-trade_description: 'Mark Warkentien ranks in the 90th percentile for trading among
+trade_description: 'Mark Warkentien ranks in the 75th percentile for trading among
   executives in our database. '
 trade_lose_list: '<ul>
 
@@ -47,8 +46,8 @@ trade_lose_list: '<ul>
   <li>Lost Marcus Camby, Willie Warren to LAC.</li>
 
   </ul>'
-trade_rating: 0.29
-trade_rating_grade: A
+trade_rating: 0.12
+trade_rating_grade: B+
 trade_win_list: '<ul>
 
   <li>Added Ty Lawson to DEN.</li>

@@ -1,21 +1,18 @@
 ---
-badges: ''
-bpm_rank: 32
+bpm_rank: 35
 draft_bust_list: null
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
 draft_num_players: 1
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: '<ul>
-
-  </ul>'
+draft_win_list: null
 end_year: 2005
 final_bpm: 50913
 href: weisbjo99x
 is_active: false
 name: John Weisbrod
-signing_description: 'John Weisbrod ranks in the 39th percentile for free agency signings
+signing_description: 'John Weisbrod ranks in the 30th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -26,8 +23,8 @@ signing_lose_list: '<ul>
   <li>Signed Andre Barrett in 2005.</li>
 
   </ul>'
-signing_rating: -0.5
-signing_rating_grade: D+
+signing_rating: -0.12
+signing_rating_grade: D
 signing_win_list: '<ul>
 
   <li>Signed Hedo Türkoğlu in 2004.</li>

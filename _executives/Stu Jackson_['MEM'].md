@@ -1,5 +1,4 @@
 ---
-badges: ''
 bpm_rank: 115
 draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
@@ -13,7 +12,7 @@ final_bpm: -54728
 href: jacksst99x
 is_active: false
 name: Stu Jackson
-signing_description: 'Stu Jackson ranks in the 96th percentile for free agency signings
+signing_description: 'Stu Jackson ranks in the 57th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -21,14 +20,14 @@ signing_lose_list: '<ul>
 
   </ul>'
 signing_rating: -0.03
-signing_rating_grade: A+
+signing_rating_grade: C+
 signing_win_list: null
 start_year: 1994
 team:
 - Memphis Grizzlies
 team_shortcode:
 - MEM
-trade_description: 'Stu Jackson ranks in the 90th percentile for trading among executives
+trade_description: 'Stu Jackson ranks in the 66th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -40,13 +39,14 @@ trade_lose_list: '<ul>
   <li>Lost Steve Francis, Tony Massenburg to HOU.</li>
 
   </ul>'
-trade_rating: 0.29
-trade_rating_grade: A
+trade_rating: 0.07
+trade_rating_grade: B-
 trade_win_list: '<ul>
 
-  <li>Added Tim Breaux, Pete Chilcutt, Roy Rogers, Chris Robinson to MEM.</li>
+  <li>Added Tim Breaux, Pete Chilcutt, Roy Rogers, Chris Robinson, C.J. Bruton to
+  MEM.</li>
 
-  <li>Lost Othella Harrington, Randy Livingston to HOU.</li>
+  <li>Lost Othella Harrington, Randy Livingston, Serge Zwikker to HOU.</li>
 
   </ul>'
 ---

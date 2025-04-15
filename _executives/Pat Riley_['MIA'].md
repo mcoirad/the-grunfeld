@@ -1,44 +1,31 @@
 ---
-badges: godfather,superteam,destination,champion
 bpm_rank: 10
-draft_bust_list: '<ul>
-
-  <li>Drafted Justise Winslow with 10th pick but was worth 40th pick.</li>
-
-  <li>Drafted Precious Achiuwa with 20th pick but was worth 50th pick.</li>
-
-  <li>Drafted Tyler Herro with 13th pick but was worth 20th pick.</li>
-
-  </ul>'
-draft_description: Pat Riley ranks in the 48th percentile for drafting among executives
-  in our database. Riley's draft picks average out to be worth the equivalent of 2
-  spots lower than they were picked due to their terrible drafting.
-draft_num_players: 8
-draft_rating: -2.4
-draft_rating_grade: C
-draft_win_list: '<ul>
-
-  <li>Drafted Bam Adebayo with 14th pick but was worth 3th pick.</li>
-
-  </ul>'
-end_year: 2025
-final_bpm: 190347
+draft_bust_list: null
+draft_description: Pat Riley ranks in the 68th percentile for drafting among executives
+  in our database. Riley's draft picks average out to be worth the equivalent of 4
+  spots higher than they were picked due to his good drafting.
+draft_num_players: 11
+draft_rating: 3.8
+draft_rating_grade: B
+draft_win_list: null
+end_year: 2026
+final_bpm: 193061
 href: rileypa01x
 is_active: true
 name: Pat Riley
-signing_description: 'Pat Riley ranks in the 78th percentile for free agency signings
+signing_description: 'Pat Riley ranks in the 83th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
+
+  <li>Signed Duncan Robinson in 2021.</li>
 
   <li>Signed Gabe Vincent in 2021.</li>
 
   <li>Signed Rodney McGruder in 2016.</li>
 
-  <li>Signed Kendrick Nunn in 2019.</li>
-
   </ul>'
-signing_rating: -0.3
-signing_rating_grade: B+
+signing_rating: 0.08
+signing_rating_grade: A-
 signing_win_list: '<ul>
 
   <li>Signed Dwyane Wade in 2010.</li>
@@ -53,7 +40,7 @@ team:
 - Miami Heat
 team_shortcode:
 - MIA
-trade_description: 'Pat Riley ranks in the 60th percentile for trading among executives
+trade_description: 'Pat Riley ranks in the 64th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -62,7 +49,7 @@ trade_lose_list: '<ul>
   <li>Lost Bojan Bogdanović to MIN.</li>
 
   </ul>'
-trade_rating: 0.09
+trade_rating: 0.06
 trade_rating_grade: B-
 trade_win_list: '<ul>
 

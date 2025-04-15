@@ -1,48 +1,31 @@
 ---
-badges: gambler,greatdrafter,champion,optimizer
-bpm_rank: 28
-draft_bust_list: '<ul>
-
-  <li>Drafted Evan Fournier with 20th pick but was worth 52th pick.</li>
-
-  <li>Drafted Malachi Flynn with 29th pick but was worth 43th pick.</li>
-
-  <li>Drafted Bruno Caboclo with 20th pick but was worth 27th pick.</li>
-
-  </ul>'
-draft_description: Masai Ujiri ranks in the 94th percentile for drafting among executives
-  in our database. Ujiri's draft picks average out to be worth the equivalent of 12
+bpm_rank: 30
+draft_bust_list: null
+draft_description: Masai Ujiri ranks in the 69th percentile for drafting among executives
+  in our database. Ujiri's draft picks average out to be worth the equivalent of 4
   spots higher than they were picked due to his good drafting.
-draft_num_players: 15
-draft_rating: 11.7
-draft_rating_grade: A+
-draft_win_list: '<ul>
-
-  <li>Drafted Pascal Siakam with 27th pick but was worth 3th pick.</li>
-
-  <li>Drafted Delon Wright with 20th pick but was worth 4th pick.</li>
-
-  <li>Drafted Jakob Pöltl with 9th pick but was worth 6th pick.</li>
-
-  </ul>'
-end_year: 2025
-final_bpm: 73136
+draft_num_players: 20
+draft_rating: 4.0
+draft_rating_grade: B
+draft_win_list: null
+end_year: 2026
+final_bpm: 73066
 href: ujirima99x
 is_active: true
 name: Masai Ujiri
-signing_description: 'Masai Ujiri ranks in the 87th percentile for free agency signings
+signing_description: 'Masai Ujiri ranks in the 83th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
+  <li>Signed Jamal Shead in 2024.</li>
+
   <li>Signed Cory Joseph in 2015.</li>
 
-  <li>Signed Aron Baynes in 2020.</li>
-
-  <li>Signed Tyler Hansbrough in 2013.</li>
+  <li>Signed Jalen McDaniels in 2023.</li>
 
   </ul>'
-signing_rating: -0.18
-signing_rating_grade: A
+signing_rating: 0.07
+signing_rating_grade: A-
 signing_win_list: '<ul>
 
   <li>Signed Pascal Siakam in 2019.</li>
@@ -59,7 +42,7 @@ team:
 team_shortcode:
 - DEN
 - TOR
-trade_description: 'Masai Ujiri ranks in the 87th percentile for trading among executives
+trade_description: 'Masai Ujiri ranks in the 70th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -72,13 +55,13 @@ trade_lose_list: '<ul>
   <li>Lost Richaun Holmes to MIN.</li>
 
   </ul>'
-trade_rating: 0.28
-trade_rating_grade: A
+trade_rating: 0.08
+trade_rating_grade: B
 trade_win_list: '<ul>
 
-  <li>Added Andre Iguodala to DEN.</li>
+  <li>Added Drew Eubanks, Thaddeus Young, Christian Koloko to TOR.</li>
 
-  <li>Lost Arron Afflalo, Al Harrington, Romero Osby, Dario Šarić to ORL.</li>
+  <li>Lost Goran Dragic, Malaki Branham to SAS.</li>
 
   </ul>'
 ---

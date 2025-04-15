@@ -1,36 +1,19 @@
 ---
-badges: ''
-bpm_rank: 27
-draft_bust_list: '<ul>
-
-  <li>Drafted Jabari Parker with 2th pick but was worth 37th pick.</li>
-
-  <li>Drafted Joe Alexander with 8th pick but was worth 22th pick.</li>
-
-  <li>Drafted Thon Maker with 10th pick but was worth 40th pick.</li>
-
-  </ul>'
-draft_description: John Hammond ranks in the 44th percentile for drafting among executives
+bpm_rank: 20
+draft_bust_list: null
+draft_description: John Hammond ranks in the 41th percentile for drafting among executives
   in our database. Hammond's draft picks average out to be worth the equivalent of
-  3 spots lower than they were picked due to their terrible drafting.
+  2 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 16
-draft_rating: -3.2
+draft_rating: -1.8
 draft_rating_grade: C-
-draft_win_list: '<ul>
-
-  <li>Drafted Giannis Antetokounmpo with 15th pick but was worth 1th pick.</li>
-
-  <li>Drafted Malcolm Brogdon with 36th pick but was worth 5th pick.</li>
-
-  <li>Drafted Jodie Meeks with 41th pick but was worth 34th pick.</li>
-
-  </ul>'
+draft_win_list: null
 end_year: 2017
-final_bpm: 76512
+final_bpm: 120607
 href: hammojo99x
 is_active: false
 name: John Hammond
-signing_description: 'John Hammond ranks in the 61th percentile for free agency signings
+signing_description: 'John Hammond ranks in the 72th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -41,8 +24,8 @@ signing_lose_list: '<ul>
   <li>Signed Mirza Teletović in 2016.</li>
 
   </ul>'
-signing_rating: -0.38
-signing_rating_grade: B-
+signing_rating: 0.02
+signing_rating_grade: B
 signing_win_list: '<ul>
 
   <li>Signed Giannis Antetokounmpo in 2016.</li>
@@ -57,7 +40,7 @@ team:
 - Milwaukee Bucks
 team_shortcode:
 - MIL
-trade_description: 'John Hammond ranks in the 56th percentile for trading among executives
+trade_description: 'John Hammond ranks in the 58th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -66,7 +49,7 @@ trade_lose_list: '<ul>
   <li>Lost Andrew Bogut, Stephen Jackson to GSW.</li>
 
   </ul>'
-trade_rating: 0.08
+trade_rating: 0.03
 trade_rating_grade: C+
 trade_win_list: '<ul>
 

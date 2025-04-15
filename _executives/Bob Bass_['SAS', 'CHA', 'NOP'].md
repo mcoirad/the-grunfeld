@@ -1,34 +1,19 @@
 ---
-badges: ''
-bpm_rank: 117
-draft_bust_list: '<ul>
-
-  <li>Drafted Sean Elliott with 3th pick but was worth 9th pick.</li>
-
-  <li>Drafted Greg Anderson with 23th pick but was worth 52th pick.</li>
-
-  <li>Drafted Tony Massenburg with 43th pick but was worth 52th pick.</li>
-
-  </ul>'
-draft_description: Bob Bass ranks in the 77th percentile for drafting among executives
-  in our database. Bass's draft picks average out to be worth the equivalent of 6
+bpm_rank: 129
+draft_bust_list: null
+draft_description: Bob Bass ranks in the 56th percentile for drafting among executives
+  in our database. Bass's draft picks average out to be worth the equivalent of 2
   spots higher than they were picked due to his good drafting.
 draft_num_players: 31
-draft_rating: 6.1
-draft_rating_grade: B+
-draft_win_list: '<ul>
-
-  <li>Drafted Alvin Robertson with 7th pick but was worth 5th pick.</li>
-
-  <li>Drafted Gene Banks with 28th pick but was worth 6th pick.</li>
-
-  </ul>'
+draft_rating: 2.3
+draft_rating_grade: C+
+draft_win_list: null
 end_year: 2004
-final_bpm: -57192
+final_bpm: -83952
 href: bassbo99x
 is_active: false
 name: Bob Bass
-signing_description: 'Bob Bass ranks in the 65th percentile for free agency signings
+signing_description: 'Bob Bass ranks in the 45th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -39,8 +24,8 @@ signing_lose_list: '<ul>
   <li>Signed Caldwell Jones in 1989.</li>
 
   </ul>'
-signing_rating: -0.35
-signing_rating_grade: B-
+signing_rating: -0.07
+signing_rating_grade: C-
 signing_win_list: '<ul>
 
   <li>Signed Johnny Moore in 1980.</li>
@@ -59,7 +44,7 @@ team_shortcode:
 - SAS
 - CHA
 - NOP
-trade_description: 'Bob Bass ranks in the 25th percentile for trading among executives
+trade_description: 'Bob Bass ranks in the 30th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -68,8 +53,8 @@ trade_lose_list: '<ul>
   <li>Lost Kobe Bryant to LAL.</li>
 
   </ul>'
-trade_rating: -0.11
-trade_rating_grade: D-
+trade_rating: -0.09
+trade_rating_grade: D
 trade_win_list: '<ul>
 
   <li>Added Walter Berry to SAS.</li>

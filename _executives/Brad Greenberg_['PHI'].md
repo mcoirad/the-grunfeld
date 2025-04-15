@@ -1,17 +1,12 @@
 ---
-badges: ''
-bpm_rank: 24
+bpm_rank: 27
 draft_bust_list: null
 draft_description: This executive has only drafted 2 players and thus doesn't have
   a draft grade.
 draft_num_players: 2
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: '<ul>
-
-  <li>Drafted Mark Hendrickson with 31th pick but was worth 29th pick.</li>
-
-  </ul>'
+draft_win_list: null
 end_year: 1997
 final_bpm: 90400
 href: greenbr99x
@@ -28,7 +23,7 @@ signing_lose_list: '<ul>
   <li>Signed Don MacLean in 1996.</li>
 
   </ul>'
-signing_rating: -0.75
+signing_rating: -0.33
 signing_rating_grade: F
 signing_win_list: null
 start_year: 1996
@@ -41,9 +36,5 @@ trade_description: This executive hasn't traded any players, and thus doesn't ha
 trade_lose_list: null
 trade_rating: null
 trade_rating_grade: null
-trade_win_list: '<ul>
-
-  <li></li>
-
-  </ul>'
+trade_win_list: null
 ---

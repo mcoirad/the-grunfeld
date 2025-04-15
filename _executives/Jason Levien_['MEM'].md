@@ -1,15 +1,12 @@
 ---
-badges: ''
-bpm_rank: 53
+bpm_rank: 52
 draft_bust_list: null
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
 draft_num_players: 1
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: '<ul>
-
-  </ul>'
+draft_win_list: null
 end_year: 2014
 final_bpm: 10651
 href: levieja99x
@@ -26,7 +23,7 @@ signing_lose_list: '<ul>
   <li>Signed Keyon Dooling in 2013.</li>
 
   </ul>'
-signing_rating: 0.11
+signing_rating: 0.56
 signing_rating_grade: S
 signing_win_list: '<ul>
 
@@ -42,7 +39,7 @@ team:
 - Memphis Grizzlies
 team_shortcode:
 - MEM
-trade_description: 'Jason Levien ranks in the 68th percentile for trading among executives
+trade_description: 'Jason Levien ranks in the 95th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -54,11 +51,11 @@ trade_lose_list: '<ul>
   <li>Lost José Calderón to DET.</li>
 
   </ul>'
-trade_rating: 0.12
-trade_rating_grade: B
+trade_rating: 0.38
+trade_rating_grade: A+
 trade_win_list: '<ul>
 
-  <li></li>
+  <li>Didn''t receive any players or picks.</li>
 
   <li>Lost Tony Wroten to PHI.</li>
 

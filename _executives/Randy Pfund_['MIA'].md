@@ -1,36 +1,20 @@
 ---
-badges: ''
 bpm_rank: 70
-draft_bust_list: '<ul>
-
-  <li>Drafted Michael Beasley with 2th pick but was worth 49th pick.</li>
-
-  <li>Drafted Caron Butler with 10th pick but was worth 25th pick.</li>
-
-  </ul>'
-draft_description: Randy Pfund ranks in the 81th percentile for drafting among executives
-  in our database. Pfund's draft picks average out to be worth the equivalent of 9
+draft_bust_list: null
+draft_description: Randy Pfund ranks in the 85th percentile for drafting among executives
+  in our database. Pfund's draft picks average out to be worth the equivalent of 8
   spots higher than they were picked due to his good drafting.
 draft_num_players: 13
-draft_rating: 8.6
+draft_rating: 7.9
 draft_rating_grade: A-
-draft_win_list: '<ul>
-
-  <li>Drafted Dwyane Wade with 5th pick but was worth 2th pick.</li>
-
-  <li>Drafted Ken Johnson with 49th pick but was worth 17th pick.</li>
-
-  <li>Drafted Eddie House with 37th pick but was worth 5th pick.</li>
-
-  </ul>'
+draft_win_list: null
 end_year: 2008
 final_bpm: -4425
 href: pfundra99x
 is_active: false
 name: Randy Pfund
-signing_description: Randy Pfund ranks in the 51th percentile for free agency signings
-  among executives in our database. That's basically average. It could be worse though
-  lol.
+signing_description: 'Randy Pfund ranks in the 39th percentile for free agency signings
+  among executives in our database. '
 signing_lose_list: '<ul>
 
   <li>Signed Udonis Haslem in 2003.</li>
@@ -40,8 +24,8 @@ signing_lose_list: '<ul>
   <li>Signed Malik Allen in 2001.</li>
 
   </ul>'
-signing_rating: -0.44
-signing_rating_grade: C
+signing_rating: -0.1
+signing_rating_grade: D+
 signing_win_list: '<ul>
 
   <li>Signed Dwyane Wade in 2006.</li>
@@ -56,7 +40,7 @@ team:
 - Miami Heat
 team_shortcode:
 - MIA
-trade_description: 'Randy Pfund ranks in the 20th percentile for trading among executives
+trade_description: 'Randy Pfund ranks in the 40th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -66,8 +50,8 @@ trade_lose_list: '<ul>
   to LAL.</li>
 
   </ul>'
-trade_rating: -0.18
-trade_rating_grade: D-
+trade_rating: -0.04
+trade_rating_grade: C-
 trade_win_list: '<ul>
 
   <li>Added Ricky Davis, Dale Ellis, Eddie Jones, Anthony Mason to MIA.</li>

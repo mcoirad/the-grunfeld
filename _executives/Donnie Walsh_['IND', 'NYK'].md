@@ -1,37 +1,21 @@
 ---
-badges: ''
-bpm_rank: 4
-draft_bust_list: '<ul>
-
-  <li>Drafted Chuck Person with 4th pick but was worth 61th pick.</li>
-
-  <li>Drafted Rik Smits with 2th pick but was worth 31th pick.</li>
-
-  <li>Drafted Erick Dampier with 10th pick but was worth 43th pick.</li>
-
-  </ul>'
-draft_description: Donnie Walsh ranks in the 27th percentile for drafting among executives
-  in our database. Walsh's draft picks average out to be worth the equivalent of 7
-  spots lower than they were picked due to their terrible drafting.
+bpm_rank: 3
+draft_bust_list: null
+draft_description: Donnie Walsh ranks in the 62th percentile for drafting among executives
+  in our database. Walsh's draft picks average out to be worth the equivalent of 3
+  spots higher than they were picked due to his good drafting.
 draft_num_players: 28
-draft_rating: -7.2
-draft_rating_grade: D
-draft_win_list: '<ul>
-
-  <li>Drafted Reggie Miller with 11th pick but was worth 3th pick.</li>
-
-  <li>Drafted Sean Green with 41th pick but was worth 24th pick.</li>
-
-  <li>Drafted Dale Davis with 13th pick but was worth 8th pick.</li>
-
-  </ul>'
+draft_rating: 2.8
+draft_rating_grade: B-
+draft_win_list: null
 end_year: 2011
-final_bpm: 315711
+final_bpm: 307200
 href: walshdo99x
 is_active: false
 name: Donnie Walsh
-signing_description: 'Donnie Walsh ranks in the 24th percentile for free agency signings
-  among executives in our database. '
+signing_description: Donnie Walsh ranks in the 48th percentile for free agency signings
+  among executives in our database. That's basically average. It could be worse though
+  lol.
 signing_lose_list: '<ul>
 
   <li>Signed Mike Sanders in 1989.</li>
@@ -41,8 +25,8 @@ signing_lose_list: '<ul>
   <li>Signed Žan Tabak in 1999.</li>
 
   </ul>'
-signing_rating: -0.56
-signing_rating_grade: D-
+signing_rating: -0.06
+signing_rating_grade: C
 signing_win_list: '<ul>
 
   <li>Signed Micheal Williams in 1990.</li>
@@ -59,7 +43,7 @@ team:
 team_shortcode:
 - IND
 - NYK
-trade_description: 'Donnie Walsh ranks in the 77th percentile for trading among executives
+trade_description: 'Donnie Walsh ranks in the 94th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -68,8 +52,8 @@ trade_lose_list: '<ul>
   <li>Lost Detlef Schrempf to SEA.</li>
 
   </ul>'
-trade_rating: 0.2
-trade_rating_grade: B+
+trade_rating: 0.37
+trade_rating_grade: A+
 trade_win_list: '<ul>
 
   <li>Added Detlef Schrempf, Antonio Davis to IND.</li>

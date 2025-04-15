@@ -1,5 +1,4 @@
 ---
-badges: ''
 bpm_rank: 71
 draft_bust_list: null
 draft_description: This executive has only drafted 1 player and thus doesn't have
@@ -7,15 +6,13 @@ draft_description: This executive has only drafted 1 player and thus doesn't hav
 draft_num_players: 1
 draft_rating: null
 draft_rating_grade: null
-draft_win_list: '<ul>
-
-  </ul>'
+draft_win_list: null
 end_year: 2020
-final_bpm: -5182
+final_bpm: -4723
 href: brandel99x
 is_active: false
 name: Elton Brand
-signing_description: 'Elton Brand ranks in the 93th percentile for free agency signings
+signing_description: 'Elton Brand ranks in the 95th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -26,13 +23,13 @@ signing_lose_list: '<ul>
   <li>Signed Norvel Pelle in 2019.</li>
 
   </ul>'
-signing_rating: -0.08
+signing_rating: 0.2
 signing_rating_grade: A+
 signing_win_list: '<ul>
 
-  <li>Signed Ben Simmons in 2019.</li>
-
   <li>Signed Tobias Harris in 2019.</li>
+
+  <li>Signed Ben Simmons in 2019.</li>
 
   <li>Signed Matisse Thybulle in 2019.</li>
 
@@ -53,13 +50,13 @@ trade_lose_list: '<ul>
   <li>Lost Mathias Lessort to LAC.</li>
 
   </ul>'
-trade_rating: 0.58
+trade_rating: 0.67
 trade_rating_grade: S
 trade_win_list: '<ul>
 
-  <li>Added Jimmy Butler, Justin Patton to PHI.</li>
+  <li>Added Jonathon Simmons, Carsen Edwards, Tyrese Maxey to PHI.</li>
 
-  <li>Lost Jerryd Bayless, Robert Covington, Dario Šarić, Matteo Spagnolo to MIN.</li>
+  <li>Lost Markelle Fultz to ORL.</li>
 
   </ul>'
 ---

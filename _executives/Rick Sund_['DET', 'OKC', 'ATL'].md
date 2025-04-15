@@ -1,32 +1,19 @@
 ---
-badges: ''
-bpm_rank: 83
-draft_bust_list: '<ul>
-
-  <li>Drafted Johan Petro with 25th pick but was worth 55th pick.</li>
-
-  <li>Drafted Nick Collison with 12th pick but was worth 39th pick.</li>
-
-  <li>Drafted Earl Watson with 40th pick but was worth 45th pick.</li>
-
-  </ul>'
-draft_description: Rick Sund ranks in the 50th percentile for drafting among executives
+bpm_rank: 86
+draft_bust_list: null
+draft_description: Rick Sund ranks in the 39th percentile for drafting among executives
   in our database. Sund's draft picks average out to be worth the equivalent of 2
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 8
-draft_rating: -2.2
-draft_rating_grade: C
-draft_win_list: '<ul>
-
-  <li>Drafted Jeff Teague with 19th pick but was worth 11th pick.</li>
-
-  </ul>'
+draft_rating: -1.9
+draft_rating_grade: D+
+draft_win_list: null
 end_year: 2012
 final_bpm: -20758
 href: sundri99x
 is_active: false
 name: Rick Sund
-signing_description: 'Rick Sund ranks in the 56th percentile for free agency signings
+signing_description: 'Rick Sund ranks in the 62th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -37,8 +24,8 @@ signing_lose_list: '<ul>
   <li>Signed Jason Collins in 2009.</li>
 
   </ul>'
-signing_rating: -0.4
-signing_rating_grade: C+
+signing_rating: -0.01
+signing_rating_grade: B-
 signing_win_list: '<ul>
 
   <li>Signed Jud Buechler in 1999.</li>
@@ -57,17 +44,17 @@ team_shortcode:
 - DET
 - OKC
 - ATL
-trade_description: 'Rick Sund ranks in the 98th percentile for trading among executives
+trade_description: 'Rick Sund ranks in the 86th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
-  <li>Added Jumaine Jones to DET.</li>
+  <li>Added Jumaine Jones, Scoonie Penn to DET.</li>
 
   <li>Lost Bonzi Wells to POR.</li>
 
   </ul>'
-trade_rating: 0.57
-trade_rating_grade: S
+trade_rating: 0.24
+trade_rating_grade: A-
 trade_win_list: '<ul>
 
   <li>Added Paccelis Morlende to OKC.</li>
