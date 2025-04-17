@@ -171,7 +171,8 @@ layout: default
     <div class="col-md-3">
       <h3> Draft Rating:</h3>
       <p style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);"> {{ executive.draft_rating_grade_vorp}}</h3>
-      <h5> Total Draft Value: {{ executive.draft_rating_vorp }} </h5>
+      <h5> Draft Pick Efficiency Rating: {{ executive.draft_rating_percentile_vorp | round: 2 }} </h5>
+      <h5> Draft Total Value Rating: {{ executive.draft_total_percentile_vorp | round: 2 }} </h5>
     </div>
     <div class="col-md-9">
     <div class="col-md-9"><canvas id="executive_draft_chart"></canvas></div>
