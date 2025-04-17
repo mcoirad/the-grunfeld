@@ -43,7 +43,7 @@ layout: default
 
     <div class="container">
         <div class="row">
-          <h1 style=" text-align:center;">Transaction BPM over Tenure</h1>
+          <h1 style=" text-align:center;">Transaction VORP over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
@@ -53,12 +53,17 @@ layout: default
   d3.csv("https://raw.githubusercontent.com/mcoirad/the-grunfeld/master/_data/{{ executive.href }}.csv").then(makeChart);
   
   function makeChart(exec_data) {
+
+    function roundToTwo(num) {
+    return Math.round((parseFloat(num) + Number.EPSILON) * 100) / 100;
+  }
     
     var dateLabels = exec_data.map(function (d) {
       return d.date.slice(0, 10);
     });
     var scoreData = exec_data.map(function (d) {
-      return d.value_vorp;
+      console.log(d);
+      return roundToTwo(d.value_vorp);
     });
     console.log(scoreData);
     var tooltipData = exec_data.map(function (d) {
@@ -66,10 +71,10 @@ layout: default
       if (d.single_value_vorp < 0){
         plusSign = '';
       } 
-      return d.Transaction + ': ' + plusSign + d.single_value_vorp;
+      return d.Transaction + ': ' + plusSign + roundToTwo(d.single_value_vorp);
     });
     var pointRadii = exec_data.map(function(d) {
-      return Math.sqrt(Math.abs(d.single_value_vorp) * 1000000);
+      return Math.sqrt(Math.abs(d.single_value_vorp) * 20);
     });
     var valueMin = Math.min(...exec_data.map(function(d) {
       return parseInt(d.single_value_vorp);
