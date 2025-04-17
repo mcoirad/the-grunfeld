@@ -4,8 +4,15 @@ draft_bust_list: null
 draft_description: This executive has only drafted 2 players and thus doesn't have
   a draft grade.
 draft_num_players: 2
-draft_rating: null
-draft_rating_grade: null
+draft_rating_bpm: null
+draft_rating_grade_vorp: null
+draft_rating_percentile_bpm: .nan
+draft_rating_percentile_vorp: .nan
+draft_rating_vorp: null
+draft_total_bpm: 856
+draft_total_percentile_bpm: 40.74074074074074
+draft_total_percentile_vorp: 40.74074074074074
+draft_total_vorp: 2
 draft_win_list: '<ul>
 
   </ul>'
@@ -14,7 +21,7 @@ final_bpm: 29523
 href: dunlemi02x
 is_active: true
 name: Mike Dunleavy
-signing_description: 'Mike Dunleavy ranks in the 85th percentile for free agency signings
+signing_description: 'Mike Dunleavy ranks in the 82th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -25,8 +32,9 @@ signing_lose_list: '<ul>
   <li>Signed Lester Quinones in 2023.</li>
 
   </ul>'
-signing_rating: 0.09
-signing_rating_grade: A-
+signing_rating_bpm: -0.05
+signing_rating_grade_vorp: A-
+signing_rating_vorp: 0.09
 signing_win_list: '<ul>
 
   <li>Signed Draymond Green in 2023.</li>
@@ -50,8 +58,9 @@ trade_lose_list: '<ul>
   <li>Lost Quinten Post to OKC.</li>
 
   </ul>'
-trade_rating: 0.5
-trade_rating_grade: S
+trade_rating_bpm: 0.5
+trade_rating_grade_vorp: S
+trade_rating_vorp: 0.5
 trade_win_list: '<ul>
 
   <li>Added Chris Paul to GSW.</li>

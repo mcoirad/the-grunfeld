@@ -13,8 +13,15 @@ draft_description: Jerry Krause ranks in the 25th percentile for drafting among 
   in our database. Krause's draft picks average out to be worth the equivalent of
   6 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 38
-draft_rating: -5.7
-draft_rating_grade: D-
+draft_rating_bpm: -3.2
+draft_rating_grade_vorp: D-
+draft_rating_percentile_bpm: 40.36697247706422
+draft_rating_percentile_vorp: 25.68807339449541
+draft_rating_vorp: -5.7
+draft_total_bpm: -127665
+draft_total_percentile_bpm: 70.98765432098766
+draft_total_percentile_vorp: 70.98765432098766
+draft_total_vorp: 31
 draft_win_list: '<ul>
 
   <li>Drafted Toni Kukoč with 29th pick but was worth 2th pick.</li>
@@ -29,7 +36,7 @@ final_bpm: -238766
 href: krausje99x
 is_active: false
 name: Jerry Krause
-signing_description: 'Jerry Krause ranks in the 39th percentile for free agency signings
+signing_description: 'Jerry Krause ranks in the 38th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -40,8 +47,9 @@ signing_lose_list: '<ul>
   <li>Signed Dickey Simpkins in 1998.</li>
 
   </ul>'
-signing_rating: -0.1
-signing_rating_grade: D+
+signing_rating_bpm: -0.56
+signing_rating_grade_vorp: D+
+signing_rating_vorp: -0.1
 signing_win_list: '<ul>
 
   <li>Signed Steve Kerr in 1993.</li>
@@ -56,7 +64,7 @@ team:
 - Chicago Bulls
 team_shortcode:
 - CHI
-trade_description: 'Jerry Krause ranks in the 55th percentile for trading among executives
+trade_description: 'Jerry Krause ranks in the 57th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -65,8 +73,9 @@ trade_lose_list: '<ul>
   <li>Lost Elton Brand to LAC.</li>
 
   </ul>'
-trade_rating: 0.02
-trade_rating_grade: C+
+trade_rating_bpm: 0.0
+trade_rating_grade_vorp: C+
+trade_rating_vorp: 0.02
 trade_win_list: '<ul>
 
   <li>Added Scottie Pippen, Jeff Sanders to CHI.</li>

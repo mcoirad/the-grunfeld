@@ -4,8 +4,15 @@ draft_bust_list: null
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
-draft_rating: null
-draft_rating_grade: null
+draft_rating_bpm: null
+draft_rating_grade_vorp: null
+draft_rating_percentile_bpm: .nan
+draft_rating_percentile_vorp: .nan
+draft_rating_vorp: null
+draft_total_bpm: -1681
+draft_total_percentile_bpm: 32.71604938271605
+draft_total_percentile_vorp: 32.71604938271605
+draft_total_vorp: 0
 draft_win_list: '<ul>
 
   </ul>'
@@ -14,7 +21,7 @@ final_bpm: 125309
 href: stevebr99x
 is_active: true
 name: Brad Stevens
-signing_description: 'Brad Stevens ranks in the 87th percentile for free agency signings
+signing_description: 'Brad Stevens ranks in the 84th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -25,8 +32,9 @@ signing_lose_list: '<ul>
   <li>Signed Dennis Schroder in 2021.</li>
 
   </ul>'
-signing_rating: 0.12
-signing_rating_grade: A
+signing_rating_bpm: -0.15
+signing_rating_grade_vorp: A-
+signing_rating_vorp: 0.12
 signing_win_list: '<ul>
 
   <li>Signed Luke Kornet in 2024.</li>
@@ -50,8 +58,9 @@ trade_lose_list: '<ul>
   <li>Lost Kris Dunn, Carsen Edwards to MEM.</li>
 
   </ul>'
-trade_rating: 0.13
-trade_rating_grade: B+
+trade_rating_bpm: 0.61
+trade_rating_grade_vorp: B+
+trade_rating_vorp: 0.13
 trade_win_list: '<ul>
 
   <li>Added Derrick White to BOS.</li>

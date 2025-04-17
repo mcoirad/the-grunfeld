@@ -1,5 +1,5 @@
 ---
-bpm_rank: 36
+bpm_rank: 37
 draft_bust_list: '<ul>
 
   <li>Drafted Bennedict Mathurin with 6th pick but was worth 50th pick.</li>
@@ -13,8 +13,15 @@ draft_description: Kevin Pritchard ranks in the 51th percentile for drafting amo
   executives in our database. Pritchard's draft picks average out to be worth the
   equivalent of 1 spot higher than they were picked due to his good drafting.
 draft_num_players: 21
-draft_rating: 1.2
-draft_rating_grade: C
+draft_rating_bpm: 3.9
+draft_rating_grade_vorp: C
+draft_rating_percentile_bpm: 73.39449541284404
+draft_rating_percentile_vorp: 51.37614678899082
+draft_rating_vorp: 1.2
+draft_total_bpm: -74326
+draft_total_percentile_bpm: 0.0
+draft_total_percentile_vorp: 0.0
+draft_total_vorp: -4
 draft_win_list: '<ul>
 
   <li>Drafted Cassius Stanley with 54th pick but was worth 44th pick.</li>
@@ -25,11 +32,11 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: 49140
+final_bpm: 47811
 href: pritcke01x
 is_active: true
 name: Kevin Pritchard
-signing_description: 'Kevin Pritchard ranks in the 58th percentile for free agency
+signing_description: 'Kevin Pritchard ranks in the 55th percentile for free agency
   signings among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -40,8 +47,9 @@ signing_lose_list: '<ul>
   <li>Signed Justin Holiday in 2020.</li>
 
   </ul>'
-signing_rating: -0.03
-signing_rating_grade: C+
+signing_rating_bpm: -0.33
+signing_rating_grade_vorp: C+
+signing_rating_vorp: -0.03
 signing_win_list: '<ul>
 
   <li>Signed Domantas Sabonis in 2019.</li>
@@ -58,7 +66,7 @@ team:
 team_shortcode:
 - POR
 - IND
-trade_description: 'Kevin Pritchard ranks in the 70th percentile for trading among
+trade_description: 'Kevin Pritchard ranks in the 71th percentile for trading among
   executives in our database. '
 trade_lose_list: '<ul>
 
@@ -68,8 +76,9 @@ trade_lose_list: '<ul>
   <li>Lost Malcolm Brogdon to BOS.</li>
 
   </ul>'
-trade_rating: 0.09
-trade_rating_grade: B
+trade_rating_bpm: 0.13
+trade_rating_grade_vorp: B
+trade_rating_vorp: 0.09
 trade_win_list: '<ul>
 
   <li>Added Nicolas Batum to POR.</li>

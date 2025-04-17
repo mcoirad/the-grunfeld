@@ -13,8 +13,15 @@ draft_description: Lewis Schaffel ranks in the 98th percentile for drafting amon
   executives in our database. Schaffel's draft picks average out to be worth the equivalent
   of 13 spots higher than they were picked due to his good drafting.
 draft_num_players: 19
-draft_rating: 13.1
-draft_rating_grade: S
+draft_rating_bpm: 9.9
+draft_rating_grade_vorp: S
+draft_rating_percentile_bpm: 88.07339449541284
+draft_rating_percentile_vorp: 98.1651376146789
+draft_rating_vorp: 13.1
+draft_total_bpm: -64712
+draft_total_percentile_bpm: 69.75308641975309
+draft_total_percentile_vorp: 69.75308641975309
+draft_total_vorp: 30
 draft_win_list: '<ul>
 
   <li>Drafted Scott Haffner with 45th pick but was worth 34th pick.</li>
@@ -40,8 +47,9 @@ signing_lose_list: '<ul>
   <li>Signed Pat Cummings in 1988.</li>
 
   </ul>'
-signing_rating: -0.16
-signing_rating_grade: D-
+signing_rating_bpm: -0.51
+signing_rating_grade_vorp: D-
+signing_rating_vorp: -0.16
 signing_win_list: '<ul>
 
   <li>Signed Brad Lohaus in 1994.</li>
@@ -62,7 +70,7 @@ team_shortcode:
 - ATL
 - BRK
 - MIA
-trade_description: 'Lewis Schaffel ranks in the 7th percentile for trading among executives
+trade_description: 'Lewis Schaffel ranks in the 8th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -71,8 +79,9 @@ trade_lose_list: '<ul>
   <li>Lost Grant Long, Steve Smith, Joe Vogel to ATL.</li>
 
   </ul>'
-trade_rating: -0.37
-trade_rating_grade: F
+trade_rating_bpm: -0.07
+trade_rating_grade_vorp: F
+trade_rating_vorp: -0.37
 trade_win_list: '<ul>
 
   <li>Added Slick Watts to UTA.</li>

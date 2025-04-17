@@ -13,8 +13,15 @@ draft_description: Sam Presti ranks in the 72th percentile for drafting among ex
   in our database. Presti's draft picks average out to be worth the equivalent of
   4 spots higher than they were picked due to his good drafting.
 draft_num_players: 22
-draft_rating: 4.2
-draft_rating_grade: B
+draft_rating_bpm: 5.7
+draft_rating_grade_vorp: B
+draft_rating_percentile_bpm: 77.06422018348624
+draft_rating_percentile_vorp: 72.4770642201835
+draft_rating_vorp: 4.2
+draft_total_bpm: 314254
+draft_total_percentile_bpm: 98.14814814814815
+draft_total_percentile_vorp: 98.14814814814815
+draft_total_vorp: 144
 draft_win_list: '<ul>
 
   <li>Drafted James Harden with 3th pick but was worth 1th pick.</li>
@@ -25,11 +32,11 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: -63951
+final_bpm: -64646
 href: prestsa99x
 is_active: true
 name: Sam Presti
-signing_description: 'Sam Presti ranks in the 59th percentile for free agency signings
+signing_description: 'Sam Presti ranks in the 56th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -40,8 +47,9 @@ signing_lose_list: '<ul>
   <li>Signed Luguentz Dort in 2019.</li>
 
   </ul>'
-signing_rating: -0.02
-signing_rating_grade: C+
+signing_rating_bpm: -0.3
+signing_rating_grade_vorp: C+
+signing_rating_vorp: -0.02
 signing_win_list: '<ul>
 
   <li>Signed Russell Westbrook in 2017.</li>
@@ -66,8 +74,9 @@ trade_lose_list: '<ul>
   <li>Lost Cole Aldrich, Daequan Cook, James Harden, Lazar Hayward to HOU.</li>
 
   </ul>'
-trade_rating: -0.17
-trade_rating_grade: D-
+trade_rating_bpm: -0.06
+trade_rating_grade_vorp: D-
+trade_rating_vorp: -0.17
 trade_win_list: '<ul>
 
   <li>Added Danilo Gallinari, Shai Gilgeous-Alexander, Tre Mann, Jalen Williams, Jaime

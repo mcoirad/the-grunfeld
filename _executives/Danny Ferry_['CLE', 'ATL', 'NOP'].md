@@ -13,8 +13,15 @@ draft_description: Danny Ferry ranks in the 77th percentile for drafting among e
   in our database. Ferry's draft picks average out to be worth the equivalent of 6
   spots higher than they were picked due to his good drafting.
 draft_num_players: 10
-draft_rating: 5.6
-draft_rating_grade: B+
+draft_rating_bpm: -3.5
+draft_rating_grade_vorp: B+
+draft_rating_percentile_bpm: 38.53211009174312
+draft_rating_percentile_vorp: 77.06422018348624
+draft_rating_vorp: 5.6
+draft_total_bpm: -45535
+draft_total_percentile_bpm: 43.20987654320987
+draft_total_percentile_vorp: 43.20987654320987
+draft_total_vorp: 3
 draft_win_list: '<ul>
 
   <li>Drafted Daniel Gibson with 42th pick but was worth 14th pick.</li>
@@ -27,7 +34,7 @@ final_bpm: -40720
 href: ferryda01x
 is_active: false
 name: Danny Ferry
-signing_description: Danny Ferry ranks in the 48th percentile for free agency signings
+signing_description: Danny Ferry ranks in the 46th percentile for free agency signings
   among executives in our database. That's basically average. It could be worse though
   lol.
 signing_lose_list: '<ul>
@@ -39,8 +46,9 @@ signing_lose_list: '<ul>
   <li>Signed Jawad Williams in 2009.</li>
 
   </ul>'
-signing_rating: -0.06
-signing_rating_grade: C
+signing_rating_bpm: -0.56
+signing_rating_grade_vorp: C-
+signing_rating_vorp: -0.06
 signing_win_list: '<ul>
 
   <li>Signed Paul Millsap in 2013.</li>
@@ -59,7 +67,7 @@ team_shortcode:
 - CLE
 - ATL
 - NOP
-trade_description: 'Danny Ferry ranks in the 42th percentile for trading among executives
+trade_description: 'Danny Ferry ranks in the 41th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -68,8 +76,9 @@ trade_lose_list: '<ul>
   <li>Lost Lucas Nogueira, Lou Williams to TOR.</li>
 
   </ul>'
-trade_rating: -0.04
-trade_rating_grade: C-
+trade_rating_bpm: 0.0
+trade_rating_grade_vorp: C-
+trade_rating_vorp: -0.04
 trade_win_list: '<ul>
 
   <li>Added Kyle Korver to ATL.</li>

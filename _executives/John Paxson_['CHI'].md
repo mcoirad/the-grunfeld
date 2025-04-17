@@ -13,8 +13,15 @@ draft_description: John Paxson ranks in the 49th percentile for drafting among e
   in our database. Paxson's draft picks average out to be worth the equivalent of
   1 spot higher than they were picked due to his good drafting.
 draft_num_players: 6
-draft_rating: 1.0
-draft_rating_grade: C
+draft_rating_bpm: -4.7
+draft_rating_grade_vorp: C
+draft_rating_percentile_bpm: 33.027522935779814
+draft_rating_percentile_vorp: 49.54128440366973
+draft_rating_vorp: 1.0
+draft_total_bpm: 83758
+draft_total_percentile_bpm: 84.5679012345679
+draft_total_percentile_vorp: 84.5679012345679
+draft_total_vorp: 60
 draft_win_list: '<ul>
 
   <li>Drafted Joakim Noah with 9th pick but was worth 5th pick.</li>
@@ -25,7 +32,7 @@ final_bpm: 20001
 href: paxsojo01x
 is_active: false
 name: John Paxson
-signing_description: 'John Paxson ranks in the 32th percentile for free agency signings
+signing_description: 'John Paxson ranks in the 31th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -36,8 +43,9 @@ signing_lose_list: '<ul>
   <li>Signed Kendall Gill in 2003.</li>
 
   </ul>'
-signing_rating: -0.12
-signing_rating_grade: D
+signing_rating_bpm: -0.68
+signing_rating_grade_vorp: D
+signing_rating_vorp: -0.12
 signing_win_list: '<ul>
 
   <li>Signed Ben Wallace in 2006.</li>
@@ -57,8 +65,9 @@ trade_lose_list: '<ul>
   <li>Lost LaMarcus Aldridge, Demetris Nichols to POR.</li>
 
   </ul>'
-trade_rating: -0.11
-trade_rating_grade: D-
+trade_rating_bpm: -0.22
+trade_rating_grade_vorp: D-
+trade_rating_vorp: -0.11
 trade_win_list: '<ul>
 
   <li>Added Luol Deng to CHI.</li>

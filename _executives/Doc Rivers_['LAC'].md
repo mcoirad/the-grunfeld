@@ -4,8 +4,15 @@ draft_bust_list: null
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
-draft_rating: null
-draft_rating_grade: null
+draft_rating_bpm: null
+draft_rating_grade_vorp: null
+draft_rating_percentile_bpm: .nan
+draft_rating_percentile_vorp: .nan
+draft_rating_vorp: null
+draft_total_bpm: -2212
+draft_total_percentile_bpm: 32.71604938271605
+draft_total_percentile_vorp: 32.71604938271605
+draft_total_vorp: 0
 draft_win_list: '<ul>
 
   </ul>'
@@ -14,7 +21,7 @@ final_bpm: 46922
 href: riverdo99x
 is_active: false
 name: Doc Rivers
-signing_description: 'Doc Rivers ranks in the 70th percentile for free agency signings
+signing_description: 'Doc Rivers ranks in the 68th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -25,8 +32,9 @@ signing_lose_list: '<ul>
   <li>Signed Paul Pierce in 2015.</li>
 
   </ul>'
-signing_rating: 0.0
-signing_rating_grade: B
+signing_rating_bpm: -0.47
+signing_rating_grade_vorp: B
+signing_rating_vorp: 0.0
 signing_win_list: '<ul>
 
   <li>Signed Chris Paul in 2013.</li>
@@ -52,8 +60,9 @@ trade_lose_list: '<ul>
   <li>Lost Marcus Paige to MIL.</li>
 
   </ul>'
-trade_rating: -0.18
-trade_rating_grade: D-
+trade_rating_bpm: -0.18
+trade_rating_grade_vorp: D-
+trade_rating_vorp: -0.18
 trade_win_list: '<ul>
 
   <li>Added Danilo Gallinari to LAC.</li>

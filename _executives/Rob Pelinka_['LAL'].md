@@ -1,5 +1,5 @@
 ---
-bpm_rank: 84
+bpm_rank: 78
 draft_bust_list: '<ul>
 
   <li>Drafted Max Christie with 35th pick but was worth 40th pick.</li>
@@ -13,17 +13,24 @@ draft_description: Rob Pelinka ranks in the 60th percentile for drafting among e
   in our database. Pelinka's draft picks average out to be worth the equivalent of
   3 spots higher than they were picked due to his good drafting.
 draft_num_players: 6
-draft_rating: 2.7
-draft_rating_grade: B-
+draft_rating_bpm: 0.7
+draft_rating_grade_vorp: B-
+draft_rating_percentile_bpm: 58.71559633027523
+draft_rating_percentile_vorp: 60.55045871559633
+draft_rating_vorp: 2.7
+draft_total_bpm: -16610
+draft_total_percentile_bpm: 7.407407407407407
+draft_total_percentile_vorp: 7.407407407407407
+draft_total_vorp: -1
 draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: -19559
+final_bpm: -14216
 href: pelinro99x
 is_active: true
 name: Rob Pelinka
-signing_description: 'Rob Pelinka ranks in the 58th percentile for free agency signings
+signing_description: 'Rob Pelinka ranks in the 56th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -34,8 +41,9 @@ signing_lose_list: '<ul>
   <li>Signed Taurean Prince in 2023.</li>
 
   </ul>'
-signing_rating: -0.02
-signing_rating_grade: C+
+signing_rating_bpm: -0.56
+signing_rating_grade_vorp: C+
+signing_rating_vorp: -0.02
 signing_win_list: '<ul>
 
   <li>Signed Anthony Davis in 2020.</li>
@@ -60,8 +68,9 @@ trade_lose_list: '<ul>
   pick, future 2nd round pick to BRK.</li>
 
   </ul>'
-trade_rating: -0.27
-trade_rating_grade: F
+trade_rating_bpm: 0.0
+trade_rating_grade_vorp: F
+trade_rating_vorp: -0.27
 trade_win_list: '<ul>
 
   <li>Added Luka Doncic, Maxi Kleber, Markieff Morris to LAL.</li>

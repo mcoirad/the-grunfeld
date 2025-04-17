@@ -13,8 +13,15 @@ draft_description: Jerry West ranks in the 79th percentile for drafting among ex
   in our database. West's draft picks average out to be worth the equivalent of 6
   spots higher than they were picked due to his good drafting.
 draft_num_players: 24
-draft_rating: 6.1
-draft_rating_grade: B+
+draft_rating_bpm: 0.7
+draft_rating_grade_vorp: B+
+draft_rating_percentile_bpm: 59.63302752293578
+draft_rating_percentile_vorp: 79.81651376146789
+draft_rating_vorp: 6.1
+draft_total_bpm: 37939
+draft_total_percentile_bpm: 91.35802469135803
+draft_total_percentile_vorp: 91.35802469135803
+draft_total_vorp: 95
 draft_win_list: '<ul>
 
   <li>Drafted Eddie Jones with 10th pick but was worth 3th pick.</li>
@@ -29,7 +36,7 @@ final_bpm: 302682
 href: westje01x
 is_active: false
 name: Jerry West
-signing_description: 'Jerry West ranks in the 41th percentile for free agency signings
+signing_description: 'Jerry West ranks in the 39th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -40,8 +47,9 @@ signing_lose_list: '<ul>
   <li>Signed Sean Rooks in 1996.</li>
 
   </ul>'
-signing_rating: -0.09
-signing_rating_grade: C-
+signing_rating_bpm: -0.45
+signing_rating_grade_vorp: D+
+signing_rating_vorp: -0.09
 signing_win_list: '<ul>
 
   <li>Signed Shaquille O''Neal in 1996.</li>
@@ -67,8 +75,9 @@ trade_lose_list: '<ul>
   <li>Lost Sam Perkins to SEA.</li>
 
   </ul>'
-trade_rating: -0.09
-trade_rating_grade: D
+trade_rating_bpm: -0.06
+trade_rating_grade_vorp: D
+trade_rating_vorp: -0.09
 trade_win_list: '<ul>
 
   <li>Added Kobe Bryant to LAL.</li>

@@ -13,8 +13,15 @@ draft_description: Bucky Buckwalter ranks in the 70th percentile for drafting am
   executives in our database. Buckwalter's draft picks average out to be worth the
   equivalent of 4 spots higher than they were picked due to his good drafting.
 draft_num_players: 14
-draft_rating: 4.1
-draft_rating_grade: B
+draft_rating_bpm: 10.2
+draft_rating_grade_vorp: B
+draft_rating_percentile_bpm: 89.90825688073394
+draft_rating_percentile_vorp: 70.64220183486239
+draft_rating_vorp: 4.1
+draft_total_bpm: 39033
+draft_total_percentile_bpm: 70.37037037037037
+draft_total_percentile_vorp: 70.37037037037037
+draft_total_vorp: 31
 draft_win_list: '<ul>
 
   <li>Drafted Arvydas Sabonis with 24th pick but was worth 7th pick.</li>
@@ -29,7 +36,7 @@ final_bpm: 45355
 href: buckwbu99x
 is_active: false
 name: Bucky Buckwalter
-signing_description: 'Bucky Buckwalter ranks in the 43th percentile for free agency
+signing_description: 'Bucky Buckwalter ranks in the 41th percentile for free agency
   signings among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -40,8 +47,9 @@ signing_lose_list: '<ul>
   <li>Signed Maurice Lucas in 1987.</li>
 
   </ul>'
-signing_rating: -0.08
-signing_rating_grade: C-
+signing_rating_bpm: -0.36
+signing_rating_grade_vorp: C-
+signing_rating_vorp: -0.08
 signing_win_list: '<ul>
 
   <li>Signed Rod Strickland in 1992.</li>
@@ -67,8 +75,9 @@ trade_lose_list: '<ul>
   <li>Lost Walter Berry to SAS.</li>
 
   </ul>'
-trade_rating: 0.14
-trade_rating_grade: B+
+trade_rating_bpm: 0.29
+trade_rating_grade_vorp: B+
+trade_rating_vorp: 0.14
 trade_win_list: '<ul>
 
   <li>Added Danny Ainge to POR.</li>

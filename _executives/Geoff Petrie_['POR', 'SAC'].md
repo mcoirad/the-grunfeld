@@ -13,8 +13,15 @@ draft_description: Geoff Petrie ranks in the 71th percentile for drafting among 
   in our database. Petrie's draft picks average out to be worth the equivalent of
   4 spots higher than they were picked due to his good drafting.
 draft_num_players: 29
-draft_rating: 4.1
-draft_rating_grade: B
+draft_rating_bpm: 2.4
+draft_rating_grade_vorp: B
+draft_rating_percentile_bpm: 67.88990825688073
+draft_rating_percentile_vorp: 71.55963302752293
+draft_rating_vorp: 4.1
+draft_total_bpm: -47945
+draft_total_percentile_bpm: 86.41975308641975
+draft_total_percentile_vorp: 86.41975308641975
+draft_total_vorp: 64
 draft_win_list: '<ul>
 
   <li>Drafted Peja Stojaković with 14th pick but was worth 7th pick.</li>
@@ -29,7 +36,7 @@ final_bpm: -25546
 href: petrige01x
 is_active: false
 name: Geoff Petrie
-signing_description: 'Geoff Petrie ranks in the 27th percentile for free agency signings
+signing_description: 'Geoff Petrie ranks in the 26th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -40,8 +47,9 @@ signing_lose_list: '<ul>
   <li>Signed Mikki Moore in 2007.</li>
 
   </ul>'
-signing_rating: -0.13
-signing_rating_grade: D
+signing_rating_bpm: -0.54
+signing_rating_grade_vorp: D-
+signing_rating_vorp: -0.13
 signing_win_list: '<ul>
 
   <li>Signed Vlade Divac in 1999.</li>
@@ -58,7 +66,7 @@ team:
 team_shortcode:
 - POR
 - SAC
-trade_description: 'Geoff Petrie ranks in the 61th percentile for trading among executives
+trade_description: 'Geoff Petrie ranks in the 63th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -67,8 +75,9 @@ trade_lose_list: '<ul>
   <li>Lost Metta World Peace, Patrick Ewing, Sean Singletary to HOU.</li>
 
   </ul>'
-trade_rating: 0.04
-trade_rating_grade: B-
+trade_rating_bpm: 0.07
+trade_rating_grade_vorp: B-
+trade_rating_vorp: 0.04
 trade_win_list: '<ul>
 
   <li>Added Chris Webber to SAC.</li>

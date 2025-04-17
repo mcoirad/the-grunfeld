@@ -13,8 +13,15 @@ draft_description: Rod Thorn ranks in the 59th percentile for drafting among exe
   in our database. Thorn's draft picks average out to be worth the equivalent of 3
   spots higher than they were picked due to his good drafting.
 draft_num_players: 20
-draft_rating: 2.6
-draft_rating_grade: C+
+draft_rating_bpm: 2.4
+draft_rating_grade_vorp: C+
+draft_rating_percentile_bpm: 66.97247706422019
+draft_rating_percentile_vorp: 59.63302752293578
+draft_rating_vorp: 2.6
+draft_total_bpm: 290668
+draft_total_percentile_bpm: 96.29629629629629
+draft_total_percentile_vorp: 96.29629629629629
+draft_total_vorp: 134
 draft_win_list: '<ul>
 
   <li>Drafted Michael Jordan with 3th pick but was worth 1th pick.</li>
@@ -29,7 +36,7 @@ final_bpm: 188498
 href: thornro01x
 is_active: false
 name: Rod Thorn
-signing_description: Rod Thorn ranks in the 49th percentile for free agency signings
+signing_description: Rod Thorn ranks in the 47th percentile for free agency signings
   among executives in our database. That's basically average. It could be worse though
   lol.
 signing_lose_list: '<ul>
@@ -41,8 +48,9 @@ signing_lose_list: '<ul>
   <li>Signed Travis Outlaw in 2010.</li>
 
   </ul>'
-signing_rating: -0.06
-signing_rating_grade: C
+signing_rating_bpm: -0.69
+signing_rating_grade_vorp: C
+signing_rating_vorp: -0.06
 signing_win_list: '<ul>
 
   <li>Signed Todd MacCulloch in 2001.</li>
@@ -70,8 +78,9 @@ trade_lose_list: '<ul>
   <li>Lost Andre Iguodala to DEN.</li>
 
   </ul>'
-trade_rating: 0.16
-trade_rating_grade: B+
+trade_rating_bpm: 0.07
+trade_rating_grade_vorp: B+
+trade_rating_vorp: 0.16
 trade_win_list: '<ul>
 
   <li>Added Chris Dudley, Jason Kidd to BRK.</li>

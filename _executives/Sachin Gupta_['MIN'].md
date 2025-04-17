@@ -4,23 +4,31 @@ draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
   a draft grade.
 draft_num_players: 0
-draft_rating: null
-draft_rating_grade: null
+draft_rating_bpm: null
+draft_rating_grade_vorp: null
+draft_rating_percentile_bpm: .nan
+draft_rating_percentile_vorp: .nan
+draft_rating_vorp: null
+draft_total_bpm: 0
+draft_total_percentile_bpm: 32.71604938271605
+draft_total_percentile_vorp: 32.71604938271605
+draft_total_vorp: 0
 draft_win_list: null
 end_year: 2022
 final_bpm: 347
 href: guptasa99x
 is_active: false
 name: Sachin Gupta
-signing_description: This executive has only made 5 signings in free agency and thus
-  doesn't have a signing grade.
+signing_description: 'Sachin Gupta ranks in the 94th percentile for free agency signings
+  among executives in our database. '
 signing_lose_list: '<ul>
 
   <li>Signed Chris Silva in 2021.</li>
 
   </ul>'
-signing_rating: .nan
-signing_rating_grade: null
+signing_rating_bpm: 0.0
+signing_rating_grade_vorp: A+
+signing_rating_vorp: 0.2
 signing_win_list: '<ul>
 
   <li>Signed Greg Monroe in 2022.</li>
@@ -34,7 +42,8 @@ team_shortcode:
 trade_description: This executive hasn't traded any players, and thus doesn't have
   a trade grade.
 trade_lose_list: null
-trade_rating: null
-trade_rating_grade: null
+trade_rating_bpm: null
+trade_rating_grade_vorp: null
+trade_rating_vorp: null
 trade_win_list: null
 ---

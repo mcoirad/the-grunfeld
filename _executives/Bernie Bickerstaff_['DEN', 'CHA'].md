@@ -13,8 +13,15 @@ draft_description: Bernie Bickerstaff ranks in the 22th percentile for drafting 
   executives in our database. Bickerstaff's draft picks average out to be worth the
   equivalent of 6 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 14
-draft_rating: -6.5
-draft_rating_grade: D-
+draft_rating_bpm: -15.8
+draft_rating_grade_vorp: D-
+draft_rating_percentile_bpm: 6.422018348623853
+draft_rating_percentile_vorp: 22.01834862385321
+draft_rating_vorp: -6.5
+draft_total_bpm: -42275
+draft_total_percentile_bpm: 71.60493827160494
+draft_total_percentile_vorp: 71.60493827160494
+draft_total_vorp: 31
 draft_win_list: '<ul>
 
   <li>Drafted Robert Werdann with 46th pick but was worth 35th pick.</li>
@@ -40,8 +47,9 @@ signing_lose_list: '<ul>
   <li>Signed Matt Carroll in 2005.</li>
 
   </ul>'
-signing_rating: -0.19
-signing_rating_grade: F
+signing_rating_bpm: -0.48
+signing_rating_grade_vorp: F
+signing_rating_vorp: -0.19
 signing_win_list: '<ul>
 
   <li>Signed Reggie Williams in 1991.</li>
@@ -58,7 +66,7 @@ team:
 team_shortcode:
 - DEN
 - CHA
-trade_description: 'Bernie Bickerstaff ranks in the 72th percentile for trading among
+trade_description: 'Bernie Bickerstaff ranks in the 73th percentile for trading among
   executives in our database. '
 trade_lose_list: '<ul>
 
@@ -67,8 +75,9 @@ trade_lose_list: '<ul>
   <li>Lost Bernard Robinson to NJN.</li>
 
   </ul>'
-trade_rating: 0.09
-trade_rating_grade: B
+trade_rating_bpm: -0.09
+trade_rating_grade_vorp: B+
+trade_rating_vorp: 0.09
 trade_win_list: '<ul>
 
   <li>Added Jared Dudley to CHA.</li>

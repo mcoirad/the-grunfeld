@@ -4,8 +4,15 @@ draft_bust_list: null
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
-draft_rating: null
-draft_rating_grade: null
+draft_rating_bpm: null
+draft_rating_grade_vorp: null
+draft_rating_percentile_bpm: .nan
+draft_rating_percentile_vorp: .nan
+draft_rating_vorp: null
+draft_total_bpm: -3033
+draft_total_percentile_bpm: 38.888888888888886
+draft_total_percentile_vorp: 38.888888888888886
+draft_total_vorp: 2
 draft_win_list: '<ul>
 
   </ul>'
@@ -14,7 +21,7 @@ final_bpm: 71437
 href: rosele99x
 is_active: true
 name: Leon Rose
-signing_description: 'Leon Rose ranks in the 81th percentile for free agency signings
+signing_description: 'Leon Rose ranks in the 79th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -25,8 +32,9 @@ signing_lose_list: '<ul>
   <li>Signed Landry Shamet in 2024.</li>
 
   </ul>'
-signing_rating: 0.07
-signing_rating_grade: A-
+signing_rating_bpm: -0.17
+signing_rating_grade_vorp: B+
+signing_rating_vorp: 0.07
 signing_win_list: '<ul>
 
   <li>Signed Jalen Brunson in 2022.</li>
@@ -50,8 +58,9 @@ trade_lose_list: '<ul>
   <li>Lost Obi Toppin to IND.</li>
 
   </ul>'
-trade_rating: 0.31
-trade_rating_grade: A
+trade_rating_bpm: 0.1
+trade_rating_grade_vorp: A
+trade_rating_vorp: 0.31
 trade_win_list: '<ul>
 
   <li>Added Dani Diez, Bojan Dubljevic, Josh Hart to NYK.</li>

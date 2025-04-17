@@ -4,8 +4,15 @@ draft_bust_list: null
 draft_description: This executive has only drafted 2 players and thus doesn't have
   a draft grade.
 draft_num_players: 2
-draft_rating: null
-draft_rating_grade: null
+draft_rating_bpm: null
+draft_rating_grade_vorp: null
+draft_rating_percentile_bpm: .nan
+draft_rating_percentile_vorp: .nan
+draft_rating_vorp: null
+draft_total_bpm: -10642
+draft_total_percentile_bpm: 9.25925925925926
+draft_total_percentile_vorp: 9.25925925925926
+draft_total_vorp: -1
 draft_win_list: '<ul>
 
   </ul>'
@@ -21,8 +28,9 @@ signing_lose_list: '<ul>
   <li>Signed Tellis Frank in 1991.</li>
 
   </ul>'
-signing_rating: .nan
-signing_rating_grade: null
+signing_rating_bpm: .nan
+signing_rating_grade_vorp: null
+signing_rating_vorp: .nan
 signing_win_list: '<ul>
 
   <li>Signed Dan Godfread in 1991.</li>
@@ -42,7 +50,8 @@ trade_lose_list: '<ul>
   <li>Lost Tyrone Corbin to UTA.</li>
 
   </ul>'
-trade_rating: null
-trade_rating_grade: null
+trade_rating_bpm: null
+trade_rating_grade_vorp: null
+trade_rating_vorp: null
 trade_win_list: null
 ---

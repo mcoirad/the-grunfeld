@@ -11,8 +11,15 @@ draft_description: Garry St. Jean ranks in the 88th percentile for drafting amon
   executives in our database. St.'s draft picks average out to be worth the equivalent
   of 9 spots higher than they were picked due to his good drafting.
 draft_num_players: 7
-draft_rating: 9.0
-draft_rating_grade: A
+draft_rating_bpm: 10.9
+draft_rating_grade_vorp: A
+draft_rating_percentile_bpm: 91.74311926605505
+draft_rating_percentile_vorp: 88.07339449541284
+draft_rating_vorp: 9.0
+draft_total_bpm: -5543
+draft_total_percentile_bpm: 65.4320987654321
+draft_total_percentile_vorp: 65.4320987654321
+draft_total_vorp: 23
 draft_win_list: '<ul>
 
   <li>Drafted Gilbert Arenas with 31th pick but was worth 7th pick.</li>
@@ -25,7 +32,7 @@ final_bpm: -213311
 href: stjeaga99x
 is_active: false
 name: Garry St. Jean
-signing_description: 'Garry St. Jean ranks in the 32th percentile for free agency
+signing_description: 'Garry St. Jean ranks in the 31th percentile for free agency
   signings among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -36,8 +43,9 @@ signing_lose_list: '<ul>
   <li>Signed Bill Curley in 2000.</li>
 
   </ul>'
-signing_rating: -0.12
-signing_rating_grade: D
+signing_rating_bpm: -0.41
+signing_rating_grade_vorp: D
+signing_rating_vorp: -0.12
 signing_win_list: '<ul>
 
   <li>Signed Brian Cardinal in 2003.</li>
@@ -52,7 +60,7 @@ team:
 - Golden State Warriors
 team_shortcode:
 - GSW
-trade_description: 'Garry St. Jean ranks in the 3th percentile for trading among executives
+trade_description: 'Garry St. Jean ranks in the 4th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -61,8 +69,9 @@ trade_lose_list: '<ul>
   <li>Lost Vince Carter to TOR.</li>
 
   </ul>'
-trade_rating: -0.4
-trade_rating_grade: F
+trade_rating_bpm: -0.6
+trade_rating_grade_vorp: F
+trade_rating_vorp: -0.4
 trade_win_list: '<ul>
 
   <li>Added Jim Jackson, Clarence Weatherspoon to GSW.</li>

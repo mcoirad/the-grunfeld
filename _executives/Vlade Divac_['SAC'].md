@@ -13,8 +13,15 @@ draft_description: Vlade Divac ranks in the 19th percentile for drafting among e
   in our database. Divac's draft picks average out to be worth the equivalent of 8
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
-draft_rating: -8.2
-draft_rating_grade: F
+draft_rating_bpm: -8.6
+draft_rating_grade_vorp: F
+draft_rating_percentile_bpm: 21.10091743119266
+draft_rating_percentile_vorp: 19.26605504587156
+draft_rating_vorp: -8.2
+draft_total_bpm: 2055
+draft_total_percentile_bpm: 58.641975308641975
+draft_total_percentile_vorp: 58.641975308641975
+draft_total_vorp: 16
 draft_win_list: '<ul>
 
   <li>Drafted Justin James with 40th pick but was worth 40th pick.</li>
@@ -25,7 +32,7 @@ final_bpm: -48080
 href: divacvl99x
 is_active: false
 name: Vlade Divac
-signing_description: 'Vlade Divac ranks in the 88th percentile for free agency signings
+signing_description: 'Vlade Divac ranks in the 85th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -36,8 +43,9 @@ signing_lose_list: '<ul>
   <li>Signed Justin Jackson in 2017.</li>
 
   </ul>'
-signing_rating: 0.12
-signing_rating_grade: A
+signing_rating_bpm: -0.55
+signing_rating_grade_vorp: A-
+signing_rating_vorp: 0.12
 signing_win_list: '<ul>
 
   <li>Signed Nemanja Bjelica in 2018.</li>
@@ -62,8 +70,9 @@ trade_lose_list: '<ul>
   <li>Lost Omri Casspi, DeMarcus Cousins to NOP.</li>
 
   </ul>'
-trade_rating: 0.18
-trade_rating_grade: A-
+trade_rating_bpm: 0.12
+trade_rating_grade_vorp: A-
+trade_rating_vorp: 0.18
 trade_win_list: '<ul>
 
   <li>Added Artūras Gudaitis, Luka Mitrović, De''Aaron Fox to SAC.</li>

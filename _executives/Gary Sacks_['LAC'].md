@@ -4,15 +4,22 @@ draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
   a draft grade.
 draft_num_players: 0
-draft_rating: null
-draft_rating_grade: null
+draft_rating_bpm: null
+draft_rating_grade_vorp: null
+draft_rating_percentile_bpm: .nan
+draft_rating_percentile_vorp: .nan
+draft_rating_vorp: null
+draft_total_bpm: 0
+draft_total_percentile_bpm: 32.71604938271605
+draft_total_percentile_vorp: 32.71604938271605
+draft_total_vorp: 0
 draft_win_list: null
 end_year: 2013
 final_bpm: -2992
 href: sacksga99x
 is_active: false
 name: Gary Sacks
-signing_description: 'Gary Sacks ranks in the 88th percentile for free agency signings
+signing_description: 'Gary Sacks ranks in the 86th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -23,8 +30,9 @@ signing_lose_list: '<ul>
   <li>Signed Ronny Turiaf in 2012.</li>
 
   </ul>'
-signing_rating: 0.12
-signing_rating_grade: A
+signing_rating_bpm: -0.38
+signing_rating_grade_vorp: A-
+signing_rating_vorp: 0.12
 signing_win_list: '<ul>
 
   <li>Signed Matt Barnes in 2012.</li>
@@ -46,8 +54,9 @@ trade_lose_list: '<ul>
   <li>Lost Sofoklis Schortsanitis to ATL.</li>
 
   </ul>'
-trade_rating: null
-trade_rating_grade: null
+trade_rating_bpm: null
+trade_rating_grade_vorp: null
+trade_rating_vorp: null
 trade_win_list: '<ul>
 
   <li>Added Cheick Diallo to LAC.</li>

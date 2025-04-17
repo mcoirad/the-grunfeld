@@ -13,8 +13,15 @@ draft_description: Tim Connelly ranks in the 89th percentile for drafting among 
   in our database. Connelly's draft picks average out to be worth the equivalent of
   10 spots higher than they were picked due to his good drafting.
 draft_num_players: 14
-draft_rating: 9.9
-draft_rating_grade: A
+draft_rating_bpm: 7.9
+draft_rating_grade_vorp: A
+draft_rating_percentile_bpm: 81.65137614678899
+draft_rating_percentile_vorp: 89.90825688073394
+draft_rating_vorp: 9.9
+draft_total_bpm: 227836
+draft_total_percentile_bpm: 91.9753086419753
+draft_total_percentile_vorp: 91.9753086419753
+draft_total_vorp: 95
 draft_win_list: '<ul>
 
   <li>Drafted Nikola Jokić with 41th pick but was worth 1th pick.</li>
@@ -25,12 +32,13 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: 120182
+final_bpm: 118628
 href: conneti99x
 is_active: true
 name: Tim Connelly
-signing_description: 'Tim Connelly ranks in the 55th percentile for free agency signings
-  among executives in our database. '
+signing_description: Tim Connelly ranks in the 52th percentile for free agency signings
+  among executives in our database. That's basically average. It could be worse though
+  lol.
 signing_lose_list: '<ul>
 
   <li>Signed Jeff Green in 2021.</li>
@@ -40,8 +48,9 @@ signing_lose_list: '<ul>
   <li>Signed Gary Harris in 2017.</li>
 
   </ul>'
-signing_rating: -0.04
-signing_rating_grade: C+
+signing_rating_bpm: -0.43
+signing_rating_grade_vorp: C
+signing_rating_vorp: -0.04
 signing_win_list: '<ul>
 
   <li>Signed Nikola Jokić in 2018.</li>
@@ -67,8 +76,9 @@ trade_lose_list: '<ul>
   <li>Lost Rudy Gobert to UTA.</li>
 
   </ul>'
-trade_rating: -0.11
-trade_rating_grade: D
+trade_rating_bpm: -0.13
+trade_rating_grade_vorp: D
+trade_rating_vorp: -0.11
 trade_win_list: '<ul>
 
   <li>Added Gary Clark, Aaron Gordon to DEN.</li>

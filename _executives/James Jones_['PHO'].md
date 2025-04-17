@@ -4,8 +4,15 @@ draft_bust_list: null
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
 draft_num_players: 1
-draft_rating: null
-draft_rating_grade: null
+draft_rating_bpm: null
+draft_rating_grade_vorp: null
+draft_rating_percentile_bpm: .nan
+draft_rating_percentile_vorp: .nan
+draft_rating_vorp: null
+draft_total_bpm: -1830
+draft_total_percentile_bpm: 17.901234567901234
+draft_total_percentile_vorp: 17.901234567901234
+draft_total_vorp: 0
 draft_win_list: '<ul>
 
   </ul>'
@@ -14,7 +21,7 @@ final_bpm: 25687
 href: jonesja99x
 is_active: true
 name: James Jones
-signing_description: 'James Jones ranks in the 90th percentile for free agency signings
+signing_description: 'James Jones ranks in the 87th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -25,8 +32,9 @@ signing_lose_list: '<ul>
   <li>Signed Eric Gordon in 2023.</li>
 
   </ul>'
-signing_rating: 0.14
-signing_rating_grade: A
+signing_rating_bpm: -0.43
+signing_rating_grade_vorp: A
+signing_rating_vorp: 0.14
 signing_win_list: '<ul>
 
   <li>Signed Chris Paul in 2021.</li>
@@ -41,8 +49,8 @@ team:
 - Phoenix Suns
 team_shortcode:
 - PHO
-trade_description: James Jones ranks in the 53th percentile for trading among executives
-  in our database. That's basically average. It could be worse though lol.
+trade_description: 'James Jones ranks in the 55th percentile for trading among executives
+  in our database. '
 trade_lose_list: '<ul>
 
   <li>Added Jevon Carter, Kyle Korver to PHO.</li>
@@ -50,8 +58,9 @@ trade_lose_list: '<ul>
   <li>Lost Josh Jackson, De''Anthony Melton, Robert Woodard to MEM.</li>
 
   </ul>'
-trade_rating: 0.0
-trade_rating_grade: C+
+trade_rating_bpm: 0.0
+trade_rating_grade_vorp: C+
+trade_rating_vorp: 0.0
 trade_win_list: '<ul>
 
   <li>Added Kevin Durant, T.J. Warren to PHO.</li>

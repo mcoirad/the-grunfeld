@@ -4,8 +4,15 @@ draft_bust_list: null
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
 draft_num_players: 1
-draft_rating: null
-draft_rating_grade: null
+draft_rating_bpm: null
+draft_rating_grade_vorp: null
+draft_rating_percentile_bpm: .nan
+draft_rating_percentile_vorp: .nan
+draft_rating_vorp: null
+draft_total_bpm: -5196
+draft_total_percentile_bpm: 37.65432098765432
+draft_total_percentile_vorp: 37.65432098765432
+draft_total_vorp: 1
 draft_win_list: '<ul>
 
   </ul>'
@@ -25,8 +32,9 @@ signing_lose_list: '<ul>
   <li>Signed Reggie Jackson in 2023.</li>
 
   </ul>'
-signing_rating: -0.14
-signing_rating_grade: D-
+signing_rating_bpm: -0.66
+signing_rating_grade_vorp: D-
+signing_rating_vorp: -0.14
 signing_win_list: '<ul>
 
   <li>Signed Braxton Key in 2023.</li>
@@ -48,8 +56,9 @@ trade_lose_list: '<ul>
   <li>Lost Will Barton, Monte Morris to WAS.</li>
 
   </ul>'
-trade_rating: -0.38
-trade_rating_grade: F
+trade_rating_bpm: -0.12
+trade_rating_grade_vorp: F
+trade_rating_vorp: -0.38
 trade_win_list: '<ul>
 
   <li>Added DaRon Holmes to DEN.</li>

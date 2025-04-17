@@ -13,8 +13,15 @@ draft_description: M.L. Carr ranks in the 4th percentile for drafting among exec
   in our database. Carr's draft picks average out to be worth the equivalent of 14
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
-draft_rating: -14.0
-draft_rating_grade: F
+draft_rating_bpm: -9.2
+draft_rating_grade_vorp: F
+draft_rating_percentile_bpm: 17.431192660550458
+draft_rating_percentile_vorp: 4.587155963302752
+draft_rating_vorp: -14.0
+draft_total_bpm: -30159
+draft_total_percentile_bpm: 54.93827160493827
+draft_total_percentile_vorp: 54.93827160493827
+draft_total_vorp: 12
 draft_win_list: '<ul>
 
   <li>Drafted Steve Hamer with 38th pick but was worth 31th pick.</li>
@@ -27,7 +34,7 @@ final_bpm: -42264
 href: carrml01x
 is_active: false
 name: M.L. Carr
-signing_description: 'M.L. Carr ranks in the 34th percentile for free agency signings
+signing_description: 'M.L. Carr ranks in the 33th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -38,8 +45,9 @@ signing_lose_list: '<ul>
   <li>Signed Marty Conlon in 1996.</li>
 
   </ul>'
-signing_rating: -0.12
-signing_rating_grade: D+
+signing_rating_bpm: -0.38
+signing_rating_grade_vorp: D+
+signing_rating_vorp: -0.12
 signing_win_list: '<ul>
 
   <li>Signed Dana Barros in 1995.</li>
@@ -63,8 +71,9 @@ trade_lose_list: '<ul>
   <li>Lost Sherman Douglas to MIL.</li>
 
   </ul>'
-trade_rating: null
-trade_rating_grade: null
+trade_rating_bpm: null
+trade_rating_grade_vorp: null
+trade_rating_vorp: null
 trade_win_list: '<ul>
 
   <li>Added Antoine Walker, Ron Mercer to BOS.</li>

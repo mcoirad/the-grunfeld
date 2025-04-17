@@ -4,15 +4,22 @@ draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
   a draft grade.
 draft_num_players: 0
-draft_rating: null
-draft_rating_grade: null
+draft_rating_bpm: null
+draft_rating_grade_vorp: null
+draft_rating_percentile_bpm: .nan
+draft_rating_percentile_vorp: .nan
+draft_rating_vorp: null
+draft_total_bpm: 0
+draft_total_percentile_bpm: 32.71604938271605
+draft_total_percentile_vorp: 32.71604938271605
+draft_total_vorp: 0
 draft_win_list: null
 end_year: 2021
 final_bpm: 630
 href: zanikju01x
 is_active: false
 name: Justin Zanik
-signing_description: 'Justin Zanik ranks in the 90th percentile for free agency signings
+signing_description: 'Justin Zanik ranks in the 88th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -23,8 +30,9 @@ signing_lose_list: '<ul>
   <li>Signed Jared Butler in 2021.</li>
 
   </ul>'
-signing_rating: 0.15
-signing_rating_grade: A
+signing_rating_bpm: -0.08
+signing_rating_grade_vorp: A
+signing_rating_vorp: 0.15
 signing_win_list: '<ul>
 
   <li>Signed Mike Conley in 2021.</li>
@@ -48,8 +56,9 @@ trade_lose_list: '<ul>
   <li>Lost Santi Aldama to MEM.</li>
 
   </ul>'
-trade_rating: null
-trade_rating_grade: null
+trade_rating_bpm: null
+trade_rating_grade_vorp: null
+trade_rating_vorp: null
 trade_win_list: '<ul>
 
   <li>Didn''t receive any players or picks.</li>

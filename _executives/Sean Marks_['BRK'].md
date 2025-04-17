@@ -1,5 +1,5 @@
 ---
-bpm_rank: 132
+bpm_rank: 125
 draft_bust_list: '<ul>
 
   <li>Drafted Cameron Thomas with 27th pick but was worth 26th pick.</li>
@@ -11,8 +11,15 @@ draft_description: Sean Marks ranks in the 58th percentile for drafting among ex
   in our database. Marks's draft picks average out to be worth the equivalent of 3
   spots higher than they were picked due to his good drafting.
 draft_num_players: 10
-draft_rating: 2.6
-draft_rating_grade: C+
+draft_rating_bpm: 6.9
+draft_rating_grade_vorp: C+
+draft_rating_percentile_bpm: 79.81651376146789
+draft_rating_percentile_vorp: 58.71559633027523
+draft_rating_vorp: 2.6
+draft_total_bpm: -18691
+draft_total_percentile_bpm: 49.382716049382715
+draft_total_percentile_vorp: 49.382716049382715
+draft_total_vorp: 9
 draft_win_list: '<ul>
 
   <li>Drafted Jarrett Allen with 22th pick but was worth 4th pick.</li>
@@ -23,11 +30,11 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: -90612
+final_bpm: -76231
 href: marksse99x
 is_active: true
 name: Sean Marks
-signing_description: 'Sean Marks ranks in the 70th percentile for free agency signings
+signing_description: 'Sean Marks ranks in the 68th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -38,8 +45,9 @@ signing_lose_list: '<ul>
   <li>Signed Sean Kilpatrick in 2016.</li>
 
   </ul>'
-signing_rating: 0.0
-signing_rating_grade: B
+signing_rating_bpm: -0.35
+signing_rating_grade_vorp: B
+signing_rating_vorp: 0.0
 signing_win_list: '<ul>
 
   <li>Signed Kyrie Irving in 2019.</li>
@@ -54,7 +62,7 @@ team:
 - Brooklyn Nets
 team_shortcode:
 - BRK
-trade_description: 'Sean Marks ranks in the 69th percentile for trading among executives
+trade_description: 'Sean Marks ranks in the 70th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -63,8 +71,9 @@ trade_lose_list: '<ul>
   <li>Lost Kyrie Irving, Markieff Morris to DAL.</li>
 
   </ul>'
-trade_rating: 0.08
-trade_rating_grade: B
+trade_rating_bpm: 0.0
+trade_rating_grade_vorp: B
+trade_rating_vorp: 0.08
 trade_win_list: '<ul>
 
   <li>Added Kevin Durant to BRK.</li>

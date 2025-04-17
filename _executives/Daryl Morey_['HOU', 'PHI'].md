@@ -13,8 +13,15 @@ draft_description: Daryl Morey ranks in the 92th percentile for drafting among e
   in our database. Morey's draft picks average out to be worth the equivalent of 10
   spots higher than they were picked due to his good drafting.
 draft_num_players: 25
-draft_rating: 10.2
-draft_rating_grade: A
+draft_rating_bpm: 13.1
+draft_rating_grade_vorp: A
+draft_rating_percentile_bpm: 97.24770642201835
+draft_rating_percentile_vorp: 92.66055045871559
+draft_rating_vorp: 10.2
+draft_total_bpm: 11065
+draft_total_percentile_bpm: 73.45679012345678
+draft_total_percentile_vorp: 73.45679012345678
+draft_total_vorp: 33
 draft_win_list: '<ul>
 
   <li>Drafted Clint Capela with 25th pick but was worth 4th pick.</li>
@@ -25,11 +32,11 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: 100067
+final_bpm: 101729
 href: moreyda99x
 is_active: true
 name: Daryl Morey
-signing_description: 'Daryl Morey ranks in the 80th percentile for free agency signings
+signing_description: 'Daryl Morey ranks in the 78th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -40,8 +47,9 @@ signing_lose_list: '<ul>
   <li>Signed Corey Brewer in 2015.</li>
 
   </ul>'
-signing_rating: 0.07
-signing_rating_grade: A-
+signing_rating_bpm: -0.36
+signing_rating_grade_vorp: B+
+signing_rating_vorp: 0.07
 signing_win_list: '<ul>
 
   <li>Signed James Harden in 2016.</li>
@@ -58,7 +66,7 @@ team:
 team_shortcode:
 - HOU
 - PHI
-trade_description: 'Daryl Morey ranks in the 43th percentile for trading among executives
+trade_description: 'Daryl Morey ranks in the 42th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -67,8 +75,9 @@ trade_lose_list: '<ul>
   <li>Lost Kyle Lowry to TOR.</li>
 
   </ul>'
-trade_rating: -0.03
-trade_rating_grade: C-
+trade_rating_bpm: 0.15
+trade_rating_grade_vorp: C-
+trade_rating_vorp: -0.03
 trade_win_list: '<ul>
 
   <li>Added Cole Aldrich, Daequan Cook, James Harden, Lazar Hayward to HOU.</li>

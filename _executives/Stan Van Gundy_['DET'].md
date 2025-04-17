@@ -13,8 +13,15 @@ draft_description: Stan Van Gundy ranks in the 38th percentile for drafting amon
   executives in our database. Van's draft picks average out to be worth the equivalent
   of 2 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 6
-draft_rating: -2.3
-draft_rating_grade: D+
+draft_rating_bpm: 1.7
+draft_rating_grade_vorp: D+
+draft_rating_percentile_bpm: 62.38532110091743
+draft_rating_percentile_vorp: 38.53211009174312
+draft_rating_vorp: -2.3
+draft_total_bpm: -27723
+draft_total_percentile_bpm: 11.728395061728396
+draft_total_percentile_vorp: 11.728395061728396
+draft_total_vorp: -1
 draft_win_list: '<ul>
 
   <li>Drafted Darrun Hilliard with 38th pick but was worth 38th pick.</li>
@@ -27,7 +34,7 @@ final_bpm: 16776
 href: vangust01x
 is_active: false
 name: Stan Van Gundy
-signing_description: 'Stan Van Gundy ranks in the 96th percentile for free agency
+signing_description: 'Stan Van Gundy ranks in the 95th percentile for free agency
   signings among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -38,8 +45,9 @@ signing_lose_list: '<ul>
   <li>Signed Ish Smith in 2016.</li>
 
   </ul>'
-signing_rating: 0.23
-signing_rating_grade: A+
+signing_rating_bpm: -0.1
+signing_rating_grade_vorp: A+
+signing_rating_vorp: 0.23
 signing_win_list: '<ul>
 
   <li>Signed Andre Drummond in 2016.</li>
@@ -54,7 +62,7 @@ team:
 - Detroit Pistons
 team_shortcode:
 - DET
-trade_description: 'Stan Van Gundy ranks in the 66th percentile for trading among
+trade_description: 'Stan Van Gundy ranks in the 68th percentile for trading among
   executives in our database. '
 trade_lose_list: '<ul>
 
@@ -63,8 +71,9 @@ trade_lose_list: '<ul>
   <li>Lost Marcus Morris to BOS.</li>
 
   </ul>'
-trade_rating: 0.07
-trade_rating_grade: B-
+trade_rating_bpm: 0.2
+trade_rating_grade_vorp: B
+trade_rating_vorp: 0.07
 trade_win_list: '<ul>
 
   <li>Added Reggie Jackson to DET.</li>

@@ -13,8 +13,15 @@ draft_description: David Griffin ranks in the 43th percentile for drafting among
   in our database. Griffin's draft picks average out to be worth the equivalent of
   1 spot lower than they were picked due to their terrible drafting.
 draft_num_players: 9
-draft_rating: -0.7
-draft_rating_grade: C-
+draft_rating_bpm: -3.1
+draft_rating_grade_vorp: C-
+draft_rating_percentile_bpm: 41.28440366972477
+draft_rating_percentile_vorp: 43.11926605504587
+draft_rating_vorp: -0.7
+draft_total_bpm: 2741
+draft_total_percentile_bpm: 56.17283950617284
+draft_total_percentile_vorp: 56.17283950617284
+draft_total_vorp: 13
 draft_win_list: '<ul>
 
   <li>Drafted Karlo Matkovic with 52th pick but was worth 24th pick.</li>
@@ -27,7 +34,7 @@ final_bpm: 98081
 href: griffin01x
 is_active: true
 name: David Griffin
-signing_description: David Griffin ranks in the 51th percentile for free agency signings
+signing_description: David Griffin ranks in the 49th percentile for free agency signings
   among executives in our database. That's basically average. It could be worse though
   lol.
 signing_lose_list: '<ul>
@@ -39,8 +46,9 @@ signing_lose_list: '<ul>
   <li>Signed Matthew Dellavedova in 2016.</li>
 
   </ul>'
-signing_rating: -0.05
-signing_rating_grade: C
+signing_rating_bpm: -0.4
+signing_rating_grade_vorp: C
+signing_rating_vorp: -0.05
 signing_win_list: '<ul>
 
   <li>Signed LeBron James in 2016.</li>
@@ -67,8 +75,9 @@ trade_lose_list: '<ul>
   <li>Lost Anthony Davis to LAL.</li>
 
   </ul>'
-trade_rating: 0.19
-trade_rating_grade: A-
+trade_rating_bpm: 0.17
+trade_rating_grade_vorp: A-
+trade_rating_vorp: 0.19
 trade_win_list: '<ul>
 
   <li>Added Kevin Love to CLE.</li>

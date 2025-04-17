@@ -11,8 +11,15 @@ draft_description: Rick Pitino ranks in the 11th percentile for drafting among e
   in our database. Pitino's draft picks average out to be worth the equivalent of
   12 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 4
-draft_rating: -11.8
-draft_rating_grade: F
+draft_rating_bpm: -10.0
+draft_rating_grade_vorp: F
+draft_rating_percentile_bpm: 16.513761467889907
+draft_rating_percentile_vorp: 11.009174311926605
+draft_rating_vorp: -11.8
+draft_total_bpm: 159952
+draft_total_percentile_bpm: 85.80246913580247
+draft_total_percentile_vorp: 85.80246913580247
+draft_total_vorp: 64
 draft_win_list: '<ul>
 
   <li>Drafted Paul Pierce with 10th pick but was worth 2th pick.</li>
@@ -34,8 +41,9 @@ signing_lose_list: '<ul>
   <li>Signed Andrew DeClercq in 1997.</li>
 
   </ul>'
-signing_rating: -0.2
-signing_rating_grade: F
+signing_rating_bpm: -0.6
+signing_rating_grade_vorp: F
+signing_rating_vorp: -0.2
 signing_win_list: '<ul>
 
   <li>Signed Tyus Edney in 1997.</li>
@@ -57,8 +65,9 @@ trade_lose_list: '<ul>
   <li>Lost Andrew DeClercq, Andre Miller to CLE.</li>
 
   </ul>'
-trade_rating: 0.36
-trade_rating_grade: A+
+trade_rating_bpm: 0.18
+trade_rating_grade_vorp: A+
+trade_rating_vorp: 0.36
 trade_win_list: '<ul>
 
   <li>Added Roy Rogers to BOS.</li>

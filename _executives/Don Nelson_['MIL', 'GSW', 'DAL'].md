@@ -13,8 +13,15 @@ draft_description: Don Nelson ranks in the 66th percentile for drafting among ex
   in our database. Nelson's draft picks average out to be worth the equivalent of
   4 spots higher than they were picked due to his good drafting.
 draft_num_players: 30
-draft_rating: 3.5
-draft_rating_grade: B-
+draft_rating_bpm: -2.7
+draft_rating_grade_vorp: B-
+draft_rating_percentile_bpm: 43.11926605504587
+draft_rating_percentile_vorp: 66.97247706422019
+draft_rating_vorp: 3.5
+draft_total_bpm: 202632
+draft_total_percentile_bpm: 97.53086419753086
+draft_total_percentile_vorp: 97.53086419753086
+draft_total_vorp: 142
 draft_win_list: '<ul>
 
   <li>Drafted Tim Hardaway with 14th pick but was worth 1th pick.</li>
@@ -29,7 +36,7 @@ final_bpm: 142877
 href: nelsodo01x
 is_active: false
 name: Don Nelson
-signing_description: 'Don Nelson ranks in the 37th percentile for free agency signings
+signing_description: 'Don Nelson ranks in the 35th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -40,8 +47,9 @@ signing_lose_list: '<ul>
   <li>Signed Tom Tolbert in 1989.</li>
 
   </ul>'
-signing_rating: -0.11
-signing_rating_grade: D+
+signing_rating_bpm: -0.5
+signing_rating_grade_vorp: D+
+signing_rating_vorp: -0.11
 signing_win_list: '<ul>
 
   <li>Signed John Lucas in 1987.</li>
@@ -60,7 +68,7 @@ team_shortcode:
 - MIL
 - GSW
 - DAL
-trade_description: 'Don Nelson ranks in the 44th percentile for trading among executives
+trade_description: 'Don Nelson ranks in the 42th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -69,8 +77,9 @@ trade_lose_list: '<ul>
   <li>Lost Gary Payton to SEA.</li>
 
   </ul>'
-trade_rating: -0.02
-trade_rating_grade: C-
+trade_rating_bpm: -0.02
+trade_rating_grade_vorp: C-
+trade_rating_vorp: -0.02
 trade_win_list: '<ul>
 
   <li>Added Pat Garrity, Dirk Nowitzki to DAL.</li>

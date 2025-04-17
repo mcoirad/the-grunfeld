@@ -1,5 +1,5 @@
 ---
-bpm_rank: 131
+bpm_rank: 132
 draft_bust_list: '<ul>
 
   <li>Drafted Felton Spencer with 6th pick but was worth 50th pick.</li>
@@ -13,8 +13,15 @@ draft_description: Billy McKinney ranks in the 30th percentile for drafting amon
   executives in our database. McKinney's draft picks average out to be worth the equivalent
   of 5 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 8
-draft_rating: -4.8
-draft_rating_grade: D
+draft_rating_bpm: -7.2
+draft_rating_grade_vorp: D
+draft_rating_percentile_bpm: 24.770642201834864
+draft_rating_percentile_vorp: 30.275229357798164
+draft_rating_vorp: -4.8
+draft_total_bpm: 20744
+draft_total_percentile_bpm: 79.62962962962963
+draft_total_percentile_vorp: 79.62962962962963
+draft_total_vorp: 42
 draft_win_list: '<ul>
 
   <li>Drafted Gary Leonard with 34th pick but was worth 27th pick.</li>
@@ -29,7 +36,7 @@ final_bpm: -87831
 href: mckinbi01x
 is_active: false
 name: Billy McKinney
-signing_description: 'Billy McKinney ranks in the 24th percentile for free agency
+signing_description: 'Billy McKinney ranks in the 23th percentile for free agency
   signings among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -40,8 +47,9 @@ signing_lose_list: '<ul>
   <li>Signed Tod Murphy in 1989.</li>
 
   </ul>'
-signing_rating: -0.14
-signing_rating_grade: D-
+signing_rating_bpm: -0.63
+signing_rating_grade_vorp: D-
+signing_rating_vorp: -0.14
 signing_win_list: '<ul>
 
   <li>Signed Tracy Moore in 1993.</li>
@@ -65,8 +73,9 @@ trade_lose_list: '<ul>
   <li>Lost Brad Lohaus, Duane Cooper to MIL.</li>
 
   </ul>'
-trade_rating: -0.38
-trade_rating_grade: F
+trade_rating_bpm: -0.38
+trade_rating_grade_vorp: F
+trade_rating_vorp: -0.38
 trade_win_list: '<ul>
 
   <li>Added Pete Chilcutt, Jevon Crudup, Cal Bowdler to DET.</li>

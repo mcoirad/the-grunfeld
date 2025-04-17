@@ -1,5 +1,5 @@
 ---
-bpm_rank: 128
+bpm_rank: 129
 draft_bust_list: '<ul>
 
   <li>Drafted Gerald Henderson with 12th pick but was worth 30th pick.</li>
@@ -13,8 +13,15 @@ draft_description: Rod Higgins ranks in the 27th percentile for drafting among e
   in our database. Higgins's draft picks average out to be worth the equivalent of
   5 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
-draft_rating: -5.4
-draft_rating_grade: D
+draft_rating_bpm: -10.4
+draft_rating_grade_vorp: D
+draft_rating_percentile_bpm: 15.596330275229358
+draft_rating_percentile_vorp: 27.522935779816514
+draft_rating_vorp: -5.4
+draft_total_bpm: -23935
+draft_total_percentile_bpm: 45.06172839506173
+draft_total_percentile_vorp: 45.06172839506173
+draft_total_vorp: 4
 draft_win_list: '<ul>
 
   <li>Drafted Derrick Brown with 40th pick but was worth 32th pick.</li>
@@ -38,15 +45,16 @@ signing_lose_list: '<ul>
   <li>Signed Dominic McGuire in 2011.</li>
 
   </ul>'
-signing_rating: -0.19
-signing_rating_grade: F
+signing_rating_bpm: -0.71
+signing_rating_grade_vorp: F
+signing_rating_vorp: -0.19
 signing_win_list: null
 start_year: 2007
 team:
 - Charlotte Hornets
 team_shortcode:
 - CHA
-trade_description: 'Rod Higgins ranks in the 3th percentile for trading among executives
+trade_description: 'Rod Higgins ranks in the 4th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -55,8 +63,9 @@ trade_lose_list: '<ul>
   <li>Lost Alexis Ajinça, Tyson Chandler to DAL.</li>
 
   </ul>'
-trade_rating: -0.4
-trade_rating_grade: F
+trade_rating_bpm: -0.4
+trade_rating_grade_vorp: F
+trade_rating_vorp: -0.4
 trade_win_list: '<ul>
 
   <li>Added Jermareo Davidson, Jason Richardson to CHA.</li>

@@ -4,8 +4,15 @@ draft_bust_list: null
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
 draft_num_players: 1
-draft_rating: null
-draft_rating_grade: null
+draft_rating_bpm: null
+draft_rating_grade_vorp: null
+draft_rating_percentile_bpm: .nan
+draft_rating_percentile_vorp: .nan
+draft_rating_vorp: null
+draft_total_bpm: 37658
+draft_total_percentile_bpm: 61.72839506172839
+draft_total_percentile_vorp: 61.72839506172839
+draft_total_vorp: 18
 draft_win_list: '<ul>
 
   </ul>'
@@ -25,8 +32,9 @@ signing_lose_list: '<ul>
   <li>Signed Sherman Douglas in 1997.</li>
 
   </ul>'
-signing_rating: -0.24
-signing_rating_grade: F
+signing_rating_bpm: -0.56
+signing_rating_grade_vorp: F
+signing_rating_vorp: -0.24
 signing_win_list: '<ul>
 
   <li>Signed Scott Burrell in 1999.</li>
@@ -50,8 +58,9 @@ trade_lose_list: '<ul>
   <li>Lost Sam Cassell, Chris Gatling to MIL.</li>
 
   </ul>'
-trade_rating: -0.12
-trade_rating_grade: D-
+trade_rating_bpm: 0.0
+trade_rating_grade_vorp: D-
+trade_rating_vorp: -0.12
 trade_win_list: '<ul>
 
   <li>Added Sam Cassell, Chris Gatling, Jim Jackson, George McCloud, Eric Montross

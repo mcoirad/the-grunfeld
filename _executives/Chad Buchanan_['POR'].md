@@ -4,8 +4,15 @@ draft_bust_list: null
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
 draft_num_players: 1
-draft_rating: null
-draft_rating_grade: null
+draft_rating_bpm: null
+draft_rating_grade_vorp: null
+draft_rating_percentile_bpm: .nan
+draft_rating_percentile_vorp: .nan
+draft_rating_vorp: null
+draft_total_bpm: -4963
+draft_total_percentile_bpm: 11.11111111111111
+draft_total_percentile_vorp: 11.11111111111111
+draft_total_vorp: -1
 draft_win_list: '<ul>
 
   </ul>'
@@ -14,8 +21,8 @@ final_bpm: 109677
 href: buchach99x
 is_active: false
 name: Chad Buchanan
-signing_description: This executive has only made 5 signings in free agency and thus
-  doesn't have a signing grade.
+signing_description: 'Chad Buchanan ranks in the 99th percentile for free agency signings
+  among executives in our database. '
 signing_lose_list: '<ul>
 
   <li>Signed Joel Przybilla in 2012.</li>
@@ -25,8 +32,9 @@ signing_lose_list: '<ul>
   <li>Signed Craig Smith in 2011.</li>
 
   </ul>'
-signing_rating: .nan
-signing_rating_grade: null
+signing_rating_bpm: -0.6
+signing_rating_grade_vorp: S
+signing_rating_vorp: 0.4
 signing_win_list: '<ul>
 
   <li>Signed J.J. Hickson in 2012.</li>
@@ -46,8 +54,9 @@ trade_lose_list: '<ul>
   <li>Lost Marcus Camby to HOU.</li>
 
   </ul>'
-trade_rating: null
-trade_rating_grade: null
+trade_rating_bpm: null
+trade_rating_grade_vorp: null
+trade_rating_vorp: null
 trade_win_list: '<ul>
 
   <li>Added Mehmet Okur, Shawne Williams, Damian Lillard to POR.</li>

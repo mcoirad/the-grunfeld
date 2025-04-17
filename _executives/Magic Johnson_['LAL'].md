@@ -1,5 +1,5 @@
 ---
-bpm_rank: 37
+bpm_rank: 36
 draft_bust_list: '<ul>
 
   <li>Drafted Lonzo Ball with 2th pick but was worth 12th pick.</li>
@@ -10,8 +10,15 @@ draft_bust_list: '<ul>
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
-draft_rating: null
-draft_rating_grade: null
+draft_rating_bpm: null
+draft_rating_grade_vorp: null
+draft_rating_percentile_bpm: .nan
+draft_rating_percentile_vorp: .nan
+draft_rating_vorp: null
+draft_total_bpm: -2749
+draft_total_percentile_bpm: 36.41975308641975
+draft_total_percentile_vorp: 36.41975308641975
+draft_total_vorp: 1
 draft_win_list: '<ul>
 
   <li>Drafted Moritz Wagner with 25th pick but was worth 17th pick.</li>
@@ -22,7 +29,7 @@ final_bpm: 47930
 href: johnsma01x
 is_active: false
 name: Magic Johnson
-signing_description: 'Magic Johnson ranks in the 93th percentile for free agency signings
+signing_description: 'Magic Johnson ranks in the 90th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -33,8 +40,9 @@ signing_lose_list: '<ul>
   <li>Signed Kentavious Caldwell-Pope in 2018.</li>
 
   </ul>'
-signing_rating: 0.17
-signing_rating_grade: A+
+signing_rating_bpm: -0.33
+signing_rating_grade_vorp: A
+signing_rating_vorp: 0.17
 signing_win_list: '<ul>
 
   <li>Signed LeBron James in 2018.</li>
@@ -58,8 +66,9 @@ trade_lose_list: '<ul>
   <li>Lost Michael Beasley, Ivica Zubac to LAC.</li>
 
   </ul>'
-trade_rating: -0.25
-trade_rating_grade: F
+trade_rating_bpm: -0.75
+trade_rating_grade_vorp: F
+trade_rating_vorp: -0.25
 trade_win_list: '<ul>
 
   <li>Added Reggie Bullock to LAL.</li>

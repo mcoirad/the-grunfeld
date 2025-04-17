@@ -13,8 +13,15 @@ draft_description: Masai Ujiri ranks in the 69th percentile for drafting among e
   in our database. Ujiri's draft picks average out to be worth the equivalent of 4
   spots higher than they were picked due to his good drafting.
 draft_num_players: 20
-draft_rating: 4.0
-draft_rating_grade: B
+draft_rating_bpm: 4.6
+draft_rating_grade_vorp: B
+draft_rating_percentile_bpm: 75.22935779816514
+draft_rating_percentile_vorp: 69.72477064220183
+draft_rating_vorp: 4.0
+draft_total_bpm: 21777
+draft_total_percentile_bpm: 79.01234567901234
+draft_total_percentile_vorp: 79.01234567901234
+draft_total_vorp: 41
 draft_win_list: '<ul>
 
   <li>Drafted Pascal Siakam with 27th pick but was worth 2th pick.</li>
@@ -25,11 +32,11 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: 72878
+final_bpm: 73833
 href: ujirima99x
 is_active: true
 name: Masai Ujiri
-signing_description: 'Masai Ujiri ranks in the 83th percentile for free agency signings
+signing_description: 'Masai Ujiri ranks in the 80th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -40,8 +47,9 @@ signing_lose_list: '<ul>
   <li>Signed Jalen McDaniels in 2023.</li>
 
   </ul>'
-signing_rating: 0.07
-signing_rating_grade: A-
+signing_rating_bpm: -0.25
+signing_rating_grade_vorp: A-
+signing_rating_vorp: 0.07
 signing_win_list: '<ul>
 
   <li>Signed Pascal Siakam in 2019.</li>
@@ -58,7 +66,7 @@ team:
 team_shortcode:
 - DEN
 - TOR
-trade_description: 'Masai Ujiri ranks in the 70th percentile for trading among executives
+trade_description: 'Masai Ujiri ranks in the 71th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -71,8 +79,9 @@ trade_lose_list: '<ul>
   <li>Lost Richaun Holmes to MIN.</li>
 
   </ul>'
-trade_rating: 0.08
-trade_rating_grade: B
+trade_rating_bpm: 0.21
+trade_rating_grade_vorp: B
+trade_rating_vorp: 0.08
 trade_win_list: '<ul>
 
   <li>Added Drew Eubanks, Thaddeus Young, Christian Koloko to TOR.</li>

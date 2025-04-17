@@ -13,8 +13,15 @@ draft_description: Troy Weaver ranks in the 5th percentile for drafting among ex
   in our database. Weaver's draft picks average out to be worth the equivalent of
   14 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 6
-draft_rating: -13.5
-draft_rating_grade: F
+draft_rating_bpm: -15.2
+draft_rating_grade_vorp: F
+draft_rating_percentile_bpm: 7.339449541284404
+draft_rating_percentile_vorp: 5.504587155963303
+draft_rating_vorp: -13.5
+draft_total_bpm: -38880
+draft_total_percentile_bpm: 40.123456790123456
+draft_total_percentile_vorp: 40.123456790123456
+draft_total_vorp: 2
 draft_win_list: '<ul>
 
   </ul>'
@@ -23,8 +30,9 @@ final_bpm: -95153
 href: weavetr99x
 is_active: false
 name: Troy Weaver
-signing_description: 'Troy Weaver ranks in the 56th percentile for free agency signings
-  among executives in our database. '
+signing_description: Troy Weaver ranks in the 54th percentile for free agency signings
+  among executives in our database. That's basically average. It could be worse though
+  lol.
 signing_lose_list: '<ul>
 
   <li>Signed Isaiah Stewart in 2020.</li>
@@ -34,8 +42,9 @@ signing_lose_list: '<ul>
   <li>Signed Cory Joseph in 2021.</li>
 
   </ul>'
-signing_rating: -0.03
-signing_rating_grade: C+
+signing_rating_bpm: -0.51
+signing_rating_grade_vorp: C+
+signing_rating_vorp: -0.03
 signing_win_list: '<ul>
 
   <li>Signed Jalen Duren in 2022.</li>
@@ -59,8 +68,9 @@ trade_lose_list: '<ul>
   <li>Lost Christian Wood, Luka Garza to HOU.</li>
 
   </ul>'
-trade_rating: -0.3
-trade_rating_grade: F
+trade_rating_bpm: -0.15
+trade_rating_grade_vorp: F
+trade_rating_vorp: -0.3
 trade_win_list: '<ul>
 
   <li>Added Balša Koprivica to DET.</li>

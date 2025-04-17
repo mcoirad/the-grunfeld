@@ -1,5 +1,5 @@
 ---
-bpm_rank: 10
+bpm_rank: 11
 draft_bust_list: '<ul>
 
   <li>Drafted Justise Winslow with 10th pick but was worth 34th pick.</li>
@@ -13,8 +13,15 @@ draft_description: Pat Riley ranks in the 68th percentile for drafting among exe
   in our database. Riley's draft picks average out to be worth the equivalent of 4
   spots higher than they were picked due to his good drafting.
 draft_num_players: 11
-draft_rating: 3.8
-draft_rating_grade: B
+draft_rating_bpm: -1.4
+draft_rating_grade_vorp: B
+draft_rating_percentile_bpm: 51.37614678899082
+draft_rating_percentile_vorp: 68.80733944954129
+draft_rating_vorp: 3.8
+draft_total_bpm: 24368
+draft_total_percentile_bpm: 74.69135802469135
+draft_total_percentile_vorp: 74.69135802469135
+draft_total_vorp: 34
 draft_win_list: '<ul>
 
   <li>Drafted Bam Adebayo with 14th pick but was worth 3th pick.</li>
@@ -25,11 +32,11 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: 192967
+final_bpm: 189704
 href: rileypa01x
 is_active: true
 name: Pat Riley
-signing_description: 'Pat Riley ranks in the 83th percentile for free agency signings
+signing_description: 'Pat Riley ranks in the 81th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -40,8 +47,9 @@ signing_lose_list: '<ul>
   <li>Signed Rodney McGruder in 2016.</li>
 
   </ul>'
-signing_rating: 0.08
-signing_rating_grade: A-
+signing_rating_bpm: -0.31
+signing_rating_grade_vorp: A-
+signing_rating_vorp: 0.08
 signing_win_list: '<ul>
 
   <li>Signed Dwyane Wade in 2010.</li>
@@ -56,7 +64,7 @@ team:
 - Miami Heat
 team_shortcode:
 - MIA
-trade_description: 'Pat Riley ranks in the 64th percentile for trading among executives
+trade_description: 'Pat Riley ranks in the 65th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -65,8 +73,9 @@ trade_lose_list: '<ul>
   <li>Lost Bojan Bogdanović to MIN.</li>
 
   </ul>'
-trade_rating: 0.06
-trade_rating_grade: B-
+trade_rating_bpm: -0.04
+trade_rating_grade_vorp: B-
+trade_rating_vorp: 0.06
 trade_win_list: '<ul>
 
   <li>Added LeBron James to MIA.</li>

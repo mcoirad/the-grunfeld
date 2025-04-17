@@ -170,8 +170,8 @@ layout: default
     
     <div class="col-md-3">
       <h3> Draft Rating:</h3>
-      <p style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);"> {{ executive.draft_rating_grade}}</h3>
-      <h5> Total Draft Value: {{ executive.draft_rating }} </h5>
+      <p style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);"> {{ executive.draft_rating_grade_vorp}}</h3>
+      <h5> Total Draft Value: {{ executive.draft_rating_vorp }} </h5>
     </div>
     <div class="col-md-9">
     <div class="col-md-9"><canvas id="executive_draft_chart"></canvas></div>
@@ -190,7 +190,7 @@ layout: default
   <div class="row">
     <div class="col-md-3">
       <h3> Trade Rating:</h3>
-      <p style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);"> {{ executive.trade_rating_grade}}</h3>
+      <p style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);"> {{ executive.trade_rating_grade_vorp}}</h3>
     </div>
     <div class="col-md-9">
       {{ executive.trade_description}}
@@ -207,7 +207,7 @@ layout: default
   <div class="row">
     <div class="col-md-3">
       <h3> Signing Rating:</h3>
-      <p style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);"> {{ executive.signing_rating_grade}}</h3>
+      <p style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);"> {{ executive.signing_rating_grade_vorp}}</h3>
     </div>
     <div class="col-md-9">
       {{ executive.signing_description}}

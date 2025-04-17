@@ -13,8 +13,15 @@ draft_description: Jeff Weltman ranks in the 11th percentile for drafting among 
   in our database. Weltman's draft picks average out to be worth the equivalent of
   12 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 14
-draft_rating: -11.7
-draft_rating_grade: F
+draft_rating_bpm: -15.0
+draft_rating_grade_vorp: F
+draft_rating_percentile_bpm: 8.256880733944953
+draft_rating_percentile_vorp: 11.926605504587156
+draft_rating_vorp: -11.7
+draft_total_bpm: -31604
+draft_total_percentile_bpm: 63.58024691358025
+draft_total_percentile_vorp: 63.58024691358025
+draft_total_vorp: 21
 draft_win_list: '<ul>
 
   <li>Drafted Franz Wagner with 8th pick but was worth 5th pick.</li>
@@ -25,7 +32,7 @@ final_bpm: -105155
 href: weltmje01x
 is_active: true
 name: Jeff Weltman
-signing_description: 'Jeff Weltman ranks in the 25th percentile for free agency signings
+signing_description: 'Jeff Weltman ranks in the 24th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -36,8 +43,9 @@ signing_lose_list: '<ul>
   <li>Signed Dwayne Bacon in 2020.</li>
 
   </ul>'
-signing_rating: -0.14
-signing_rating_grade: D-
+signing_rating_bpm: -0.36
+signing_rating_grade_vorp: D-
+signing_rating_vorp: -0.14
 signing_win_list: '<ul>
 
   <li>Signed Nikola Vučević in 2019.</li>
@@ -61,8 +69,9 @@ trade_lose_list: '<ul>
   <li>Lost Gary Clark, Aaron Gordon to DEN.</li>
 
   </ul>'
-trade_rating: 0.2
-trade_rating_grade: A-
+trade_rating_bpm: 0.2
+trade_rating_grade_vorp: A-
+trade_rating_vorp: 0.2
 trade_win_list: '<ul>
 
   <li>Added Jerian Grant, Timofey Mozgov to ORL.</li>

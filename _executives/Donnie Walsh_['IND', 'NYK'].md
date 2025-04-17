@@ -13,8 +13,15 @@ draft_description: Donnie Walsh ranks in the 62th percentile for drafting among 
   in our database. Walsh's draft picks average out to be worth the equivalent of 3
   spots higher than they were picked due to his good drafting.
 draft_num_players: 28
-draft_rating: 2.8
-draft_rating_grade: B-
+draft_rating_bpm: -7.1
+draft_rating_grade_vorp: B-
+draft_rating_percentile_bpm: 26.605504587155963
+draft_rating_percentile_vorp: 62.38532110091743
+draft_rating_vorp: 2.8
+draft_total_bpm: 89755
+draft_total_percentile_bpm: 95.06172839506173
+draft_total_percentile_vorp: 95.06172839506173
+draft_total_vorp: 117
 draft_win_list: '<ul>
 
   <li>Drafted Reggie Miller with 11th pick but was worth 2th pick.</li>
@@ -29,7 +36,7 @@ final_bpm: 307200
 href: walshdo99x
 is_active: false
 name: Donnie Walsh
-signing_description: Donnie Walsh ranks in the 48th percentile for free agency signings
+signing_description: Donnie Walsh ranks in the 47th percentile for free agency signings
   among executives in our database. That's basically average. It could be worse though
   lol.
 signing_lose_list: '<ul>
@@ -41,8 +48,9 @@ signing_lose_list: '<ul>
   <li>Signed Žan Tabak in 1999.</li>
 
   </ul>'
-signing_rating: -0.06
-signing_rating_grade: C
+signing_rating_bpm: -0.53
+signing_rating_grade_vorp: C
+signing_rating_vorp: -0.06
 signing_win_list: '<ul>
 
   <li>Signed Micheal Williams in 1990.</li>
@@ -68,8 +76,9 @@ trade_lose_list: '<ul>
   <li>Lost Detlef Schrempf to SEA.</li>
 
   </ul>'
-trade_rating: 0.37
-trade_rating_grade: A+
+trade_rating_bpm: 0.2
+trade_rating_grade_vorp: A+
+trade_rating_vorp: 0.37
 trade_win_list: '<ul>
 
   <li>Added Detlef Schrempf, Antonio Davis to IND.</li>

@@ -1,5 +1,5 @@
 ---
-bpm_rank: 56
+bpm_rank: 53
 draft_bust_list: '<ul>
 
   <li>Drafted Jaylen Wells with 39th pick but was worth 25th pick.</li>
@@ -11,8 +11,15 @@ draft_description: Zach Kleiman ranks in the 97th percentile for drafting among 
   in our database. Kleiman's draft picks average out to be worth the equivalent of
   13 spots higher than they were picked due to his good drafting.
 draft_num_players: 5
-draft_rating: 13.0
-draft_rating_grade: S
+draft_rating_bpm: 4.4
+draft_rating_grade_vorp: S
+draft_rating_percentile_bpm: 74.31192660550458
+draft_rating_percentile_vorp: 97.24770642201835
+draft_rating_vorp: 13.0
+draft_total_bpm: 10472
+draft_total_percentile_bpm: 56.79012345679013
+draft_total_percentile_vorp: 56.79012345679013
+draft_total_vorp: 13
 draft_win_list: '<ul>
 
   <li>Drafted Vince Williams Jr. with 47th pick but was worth 19th pick.</li>
@@ -21,11 +28,11 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: 5625
+final_bpm: 9751
 href: kleimza99x
 is_active: true
 name: Zach Kleiman
-signing_description: 'Zach Kleiman ranks in the 44th percentile for free agency signings
+signing_description: 'Zach Kleiman ranks in the 42th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -36,8 +43,9 @@ signing_lose_list: '<ul>
   <li>Signed David Roddy in 2022.</li>
 
   </ul>'
-signing_rating: -0.07
-signing_rating_grade: C-
+signing_rating_bpm: -0.29
+signing_rating_grade_vorp: C-
+signing_rating_vorp: -0.07
 signing_win_list: '<ul>
 
   <li>Signed Desmond Bane in 2020.</li>
@@ -62,8 +70,9 @@ trade_lose_list: '<ul>
   <li>Lost Mike Conley to UTA.</li>
 
   </ul>'
-trade_rating: 0.16
-trade_rating_grade: B+
+trade_rating_bpm: 0.06
+trade_rating_grade_vorp: B+
+trade_rating_vorp: 0.16
 trade_win_list: '<ul>
 
   <li>Added Brandon Clarke to MEM.</li>

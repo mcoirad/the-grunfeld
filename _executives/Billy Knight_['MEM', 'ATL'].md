@@ -13,8 +13,15 @@ draft_description: Billy Knight ranks in the 31th percentile for drafting among 
   in our database. Knight's draft picks average out to be worth the equivalent of
   4 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 17
-draft_rating: -4.4
-draft_rating_grade: D
+draft_rating_bpm: -3.9
+draft_rating_grade_vorp: D
+draft_rating_percentile_bpm: 34.862385321100916
+draft_rating_percentile_vorp: 31.192660550458715
+draft_rating_vorp: -4.4
+draft_total_bpm: 51310
+draft_total_percentile_bpm: 87.65432098765432
+draft_total_percentile_vorp: 87.65432098765432
+draft_total_vorp: 65
 draft_win_list: '<ul>
 
   <li>Drafted Josh Smith with 17th pick but was worth 3th pick.</li>
@@ -40,8 +47,9 @@ signing_lose_list: '<ul>
   <li>Signed Rodney Buford in 2001.</li>
 
   </ul>'
-signing_rating: -0.49
-signing_rating_grade: F
+signing_rating_bpm: -0.55
+signing_rating_grade_vorp: F
+signing_rating_vorp: -0.49
 signing_win_list: '<ul>
 
   <li>Signed Stephen Jackson in 2003.</li>
@@ -58,7 +66,7 @@ team:
 team_shortcode:
 - MEM
 - ATL
-trade_description: 'Billy Knight ranks in the 3th percentile for trading among executives
+trade_description: 'Billy Knight ranks in the 5th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -67,8 +75,9 @@ trade_lose_list: '<ul>
   <li>Lost Alan Henderson, Jason Terry to DAL.</li>
 
   </ul>'
-trade_rating: -0.39
-trade_rating_grade: F
+trade_rating_bpm: -0.06
+trade_rating_grade_vorp: F
+trade_rating_vorp: -0.39
 trade_win_list: '<ul>
 
   <li>Added Joe Johnson to ATL.</li>

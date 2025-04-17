@@ -5,8 +5,15 @@ draft_description: Del Harris ranks in the 20th percentile for drafting among ex
   in our database. Harris's draft picks average out to be worth the equivalent of
   7 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 4
-draft_rating: -7.0
-draft_rating_grade: D-
+draft_rating_bpm: -0.2
+draft_rating_grade_vorp: D-
+draft_rating_percentile_bpm: 55.04587155963303
+draft_rating_percentile_vorp: 20.18348623853211
+draft_rating_vorp: -7.0
+draft_total_bpm: -19762
+draft_total_percentile_bpm: 6.172839506172839
+draft_total_percentile_vorp: 6.172839506172839
+draft_total_vorp: -2
 draft_win_list: '<ul>
 
   <li>Drafted Steve Henson with 44th pick but was worth 20th pick.</li>
@@ -32,8 +39,9 @@ signing_lose_list: '<ul>
   <li>Signed Ben Coleman in 1989.</li>
 
   </ul>'
-signing_rating: -0.2
-signing_rating_grade: F
+signing_rating_bpm: -0.56
+signing_rating_grade_vorp: F
+signing_rating_vorp: -0.2
 signing_win_list: '<ul>
 
   <li>Signed Rickey Green in 1989.</li>
@@ -55,8 +63,9 @@ trade_lose_list: '<ul>
   <li>Lost Charles Davis, Reggie Turner to SAS.</li>
 
   </ul>'
-trade_rating: 0.2
-trade_rating_grade: A-
+trade_rating_bpm: -0.07
+trade_rating_grade_vorp: A-
+trade_rating_vorp: 0.2
 trade_win_list: '<ul>
 
   <li>Added Greg Anderson, Alvin Robertson, Frank Kornet to MIL.</li>

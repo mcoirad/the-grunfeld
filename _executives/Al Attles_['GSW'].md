@@ -13,8 +13,15 @@ draft_description: Al Attles ranks in the 99th percentile for drafting among exe
   in our database. Attles's draft picks average out to be worth the equivalent of
   17 spots higher than they were picked due to his good drafting.
 draft_num_players: 30
-draft_rating: 17.2
-draft_rating_grade: S
+draft_rating_bpm: 19.5
+draft_rating_grade_vorp: S
+draft_rating_percentile_bpm: 99.08256880733946
+draft_rating_percentile_vorp: 99.08256880733946
+draft_rating_vorp: 17.2
+draft_total_bpm: 22777
+draft_total_percentile_bpm: 88.88888888888889
+draft_total_percentile_vorp: 88.88888888888889
+draft_total_vorp: 72
 draft_win_list: '<ul>
 
   <li>Drafted Robert Parish with 8th pick but was worth 2th pick.</li>
@@ -29,7 +36,7 @@ final_bpm: -221905
 href: attleal01x
 is_active: false
 name: Al Attles
-signing_description: 'Al Attles ranks in the 20th percentile for free agency signings
+signing_description: 'Al Attles ranks in the 19th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -40,8 +47,9 @@ signing_lose_list: '<ul>
   <li>Signed E.C. Coleman in 1977.</li>
 
   </ul>'
-signing_rating: -0.16
-signing_rating_grade: D-
+signing_rating_bpm: -0.64
+signing_rating_grade_vorp: F
+signing_rating_vorp: -0.16
 signing_win_list: '<ul>
 
   <li>Signed Joe Hassett in 1981.</li>
@@ -52,7 +60,7 @@ team:
 - Golden State Warriors
 team_shortcode:
 - GSW
-trade_description: 'Al Attles ranks in the 42th percentile for trading among executives
+trade_description: 'Al Attles ranks in the 41th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -61,8 +69,9 @@ trade_lose_list: '<ul>
   <li>Lost Robert Parish, Kevin McHale to BOS.</li>
 
   </ul>'
-trade_rating: -0.04
-trade_rating_grade: C-
+trade_rating_bpm: 0.0
+trade_rating_grade_vorp: C-
+trade_rating_vorp: -0.04
 trade_win_list: '<ul>
 
   <li>Added Bernard King to GSW.</li>

@@ -13,8 +13,15 @@ draft_description: Kevin O'Connor ranks in the 63th percentile for drafting amon
   executives in our database. O'Connor's draft picks average out to be worth the equivalent
   of 3 spots higher than they were picked due to his good drafting.
 draft_num_players: 21
-draft_rating: 2.9
-draft_rating_grade: B-
+draft_rating_bpm: 1.6
+draft_rating_grade_vorp: B-
+draft_rating_percentile_bpm: 61.46788990825688
+draft_rating_percentile_vorp: 63.30275229357798
+draft_rating_vorp: 2.9
+draft_total_bpm: 8181
+draft_total_percentile_bpm: 82.71604938271605
+draft_total_percentile_vorp: 82.71604938271605
+draft_total_vorp: 52
 draft_win_list: '<ul>
 
   <li>Drafted Paul Millsap with 47th pick but was worth 3th pick.</li>
@@ -40,8 +47,9 @@ signing_lose_list: '<ul>
   <li>Signed Keith McLeod in 2004.</li>
 
   </ul>'
-signing_rating: -0.29
-signing_rating_grade: F
+signing_rating_bpm: -0.68
+signing_rating_grade_vorp: F
+signing_rating_vorp: -0.29
 signing_win_list: '<ul>
 
   <li>Signed Carlos Boozer in 2004.</li>
@@ -65,8 +73,9 @@ trade_lose_list: '<ul>
   <li>Lost Herbert Hill to PHI.</li>
 
   </ul>'
-trade_rating: 0.48
-trade_rating_grade: A+
+trade_rating_bpm: 0.12
+trade_rating_grade_vorp: A+
+trade_rating_vorp: 0.48
 trade_win_list: '<ul>
 
   <li>Added Al Jefferson to UTA.</li>

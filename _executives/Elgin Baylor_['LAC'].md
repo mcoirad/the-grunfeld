@@ -13,8 +13,15 @@ draft_description: Elgin Baylor ranks in the 36th percentile for drafting among 
   in our database. Baylor's draft picks average out to be worth the equivalent of
   3 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 41
-draft_rating: -3.4
-draft_rating_grade: D+
+draft_rating_bpm: -5.0
+draft_rating_grade_vorp: D+
+draft_rating_percentile_bpm: 32.11009174311926
+draft_rating_percentile_vorp: 36.69724770642202
+draft_rating_vorp: -3.4
+draft_total_bpm: -240165
+draft_total_percentile_bpm: 75.30864197530865
+draft_total_percentile_vorp: 75.30864197530865
+draft_total_vorp: 34
 draft_win_list: '<ul>
 
   <li>Drafted DeAndre Jordan with 35th pick but was worth 5th pick.</li>
@@ -40,8 +47,9 @@ signing_lose_list: '<ul>
   <li>Signed Jeff McInnis in 2000.</li>
 
   </ul>'
-signing_rating: -0.19
-signing_rating_grade: F
+signing_rating_bpm: -0.65
+signing_rating_grade_vorp: F
+signing_rating_vorp: -0.19
 signing_win_list: '<ul>
 
   <li>Signed Bo Outlaw in 1994.</li>
@@ -56,7 +64,7 @@ team:
 - Los Angeles Clippers
 team_shortcode:
 - LAC
-trade_description: 'Elgin Baylor ranks in the 44th percentile for trading among executives
+trade_description: 'Elgin Baylor ranks in the 43th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -65,8 +73,9 @@ trade_lose_list: '<ul>
   <li>Lost Mark Jackson, Greg Minor to IND.</li>
 
   </ul>'
-trade_rating: -0.02
-trade_rating_grade: C-
+trade_rating_bpm: -0.07
+trade_rating_grade_vorp: C-
+trade_rating_vorp: -0.02
 trade_win_list: '<ul>
 
   <li>Added Elton Brand to LAC.</li>

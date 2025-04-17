@@ -4,16 +4,23 @@ draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
   a draft grade.
 draft_num_players: 0
-draft_rating: null
-draft_rating_grade: null
+draft_rating_bpm: null
+draft_rating_grade_vorp: null
+draft_rating_percentile_bpm: .nan
+draft_rating_percentile_vorp: .nan
+draft_rating_vorp: null
+draft_total_bpm: 0
+draft_total_percentile_bpm: 32.71604938271605
+draft_total_percentile_vorp: 32.71604938271605
+draft_total_vorp: 0
 draft_win_list: null
 end_year: 2013
 final_bpm: -6806
 href: dileoto99x
 is_active: false
 name: Tony DiLeo
-signing_description: This executive has only made 7 signings in free agency and thus
-  doesn't have a signing grade.
+signing_description: 'Tony DiLeo ranks in the 0th percentile for free agency signings
+  among executives in our database. '
 signing_lose_list: '<ul>
 
   <li>Signed Damien Wilkins in 2012.</li>
@@ -23,8 +30,9 @@ signing_lose_list: '<ul>
   <li>Signed Jeremy Pargo in 2013.</li>
 
   </ul>'
-signing_rating: .nan
-signing_rating_grade: null
+signing_rating_bpm: -0.71
+signing_rating_grade_vorp: F-
+signing_rating_vorp: -0.57
 signing_win_list: null
 start_year: 2012
 team:
@@ -38,7 +46,8 @@ trade_lose_list: '<ul>
   <li>Added Charles Jenkins to PHI.</li>
 
   </ul>'
-trade_rating: null
-trade_rating_grade: null
+trade_rating_bpm: null
+trade_rating_grade_vorp: null
+trade_rating_vorp: null
 trade_win_list: null
 ---

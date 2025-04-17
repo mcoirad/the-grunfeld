@@ -10,8 +10,15 @@ draft_bust_list: '<ul>
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
-draft_rating: null
-draft_rating_grade: null
+draft_rating_bpm: null
+draft_rating_grade_vorp: null
+draft_rating_percentile_bpm: .nan
+draft_rating_percentile_vorp: .nan
+draft_rating_vorp: null
+draft_total_bpm: -20527
+draft_total_percentile_bpm: 6.790123456790123
+draft_total_percentile_vorp: 6.790123456790123
+draft_total_vorp: -2
 draft_win_list: '<ul>
 
   <li>Drafted Keita Bates-Diop with 48th pick but was worth 27th pick.</li>
@@ -33,8 +40,9 @@ signing_lose_list: '<ul>
   <li>Signed Anthony Tolliver in 2018.</li>
 
   </ul>'
-signing_rating: -0.19
-signing_rating_grade: F
+signing_rating_bpm: -0.28
+signing_rating_grade_vorp: F
+signing_rating_vorp: -0.19
 signing_win_list: '<ul>
 
   <li>Signed Karl-Anthony Towns in 2018.</li>
@@ -58,7 +66,8 @@ trade_lose_list: '<ul>
   <li>Lost Jimmy Butler, Justin Patton to PHI.</li>
 
   </ul>'
-trade_rating: null
-trade_rating_grade: null
+trade_rating_bpm: null
+trade_rating_grade_vorp: null
+trade_rating_vorp: null
 trade_win_list: null
 ---

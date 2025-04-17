@@ -13,8 +13,15 @@ draft_description: Bob Myers ranks in the 66th percentile for drafting among exe
   in our database. Myers's draft picks average out to be worth the equivalent of 3
   spots higher than they were picked due to his good drafting.
 draft_num_players: 15
-draft_rating: 3.4
-draft_rating_grade: B-
+draft_rating_bpm: -1.9
+draft_rating_grade_vorp: B-
+draft_rating_percentile_bpm: 48.62385321100918
+draft_rating_percentile_vorp: 66.05504587155963
+draft_rating_vorp: 3.4
+draft_total_bpm: 5570
+draft_total_percentile_bpm: 77.77777777777777
+draft_total_percentile_vorp: 77.77777777777777
+draft_total_vorp: 37
 draft_win_list: '<ul>
 
   <li>Drafted Draymond Green with 35th pick but was worth 3th pick.</li>
@@ -29,7 +36,7 @@ final_bpm: 11979
 href: myersbo99x
 is_active: false
 name: Bob Myers
-signing_description: 'Bob Myers ranks in the 91th percentile for free agency signings
+signing_description: 'Bob Myers ranks in the 88th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -40,8 +47,9 @@ signing_lose_list: '<ul>
   <li>Signed Damion Lee in 2019.</li>
 
   </ul>'
-signing_rating: 0.16
-signing_rating_grade: A
+signing_rating_bpm: -0.22
+signing_rating_grade_vorp: A
+signing_rating_vorp: 0.16
 signing_win_list: '<ul>
 
   <li>Signed Kevin Durant in 2016.</li>
@@ -56,7 +64,7 @@ team:
 - Golden State Warriors
 team_shortcode:
 - GSW
-trade_description: 'Bob Myers ranks in the 38th percentile for trading among executives
+trade_description: 'Bob Myers ranks in the 37th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -65,8 +73,9 @@ trade_lose_list: '<ul>
   <li>Lost Kevin Durant to BRK.</li>
 
   </ul>'
-trade_rating: -0.07
-trade_rating_grade: D+
+trade_rating_bpm: 0.13
+trade_rating_grade_vorp: D+
+trade_rating_vorp: -0.07
 trade_win_list: '<ul>
 
   <li>Added Andre Iguodala, Kevin Murphy to GSW.</li>

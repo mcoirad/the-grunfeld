@@ -13,8 +13,15 @@ draft_description: Jerry Colangelo ranks in the 95th percentile for drafting amo
   executives in our database. Colangelo's draft picks average out to be worth the
   equivalent of 12 spots higher than they were picked due to his good drafting.
 draft_num_players: 52
-draft_rating: 11.8
-draft_rating_grade: A+
+draft_rating_bpm: 9.9
+draft_rating_grade_vorp: A+
+draft_rating_percentile_bpm: 87.1559633027523
+draft_rating_percentile_vorp: 95.41284403669725
+draft_rating_vorp: 11.8
+draft_total_bpm: 153284
+draft_total_percentile_bpm: 99.38271604938272
+draft_total_percentile_vorp: 99.38271604938272
+draft_total_vorp: 154
 draft_win_list: '<ul>
 
   <li>Drafted Larry Nance with 20th pick but was worth 1th pick.</li>
@@ -29,9 +36,8 @@ final_bpm: 301413
 href: colanje99x
 is_active: false
 name: Jerry Colangelo
-signing_description: Jerry Colangelo ranks in the 46th percentile for free agency
-  signings among executives in our database. That's basically average. It could be
-  worse though lol.
+signing_description: 'Jerry Colangelo ranks in the 45th percentile for free agency
+  signings among executives in our database. '
 signing_lose_list: '<ul>
 
   <li>Signed Joe Kleine in 1993.</li>
@@ -41,8 +47,9 @@ signing_lose_list: '<ul>
   <li>Signed Mike Holton in 1984.</li>
 
   </ul>'
-signing_rating: -0.07
-signing_rating_grade: C-
+signing_rating_bpm: -0.47
+signing_rating_grade_vorp: C-
+signing_rating_vorp: -0.07
 signing_win_list: '<ul>
 
   <li>Signed Tom Chambers in 1988.</li>
@@ -57,8 +64,8 @@ team:
 - Phoenix Suns
 team_shortcode:
 - PHO
-trade_description: Jerry Colangelo ranks in the 54th percentile for trading among
-  executives in our database. That's basically average. It could be worse though lol.
+trade_description: 'Jerry Colangelo ranks in the 56th percentile for trading among
+  executives in our database. '
 trade_lose_list: '<ul>
 
   <li>Added Craig Hodges, Andrew Lang to PHO.</li>
@@ -66,8 +73,9 @@ trade_lose_list: '<ul>
   <li>Lost Jay Humphries to MIL.</li>
 
   </ul>'
-trade_rating: 0.01
-trade_rating_grade: C+
+trade_rating_bpm: -0.04
+trade_rating_grade_vorp: C+
+trade_rating_vorp: 0.01
 trade_win_list: '<ul>
 
   <li>Added Charles Barkley to PHO.</li>

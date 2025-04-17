@@ -11,8 +11,15 @@ draft_description: Billy King ranks in the 93th percentile for drafting among ex
   in our database. King's draft picks average out to be worth the equivalent of 11
   spots higher than they were picked due to his good drafting.
 draft_num_players: 13
-draft_rating: 11.4
-draft_rating_grade: A+
+draft_rating_bpm: 12.8
+draft_rating_grade_vorp: A+
+draft_rating_percentile_bpm: 96.3302752293578
+draft_rating_percentile_vorp: 93.57798165137615
+draft_rating_vorp: 11.4
+draft_total_bpm: 61695
+draft_total_percentile_bpm: 83.33333333333333
+draft_total_percentile_vorp: 83.33333333333333
+draft_total_vorp: 53
 draft_win_list: '<ul>
 
   <li>Drafted Andre Iguodala with 9th pick but was worth 1th pick.</li>
@@ -27,7 +34,7 @@ final_bpm: -207084
 href: kingbi99x
 is_active: false
 name: Billy King
-signing_description: 'Billy King ranks in the 42th percentile for free agency signings
+signing_description: 'Billy King ranks in the 41th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -38,8 +45,9 @@ signing_lose_list: '<ul>
   <li>Signed Stephen Graham in 2010.</li>
 
   </ul>'
-signing_rating: -0.08
-signing_rating_grade: C-
+signing_rating_bpm: -0.52
+signing_rating_grade_vorp: C-
+signing_rating_vorp: -0.08
 signing_win_list: '<ul>
 
   <li>Signed Brook Lopez in 2015.</li>
@@ -56,8 +64,8 @@ team:
 team_shortcode:
 - PHI
 - BRK
-trade_description: Billy King ranks in the 53th percentile for trading among executives
-  in our database. That's basically average. It could be worse though lol.
+trade_description: 'Billy King ranks in the 55th percentile for trading among executives
+  in our database. '
 trade_lose_list: '<ul>
 
   <li>Added Gerald Wallace to BRK.</li>
@@ -65,8 +73,9 @@ trade_lose_list: '<ul>
   <li>Lost Mehmet Okur, Shawne Williams, Damian Lillard to POR.</li>
 
   </ul>'
-trade_rating: 0.0
-trade_rating_grade: C+
+trade_rating_bpm: -0.1
+trade_rating_grade_vorp: C+
+trade_rating_vorp: 0.0
 trade_win_list: '<ul>
 
   <li>Added Roshown McLeod, Dikembe Mutombo to PHI.</li>

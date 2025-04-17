@@ -4,8 +4,15 @@ draft_bust_list: null
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
 draft_num_players: 1
-draft_rating: null
-draft_rating_grade: null
+draft_rating_bpm: null
+draft_rating_grade_vorp: null
+draft_rating_percentile_bpm: .nan
+draft_rating_percentile_vorp: .nan
+draft_rating_vorp: null
+draft_total_bpm: -364
+draft_total_percentile_bpm: 19.135802469135804
+draft_total_percentile_vorp: 19.135802469135804
+draft_total_vorp: 0
 draft_win_list: '<ul>
 
   </ul>'
@@ -14,7 +21,7 @@ final_bpm: -4723
 href: brandel99x
 is_active: false
 name: Elton Brand
-signing_description: 'Elton Brand ranks in the 95th percentile for free agency signings
+signing_description: 'Elton Brand ranks in the 94th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -25,8 +32,9 @@ signing_lose_list: '<ul>
   <li>Signed Norvel Pelle in 2019.</li>
 
   </ul>'
-signing_rating: 0.2
-signing_rating_grade: A+
+signing_rating_bpm: -0.08
+signing_rating_grade_vorp: A+
+signing_rating_vorp: 0.2
 signing_win_list: '<ul>
 
   <li>Signed Tobias Harris in 2019.</li>
@@ -52,8 +60,9 @@ trade_lose_list: '<ul>
   <li>Lost Mathias Lessort to LAC.</li>
 
   </ul>'
-trade_rating: 0.67
-trade_rating_grade: S
+trade_rating_bpm: 0.58
+trade_rating_grade_vorp: S
+trade_rating_vorp: 0.67
 trade_win_list: '<ul>
 
   <li>Added Jonathon Simmons, Carsen Edwards, Tyrese Maxey to PHI.</li>

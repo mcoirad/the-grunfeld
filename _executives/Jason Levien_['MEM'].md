@@ -4,8 +4,15 @@ draft_bust_list: null
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
 draft_num_players: 1
-draft_rating: null
-draft_rating_grade: null
+draft_rating_bpm: null
+draft_rating_grade_vorp: null
+draft_rating_percentile_bpm: .nan
+draft_rating_percentile_vorp: .nan
+draft_rating_vorp: null
+draft_total_bpm: -950
+draft_total_percentile_bpm: 17.901234567901234
+draft_total_percentile_vorp: 17.901234567901234
+draft_total_vorp: 0
 draft_win_list: '<ul>
 
   </ul>'
@@ -25,8 +32,9 @@ signing_lose_list: '<ul>
   <li>Signed Keyon Dooling in 2013.</li>
 
   </ul>'
-signing_rating: 0.56
-signing_rating_grade: S
+signing_rating_bpm: 0.11
+signing_rating_grade_vorp: S
+signing_rating_vorp: 0.56
 signing_win_list: '<ul>
 
   <li>Signed James Johnson in 2013.</li>
@@ -41,7 +49,7 @@ team:
 - Memphis Grizzlies
 team_shortcode:
 - MEM
-trade_description: 'Jason Levien ranks in the 95th percentile for trading among executives
+trade_description: 'Jason Levien ranks in the 94th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -53,8 +61,9 @@ trade_lose_list: '<ul>
   <li>Lost José Calderón to DET.</li>
 
   </ul>'
-trade_rating: 0.38
-trade_rating_grade: A+
+trade_rating_bpm: 0.12
+trade_rating_grade_vorp: A+
+trade_rating_vorp: 0.38
 trade_win_list: '<ul>
 
   <li>Didn''t receive any players or picks.</li>

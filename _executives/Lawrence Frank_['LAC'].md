@@ -5,8 +5,15 @@ draft_description: Lawrence Frank ranks in the 94th percentile for drafting amon
   executives in our database. Frank's draft picks average out to be worth the equivalent
   of 12 spots higher than they were picked due to his good drafting.
 draft_num_players: 6
-draft_rating: 11.7
-draft_rating_grade: A+
+draft_rating_bpm: 11.7
+draft_rating_grade_vorp: A+
+draft_rating_percentile_bpm: 94.4954128440367
+draft_rating_percentile_vorp: 94.4954128440367
+draft_rating_vorp: 11.7
+draft_total_bpm: -13883
+draft_total_percentile_bpm: 40.123456790123456
+draft_total_percentile_vorp: 40.123456790123456
+draft_total_vorp: 2
 draft_win_list: '<ul>
 
   <li>Drafted Jordan Miller with 48th pick but was worth 25th pick.</li>
@@ -21,7 +28,7 @@ final_bpm: 2461
 href: frankla99x
 is_active: true
 name: Lawrence Frank
-signing_description: 'Lawrence Frank ranks in the 97th percentile for free agency
+signing_description: 'Lawrence Frank ranks in the 96th percentile for free agency
   signings among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -32,8 +39,9 @@ signing_lose_list: '<ul>
   <li>Signed Avery Bradley in 2018.</li>
 
   </ul>'
-signing_rating: 0.23
-signing_rating_grade: S
+signing_rating_bpm: -0.16
+signing_rating_grade_vorp: A+
+signing_rating_vorp: 0.23
 signing_win_list: '<ul>
 
   <li>Signed Kawhi Leonard in 2019.</li>
@@ -58,8 +66,9 @@ trade_lose_list: '<ul>
   Jaquez Jr., Dillon Jones to OKC.</li>
 
   </ul>'
-trade_rating: 0.22
-trade_rating_grade: A-
+trade_rating_bpm: 0.03
+trade_rating_grade_vorp: A-
+trade_rating_vorp: 0.22
 trade_win_list: '<ul>
 
   <li>Added Robert Covington, Norman Powell to LAC.</li>

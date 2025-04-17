@@ -13,8 +13,15 @@ draft_description: Brian Wright ranks in the 17th percentile for drafting among 
   in our database. Wright's draft picks average out to be worth the equivalent of
   8 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 11
-draft_rating: -8.5
-draft_rating_grade: F
+draft_rating_bpm: -7.9
+draft_rating_grade_vorp: F
+draft_rating_percentile_bpm: 22.93577981651376
+draft_rating_percentile_vorp: 17.431192660550458
+draft_rating_vorp: -8.5
+draft_total_bpm: -46727
+draft_total_percentile_bpm: 45.67901234567901
+draft_total_percentile_vorp: 45.67901234567901
+draft_total_vorp: 4
 draft_win_list: '<ul>
 
   <li>Drafted Tre Jones with 41th pick but was worth 15th pick.</li>
@@ -25,7 +32,7 @@ final_bpm: -103681
 href: wrighbr99x
 is_active: true
 name: Brian Wright
-signing_description: 'Brian Wright ranks in the 97th percentile for free agency signings
+signing_description: 'Brian Wright ranks in the 96th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -36,8 +43,9 @@ signing_lose_list: '<ul>
   <li>Signed Keita Bates-Diop in 2021.</li>
 
   </ul>'
-signing_rating: 0.23
-signing_rating_grade: S
+signing_rating_bpm: -0.25
+signing_rating_grade_vorp: A+
+signing_rating_vorp: 0.23
 signing_win_list: '<ul>
 
   <li>Signed Dejounte Murray in 2019.</li>
@@ -52,7 +60,7 @@ team:
 - San Antonio Spurs
 team_shortcode:
 - SAS
-trade_description: 'Brian Wright ranks in the 12th percentile for trading among executives
+trade_description: 'Brian Wright ranks in the 13th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -61,8 +69,9 @@ trade_lose_list: '<ul>
   <li>Lost Derrick White to BOS.</li>
 
   </ul>'
-trade_rating: -0.27
-trade_rating_grade: F
+trade_rating_bpm: -0.23
+trade_rating_grade_vorp: F
+trade_rating_vorp: -0.27
 trade_win_list: '<ul>
 
   <li>Added Max Strus to CLE.</li>

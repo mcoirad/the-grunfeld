@@ -13,8 +13,15 @@ draft_description: Scott Layden ranks in the 84th percentile for drafting among 
   in our database. Layden's draft picks average out to be worth the equivalent of
   8 spots higher than they were picked due to his good drafting.
 draft_num_players: 12
-draft_rating: 7.8
-draft_rating_grade: A-
+draft_rating_bpm: 6.7
+draft_rating_grade_vorp: A-
+draft_rating_percentile_bpm: 78.89908256880734
+draft_rating_percentile_vorp: 84.40366972477064
+draft_rating_vorp: 7.8
+draft_total_bpm: -33903
+draft_total_percentile_bpm: 59.876543209876544
+draft_total_percentile_vorp: 59.876543209876544
+draft_total_vorp: 16
 draft_win_list: '<ul>
 
   <li>Drafted Lavor Postell with 39th pick but was worth 30th pick.</li>
@@ -38,8 +45,9 @@ signing_lose_list: '<ul>
   <li>Signed Antoine Carr in 1994.</li>
 
   </ul>'
-signing_rating: -0.19
-signing_rating_grade: F
+signing_rating_bpm: -0.53
+signing_rating_grade_vorp: F
+signing_rating_vorp: -0.19
 signing_win_list: '<ul>
 
   <li>Signed Dikembe Mutombo in 2003.</li>
@@ -67,8 +75,9 @@ trade_lose_list: '<ul>
   <li>Lost Marcus Camby, Nenê, Mark Jackson to DEN.</li>
 
   </ul>'
-trade_rating: 0.32
-trade_rating_grade: A
+trade_rating_bpm: 0.11
+trade_rating_grade_vorp: A
+trade_rating_vorp: 0.32
 trade_win_list: '<ul>
 
   <li>Added Kenny Gattison, Brooks Thompson, Andrei Kirilenko to UTA.</li>

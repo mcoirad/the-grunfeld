@@ -11,8 +11,15 @@ draft_description: Donn Nelson ranks in the 30th percentile for drafting among e
   in our database. Nelson's draft picks average out to be worth the equivalent of
   5 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 8
-draft_rating: -4.8
-draft_rating_grade: D
+draft_rating_bpm: 0.2
+draft_rating_grade_vorp: D
+draft_rating_percentile_bpm: 55.96330275229358
+draft_rating_percentile_vorp: 30.275229357798164
+draft_rating_vorp: -4.8
+draft_total_bpm: -21878
+draft_total_percentile_bpm: 41.358024691358025
+draft_total_percentile_vorp: 41.358024691358025
+draft_total_vorp: 3
 draft_win_list: '<ul>
 
   <li>Drafted A.J. Hammons with 46th pick but was worth 38th pick.</li>
@@ -23,7 +30,7 @@ final_bpm: 133941
 href: nelsodo99x
 is_active: false
 name: Donn Nelson
-signing_description: 'Donn Nelson ranks in the 86th percentile for free agency signings
+signing_description: 'Donn Nelson ranks in the 83th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -34,8 +41,9 @@ signing_lose_list: '<ul>
   <li>Signed J.J. Barea in 2006.</li>
 
   </ul>'
-signing_rating: 0.09
-signing_rating_grade: A-
+signing_rating_bpm: -0.4
+signing_rating_grade_vorp: A-
+signing_rating_vorp: 0.09
 signing_win_list: '<ul>
 
   <li>Signed Luka Dončić in 2018.</li>
@@ -50,7 +58,7 @@ team:
 - Dallas Mavericks
 team_shortcode:
 - DAL
-trade_description: 'Donn Nelson ranks in the 67th percentile for trading among executives
+trade_description: 'Donn Nelson ranks in the 68th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -59,8 +67,9 @@ trade_lose_list: '<ul>
   <li>Lost Trae Young, Cam Reddish to ATL.</li>
 
   </ul>'
-trade_rating: 0.07
-trade_rating_grade: B
+trade_rating_bpm: 0.24
+trade_rating_grade_vorp: B
+trade_rating_vorp: 0.07
 trade_win_list: '<ul>
 
   <li>Added Malik Allen, Jason Kidd, Antoine Wright to DAL.</li>

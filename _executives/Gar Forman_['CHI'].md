@@ -1,5 +1,5 @@
 ---
-bpm_rank: 81
+bpm_rank: 82
 draft_bust_list: '<ul>
 
   <li>Drafted Coby White with 7th pick but was worth 16th pick.</li>
@@ -13,8 +13,15 @@ draft_description: Gar Forman ranks in the 61th percentile for drafting among ex
   in our database. Forman's draft picks average out to be worth the equivalent of
   3 spots higher than they were picked due to his good drafting.
 draft_num_players: 15
-draft_rating: 2.7
-draft_rating_grade: B-
+draft_rating_bpm: -1.6
+draft_rating_grade_vorp: B-
+draft_rating_percentile_bpm: 50.45871559633027
+draft_rating_percentile_vorp: 61.46788990825688
+draft_rating_vorp: 2.7
+draft_total_bpm: -33310
+draft_total_percentile_bpm: 64.81481481481481
+draft_total_percentile_vorp: 64.81481481481481
+draft_total_vorp: 22
 draft_win_list: '<ul>
 
   <li>Drafted Jimmy Butler with 30th pick but was worth 1th pick.</li>
@@ -29,7 +36,7 @@ final_bpm: -17030
 href: formaga99x
 is_active: false
 name: Gar Forman
-signing_description: 'Gar Forman ranks in the 79th percentile for free agency signings
+signing_description: 'Gar Forman ranks in the 76th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -40,8 +47,9 @@ signing_lose_list: '<ul>
   <li>Signed Cristiano Felício in 2017.</li>
 
   </ul>'
-signing_rating: 0.06
-signing_rating_grade: B+
+signing_rating_bpm: -0.26
+signing_rating_grade_vorp: B+
+signing_rating_vorp: 0.06
 signing_win_list: '<ul>
 
   <li>Signed Zach LaVine in 2018.</li>
@@ -56,7 +64,7 @@ team:
 - Chicago Bulls
 team_shortcode:
 - CHI
-trade_description: 'Gar Forman ranks in the 62th percentile for trading among executives
+trade_description: 'Gar Forman ranks in the 64th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 
@@ -65,8 +73,9 @@ trade_lose_list: '<ul>
   <li>Lost Jimmy Butler, Justin Patton to MIN.</li>
 
   </ul>'
-trade_rating: 0.06
-trade_rating_grade: B-
+trade_rating_bpm: 0.11
+trade_rating_grade_vorp: B-
+trade_rating_vorp: 0.06
 trade_win_list: '<ul>
 
   <li>Added Vladimir Veremeenko to CHI.</li>

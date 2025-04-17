@@ -10,8 +10,15 @@ draft_bust_list: '<ul>
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
-draft_rating: null
-draft_rating_grade: null
+draft_rating_bpm: null
+draft_rating_grade_vorp: null
+draft_rating_percentile_bpm: .nan
+draft_rating_percentile_vorp: .nan
+draft_rating_vorp: null
+draft_total_bpm: -22034
+draft_total_percentile_bpm: 46.2962962962963
+draft_total_percentile_vorp: 46.2962962962963
+draft_total_vorp: 5
 draft_win_list: '<ul>
 
   <li>Drafted Alphonso Ford with 32th pick but was worth 32th pick.</li>
@@ -33,16 +40,17 @@ signing_lose_list: '<ul>
   <li>Signed Warren Kidd in 1993.</li>
 
   </ul>'
-signing_rating: -0.64
-signing_rating_grade: F-
+signing_rating_bpm: -0.91
+signing_rating_grade_vorp: F-
+signing_rating_vorp: -0.64
 signing_win_list: null
 start_year: 1992
 team:
 - Philadelphia 76ers
 team_shortcode:
 - PHI
-trade_description: This executive has only made 5 trades and thus doesn't have a trade
-  grade.
+trade_description: 'Jim Lynam ranks in the 0th percentile for trading among executives
+  in our database. '
 trade_lose_list: '<ul>
 
   <li>Added Jeff Hornacek, Andrew Lang, Tim Perry to PHI.</li>
@@ -50,8 +58,9 @@ trade_lose_list: '<ul>
   <li>Lost Charles Barkley to PHO.</li>
 
   </ul>'
-trade_rating: null
-trade_rating_grade: null
+trade_rating_bpm: -0.6
+trade_rating_grade_vorp: F-
+trade_rating_vorp: -0.6
 trade_win_list: '<ul>
 
   <li>Added William Njoku, Kebu Stewart to PHI.</li>

@@ -13,8 +13,15 @@ draft_description: Isiah Thomas ranks in the 75th percentile for drafting among 
   in our database. Thomas's draft picks average out to be worth the equivalent of
   5 spots higher than they were picked due to his good drafting.
 draft_num_players: 10
-draft_rating: 5.0
-draft_rating_grade: B+
+draft_rating_bpm: 2.3
+draft_rating_grade_vorp: B+
+draft_rating_percentile_bpm: 65.13761467889908
+draft_rating_percentile_vorp: 75.22935779816514
+draft_rating_vorp: 5.0
+draft_total_bpm: 782
+draft_total_percentile_bpm: 66.04938271604938
+draft_total_percentile_vorp: 66.04938271604938
+draft_total_vorp: 23
 draft_win_list: '<ul>
 
   <li>Drafted Tracy McGrady with 9th pick but was worth 2th pick.</li>
@@ -40,8 +47,9 @@ signing_lose_list: '<ul>
   <li>Signed Jerome James in 2005.</li>
 
   </ul>'
-signing_rating: -0.32
-signing_rating_grade: F
+signing_rating_bpm: -0.76
+signing_rating_grade_vorp: F
+signing_rating_vorp: -0.32
 signing_win_list: '<ul>
 
   <li>Signed Walt Williams in 1996.</li>
@@ -54,8 +62,8 @@ team:
 team_shortcode:
 - TOR
 - NYK
-trade_description: Isiah Thomas ranks in the 53th percentile for trading among executives
-  in our database. That's basically average. It could be worse though lol.
+trade_description: 'Isiah Thomas ranks in the 55th percentile for trading among executives
+  in our database. '
 trade_lose_list: '<ul>
 
   <li>Added Eddy Curry, Antonio Davis, Wilson Chandler to NYK.</li>
@@ -64,8 +72,9 @@ trade_lose_list: '<ul>
   Noah, Kyrylo Fesenko, Jon Brockman to CHI.</li>
 
   </ul>'
-trade_rating: 0.0
-trade_rating_grade: C+
+trade_rating_bpm: -0.37
+trade_rating_grade_vorp: C+
+trade_rating_vorp: 0.0
 trade_win_list: '<ul>
 
   <li>Added Anfernee Hardaway, Stephon Marbury, Cezary Trybański to NYK.</li>

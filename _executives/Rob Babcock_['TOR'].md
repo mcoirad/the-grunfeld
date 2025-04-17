@@ -13,8 +13,15 @@ draft_description: Rob Babcock ranks in the 2th percentile for drafting among ex
   in our database. Babcock's draft picks average out to be worth the equivalent of
   15 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
-draft_rating: -15.0
-draft_rating_grade: F-
+draft_rating_bpm: -9.0
+draft_rating_grade_vorp: F-
+draft_rating_percentile_bpm: 18.34862385321101
+draft_rating_percentile_vorp: 2.7522935779816513
+draft_rating_vorp: -15.0
+draft_total_bpm: -32755
+draft_total_percentile_bpm: 1.2345679012345678
+draft_total_percentile_vorp: 1.2345679012345678
+draft_total_vorp: -4
 draft_win_list: '<ul>
 
   <li>Drafted Roko Ukić with 41th pick but was worth 47th pick.</li>
@@ -25,8 +32,8 @@ final_bpm: -72826
 href: babcoro99x
 is_active: false
 name: Rob Babcock
-signing_description: This executive has only made 5 signings in free agency and thus
-  doesn't have a signing grade.
+signing_description: 'Rob Babcock ranks in the 94th percentile for free agency signings
+  among executives in our database. '
 signing_lose_list: '<ul>
 
   <li>Signed Loren Woods in 2004.</li>
@@ -34,8 +41,9 @@ signing_lose_list: '<ul>
   <li>Signed Darrick Martin in 2005.</li>
 
   </ul>'
-signing_rating: .nan
-signing_rating_grade: null
+signing_rating_bpm: 0.2
+signing_rating_grade_vorp: A+
+signing_rating_vorp: 0.2
 signing_win_list: '<ul>
 
   <li>Signed José Calderón in 2005.</li>
@@ -60,8 +68,9 @@ trade_lose_list: '<ul>
   <li>Lost Vince Carter to NJN.</li>
 
   </ul>'
-trade_rating: null
-trade_rating_grade: null
+trade_rating_bpm: null
+trade_rating_grade_vorp: null
+trade_rating_vorp: null
 trade_win_list: '<ul>
 
   <li>Added Mike James to TOR.</li>
