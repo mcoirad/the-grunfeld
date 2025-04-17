@@ -1,14 +1,14 @@
-date,Transaction,single_value,value
-1998-03-04 00:00:00,added Cory Alexander to DEN,-2239.3,-2239
-2006-06-28 00:00:00,,0.0,-2239
-2006-06-28 00:00:00,added Rajon Rondo to PHO,0.0,-2239
-2006-06-28 00:00:00,added Sergio Rodríguez to PHO,0.0,-2239
-2006-06-28 00:00:00,lost Sergio Rodríguez to POR,4986.8,2747
-2006-06-28 00:00:00,lost Brian Grant to BOS,-0.0,2747
-2006-06-28 00:00:00,lost Rajon Rondo to BOS,-40961.100000000006,-38213
-2006-06-28 00:00:00,added Rudy Fernández to PHO,0.0,-38213
-2006-07-13 00:00:00,added Eric Piatkowski to PHO,-538.0,-38751
-2006-07-20 00:00:00,added Marcus Banks to PHO,-2678.8,-41430
-2006-07-27 00:00:00,added Sean Marks to PHO,-410.7,-41841
-2006-08-31 00:00:00,added Jumaine Jones to PHO,-1035.0,-42876
-2006-11-07 00:00:00,added Jalen Rose to PHO,295.2,-42580
+date,Transaction,single_value_bpm,value_bpm,single_value_vorp,value_vorp
+1998-03-04 00:00:00,added Cory Alexander to DEN,-2239.3,-2239,0.3999999999999999,0.3999999999999999
+2006-06-28 00:00:00,,0.0,-2239,0.0,0.3999999999999999
+2006-06-28 00:00:00,added Rajon Rondo to PHO,0.0,-2239,0.0,0.3999999999999999
+2006-06-28 00:00:00,added Sergio Rodríguez to PHO,0.0,-2239,0.0,0.3999999999999999
+2006-06-28 00:00:00,lost Sergio Rodríguez to POR,4986.8,2747,-0.1,0.2999999999999999
+2006-06-28 00:00:00,lost Brian Grant to BOS,-0.0,2747,-0.0,0.2999999999999999
+2006-06-28 00:00:00,lost Rajon Rondo to BOS,-40961.100000000006,-38213,-19.1,-18.8
+2006-06-28 00:00:00,added Rudy Fernández to PHO,0.0,-38213,0.0,-18.8
+2006-07-13 00:00:00,added Eric Piatkowski to PHO,-538.0,-38751,0.0,-18.8
+2006-07-20 00:00:00,added Marcus Banks to PHO,-2678.8,-41430,-0.3,-19.1
+2006-07-27 00:00:00,added Sean Marks to PHO,-410.7,-41841,0.0,-19.1
+2006-08-31 00:00:00,added Jumaine Jones to PHO,-1035.0,-42876,-0.2,-19.3
+2006-11-07 00:00:00,added Jalen Rose to PHO,295.2,-42580,0.2,-19.1

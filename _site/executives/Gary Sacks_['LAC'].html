@@ -124,28 +124,29 @@
       return d.date.slice(0, 10);
     });
     var scoreData = exec_data.map(function (d) {
-      return d.value;
+      return d.value_vorp;
     });
+    console.log(scoreData);
     var tooltipData = exec_data.map(function (d) {
       var plusSign = '+';
-      if (d.single_value < 0){
+      if (d.single_value_vorp < 0){
         plusSign = '';
       } 
-      return d.Transaction + ': ' + plusSign + d.single_value;
+      return d.Transaction + ': ' + plusSign + d.single_value_vorp;
     });
     var pointRadii = exec_data.map(function(d) {
-      return Math.sqrt(Math.abs(d.single_value) / 100);
+      return Math.sqrt(Math.abs(d.single_value_vorp) * 1000000);
     });
     var valueMin = Math.min(...exec_data.map(function(d) {
-      return parseInt(d.single_value);
+      return parseInt(d.single_value_vorp);
     }));
     var valueMax = Math.max(...exec_data.map(function(d) {
-      return Math.abs(parseInt(d.single_value));
+      return Math.abs(parseInt(d.single_value_vorp));
     }));
     var pointColors = exec_data.map(function(d) {
-      var lightness = Math.max(( (Math.abs(d.single_value) / valueMax ) * -50) + 100, 55);
+      var lightness = Math.max(( (Math.abs(d.single_value_vorp) / valueMax ) * -50) + 100, 55);
       var hue = 204;
-      if (d.single_value < 0) {
+      if (d.single_value_vorp < 0) {
         hue = 0;
       };
       return "hsla(" + hue + ", 100%, " + lightness + "%, 0.5)";
