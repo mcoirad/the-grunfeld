@@ -237,11 +237,170 @@
     <div class="col-md-3">
       <h3> Draft Rating:</h3>
       <p style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);"> </h3>
+      <h5> Total Draft Value:  </h5>
     </div>
     <div class="col-md-9">
+    <div class="col-md-9"><canvas id="executive_draft_chart"></canvas></div>
+    <script>
+      
+    // Load the dataset
+    d3.csv("https://raw.githubusercontent.com/mcoirad/the-grunfeld/master/_data/executive/executive_stats.csv").then(makeChart);
+    
+    function makeChart(exec_data) {
+      console.log(exec_data);
+      var filtered_data = exec_data.filter(function (d) {
+        return d.draft_total_vorp != "" && d.draft_rating_percentile_vorp != "";
+      });
+      
+      var dateLabels = filtered_data.map(function (d) {
+        return d.draft_rating_vorp;
+      });
+      var scoreData = filtered_data.map(function (d) {
+        return {
+          x: d.draft_total_percentile_vorp,
+          y: d.draft_rating_percentile_vorp
+        };
+      });
+      console.log(scoreData);
+      var tooltipData = filtered_data.map(function (d) {
+        return d.name;
+      });
+
+
+      var pointRadii = filtered_data.map(function(d) {
+        return 10;
+      })
+      var pointBorderColors = filtered_data.map(function(d) {
+        if (d.is_active == 'True'){
+          return 'red';
+        } else{
+          return 'rgb(75, 192, 192)';
+        }
+      })
+
+      var pointBackgroundColors = filtered_data.map(function(d) {
+        if (d.name == 'Michael Winger' && d.is_active == 'True'){
+          return 'red';
+        } else if (d.name == 'Michael Winger' && d.is_active == 'False') {
+          return 'rgb(75, 192, 192)';
+        }else{
+          return 'rgba(0,0,0,0.1)';
+        }
+      })
+
+    function generateLabelsFunc(chart) {
+        const pointBorderColors = filtered_data.map(function(d) {
+          return d.is_active === 'True' ? 'red' : 'rgb(75, 192, 192)';
+        });
+
+        // Collect unique colors and their labels
+        const colorLabels = {};
+        pointBorderColors.forEach((color, index) => {
+          if (!colorLabels[color]) {
+            colorLabels[color] = {
+              text: (color === 'red') ? 'Active' : 'Inactive',
+              fillStyle: color,
+              strokeStyle: color,
+              lineWidth: 2,
+              hidden: false,
+              index: index
+            };
+          }
+        });
+
+        return Object.values(colorLabels);
+      }
+      
+      
+      const config = {
+        
+      };
+      
+
+      const myChart = new Chart('executive_draft_chart', {
+        data: {
+          //labels: dateLabels,
+            datasets: [{
+              label: 'My First Dataset',
+              data: scoreData,
+              //fill: "red",
+              borderColor: pointBorderColors,
+              backgroundColor: pointBackgroundColors,
+              tension: 0.1,
+              pointRadius:  pointRadii,
+              pointHoverBackgroundColor: 'red',
+              pointHoverRadius: pointRadii,
+            }]
+        },
+        type: 'scatter',
+        options: {
+          plugins: { 
+            legend: {
+              position: 'top',
+              generateLabels: generateLabelsFunc,
+              display: false,
+            },
+            title: {
+              display: true,
+              text: 'Executive Draft Ratings'
+            },
+            tooltip: {
+              callbacks: {
+                  label: function(context) {
+                      return tooltipData[ context.dataIndex];
+                  }
+              },
+              mode: 'nearest',
+              intersect: false,
+            }
+          },
+          scales:{
+            x:{
+              title: {
+                display: true,
+                text: 'Percentile of Total Draft Value',
+                
+                color: "black"
+              },                
+              grid: {
+                display: true,
+                drawOnChartArea: true,
+                drawTicks: true,
+                z: 100,
+                drawTicks: true,
+                drawBorder: true,
+              },
+              gridLines:{
+                color: 'rgba(0, 0, 0, 0.9)' 
+              }
+            },
+            y:{
+              title: {
+                text: 'Percentile of Percentage of Good Draft Picks',
+                display: true,
+                color: "black"
+              }
+            }
+          },
+          responsive: true,
+          
+          hover: {
+            mode: 'nearest',
+            intersect: false
+          },
+        }
+        
+      });
+      console.log("hello");
+    }
+    
+  </script>
+
       This executive has only drafted 2 players and thus doesn't have a draft grade.
       <h5>Some of their biggest wins:</h5>
-      
+      <ul>
+<li>Drafted Tristan Vukcevic with 42th pick but was worth 19th pick.</li>
+</ul>
       <h5>Some of their biggest busts:</h5>
       
     </div>

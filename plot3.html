@@ -19,22 +19,72 @@ title: Compare
     <script>
       
       // Load the dataset
-      d3.csv("https://raw.githubusercontent.com/mcoirad/the-grunfeld/master/_data/aingeda01x.csv").then(makeChart);
+      d3.csv("https://raw.githubusercontent.com/mcoirad/the-grunfeld/master/_data/executive/executive_stats.csv").then(makeChart);
       
       function makeChart(exec_data) {
+        console.log(exec_data);
+        var filtered_data = exec_data.filter(function (d) {
+          return d.draft_total_vorp != "" && d.draft_rating_percentile_vorp != "";
+        });
         
-        var dateLabels = exec_data.map(function (d) {
-          return d.date.slice(0, 10);
+        var dateLabels = filtered_data.map(function (d) {
+          return d.draft_rating_vorp;
         });
-        var scoreData = exec_data.map(function (d) {
-          return d.value;
+        var scoreData = filtered_data.map(function (d) {
+          return {
+            x: d.draft_total_percentile_vorp,
+            y: d.draft_rating_percentile_vorp
+          };
         });
-        var tooltipData = exec_data.map(function (d) {
-          return d.Transaction + ': ' + d.single_value;
+        console.log(scoreData);
+        var tooltipData = filtered_data.map(function (d) {
+          return d.name;
         });
-        var pointRadii = exec_data.map(function(d) {
-          return Math.sqrt(Math.abs(d.single_value) / 100);
+
+
+        var pointRadii = filtered_data.map(function(d) {
+          return 10;
         })
+        var pointBorderColors = filtered_data.map(function(d) {
+          if (d.is_active == 'True'){
+            return 'red';
+          } else{
+            return 'rgb(75, 192, 192)';
+          }
+        })
+
+        var pointBackgroundColors = filtered_data.map(function(d) {
+          if (d.name == 'Rob Babcock' && d.is_active == 'True'){
+            return 'red';
+          } else if (d.name == 'Rob Babcock' && d.is_active == 'False') {
+            return 'rgb(75, 192, 192)';
+          }else{
+            return 'rgba(0,0,0,0.1)';
+          }
+        })
+
+      function generateLabelsFunc(chart) {
+          const pointBorderColors = filtered_data.map(function(d) {
+            return d.is_active === 'True' ? 'red' : 'rgb(75, 192, 192)';
+          });
+
+          // Collect unique colors and their labels
+          const colorLabels = {};
+          pointBorderColors.forEach((color, index) => {
+            if (!colorLabels[color]) {
+              colorLabels[color] = {
+                text: (color === 'red') ? 'Active' : 'Inactive',
+                fillStyle: color,
+                strokeStyle: color,
+                lineWidth: 2,
+                hidden: false,
+                index: index
+              };
+            }
+          });
+
+          return Object.values(colorLabels);
+        }
         
         
         const config = {
@@ -44,42 +94,30 @@ title: Compare
 
         const myChart = new Chart('executiveTenure', {
           data: {
-            labels: dateLabels,
+            //labels: dateLabels,
               datasets: [{
                 label: 'My First Dataset',
                 data: scoreData,
-                fill: false,
-                borderColor: 'rgb(75, 192, 192)',
+                //fill: "red",
+                borderColor: pointBorderColors,
+                backgroundColor: pointBackgroundColors,
                 tension: 0.1,
                 pointRadius:  pointRadii,
                 pointHoverBackgroundColor: 'red',
-                pointHoverRadius: pointRadii
+                pointHoverRadius: pointRadii,
               }]
           },
-          type: 'line',
+          type: 'scatter',
           options: {
-            scales: {
-              x: {
-                type: 'time',
-                time: {
-                    unit: 'day',
-                    round: 'day',
-                    displayFormats: {
-                        day: 'MMM yyyy',
-                        month: 'MMM yyyy'
-                    }
-                }
-              },
-              
-            },
-            responsive: true,
-            plugins: {
+            plugins: { 
               legend: {
                 position: 'top',
+                generateLabels: generateLabelsFunc,
+                display: false,
               },
               title: {
                 display: true,
-                text: 'Chart.js Line Chart'
+                text: 'Executive Draft Ratings'
               },
               tooltip: {
                 callbacks: {
@@ -91,6 +129,36 @@ title: Compare
                 intersect: false,
               }
             },
+            scales:{
+              x:{
+                title: {
+                  display: true,
+                  text: 'Percentile of Total Draft Value',
+                  
+                  color: "black"
+                },                
+                grid: {
+                  display: true,
+                  drawOnChartArea: true,
+                  drawTicks: true,
+                  z: 100,
+                  drawTicks: true,
+                  drawBorder: true,
+                },
+                gridLines:{
+                  color: 'rgba(0, 0, 0, 0.9)' 
+                }
+              },
+              y:{
+                title: {
+                  text: 'Percentile of Percentage of Good Draft Picks',
+                  display: true,
+                  color: "black"
+                }
+              }
+            },
+            responsive: true,
+            
             hover: {
               mode: 'nearest',
               intersect: false

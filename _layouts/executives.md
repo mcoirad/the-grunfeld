@@ -171,8 +171,11 @@ layout: default
     <div class="col-md-3">
       <h3> Draft Rating:</h3>
       <p style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);"> {{ executive.draft_rating_grade}}</h3>
+      <h5> Total Draft Value: {{ executive.draft_rating }} </h5>
     </div>
     <div class="col-md-9">
+    <div class="col-md-9"><canvas id="executive_draft_chart"></canvas></div>
+    {% include executive_draft_chart.html exec_name=page.name %}
       {{ executive.draft_description}}
       <h5>Some of their biggest wins:</h5>
       {{ executive.draft_win_list}}
