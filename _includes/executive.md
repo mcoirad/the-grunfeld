@@ -78,13 +78,13 @@
           </div>
       <div class="row">
             <div class="col-md-3">
-              <h3> {{ executive.draft_rating_grade}}</h3>
+              <h3> {{ executive.draft_rating_grade_vorp}}</h3>
             </div>
             <div class="col-md-3">
-              <h3>{{ executive.trade_rating_grade}}</h3>
+              <h3>{{ executive.trade_rating_grade_vorp}}</h3>
             </div>
             <div class="col-md-3">
-              <h3> {{ executive.signing_rating_grade}}</h3>
+              <h3> {{ executive.signing_rating_grade_vorp}}</h3>
             </div>
             
             

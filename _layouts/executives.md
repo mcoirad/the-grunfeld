@@ -28,9 +28,11 @@ layout: default
                 </h3>
             </div>
             
+            
         </div>
         
     </div>
+    
     
 </header>
 
@@ -43,142 +45,168 @@ layout: default
 
     <div class="container">
         <div class="row">
-          <h1 style=" text-align:center;">Transaction VORP over Tenure</h1>
+          <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
+<button id="toggle-stat">Switch to VORP</button>
 <script>
-  
-  // Load the dataset
-  d3.csv("https://raw.githubusercontent.com/mcoirad/the-grunfeld/master/_data/{{ executive.href }}.csv").then(makeChart);
-  
-  function makeChart(exec_data) {
 
-    function roundToTwo(num) {
+  
+  
+let myChart = null;
+let rawData = [];
+let currentStat = "bpm";
+document.getElementById("toggle-stat").addEventListener("click", () => {
+    currentStat = currentStat === 'vorp' ? 'bpm' : 'vorp';
+    document.getElementById("toggle-stat").innerText = `Switch to ${currentStat === 'vorp' ? 'BPM' : 'VORP'}`;
+    updateChart();
+    updateTexts();
+    updateDraftChart(); 
+
+});
+
+// Load the dataset
+d3.csv("https://raw.githubusercontent.com/mcoirad/the-grunfeld/master/_data/{{ executive.href }}.csv").then(data => {
+    rawData = data;
+    makeChart();
+});
+
+function roundToTwo(num) {
     return Math.round((parseFloat(num) + Number.EPSILON) * 100) / 100;
-  }
-    
-    var dateLabels = exec_data.map(function (d) {
-      return d.date.slice(0, 10);
-    });
-    var scoreData = exec_data.map(function (d) {
-      console.log(d);
-      return roundToTwo(d.value_vorp);
-    });
-    console.log(scoreData);
-    var tooltipData = exec_data.map(function (d) {
-      var plusSign = '+';
-      if (d.single_value_vorp < 0){
-        plusSign = '';
-      } 
-      return d.Transaction + ': ' + plusSign + roundToTwo(d.single_value_vorp);
-    });
-    var pointRadii = exec_data.map(function(d) {
-      return Math.sqrt(Math.abs(d.single_value_vorp) * 20);
-    });
-    var valueMin = Math.min(...exec_data.map(function(d) {
-      return parseInt(d.single_value_vorp);
-    }));
-    var valueMax = Math.max(...exec_data.map(function(d) {
-      return Math.abs(parseInt(d.single_value_vorp));
-    }));
-    var pointColors = exec_data.map(function(d) {
-      var lightness = Math.max(( (Math.abs(d.single_value_vorp) / valueMax ) * -50) + 100, 55);
-      var hue = 204;
-      if (d.single_value_vorp < 0) {
-        hue = 0;
-      };
-      return "hsla(" + hue + ", 100%, " + lightness + "%, 0.5)";
-    });
-    
-    const config = {
-      
-    };
-    
+}
 
-    const myChart = new Chart('executiveTenure', {
-      data: {
-        labels: dateLabels,
-          datasets: [{
-            label: 'My First Dataset',
-            data: scoreData,
-            fill: false,
-            borderColor: 'rgb(75, 192, 192)',
-            tension: 0.1,
-            pointRadius:  pointRadii,
-            pointHoverBackgroundColor: 'black',
-            pointHoverRadius: pointRadii,
-            pointBackgroundColor: pointColors
-          }]
-      },
-      type: 'line',
-      options: {
-        scales: {
-          x: {
-            type: 'time',
-            time: {
-                unit: 'day',
-                round: 'day',
-                displayFormats: {
-                    day: 'MMM yyyy',
-                    month: 'MMM yyyy'
-                }
-            }
-          },
-          
+function getMappedData(stat) {
+    const valueKey = `value_${stat}`;
+    const singleKey = `single_value_${stat}`;
+    const radiiModifier = stat == 'bpm' ? 0.01 : 20; 
+    console.log(radiiModifier);
+
+    const scoreData = rawData.map(d => roundToTwo(d[valueKey]));
+    const tooltipData = rawData.map(d => {
+        const val = parseFloat(d[singleKey]);
+        const sign = val < 0 ? '' : '+';
+        return `${d.Transaction}: ${sign}${roundToTwo(val)}`;
+    });
+
+    const valueMax = Math.max(...rawData.map(d => Math.abs(parseFloat(d[singleKey]))));
+
+    const pointRadii = rawData.map(d => Math.sqrt(Math.abs(d[singleKey]) * radiiModifier));
+    const pointColors = rawData.map(d => {
+        const val = parseFloat(d[singleKey]);
+        const lightness = Math.max((Math.abs(val) / valueMax * -50) + 100, 55);
+        const hue = val < 0 ? 0 : 204;
+        return `hsla(${hue}, 100%, ${lightness}%, 0.5)`;
+    });
+
+    return { scoreData, tooltipData, pointRadii, pointColors };
+}
+
+function makeChart() {
+    const dateLabels = rawData.map(d => d.date.slice(0, 10));
+    const { scoreData, tooltipData, pointRadii, pointColors } = getMappedData(currentStat);
+
+    const ctx = document.getElementById('executiveTenure').getContext('2d');
+    myChart = new Chart(ctx, {
+        type: 'line',
+        data: {
+            labels: dateLabels,
+            datasets: [{
+                label: `Executive Value (${currentStat.toUpperCase()})`,
+                data: scoreData,
+                fill: false,
+                borderColor: 'rgb(75, 192, 192)',
+                tension: 0.1,
+                pointRadius: pointRadii,
+                pointHoverBackgroundColor: 'black',
+                pointHoverRadius: pointRadii,
+                pointBackgroundColor: pointColors
+            }]
         },
-        responsive: true,
-        plugins: {
-          legend: {
-            display: false,
-          },
-          title: {
-            display: true,
-            text: '{{ executive.name }}'
-          },
-          tooltip: {
-            callbacks: {
-                label: function(context) {
-                    return tooltipData[ context.dataIndex];
+        options: {
+            responsive: true,
+            scales: {
+                x: {
+                    type: 'time',
+                    time: {
+                        unit: 'day',
+                        round: 'day',
+                        displayFormats: {
+                            day: 'MMM yyyy',
+                            month: 'MMM yyyy'
+                        }
+                    }
                 }
             },
-            mode: 'nearest',
-            intersect: false,
-          },
-          annotation: {
-            annotations: {
-              line: {
-                type: 'line',
-                yMin: 0,
-                yMax: 0,
-                borderWidth: 2,
-                borderColor: 'gray'
-              }
+            plugins: {
+                legend: { display: false },
+                title: {
+                    display: true,
+                    text: '{{ executive.name }}'
+                },
+                tooltip: {
+                    callbacks: {
+                        label: function(context) {
+                            return getMappedData(currentStat).tooltipData[context.dataIndex];
+                        }
+                    }
+                },
+                annotation: {
+                    annotations: {
+                        line: {
+                            type: 'line',
+                            yMin: 0,
+                            yMax: 0,
+                            borderWidth: 2,
+                            borderColor: 'gray'
+                        }
+                    }
+                }
+            },
+            hover: {
+                mode: 'nearest',
+                intersect: false
             }
-          }
-        },
-        hover: {
-          mode: 'nearest',
-          intersect: false
-        },
-      }
-      
+        }
     });
-    console.log("hello");
-  }
+}
+
+function updateChart() {
+    const { scoreData, tooltipData, pointRadii, pointColors } = getMappedData(currentStat);
+
+    myChart.data.datasets[0].data = scoreData;
+    myChart.data.datasets[0].pointRadius = pointRadii;
+    myChart.data.datasets[0].pointHoverRadius = pointRadii;
+    myChart.data.datasets[0].pointBackgroundColor = pointColors;
+    myChart.data.datasets[0].label = `Executive Value (${currentStat.toUpperCase()})`;
+
+    myChart.options.plugins.tooltip.callbacks.label = function(context) {
+        return tooltipData[context.dataIndex];
+    };
+
+    myChart.update();
+}
+
+function updateTexts() {
+    document.querySelectorAll(".stat-text").forEach(el => {
+        el.textContent = el.dataset[`${currentStat.toLowerCase()}Text`];
+    });
+}
+updateTexts();
   
 </script>
 <hr>
 <hr>
+
 <div class="container">
   <div class="row">
     <h1 style=" text-align:center;">Grade Report</h1>
     
     <div class="col-md-3">
       <h3> Draft Rating:</h3>
-      <p style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);"> {{ executive.draft_rating_grade_vorp}}</h3>
-      <h5> Draft Pick Efficiency Rating: {{ executive.draft_rating_percentile_vorp | round: 2 }} </h5>
-      <h5> Draft Total Value Rating: {{ executive.draft_total_percentile_vorp | round: 2 }} </h5>
+      <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text={{ executive.draft_rating_grade_vorp}} data-bpm-text={{ executive.draft_rating_grade_bpm}}> {{ executive.draft_rating_grade_bpm}}</h3>
+      <h5 > Draft Pick Efficiency Rating: <span class="stat-text" data-vorp-text={{ executive.draft_rating_percentile_vorp | round: 2 }} data-bpm-text={{ executive.draft_rating_percentile_bpm | round: 2 }}><span> {{ executive.draft_rating_percentile_bpm | round: 2 }} </h5>
+      <h5> Draft Total Value Rating: <span class="stat-text" data-vorp-text={{ executive.draft_total_percentile_vorp | round: 2 }} data-bpm-text={{ executive.draft_total_percentile_bpm | round: 2 }}><span> {{ executive.draft_total_percentile_bpm | round: 2 }}  </h5>
     </div>
     <div class="col-md-9">
     <div class="col-md-9"><canvas id="executive_draft_chart"></canvas></div>

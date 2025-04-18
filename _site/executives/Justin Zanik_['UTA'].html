@@ -98,9 +98,11 @@
                 </h3>
             </div>
             
+            
         </div>
         
     </div>
+    
     
 </header>
 
@@ -109,297 +111,288 @@
 
     <div class="container">
         <div class="row">
-          <h1 style=" text-align:center;">Transaction VORP over Tenure</h1>
+          <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
+<button id="toggle-stat">Switch to VORP</button>
 <script>
-  
-  // Load the dataset
-  d3.csv("https://raw.githubusercontent.com/mcoirad/the-grunfeld/master/_data/zanikju01x.csv").then(makeChart);
-  
-  function makeChart(exec_data) {
 
-    function roundToTwo(num) {
+  
+  
+let myChart = null;
+let rawData = [];
+let currentStat = "bpm";
+document.getElementById("toggle-stat").addEventListener("click", () => {
+    currentStat = currentStat === 'vorp' ? 'bpm' : 'vorp';
+    document.getElementById("toggle-stat").innerText = `Switch to ${currentStat === 'vorp' ? 'BPM' : 'VORP'}`;
+    updateChart();
+    updateTexts();
+    updateDraftChart(); 
+
+});
+
+// Load the dataset
+d3.csv("https://raw.githubusercontent.com/mcoirad/the-grunfeld/master/_data/zanikju01x.csv").then(data => {
+    rawData = data;
+    makeChart();
+});
+
+function roundToTwo(num) {
     return Math.round((parseFloat(num) + Number.EPSILON) * 100) / 100;
-  }
-    
-    var dateLabels = exec_data.map(function (d) {
-      return d.date.slice(0, 10);
-    });
-    var scoreData = exec_data.map(function (d) {
-      console.log(d);
-      return roundToTwo(d.value_vorp);
-    });
-    console.log(scoreData);
-    var tooltipData = exec_data.map(function (d) {
-      var plusSign = '+';
-      if (d.single_value_vorp < 0){
-        plusSign = '';
-      } 
-      return d.Transaction + ': ' + plusSign + roundToTwo(d.single_value_vorp);
-    });
-    var pointRadii = exec_data.map(function(d) {
-      return Math.sqrt(Math.abs(d.single_value_vorp) * 20);
-    });
-    var valueMin = Math.min(...exec_data.map(function(d) {
-      return parseInt(d.single_value_vorp);
-    }));
-    var valueMax = Math.max(...exec_data.map(function(d) {
-      return Math.abs(parseInt(d.single_value_vorp));
-    }));
-    var pointColors = exec_data.map(function(d) {
-      var lightness = Math.max(( (Math.abs(d.single_value_vorp) / valueMax ) * -50) + 100, 55);
-      var hue = 204;
-      if (d.single_value_vorp < 0) {
-        hue = 0;
-      };
-      return "hsla(" + hue + ", 100%, " + lightness + "%, 0.5)";
-    });
-    
-    const config = {
-      
-    };
-    
+}
 
-    const myChart = new Chart('executiveTenure', {
-      data: {
-        labels: dateLabels,
-          datasets: [{
-            label: 'My First Dataset',
-            data: scoreData,
-            fill: false,
-            borderColor: 'rgb(75, 192, 192)',
-            tension: 0.1,
-            pointRadius:  pointRadii,
-            pointHoverBackgroundColor: 'black',
-            pointHoverRadius: pointRadii,
-            pointBackgroundColor: pointColors
-          }]
-      },
-      type: 'line',
-      options: {
-        scales: {
-          x: {
-            type: 'time',
-            time: {
-                unit: 'day',
-                round: 'day',
-                displayFormats: {
-                    day: 'MMM yyyy',
-                    month: 'MMM yyyy'
-                }
-            }
-          },
-          
+function getMappedData(stat) {
+    const valueKey = `value_${stat}`;
+    const singleKey = `single_value_${stat}`;
+    const radiiModifier = stat == 'bpm' ? 0.01 : 20; 
+    console.log(radiiModifier);
+
+    const scoreData = rawData.map(d => roundToTwo(d[valueKey]));
+    const tooltipData = rawData.map(d => {
+        const val = parseFloat(d[singleKey]);
+        const sign = val < 0 ? '' : '+';
+        return `${d.Transaction}: ${sign}${roundToTwo(val)}`;
+    });
+
+    const valueMax = Math.max(...rawData.map(d => Math.abs(parseFloat(d[singleKey]))));
+
+    const pointRadii = rawData.map(d => Math.sqrt(Math.abs(d[singleKey]) * radiiModifier));
+    const pointColors = rawData.map(d => {
+        const val = parseFloat(d[singleKey]);
+        const lightness = Math.max((Math.abs(val) / valueMax * -50) + 100, 55);
+        const hue = val < 0 ? 0 : 204;
+        return `hsla(${hue}, 100%, ${lightness}%, 0.5)`;
+    });
+
+    return { scoreData, tooltipData, pointRadii, pointColors };
+}
+
+function makeChart() {
+    const dateLabels = rawData.map(d => d.date.slice(0, 10));
+    const { scoreData, tooltipData, pointRadii, pointColors } = getMappedData(currentStat);
+
+    const ctx = document.getElementById('executiveTenure').getContext('2d');
+    myChart = new Chart(ctx, {
+        type: 'line',
+        data: {
+            labels: dateLabels,
+            datasets: [{
+                label: `Executive Value (${currentStat.toUpperCase()})`,
+                data: scoreData,
+                fill: false,
+                borderColor: 'rgb(75, 192, 192)',
+                tension: 0.1,
+                pointRadius: pointRadii,
+                pointHoverBackgroundColor: 'black',
+                pointHoverRadius: pointRadii,
+                pointBackgroundColor: pointColors
+            }]
         },
-        responsive: true,
-        plugins: {
-          legend: {
-            display: false,
-          },
-          title: {
-            display: true,
-            text: 'Justin Zanik'
-          },
-          tooltip: {
-            callbacks: {
-                label: function(context) {
-                    return tooltipData[ context.dataIndex];
+        options: {
+            responsive: true,
+            scales: {
+                x: {
+                    type: 'time',
+                    time: {
+                        unit: 'day',
+                        round: 'day',
+                        displayFormats: {
+                            day: 'MMM yyyy',
+                            month: 'MMM yyyy'
+                        }
+                    }
                 }
             },
-            mode: 'nearest',
-            intersect: false,
-          },
-          annotation: {
-            annotations: {
-              line: {
-                type: 'line',
-                yMin: 0,
-                yMax: 0,
-                borderWidth: 2,
-                borderColor: 'gray'
-              }
+            plugins: {
+                legend: { display: false },
+                title: {
+                    display: true,
+                    text: 'Justin Zanik'
+                },
+                tooltip: {
+                    callbacks: {
+                        label: function(context) {
+                            return getMappedData(currentStat).tooltipData[context.dataIndex];
+                        }
+                    }
+                },
+                annotation: {
+                    annotations: {
+                        line: {
+                            type: 'line',
+                            yMin: 0,
+                            yMax: 0,
+                            borderWidth: 2,
+                            borderColor: 'gray'
+                        }
+                    }
+                }
+            },
+            hover: {
+                mode: 'nearest',
+                intersect: false
             }
-          }
-        },
-        hover: {
-          mode: 'nearest',
-          intersect: false
-        },
-      }
-      
+        }
     });
-    console.log("hello");
-  }
+}
+
+function updateChart() {
+    const { scoreData, tooltipData, pointRadii, pointColors } = getMappedData(currentStat);
+
+    myChart.data.datasets[0].data = scoreData;
+    myChart.data.datasets[0].pointRadius = pointRadii;
+    myChart.data.datasets[0].pointHoverRadius = pointRadii;
+    myChart.data.datasets[0].pointBackgroundColor = pointColors;
+    myChart.data.datasets[0].label = `Executive Value (${currentStat.toUpperCase()})`;
+
+    myChart.options.plugins.tooltip.callbacks.label = function(context) {
+        return tooltipData[context.dataIndex];
+    };
+
+    myChart.update();
+}
+
+function updateTexts() {
+    document.querySelectorAll(".stat-text").forEach(el => {
+        el.textContent = el.dataset[`${currentStat.toLowerCase()}Text`];
+    });
+}
+updateTexts();
   
 </script>
 <hr>
 <hr>
+
 <div class="container">
   <div class="row">
     <h1 style=" text-align:center;">Grade Report</h1>
     
     <div class="col-md-3">
       <h3> Draft Rating:</h3>
-      <p style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);"> </h3>
-      <h5> Draft Pick Efficiency Rating: NaN </h5>
-      <h5> Draft Total Value Rating: 32.72 </h5>
+      <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text= data-bpm-text=> </h3>
+      <h5 > Draft Pick Efficiency Rating: <span class="stat-text" data-vorp-text=NaN data-bpm-text=NaN><span> NaN </h5>
+      <h5> Draft Total Value Rating: <span class="stat-text" data-vorp-text=32.72 data-bpm-text=32.72><span> 32.72  </h5>
     </div>
     <div class="col-md-9">
     <div class="col-md-9"><canvas id="executive_draft_chart"></canvas></div>
     <script>
-      
+      let myDraftChart = null;
+      let rawDraftData = [];
     // Load the dataset
-    d3.csv("https://raw.githubusercontent.com/mcoirad/the-grunfeld/master/_data/executive/executive_stats.csv").then(makeChart);
+    d3.csv("https://raw.githubusercontent.com/mcoirad/the-grunfeld/master/_data/executive/executive_stats.csv").then(makeChartExecutiveDraft);
     
-    function makeChart(exec_data) {
-      console.log(exec_data);
-      var filtered_data = exec_data.filter(function (d) {
-        return d.draft_total_vorp != "" && d.draft_rating_percentile_vorp != "";
-      });
-      
-      var dateLabels = filtered_data.map(function (d) {
-        return d.draft_rating_vorp;
-      });
-      var scoreData = filtered_data.map(function (d) {
-        return {
-          x: d.draft_total_percentile_vorp,
-          y: d.draft_rating_percentile_vorp
-        };
-      });
-      console.log(scoreData);
-      var tooltipData = filtered_data.map(function (d) {
-        return d.name;
-      });
+    function makeChartExecutiveDraft(exec_data) {
+  rawDraftData = exec_data;
 
+  const { scoreData, tooltipData, pointRadii, pointBorderColors, pointBackgroundColors } =
+    getDraftChartMappedData(currentStat);
 
-      var pointRadii = filtered_data.map(function(d) {
-        return 10;
-      })
-      var pointBorderColors = filtered_data.map(function(d) {
-        if (d.is_active == 'True'){
-          return 'red';
-        } else{
-          return 'rgb(75, 192, 192)';
-        }
-      })
-
-      var pointBackgroundColors = filtered_data.map(function(d) {
-        if (d.name == 'Justin Zanik' && d.is_active == 'True'){
-          return 'red';
-        } else if (d.name == 'Justin Zanik' && d.is_active == 'False') {
-          return 'rgb(75, 192, 192)';
-        }else{
-          return 'rgba(0,0,0,0.1)';
-        }
-      })
-
-    function generateLabelsFunc(chart) {
-        const pointBorderColors = filtered_data.map(function(d) {
-          return d.is_active === 'True' ? 'red' : 'rgb(75, 192, 192)';
-        });
-
-        // Collect unique colors and their labels
-        const colorLabels = {};
-        pointBorderColors.forEach((color, index) => {
-          if (!colorLabels[color]) {
-            colorLabels[color] = {
-              text: (color === 'red') ? 'Active' : 'Inactive',
-              fillStyle: color,
-              strokeStyle: color,
-              lineWidth: 2,
-              hidden: false,
-              index: index
-            };
-          }
-        });
-
-        return Object.values(colorLabels);
-      }
-      
-      
-      const config = {
-        
-      };
-      
-
-      const myChart = new Chart('executive_draft_chart', {
-        data: {
-          //labels: dateLabels,
-            datasets: [{
-              label: 'My First Dataset',
-              data: scoreData,
-              //fill: "red",
-              borderColor: pointBorderColors,
-              backgroundColor: pointBackgroundColors,
-              tension: 0.1,
-              pointRadius:  pointRadii,
-              pointHoverBackgroundColor: 'red',
-              pointHoverRadius: pointRadii,
-            }]
+  const ctx = document.getElementById('executive_draft_chart').getContext('2d');
+  myDraftChart = new Chart(ctx, {
+    data: {
+      datasets: [{
+        label: 'Executive Draft Dataset',
+        data: scoreData,
+        borderColor: pointBorderColors,
+        backgroundColor: pointBackgroundColors,
+        tension: 0.1,
+        pointRadius: pointRadii,
+        pointHoverBackgroundColor: 'red',
+        pointHoverRadius: pointRadii,
+      }]
+    },
+    type: 'scatter',
+    options: {
+      plugins: {
+        legend: {
+          position: 'top',
+          display: false,
         },
-        type: 'scatter',
-        options: {
-          plugins: { 
-            legend: {
-              position: 'top',
-              generateLabels: generateLabelsFunc,
-              display: false,
-            },
-            title: {
-              display: true,
-              text: 'Executive Draft Ratings'
-            },
-            tooltip: {
-              callbacks: {
-                  label: function(context) {
-                      return tooltipData[ context.dataIndex];
-                  }
-              },
-              mode: 'nearest',
-              intersect: false,
+        title: {
+          display: true,
+          text: 'Executive Draft Ratings'
+        },
+        tooltip: {
+          callbacks: {
+            label: function(context) {
+              return tooltipData[context.dataIndex];
             }
           },
-          scales:{
-            x:{
-              title: {
-                display: true,
-                text: 'Percentile of Total Draft Value',
-                
-                color: "black"
-              },                
-              grid: {
-                display: true,
-                drawOnChartArea: true,
-                drawTicks: true,
-                z: 100,
-                drawTicks: true,
-                drawBorder: true,
-              },
-              gridLines:{
-                color: 'rgba(0, 0, 0, 0.9)' 
-              }
-            },
-            y:{
-              title: {
-                text: 'Percentile of Draft Pick Efficiency',
-                display: true,
-                color: "black"
-              }
-            }
-          },
-          responsive: true,
-          
-          hover: {
-            mode: 'nearest',
-            intersect: false
-          },
+          mode: 'nearest',
+          intersect: false,
         }
-        
-      });
-      console.log("hello");
+      },
+      scales: {
+        x: {
+          title: {
+            display: true,
+            text: 'Percentile for Total Draft Value',
+            color: "black"
+          }
+        },
+        y: {
+          title: {
+            display: true,
+            text: 'Percentile for Draft Pick Efficiency',
+            color: "black"
+          }
+        }
+      },
+      responsive: true,
+      hover: {
+        mode: 'nearest',
+        intersect: false
+      },
     }
+  });
+}
+
+function getDraftChartMappedData(stat) {
+  const valueKeyX = `draft_total_percentile_${stat}`;
+  const valueKeyY = `draft_rating_percentile_${stat}`;
+  const tooltipData = [];
+  const scoreData = [];
+  const pointRadii = [];
+  const pointBorderColors = [];
+  const pointBackgroundColors = [];
+
+  const filtered = rawDraftData.filter(d => d[valueKeyX] !== "" && d[valueKeyY] !== "");
+
+  for (const d of filtered) {
+    scoreData.push({ x: parseFloat(d[valueKeyX]), y: parseFloat(d[valueKeyY]) });
+    tooltipData.push(d.name);
+    pointRadii.push(10);
+    pointBorderColors.push(d.is_active === 'True' ? 'red' : 'rgb(75, 192, 192)');
+
+    if (d.name === 'Justin Zanik') {
+      pointBackgroundColors.push(d.is_active === 'True' ? 'red' : 'rgb(75, 192, 192)');
+    } else {
+      pointBackgroundColors.push('rgba(0,0,0,0.1)');
+    }
+  }
+
+  return { scoreData, tooltipData, pointRadii, pointBorderColors, pointBackgroundColors };
+}
+
+function updateDraftChart() {
+  const { scoreData, tooltipData, pointRadii, pointBorderColors, pointBackgroundColors } =
+    getDraftChartMappedData(currentStat);
+
+  const dataset = myDraftChart.data.datasets[0];
+  dataset.data = scoreData;
+  dataset.pointRadius = pointRadii;
+  dataset.pointHoverRadius = pointRadii;
+  dataset.backgroundColor = pointBackgroundColors;
+  dataset.borderColor = pointBorderColors;
+  dataset.label = `Executive Draft Dataset (${currentStat.toUpperCase()})`;
+
+  myDraftChart.options.plugins.tooltip.callbacks.label = function(context) {
+    return tooltipData[context.dataIndex];
+  };
+
+  myDraftChart.update();
+}
     
   </script>
 

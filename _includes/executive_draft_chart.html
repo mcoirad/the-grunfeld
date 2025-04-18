@@ -1,154 +1,119 @@
 <script>
-      
+      let myDraftChart = null;
+      let rawDraftData = [];
     // Load the dataset
-    d3.csv("https://raw.githubusercontent.com/mcoirad/the-grunfeld/master/_data/executive/executive_stats.csv").then(makeChart);
+    d3.csv("https://raw.githubusercontent.com/mcoirad/the-grunfeld/master/_data/executive/executive_stats.csv").then(makeChartExecutiveDraft);
     
-    function makeChart(exec_data) {
-      console.log(exec_data);
-      var filtered_data = exec_data.filter(function (d) {
-        return d.draft_total_vorp != "" && d.draft_rating_percentile_vorp != "";
-      });
-      
-      var dateLabels = filtered_data.map(function (d) {
-        return d.draft_rating_vorp;
-      });
-      var scoreData = filtered_data.map(function (d) {
-        return {
-          x: d.draft_total_percentile_vorp,
-          y: d.draft_rating_percentile_vorp
-        };
-      });
-      console.log(scoreData);
-      var tooltipData = filtered_data.map(function (d) {
-        return d.name;
-      });
+    function makeChartExecutiveDraft(exec_data) {
+  rawDraftData = exec_data;
 
+  const { scoreData, tooltipData, pointRadii, pointBorderColors, pointBackgroundColors } =
+    getDraftChartMappedData(currentStat);
 
-      var pointRadii = filtered_data.map(function(d) {
-        return 10;
-      })
-      var pointBorderColors = filtered_data.map(function(d) {
-        if (d.is_active == 'True'){
-          return 'red';
-        } else{
-          return 'rgb(75, 192, 192)';
-        }
-      })
-
-      var pointBackgroundColors = filtered_data.map(function(d) {
-        if (d.name == '{{ include.exec_name }}' && d.is_active == 'True'){
-          return 'red';
-        } else if (d.name == '{{ include.exec_name }}' && d.is_active == 'False') {
-          return 'rgb(75, 192, 192)';
-        }else{
-          return 'rgba(0,0,0,0.1)';
-        }
-      })
-
-    function generateLabelsFunc(chart) {
-        const pointBorderColors = filtered_data.map(function(d) {
-          return d.is_active === 'True' ? 'red' : 'rgb(75, 192, 192)';
-        });
-
-        // Collect unique colors and their labels
-        const colorLabels = {};
-        pointBorderColors.forEach((color, index) => {
-          if (!colorLabels[color]) {
-            colorLabels[color] = {
-              text: (color === 'red') ? 'Active' : 'Inactive',
-              fillStyle: color,
-              strokeStyle: color,
-              lineWidth: 2,
-              hidden: false,
-              index: index
-            };
-          }
-        });
-
-        return Object.values(colorLabels);
-      }
-      
-      
-      const config = {
-        
-      };
-      
-
-      const myChart = new Chart('executive_draft_chart', {
-        data: {
-          //labels: dateLabels,
-            datasets: [{
-              label: 'My First Dataset',
-              data: scoreData,
-              //fill: "red",
-              borderColor: pointBorderColors,
-              backgroundColor: pointBackgroundColors,
-              tension: 0.1,
-              pointRadius:  pointRadii,
-              pointHoverBackgroundColor: 'red',
-              pointHoverRadius: pointRadii,
-            }]
+  const ctx = document.getElementById('executive_draft_chart').getContext('2d');
+  myDraftChart = new Chart(ctx, {
+    data: {
+      datasets: [{
+        label: 'Executive Draft Dataset',
+        data: scoreData,
+        borderColor: pointBorderColors,
+        backgroundColor: pointBackgroundColors,
+        tension: 0.1,
+        pointRadius: pointRadii,
+        pointHoverBackgroundColor: 'red',
+        pointHoverRadius: pointRadii,
+      }]
+    },
+    type: 'scatter',
+    options: {
+      plugins: {
+        legend: {
+          position: 'top',
+          display: false,
         },
-        type: 'scatter',
-        options: {
-          plugins: { 
-            legend: {
-              position: 'top',
-              generateLabels: generateLabelsFunc,
-              display: false,
-            },
-            title: {
-              display: true,
-              text: 'Executive Draft Ratings'
-            },
-            tooltip: {
-              callbacks: {
-                  label: function(context) {
-                      return tooltipData[ context.dataIndex];
-                  }
-              },
-              mode: 'nearest',
-              intersect: false,
+        title: {
+          display: true,
+          text: 'Executive Draft Ratings'
+        },
+        tooltip: {
+          callbacks: {
+            label: function(context) {
+              return tooltipData[context.dataIndex];
             }
           },
-          scales:{
-            x:{
-              title: {
-                display: true,
-                text: 'Percentile of Total Draft Value',
-                
-                color: "black"
-              },                
-              grid: {
-                display: true,
-                drawOnChartArea: true,
-                drawTicks: true,
-                z: 100,
-                drawTicks: true,
-                drawBorder: true,
-              },
-              gridLines:{
-                color: 'rgba(0, 0, 0, 0.9)' 
-              }
-            },
-            y:{
-              title: {
-                text: 'Percentile of Draft Pick Efficiency',
-                display: true,
-                color: "black"
-              }
-            }
-          },
-          responsive: true,
-          
-          hover: {
-            mode: 'nearest',
-            intersect: false
-          },
+          mode: 'nearest',
+          intersect: false,
         }
-        
-      });
-      console.log("hello");
+      },
+      scales: {
+        x: {
+          title: {
+            display: true,
+            text: 'Percentile for Total Draft Value',
+            color: "black"
+          }
+        },
+        y: {
+          title: {
+            display: true,
+            text: 'Percentile for Draft Pick Efficiency',
+            color: "black"
+          }
+        }
+      },
+      responsive: true,
+      hover: {
+        mode: 'nearest',
+        intersect: false
+      },
     }
+  });
+}
+
+function getDraftChartMappedData(stat) {
+  const valueKeyX = `draft_total_percentile_${stat}`;
+  const valueKeyY = `draft_rating_percentile_${stat}`;
+  const tooltipData = [];
+  const scoreData = [];
+  const pointRadii = [];
+  const pointBorderColors = [];
+  const pointBackgroundColors = [];
+
+  const filtered = rawDraftData.filter(d => d[valueKeyX] !== "" && d[valueKeyY] !== "");
+
+  for (const d of filtered) {
+    scoreData.push({ x: parseFloat(d[valueKeyX]), y: parseFloat(d[valueKeyY]) });
+    tooltipData.push(d.name);
+    pointRadii.push(10);
+    pointBorderColors.push(d.is_active === 'True' ? 'red' : 'rgb(75, 192, 192)');
+
+    if (d.name === '{{ include.exec_name }}') {
+      pointBackgroundColors.push(d.is_active === 'True' ? 'red' : 'rgb(75, 192, 192)');
+    } else {
+      pointBackgroundColors.push('rgba(0,0,0,0.1)');
+    }
+  }
+
+  return { scoreData, tooltipData, pointRadii, pointBorderColors, pointBackgroundColors };
+}
+
+function updateDraftChart() {
+  const { scoreData, tooltipData, pointRadii, pointBorderColors, pointBackgroundColors } =
+    getDraftChartMappedData(currentStat);
+
+  const dataset = myDraftChart.data.datasets[0];
+  dataset.data = scoreData;
+  dataset.pointRadius = pointRadii;
+  dataset.pointHoverRadius = pointRadii;
+  dataset.backgroundColor = pointBackgroundColors;
+  dataset.borderColor = pointBorderColors;
+  dataset.label = `Executive Draft Dataset (${currentStat.toUpperCase()})`;
+
+  myDraftChart.options.plugins.tooltip.callbacks.label = function(context) {
+    return tooltipData[context.dataIndex];
+  };
+
+  myDraftChart.update();
+}
     
   </script>
