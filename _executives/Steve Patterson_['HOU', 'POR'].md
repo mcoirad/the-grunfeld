@@ -6,13 +6,14 @@ draft_description: Steve Patterson ranks in the 78th percentile for drafting amo
   equivalent of 6 spots higher than they were picked due to his good drafting.
 draft_num_players: 6
 draft_rating_bpm: 12.2
+draft_rating_grade_bpm: A+
 draft_rating_grade_vorp: B+
 draft_rating_percentile_bpm: 95.41284403669725
 draft_rating_percentile_vorp: 78.89908256880734
 draft_rating_vorp: 6.0
 draft_total_bpm: 3201
-draft_total_percentile_bpm: 51.23456790123457
-draft_total_percentile_vorp: 51.23456790123457
+draft_total_percentile_bpm: 51.829268292682926
+draft_total_percentile_vorp: 51.829268292682926
 draft_total_vorp: 9
 draft_win_list: '<ul>
 

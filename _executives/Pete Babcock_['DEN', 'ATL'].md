@@ -1,5 +1,5 @@
 ---
-bpm_rank: 109
+bpm_rank: 111
 draft_bust_list: '<ul>
 
   <li>Drafted Alan Henderson with 16th pick but was worth 18th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Pete Babcock ranks in the 21th percentile for drafting among 
   7 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 19
 draft_rating_bpm: -6.5
+draft_rating_grade_bpm: D
 draft_rating_grade_vorp: D-
 draft_rating_percentile_bpm: 28.440366972477065
 draft_rating_percentile_vorp: 21.10091743119266
 draft_rating_vorp: -6.7
 draft_total_bpm: -93330
-draft_total_percentile_bpm: 54.93827160493827
-draft_total_percentile_vorp: 54.93827160493827
+draft_total_percentile_bpm: 55.48780487804878
+draft_total_percentile_vorp: 55.48780487804878
 draft_total_vorp: 12
 draft_win_list: '<ul>
 

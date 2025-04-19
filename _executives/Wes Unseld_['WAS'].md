@@ -1,5 +1,5 @@
 ---
-bpm_rank: 150
+bpm_rank: 152
 draft_bust_list: '<ul>
 
   <li>Drafted Richard Hamilton with 7th pick but was worth 14th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Wes Unseld ranks in the 28th percentile for drafting among ex
   5 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 6
 draft_rating_bpm: -8.5
+draft_rating_grade_bpm: D-
 draft_rating_grade_vorp: D
 draft_rating_percentile_bpm: 22.01834862385321
 draft_rating_percentile_vorp: 28.440366972477065
 draft_rating_vorp: -5.3
 draft_total_bpm: -53172
-draft_total_percentile_bpm: 4.320987654320987
-draft_total_percentile_vorp: 4.320987654320987
+draft_total_percentile_bpm: 4.2682926829268295
+draft_total_percentile_vorp: 4.2682926829268295
 draft_total_vorp: -2
 draft_win_list: '<ul>
 

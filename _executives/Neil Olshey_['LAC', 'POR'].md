@@ -14,13 +14,14 @@ draft_description: Neil Olshey ranks in the 47th percentile for drafting among e
   1 spot higher than they were picked due to his good drafting.
 draft_num_players: 14
 draft_rating_bpm: -2.1
+draft_rating_grade_bpm: C-
 draft_rating_grade_vorp: C
 draft_rating_percentile_bpm: 45.87155963302752
 draft_rating_percentile_vorp: 47.706422018348626
 draft_rating_vorp: 0.8
 draft_total_bpm: 105545
-draft_total_percentile_bpm: 85.18518518518519
-draft_total_percentile_vorp: 85.18518518518519
+draft_total_percentile_bpm: 85.36585365853658
+draft_total_percentile_vorp: 85.36585365853658
 draft_total_vorp: 63
 draft_win_list: '<ul>
 
@@ -36,7 +37,7 @@ final_bpm: 106625
 href: olshene99x
 is_active: false
 name: Neil Olshey
-signing_description: Neil Olshey ranks in the 51th percentile for free agency signings
+signing_description: Neil Olshey ranks in the 50th percentile for free agency signings
   among executives in our database. That's basically average. It could be worse though
   lol.
 signing_lose_list: '<ul>

@@ -14,13 +14,14 @@ draft_description: Don Nelson ranks in the 66th percentile for drafting among ex
   4 spots higher than they were picked due to his good drafting.
 draft_num_players: 30
 draft_rating_bpm: -2.7
+draft_rating_grade_bpm: C-
 draft_rating_grade_vorp: B-
 draft_rating_percentile_bpm: 43.11926605504587
 draft_rating_percentile_vorp: 66.97247706422019
 draft_rating_vorp: 3.5
 draft_total_bpm: 202632
-draft_total_percentile_bpm: 97.53086419753086
-draft_total_percentile_vorp: 97.53086419753086
+draft_total_percentile_bpm: 97.5609756097561
+draft_total_percentile_vorp: 97.5609756097561
 draft_total_vorp: 142
 draft_win_list: '<ul>
 

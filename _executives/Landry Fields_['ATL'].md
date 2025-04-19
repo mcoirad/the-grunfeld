@@ -1,5 +1,5 @@
 ---
-bpm_rank: 76
+bpm_rank: 77
 draft_bust_list: '<ul>
 
   <li>Drafted Zaccharie Risacher with 1th pick but was worth 48th pick.</li>
@@ -11,13 +11,14 @@ draft_description: This executive has only drafted 3 players and thus doesn't ha
   a draft grade.
 draft_num_players: 3
 draft_rating_bpm: null
+draft_rating_grade_bpm: null
 draft_rating_grade_vorp: null
 draft_rating_percentile_bpm: .nan
 draft_rating_percentile_vorp: .nan
 draft_rating_vorp: null
 draft_total_bpm: -8776
-draft_total_percentile_bpm: 10.493827160493828
-draft_total_percentile_vorp: 10.493827160493828
+draft_total_percentile_bpm: 10.365853658536585
+draft_total_percentile_vorp: 10.365853658536585
 draft_total_vorp: -1
 draft_win_list: '<ul>
 

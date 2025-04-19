@@ -5,13 +5,14 @@ draft_description: This executive has only drafted 2 players and thus doesn't ha
   a draft grade.
 draft_num_players: 2
 draft_rating_bpm: null
+draft_rating_grade_bpm: null
 draft_rating_grade_vorp: null
 draft_rating_percentile_bpm: .nan
 draft_rating_percentile_vorp: .nan
 draft_rating_vorp: null
 draft_total_bpm: 856
-draft_total_percentile_bpm: 40.74074074074074
-draft_total_percentile_vorp: 40.74074074074074
+draft_total_percentile_bpm: 41.46341463414634
+draft_total_percentile_vorp: 41.46341463414634
 draft_total_vorp: 2
 draft_win_list: '<ul>
 
@@ -21,7 +22,7 @@ final_bpm: 29523
 href: dunlemi02x
 is_active: true
 name: Mike Dunleavy
-signing_description: 'Mike Dunleavy ranks in the 82th percentile for free agency signings
+signing_description: 'Mike Dunleavy ranks in the 83th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 

@@ -1,5 +1,5 @@
 ---
-bpm_rank: 147
+bpm_rank: 149
 draft_bust_list: '<ul>
 
   <li>Drafted Juwan Howard with 5th pick but was worth 15th pick.</li>
@@ -14,13 +14,14 @@ draft_description: John Nash ranks in the 6th percentile for drafting among exec
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 10
 draft_rating_bpm: -13.5
+draft_rating_grade_bpm: F
 draft_rating_grade_vorp: F
 draft_rating_percentile_bpm: 9.174311926605505
 draft_rating_percentile_vorp: 6.422018348623853
 draft_rating_vorp: -12.7
 draft_total_bpm: -62337
-draft_total_percentile_bpm: 5.555555555555555
-draft_total_percentile_vorp: 5.555555555555555
+draft_total_percentile_bpm: 5.487804878048781
+draft_total_percentile_vorp: 5.487804878048781
 draft_total_vorp: -2
 draft_win_list: '<ul>
 
@@ -70,7 +71,7 @@ team_shortcode:
 - WAS
 - BRK
 - POR
-trade_description: 'John Nash ranks in the 81th percentile for trading among executives
+trade_description: 'John Nash ranks in the 82th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 

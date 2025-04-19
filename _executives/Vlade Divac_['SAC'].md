@@ -1,5 +1,5 @@
 ---
-bpm_rank: 108
+bpm_rank: 110
 draft_bust_list: '<ul>
 
   <li>Drafted Marvin Bagley III with 2th pick but was worth 26th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Vlade Divac ranks in the 19th percentile for drafting among e
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
 draft_rating_bpm: -8.6
+draft_rating_grade_bpm: D-
 draft_rating_grade_vorp: F
 draft_rating_percentile_bpm: 21.10091743119266
 draft_rating_percentile_vorp: 19.26605504587156
 draft_rating_vorp: -8.2
 draft_total_bpm: 2055
-draft_total_percentile_bpm: 58.641975308641975
-draft_total_percentile_vorp: 58.641975308641975
+draft_total_percentile_bpm: 59.146341463414636
+draft_total_percentile_vorp: 59.146341463414636
 draft_total_vorp: 16
 draft_win_list: '<ul>
 

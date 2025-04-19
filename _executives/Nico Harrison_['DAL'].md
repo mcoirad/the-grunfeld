@@ -1,17 +1,18 @@
 ---
-bpm_rank: 87
+bpm_rank: 89
 draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
   a draft grade.
 draft_num_players: 0
 draft_rating_bpm: null
+draft_rating_grade_bpm: null
 draft_rating_grade_vorp: null
 draft_rating_percentile_bpm: .nan
 draft_rating_percentile_vorp: .nan
 draft_rating_vorp: null
 draft_total_bpm: 0
-draft_total_percentile_bpm: 32.71604938271605
-draft_total_percentile_vorp: 32.71604938271605
+draft_total_percentile_bpm: 33.53658536585366
+draft_total_percentile_vorp: 33.53658536585366
 draft_total_vorp: 0
 draft_win_list: null
 end_year: 2026
@@ -19,7 +20,7 @@ final_bpm: -20965
 href: harrini01x
 is_active: true
 name: Nico Harrison
-signing_description: 'Nico Harrison ranks in the 43th percentile for free agency signings
+signing_description: 'Nico Harrison ranks in the 42th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 

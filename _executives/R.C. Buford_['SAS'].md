@@ -14,13 +14,14 @@ draft_description: R.C. Buford ranks in the 80th percentile for drafting among e
   7 spots higher than they were picked due to his good drafting.
 draft_num_players: 17
 draft_rating_bpm: 3.3
+draft_rating_grade_bpm: B
 draft_rating_grade_vorp: A-
 draft_rating_percentile_bpm: 70.64220183486239
 draft_rating_percentile_vorp: 80.73394495412845
 draft_rating_vorp: 6.7
 draft_total_bpm: 2119
-draft_total_percentile_bpm: 72.22222222222223
-draft_total_percentile_vorp: 72.22222222222223
+draft_total_percentile_bpm: 72.5609756097561
+draft_total_percentile_vorp: 72.5609756097561
 draft_total_vorp: 31
 draft_win_list: '<ul>
 

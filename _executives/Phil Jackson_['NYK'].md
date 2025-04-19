@@ -1,17 +1,18 @@
 ---
-bpm_rank: 116
+bpm_rank: 118
 draft_bust_list: null
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
 draft_rating_bpm: null
+draft_rating_grade_bpm: null
 draft_rating_grade_vorp: null
 draft_rating_percentile_bpm: .nan
 draft_rating_percentile_vorp: .nan
 draft_rating_vorp: null
 draft_total_bpm: 633
-draft_total_percentile_bpm: 43.82716049382716
-draft_total_percentile_vorp: 43.82716049382716
+draft_total_percentile_bpm: 44.51219512195122
+draft_total_percentile_vorp: 44.51219512195122
 draft_total_vorp: 4
 draft_win_list: '<ul>
 
@@ -25,7 +26,7 @@ final_bpm: -54733
 href: jacksph99x
 is_active: false
 name: Phil Jackson
-signing_description: 'Phil Jackson ranks in the 19th percentile for free agency signings
+signing_description: 'Phil Jackson ranks in the 18th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -53,7 +54,7 @@ team:
 - New York Knicks
 team_shortcode:
 - NYK
-trade_description: 'Phil Jackson ranks in the 55th percentile for trading among executives
+trade_description: 'Phil Jackson ranks in the 56th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 

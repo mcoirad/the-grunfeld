@@ -12,13 +12,14 @@ draft_description: Steve Kerr ranks in the 42th percentile for drafting among ex
   spot lower than they were picked due to their terrible drafting.
 draft_num_players: 5
 draft_rating_bpm: 3.6
+draft_rating_grade_bpm: B
 draft_rating_grade_vorp: C-
 draft_rating_percentile_bpm: 71.55963302752293
 draft_rating_percentile_vorp: 42.20183486238532
 draft_rating_vorp: -1.2
 draft_total_bpm: -14506
-draft_total_percentile_bpm: 9.25925925925926
-draft_total_percentile_vorp: 9.25925925925926
+draft_total_percentile_bpm: 9.146341463414634
+draft_total_percentile_vorp: 9.146341463414634
 draft_total_vorp: -1
 draft_win_list: '<ul>
 
@@ -30,7 +31,7 @@ final_bpm: 6578
 href: kerrst01x
 is_active: false
 name: Steve Kerr
-signing_description: 'Steve Kerr ranks in the 80th percentile for free agency signings
+signing_description: 'Steve Kerr ranks in the 79th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -42,7 +43,7 @@ signing_lose_list: '<ul>
 
   </ul>'
 signing_rating_bpm: -0.5
-signing_rating_grade_vorp: A-
+signing_rating_grade_vorp: B+
 signing_rating_vorp: 0.07
 signing_win_list: '<ul>
 

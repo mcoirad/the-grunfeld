@@ -1,5 +1,5 @@
 ---
-bpm_rank: 82
+bpm_rank: 84
 draft_bust_list: '<ul>
 
   <li>Drafted Coby White with 7th pick but was worth 16th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Gar Forman ranks in the 61th percentile for drafting among ex
   3 spots higher than they were picked due to his good drafting.
 draft_num_players: 15
 draft_rating_bpm: -1.6
+draft_rating_grade_bpm: C
 draft_rating_grade_vorp: B-
 draft_rating_percentile_bpm: 50.45871559633027
 draft_rating_percentile_vorp: 61.46788990825688
 draft_rating_vorp: 2.7
 draft_total_bpm: -33310
-draft_total_percentile_bpm: 64.81481481481481
-draft_total_percentile_vorp: 64.81481481481481
+draft_total_percentile_bpm: 65.2439024390244
+draft_total_percentile_vorp: 65.2439024390244
 draft_total_vorp: 22
 draft_win_list: '<ul>
 

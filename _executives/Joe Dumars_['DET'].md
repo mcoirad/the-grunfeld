@@ -14,13 +14,14 @@ draft_description: Joe Dumars ranks in the 74th percentile for drafting among ex
   5 spots higher than they were picked due to his good drafting.
 draft_num_players: 26
 draft_rating_bpm: 5.0
+draft_rating_grade_bpm: B+
 draft_rating_grade_vorp: B+
 draft_rating_percentile_bpm: 76.14678899082568
 draft_rating_percentile_vorp: 74.31192660550458
 draft_rating_vorp: 4.9
 draft_total_bpm: -47089
-draft_total_percentile_bpm: 82.09876543209876
-draft_total_percentile_vorp: 82.09876543209876
+draft_total_percentile_bpm: 82.3170731707317
+draft_total_percentile_vorp: 82.3170731707317
 draft_total_vorp: 50
 draft_win_list: '<ul>
 

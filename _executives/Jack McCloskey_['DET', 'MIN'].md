@@ -14,13 +14,14 @@ draft_description: Jack McCloskey ranks in the 90th percentile for drafting amon
   equivalent of 10 spots higher than they were picked due to his good drafting.
 draft_num_players: 21
 draft_rating_bpm: 7.9
+draft_rating_grade_bpm: A-
 draft_rating_grade_vorp: A
 draft_rating_percentile_bpm: 82.56880733944953
 draft_rating_percentile_vorp: 90.8256880733945
 draft_rating_vorp: 10.0
 draft_total_bpm: 123507
-draft_total_percentile_bpm: 94.44444444444444
-draft_total_percentile_vorp: 94.44444444444444
+draft_total_percentile_bpm: 94.51219512195122
+draft_total_percentile_vorp: 94.51219512195122
 draft_total_vorp: 103
 draft_win_list: '<ul>
 

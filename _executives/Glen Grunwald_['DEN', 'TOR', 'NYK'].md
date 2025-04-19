@@ -1,5 +1,5 @@
 ---
-bpm_rank: 148
+bpm_rank: 150
 draft_bust_list: '<ul>
 
   <li>Drafted Tim Hardaway Jr. with 24th pick but was worth 12th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Glen Grunwald ranks in the 32th percentile for drafting among
   4 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
 draft_rating_bpm: -12.0
+draft_rating_grade_bpm: F
 draft_rating_grade_vorp: D
 draft_rating_percentile_bpm: 12.844036697247706
 draft_rating_percentile_vorp: 32.11009174311926
 draft_rating_vorp: -4.4
 draft_total_bpm: 19891
-draft_total_percentile_bpm: 67.28395061728395
-draft_total_percentile_vorp: 67.28395061728395
+draft_total_percentile_bpm: 67.6829268292683
+draft_total_percentile_vorp: 67.6829268292683
 draft_total_vorp: 27
 draft_win_list: '<ul>
 
@@ -32,7 +33,7 @@ final_bpm: -131828
 href: grunwgl99x
 is_active: false
 name: Glen Grunwald
-signing_description: 'Glen Grunwald ranks in the 59th percentile for free agency signings
+signing_description: 'Glen Grunwald ranks in the 58th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 

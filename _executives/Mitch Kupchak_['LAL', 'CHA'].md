@@ -1,5 +1,5 @@
 ---
-bpm_rank: 160
+bpm_rank: 162
 draft_bust_list: '<ul>
 
   <li>Drafted Brandon Ingram with 2th pick but was worth 11th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Mitch Kupchak ranks in the 81th percentile for drafting among
   7 spots higher than they were picked due to his good drafting.
 draft_num_players: 23
 draft_rating_bpm: 11.0
+draft_rating_grade_bpm: A
 draft_rating_grade_vorp: A-
 draft_rating_percentile_bpm: 92.66055045871559
 draft_rating_percentile_vorp: 81.65137614678899
 draft_rating_vorp: 6.9
 draft_total_bpm: -66571
-draft_total_percentile_bpm: 64.19753086419753
-draft_total_percentile_vorp: 64.19753086419753
+draft_total_percentile_bpm: 64.63414634146342
+draft_total_percentile_vorp: 64.63414634146342
 draft_total_vorp: 21
 draft_win_list: '<ul>
 
@@ -66,7 +67,7 @@ team:
 team_shortcode:
 - LAL
 - CHA
-trade_description: 'Mitch Kupchak ranks in the 44th percentile for trading among executives
+trade_description: 'Mitch Kupchak ranks in the 43th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 

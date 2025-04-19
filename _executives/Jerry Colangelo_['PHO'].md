@@ -14,13 +14,14 @@ draft_description: Jerry Colangelo ranks in the 95th percentile for drafting amo
   equivalent of 12 spots higher than they were picked due to his good drafting.
 draft_num_players: 52
 draft_rating_bpm: 9.9
+draft_rating_grade_bpm: A
 draft_rating_grade_vorp: A+
 draft_rating_percentile_bpm: 87.1559633027523
 draft_rating_percentile_vorp: 95.41284403669725
 draft_rating_vorp: 11.8
 draft_total_bpm: 153284
-draft_total_percentile_bpm: 99.38271604938272
-draft_total_percentile_vorp: 99.38271604938272
+draft_total_percentile_bpm: 99.39024390243902
+draft_total_percentile_vorp: 99.39024390243902
 draft_total_vorp: 154
 draft_win_list: '<ul>
 
@@ -36,7 +37,7 @@ final_bpm: 301413
 href: colanje99x
 is_active: false
 name: Jerry Colangelo
-signing_description: 'Jerry Colangelo ranks in the 45th percentile for free agency
+signing_description: 'Jerry Colangelo ranks in the 44th percentile for free agency
   signings among executives in our database. '
 signing_lose_list: '<ul>
 

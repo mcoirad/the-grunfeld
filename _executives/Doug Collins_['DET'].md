@@ -1,18 +1,19 @@
 ---
-bpm_rank: 99
+bpm_rank: 101
 draft_bust_list: null
 draft_description: Doug Collins ranks in the 78th percentile for drafting among executives
   in our database. Collins's draft picks average out to be worth the equivalent of
   6 spots higher than they were picked due to his good drafting.
 draft_num_players: 7
 draft_rating_bpm: 9.0
+draft_rating_grade_bpm: A-
 draft_rating_grade_vorp: B+
 draft_rating_percentile_bpm: 85.3211009174312
 draft_rating_percentile_vorp: 78.89908256880734
 draft_rating_vorp: 6.0
 draft_total_bpm: -4090
-draft_total_percentile_bpm: 47.53086419753087
-draft_total_percentile_vorp: 47.53086419753087
+draft_total_percentile_bpm: 48.170731707317074
+draft_total_percentile_vorp: 48.170731707317074
 draft_total_vorp: 6
 draft_win_list: '<ul>
 
@@ -50,7 +51,7 @@ team:
 - Detroit Pistons
 team_shortcode:
 - DET
-trade_description: 'Doug Collins ranks in the 55th percentile for trading among executives
+trade_description: 'Doug Collins ranks in the 56th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 

@@ -1,18 +1,19 @@
 ---
-bpm_rank: 103
+bpm_rank: 105
 draft_bust_list: null
 draft_description: Bob Whitsitt ranks in the 96th percentile for drafting among executives
   in our database. Whitsitt's draft picks average out to be worth the equivalent of
   12 spots higher than they were picked due to his good drafting.
 draft_num_players: 7
 draft_rating_bpm: 15.6
+draft_rating_grade_bpm: S
 draft_rating_grade_vorp: A+
 draft_rating_percentile_bpm: 98.1651376146789
 draft_rating_percentile_vorp: 96.3302752293578
 draft_rating_vorp: 12.4
 draft_total_bpm: -20082
-draft_total_percentile_bpm: 41.97530864197531
-draft_total_percentile_vorp: 41.97530864197531
+draft_total_percentile_bpm: 42.68292682926829
+draft_total_percentile_vorp: 42.68292682926829
 draft_total_vorp: 3
 draft_win_list: '<ul>
 

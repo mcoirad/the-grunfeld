@@ -1,5 +1,5 @@
 ---
-bpm_rank: 152
+bpm_rank: 154
 draft_bust_list: '<ul>
 
   <li>Drafted Shawn Bradley with 2th pick but was worth 10th pick.</li>
@@ -11,13 +11,14 @@ draft_description: This executive has only drafted 3 players and thus doesn't ha
   a draft grade.
 draft_num_players: 3
 draft_rating_bpm: null
+draft_rating_grade_bpm: null
 draft_rating_grade_vorp: null
 draft_rating_percentile_bpm: .nan
 draft_rating_percentile_vorp: .nan
 draft_rating_vorp: null
 draft_total_bpm: -22034
-draft_total_percentile_bpm: 46.2962962962963
-draft_total_percentile_vorp: 46.2962962962963
+draft_total_percentile_bpm: 46.951219512195124
+draft_total_percentile_vorp: 46.951219512195124
 draft_total_vorp: 5
 draft_win_list: '<ul>
 

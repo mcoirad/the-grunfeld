@@ -1,5 +1,5 @@
 ---
-bpm_rank: 157
+bpm_rank: 159
 draft_bust_list: '<ul>
 
   <li>Drafted Joe Barry Carroll with 1th pick but was worth 7th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Al Attles ranks in the 99th percentile for drafting among exe
   17 spots higher than they were picked due to his good drafting.
 draft_num_players: 30
 draft_rating_bpm: 19.5
+draft_rating_grade_bpm: S
 draft_rating_grade_vorp: S
 draft_rating_percentile_bpm: 99.08256880733946
 draft_rating_percentile_vorp: 99.08256880733946
 draft_rating_vorp: 17.2
 draft_total_bpm: 22777
-draft_total_percentile_bpm: 88.88888888888889
-draft_total_percentile_vorp: 88.88888888888889
+draft_total_percentile_bpm: 89.02439024390245
+draft_total_percentile_vorp: 89.02439024390245
 draft_total_vorp: 72
 draft_win_list: '<ul>
 

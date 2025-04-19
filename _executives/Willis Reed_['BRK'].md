@@ -1,5 +1,5 @@
 ---
-bpm_rank: 143
+bpm_rank: 145
 draft_bust_list: '<ul>
 
   <li>Drafted Derrick Coleman with 1th pick but was worth 3th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Willis Reed ranks in the 16th percentile for drafting among e
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 7
 draft_rating_bpm: -6.3
+draft_rating_grade_bpm: D
 draft_rating_grade_vorp: F
 draft_rating_percentile_bpm: 30.275229357798164
 draft_rating_percentile_vorp: 16.513761467889907
 draft_rating_vorp: -9.1
 draft_total_bpm: 25353
-draft_total_percentile_bpm: 66.66666666666667
-draft_total_percentile_vorp: 66.66666666666667
+draft_total_percentile_bpm: 67.07317073170732
+draft_total_percentile_vorp: 67.07317073170732
 draft_total_vorp: 25
 draft_win_list: '<ul>
 
@@ -60,7 +61,7 @@ team:
 - Brooklyn Nets
 team_shortcode:
 - BRK
-trade_description: 'Willis Reed ranks in the 55th percentile for trading among executives
+trade_description: 'Willis Reed ranks in the 56th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 

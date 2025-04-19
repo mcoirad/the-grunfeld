@@ -1,5 +1,5 @@
 ---
-bpm_rank: 161
+bpm_rank: 163
 draft_bust_list: '<ul>
 
   <li>Drafted Benoit Benjamin with 3th pick but was worth 19th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Carl Scheer ranks in the 0th percentile for drafting among ex
   19 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 14
 draft_rating_bpm: -16.0
+draft_rating_grade_bpm: F
 draft_rating_grade_vorp: F-
 draft_rating_percentile_bpm: 5.504587155963303
 draft_rating_percentile_vorp: 0.9174311926605505
 draft_rating_vorp: -19.2
 draft_total_bpm: -63974
-draft_total_percentile_bpm: 35.18518518518518
-draft_total_percentile_vorp: 35.18518518518518
+draft_total_percentile_bpm: 35.97560975609756
+draft_total_percentile_vorp: 35.97560975609756
 draft_total_vorp: 1
 draft_win_list: '<ul>
 

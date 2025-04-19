@@ -1,5 +1,5 @@
 ---
-bpm_rank: 156
+bpm_rank: 158
 draft_bust_list: '<ul>
 
   <li>Drafted Vitaly Potapenko with 12th pick but was worth 47th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Wayne Embry ranks in the 55th percentile for drafting among e
   spots higher than they were picked due to his good drafting.
 draft_num_players: 28
 draft_rating_bpm: 2.5
+draft_rating_grade_bpm: B
 draft_rating_grade_vorp: C+
 draft_rating_percentile_bpm: 68.80733944954129
 draft_rating_percentile_vorp: 55.04587155963303
 draft_rating_vorp: 2.0
 draft_total_bpm: -41740
-draft_total_percentile_bpm: 80.8641975308642
-draft_total_percentile_vorp: 80.8641975308642
+draft_total_percentile_bpm: 81.09756097560975
+draft_total_percentile_vorp: 81.09756097560975
 draft_total_vorp: 45
 draft_win_list: '<ul>
 

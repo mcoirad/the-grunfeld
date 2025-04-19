@@ -1,5 +1,5 @@
 ---
-bpm_rank: 158
+bpm_rank: 160
 draft_bust_list: '<ul>
 
   <li>Drafted Michael Doleac with 12th pick but was worth 55th pick.</li>
@@ -14,13 +14,14 @@ draft_description: John Gabriel ranks in the 24th percentile for drafting among 
   6 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 12
 draft_rating_bpm: -7.3
+draft_rating_grade_bpm: D-
 draft_rating_grade_vorp: D-
 draft_rating_percentile_bpm: 23.853211009174313
 draft_rating_percentile_vorp: 24.770642201834864
 draft_rating_vorp: -5.8
 draft_total_bpm: -36175
-draft_total_percentile_bpm: 34.5679012345679
-draft_total_percentile_vorp: 34.5679012345679
+draft_total_percentile_bpm: 35.36585365853659
+draft_total_percentile_vorp: 35.36585365853659
 draft_total_vorp: 1
 draft_win_list: '<ul>
 

@@ -1,5 +1,5 @@
 ---
-bpm_rank: 93
+bpm_rank: 95
 draft_bust_list: '<ul>
 
   <li>Drafted Enes Kanter with 3th pick but was worth 11th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Kevin O'Connor ranks in the 63th percentile for drafting amon
   of 3 spots higher than they were picked due to his good drafting.
 draft_num_players: 21
 draft_rating_bpm: 1.6
+draft_rating_grade_bpm: B-
 draft_rating_grade_vorp: B-
 draft_rating_percentile_bpm: 61.46788990825688
 draft_rating_percentile_vorp: 63.30275229357798
 draft_rating_vorp: 2.9
 draft_total_bpm: 8181
-draft_total_percentile_bpm: 82.71604938271605
-draft_total_percentile_vorp: 82.71604938271605
+draft_total_percentile_bpm: 82.92682926829268
+draft_total_percentile_vorp: 82.92682926829268
 draft_total_vorp: 52
 draft_win_list: '<ul>
 

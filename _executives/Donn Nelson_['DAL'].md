@@ -12,13 +12,14 @@ draft_description: Donn Nelson ranks in the 30th percentile for drafting among e
   5 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 8
 draft_rating_bpm: 0.2
+draft_rating_grade_bpm: C+
 draft_rating_grade_vorp: D
 draft_rating_percentile_bpm: 55.96330275229358
 draft_rating_percentile_vorp: 30.275229357798164
 draft_rating_vorp: -4.8
 draft_total_bpm: -21878
-draft_total_percentile_bpm: 41.358024691358025
-draft_total_percentile_vorp: 41.358024691358025
+draft_total_percentile_bpm: 42.073170731707314
+draft_total_percentile_vorp: 42.073170731707314
 draft_total_vorp: 3
 draft_win_list: '<ul>
 
@@ -58,7 +59,7 @@ team:
 - Dallas Mavericks
 team_shortcode:
 - DAL
-trade_description: 'Donn Nelson ranks in the 68th percentile for trading among executives
+trade_description: 'Donn Nelson ranks in the 69th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 

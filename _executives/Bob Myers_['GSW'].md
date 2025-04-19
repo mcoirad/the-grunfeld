@@ -14,13 +14,14 @@ draft_description: Bob Myers ranks in the 66th percentile for drafting among exe
   spots higher than they were picked due to his good drafting.
 draft_num_players: 15
 draft_rating_bpm: -1.9
+draft_rating_grade_bpm: C
 draft_rating_grade_vorp: B-
 draft_rating_percentile_bpm: 48.62385321100918
 draft_rating_percentile_vorp: 66.05504587155963
 draft_rating_vorp: 3.4
 draft_total_bpm: 5570
-draft_total_percentile_bpm: 77.77777777777777
-draft_total_percentile_vorp: 77.77777777777777
+draft_total_percentile_bpm: 78.04878048780488
+draft_total_percentile_vorp: 78.04878048780488
 draft_total_vorp: 37
 draft_win_list: '<ul>
 

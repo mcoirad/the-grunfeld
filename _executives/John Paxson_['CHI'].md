@@ -14,13 +14,14 @@ draft_description: John Paxson ranks in the 49th percentile for drafting among e
   1 spot higher than they were picked due to his good drafting.
 draft_num_players: 6
 draft_rating_bpm: -4.7
+draft_rating_grade_bpm: D+
 draft_rating_grade_vorp: C
 draft_rating_percentile_bpm: 33.027522935779814
 draft_rating_percentile_vorp: 49.54128440366973
 draft_rating_vorp: 1.0
 draft_total_bpm: 83758
-draft_total_percentile_bpm: 84.5679012345679
-draft_total_percentile_vorp: 84.5679012345679
+draft_total_percentile_bpm: 84.7560975609756
+draft_total_percentile_vorp: 84.7560975609756
 draft_total_vorp: 60
 draft_win_list: '<ul>
 

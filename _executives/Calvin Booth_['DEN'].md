@@ -1,17 +1,18 @@
 ---
-bpm_rank: 96
+bpm_rank: 98
 draft_bust_list: null
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
 draft_num_players: 1
 draft_rating_bpm: null
+draft_rating_grade_bpm: null
 draft_rating_grade_vorp: null
 draft_rating_percentile_bpm: .nan
 draft_rating_percentile_vorp: .nan
 draft_rating_vorp: null
 draft_total_bpm: -5196
-draft_total_percentile_bpm: 37.65432098765432
-draft_total_percentile_vorp: 37.65432098765432
+draft_total_percentile_bpm: 38.41463414634146
+draft_total_percentile_vorp: 38.41463414634146
 draft_total_vorp: 1
 draft_win_list: '<ul>
 
@@ -21,7 +22,7 @@ final_bpm: -30663
 href: boothca01x
 is_active: true
 name: Calvin Booth
-signing_description: 'Calvin Booth ranks in the 25th percentile for free agency signings
+signing_description: 'Calvin Booth ranks in the 24th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 

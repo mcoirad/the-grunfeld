@@ -1,5 +1,5 @@
 ---
-bpm_rank: 104
+bpm_rank: 106
 draft_bust_list: '<ul>
 
   <li>Drafted Dennis Schröder with 17th pick but was worth 15th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Danny Ferry ranks in the 77th percentile for drafting among e
   spots higher than they were picked due to his good drafting.
 draft_num_players: 10
 draft_rating_bpm: -3.5
+draft_rating_grade_bpm: D+
 draft_rating_grade_vorp: B+
 draft_rating_percentile_bpm: 38.53211009174312
 draft_rating_percentile_vorp: 77.06422018348624
 draft_rating_vorp: 5.6
 draft_total_bpm: -45535
-draft_total_percentile_bpm: 43.20987654320987
-draft_total_percentile_vorp: 43.20987654320987
+draft_total_percentile_bpm: 43.90243902439025
+draft_total_percentile_vorp: 43.90243902439025
 draft_total_vorp: 3
 draft_win_list: '<ul>
 
@@ -34,7 +35,7 @@ final_bpm: -40720
 href: ferryda01x
 is_active: false
 name: Danny Ferry
-signing_description: Danny Ferry ranks in the 46th percentile for free agency signings
+signing_description: Danny Ferry ranks in the 45th percentile for free agency signings
   among executives in our database. That's basically average. It could be worse though
   lol.
 signing_lose_list: '<ul>

@@ -1,5 +1,5 @@
 ---
-bpm_rank: 100
+bpm_rank: 102
 draft_bust_list: '<ul>
 
   <li>Drafted Brian Shaw with 24th pick but was worth 16th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Jan Volk ranks in the 87th percentile for drafting among exec
   spots higher than they were picked due to his good drafting.
 draft_num_players: 6
 draft_rating_bpm: -6.0
+draft_rating_grade_bpm: D
 draft_rating_grade_vorp: A
 draft_rating_percentile_bpm: 31.192660550458715
 draft_rating_percentile_vorp: 87.1559633027523
 draft_rating_vorp: 8.2
 draft_total_bpm: 7787
-draft_total_percentile_bpm: 61.111111111111114
-draft_total_percentile_vorp: 61.111111111111114
+draft_total_percentile_bpm: 61.58536585365854
+draft_total_percentile_vorp: 61.58536585365854
 draft_total_vorp: 18
 draft_win_list: '<ul>
 

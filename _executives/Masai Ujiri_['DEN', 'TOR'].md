@@ -14,13 +14,14 @@ draft_description: Masai Ujiri ranks in the 69th percentile for drafting among e
   spots higher than they were picked due to his good drafting.
 draft_num_players: 20
 draft_rating_bpm: 4.6
+draft_rating_grade_bpm: B+
 draft_rating_grade_vorp: B
 draft_rating_percentile_bpm: 75.22935779816514
 draft_rating_percentile_vorp: 69.72477064220183
 draft_rating_vorp: 4.0
 draft_total_bpm: 21777
-draft_total_percentile_bpm: 79.01234567901234
-draft_total_percentile_vorp: 79.01234567901234
+draft_total_percentile_bpm: 79.26829268292683
+draft_total_percentile_vorp: 79.26829268292683
 draft_total_vorp: 41
 draft_win_list: '<ul>
 

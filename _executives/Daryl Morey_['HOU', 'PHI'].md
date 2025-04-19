@@ -14,13 +14,14 @@ draft_description: Daryl Morey ranks in the 92th percentile for drafting among e
   spots higher than they were picked due to his good drafting.
 draft_num_players: 25
 draft_rating_bpm: 13.1
+draft_rating_grade_bpm: S
 draft_rating_grade_vorp: A
 draft_rating_percentile_bpm: 97.24770642201835
 draft_rating_percentile_vorp: 92.66055045871559
 draft_rating_vorp: 10.2
 draft_total_bpm: 11065
-draft_total_percentile_bpm: 73.45679012345678
-draft_total_percentile_vorp: 73.45679012345678
+draft_total_percentile_bpm: 73.78048780487805
+draft_total_percentile_vorp: 73.78048780487805
 draft_total_vorp: 33
 draft_win_list: '<ul>
 
@@ -36,7 +37,7 @@ final_bpm: 101729
 href: moreyda99x
 is_active: true
 name: Daryl Morey
-signing_description: 'Daryl Morey ranks in the 78th percentile for free agency signings
+signing_description: 'Daryl Morey ranks in the 77th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -66,7 +67,7 @@ team:
 team_shortcode:
 - HOU
 - PHI
-trade_description: 'Daryl Morey ranks in the 42th percentile for trading among executives
+trade_description: 'Daryl Morey ranks in the 41th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 

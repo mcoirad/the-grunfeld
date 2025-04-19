@@ -14,13 +14,14 @@ draft_description: Jim Paxson ranks in the 34th percentile for drafting among ex
   4 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 11
 draft_rating_bpm: -3.5
+draft_rating_grade_bpm: D+
 draft_rating_grade_vorp: D+
 draft_rating_percentile_bpm: 37.61467889908257
 draft_rating_percentile_vorp: 34.862385321100916
 draft_rating_vorp: -3.6
 draft_total_bpm: 292794
-draft_total_percentile_bpm: 92.5925925925926
-draft_total_percentile_vorp: 92.5925925925926
+draft_total_percentile_bpm: 92.6829268292683
+draft_total_percentile_vorp: 92.6829268292683
 draft_total_vorp: 100
 draft_win_list: '<ul>
 

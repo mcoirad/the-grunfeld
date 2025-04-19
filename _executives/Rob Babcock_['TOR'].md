@@ -1,5 +1,5 @@
 ---
-bpm_rank: 124
+bpm_rank: 126
 draft_bust_list: '<ul>
 
   <li>Drafted Rafael Araújo with 8th pick but was worth 44th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Rob Babcock ranks in the 2th percentile for drafting among ex
   15 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
 draft_rating_bpm: -9.0
+draft_rating_grade_bpm: F
 draft_rating_grade_vorp: F-
 draft_rating_percentile_bpm: 18.34862385321101
 draft_rating_percentile_vorp: 2.7522935779816513
 draft_rating_vorp: -15.0
 draft_total_bpm: -32755
-draft_total_percentile_bpm: 1.2345679012345678
-draft_total_percentile_vorp: 1.2345679012345678
+draft_total_percentile_bpm: 1.2195121951219512
+draft_total_percentile_vorp: 1.2195121951219512
 draft_total_vorp: -4
 draft_win_list: '<ul>
 

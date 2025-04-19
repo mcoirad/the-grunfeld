@@ -1,5 +1,5 @@
 ---
-bpm_rank: 120
+bpm_rank: 122
 draft_bust_list: '<ul>
 
   <li>Drafted Terrance Ferguson with 21th pick but was worth 53th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Sam Presti ranks in the 72th percentile for drafting among ex
   4 spots higher than they were picked due to his good drafting.
 draft_num_players: 22
 draft_rating_bpm: 5.7
+draft_rating_grade_bpm: B+
 draft_rating_grade_vorp: B
 draft_rating_percentile_bpm: 77.06422018348624
 draft_rating_percentile_vorp: 72.4770642201835
 draft_rating_vorp: 4.2
 draft_total_bpm: 314254
-draft_total_percentile_bpm: 98.14814814814815
-draft_total_percentile_vorp: 98.14814814814815
+draft_total_percentile_bpm: 98.17073170731707
+draft_total_percentile_vorp: 98.17073170731707
 draft_total_vorp: 144
 draft_win_list: '<ul>
 
@@ -64,7 +65,7 @@ team:
 - Oklahoma City Thunder
 team_shortcode:
 - OKC
-trade_description: 'Sam Presti ranks in the 21th percentile for trading among executives
+trade_description: 'Sam Presti ranks in the 20th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 

@@ -1,5 +1,5 @@
 ---
-bpm_rank: 110
+bpm_rank: 112
 draft_bust_list: '<ul>
 
   <li>Drafted John Wall with 1th pick but was worth 2th pick.</li>
@@ -13,13 +13,14 @@ draft_description: Ernie Grunfeld ranks in the 44th percentile for drafting amon
   executives in our database. That's basically average. It could worse though lol.
 draft_num_players: 28
 draft_rating_bpm: -3.2
+draft_rating_grade_bpm: D+
 draft_rating_grade_vorp: C-
 draft_rating_percentile_bpm: 39.44954128440367
 draft_rating_percentile_vorp: 44.95412844036697
 draft_rating_vorp: -0.5
 draft_total_bpm: 95751
-draft_total_percentile_bpm: 93.82716049382717
-draft_total_percentile_vorp: 93.82716049382717
+draft_total_percentile_bpm: 93.90243902439025
+draft_total_percentile_vorp: 93.90243902439025
 draft_total_vorp: 102
 draft_win_list: '<ul>
 
@@ -35,7 +36,7 @@ final_bpm: -49348
 href: grunfer01x
 is_active: false
 name: Ernie Grunfeld
-signing_description: 'Ernie Grunfeld ranks in the 57th percentile for free agency
+signing_description: 'Ernie Grunfeld ranks in the 56th percentile for free agency
   signings among executives in our database. '
 signing_lose_list: '<ul>
 

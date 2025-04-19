@@ -1,5 +1,5 @@
 ---
-bpm_rank: 154
+bpm_rank: 156
 draft_bust_list: '<ul>
 
   <li>Drafted Samuel Dalembert with 26th pick but was worth 15th pick.</li>
@@ -12,13 +12,14 @@ draft_description: Billy King ranks in the 93th percentile for drafting among ex
   spots higher than they were picked due to his good drafting.
 draft_num_players: 13
 draft_rating_bpm: 12.8
+draft_rating_grade_bpm: A+
 draft_rating_grade_vorp: A+
 draft_rating_percentile_bpm: 96.3302752293578
 draft_rating_percentile_vorp: 93.57798165137615
 draft_rating_vorp: 11.4
 draft_total_bpm: 61695
-draft_total_percentile_bpm: 83.33333333333333
-draft_total_percentile_vorp: 83.33333333333333
+draft_total_percentile_bpm: 83.53658536585365
+draft_total_percentile_vorp: 83.53658536585365
 draft_total_vorp: 53
 draft_win_list: '<ul>
 
@@ -34,7 +35,7 @@ final_bpm: -207084
 href: kingbi99x
 is_active: false
 name: Billy King
-signing_description: 'Billy King ranks in the 41th percentile for free agency signings
+signing_description: 'Billy King ranks in the 40th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -64,7 +65,7 @@ team:
 team_shortcode:
 - PHI
 - BRK
-trade_description: 'Billy King ranks in the 55th percentile for trading among executives
+trade_description: 'Billy King ranks in the 56th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 

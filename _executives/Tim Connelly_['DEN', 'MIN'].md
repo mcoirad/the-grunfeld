@@ -14,13 +14,14 @@ draft_description: Tim Connelly ranks in the 89th percentile for drafting among 
   10 spots higher than they were picked due to his good drafting.
 draft_num_players: 14
 draft_rating_bpm: 7.9
+draft_rating_grade_bpm: A-
 draft_rating_grade_vorp: A
 draft_rating_percentile_bpm: 81.65137614678899
 draft_rating_percentile_vorp: 89.90825688073394
 draft_rating_vorp: 9.9
 draft_total_bpm: 227836
-draft_total_percentile_bpm: 91.9753086419753
-draft_total_percentile_vorp: 91.9753086419753
+draft_total_percentile_bpm: 92.07317073170732
+draft_total_percentile_vorp: 92.07317073170732
 draft_total_vorp: 95
 draft_win_list: '<ul>
 

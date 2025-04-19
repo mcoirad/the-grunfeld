@@ -1,5 +1,5 @@
 ---
-bpm_rank: 111
+bpm_rank: 113
 draft_bust_list: '<ul>
 
   <li>Drafted Ben McLemore with 7th pick but was worth 51th pick.</li>
@@ -11,13 +11,14 @@ draft_description: This executive has only drafted 3 players and thus doesn't ha
   a draft grade.
 draft_num_players: 3
 draft_rating_bpm: null
+draft_rating_grade_bpm: null
 draft_rating_grade_vorp: null
 draft_rating_percentile_bpm: .nan
 draft_rating_percentile_vorp: .nan
 draft_rating_vorp: null
 draft_total_bpm: -34969
-draft_total_percentile_bpm: 1.8518518518518519
-draft_total_percentile_vorp: 1.8518518518518519
+draft_total_percentile_bpm: 1.829268292682927
+draft_total_percentile_vorp: 1.829268292682927
 draft_total_vorp: -3
 draft_win_list: '<ul>
 
@@ -29,7 +30,7 @@ final_bpm: -50067
 href: dalespe99x
 is_active: false
 name: Pete D'Alessandro
-signing_description: Pete D'Alessandro ranks in the 49th percentile for free agency
+signing_description: Pete D'Alessandro ranks in the 48th percentile for free agency
   signings among executives in our database. That's basically average. It could be
   worse though lol.
 signing_lose_list: '<ul>

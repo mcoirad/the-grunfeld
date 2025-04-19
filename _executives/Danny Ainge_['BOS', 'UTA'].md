@@ -14,13 +14,14 @@ draft_description: Danny Ainge ranks in the 48th percentile for drafting among e
   spot higher than they were picked due to his good drafting.
 draft_num_players: 48
 draft_rating_bpm: 0.6
+draft_rating_grade_bpm: C+
 draft_rating_grade_vorp: C
 draft_rating_percentile_bpm: 56.88073394495413
 draft_rating_percentile_vorp: 48.62385321100918
 draft_rating_vorp: 0.9
 draft_total_bpm: -45202
-draft_total_percentile_bpm: 88.27160493827161
-draft_total_percentile_vorp: 88.27160493827161
+draft_total_percentile_bpm: 88.41463414634147
+draft_total_percentile_vorp: 88.41463414634147
 draft_total_vorp: 67
 draft_win_list: '<ul>
 
@@ -36,7 +37,7 @@ final_bpm: 336675
 href: aingeda01x
 is_active: true
 name: Danny Ainge
-signing_description: 'Danny Ainge ranks in the 82th percentile for free agency signings
+signing_description: 'Danny Ainge ranks in the 81th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 

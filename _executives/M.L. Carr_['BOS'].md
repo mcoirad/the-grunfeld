@@ -1,5 +1,5 @@
 ---
-bpm_rank: 105
+bpm_rank: 107
 draft_bust_list: '<ul>
 
   <li>Drafted Antoine Walker with 6th pick but was worth 9th pick.</li>
@@ -14,13 +14,14 @@ draft_description: M.L. Carr ranks in the 4th percentile for drafting among exec
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
 draft_rating_bpm: -9.2
+draft_rating_grade_bpm: F
 draft_rating_grade_vorp: F
 draft_rating_percentile_bpm: 17.431192660550458
 draft_rating_percentile_vorp: 4.587155963302752
 draft_rating_vorp: -14.0
 draft_total_bpm: -30159
-draft_total_percentile_bpm: 54.93827160493827
-draft_total_percentile_vorp: 54.93827160493827
+draft_total_percentile_bpm: 55.48780487804878
+draft_total_percentile_vorp: 55.48780487804878
 draft_total_vorp: 12
 draft_win_list: '<ul>
 
@@ -34,7 +35,7 @@ final_bpm: -42264
 href: carrml01x
 is_active: false
 name: M.L. Carr
-signing_description: 'M.L. Carr ranks in the 33th percentile for free agency signings
+signing_description: 'M.L. Carr ranks in the 32th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -46,7 +47,7 @@ signing_lose_list: '<ul>
 
   </ul>'
 signing_rating_bpm: -0.38
-signing_rating_grade_vorp: D+
+signing_rating_grade_vorp: D
 signing_rating_vorp: -0.12
 signing_win_list: '<ul>
 

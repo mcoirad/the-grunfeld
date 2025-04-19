@@ -1,5 +1,5 @@
 ---
-bpm_rank: 94
+bpm_rank: 96
 draft_bust_list: '<ul>
 
   <li>Drafted Tyreke Evans with 4th pick but was worth 11th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Geoff Petrie ranks in the 71th percentile for drafting among 
   4 spots higher than they were picked due to his good drafting.
 draft_num_players: 29
 draft_rating_bpm: 2.4
+draft_rating_grade_bpm: B
 draft_rating_grade_vorp: B
 draft_rating_percentile_bpm: 67.88990825688073
 draft_rating_percentile_vorp: 71.55963302752293
 draft_rating_vorp: 4.1
 draft_total_bpm: -47945
-draft_total_percentile_bpm: 86.41975308641975
-draft_total_percentile_vorp: 86.41975308641975
+draft_total_percentile_bpm: 86.58536585365853
+draft_total_percentile_vorp: 86.58536585365853
 draft_total_vorp: 64
 draft_win_list: '<ul>
 

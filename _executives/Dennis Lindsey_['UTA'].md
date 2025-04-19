@@ -12,13 +12,14 @@ draft_description: Dennis Lindsey ranks in the 50th percentile for drafting amon
   of 1 spot higher than they were picked due to his good drafting.
 draft_num_players: 10
 draft_rating_bpm: 2.7
+draft_rating_grade_bpm: B
 draft_rating_grade_vorp: C
 draft_rating_percentile_bpm: 69.72477064220183
 draft_rating_percentile_vorp: 50.45871559633027
 draft_rating_vorp: 1.1
 draft_total_bpm: -22341
-draft_total_percentile_bpm: 36.41975308641975
-draft_total_percentile_vorp: 36.41975308641975
+draft_total_percentile_bpm: 37.19512195121951
+draft_total_percentile_vorp: 37.19512195121951
 draft_total_vorp: 1
 draft_win_list: '<ul>
 
@@ -58,7 +59,7 @@ team:
 - Utah Jazz
 team_shortcode:
 - UTA
-trade_description: 'Dennis Lindsey ranks in the 86th percentile for trading among
+trade_description: 'Dennis Lindsey ranks in the 87th percentile for trading among
   executives in our database. '
 trade_lose_list: '<ul>
 
@@ -69,7 +70,7 @@ trade_lose_list: '<ul>
 
   </ul>'
 trade_rating_bpm: 0.12
-trade_rating_grade_vorp: A-
+trade_rating_grade_vorp: A
 trade_rating_vorp: 0.25
 trade_win_list: '<ul>
 

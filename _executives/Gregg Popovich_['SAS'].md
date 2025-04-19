@@ -6,6 +6,7 @@ draft_description: Gregg Popovich ranks in the 100th percentile for drafting amo
   of 23 spots higher than they were picked due to his good drafting.
 draft_num_players: 5
 draft_rating_bpm: 21.2
+draft_rating_grade_bpm: S
 draft_rating_grade_vorp: S
 draft_rating_percentile_bpm: 100.0
 draft_rating_percentile_vorp: 100.0

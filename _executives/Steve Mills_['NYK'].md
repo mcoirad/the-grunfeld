@@ -1,5 +1,5 @@
 ---
-bpm_rank: 114
+bpm_rank: 116
 draft_bust_list: '<ul>
 
   <li>Drafted RJ Barrett with 3th pick but was worth 21th pick.</li>
@@ -11,13 +11,14 @@ draft_description: This executive has only drafted 3 players and thus doesn't ha
   a draft grade.
 draft_num_players: 3
 draft_rating_bpm: null
+draft_rating_grade_bpm: null
 draft_rating_grade_vorp: null
 draft_rating_percentile_bpm: .nan
 draft_rating_percentile_vorp: .nan
 draft_rating_vorp: null
 draft_total_bpm: -24164
-draft_total_percentile_bpm: 46.91358024691358
-draft_total_percentile_vorp: 46.91358024691358
+draft_total_percentile_bpm: 47.5609756097561
+draft_total_percentile_vorp: 47.5609756097561
 draft_total_vorp: 5
 draft_win_list: '<ul>
 

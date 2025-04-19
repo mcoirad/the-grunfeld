@@ -1,5 +1,5 @@
 ---
-bpm_rank: 98
+bpm_rank: 100
 draft_bust_list: '<ul>
 
   <li>Drafted Andrew Bogut with 1th pick but was worth 6th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Larry Harris ranks in the 76th percentile for drafting among 
   5 spots higher than they were picked due to his good drafting.
 draft_num_players: 5
 draft_rating_bpm: 2.0
+draft_rating_grade_bpm: B-
 draft_rating_grade_vorp: B+
 draft_rating_percentile_bpm: 64.22018348623853
 draft_rating_percentile_vorp: 76.14678899082568
 draft_rating_vorp: 5.4
 draft_total_bpm: 5614
-draft_total_percentile_bpm: 60.49382716049383
-draft_total_percentile_vorp: 60.49382716049383
+draft_total_percentile_bpm: 60.97560975609756
+draft_total_percentile_vorp: 60.97560975609756
 draft_total_vorp: 17
 draft_win_list: '<ul>
 

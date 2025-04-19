@@ -14,13 +14,14 @@ draft_description: Jerry West ranks in the 79th percentile for drafting among ex
   spots higher than they were picked due to his good drafting.
 draft_num_players: 24
 draft_rating_bpm: 0.7
+draft_rating_grade_bpm: C+
 draft_rating_grade_vorp: B+
 draft_rating_percentile_bpm: 59.63302752293578
 draft_rating_percentile_vorp: 79.81651376146789
 draft_rating_vorp: 6.1
 draft_total_bpm: 37939
-draft_total_percentile_bpm: 91.35802469135803
-draft_total_percentile_vorp: 91.35802469135803
+draft_total_percentile_bpm: 91.46341463414635
+draft_total_percentile_vorp: 91.46341463414635
 draft_total_vorp: 95
 draft_win_list: '<ul>
 
@@ -66,7 +67,7 @@ team:
 team_shortcode:
 - LAL
 - MEM
-trade_description: 'Jerry West ranks in the 31th percentile for trading among executives
+trade_description: 'Jerry West ranks in the 30th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 

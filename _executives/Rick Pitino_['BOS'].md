@@ -12,13 +12,14 @@ draft_description: Rick Pitino ranks in the 11th percentile for drafting among e
   12 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 4
 draft_rating_bpm: -10.0
+draft_rating_grade_bpm: F
 draft_rating_grade_vorp: F
 draft_rating_percentile_bpm: 16.513761467889907
 draft_rating_percentile_vorp: 11.009174311926605
 draft_rating_vorp: -11.8
 draft_total_bpm: 159952
-draft_total_percentile_bpm: 85.80246913580247
-draft_total_percentile_vorp: 85.80246913580247
+draft_total_percentile_bpm: 85.97560975609755
+draft_total_percentile_vorp: 85.97560975609755
 draft_total_vorp: 64
 draft_win_list: '<ul>
 

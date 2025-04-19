@@ -1,5 +1,5 @@
 ---
-bpm_rank: 122
+bpm_rank: 124
 draft_bust_list: '<ul>
 
   <li>Drafted Jacque Vaughn with 27th pick but was worth 46th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Scott Layden ranks in the 84th percentile for drafting among 
   8 spots higher than they were picked due to his good drafting.
 draft_num_players: 12
 draft_rating_bpm: 6.7
+draft_rating_grade_bpm: B+
 draft_rating_grade_vorp: A-
 draft_rating_percentile_bpm: 78.89908256880734
 draft_rating_percentile_vorp: 84.40366972477064
 draft_rating_vorp: 7.8
 draft_total_bpm: -33903
-draft_total_percentile_bpm: 59.876543209876544
-draft_total_percentile_vorp: 59.876543209876544
+draft_total_percentile_bpm: 60.36585365853659
+draft_total_percentile_vorp: 60.36585365853659
 draft_total_vorp: 16
 draft_win_list: '<ul>
 

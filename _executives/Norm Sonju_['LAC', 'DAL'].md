@@ -1,5 +1,5 @@
 ---
-bpm_rank: 162
+bpm_rank: 164
 draft_bust_list: '<ul>
 
   <li>Drafted Sam Perkins with 4th pick but was worth 5th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Norm Sonju ranks in the 53th percentile for drafting among ex
   spots higher than they were picked due to his good drafting.
 draft_num_players: 36
 draft_rating_bpm: 0.6
+draft_rating_grade_bpm: C+
 draft_rating_grade_vorp: C+
 draft_rating_percentile_bpm: 57.79816513761468
 draft_rating_percentile_vorp: 53.211009174311926
 draft_rating_vorp: 1.6
 draft_total_bpm: 367
-draft_total_percentile_bpm: 93.20987654320987
-draft_total_percentile_vorp: 93.20987654320987
+draft_total_percentile_bpm: 93.29268292682927
+draft_total_percentile_vorp: 93.29268292682927
 draft_total_vorp: 101
 draft_win_list: '<ul>
 
@@ -36,7 +37,7 @@ final_bpm: -325728
 href: sonjuno99x
 is_active: false
 name: Norm Sonju
-signing_description: 'Norm Sonju ranks in the 35th percentile for free agency signings
+signing_description: 'Norm Sonju ranks in the 34th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 

@@ -1,5 +1,5 @@
 ---
-bpm_rank: 142
+bpm_rank: 144
 draft_bust_list: '<ul>
 
   <li>Drafted Scoot Henderson with 3th pick but was worth 53th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Joe Cronin ranks in the 9th percentile for drafting among exe
   12 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 7
 draft_rating_bpm: -17.6
+draft_rating_grade_bpm: F-
 draft_rating_grade_vorp: F
 draft_rating_percentile_bpm: 2.7522935779816513
 draft_rating_percentile_vorp: 9.174311926605505
 draft_rating_vorp: -12.3
 draft_total_bpm: -51889
-draft_total_percentile_bpm: 0.6172839506172839
-draft_total_percentile_vorp: 0.6172839506172839
+draft_total_percentile_bpm: 0.6097560975609756
+draft_total_percentile_vorp: 0.6097560975609756
 draft_total_vorp: -4
 draft_win_list: '<ul>
 
@@ -30,7 +31,7 @@ final_bpm: -115622
 href: cronijo99x
 is_active: true
 name: Joe Cronin
-signing_description: Joe Cronin ranks in the 52th percentile for free agency signings
+signing_description: Joe Cronin ranks in the 51th percentile for free agency signings
   among executives in our database. That's basically average. It could be worse though
   lol.
 signing_lose_list: '<ul>

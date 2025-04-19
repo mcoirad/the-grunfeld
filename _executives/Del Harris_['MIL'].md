@@ -1,18 +1,19 @@
 ---
-bpm_rank: 88
+bpm_rank: 90
 draft_bust_list: null
 draft_description: Del Harris ranks in the 20th percentile for drafting among executives
   in our database. Harris's draft picks average out to be worth the equivalent of
   7 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 4
 draft_rating_bpm: -0.2
+draft_rating_grade_bpm: C+
 draft_rating_grade_vorp: D-
 draft_rating_percentile_bpm: 55.04587155963303
 draft_rating_percentile_vorp: 20.18348623853211
 draft_rating_vorp: -7.0
 draft_total_bpm: -19762
-draft_total_percentile_bpm: 6.172839506172839
-draft_total_percentile_vorp: 6.172839506172839
+draft_total_percentile_bpm: 6.097560975609756
+draft_total_percentile_vorp: 6.097560975609756
 draft_total_vorp: -2
 draft_win_list: '<ul>
 

@@ -1,5 +1,5 @@
 ---
-bpm_rank: 83
+bpm_rank: 85
 draft_bust_list: '<ul>
 
   <li>Drafted Isaac Okoro with 5th pick but was worth 29th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Koby Altman ranks in the 54th percentile for drafting among e
   2 spots higher than they were picked due to his good drafting.
 draft_num_players: 9
 draft_rating_bpm: -0.6
+draft_rating_grade_bpm: C+
 draft_rating_grade_vorp: C+
 draft_rating_percentile_bpm: 53.211009174311926
 draft_rating_percentile_vorp: 54.12844036697248
 draft_rating_vorp: 1.8
 draft_total_bpm: -17444
-draft_total_percentile_bpm: 57.407407407407405
-draft_total_percentile_vorp: 57.407407407407405
+draft_total_percentile_bpm: 57.926829268292686
+draft_total_percentile_vorp: 57.926829268292686
 draft_total_vorp: 15
 draft_win_list: '<ul>
 
@@ -36,7 +37,7 @@ final_bpm: -17744
 href: altmako01x
 is_active: true
 name: Koby Altman
-signing_description: 'Koby Altman ranks in the 40th percentile for free agency signings
+signing_description: 'Koby Altman ranks in the 39th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -48,7 +49,7 @@ signing_lose_list: '<ul>
 
   </ul>'
 signing_rating_bpm: -0.4
-signing_rating_grade_vorp: C-
+signing_rating_grade_vorp: D+
 signing_rating_vorp: -0.08
 signing_win_list: '<ul>
 

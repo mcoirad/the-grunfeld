@@ -12,13 +12,14 @@ draft_description: Dan Issel ranks in the 88th percentile for drafting among exe
   spots higher than they were picked due to his good drafting.
 draft_num_players: 6
 draft_rating_bpm: 11.7
+draft_rating_grade_bpm: A+
 draft_rating_grade_vorp: A
 draft_rating_percentile_bpm: 94.4954128440367
 draft_rating_percentile_vorp: 88.9908256880734
 draft_rating_vorp: 9.8
 draft_total_bpm: -4641
-draft_total_percentile_bpm: 52.46913580246913
-draft_total_percentile_vorp: 52.46913580246913
+draft_total_percentile_bpm: 53.048780487804876
+draft_total_percentile_vorp: 53.048780487804876
 draft_total_vorp: 10
 draft_win_list: '<ul>
 

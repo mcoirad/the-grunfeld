@@ -1,5 +1,5 @@
 ---
-bpm_rank: 92
+bpm_rank: 94
 draft_bust_list: '<ul>
 
   <li>Drafted Marco Belinelli with 18th pick but was worth 18th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Chris Mullin ranks in the 33th percentile for drafting among 
   4 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 9
 draft_rating_bpm: -4.0
+draft_rating_grade_bpm: D+
 draft_rating_grade_vorp: D+
 draft_rating_percentile_bpm: 33.944954128440365
 draft_rating_percentile_vorp: 33.944954128440365
 draft_rating_vorp: -4.2
 draft_total_bpm: -17095
-draft_total_percentile_bpm: 53.08641975308642
-draft_total_percentile_vorp: 53.08641975308642
+draft_total_percentile_bpm: 53.65853658536585
+draft_total_percentile_vorp: 53.65853658536585
 draft_total_vorp: 11
 draft_win_list: '<ul>
 
@@ -30,7 +31,7 @@ final_bpm: -24048
 href: mullich01x
 is_active: false
 name: Chris Mullin
-signing_description: 'Chris Mullin ranks in the 74th percentile for free agency signings
+signing_description: 'Chris Mullin ranks in the 73th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 

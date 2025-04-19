@@ -1,5 +1,5 @@
 ---
-bpm_rank: 112
+bpm_rank: 114
 draft_bust_list: '<ul>
 
   <li>Drafted Tyler Hansbrough with 13th pick but was worth 34th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Larry Bird ranks in the 73th percentile for drafting among ex
   spots higher than they were picked due to his good drafting.
 draft_num_players: 12
 draft_rating_bpm: -3.7
+draft_rating_grade_bpm: D+
 draft_rating_grade_vorp: B+
 draft_rating_percentile_bpm: 36.69724770642202
 draft_rating_percentile_vorp: 73.39449541284404
 draft_rating_vorp: 4.3
 draft_total_bpm: 62001
-draft_total_percentile_bpm: 83.95061728395062
-draft_total_percentile_vorp: 83.95061728395062
+draft_total_percentile_bpm: 84.14634146341463
+draft_total_percentile_vorp: 84.14634146341463
 draft_total_vorp: 55
 draft_win_list: '<ul>
 

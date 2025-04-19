@@ -14,13 +14,14 @@ draft_description: Bucky Buckwalter ranks in the 70th percentile for drafting am
   equivalent of 4 spots higher than they were picked due to his good drafting.
 draft_num_players: 14
 draft_rating_bpm: 10.2
+draft_rating_grade_bpm: A
 draft_rating_grade_vorp: B
 draft_rating_percentile_bpm: 89.90825688073394
 draft_rating_percentile_vorp: 70.64220183486239
 draft_rating_vorp: 4.1
 draft_total_bpm: 39033
-draft_total_percentile_bpm: 70.37037037037037
-draft_total_percentile_vorp: 70.37037037037037
+draft_total_percentile_bpm: 70.73170731707317
+draft_total_percentile_vorp: 70.73170731707317
 draft_total_vorp: 31
 draft_win_list: '<ul>
 

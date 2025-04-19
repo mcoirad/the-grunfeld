@@ -5,13 +5,14 @@ draft_description: Al Bianchi ranks in the 45th percentile for drafting among ex
   in our database. That's basically average. It could worse though lol.
 draft_num_players: 4
 draft_rating_bpm: 8.8
+draft_rating_grade_bpm: A-
 draft_rating_grade_vorp: C-
 draft_rating_percentile_bpm: 84.40366972477064
 draft_rating_percentile_vorp: 45.87155963302752
 draft_rating_vorp: 0.2
 draft_total_bpm: -6987
-draft_total_percentile_bpm: 33.333333333333336
-draft_total_percentile_vorp: 33.333333333333336
+draft_total_percentile_bpm: 34.146341463414636
+draft_total_percentile_vorp: 34.146341463414636
 draft_total_vorp: 1
 draft_win_list: '<ul>
 
@@ -51,7 +52,7 @@ team:
 - New York Knicks
 team_shortcode:
 - NYK
-trade_description: 'Al Bianchi ranks in the 55th percentile for trading among executives
+trade_description: 'Al Bianchi ranks in the 56th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 

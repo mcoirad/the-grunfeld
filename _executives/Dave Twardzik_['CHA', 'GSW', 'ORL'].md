@@ -1,5 +1,5 @@
 ---
-bpm_rank: 126
+bpm_rank: 128
 draft_bust_list: '<ul>
 
   <li>Drafted Joe Smith with 1th pick but was worth 15th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Dave Twardzik ranks in the 10th percentile for drafting among
   12 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 4
 draft_rating_bpm: -16.8
+draft_rating_grade_bpm: F
 draft_rating_grade_vorp: F
 draft_rating_percentile_bpm: 4.587155963302752
 draft_rating_percentile_vorp: 10.091743119266056
 draft_rating_vorp: -12.2
 draft_total_bpm: -26388
-draft_total_percentile_bpm: 10.493827160493828
-draft_total_percentile_vorp: 10.493827160493828
+draft_total_percentile_bpm: 10.365853658536585
+draft_total_percentile_vorp: 10.365853658536585
 draft_total_vorp: -1
 draft_win_list: '<ul>
 
@@ -30,7 +31,7 @@ final_bpm: -76418
 href: twardda01x
 is_active: false
 name: Dave Twardzik
-signing_description: 'Dave Twardzik ranks in the 72th percentile for free agency signings
+signing_description: 'Dave Twardzik ranks in the 71th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 

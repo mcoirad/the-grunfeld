@@ -1,5 +1,5 @@
 ---
-bpm_rank: 155
+bpm_rank: 157
 draft_bust_list: '<ul>
 
   <li>Drafted Mickaël Piétrus with 11th pick but was worth 18th pick.</li>
@@ -12,13 +12,14 @@ draft_description: Garry St. Jean ranks in the 88th percentile for drafting amon
   of 9 spots higher than they were picked due to his good drafting.
 draft_num_players: 7
 draft_rating_bpm: 10.9
+draft_rating_grade_bpm: A
 draft_rating_grade_vorp: A
 draft_rating_percentile_bpm: 91.74311926605505
 draft_rating_percentile_vorp: 88.07339449541284
 draft_rating_vorp: 9.0
 draft_total_bpm: -5543
-draft_total_percentile_bpm: 65.4320987654321
-draft_total_percentile_vorp: 65.4320987654321
+draft_total_percentile_bpm: 65.85365853658537
+draft_total_percentile_vorp: 65.85365853658537
 draft_total_vorp: 23
 draft_win_list: '<ul>
 

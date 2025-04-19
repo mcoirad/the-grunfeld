@@ -5,13 +5,14 @@ draft_description: This executive has only drafted 1 player and thus doesn't hav
   a draft grade.
 draft_num_players: 1
 draft_rating_bpm: null
+draft_rating_grade_bpm: null
 draft_rating_grade_vorp: null
 draft_rating_percentile_bpm: .nan
 draft_rating_percentile_vorp: .nan
 draft_rating_vorp: null
 draft_total_bpm: -4963
-draft_total_percentile_bpm: 11.11111111111111
-draft_total_percentile_vorp: 11.11111111111111
+draft_total_percentile_bpm: 10.975609756097562
+draft_total_percentile_vorp: 10.975609756097562
 draft_total_vorp: -1
 draft_win_list: '<ul>
 

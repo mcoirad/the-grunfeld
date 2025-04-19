@@ -1,5 +1,5 @@
 ---
-bpm_rank: 117
+bpm_rank: 119
 draft_bust_list: '<ul>
 
   <li>Drafted Rui Hachimura with 9th pick but was worth 26th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Tommy Sheppard ranks in the 0th percentile for drafting among
   22 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 4
 draft_rating_bpm: -36.8
+draft_rating_grade_bpm: F-
 draft_rating_grade_vorp: F-
 draft_rating_percentile_bpm: 0.0
 draft_rating_percentile_vorp: 0.0
 draft_rating_vorp: -22.5
 draft_total_bpm: -52755
-draft_total_percentile_bpm: 2.4691358024691357
-draft_total_percentile_vorp: 2.4691358024691357
+draft_total_percentile_bpm: 2.4390243902439024
+draft_total_percentile_vorp: 2.4390243902439024
 draft_total_vorp: -3
 draft_win_list: '<ul>
 
@@ -58,7 +59,7 @@ team:
 - Washington Wizards
 team_shortcode:
 - WAS
-trade_description: 'Tommy Sheppard ranks in the 55th percentile for trading among
+trade_description: 'Tommy Sheppard ranks in the 56th percentile for trading among
   executives in our database. '
 trade_lose_list: '<ul>
 

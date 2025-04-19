@@ -1,17 +1,18 @@
 ---
-bpm_rank: 80
+bpm_rank: 82
 draft_bust_list: null
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
 draft_rating_bpm: null
+draft_rating_grade_bpm: null
 draft_rating_grade_vorp: null
 draft_rating_percentile_bpm: .nan
 draft_rating_percentile_vorp: .nan
 draft_rating_vorp: null
 draft_total_bpm: 9877
-draft_total_percentile_bpm: 58.641975308641975
-draft_total_percentile_vorp: 58.641975308641975
+draft_total_percentile_bpm: 59.146341463414636
+draft_total_percentile_vorp: 59.146341463414636
 draft_total_vorp: 16
 draft_win_list: '<ul>
 
@@ -25,9 +26,8 @@ final_bpm: -14250
 href: gavitda99x
 is_active: false
 name: Dave Gavitt
-signing_description: Dave Gavitt ranks in the 45th percentile for free agency signings
-  among executives in our database. That's basically average. It could be worse though
-  lol.
+signing_description: 'Dave Gavitt ranks in the 45th percentile for free agency signings
+  among executives in our database. '
 signing_lose_list: '<ul>
 
   <li>Signed Xavier McDaniel in 1992.</li>

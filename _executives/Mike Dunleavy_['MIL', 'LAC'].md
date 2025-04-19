@@ -14,13 +14,14 @@ draft_description: Mike Dunleavy ranks in the 26th percentile for drafting among
   6 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 7
 draft_rating_bpm: -8.9
+draft_rating_grade_bpm: F
 draft_rating_grade_vorp: D-
 draft_rating_percentile_bpm: 19.26605504587156
 draft_rating_percentile_vorp: 26.605504587155963
 draft_rating_vorp: -5.6
 draft_total_bpm: 54731
-draft_total_percentile_bpm: 81.48148148148148
-draft_total_percentile_vorp: 81.48148148148148
+draft_total_percentile_bpm: 81.70731707317073
+draft_total_percentile_vorp: 81.70731707317073
 draft_total_vorp: 47
 draft_win_list: '<ul>
 

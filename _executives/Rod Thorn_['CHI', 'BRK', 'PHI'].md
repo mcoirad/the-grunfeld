@@ -14,13 +14,14 @@ draft_description: Rod Thorn ranks in the 59th percentile for drafting among exe
   spots higher than they were picked due to his good drafting.
 draft_num_players: 20
 draft_rating_bpm: 2.4
+draft_rating_grade_bpm: B-
 draft_rating_grade_vorp: C+
 draft_rating_percentile_bpm: 66.97247706422019
 draft_rating_percentile_vorp: 59.63302752293578
 draft_rating_vorp: 2.6
 draft_total_bpm: 290668
-draft_total_percentile_bpm: 96.29629629629629
-draft_total_percentile_vorp: 96.29629629629629
+draft_total_percentile_bpm: 96.34146341463415
+draft_total_percentile_vorp: 96.34146341463415
 draft_total_vorp: 134
 draft_win_list: '<ul>
 

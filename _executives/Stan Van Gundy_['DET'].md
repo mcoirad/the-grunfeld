@@ -14,13 +14,14 @@ draft_description: Stan Van Gundy ranks in the 38th percentile for drafting amon
   of 2 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 6
 draft_rating_bpm: 1.7
+draft_rating_grade_bpm: B-
 draft_rating_grade_vorp: D+
 draft_rating_percentile_bpm: 62.38532110091743
 draft_rating_percentile_vorp: 38.53211009174312
 draft_rating_vorp: -2.3
 draft_total_bpm: -27723
-draft_total_percentile_bpm: 11.728395061728396
-draft_total_percentile_vorp: 11.728395061728396
+draft_total_percentile_bpm: 11.585365853658537
+draft_total_percentile_vorp: 11.585365853658537
 draft_total_vorp: -1
 draft_win_list: '<ul>
 

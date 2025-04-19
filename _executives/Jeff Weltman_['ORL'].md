@@ -1,5 +1,5 @@
 ---
-bpm_rank: 139
+bpm_rank: 141
 draft_bust_list: '<ul>
 
   <li>Drafted Mohamed Bamba with 6th pick but was worth 19th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Jeff Weltman ranks in the 11th percentile for drafting among 
   12 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 14
 draft_rating_bpm: -15.0
+draft_rating_grade_bpm: F
 draft_rating_grade_vorp: F
 draft_rating_percentile_bpm: 8.256880733944953
 draft_rating_percentile_vorp: 11.926605504587156
 draft_rating_vorp: -11.7
 draft_total_bpm: -31604
-draft_total_percentile_bpm: 63.58024691358025
-draft_total_percentile_vorp: 63.58024691358025
+draft_total_percentile_bpm: 64.02439024390245
+draft_total_percentile_vorp: 64.02439024390245
 draft_total_vorp: 21
 draft_win_list: '<ul>
 

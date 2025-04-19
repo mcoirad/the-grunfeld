@@ -14,13 +14,14 @@ draft_description: Monte McNair ranks in the 41th percentile for drafting among 
   2 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 8
 draft_rating_bpm: -1.8
+draft_rating_grade_bpm: C
 draft_rating_grade_vorp: C-
 draft_rating_percentile_bpm: 49.54128440366973
 draft_rating_percentile_vorp: 41.28440366972477
 draft_rating_vorp: -1.8
 draft_total_bpm: -21576
-draft_total_percentile_bpm: 42.592592592592595
-draft_total_percentile_vorp: 42.592592592592595
+draft_total_percentile_bpm: 43.292682926829265
+draft_total_percentile_vorp: 43.292682926829265
 draft_total_vorp: 3
 draft_win_list: '<ul>
 

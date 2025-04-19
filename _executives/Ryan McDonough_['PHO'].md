@@ -1,5 +1,5 @@
 ---
-bpm_rank: 118
+bpm_rank: 120
 draft_bust_list: '<ul>
 
   <li>Drafted Deandre Ayton with 1th pick but was worth 7th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Ryan McDonough ranks in the 8th percentile for drafting among
   of 12 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 12
 draft_rating_bpm: -10.4
+draft_rating_grade_bpm: F
 draft_rating_grade_vorp: F
 draft_rating_percentile_bpm: 14.678899082568808
 draft_rating_percentile_vorp: 8.256880733944953
 draft_rating_vorp: -12.5
 draft_total_bpm: -36168
-draft_total_percentile_bpm: 62.96296296296296
-draft_total_percentile_vorp: 62.96296296296296
+draft_total_percentile_bpm: 63.41463414634146
+draft_total_percentile_vorp: 63.41463414634146
 draft_total_vorp: 20
 draft_win_list: '<ul>
 

@@ -5,13 +5,14 @@ draft_description: This executive has only drafted 2 players and thus doesn't ha
   a draft grade.
 draft_num_players: 2
 draft_rating_bpm: null
+draft_rating_grade_bpm: null
 draft_rating_grade_vorp: null
 draft_rating_percentile_bpm: .nan
 draft_rating_percentile_vorp: .nan
 draft_rating_vorp: null
 draft_total_bpm: 547
-draft_total_percentile_bpm: 37.65432098765432
-draft_total_percentile_vorp: 37.65432098765432
+draft_total_percentile_bpm: 38.41463414634146
+draft_total_percentile_vorp: 38.41463414634146
 draft_total_vorp: 1
 draft_win_list: '<ul>
 
@@ -43,7 +44,7 @@ team:
 - Philadelphia 76ers
 team_shortcode:
 - PHI
-trade_description: 'Larry Brown ranks in the 55th percentile for trading among executives
+trade_description: 'Larry Brown ranks in the 56th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 

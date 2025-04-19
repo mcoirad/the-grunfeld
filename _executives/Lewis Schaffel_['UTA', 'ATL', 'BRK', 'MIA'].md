@@ -1,5 +1,5 @@
 ---
-bpm_rank: 144
+bpm_rank: 146
 draft_bust_list: '<ul>
 
   <li>Drafted Rony Seikaly with 9th pick but was worth 25th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Lewis Schaffel ranks in the 98th percentile for drafting amon
   of 13 spots higher than they were picked due to his good drafting.
 draft_num_players: 19
 draft_rating_bpm: 9.9
+draft_rating_grade_bpm: A
 draft_rating_grade_vorp: S
 draft_rating_percentile_bpm: 88.07339449541284
 draft_rating_percentile_vorp: 98.1651376146789
 draft_rating_vorp: 13.1
 draft_total_bpm: -64712
-draft_total_percentile_bpm: 69.75308641975309
-draft_total_percentile_vorp: 69.75308641975309
+draft_total_percentile_bpm: 70.1219512195122
+draft_total_percentile_vorp: 70.1219512195122
 draft_total_vorp: 30
 draft_win_list: '<ul>
 
@@ -36,7 +37,7 @@ final_bpm: -125108
 href: schafle99x
 is_active: false
 name: Lewis Schaffel
-signing_description: 'Lewis Schaffel ranks in the 21th percentile for free agency
+signing_description: 'Lewis Schaffel ranks in the 20th percentile for free agency
   signings among executives in our database. '
 signing_lose_list: '<ul>
 

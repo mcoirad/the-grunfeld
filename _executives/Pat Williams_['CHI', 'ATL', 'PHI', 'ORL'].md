@@ -14,13 +14,14 @@ draft_description: Pat Williams ranks in the 57th percentile for drafting among 
   2 spots higher than they were picked due to his good drafting.
 draft_num_players: 35
 draft_rating_bpm: 1.9
+draft_rating_grade_bpm: B-
 draft_rating_grade_vorp: C+
 draft_rating_percentile_bpm: 63.30275229357798
 draft_rating_percentile_vorp: 57.79816513761468
 draft_rating_vorp: 2.4
 draft_total_bpm: 270288
-draft_total_percentile_bpm: 98.76543209876543
-draft_total_percentile_vorp: 98.76543209876543
+draft_total_percentile_bpm: 98.78048780487805
+draft_total_percentile_vorp: 98.78048780487805
 draft_total_vorp: 148
 draft_win_list: '<ul>
 
@@ -70,7 +71,7 @@ team_shortcode:
 - ATL
 - PHI
 - ORL
-trade_description: 'Pat Williams ranks in the 63th percentile for trading among executives
+trade_description: 'Pat Williams ranks in the 64th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 

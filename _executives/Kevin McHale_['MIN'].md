@@ -1,5 +1,5 @@
 ---
-bpm_rank: 136
+bpm_rank: 138
 draft_bust_list: '<ul>
 
   <li>Drafted Wally Szczerbiak with 6th pick but was worth 12th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Kevin McHale ranks in the 64th percentile for drafting among 
   3 spots higher than they were picked due to his good drafting.
 draft_num_players: 18
 draft_rating_bpm: 3.7
+draft_rating_grade_bpm: B
 draft_rating_grade_vorp: B-
 draft_rating_percentile_bpm: 72.4770642201835
 draft_rating_percentile_vorp: 64.22018348623853
 draft_rating_vorp: 3.2
 draft_total_bpm: 168649
-draft_total_percentile_bpm: 90.12345679012346
-draft_total_percentile_vorp: 90.12345679012346
+draft_total_percentile_bpm: 90.2439024390244
+draft_total_percentile_vorp: 90.2439024390244
 draft_total_vorp: 87
 draft_win_list: '<ul>
 
@@ -36,7 +37,7 @@ final_bpm: -101471
 href: mchalke01x
 is_active: false
 name: Kevin McHale
-signing_description: 'Kevin McHale ranks in the 39th percentile for free agency signings
+signing_description: 'Kevin McHale ranks in the 38th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -64,7 +65,7 @@ team:
 - Minnesota Timberwolves
 team_shortcode:
 - MIN
-trade_description: 'Kevin McHale ranks in the 55th percentile for trading among executives
+trade_description: 'Kevin McHale ranks in the 56th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 

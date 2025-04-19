@@ -1,5 +1,5 @@
 ---
-bpm_rank: 102
+bpm_rank: 104
 draft_bust_list: '<ul>
 
   <li>Drafted Eric Leckner with 17th pick but was worth 58th pick.</li>
@@ -11,13 +11,14 @@ draft_description: This executive has only drafted 3 players and thus doesn't ha
   a draft grade.
 draft_num_players: 3
 draft_rating_bpm: null
+draft_rating_grade_bpm: null
 draft_rating_grade_vorp: null
 draft_rating_percentile_bpm: .nan
 draft_rating_percentile_vorp: .nan
 draft_rating_vorp: null
 draft_total_bpm: -12009
-draft_total_percentile_bpm: 5.555555555555555
-draft_total_percentile_vorp: 5.555555555555555
+draft_total_percentile_bpm: 5.487804878048781
+draft_total_percentile_vorp: 5.487804878048781
 draft_total_vorp: -2
 draft_win_list: '<ul>
 

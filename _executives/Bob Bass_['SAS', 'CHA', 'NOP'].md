@@ -1,5 +1,5 @@
 ---
-bpm_rank: 130
+bpm_rank: 132
 draft_bust_list: '<ul>
 
   <li>Drafted Sean Elliott with 3th pick but was worth 9th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Bob Bass ranks in the 56th percentile for drafting among exec
   spots higher than they were picked due to his good drafting.
 draft_num_players: 31
 draft_rating_bpm: 6.1
+draft_rating_grade_bpm: B+
 draft_rating_grade_vorp: C+
 draft_rating_percentile_bpm: 77.98165137614679
 draft_rating_percentile_vorp: 56.88073394495413
 draft_rating_vorp: 2.3
 draft_total_bpm: 252470
-draft_total_percentile_bpm: 95.67901234567901
-draft_total_percentile_vorp: 95.67901234567901
+draft_total_percentile_bpm: 95.73170731707317
+draft_total_percentile_vorp: 95.73170731707317
 draft_total_vorp: 122
 draft_win_list: '<ul>
 

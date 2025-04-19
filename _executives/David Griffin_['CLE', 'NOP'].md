@@ -14,13 +14,14 @@ draft_description: David Griffin ranks in the 43th percentile for drafting among
   1 spot lower than they were picked due to their terrible drafting.
 draft_num_players: 9
 draft_rating_bpm: -3.1
+draft_rating_grade_bpm: C-
 draft_rating_grade_vorp: C-
 draft_rating_percentile_bpm: 41.28440366972477
 draft_rating_percentile_vorp: 43.11926605504587
 draft_rating_vorp: -0.7
 draft_total_bpm: 2741
-draft_total_percentile_bpm: 56.17283950617284
-draft_total_percentile_vorp: 56.17283950617284
+draft_total_percentile_bpm: 56.707317073170735
+draft_total_percentile_vorp: 56.707317073170735
 draft_total_vorp: 13
 draft_win_list: '<ul>
 

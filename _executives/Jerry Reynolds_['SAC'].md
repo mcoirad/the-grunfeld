@@ -1,5 +1,5 @@
 ---
-bpm_rank: 123
+bpm_rank: 125
 draft_bust_list: '<ul>
 
   <li>Drafted Billy Owens with 3th pick but was worth 11th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Jerry Reynolds ranks in the 35th percentile for drafting amon
   of 3 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 11
 draft_rating_bpm: -7.2
+draft_rating_grade_bpm: D-
 draft_rating_grade_vorp: D+
 draft_rating_percentile_bpm: 25.68807339449541
 draft_rating_percentile_vorp: 35.77981651376147
 draft_rating_vorp: -3.5
 draft_total_bpm: -69907
-draft_total_percentile_bpm: 50.0
-draft_total_percentile_vorp: 50.0
+draft_total_percentile_bpm: 50.609756097560975
+draft_total_percentile_vorp: 50.609756097560975
 draft_total_vorp: 9
 draft_win_list: '<ul>
 
@@ -30,7 +31,7 @@ final_bpm: -72655
 href: reynoje99x
 is_active: false
 name: Jerry Reynolds
-signing_description: Jerry Reynolds ranks in the 53th percentile for free agency signings
+signing_description: Jerry Reynolds ranks in the 52th percentile for free agency signings
   among executives in our database. That's basically average. It could be worse though
   lol.
 signing_lose_list: '<ul>
@@ -43,7 +44,7 @@ signing_lose_list: '<ul>
 
   </ul>'
 signing_rating_bpm: -0.35
-signing_rating_grade_vorp: C+
+signing_rating_grade_vorp: C
 signing_rating_vorp: -0.04
 signing_win_list: '<ul>
 
@@ -59,7 +60,7 @@ team:
 - Sacramento Kings
 team_shortcode:
 - SAC
-trade_description: 'Jerry Reynolds ranks in the 34th percentile for trading among
+trade_description: 'Jerry Reynolds ranks in the 33th percentile for trading among
   executives in our database. '
 trade_lose_list: '<ul>
 

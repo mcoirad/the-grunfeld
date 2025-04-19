@@ -6,13 +6,14 @@ draft_description: Flip Saunders ranks in the 82th percentile for drafting among
   7 spots higher than they were picked due to his good drafting.
 draft_num_players: 4
 draft_rating_bpm: 7.2
+draft_rating_grade_bpm: A-
 draft_rating_grade_vorp: A-
 draft_rating_percentile_bpm: 80.73394495412845
 draft_rating_percentile_vorp: 82.56880733944953
 draft_rating_vorp: 7.2
 draft_total_bpm: 73376
-draft_total_percentile_bpm: 72.8395061728395
-draft_total_percentile_vorp: 72.8395061728395
+draft_total_percentile_bpm: 73.17073170731707
+draft_total_percentile_vorp: 73.17073170731707
 draft_total_vorp: 32
 draft_win_list: '<ul>
 
@@ -24,7 +25,7 @@ final_bpm: 28220
 href: saundfl99x
 is_active: false
 name: Flip Saunders
-signing_description: Flip Saunders ranks in the 50th percentile for free agency signings
+signing_description: Flip Saunders ranks in the 49th percentile for free agency signings
   among executives in our database. That's basically average. It could be worse though
   lol.
 signing_lose_list: '<ul>
@@ -53,7 +54,7 @@ team:
 - Minnesota Timberwolves
 team_shortcode:
 - MIN
-trade_description: 'Flip Saunders ranks in the 34th percentile for trading among executives
+trade_description: 'Flip Saunders ranks in the 33th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 

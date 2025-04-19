@@ -5,13 +5,14 @@ draft_description: This executive has only drafted 1 player and thus doesn't hav
   a draft grade.
 draft_num_players: 1
 draft_rating_bpm: null
+draft_rating_grade_bpm: null
 draft_rating_grade_vorp: null
 draft_rating_percentile_bpm: .nan
 draft_rating_percentile_vorp: .nan
 draft_rating_vorp: null
 draft_total_bpm: 69792
-draft_total_percentile_bpm: 69.1358024691358
-draft_total_percentile_vorp: 69.1358024691358
+draft_total_percentile_bpm: 69.51219512195122
+draft_total_percentile_vorp: 69.51219512195122
 draft_total_vorp: 29
 draft_win_list: '<ul>
 
@@ -45,7 +46,7 @@ team:
 - Orlando Magic
 team_shortcode:
 - ORL
-trade_description: 'John Weisbrod ranks in the 55th percentile for trading among executives
+trade_description: 'John Weisbrod ranks in the 56th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 

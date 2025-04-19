@@ -6,13 +6,14 @@ draft_description: Lawrence Frank ranks in the 94th percentile for drafting amon
   of 12 spots higher than they were picked due to his good drafting.
 draft_num_players: 6
 draft_rating_bpm: 11.7
+draft_rating_grade_bpm: A+
 draft_rating_grade_vorp: A+
 draft_rating_percentile_bpm: 94.4954128440367
 draft_rating_percentile_vorp: 94.4954128440367
 draft_rating_vorp: 11.7
 draft_total_bpm: -13883
-draft_total_percentile_bpm: 40.123456790123456
-draft_total_percentile_vorp: 40.123456790123456
+draft_total_percentile_bpm: 40.853658536585364
+draft_total_percentile_vorp: 40.853658536585364
 draft_total_vorp: 2
 draft_win_list: '<ul>
 

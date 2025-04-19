@@ -1,5 +1,5 @@
 ---
-bpm_rank: 86
+bpm_rank: 88
 draft_bust_list: '<ul>
 
   <li>Drafted Johan Petro with 25th pick but was worth 55th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Rick Sund ranks in the 39th percentile for drafting among exe
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 8
 draft_rating_bpm: -2.1
+draft_rating_grade_bpm: C-
 draft_rating_grade_vorp: D+
 draft_rating_percentile_bpm: 44.95412844036697
 draft_rating_percentile_vorp: 39.44954128440367
 draft_rating_vorp: -1.9
 draft_total_bpm: -10418
-draft_total_percentile_bpm: 53.7037037037037
-draft_total_percentile_vorp: 53.7037037037037
+draft_total_percentile_bpm: 54.26829268292683
+draft_total_percentile_vorp: 54.26829268292683
 draft_total_vorp: 12
 draft_win_list: '<ul>
 
@@ -32,7 +33,7 @@ final_bpm: -20758
 href: sundri99x
 is_active: false
 name: Rick Sund
-signing_description: 'Rick Sund ranks in the 59th percentile for free agency signings
+signing_description: 'Rick Sund ranks in the 58th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 

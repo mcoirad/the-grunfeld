@@ -14,13 +14,14 @@ draft_description: John Hammond ranks in the 41th percentile for drafting among 
   2 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 16
 draft_rating_bpm: -2.8
+draft_rating_grade_bpm: C-
 draft_rating_grade_vorp: C-
 draft_rating_percentile_bpm: 42.20183486238532
 draft_rating_percentile_vorp: 41.28440366972477
 draft_rating_vorp: -1.8
 draft_total_bpm: 150313
-draft_total_percentile_bpm: 89.50617283950618
-draft_total_percentile_vorp: 89.50617283950618
+draft_total_percentile_bpm: 89.63414634146342
+draft_total_percentile_vorp: 89.63414634146342
 draft_total_vorp: 77
 draft_win_list: '<ul>
 
@@ -36,7 +37,7 @@ final_bpm: 120607
 href: hammojo99x
 is_active: false
 name: John Hammond
-signing_description: 'John Hammond ranks in the 70th percentile for free agency signings
+signing_description: 'John Hammond ranks in the 69th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 

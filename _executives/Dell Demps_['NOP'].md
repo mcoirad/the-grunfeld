@@ -1,5 +1,5 @@
 ---
-bpm_rank: 145
+bpm_rank: 147
 draft_bust_list: '<ul>
 
   <li>Drafted Austin Rivers with 10th pick but was worth 56th pick.</li>
@@ -12,13 +12,14 @@ draft_description: Dell Demps ranks in the 14th percentile for drafting among ex
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 4
 draft_rating_bpm: -12.2
+draft_rating_grade_bpm: F
 draft_rating_grade_vorp: F
 draft_rating_percentile_bpm: 11.926605504587156
 draft_rating_percentile_vorp: 14.678899082568808
 draft_rating_vorp: -10.8
 draft_total_bpm: 71827
-draft_total_percentile_bpm: 68.51851851851852
-draft_total_percentile_vorp: 68.51851851851852
+draft_total_percentile_bpm: 68.90243902439025
+draft_total_percentile_vorp: 68.90243902439025
 draft_total_vorp: 29
 draft_win_list: '<ul>
 
@@ -28,7 +29,7 @@ final_bpm: -126236
 href: dempsde01x
 is_active: false
 name: Dell Demps
-signing_description: 'Dell Demps ranks in the 29th percentile for free agency signings
+signing_description: 'Dell Demps ranks in the 28th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 

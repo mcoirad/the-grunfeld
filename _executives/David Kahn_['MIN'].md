@@ -1,5 +1,5 @@
 ---
-bpm_rank: 138
+bpm_rank: 140
 draft_bust_list: '<ul>
 
   <li>Drafted Derrick Williams with 2th pick but was worth 26th pick.</li>
@@ -14,13 +14,14 @@ draft_description: David Kahn ranks in the 12th percentile for drafting among ex
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 6
 draft_rating_bpm: -20.3
+draft_rating_grade_bpm: F-
 draft_rating_grade_vorp: F
 draft_rating_percentile_bpm: 1.834862385321101
 draft_rating_percentile_vorp: 12.844036697247706
 draft_rating_vorp: -11.5
 draft_total_bpm: -32767
-draft_total_percentile_bpm: 48.148148148148145
-draft_total_percentile_vorp: 48.148148148148145
+draft_total_percentile_bpm: 48.78048780487805
+draft_total_percentile_vorp: 48.78048780487805
 draft_total_vorp: 6
 draft_win_list: '<ul>
 
@@ -30,7 +31,7 @@ final_bpm: -105060
 href: kahnda99x
 is_active: false
 name: David Kahn
-signing_description: 'David Kahn ranks in the 36th percentile for free agency signings
+signing_description: 'David Kahn ranks in the 35th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 

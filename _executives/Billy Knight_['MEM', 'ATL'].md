@@ -1,5 +1,5 @@
 ---
-bpm_rank: 135
+bpm_rank: 137
 draft_bust_list: '<ul>
 
   <li>Drafted Marvin Williams with 2th pick but was worth 9th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Billy Knight ranks in the 31th percentile for drafting among 
   4 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 17
 draft_rating_bpm: -3.9
+draft_rating_grade_bpm: D+
 draft_rating_grade_vorp: D
 draft_rating_percentile_bpm: 34.862385321100916
 draft_rating_percentile_vorp: 31.192660550458715
 draft_rating_vorp: -4.4
 draft_total_bpm: 51310
-draft_total_percentile_bpm: 87.65432098765432
-draft_total_percentile_vorp: 87.65432098765432
+draft_total_percentile_bpm: 87.8048780487805
+draft_total_percentile_vorp: 87.8048780487805
 draft_total_vorp: 65
 draft_win_list: '<ul>
 

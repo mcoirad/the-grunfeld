@@ -1,5 +1,5 @@
 ---
-bpm_rank: 127
+bpm_rank: 129
 draft_bust_list: '<ul>
 
   <li>Drafted Jahlil Okafor with 3th pick but was worth 29th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Sam Hinkie ranks in the 52th percentile for drafting among ex
   1 spot higher than they were picked due to his good drafting.
 draft_num_players: 6
 draft_rating_bpm: -7.0
+draft_rating_grade_bpm: D
 draft_rating_grade_vorp: C
 draft_rating_percentile_bpm: 27.522935779816514
 draft_rating_percentile_vorp: 52.293577981651374
 draft_rating_vorp: 1.3
 draft_total_bpm: 77199
-draft_total_percentile_bpm: 74.07407407407408
-draft_total_percentile_vorp: 74.07407407407408
+draft_total_percentile_bpm: 74.39024390243902
+draft_total_percentile_vorp: 74.39024390243902
 draft_total_vorp: 34
 draft_win_list: '<ul>
 

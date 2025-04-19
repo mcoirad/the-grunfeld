@@ -1,5 +1,5 @@
 ---
-bpm_rank: 77
+bpm_rank: 79
 draft_bust_list: '<ul>
 
   <li>Drafted Kris Dunn with 5th pick but was worth 14th pick.</li>
@@ -11,13 +11,14 @@ draft_description: This executive has only drafted 3 players and thus doesn't ha
   a draft grade.
 draft_num_players: 3
 draft_rating_bpm: null
+draft_rating_grade_bpm: null
 draft_rating_grade_vorp: null
 draft_rating_percentile_bpm: .nan
 draft_rating_percentile_vorp: .nan
 draft_rating_vorp: null
 draft_total_bpm: -20527
-draft_total_percentile_bpm: 6.790123456790123
-draft_total_percentile_vorp: 6.790123456790123
+draft_total_percentile_bpm: 6.7073170731707314
+draft_total_percentile_vorp: 6.7073170731707314
 draft_total_vorp: -2
 draft_win_list: '<ul>
 

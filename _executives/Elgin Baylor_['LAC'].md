@@ -1,5 +1,5 @@
 ---
-bpm_rank: 163
+bpm_rank: 165
 draft_bust_list: '<ul>
 
   <li>Drafted Michael Olowokandi with 1th pick but was worth 56th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Elgin Baylor ranks in the 36th percentile for drafting among 
   3 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 41
 draft_rating_bpm: -5.0
+draft_rating_grade_bpm: D
 draft_rating_grade_vorp: D+
 draft_rating_percentile_bpm: 32.11009174311926
 draft_rating_percentile_vorp: 36.69724770642202
 draft_rating_vorp: -3.4
 draft_total_bpm: -240165
-draft_total_percentile_bpm: 75.30864197530865
-draft_total_percentile_vorp: 75.30864197530865
+draft_total_percentile_bpm: 75.60975609756098
+draft_total_percentile_vorp: 75.60975609756098
 draft_total_vorp: 34
 draft_win_list: '<ul>
 

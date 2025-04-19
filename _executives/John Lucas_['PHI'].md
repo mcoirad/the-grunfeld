@@ -1,5 +1,5 @@
 ---
-bpm_rank: 121
+bpm_rank: 123
 draft_bust_list: '<ul>
 
   <li>Drafted Jerry Stackhouse with 3th pick but was worth 5th pick.</li>
@@ -14,13 +14,14 @@ draft_description: John Lucas ranks in the 4th percentile for drafting among exe
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 4
 draft_rating_bpm: -8.8
+draft_rating_grade_bpm: D-
 draft_rating_grade_vorp: F
 draft_rating_percentile_bpm: 20.18348623853211
 draft_rating_percentile_vorp: 4.587155963302752
 draft_rating_vorp: -14.0
 draft_total_bpm: -33358
-draft_total_percentile_bpm: 3.7037037037037037
-draft_total_percentile_vorp: 3.7037037037037037
+draft_total_percentile_bpm: 3.658536585365854
+draft_total_percentile_vorp: 3.658536585365854
 draft_total_vorp: -2
 draft_win_list: '<ul>
 

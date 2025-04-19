@@ -14,13 +14,14 @@ draft_description: Randy Pfund ranks in the 85th percentile for drafting among e
   spots higher than they were picked due to his good drafting.
 draft_num_players: 13
 draft_rating_bpm: 8.6
+draft_rating_grade_bpm: A-
 draft_rating_grade_vorp: A-
 draft_rating_percentile_bpm: 83.4862385321101
 draft_rating_percentile_vorp: 85.3211009174312
 draft_rating_vorp: 7.9
 draft_total_bpm: 144947
-draft_total_percentile_bpm: 87.03703703703704
-draft_total_percentile_vorp: 87.03703703703704
+draft_total_percentile_bpm: 87.1951219512195
+draft_total_percentile_vorp: 87.1951219512195
 draft_total_vorp: 65
 draft_win_list: '<ul>
 
@@ -64,7 +65,7 @@ team:
 - Miami Heat
 team_shortcode:
 - MIA
-trade_description: 'Randy Pfund ranks in the 39th percentile for trading among executives
+trade_description: 'Randy Pfund ranks in the 38th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 

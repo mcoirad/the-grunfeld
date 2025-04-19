@@ -1,5 +1,5 @@
 ---
-bpm_rank: 79
+bpm_rank: 81
 draft_bust_list: '<ul>
 
   <li>Drafted Nikoloz Tskitishvili with 5th pick but was worth 47th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Kiki Vandeweghe ranks in the 23th percentile for drafting amo
   equivalent of 6 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 9
 draft_rating_bpm: -1.1
+draft_rating_grade_bpm: C
 draft_rating_grade_vorp: D-
 draft_rating_percentile_bpm: 52.293577981651374
 draft_rating_percentile_vorp: 23.853211009174313
 draft_rating_vorp: -6.0
 draft_total_bpm: 12114
-draft_total_percentile_bpm: 67.90123456790124
-draft_total_percentile_vorp: 67.90123456790124
+draft_total_percentile_bpm: 68.29268292682927
+draft_total_percentile_vorp: 68.29268292682927
 draft_total_vorp: 29
 draft_win_list: '<ul>
 

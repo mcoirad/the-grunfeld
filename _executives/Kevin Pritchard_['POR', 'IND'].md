@@ -14,6 +14,7 @@ draft_description: Kevin Pritchard ranks in the 51th percentile for drafting amo
   equivalent of 1 spot higher than they were picked due to his good drafting.
 draft_num_players: 21
 draft_rating_bpm: 3.9
+draft_rating_grade_bpm: B+
 draft_rating_grade_vorp: C
 draft_rating_percentile_bpm: 73.39449541284404
 draft_rating_percentile_vorp: 51.37614678899082
@@ -36,7 +37,7 @@ final_bpm: 47811
 href: pritcke01x
 is_active: true
 name: Kevin Pritchard
-signing_description: 'Kevin Pritchard ranks in the 55th percentile for free agency
+signing_description: 'Kevin Pritchard ranks in the 54th percentile for free agency
   signings among executives in our database. '
 signing_lose_list: '<ul>
 

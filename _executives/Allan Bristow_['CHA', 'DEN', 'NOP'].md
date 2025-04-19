@@ -1,17 +1,18 @@
 ---
-bpm_rank: 149
+bpm_rank: 151
 draft_bust_list: null
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
 draft_num_players: 1
 draft_rating_bpm: null
+draft_rating_grade_bpm: null
 draft_rating_grade_vorp: null
 draft_rating_percentile_bpm: .nan
 draft_rating_percentile_vorp: .nan
 draft_rating_vorp: null
 draft_total_bpm: -5873
-draft_total_percentile_bpm: 14.197530864197532
-draft_total_percentile_vorp: 14.197530864197532
+draft_total_percentile_bpm: 14.024390243902438
+draft_total_percentile_vorp: 14.024390243902438
 draft_total_vorp: -1
 draft_win_list: '<ul>
 
@@ -21,7 +22,7 @@ final_bpm: -133781
 href: bristal01x
 is_active: false
 name: Allan Bristow
-signing_description: Allan Bristow ranks in the 51th percentile for free agency signings
+signing_description: Allan Bristow ranks in the 50th percentile for free agency signings
   among executives in our database. That's basically average. It could be worse though
   lol.
 signing_lose_list: '<ul>

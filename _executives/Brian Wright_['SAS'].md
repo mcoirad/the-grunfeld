@@ -1,5 +1,5 @@
 ---
-bpm_rank: 137
+bpm_rank: 139
 draft_bust_list: '<ul>
 
   <li>Drafted Jeremy Sochan with 9th pick but was worth 46th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Brian Wright ranks in the 17th percentile for drafting among 
   8 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 11
 draft_rating_bpm: -7.9
+draft_rating_grade_bpm: D-
 draft_rating_grade_vorp: F
 draft_rating_percentile_bpm: 22.93577981651376
 draft_rating_percentile_vorp: 17.431192660550458
 draft_rating_vorp: -8.5
 draft_total_bpm: -46727
-draft_total_percentile_bpm: 45.67901234567901
-draft_total_percentile_vorp: 45.67901234567901
+draft_total_percentile_bpm: 46.34146341463415
+draft_total_percentile_vorp: 46.34146341463415
 draft_total_vorp: 4
 draft_win_list: '<ul>
 
@@ -60,7 +61,7 @@ team:
 - San Antonio Spurs
 team_shortcode:
 - SAS
-trade_description: 'Brian Wright ranks in the 13th percentile for trading among executives
+trade_description: 'Brian Wright ranks in the 12th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 

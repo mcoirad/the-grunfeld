@@ -1,5 +1,5 @@
 ---
-bpm_rank: 140
+bpm_rank: 142
 draft_bust_list: '<ul>
 
   <li>Drafted Mario Hezonja with 5th pick but was worth 40th pick.</li>
@@ -12,13 +12,14 @@ draft_description: Rob Hennigan ranks in the 22th percentile for drafting among 
   6 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 6
 draft_rating_bpm: -2.0
+draft_rating_grade_bpm: C-
 draft_rating_grade_vorp: D-
 draft_rating_percentile_bpm: 46.788990825688074
 draft_rating_percentile_vorp: 22.93577981651376
 draft_rating_vorp: -6.3
 draft_total_bpm: -25665
-draft_total_percentile_bpm: 50.617283950617285
-draft_total_percentile_vorp: 50.617283950617285
+draft_total_percentile_bpm: 51.21951219512195
+draft_total_percentile_vorp: 51.21951219512195
 draft_total_vorp: 9
 draft_win_list: '<ul>
 

@@ -1,5 +1,5 @@
 ---
-bpm_rank: 132
+bpm_rank: 134
 draft_bust_list: '<ul>
 
   <li>Drafted Felton Spencer with 6th pick but was worth 50th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Billy McKinney ranks in the 30th percentile for drafting amon
   of 5 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 8
 draft_rating_bpm: -7.2
+draft_rating_grade_bpm: D-
 draft_rating_grade_vorp: D
 draft_rating_percentile_bpm: 24.770642201834864
 draft_rating_percentile_vorp: 30.275229357798164
 draft_rating_vorp: -4.8
 draft_total_bpm: 20744
-draft_total_percentile_bpm: 79.62962962962963
-draft_total_percentile_vorp: 79.62962962962963
+draft_total_percentile_bpm: 79.8780487804878
+draft_total_percentile_vorp: 79.8780487804878
 draft_total_vorp: 42
 draft_win_list: '<ul>
 

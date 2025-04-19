@@ -1,5 +1,5 @@
 ---
-bpm_rank: 107
+bpm_rank: 109
 draft_bust_list: '<ul>
 
   <li>Drafted Patrick Williams with 4th pick but was worth 47th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Artūras Karnišovas ranks in the 7th percentile for drafting
   equivalent of 13 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
 draft_rating_bpm: -16.8
+draft_rating_grade_bpm: F
 draft_rating_grade_vorp: F
 draft_rating_percentile_bpm: 3.669724770642202
 draft_rating_percentile_vorp: 7.339449541284404
 draft_rating_vorp: -12.6
 draft_total_bpm: -40546
-draft_total_percentile_bpm: 12.962962962962964
-draft_total_percentile_vorp: 12.962962962962964
+draft_total_percentile_bpm: 12.804878048780488
+draft_total_percentile_vorp: 12.804878048780488
 draft_total_vorp: -1
 draft_win_list: '<ul>
 
@@ -58,7 +59,7 @@ team:
 - Chicago Bulls
 team_shortcode:
 - CHI
-trade_description: 'Artūras Karnišovas ranks in the 55th percentile for trading among
+trade_description: 'Artūras Karnišovas ranks in the 56th percentile for trading among
   executives in our database. '
 trade_lose_list: '<ul>
 

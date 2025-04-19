@@ -1,5 +1,5 @@
 ---
-bpm_rank: 78
+bpm_rank: 80
 draft_bust_list: '<ul>
 
   <li>Drafted Max Christie with 35th pick but was worth 40th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Rob Pelinka ranks in the 60th percentile for drafting among e
   3 spots higher than they were picked due to his good drafting.
 draft_num_players: 6
 draft_rating_bpm: 0.7
+draft_rating_grade_bpm: C+
 draft_rating_grade_vorp: B-
 draft_rating_percentile_bpm: 58.71559633027523
 draft_rating_percentile_vorp: 60.55045871559633
 draft_rating_vorp: 2.7
 draft_total_bpm: -16610
-draft_total_percentile_bpm: 7.407407407407407
-draft_total_percentile_vorp: 7.407407407407407
+draft_total_percentile_bpm: 7.317073170731708
+draft_total_percentile_vorp: 7.317073170731708
 draft_total_vorp: -1
 draft_win_list: '<ul>
 
@@ -30,7 +31,7 @@ final_bpm: -14216
 href: pelinro99x
 is_active: true
 name: Rob Pelinka
-signing_description: 'Rob Pelinka ranks in the 56th percentile for free agency signings
+signing_description: 'Rob Pelinka ranks in the 55th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 

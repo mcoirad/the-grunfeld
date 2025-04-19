@@ -12,13 +12,14 @@ draft_description: Jon Horst ranks in the 44th percentile for drafting among exe
   spot lower than they were picked due to their terrible drafting.
 draft_num_players: 10
 draft_rating_bpm: 2.4
+draft_rating_grade_bpm: B-
 draft_rating_grade_vorp: C-
 draft_rating_percentile_bpm: 66.97247706422019
 draft_rating_percentile_vorp: 44.03669724770642
 draft_rating_vorp: -0.6
 draft_total_bpm: -18479
-draft_total_percentile_bpm: 33.95061728395062
-draft_total_percentile_vorp: 33.95061728395062
+draft_total_percentile_bpm: 34.75609756097561
+draft_total_percentile_vorp: 34.75609756097561
 draft_total_vorp: 1
 draft_win_list: '<ul>
 

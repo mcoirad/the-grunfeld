@@ -1,5 +1,5 @@
 ---
-bpm_rank: 125
+bpm_rank: 127
 draft_bust_list: '<ul>
 
   <li>Drafted Cameron Thomas with 27th pick but was worth 26th pick.</li>
@@ -12,13 +12,14 @@ draft_description: Sean Marks ranks in the 58th percentile for drafting among ex
   spots higher than they were picked due to his good drafting.
 draft_num_players: 10
 draft_rating_bpm: 6.9
+draft_rating_grade_bpm: B+
 draft_rating_grade_vorp: C+
 draft_rating_percentile_bpm: 79.81651376146789
 draft_rating_percentile_vorp: 58.71559633027523
 draft_rating_vorp: 2.6
 draft_total_bpm: -18691
-draft_total_percentile_bpm: 49.382716049382715
-draft_total_percentile_vorp: 49.382716049382715
+draft_total_percentile_bpm: 50.0
+draft_total_percentile_vorp: 50.0
 draft_total_vorp: 9
 draft_win_list: '<ul>
 

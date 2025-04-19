@@ -14,13 +14,14 @@ draft_description: Bryan Colangelo ranks in the 65th percentile for drafting amo
   equivalent of 3 spots higher than they were picked due to his good drafting.
 draft_num_players: 26
 draft_rating_bpm: -2.5
+draft_rating_grade_bpm: C-
 draft_rating_grade_vorp: B-
 draft_rating_percentile_bpm: 44.03669724770642
 draft_rating_percentile_vorp: 65.13761467889908
 draft_rating_vorp: 3.4
 draft_total_bpm: 195195
-draft_total_percentile_bpm: 96.91358024691358
-draft_total_percentile_vorp: 96.91358024691358
+draft_total_percentile_bpm: 96.95121951219512
+draft_total_percentile_vorp: 96.95121951219512
 draft_total_vorp: 136
 draft_win_list: '<ul>
 

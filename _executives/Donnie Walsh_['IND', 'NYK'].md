@@ -14,13 +14,14 @@ draft_description: Donnie Walsh ranks in the 62th percentile for drafting among 
   spots higher than they were picked due to his good drafting.
 draft_num_players: 28
 draft_rating_bpm: -7.1
+draft_rating_grade_bpm: D-
 draft_rating_grade_vorp: B-
 draft_rating_percentile_bpm: 26.605504587155963
 draft_rating_percentile_vorp: 62.38532110091743
 draft_rating_vorp: 2.8
 draft_total_bpm: 89755
-draft_total_percentile_bpm: 95.06172839506173
-draft_total_percentile_vorp: 95.06172839506173
+draft_total_percentile_bpm: 95.1219512195122
+draft_total_percentile_vorp: 95.1219512195122
 draft_total_vorp: 117
 draft_win_list: '<ul>
 
@@ -36,7 +37,7 @@ final_bpm: 307200
 href: walshdo99x
 is_active: false
 name: Donnie Walsh
-signing_description: Donnie Walsh ranks in the 47th percentile for free agency signings
+signing_description: Donnie Walsh ranks in the 46th percentile for free agency signings
   among executives in our database. That's basically average. It could be worse though
   lol.
 signing_lose_list: '<ul>
@@ -49,7 +50,7 @@ signing_lose_list: '<ul>
 
   </ul>'
 signing_rating_bpm: -0.53
-signing_rating_grade_vorp: C
+signing_rating_grade_vorp: C-
 signing_rating_vorp: -0.06
 signing_win_list: '<ul>
 

@@ -1,5 +1,5 @@
 ---
-bpm_rank: 151
+bpm_rank: 153
 draft_bust_list: '<ul>
 
   <li>Drafted Anthony Bennett with 1th pick but was worth 50th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Chris Grant ranks in the 2th percentile for drafting among ex
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 8
 draft_rating_bpm: -12.5
+draft_rating_grade_bpm: F
 draft_rating_grade_vorp: F-
 draft_rating_percentile_bpm: 11.009174311926605
 draft_rating_percentile_vorp: 2.7522935779816513
 draft_rating_vorp: -15.0
 draft_total_bpm: -3812
-draft_total_percentile_bpm: 62.34567901234568
-draft_total_percentile_vorp: 62.34567901234568
+draft_total_percentile_bpm: 62.80487804878049
+draft_total_percentile_vorp: 62.80487804878049
 draft_total_vorp: 18
 draft_win_list: '<ul>
 

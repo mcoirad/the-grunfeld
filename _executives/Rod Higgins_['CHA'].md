@@ -1,5 +1,5 @@
 ---
-bpm_rank: 129
+bpm_rank: 131
 draft_bust_list: '<ul>
 
   <li>Drafted Gerald Henderson with 12th pick but was worth 30th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Rod Higgins ranks in the 27th percentile for drafting among e
   5 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
 draft_rating_bpm: -10.4
+draft_rating_grade_bpm: F
 draft_rating_grade_vorp: D
 draft_rating_percentile_bpm: 15.596330275229358
 draft_rating_percentile_vorp: 27.522935779816514
 draft_rating_vorp: -5.4
 draft_total_bpm: -23935
-draft_total_percentile_bpm: 45.06172839506173
-draft_total_percentile_vorp: 45.06172839506173
+draft_total_percentile_bpm: 45.73170731707317
+draft_total_percentile_vorp: 45.73170731707317
 draft_total_vorp: 4
 draft_win_list: '<ul>
 

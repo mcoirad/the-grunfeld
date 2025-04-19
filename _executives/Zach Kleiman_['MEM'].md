@@ -12,13 +12,14 @@ draft_description: Zach Kleiman ranks in the 97th percentile for drafting among 
   13 spots higher than they were picked due to his good drafting.
 draft_num_players: 5
 draft_rating_bpm: 4.4
+draft_rating_grade_bpm: B+
 draft_rating_grade_vorp: S
 draft_rating_percentile_bpm: 74.31192660550458
 draft_rating_percentile_vorp: 97.24770642201835
 draft_rating_vorp: 13.0
 draft_total_bpm: 10472
-draft_total_percentile_bpm: 56.79012345679013
-draft_total_percentile_vorp: 56.79012345679013
+draft_total_percentile_bpm: 57.31707317073171
+draft_total_percentile_vorp: 57.31707317073171
 draft_total_vorp: 13
 draft_win_list: '<ul>
 
@@ -32,7 +33,7 @@ final_bpm: 9751
 href: kleimza99x
 is_active: true
 name: Zach Kleiman
-signing_description: 'Zach Kleiman ranks in the 42th percentile for free agency signings
+signing_description: 'Zach Kleiman ranks in the 41th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -60,7 +61,7 @@ team:
 - Memphis Grizzlies
 team_shortcode:
 - MEM
-trade_description: 'Zach Kleiman ranks in the 78th percentile for trading among executives
+trade_description: 'Zach Kleiman ranks in the 79th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 

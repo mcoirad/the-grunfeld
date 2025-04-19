@@ -1,5 +1,5 @@
 ---
-bpm_rank: 119
+bpm_rank: 121
 draft_bust_list: '<ul>
 
   <li>Drafted Evan Turner with 2th pick but was worth 23th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Ed Stefanski ranks in the 15th percentile for drafting among 
   of 11 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 11
 draft_rating_bpm: -11.2
+draft_rating_grade_bpm: F
 draft_rating_grade_vorp: F
 draft_rating_percentile_bpm: 13.761467889908257
 draft_rating_percentile_vorp: 15.596330275229358
 draft_rating_vorp: -10.6
 draft_total_bpm: -75569
-draft_total_percentile_bpm: 15.432098765432098
-draft_total_percentile_vorp: 15.432098765432098
+draft_total_percentile_bpm: 15.853658536585366
+draft_total_percentile_vorp: 15.853658536585366
 draft_total_vorp: 0
 draft_win_list: '<ul>
 
@@ -32,7 +33,7 @@ final_bpm: -57455
 href: stefaed99x
 is_active: false
 name: Ed Stefanski
-signing_description: 'Ed Stefanski ranks in the 17th percentile for free agency signings
+signing_description: 'Ed Stefanski ranks in the 16th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 

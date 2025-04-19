@@ -1,17 +1,18 @@
 ---
-bpm_rank: 128
+bpm_rank: 130
 draft_bust_list: null
 draft_description: This executive has only drafted 2 players and thus doesn't have
   a draft grade.
 draft_num_players: 2
 draft_rating_bpm: null
+draft_rating_grade_bpm: null
 draft_rating_grade_vorp: null
 draft_rating_percentile_bpm: .nan
 draft_rating_percentile_vorp: .nan
 draft_rating_vorp: null
 draft_total_bpm: -6714
-draft_total_percentile_bpm: 14.814814814814815
-draft_total_percentile_vorp: 14.814814814814815
+draft_total_percentile_bpm: 15.24390243902439
+draft_total_percentile_vorp: 15.24390243902439
 draft_total_vorp: -1
 draft_win_list: '<ul>
 

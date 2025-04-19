@@ -1,5 +1,5 @@
 ---
-bpm_rank: 134
+bpm_rank: 136
 draft_bust_list: '<ul>
 
   <li>Drafted Emeka Okafor with 2th pick but was worth 17th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Bernie Bickerstaff ranks in the 22th percentile for drafting 
   equivalent of 6 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 14
 draft_rating_bpm: -15.8
+draft_rating_grade_bpm: F
 draft_rating_grade_vorp: D-
 draft_rating_percentile_bpm: 6.422018348623853
 draft_rating_percentile_vorp: 22.01834862385321
 draft_rating_vorp: -6.5
 draft_total_bpm: -42275
-draft_total_percentile_bpm: 71.60493827160494
-draft_total_percentile_vorp: 71.60493827160494
+draft_total_percentile_bpm: 71.95121951219512
+draft_total_percentile_vorp: 71.95121951219512
 draft_total_vorp: 31
 draft_win_list: '<ul>
 

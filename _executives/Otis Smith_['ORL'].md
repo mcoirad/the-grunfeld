@@ -6,13 +6,14 @@ draft_description: Otis Smith ranks in the 83th percentile for drafting among ex
   spots higher than they were picked due to his good drafting.
 draft_num_players: 6
 draft_rating_bpm: 9.7
+draft_rating_grade_bpm: A-
 draft_rating_grade_vorp: A-
 draft_rating_percentile_bpm: 86.23853211009174
 draft_rating_percentile_vorp: 83.4862385321101
 draft_rating_vorp: 7.5
 draft_total_bpm: 4214
-draft_total_percentile_bpm: 48.76543209876543
-draft_total_percentile_vorp: 48.76543209876543
+draft_total_percentile_bpm: 49.390243902439025
+draft_total_percentile_vorp: 49.390243902439025
 draft_total_vorp: 7
 draft_win_list: '<ul>
 

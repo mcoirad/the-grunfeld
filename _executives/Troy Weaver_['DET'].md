@@ -1,5 +1,5 @@
 ---
-bpm_rank: 133
+bpm_rank: 135
 draft_bust_list: '<ul>
 
   <li>Drafted Killian Hayes with 7th pick but was worth 58th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Troy Weaver ranks in the 5th percentile for drafting among ex
   14 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 6
 draft_rating_bpm: -15.2
+draft_rating_grade_bpm: F
 draft_rating_grade_vorp: F
 draft_rating_percentile_bpm: 7.339449541284404
 draft_rating_percentile_vorp: 5.504587155963303
 draft_rating_vorp: -13.5
 draft_total_bpm: -38880
-draft_total_percentile_bpm: 40.123456790123456
-draft_total_percentile_vorp: 40.123456790123456
+draft_total_percentile_bpm: 40.853658536585364
+draft_total_percentile_vorp: 40.853658536585364
 draft_total_vorp: 2
 draft_win_list: '<ul>
 
@@ -30,7 +31,7 @@ final_bpm: -95153
 href: weavetr99x
 is_active: false
 name: Troy Weaver
-signing_description: Troy Weaver ranks in the 54th percentile for free agency signings
+signing_description: Troy Weaver ranks in the 53th percentile for free agency signings
   among executives in our database. That's basically average. It could be worse though
   lol.
 signing_lose_list: '<ul>

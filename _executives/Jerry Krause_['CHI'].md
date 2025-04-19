@@ -1,5 +1,5 @@
 ---
-bpm_rank: 159
+bpm_rank: 161
 draft_bust_list: '<ul>
 
   <li>Drafted Scott May with 2th pick but was worth 15th pick.</li>
@@ -14,13 +14,14 @@ draft_description: Jerry Krause ranks in the 25th percentile for drafting among 
   6 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 38
 draft_rating_bpm: -3.2
+draft_rating_grade_bpm: C-
 draft_rating_grade_vorp: D-
 draft_rating_percentile_bpm: 40.36697247706422
 draft_rating_percentile_vorp: 25.68807339449541
 draft_rating_vorp: -5.7
 draft_total_bpm: -127665
-draft_total_percentile_bpm: 70.98765432098766
-draft_total_percentile_vorp: 70.98765432098766
+draft_total_percentile_bpm: 71.34146341463415
+draft_total_percentile_vorp: 71.34146341463415
 draft_total_vorp: 31
 draft_win_list: '<ul>
 
@@ -36,7 +37,7 @@ final_bpm: -238766
 href: krausje99x
 is_active: false
 name: Jerry Krause
-signing_description: 'Jerry Krause ranks in the 38th percentile for free agency signings
+signing_description: 'Jerry Krause ranks in the 37th percentile for free agency signings
   among executives in our database. '
 signing_lose_list: '<ul>
 
@@ -64,7 +65,7 @@ team:
 - Chicago Bulls
 team_shortcode:
 - CHI
-trade_description: 'Jerry Krause ranks in the 57th percentile for trading among executives
+trade_description: 'Jerry Krause ranks in the 58th percentile for trading among executives
   in our database. '
 trade_lose_list: '<ul>
 

@@ -1,17 +1,18 @@
 ---
-bpm_rank: 115
+bpm_rank: 117
 draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
   a draft grade.
 draft_num_players: 0
 draft_rating_bpm: null
+draft_rating_grade_bpm: null
 draft_rating_grade_vorp: null
 draft_rating_percentile_bpm: .nan
 draft_rating_percentile_vorp: .nan
 draft_rating_vorp: null
 draft_total_bpm: 0
-draft_total_percentile_bpm: 32.71604938271605
-draft_total_percentile_vorp: 32.71604938271605
+draft_total_percentile_bpm: 33.53658536585366
+draft_total_percentile_vorp: 33.53658536585366
 draft_total_vorp: 0
 draft_win_list: null
 end_year: 2000
@@ -19,8 +20,9 @@ final_bpm: -54728
 href: jacksst99x
 is_active: false
 name: Stu Jackson
-signing_description: 'Stu Jackson ranks in the 54th percentile for free agency signings
-  among executives in our database. '
+signing_description: Stu Jackson ranks in the 54th percentile for free agency signings
+  among executives in our database. That's basically average. It could be worse though
+  lol.
 signing_lose_list: '<ul>
 
   <li>Signed Grant Long in 1999.</li>
