@@ -97,7 +97,7 @@ function updateExecDraftPlayersChart() {
   stackedChart.data.datasets[0].data = expectedData;
   stackedChart.data.datasets[0].label = `Expected ${currentExecDraftStat.toUpperCase()}`;
   stackedChart.data.datasets[1].data = draftData;
-  stackedChart.data.datasets[1].label = `Draft ${currentExecDraftStat.toUpperCase()}`;
+  stackedChart.data.datasets[1].label = `Actual ${currentExecDraftStat.toUpperCase()}`;
   stackedChart.options.scales.y.title.text = currentExecDraftStat.toUpperCase();
 
   stackedChart.options.plugins.tooltip.callbacks.label = function(context) {
