@@ -88,14 +88,12 @@
     <div class="container">
         <div class="row">
             <div class="page-heading">
-                <img src="../assets/img/headshots/dunlemi01x.png" >
+                <img src="../assets/img/headshots/dunlemi02x.png" >
                 <h1>Mike Dunleavy</h1>
                 <h2></h2>
                 <h3 class="post-subtitle">
                     
-                    Milwaukee Bucks, 
-                    
-                    Los Angeles Clippers
+                    Golden State Warriors
                     
                 </h3>
             </div>
@@ -135,7 +133,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
 });
 
 // Load the dataset
-d3.csv("https://raw.githubusercontent.com/mcoirad/the-grunfeld/master/_data/dunlemi01x.csv").then(data => {
+d3.csv("https://raw.githubusercontent.com/mcoirad/the-grunfeld/master/_data/dunlemi02x.csv").then(data => {
     rawData = data;
     makeChart();
 });
@@ -272,9 +270,9 @@ updateTexts();
     
     <div class="col-md-3">
       <h3> Draft Rating:</h3>
-      <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text=D- data-bpm-text=F> F</h3>
-      <h5 > Draft Pick Efficiency Rating: <span class="stat-text" data-vorp-text=27 data-bpm-text=19><span> 19 </h5>
-      <h5> Draft Total Value Rating: <span class="stat-text" data-vorp-text=82 data-bpm-text=82><span> 82  </h5>
+      <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text=n/a data-bpm-text=n/a> n/a</h3>
+      <h5 > Draft Pick Efficiency Rating: <span class="stat-text" data-vorp-text=n/a data-bpm-text=n/a><span> n/a </h5>
+      <h5> Draft Total Value Rating: <span class="stat-text" data-vorp-text=41 data-bpm-text=41><span> 41  </h5>
     </div>
     <div class="col-md-9">
     <div class="col-md-9"><canvas id="executive_draft_chart"></canvas></div>
@@ -367,7 +365,7 @@ function getDraftChartMappedData(stat) {
     pointRadii.push(10);
     pointBorderColors.push(d.is_active === 'True' ? 'red' : 'rgb(75, 192, 192)');
 
-    if (d.name === 'Mike Dunleavy') {
+    if (d.href.includes( 'dunlemi02x' ) ) {
       pointBackgroundColors.push(d.is_active === 'True' ? 'red' : 'rgb(75, 192, 192)');
     } else {
       pointBackgroundColors.push('rgba(0,0,0,0.1)');
@@ -398,16 +396,12 @@ function updateDraftChart() {
     
   </script>
 
-      Mike Dunleavy ranks in the 26th percentile for drafting among executives in our database. Dunleavy's draft picks average out to be worth the equivalent of 6 spots lower than they were picked due to their terrible drafting.
+      This executive has only drafted 2 players and thus doesn't have a draft grade.
       <h5>Some of their biggest wins:</h5>
       <ul>
 </ul>
       <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Glenn Robinson with 1th pick but was worth 7th pick.</li>
-<li>Drafted Blake Griffin with 1th pick but was worth 3th pick.</li>
-<li>Drafted Vin Baker with 8th pick but was worth 13th pick.</li>
-</ul>
+      
     </div>
   </div>
 </div>
@@ -417,19 +411,19 @@ function updateDraftChart() {
   <div class="row">
     <div class="col-md-3">
       <h3> Trade Rating:</h3>
-      <p style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);"> D</h3>
+      <p style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);"> S</h3>
     </div>
     <div class="col-md-9">
-      Mike Dunleavy ranks in the 29th percentile for trading among executives in our database. 
+      Mike Dunleavy ranks in the 97th percentile for trading among executives in our database. 
       <h5>Their biggest win:</h5>
       <ul>
-<li>Added Ray Allen, Rasho Nesterović to MIL.</li>
-<li>Lost Stephon Marbury to MIN.</li>
+<li>Added Chris Paul to GSW.</li>
+<li>Lost Patrick Baldwin Jr., Jordan Poole, Ryan Rollins to WAS.</li>
 </ul>
       <h5>Their biggest L:</h5>
       <ul>
-<li>Added Quentin Richardson to LAC.</li>
-<li>Lost Zach Randolph to MEM.</li>
+<li>Added Lindy Waters III to GSW.</li>
+<li>Lost Quinten Post to OKC.</li>
 </ul>
     </div>
   </div>
@@ -440,21 +434,21 @@ function updateDraftChart() {
   <div class="row">
     <div class="col-md-3">
       <h3> Signing Rating:</h3>
-      <p style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);"> F</h3>
+      <p style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);"> A-</h3>
     </div>
     <div class="col-md-9">
-      Mike Dunleavy ranks in the 15th percentile for free agency signings among executives in our database. 
+      Mike Dunleavy ranks in the 83th percentile for free agency signings among executives in our database. 
       <h5>Their best signings:</h5>
       <ul>
-<li>Signed Danny Young in 1994.</li>
-<li>Signed Jerry Reynolds in 1995.</li>
-<li>Signed Dan O'Sullivan in 1993.</li>
+<li>Signed Draymond Green in 2023.</li>
+<li>Signed Trayce Jackson-Davis in 2023.</li>
+<li>Signed Dario Saric in 2023.</li>
 </ul>
       <h5>Their worst signings:</h5>
       <ul>
-<li>Signed Johnny Newman in 1994.</li>
-<li>Signed Marty Conlon in 1994.</li>
-<li>Signed Ken Norman in 1993.</li>
+<li>Signed Cory Joseph in 2023.</li>
+<li>Signed Gui Santos in 2023.</li>
+<li>Signed Lester Quinones in 2023.</li>
 </ul>
     </div>
   </div>

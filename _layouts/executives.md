@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign executive = site.executives | where: 'name', page.name | first %}
+{% assign executive = site.executives | where: 'href', page.href | first %}
 
 <head>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
@@ -210,7 +210,7 @@ updateTexts();
     </div>
     <div class="col-md-9">
     <div class="col-md-9"><canvas id="executive_draft_chart"></canvas></div>
-    {% include executive_draft_chart.html exec_name=page.name %}
+    {% include executive_draft_chart.html exec_name=page.name exec_href=page.href %}
       {{ executive.draft_description}}
       <h5>Some of their biggest wins:</h5>
       {{ executive.draft_win_list}}
