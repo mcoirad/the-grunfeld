@@ -4,22 +4,22 @@ draft_bust_list: '<ul>
 
   <li>Drafted Sean Elliott with 3th pick but was worth 9th pick.</li>
 
-  <li>Drafted Greg Anderson with 23th pick but was worth 52th pick.</li>
+  <li>Drafted Greg Anderson with 23th pick but was worth 61th pick.</li>
 
-  <li>Drafted Tony Massenburg with 43th pick but was worth 52th pick.</li>
+  <li>Drafted Tony Massenburg with 43th pick but was worth 54th pick.</li>
 
   </ul>'
-draft_description: Bob Bass ranks in the 56th percentile for drafting among executives
-  in our database. Bass's draft picks average out to be worth the equivalent of 2
-  spots higher than they were picked due to his good drafting.
+draft_description: Bob Bass ranks in the 40th percentile for drafting among executives
+  in our database. Bass's draft picks average out to be worth the equivalent of 6
+  spots lower than they were picked due to their terrible drafting.
 draft_num_players: 31
-draft_overall_percentile_vorp: 76
-draft_rating_bpm: 6
-draft_rating_grade_bpm: B+
-draft_rating_grade_vorp: C+
-draft_rating_percentile_bpm: 78
-draft_rating_percentile_vorp: 57
-draft_rating_vorp: 2
+draft_overall_percentile_vorp: 68
+draft_rating_bpm: -13
+draft_rating_grade_bpm: D
+draft_rating_grade_vorp: C-
+draft_rating_percentile_bpm: 32
+draft_rating_percentile_vorp: 40
+draft_rating_vorp: -6
 draft_total_bpm: 252470
 draft_total_grade_bpm: A+
 draft_total_grade_vorp: A+
@@ -30,7 +30,9 @@ draft_win_list: '<ul>
 
   <li>Drafted Alvin Robertson with 7th pick but was worth 6th pick.</li>
 
-  <li>Drafted Gene Banks with 28th pick but was worth 11th pick.</li>
+  <li>Drafted Sean Higgins with 54th pick but was worth 49th pick.</li>
+
+  <li>Drafted Greg Sutton with 49th pick but was worth 43th pick.</li>
 
   </ul>'
 end_year: 2004

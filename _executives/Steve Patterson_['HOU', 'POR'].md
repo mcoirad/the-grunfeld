@@ -1,17 +1,22 @@
 ---
 bpm_rank: 20
-draft_bust_list: null
-draft_description: Steve Patterson ranks in the 78th percentile for drafting among
-  executives in our database. Patterson's draft picks average out to be worth the
-  equivalent of 6 spots higher than they were picked due to his good drafting.
+draft_bust_list: '<ul>
+
+  <li>Drafted Joel Freeland with 30th pick but was worth 49th pick.</li>
+
+  <li>Drafted John Turner with 20th pick but was worth 39th pick.</li>
+
+  </ul>'
+draft_description: Steve Patterson ranks in the 60th percentile for drafting among
+  executives in our database. That's basically average. It could worse though lol.
 draft_num_players: 6
-draft_overall_percentile_vorp: 65
-draft_rating_bpm: 12
+draft_overall_percentile_vorp: 56
+draft_rating_bpm: 6
 draft_rating_grade_bpm: A+
-draft_rating_grade_vorp: B+
-draft_rating_percentile_bpm: 95
-draft_rating_percentile_vorp: 79
-draft_rating_vorp: 6
+draft_rating_grade_vorp: B-
+draft_rating_percentile_bpm: 94
+draft_rating_percentile_vorp: 61
+draft_rating_vorp: 0
 draft_total_bpm: 3201
 draft_total_grade_bpm: C
 draft_total_grade_vorp: C
@@ -22,7 +27,7 @@ draft_win_list: '<ul>
 
   <li>Drafted Robert Horry with 11th pick but was worth 3th pick.</li>
 
-  <li>Drafted John Turner with 20th pick but was worth 29th pick.</li>
+  <li>Drafted Žan Tabak with 51th pick but was worth 52th pick.</li>
 
   </ul>'
 end_year: 2007

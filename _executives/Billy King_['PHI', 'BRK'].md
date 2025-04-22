@@ -6,18 +6,20 @@ draft_bust_list: '<ul>
 
   <li>Drafted Larry Hughes with 8th pick but was worth 10th pick.</li>
 
+  <li>Drafted Chris McCullough with 29th pick but was worth 47th pick.</li>
+
   </ul>'
-draft_description: Billy King ranks in the 93th percentile for drafting among executives
-  in our database. King's draft picks average out to be worth the equivalent of 11
+draft_description: Billy King ranks in the 96th percentile for drafting among executives
+  in our database. King's draft picks average out to be worth the equivalent of 9
   spots higher than they were picked due to his good drafting.
 draft_num_players: 13
-draft_overall_percentile_vorp: 89
-draft_rating_bpm: 13
-draft_rating_grade_bpm: A+
+draft_overall_percentile_vorp: 90
+draft_rating_bpm: 8
+draft_rating_grade_bpm: S
 draft_rating_grade_vorp: A+
-draft_rating_percentile_bpm: 96
-draft_rating_percentile_vorp: 94
-draft_rating_vorp: 11
+draft_rating_percentile_bpm: 97
+draft_rating_percentile_vorp: 96
+draft_rating_vorp: 9
 draft_total_bpm: 61695
 draft_total_grade_bpm: A-
 draft_total_grade_vorp: A-
@@ -28,9 +30,9 @@ draft_win_list: '<ul>
 
   <li>Drafted Andre Iguodala with 9th pick but was worth 1th pick.</li>
 
-  <li>Drafted Lou Williams with 45th pick but was worth 3th pick.</li>
+  <li>Drafted Alvin Jones with 57th pick but was worth 39th pick.</li>
 
-  <li>Drafted Mason Plumlee with 22th pick but was worth 4th pick.</li>
+  <li>Drafted Lou Williams with 45th pick but was worth 3th pick.</li>
 
   </ul>'
 end_year: 2016

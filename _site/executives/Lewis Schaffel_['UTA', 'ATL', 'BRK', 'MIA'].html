@@ -277,8 +277,8 @@ updateTexts();
     
     <div class="col-md-3">
       <h3> Draft Rating:</h3>
-      <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text=S data-bpm-text=A> A</h3>
-      <h5 > Draft Pick Efficiency Rating: <span class="stat-text" data-vorp-text=98 data-bpm-text=88><span> 88 </h5>
+      <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text=A data-bpm-text=B+> B+</h3>
+      <h5 > Draft Pick Efficiency Rating: <span class="stat-text" data-vorp-text=91 data-bpm-text=74><span> 74 </h5>
       <h5> Draft Total Value Rating: <span class="stat-text" data-vorp-text=70 data-bpm-text=70><span> 70  </h5>
     </div>
     <div class="col-md-9">
@@ -474,7 +474,8 @@ function getStackedChartMappedData(stat) {
       name: d.name,
       draft: parseFloat(d[`draft_${stat}`]),
       expected: parseFloat(d[`expected_${stat}`]),
-      draftPick: d[`draft_pick_${stat}`]
+      draftPick: d[`draft_pick_${stat}`],
+      expectedPick: d[`draft_pick_${stat}`] - d[`draft_grade_${stat}`],
     }))
     .sort((a, b) => b.draft - a.draft);
     console.log(filtered);
@@ -489,7 +490,7 @@ function getStackedChartMappedData(stat) {
     labels.push(d.name);
     draftData.push(d.draft);
     expectedData.push(d.expected);
-    tooltipData.push(`Draft Pick ${d.draftPick}`);
+    tooltipData.push(`Draft Pick ${d.draftPick}, Redraft Pick would be ${d.expectedPick}`);
   }
 
   return { labels, draftData, expectedData, tooltipData };
@@ -508,24 +509,24 @@ function updateExecDraftPlayersChart() {
 
   stackedChart.options.plugins.tooltip.callbacks.label = function(context) {
     const index = context.dataIndex;
-    return `${tooltipData[index]} | Draft Pick ${rawTransactionData[index]['draft_pick_' + currentExecDraftStat]}`;
+    return `${tooltipData[index]}`;
   };
 
   stackedChart.update();
 }
 </script>
 
-      Lewis Schaffel ranks in the 98th percentile for drafting among executives in our database. Schaffel's draft picks average out to be worth the equivalent of 13 spots higher than they were picked due to his good drafting.
+      Lewis Schaffel ranks in the 90th percentile for drafting among executives in our database. Schaffel's draft picks average out to be worth the equivalent of 7 spots higher than they were picked due to his good drafting.
       <h5>Some of their biggest wins:</h5>
       <ul>
-<li>Drafted Scott Haffner with 45th pick but was worth 34th pick.</li>
+<li>Drafted Rickey Williams with 190th pick but was worth 61th pick.</li>
+<li>Drafted Scott Haffner with 45th pick but was worth 40th pick.</li>
 <li>Drafted Steve Smith with 5th pick but was worth 3th pick.</li>
-<li>Drafted Sylvester Gray with 35th pick but was worth 39th pick.</li>
 </ul>
       <h5>Some of their biggest busts:</h5>
       <ul>
 <li>Drafted Rony Seikaly with 9th pick but was worth 25th pick.</li>
-<li>Drafted Jeff Turner with 17th pick but was worth 58th pick.</li>
+<li>Drafted Jeff Turner with 17th pick but was worth 61th pick.</li>
 <li>Drafted Glen Rice with 4th pick but was worth 5th pick.</li>
 </ul>
     </div>

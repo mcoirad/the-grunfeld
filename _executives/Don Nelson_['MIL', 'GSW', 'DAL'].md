@@ -6,20 +6,19 @@ draft_bust_list: '<ul>
 
   <li>Drafted Tyrone Hill with 11th pick but was worth 17th pick.</li>
 
-  <li>Drafted Alton Lister with 21th pick but was worth 16th pick.</li>
+  <li>Drafted Pat Cummings with 59th pick but was worth 61th pick.</li>
 
   </ul>'
-draft_description: Don Nelson ranks in the 66th percentile for drafting among executives
-  in our database. Nelson's draft picks average out to be worth the equivalent of
-  4 spots higher than they were picked due to his good drafting.
+draft_description: Don Nelson ranks in the 65th percentile for drafting among executives
+  in our database. That's basically average. It could worse though lol.
 draft_num_players: 30
-draft_overall_percentile_vorp: 82
-draft_rating_bpm: -3
+draft_overall_percentile_vorp: 81
+draft_rating_bpm: -9
 draft_rating_grade_bpm: C-
 draft_rating_grade_vorp: B-
-draft_rating_percentile_bpm: 43
-draft_rating_percentile_vorp: 67
-draft_rating_vorp: 4
+draft_rating_percentile_bpm: 45
+draft_rating_percentile_vorp: 65
+draft_rating_vorp: 0
 draft_total_bpm: 202632
 draft_total_grade_bpm: S
 draft_total_grade_vorp: S
@@ -32,7 +31,7 @@ draft_win_list: '<ul>
 
   <li>Drafted Sidney Moncrief with 5th pick but was worth 2th pick.</li>
 
-  <li>Drafted Dwayne Morton with 45th pick but was worth 28th pick.</li>
+  <li>Drafted Paul Pressey with 20th pick but was worth 4th pick.</li>
 
   </ul>'
 end_year: 2005
@@ -107,7 +106,7 @@ trade_total_bpm: 47112
 trade_total_grade_bpm: A-
 trade_total_grade_vorp: F
 trade_total_percentile_bpm: 80
-trade_total_percentile_vorp: 20
+trade_total_percentile_vorp: 19
 trade_total_vorp: -28
 trade_win_list: '<ul>
 

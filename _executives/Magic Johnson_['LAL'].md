@@ -1,10 +1,10 @@
 ---
-bpm_rank: 36
+bpm_rank: 37
 draft_bust_list: '<ul>
 
   <li>Drafted Lonzo Ball with 2th pick but was worth 12th pick.</li>
 
-  <li>Drafted Sviatoslav Mykhailiuk with 47th pick but was worth 51th pick.</li>
+  <li>Drafted Sviatoslav Mykhailiuk with 47th pick but was worth 53th pick.</li>
 
   </ul>'
 draft_description: This executive has only drafted 3 players and thus doesn't have
@@ -85,7 +85,7 @@ trade_lose_list: '<ul>
   </ul>'
 trade_num: 26
 trade_overall_percentile_bpm: 12
-trade_overall_percentile_vorp: 21
+trade_overall_percentile_vorp: 22
 trade_rating_bpm: -1
 trade_rating_grade_bpm: F-
 trade_rating_grade_vorp: F

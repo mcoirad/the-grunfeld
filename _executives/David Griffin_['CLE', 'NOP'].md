@@ -2,24 +2,24 @@
 bpm_rank: 26
 draft_bust_list: '<ul>
 
-  <li>Drafted Jordan Hawkins with 14th pick but was worth 51th pick.</li>
+  <li>Drafted Jordan Hawkins with 14th pick but was worth 53th pick.</li>
 
-  <li>Drafted Kira Lewis Jr. with 13th pick but was worth 50th pick.</li>
+  <li>Drafted Kira Lewis Jr. with 13th pick but was worth 52th pick.</li>
 
-  <li>Drafted Yves Missi with 21th pick but was worth 41th pick.</li>
+  <li>Drafted Yves Missi with 21th pick but was worth 48th pick.</li>
 
   </ul>'
-draft_description: David Griffin ranks in the 43th percentile for drafting among executives
+draft_description: David Griffin ranks in the 52th percentile for drafting among executives
   in our database. Griffin's draft picks average out to be worth the equivalent of
-  1 spot lower than they were picked due to their terrible drafting.
+  3 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 9
-draft_overall_percentile_vorp: 50
-draft_rating_bpm: -3
-draft_rating_grade_bpm: C-
-draft_rating_grade_vorp: C-
-draft_rating_percentile_bpm: 41
-draft_rating_percentile_vorp: 43
-draft_rating_vorp: -1
+draft_overall_percentile_vorp: 55
+draft_rating_bpm: -7
+draft_rating_grade_bpm: C+
+draft_rating_grade_vorp: C
+draft_rating_percentile_bpm: 55
+draft_rating_percentile_vorp: 52
+draft_rating_vorp: -3
 draft_total_bpm: 2741
 draft_total_grade_bpm: C+
 draft_total_grade_vorp: C+
@@ -28,14 +28,14 @@ draft_total_percentile_vorp: 57
 draft_total_vorp: 13
 draft_win_list: '<ul>
 
-  <li>Drafted Karlo Matkovic with 52th pick but was worth 24th pick.</li>
+  <li>Drafted Karlo Matkovic with 52th pick but was worth 27th pick.</li>
 
   <li>Drafted Herb Jones with 35th pick but was worth 10th pick.</li>
 
   </ul>'
 end_year: 2026
-final_bpm: 98081
-final_vorp: 57
+final_bpm: 101216
+final_vorp: 56
 href: griffin01x
 is_active: true
 name: David Griffin
@@ -93,7 +93,7 @@ trade_lose_list: '<ul>
 
   </ul>'
 trade_num: 160
-trade_overall_percentile_bpm: 80
+trade_overall_percentile_bpm: 81
 trade_overall_percentile_vorp: 56
 trade_rating_bpm: 0
 trade_rating_grade_bpm: B+
@@ -101,7 +101,7 @@ trade_rating_grade_vorp: A-
 trade_rating_percentile_bpm: 77
 trade_rating_percentile_vorp: 83
 trade_rating_vorp: 0
-trade_total_bpm: 55436
+trade_total_bpm: 58571
 trade_total_grade_bpm: A-
 trade_total_grade_vorp: D
 trade_total_percentile_bpm: 84

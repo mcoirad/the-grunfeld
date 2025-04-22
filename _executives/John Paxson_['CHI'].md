@@ -6,20 +6,20 @@ draft_bust_list: '<ul>
 
   <li>Drafted Ben Gordon with 3th pick but was worth 14th pick.</li>
 
-  <li>Drafted Kirk Hinrich with 7th pick but was worth 8th pick.</li>
+  <li>Drafted Chris Duhon with 38th pick but was worth 21th pick.</li>
 
   </ul>'
-draft_description: John Paxson ranks in the 49th percentile for drafting among executives
+draft_description: John Paxson ranks in the 58th percentile for drafting among executives
   in our database. Paxson's draft picks average out to be worth the equivalent of
-  1 spot higher than they were picked due to his good drafting.
+  1 spot lower than they were picked due to their terrible drafting.
 draft_num_players: 6
-draft_overall_percentile_vorp: 67
-draft_rating_bpm: -5
+draft_overall_percentile_vorp: 72
+draft_rating_bpm: -12
 draft_rating_grade_bpm: D+
-draft_rating_grade_vorp: C
-draft_rating_percentile_bpm: 33
-draft_rating_percentile_vorp: 50
-draft_rating_vorp: 1
+draft_rating_grade_vorp: C+
+draft_rating_percentile_bpm: 37
+draft_rating_percentile_vorp: 59
+draft_rating_vorp: -1
 draft_total_bpm: 83758
 draft_total_grade_bpm: A-
 draft_total_grade_vorp: A-
@@ -29,6 +29,8 @@ draft_total_vorp: 60
 draft_win_list: '<ul>
 
   <li>Drafted Joakim Noah with 9th pick but was worth 5th pick.</li>
+
+  <li>Drafted Aaron Gray with 49th pick but was worth 56th pick.</li>
 
   </ul>'
 end_year: 2009
@@ -84,7 +86,7 @@ trade_lose_list: '<ul>
   </ul>'
 trade_num: 74
 trade_overall_percentile_bpm: 19
-trade_overall_percentile_vorp: 25
+trade_overall_percentile_vorp: 24
 trade_rating_bpm: 0
 trade_rating_grade_bpm: F
 trade_rating_grade_vorp: D-
@@ -95,7 +97,7 @@ trade_total_bpm: -39951
 trade_total_grade_bpm: F
 trade_total_grade_vorp: D-
 trade_total_percentile_bpm: 20
-trade_total_percentile_vorp: 23
+trade_total_percentile_vorp: 22
 trade_total_vorp: -26
 trade_win_list: '<ul>
 

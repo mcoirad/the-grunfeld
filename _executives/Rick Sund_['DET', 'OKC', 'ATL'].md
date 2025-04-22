@@ -2,24 +2,24 @@
 bpm_rank: 88
 draft_bust_list: '<ul>
 
-  <li>Drafted Johan Petro with 25th pick but was worth 55th pick.</li>
+  <li>Drafted Johan Petro with 25th pick but was worth 60th pick.</li>
 
   <li>Drafted Nick Collison with 12th pick but was worth 19th pick.</li>
 
   <li>Drafted Earl Watson with 40th pick but was worth 19th pick.</li>
 
   </ul>'
-draft_description: Rick Sund ranks in the 39th percentile for drafting among executives
-  in our database. Sund's draft picks average out to be worth the equivalent of 2
+draft_description: Rick Sund ranks in the 41th percentile for drafting among executives
+  in our database. Sund's draft picks average out to be worth the equivalent of 6
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 8
-draft_overall_percentile_vorp: 47
-draft_rating_bpm: -2
-draft_rating_grade_bpm: C-
-draft_rating_grade_vorp: D+
-draft_rating_percentile_bpm: 45
-draft_rating_percentile_vorp: 39
-draft_rating_vorp: -2
+draft_overall_percentile_vorp: 48
+draft_rating_bpm: -9
+draft_rating_grade_bpm: C
+draft_rating_grade_vorp: C-
+draft_rating_percentile_bpm: 48
+draft_rating_percentile_vorp: 41
+draft_rating_vorp: -6
 draft_total_bpm: -10418
 draft_total_grade_bpm: C+
 draft_total_grade_vorp: C+
@@ -91,7 +91,7 @@ trade_lose_list: '<ul>
 
   </ul>'
 trade_num: 59
-trade_overall_percentile_bpm: 91
+trade_overall_percentile_bpm: 90
 trade_overall_percentile_vorp: 74
 trade_rating_bpm: 1
 trade_rating_grade_bpm: S
@@ -103,7 +103,7 @@ trade_total_bpm: 57334
 trade_total_grade_bpm: A-
 trade_total_grade_vorp: B-
 trade_total_percentile_bpm: 84
-trade_total_percentile_vorp: 62
+trade_total_percentile_vorp: 61
 trade_total_vorp: 0
 trade_win_list: '<ul>
 

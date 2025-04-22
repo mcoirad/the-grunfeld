@@ -6,20 +6,20 @@ draft_bust_list: '<ul>
 
   <li>Drafted Christian Laettner with 3th pick but was worth 6th pick.</li>
 
-  <li>Drafted Tony Campbell with 20th pick but was worth 16th pick.</li>
+  <li>Drafted Howard Eisley with 30th pick but was worth 18th pick.</li>
 
   </ul>'
-draft_description: Jack McCloskey ranks in the 90th percentile for drafting among
+draft_description: Jack McCloskey ranks in the 89th percentile for drafting among
   executives in our database. McCloskey's draft picks average out to be worth the
-  equivalent of 10 spots higher than they were picked due to his good drafting.
+  equivalent of 6 spots higher than they were picked due to his good drafting.
 draft_num_players: 21
-draft_overall_percentile_vorp: 93
-draft_rating_bpm: 8
-draft_rating_grade_bpm: A-
+draft_overall_percentile_vorp: 92
+draft_rating_bpm: -2
+draft_rating_grade_bpm: B+
 draft_rating_grade_vorp: A
-draft_rating_percentile_bpm: 83
-draft_rating_percentile_vorp: 91
-draft_rating_vorp: 10
+draft_rating_percentile_bpm: 76
+draft_rating_percentile_vorp: 90
+draft_rating_vorp: 6
 draft_total_bpm: 123507
 draft_total_grade_bpm: A+
 draft_total_grade_vorp: A+
@@ -32,7 +32,7 @@ draft_win_list: '<ul>
 
   <li>Drafted Joe Dumars with 18th pick but was worth 6th pick.</li>
 
-  <li>Drafted Dennis Rodman with 27th pick but was worth 6th pick.</li>
+  <li>Drafted Ricky Pierce with 18th pick but was worth 6th pick.</li>
 
   </ul>'
 end_year: 1995

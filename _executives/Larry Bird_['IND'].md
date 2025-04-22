@@ -1,25 +1,24 @@
 ---
-bpm_rank: 114
+bpm_rank: 115
 draft_bust_list: '<ul>
 
-  <li>Drafted Tyler Hansbrough with 13th pick but was worth 34th pick.</li>
+  <li>Drafted Tyler Hansbrough with 13th pick but was worth 39th pick.</li>
 
-  <li>Drafted Solomon Hill with 23th pick but was worth 40th pick.</li>
+  <li>Drafted Solomon Hill with 23th pick but was worth 49th pick.</li>
 
-  <li>Drafted Shawne Williams with 17th pick but was worth 36th pick.</li>
+  <li>Drafted Lance Stephenson with 40th pick but was worth 15th pick.</li>
 
   </ul>'
-draft_description: Larry Bird ranks in the 73th percentile for drafting among executives
-  in our database. Bird's draft picks average out to be worth the equivalent of 4
-  spots higher than they were picked due to his good drafting.
+draft_description: Larry Bird ranks in the 63th percentile for drafting among executives
+  in our database. That's basically average. It could worse though lol.
 draft_num_players: 12
-draft_overall_percentile_vorp: 79
-draft_rating_bpm: -4
+draft_overall_percentile_vorp: 74
+draft_rating_bpm: -11
 draft_rating_grade_bpm: D+
-draft_rating_grade_vorp: B+
-draft_rating_percentile_bpm: 37
-draft_rating_percentile_vorp: 73
-draft_rating_vorp: 4
+draft_rating_grade_vorp: B-
+draft_rating_percentile_bpm: 39
+draft_rating_percentile_vorp: 63
+draft_rating_vorp: 0
 draft_total_bpm: 62001
 draft_total_grade_bpm: A-
 draft_total_grade_vorp: A-
@@ -32,7 +31,7 @@ draft_win_list: '<ul>
 
   <li>Drafted Danny Granger with 17th pick but was worth 5th pick.</li>
 
-  <li>Drafted Joe Young with 43th pick but was worth 38th pick.</li>
+  <li>Drafted Myles Turner with 11th pick but was worth 4th pick.</li>
 
   </ul>'
 end_year: 2017

@@ -4,22 +4,22 @@ draft_bust_list: '<ul>
 
   <li>Drafted Tim Hardaway Jr. with 24th pick but was worth 12th pick.</li>
 
-  <li>Drafted Michael Bradley with 17th pick but was worth 42th pick.</li>
+  <li>Drafted Michael Bradley with 17th pick but was worth 50th pick.</li>
 
   <li>Drafted Morris Peterson with 21th pick but was worth 7th pick.</li>
 
   </ul>'
 draft_description: Glen Grunwald ranks in the 32th percentile for drafting among executives
   in our database. Grunwald's draft picks average out to be worth the equivalent of
-  4 spots lower than they were picked due to their terrible drafting.
+  8 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
 draft_overall_percentile_vorp: 50
-draft_rating_bpm: -12
+draft_rating_bpm: -19
 draft_rating_grade_bpm: F
 draft_rating_grade_vorp: D
-draft_rating_percentile_bpm: 13
+draft_rating_percentile_bpm: 8
 draft_rating_percentile_vorp: 32
-draft_rating_vorp: -4
+draft_rating_vorp: -8
 draft_total_bpm: 19891
 draft_total_grade_bpm: B
 draft_total_grade_vorp: B

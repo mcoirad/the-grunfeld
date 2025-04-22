@@ -2,24 +2,24 @@
 bpm_rank: 21
 draft_bust_list: '<ul>
 
-  <li>Drafted Emmanuel Mudiay with 7th pick but was worth 44th pick.</li>
+  <li>Drafted Emmanuel Mudiay with 7th pick but was worth 60th pick.</li>
 
   <li>Drafted Malik Beasley with 19th pick but was worth 13th pick.</li>
 
   <li>Drafted Juan Hernangómez with 15th pick but was worth 21th pick.</li>
 
   </ul>'
-draft_description: Tim Connelly ranks in the 89th percentile for drafting among executives
+draft_description: Tim Connelly ranks in the 92th percentile for drafting among executives
   in our database. Connelly's draft picks average out to be worth the equivalent of
-  10 spots higher than they were picked due to his good drafting.
+  8 spots higher than they were picked due to his good drafting.
 draft_num_players: 14
-draft_overall_percentile_vorp: 91
-draft_rating_bpm: 8
-draft_rating_grade_bpm: A-
+draft_overall_percentile_vorp: 92
+draft_rating_bpm: 4
+draft_rating_grade_bpm: A
 draft_rating_grade_vorp: A
-draft_rating_percentile_bpm: 82
-draft_rating_percentile_vorp: 90
-draft_rating_vorp: 10
+draft_rating_percentile_bpm: 91
+draft_rating_percentile_vorp: 93
+draft_rating_vorp: 8
 draft_total_bpm: 227836
 draft_total_grade_bpm: A
 draft_total_grade_vorp: A
@@ -32,12 +32,12 @@ draft_win_list: '<ul>
 
   <li>Drafted Monte Morris with 51th pick but was worth 13th pick.</li>
 
-  <li>Drafted Vlatko Čančar with 49th pick but was worth 37th pick.</li>
+  <li>Drafted Vlatko Čančar with 49th pick but was worth 40th pick.</li>
 
   </ul>'
 end_year: 2026
-final_bpm: 118628
-final_vorp: 79
+final_bpm: 118435
+final_vorp: 77
 href: conneti99x
 is_active: true
 name: Tim Connelly
@@ -102,12 +102,12 @@ trade_rating_grade_vorp: D
 trade_rating_percentile_bpm: 27
 trade_rating_percentile_vorp: 27
 trade_rating_vorp: 0
-trade_total_bpm: -23162
+trade_total_bpm: -23355
 trade_total_grade_bpm: D-
 trade_total_grade_vorp: F
 trade_total_percentile_bpm: 26
 trade_total_percentile_vorp: 13
-trade_total_vorp: -37
+trade_total_vorp: -40
 trade_win_list: '<ul>
 
   <li>Added Gary Clark, Aaron Gordon to DEN.</li>

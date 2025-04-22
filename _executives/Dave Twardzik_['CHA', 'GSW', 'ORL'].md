@@ -1,25 +1,25 @@
 ---
-bpm_rank: 128
+bpm_rank: 127
 draft_bust_list: '<ul>
 
   <li>Drafted Joe Smith with 1th pick but was worth 15th pick.</li>
 
-  <li>Drafted Todd Fuller with 11th pick but was worth 44th pick.</li>
+  <li>Drafted Andrew DeClercq with 34th pick but was worth 55th pick.</li>
 
-  <li>Drafted Andrew DeClercq with 34th pick but was worth 47th pick.</li>
+  <li>Drafted Todd Fuller with 11th pick but was worth 55th pick.</li>
 
   </ul>'
-draft_description: Dave Twardzik ranks in the 10th percentile for drafting among executives
+draft_description: Dave Twardzik ranks in the 6th percentile for drafting among executives
   in our database. Twardzik's draft picks average out to be worth the equivalent of
-  12 spots lower than they were picked due to their terrible drafting.
+  17 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 4
-draft_overall_percentile_vorp: 10
-draft_rating_bpm: -17
+draft_overall_percentile_vorp: 8
+draft_rating_bpm: -25
 draft_rating_grade_bpm: F
 draft_rating_grade_vorp: F
 draft_rating_percentile_bpm: 5
-draft_rating_percentile_vorp: 10
-draft_rating_vorp: -12
+draft_rating_percentile_vorp: 6
+draft_rating_vorp: -17
 draft_total_bpm: -26388
 draft_total_grade_bpm: F
 draft_total_grade_vorp: F

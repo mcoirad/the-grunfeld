@@ -1,17 +1,16 @@
 ---
 bpm_rank: 155
 draft_bust_list: null
-draft_description: Bob Weinhauer ranks in the 86th percentile for drafting among executives
-  in our database. Weinhauer's draft picks average out to be worth the equivalent
-  of 8 spots higher than they were picked due to his good drafting.
+draft_description: Bob Weinhauer ranks in the 62th percentile for drafting among executives
+  in our database. That's basically average. It could worse though lol.
 draft_num_players: 4
-draft_overall_percentile_vorp: 45
-draft_rating_bpm: 10
-draft_rating_grade_bpm: A
-draft_rating_grade_vorp: A-
-draft_rating_percentile_bpm: 91
-draft_rating_percentile_vorp: 86
-draft_rating_vorp: 8
+draft_overall_percentile_vorp: 33
+draft_rating_bpm: 2
+draft_rating_grade_bpm: A-
+draft_rating_grade_vorp: B-
+draft_rating_percentile_bpm: 85
+draft_rating_percentile_vorp: 62
+draft_rating_vorp: 0
 draft_total_bpm: -19370
 draft_total_grade_bpm: F
 draft_total_grade_vorp: F
@@ -20,11 +19,11 @@ draft_total_percentile_vorp: 3
 draft_total_vorp: -2
 draft_win_list: '<ul>
 
-  <li>Drafted Randy Livingston with 42th pick but was worth 31th pick.</li>
-
-  <li>Drafted Jerald Honeycutt with 39th pick but was worth 29th pick.</li>
-
   <li>Drafted Rafer Alston with 39th pick but was worth 12th pick.</li>
+
+  <li>Drafted Jerald Honeycutt with 39th pick but was worth 39th pick.</li>
+
+  <li>Drafted Randy Livingston with 42th pick but was worth 42th pick.</li>
 
   </ul>'
 end_year: 1999
@@ -98,7 +97,7 @@ trade_total_bpm: -118537
 trade_total_grade_bpm: F
 trade_total_grade_vorp: F
 trade_total_percentile_bpm: 7
-trade_total_percentile_vorp: 8
+trade_total_percentile_vorp: 7
 trade_total_vorp: -50
 trade_win_list: '<ul>
 

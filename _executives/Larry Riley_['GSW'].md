@@ -1,17 +1,17 @@
 ---
 bpm_rank: 6
 draft_bust_list: null
-draft_description: Larry Riley ranks in the 37th percentile for drafting among executives
-  in our database. Riley's draft picks average out to be worth the equivalent of 3
+draft_description: Larry Riley ranks in the 44th percentile for drafting among executives
+  in our database. Riley's draft picks average out to be worth the equivalent of 4
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 4
-draft_overall_percentile_vorp: 64
-draft_rating_bpm: -4
-draft_rating_grade_bpm: D+
-draft_rating_grade_vorp: D+
-draft_rating_percentile_bpm: 36
-draft_rating_percentile_vorp: 38
-draft_rating_vorp: -3
+draft_overall_percentile_vorp: 68
+draft_rating_bpm: -8
+draft_rating_grade_bpm: C
+draft_rating_grade_vorp: C-
+draft_rating_percentile_bpm: 50
+draft_rating_percentile_vorp: 45
+draft_rating_vorp: -4
 draft_total_bpm: 229076
 draft_total_grade_bpm: A
 draft_total_grade_vorp: A
@@ -22,7 +22,7 @@ draft_win_list: '<ul>
 
   <li>Drafted Stephen Curry with 7th pick but was worth 2th pick.</li>
 
-  <li>Drafted Charles Jenkins with 44th pick but was worth 48th pick.</li>
+  <li>Drafted Charles Jenkins with 44th pick but was worth 54th pick.</li>
 
   <li>Drafted Klay Thompson with 11th pick but was worth 8th pick.</li>
 

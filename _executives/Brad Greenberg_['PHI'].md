@@ -1,6 +1,12 @@
 ---
 bpm_rank: 27
-draft_bust_list: null
+draft_bust_list: '<ul>
+
+  <li>Drafted Allen Iverson with 1th pick but was worth 3th pick.</li>
+
+  <li>Drafted Mark Hendrickson with 31th pick but was worth 47th pick.</li>
+
+  </ul>'
 draft_description: This executive has only drafted 2 players and thus doesn't have
   a draft grade.
 draft_num_players: 2
@@ -18,8 +24,6 @@ draft_total_percentile_bpm: 80
 draft_total_percentile_vorp: 80
 draft_total_vorp: 43
 draft_win_list: '<ul>
-
-  <li>Drafted Mark Hendrickson with 31th pick but was worth 36th pick.</li>
 
   </ul>'
 end_year: 1997
@@ -76,7 +80,7 @@ trade_total_bpm: 0
 trade_total_grade_bpm: C
 trade_total_grade_vorp: B-
 trade_total_percentile_bpm: 48
-trade_total_percentile_vorp: 61
+trade_total_percentile_vorp: 60
 trade_total_vorp: 0
 trade_win_list: null
 ---

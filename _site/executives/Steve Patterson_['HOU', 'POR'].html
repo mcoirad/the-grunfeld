@@ -273,8 +273,8 @@ updateTexts();
     
     <div class="col-md-3">
       <h3> Draft Rating:</h3>
-      <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text=B+ data-bpm-text=A+> A+</h3>
-      <h5 > Draft Pick Efficiency Rating: <span class="stat-text" data-vorp-text=79 data-bpm-text=95><span> 95 </h5>
+      <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text=B- data-bpm-text=A+> A+</h3>
+      <h5 > Draft Pick Efficiency Rating: <span class="stat-text" data-vorp-text=61 data-bpm-text=94><span> 94 </h5>
       <h5> Draft Total Value Rating: <span class="stat-text" data-vorp-text=52 data-bpm-text=52><span> 52  </h5>
     </div>
     <div class="col-md-9">
@@ -470,7 +470,8 @@ function getStackedChartMappedData(stat) {
       name: d.name,
       draft: parseFloat(d[`draft_${stat}`]),
       expected: parseFloat(d[`expected_${stat}`]),
-      draftPick: d[`draft_pick_${stat}`]
+      draftPick: d[`draft_pick_${stat}`],
+      expectedPick: d[`draft_pick_${stat}`] - d[`draft_grade_${stat}`],
     }))
     .sort((a, b) => b.draft - a.draft);
     console.log(filtered);
@@ -485,7 +486,7 @@ function getStackedChartMappedData(stat) {
     labels.push(d.name);
     draftData.push(d.draft);
     expectedData.push(d.expected);
-    tooltipData.push(`Draft Pick ${d.draftPick}`);
+    tooltipData.push(`Draft Pick ${d.draftPick}, Redraft Pick would be ${d.expectedPick}`);
   }
 
   return { labels, draftData, expectedData, tooltipData };
@@ -504,21 +505,24 @@ function updateExecDraftPlayersChart() {
 
   stackedChart.options.plugins.tooltip.callbacks.label = function(context) {
     const index = context.dataIndex;
-    return `${tooltipData[index]} | Draft Pick ${rawTransactionData[index]['draft_pick_' + currentExecDraftStat]}`;
+    return `${tooltipData[index]}`;
   };
 
   stackedChart.update();
 }
 </script>
 
-      Steve Patterson ranks in the 78th percentile for drafting among executives in our database. Patterson's draft picks average out to be worth the equivalent of 6 spots higher than they were picked due to his good drafting.
+      Steve Patterson ranks in the 60th percentile for drafting among executives in our database. That's basically average. It could worse though lol.
       <h5>Some of their biggest wins:</h5>
       <ul>
 <li>Drafted Robert Horry with 11th pick but was worth 3th pick.</li>
-<li>Drafted John Turner with 20th pick but was worth 29th pick.</li>
+<li>Drafted Žan Tabak with 51th pick but was worth 52th pick.</li>
 </ul>
       <h5>Some of their biggest busts:</h5>
-      
+      <ul>
+<li>Drafted Joel Freeland with 30th pick but was worth 49th pick.</li>
+<li>Drafted John Turner with 20th pick but was worth 39th pick.</li>
+</ul>
     </div>
   </div>
 </div>

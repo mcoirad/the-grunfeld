@@ -4,22 +4,22 @@ draft_bust_list: '<ul>
 
   <li>Drafted Tyreke Evans with 4th pick but was worth 11th pick.</li>
 
-  <li>Drafted Thomas Robinson with 5th pick but was worth 54th pick.</li>
+  <li>Drafted Thomas Robinson with 5th pick but was worth 58th pick.</li>
 
-  <li>Drafted Jason Thompson with 12th pick but was worth 51th pick.</li>
+  <li>Drafted Jason Thompson with 12th pick but was worth 60th pick.</li>
 
   </ul>'
-draft_description: Geoff Petrie ranks in the 71th percentile for drafting among executives
+draft_description: Geoff Petrie ranks in the 72th percentile for drafting among executives
   in our database. Petrie's draft picks average out to be worth the equivalent of
-  4 spots higher than they were picked due to his good drafting.
+  1 spot higher than they were picked due to his good drafting.
 draft_num_players: 29
-draft_overall_percentile_vorp: 79
-draft_rating_bpm: 2
+draft_overall_percentile_vorp: 80
+draft_rating_bpm: -3
 draft_rating_grade_bpm: B
 draft_rating_grade_vorp: B
-draft_rating_percentile_bpm: 68
+draft_rating_percentile_bpm: 69
 draft_rating_percentile_vorp: 72
-draft_rating_vorp: 4
+draft_rating_vorp: 1
 draft_total_bpm: -47945
 draft_total_grade_bpm: A-
 draft_total_grade_vorp: A-
@@ -28,11 +28,11 @@ draft_total_percentile_vorp: 87
 draft_total_vorp: 64
 draft_win_list: '<ul>
 
+  <li>Drafted Isaiah Thomas with 60th pick but was worth 9th pick.</li>
+
   <li>Drafted Peja Stojaković with 14th pick but was worth 7th pick.</li>
 
   <li>Drafted Gerald Wallace with 25th pick but was worth 6th pick.</li>
-
-  <li>Drafted Hassan Whiteside with 33th pick but was worth 7th pick.</li>
 
   </ul>'
 end_year: 2013

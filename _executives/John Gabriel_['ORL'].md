@@ -2,24 +2,24 @@
 bpm_rank: 160
 draft_bust_list: '<ul>
 
-  <li>Drafted Michael Doleac with 12th pick but was worth 55th pick.</li>
+  <li>Drafted Michael Doleac with 12th pick but was worth 57th pick.</li>
 
-  <li>Drafted Keyon Dooling with 10th pick but was worth 26th pick.</li>
+  <li>Drafted Keyon Dooling with 10th pick but was worth 34th pick.</li>
 
-  <li>Drafted Steven Hunter with 15th pick but was worth 37th pick.</li>
+  <li>Drafted Zaza Pachulia with 42th pick but was worth 20th pick.</li>
 
   </ul>'
-draft_description: John Gabriel ranks in the 24th percentile for drafting among executives
+draft_description: John Gabriel ranks in the 22th percentile for drafting among executives
   in our database. Gabriel's draft picks average out to be worth the equivalent of
-  6 spots lower than they were picked due to their terrible drafting.
+  11 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 12
-draft_overall_percentile_vorp: 30
-draft_rating_bpm: -7
+draft_overall_percentile_vorp: 29
+draft_rating_bpm: -14
 draft_rating_grade_bpm: D-
 draft_rating_grade_vorp: D-
-draft_rating_percentile_bpm: 24
-draft_rating_percentile_vorp: 25
-draft_rating_vorp: -6
+draft_rating_percentile_bpm: 25
+draft_rating_percentile_vorp: 22
+draft_rating_vorp: -11
 draft_total_bpm: -36175
 draft_total_grade_bpm: D+
 draft_total_grade_vorp: D+

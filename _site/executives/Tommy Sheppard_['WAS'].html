@@ -272,7 +272,7 @@ updateTexts();
     <div class="col-md-3">
       <h3> Draft Rating:</h3>
       <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text=F- data-bpm-text=F-> F-</h3>
-      <h5 > Draft Pick Efficiency Rating: <span class="stat-text" data-vorp-text=0 data-bpm-text=0><span> 0 </h5>
+      <h5 > Draft Pick Efficiency Rating: <span class="stat-text" data-vorp-text=1 data-bpm-text=0><span> 0 </h5>
       <h5> Draft Total Value Rating: <span class="stat-text" data-vorp-text=2 data-bpm-text=2><span> 2  </h5>
     </div>
     <div class="col-md-9">
@@ -468,7 +468,8 @@ function getStackedChartMappedData(stat) {
       name: d.name,
       draft: parseFloat(d[`draft_${stat}`]),
       expected: parseFloat(d[`expected_${stat}`]),
-      draftPick: d[`draft_pick_${stat}`]
+      draftPick: d[`draft_pick_${stat}`],
+      expectedPick: d[`draft_pick_${stat}`] - d[`draft_grade_${stat}`],
     }))
     .sort((a, b) => b.draft - a.draft);
     console.log(filtered);
@@ -483,7 +484,7 @@ function getStackedChartMappedData(stat) {
     labels.push(d.name);
     draftData.push(d.draft);
     expectedData.push(d.expected);
-    tooltipData.push(`Draft Pick ${d.draftPick}`);
+    tooltipData.push(`Draft Pick ${d.draftPick}, Redraft Pick would be ${d.expectedPick}`);
   }
 
   return { labels, draftData, expectedData, tooltipData };
@@ -502,21 +503,21 @@ function updateExecDraftPlayersChart() {
 
   stackedChart.options.plugins.tooltip.callbacks.label = function(context) {
     const index = context.dataIndex;
-    return `${tooltipData[index]} | Draft Pick ${rawTransactionData[index]['draft_pick_' + currentExecDraftStat]}`;
+    return `${tooltipData[index]}`;
   };
 
   stackedChart.update();
 }
 </script>
 
-      Tommy Sheppard ranks in the 0th percentile for drafting among executives in our database. Sheppard's draft picks average out to be worth the equivalent of 22 spots lower than they were picked due to their terrible drafting.
+      Tommy Sheppard ranks in the 0th percentile for drafting among executives in our database. Sheppard's draft picks average out to be worth the equivalent of 24 spots lower than they were picked due to their terrible drafting.
       <h5>Some of their biggest wins:</h5>
       <ul>
 </ul>
       <h5>Some of their biggest busts:</h5>
       <ul>
-<li>Drafted Rui Hachimura with 9th pick but was worth 26th pick.</li>
-<li>Drafted Corey Kispert with 15th pick but was worth 46th pick.</li>
+<li>Drafted Rui Hachimura with 9th pick but was worth 25th pick.</li>
+<li>Drafted Corey Kispert with 15th pick but was worth 49th pick.</li>
 <li>Drafted Deni Avdija with 9th pick but was worth 14th pick.</li>
 </ul>
     </div>

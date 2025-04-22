@@ -1,17 +1,17 @@
 ---
-bpm_rank: 44
+bpm_rank: 43
 draft_bust_list: null
-draft_description: Flip Saunders ranks in the 82th percentile for drafting among executives
+draft_description: Flip Saunders ranks in the 87th percentile for drafting among executives
   in our database. Saunders's draft picks average out to be worth the equivalent of
-  7 spots higher than they were picked due to his good drafting.
+  5 spots higher than they were picked due to his good drafting.
 draft_num_players: 4
-draft_overall_percentile_vorp: 78
-draft_rating_bpm: 7
-draft_rating_grade_bpm: A-
-draft_rating_grade_vorp: A-
-draft_rating_percentile_bpm: 81
-draft_rating_percentile_vorp: 83
-draft_rating_vorp: 7
+draft_overall_percentile_vorp: 80
+draft_rating_bpm: 4
+draft_rating_grade_bpm: A
+draft_rating_grade_vorp: A
+draft_rating_percentile_bpm: 90
+draft_rating_percentile_vorp: 87
+draft_rating_vorp: 5
 draft_total_bpm: 73376
 draft_total_grade_bpm: B+
 draft_total_grade_vorp: B+
@@ -21,6 +21,8 @@ draft_total_vorp: 32
 draft_win_list: '<ul>
 
   <li>Drafted Zach LaVine with 13th pick but was worth 6th pick.</li>
+
+  <li>Drafted Lorenzo Brown with 52th pick but was worth 55th pick.</li>
 
   </ul>'
 end_year: 2015

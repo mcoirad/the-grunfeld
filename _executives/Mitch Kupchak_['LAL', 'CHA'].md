@@ -6,20 +6,20 @@ draft_bust_list: '<ul>
 
   <li>Drafted D''Angelo Russell with 2th pick but was worth 5th pick.</li>
 
-  <li>Drafted Sasha Vujačić with 27th pick but was worth 22th pick.</li>
+  <li>Drafted Brian Cook with 24th pick but was worth 25th pick.</li>
 
   </ul>'
-draft_description: Mitch Kupchak ranks in the 81th percentile for drafting among executives
+draft_description: Mitch Kupchak ranks in the 80th percentile for drafting among executives
   in our database. Kupchak's draft picks average out to be worth the equivalent of
-  7 spots higher than they were picked due to his good drafting.
+  3 spots higher than they were picked due to his good drafting.
 draft_num_players: 23
 draft_overall_percentile_vorp: 73
-draft_rating_bpm: 11
+draft_rating_bpm: 5
 draft_rating_grade_bpm: A
 draft_rating_grade_vorp: A-
 draft_rating_percentile_bpm: 93
-draft_rating_percentile_vorp: 82
-draft_rating_vorp: 7
+draft_rating_percentile_vorp: 81
+draft_rating_vorp: 3
 draft_total_bpm: -66571
 draft_total_grade_bpm: B-
 draft_total_grade_vorp: B-
@@ -30,9 +30,9 @@ draft_win_list: '<ul>
 
   <li>Drafted Marc Gasol with 48th pick but was worth 4th pick.</li>
 
-  <li>Drafted Patrick Beverley with 42th pick but was worth 12th pick.</li>
+  <li>Drafted Robert Sacre with 60th pick but was worth 56th pick.</li>
 
-  <li>Drafted Larry Nance Jr. with 27th pick but was worth 8th pick.</li>
+  <li>Drafted Derrick Caracter with 58th pick but was worth 52th pick.</li>
 
   </ul>'
 end_year: 2024

@@ -1,23 +1,25 @@
 ---
-bpm_rank: 127
+bpm_rank: 129
 draft_bust_list: '<ul>
 
-  <li>Drafted Cameron Thomas with 27th pick but was worth 26th pick.</li>
+  <li>Drafted Cameron Thomas with 27th pick but was worth 27th pick.</li>
 
-  <li>Drafted Noah Clowney with 21th pick but was worth 40th pick.</li>
+  <li>Drafted Noah Clowney with 21th pick but was worth 42th pick.</li>
+
+  <li>Drafted Džanan Musa with 29th pick but was worth 50th pick.</li>
 
   </ul>'
-draft_description: Sean Marks ranks in the 58th percentile for drafting among executives
-  in our database. Marks's draft picks average out to be worth the equivalent of 3
-  spots higher than they were picked due to his good drafting.
+draft_description: Sean Marks ranks in the 70th percentile for drafting among executives
+  in our database. Marks's draft picks average out to be worth the equivalent of 1
+  spot higher than they were picked due to his good drafting.
 draft_num_players: 10
-draft_overall_percentile_vorp: 54
-draft_rating_bpm: 7
-draft_rating_grade_bpm: B+
-draft_rating_grade_vorp: C+
-draft_rating_percentile_bpm: 80
-draft_rating_percentile_vorp: 59
-draft_rating_vorp: 3
+draft_overall_percentile_vorp: 60
+draft_rating_bpm: 4
+draft_rating_grade_bpm: A
+draft_rating_grade_vorp: B
+draft_rating_percentile_bpm: 92
+draft_rating_percentile_vorp: 71
+draft_rating_vorp: 1
 draft_total_bpm: -18691
 draft_total_grade_bpm: C
 draft_total_grade_vorp: C
@@ -30,12 +32,12 @@ draft_win_list: '<ul>
 
   <li>Drafted Nicolas Claxton with 31th pick but was worth 8th pick.</li>
 
-  <li>Drafted Jalen Wilson with 51th pick but was worth 49th pick.</li>
+  <li>Drafted Rodions Kurucs with 40th pick but was worth 50th pick.</li>
 
   </ul>'
 end_year: 2026
-final_bpm: -76231
-final_vorp: 81
+final_bpm: -79496
+final_vorp: 70
 href: marksse99x
 is_active: true
 name: Sean Marks
@@ -89,20 +91,20 @@ trade_lose_list: '<ul>
 
   </ul>'
 trade_num: 152
-trade_overall_percentile_bpm: 56
-trade_overall_percentile_vorp: 83
+trade_overall_percentile_bpm: 55
+trade_overall_percentile_vorp: 82
 trade_rating_bpm: 0
 trade_rating_grade_bpm: C
 trade_rating_grade_vorp: B
 trade_rating_percentile_bpm: 51
 trade_rating_percentile_vorp: 71
 trade_rating_vorp: 0
-trade_total_bpm: 10640
-trade_total_grade_bpm: B-
-trade_total_grade_vorp: A+
-trade_total_percentile_bpm: 62
-trade_total_percentile_vorp: 96
-trade_total_vorp: 44
+trade_total_bpm: 7375
+trade_total_grade_bpm: C+
+trade_total_grade_vorp: A
+trade_total_percentile_bpm: 59
+trade_total_percentile_vorp: 93
+trade_total_vorp: 33
 trade_win_list: '<ul>
 
   <li>Added Bojan Bogdanovic, Mamadi Diakite, Shake Milton, future 1st round pick,

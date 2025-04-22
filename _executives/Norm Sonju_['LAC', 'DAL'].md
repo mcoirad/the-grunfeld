@@ -9,17 +9,17 @@ draft_bust_list: '<ul>
   <li>Drafted Bill Garnett with 4th pick but was worth 19th pick.</li>
 
   </ul>'
-draft_description: Norm Sonju ranks in the 53th percentile for drafting among executives
-  in our database. Sonju's draft picks average out to be worth the equivalent of 2
-  spots higher than they were picked due to his good drafting.
+draft_description: Norm Sonju ranks in the 38th percentile for drafting among executives
+  in our database. Sonju's draft picks average out to be worth the equivalent of 6
+  spots lower than they were picked due to their terrible drafting.
 draft_num_players: 36
-draft_overall_percentile_vorp: 73
-draft_rating_bpm: 1
-draft_rating_grade_bpm: C+
-draft_rating_grade_vorp: C+
-draft_rating_percentile_bpm: 58
-draft_rating_percentile_vorp: 53
-draft_rating_vorp: 2
+draft_overall_percentile_vorp: 66
+draft_rating_bpm: -14
+draft_rating_grade_bpm: D
+draft_rating_grade_vorp: D+
+draft_rating_percentile_bpm: 28
+draft_rating_percentile_vorp: 39
+draft_rating_vorp: -6
 draft_total_bpm: 367
 draft_total_grade_bpm: A+
 draft_total_grade_vorp: A+

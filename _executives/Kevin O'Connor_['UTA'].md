@@ -1,25 +1,25 @@
 ---
-bpm_rank: 95
+bpm_rank: 94
 draft_bust_list: '<ul>
 
   <li>Drafted Enes Kanter with 3th pick but was worth 11th pick.</li>
 
-  <li>Drafted DeShawn Stevenson with 23th pick but was worth 49th pick.</li>
+  <li>Drafted DeShawn Stevenson with 23th pick but was worth 57th pick.</li>
 
-  <li>Drafted Sasha Pavlović with 19th pick but was worth 46th pick.</li>
+  <li>Drafted Sasha Pavlović with 19th pick but was worth 57th pick.</li>
 
   </ul>'
-draft_description: Kevin O'Connor ranks in the 63th percentile for drafting among
+draft_description: Kevin O'Connor ranks in the 59th percentile for drafting among
   executives in our database. O'Connor's draft picks average out to be worth the equivalent
-  of 3 spots higher than they were picked due to his good drafting.
+  of 1 spot lower than they were picked due to their terrible drafting.
 draft_num_players: 21
-draft_overall_percentile_vorp: 73
-draft_rating_bpm: 2
+draft_overall_percentile_vorp: 71
+draft_rating_bpm: -5
 draft_rating_grade_bpm: B-
-draft_rating_grade_vorp: B-
-draft_rating_percentile_bpm: 61
-draft_rating_percentile_vorp: 63
-draft_rating_vorp: 3
+draft_rating_grade_vorp: C+
+draft_rating_percentile_bpm: 65
+draft_rating_percentile_vorp: 60
+draft_rating_vorp: -1
 draft_total_bpm: 8181
 draft_total_grade_bpm: A-
 draft_total_grade_vorp: A-
@@ -32,7 +32,7 @@ draft_win_list: '<ul>
 
   <li>Drafted Gordon Hayward with 9th pick but was worth 3th pick.</li>
 
-  <li>Drafted Mo Williams with 47th pick but was worth 11th pick.</li>
+  <li>Drafted Ronnie Brewer with 14th pick but was worth 9th pick.</li>
 
   </ul>'
 end_year: 2012
@@ -103,7 +103,7 @@ trade_total_bpm: 54339
 trade_total_grade_bpm: A-
 trade_total_grade_vorp: A
 trade_total_percentile_bpm: 83
-trade_total_percentile_vorp: 87
+trade_total_percentile_vorp: 88
 trade_total_vorp: 16
 trade_win_list: '<ul>
 

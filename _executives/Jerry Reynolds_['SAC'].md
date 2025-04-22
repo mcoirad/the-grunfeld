@@ -4,22 +4,22 @@ draft_bust_list: '<ul>
 
   <li>Drafted Billy Owens with 3th pick but was worth 11th pick.</li>
 
-  <li>Drafted Bobby Hurley with 7th pick but was worth 43th pick.</li>
+  <li>Drafted Bobby Hurley with 7th pick but was worth 54th pick.</li>
 
-  <li>Drafted Duane Causwell with 18th pick but was worth 35th pick.</li>
+  <li>Drafted Duane Causwell with 18th pick but was worth 37th pick.</li>
 
   </ul>'
-draft_description: Jerry Reynolds ranks in the 35th percentile for drafting among
+draft_description: Jerry Reynolds ranks in the 36th percentile for drafting among
   executives in our database. Reynolds's draft picks average out to be worth the equivalent
-  of 3 spots lower than they were picked due to their terrible drafting.
+  of 7 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 11
-draft_overall_percentile_vorp: 43
-draft_rating_bpm: -7
-draft_rating_grade_bpm: D-
+draft_overall_percentile_vorp: 44
+draft_rating_bpm: -14
+draft_rating_grade_bpm: D
 draft_rating_grade_vorp: D+
-draft_rating_percentile_bpm: 26
-draft_rating_percentile_vorp: 36
-draft_rating_vorp: -3
+draft_rating_percentile_bpm: 30
+draft_rating_percentile_vorp: 37
+draft_rating_vorp: -7
 draft_total_bpm: -69907
 draft_total_grade_bpm: C
 draft_total_grade_vorp: C
@@ -27,6 +27,8 @@ draft_total_percentile_bpm: 51
 draft_total_percentile_vorp: 51
 draft_total_vorp: 9
 draft_win_list: '<ul>
+
+  <li>Drafted Mike Peplowski with 52th pick but was worth 45th pick.</li>
 
   </ul>'
 end_year: 1994

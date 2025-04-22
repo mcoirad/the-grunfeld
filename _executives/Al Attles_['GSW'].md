@@ -4,22 +4,22 @@ draft_bust_list: '<ul>
 
   <li>Drafted Joe Barry Carroll with 1th pick but was worth 7th pick.</li>
 
-  <li>Drafted Wayne Cooper with 40th pick but was worth 65th pick.</li>
+  <li>Drafted Wayne Cooper with 40th pick but was worth 61th pick.</li>
 
   <li>Drafted Larry Smith with 24th pick but was worth 19th pick.</li>
 
   </ul>'
 draft_description: Al Attles ranks in the 99th percentile for drafting among executives
   in our database. Attles's draft picks average out to be worth the equivalent of
-  17 spots higher than they were picked due to his good drafting.
+  12 spots higher than they were picked due to his good drafting.
 draft_num_players: 30
 draft_overall_percentile_vorp: 94
-draft_rating_bpm: 19
-draft_rating_grade_bpm: S
+draft_rating_bpm: 0
+draft_rating_grade_bpm: A-
 draft_rating_grade_vorp: S
-draft_rating_percentile_bpm: 99
+draft_rating_percentile_bpm: 82
 draft_rating_percentile_vorp: 99
-draft_rating_vorp: 17
+draft_rating_vorp: 12
 draft_total_bpm: 22777
 draft_total_grade_bpm: A
 draft_total_grade_vorp: A

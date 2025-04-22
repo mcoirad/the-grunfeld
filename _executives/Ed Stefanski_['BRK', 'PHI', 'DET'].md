@@ -4,22 +4,22 @@ draft_bust_list: '<ul>
 
   <li>Drafted Evan Turner with 2th pick but was worth 23th pick.</li>
 
-  <li>Drafted Marreese Speights with 16th pick but was worth 45th pick.</li>
+  <li>Drafted Marreese Speights with 16th pick but was worth 54th pick.</li>
 
-  <li>Drafted Antoine Wright with 15th pick but was worth 53th pick.</li>
+  <li>Drafted Antoine Wright with 15th pick but was worth 58th pick.</li>
 
   </ul>'
-draft_description: Ed Stefanski ranks in the 15th percentile for drafting among executives
+draft_description: Ed Stefanski ranks in the 9th percentile for drafting among executives
   in our database. Stefanski's draft picks average out to be worth the equivalent
-  of 11 spots lower than they were picked due to their terrible drafting.
+  of 15 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 11
-draft_overall_percentile_vorp: 16
-draft_rating_bpm: -11
+draft_overall_percentile_vorp: 13
+draft_rating_bpm: -18
 draft_rating_grade_bpm: F
 draft_rating_grade_vorp: F
-draft_rating_percentile_bpm: 14
-draft_rating_percentile_vorp: 16
-draft_rating_vorp: -11
+draft_rating_percentile_bpm: 13
+draft_rating_percentile_vorp: 9
+draft_rating_vorp: -15
 draft_total_bpm: -75569
 draft_total_grade_bpm: F
 draft_total_grade_vorp: F

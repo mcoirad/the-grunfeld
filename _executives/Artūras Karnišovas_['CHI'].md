@@ -2,24 +2,24 @@
 bpm_rank: 109
 draft_bust_list: '<ul>
 
-  <li>Drafted Patrick Williams with 4th pick but was worth 47th pick.</li>
+  <li>Drafted Patrick Williams with 4th pick but was worth 49th pick.</li>
 
-  <li>Drafted Ayo Dosunmu with 38th pick but was worth 24th pick.</li>
+  <li>Drafted Ayo Dosunmu with 38th pick but was worth 23th pick.</li>
 
-  <li>Drafted Dalen Terry with 18th pick but was worth 34th pick.</li>
+  <li>Drafted Dalen Terry with 18th pick but was worth 41th pick.</li>
 
   </ul>'
-draft_description: Artūras Karnišovas ranks in the 7th percentile for drafting among
+draft_description: Artūras Karnišovas ranks in the 13th percentile for drafting among
   executives in our database. Karnišovas's draft picks average out to be worth the
-  equivalent of 13 spots lower than they were picked due to their terrible drafting.
+  equivalent of 14 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
-draft_overall_percentile_vorp: 10
-draft_rating_bpm: -17
+draft_overall_percentile_vorp: 13
+draft_rating_bpm: -20
 draft_rating_grade_bpm: F
 draft_rating_grade_vorp: F
-draft_rating_percentile_bpm: 4
-draft_rating_percentile_vorp: 7
-draft_rating_vorp: -13
+draft_rating_percentile_bpm: 7
+draft_rating_percentile_vorp: 14
+draft_rating_vorp: -14
 draft_total_bpm: -40546
 draft_total_grade_bpm: F
 draft_total_grade_vorp: F
@@ -30,8 +30,8 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: -47881
-final_vorp: 15
+final_bpm: -45665
+final_vorp: 14
 href: karniar99x
 is_active: true
 name: Artūras Karnišovas
@@ -79,26 +79,28 @@ trade_description: 'Artūras Karnišovas ranks in the 56th percentile for tradin
   executives in our database. '
 trade_lose_list: '<ul>
 
-  <li>Added Chris Duarte, future 2nd round pick, future 2nd round pick to CHI.</li>
+  <li>Added Javonte Green, Daniel Theis, Troy Brown Jr. to CHI.</li>
 
-  <li>Lost DeMar DeRozan to SAC.</li>
+  <li>Lost Daniel Gafford, Chandler Hutchison to WAS.</li>
+
+  <li>Lost Luke Kornet to BOS.</li>
 
   </ul>'
 trade_num: 36
-trade_overall_percentile_bpm: 74
-trade_overall_percentile_vorp: 65
+trade_overall_percentile_bpm: 75
+trade_overall_percentile_vorp: 64
 trade_rating_bpm: 0
 trade_rating_grade_bpm: A-
 trade_rating_grade_vorp: C+
 trade_rating_percentile_bpm: 83
 trade_rating_percentile_vorp: 56
 trade_rating_vorp: 0
-trade_total_bpm: 14043
-trade_total_grade_bpm: B-
-trade_total_grade_vorp: B+
-trade_total_percentile_bpm: 65
+trade_total_bpm: 16260
+trade_total_grade_bpm: B
+trade_total_grade_vorp: B
+trade_total_percentile_bpm: 67
 trade_total_percentile_vorp: 73
-trade_total_vorp: 5
+trade_total_vorp: 4
 trade_win_list: '<ul>
 
   <li>Added DeMar DeRozan to CHI.</li>

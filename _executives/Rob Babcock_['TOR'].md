@@ -2,24 +2,24 @@
 bpm_rank: 126
 draft_bust_list: '<ul>
 
-  <li>Drafted Rafael Araújo with 8th pick but was worth 44th pick.</li>
+  <li>Drafted Rafael Araújo with 8th pick but was worth 57th pick.</li>
 
   <li>Drafted Charlie Villanueva with 7th pick but was worth 20th pick.</li>
 
-  <li>Drafted Joey Graham with 16th pick but was worth 53th pick.</li>
+  <li>Drafted Joey Graham with 16th pick but was worth 58th pick.</li>
 
   </ul>'
-draft_description: Rob Babcock ranks in the 2th percentile for drafting among executives
+draft_description: Rob Babcock ranks in the 4th percentile for drafting among executives
   in our database. Babcock's draft picks average out to be worth the equivalent of
-  15 spots lower than they were picked due to their terrible drafting.
+  21 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
-draft_overall_percentile_vorp: 2
-draft_rating_bpm: -9
+draft_overall_percentile_vorp: 3
+draft_rating_bpm: -16
 draft_rating_grade_bpm: F
-draft_rating_grade_vorp: F-
-draft_rating_percentile_bpm: 18
-draft_rating_percentile_vorp: 3
-draft_rating_vorp: -15
+draft_rating_grade_vorp: F
+draft_rating_percentile_bpm: 17
+draft_rating_percentile_vorp: 5
+draft_rating_vorp: -21
 draft_total_bpm: -32755
 draft_total_grade_bpm: F-
 draft_total_grade_vorp: F-
@@ -28,7 +28,7 @@ draft_total_percentile_vorp: 1
 draft_total_vorp: -4
 draft_win_list: '<ul>
 
-  <li>Drafted Roko Ukić with 41th pick but was worth 47th pick.</li>
+  <li>Drafted Roko Ukić with 41th pick but was worth 52th pick.</li>
 
   </ul>'
 end_year: 2006
@@ -98,7 +98,7 @@ trade_total_bpm: -64889
 trade_total_grade_bpm: F
 trade_total_grade_vorp: D-
 trade_total_percentile_bpm: 15
-trade_total_percentile_vorp: 23
+trade_total_percentile_vorp: 21
 trade_total_vorp: -26
 trade_win_list: '<ul>
 

@@ -6,20 +6,20 @@ draft_bust_list: '<ul>
 
   <li>Drafted Cody Zeller with 4th pick but was worth 13th pick.</li>
 
-  <li>Drafted Jeff Taylor with 31th pick but was worth 53th pick.</li>
+  <li>Drafted Jeff Taylor with 31th pick but was worth 57th pick.</li>
 
   </ul>'
-draft_description: Rich Cho ranks in the 13th percentile for drafting among executives
-  in our database. Cho's draft picks average out to be worth the equivalent of 11
+draft_description: Rich Cho ranks in the 19th percentile for drafting among executives
+  in our database. Cho's draft picks average out to be worth the equivalent of 12
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 4
-draft_overall_percentile_vorp: 29
-draft_rating_bpm: -21
-draft_rating_grade_bpm: F-
+draft_overall_percentile_vorp: 32
+draft_rating_bpm: -25
+draft_rating_grade_bpm: F
 draft_rating_grade_vorp: F
-draft_rating_percentile_bpm: 1
-draft_rating_percentile_vorp: 14
-draft_rating_vorp: -11
+draft_rating_percentile_bpm: 4
+draft_rating_percentile_vorp: 19
+draft_rating_vorp: -12
 draft_total_bpm: -13060
 draft_total_grade_bpm: C-
 draft_total_grade_vorp: C-
@@ -100,7 +100,7 @@ trade_rating_vorp: 0
 trade_total_bpm: 34990
 trade_total_grade_bpm: B+
 trade_total_grade_vorp: B
-trade_total_percentile_bpm: 76
+trade_total_percentile_bpm: 77
 trade_total_percentile_vorp: 71
 trade_total_vorp: 4
 trade_win_list: '<ul>

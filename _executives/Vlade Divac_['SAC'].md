@@ -6,20 +6,20 @@ draft_bust_list: '<ul>
 
   <li>Drafted De''Aaron Fox with 5th pick but was worth 6th pick.</li>
 
-  <li>Drafted Frank Mason III with 34th pick but was worth 40th pick.</li>
+  <li>Drafted Frank Mason III with 34th pick but was worth 43th pick.</li>
 
   </ul>'
-draft_description: Vlade Divac ranks in the 19th percentile for drafting among executives
-  in our database. Divac's draft picks average out to be worth the equivalent of 8
+draft_description: Vlade Divac ranks in the 29th percentile for drafting among executives
+  in our database. Divac's draft picks average out to be worth the equivalent of 9
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
-draft_overall_percentile_vorp: 39
-draft_rating_bpm: -9
-draft_rating_grade_bpm: D-
-draft_rating_grade_vorp: F
-draft_rating_percentile_bpm: 21
-draft_rating_percentile_vorp: 19
-draft_rating_vorp: -8
+draft_overall_percentile_vorp: 44
+draft_rating_bpm: -14
+draft_rating_grade_bpm: D
+draft_rating_grade_vorp: D
+draft_rating_percentile_bpm: 29
+draft_rating_percentile_vorp: 29
+draft_rating_vorp: -9
 draft_total_bpm: 2055
 draft_total_grade_bpm: C+
 draft_total_grade_vorp: C+
@@ -28,7 +28,7 @@ draft_total_percentile_vorp: 59
 draft_total_vorp: 16
 draft_win_list: '<ul>
 
-  <li>Drafted Justin James with 40th pick but was worth 40th pick.</li>
+  <li>Drafted Justin James with 40th pick but was worth 41th pick.</li>
 
   </ul>'
 end_year: 2020
@@ -100,7 +100,7 @@ trade_total_bpm: 35782
 trade_total_grade_bpm: B+
 trade_total_grade_vorp: B
 trade_total_percentile_bpm: 77
-trade_total_percentile_vorp: 67
+trade_total_percentile_vorp: 68
 trade_total_vorp: 2
 trade_win_list: '<ul>
 

@@ -1,5 +1,5 @@
 ---
-bpm_rank: 31
+bpm_rank: 32
 draft_bust_list: null
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
@@ -19,10 +19,12 @@ draft_total_percentile_vorp: 40
 draft_total_vorp: 2
 draft_win_list: '<ul>
 
+  <li>Drafted Jericho Sims with 58th pick but was worth 29th pick.</li>
+
   </ul>'
 end_year: 2026
-final_bpm: 71437
-final_vorp: -15
+final_bpm: 69075
+final_vorp: -12
 href: rosele99x
 is_active: true
 name: Leon Rose
@@ -79,7 +81,7 @@ trade_lose_list: '<ul>
 
   </ul>'
 trade_num: 119
-trade_overall_percentile_bpm: 69
+trade_overall_percentile_bpm: 68
 trade_overall_percentile_vorp: 49
 trade_rating_bpm: 0
 trade_rating_grade_bpm: B-
@@ -87,12 +89,12 @@ trade_rating_grade_vorp: A
 trade_rating_percentile_bpm: 64
 trade_rating_percentile_vorp: 91
 trade_rating_vorp: 0
-trade_total_bpm: 31258
-trade_total_grade_bpm: B+
+trade_total_bpm: 28897
+trade_total_grade_bpm: B
 trade_total_grade_vorp: F
 trade_total_percentile_bpm: 73
-trade_total_percentile_vorp: 7
-trade_total_vorp: -51
+trade_total_percentile_vorp: 8
+trade_total_vorp: -49
 trade_win_list: '<ul>
 
   <li>Added Dani Diez, Bojan Dubljevic, Josh Hart to NYK.</li>

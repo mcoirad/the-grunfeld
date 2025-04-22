@@ -6,20 +6,20 @@ draft_bust_list: '<ul>
 
   <li>Drafted Adam Keefe with 10th pick but was worth 22th pick.</li>
 
-  <li>Drafted Todd Lichti with 15th pick but was worth 34th pick.</li>
+  <li>Drafted Jerome Lane with 23th pick but was worth 61th pick.</li>
 
   </ul>'
-draft_description: Pete Babcock ranks in the 21th percentile for drafting among executives
+draft_description: Pete Babcock ranks in the 20th percentile for drafting among executives
   in our database. Babcock's draft picks average out to be worth the equivalent of
-  7 spots lower than they were picked due to their terrible drafting.
+  12 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 19
 draft_overall_percentile_vorp: 38
-draft_rating_bpm: -7
-draft_rating_grade_bpm: D
+draft_rating_bpm: -15
+draft_rating_grade_bpm: D-
 draft_rating_grade_vorp: D-
-draft_rating_percentile_bpm: 28
-draft_rating_percentile_vorp: 21
-draft_rating_vorp: -7
+draft_rating_percentile_bpm: 22
+draft_rating_percentile_vorp: 20
+draft_rating_vorp: -12
 draft_total_bpm: -93330
 draft_total_grade_bpm: C+
 draft_total_grade_vorp: C+
@@ -30,9 +30,9 @@ draft_win_list: '<ul>
 
   <li>Drafted Jason Terry with 10th pick but was worth 4th pick.</li>
 
-  <li>Drafted Trevor Wilson with 36th pick but was worth 34th pick.</li>
+  <li>Drafted Chris Crawford with 51th pick but was worth 45th pick.</li>
 
-  <li>Drafted Rodney Monroe with 30th pick but was worth 26th pick.</li>
+  <li>Drafted Trevor Wilson with 36th pick but was worth 36th pick.</li>
 
   </ul>'
 end_year: 2003

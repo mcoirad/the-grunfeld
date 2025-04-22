@@ -54,7 +54,7 @@ signing_total_bpm: -16065
 signing_total_grade_bpm: C
 signing_total_grade_vorp: D-
 signing_total_percentile_bpm: 52
-signing_total_percentile_vorp: 25
+signing_total_percentile_vorp: 26
 signing_total_vorp: 0
 signing_win_list: '<ul>
 

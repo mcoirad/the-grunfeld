@@ -1,23 +1,23 @@
 ---
-bpm_rank: 53
+bpm_rank: 51
 draft_bust_list: '<ul>
 
-  <li>Drafted Jaylen Wells with 39th pick but was worth 25th pick.</li>
+  <li>Drafted Jaylen Wells with 39th pick but was worth 32th pick.</li>
 
-  <li>Drafted Jaylen Wells with 39th pick but was worth 25th pick.</li>
+  <li>Drafted Jaylen Wells with 39th pick but was worth 32th pick.</li>
 
   </ul>'
-draft_description: Zach Kleiman ranks in the 97th percentile for drafting among executives
+draft_description: Zach Kleiman ranks in the 98th percentile for drafting among executives
   in our database. Kleiman's draft picks average out to be worth the equivalent of
-  13 spots higher than they were picked due to his good drafting.
+  9 spots higher than they were picked due to his good drafting.
 draft_num_players: 5
-draft_overall_percentile_vorp: 77
-draft_rating_bpm: 4
-draft_rating_grade_bpm: B+
+draft_overall_percentile_vorp: 78
+draft_rating_bpm: 0
+draft_rating_grade_bpm: A-
 draft_rating_grade_vorp: S
-draft_rating_percentile_bpm: 74
-draft_rating_percentile_vorp: 97
-draft_rating_vorp: 13
+draft_rating_percentile_bpm: 83
+draft_rating_percentile_vorp: 98
+draft_rating_vorp: 9
 draft_total_bpm: 10472
 draft_total_grade_bpm: C+
 draft_total_grade_vorp: C+
@@ -26,14 +26,14 @@ draft_total_percentile_vorp: 57
 draft_total_vorp: 13
 draft_win_list: '<ul>
 
-  <li>Drafted Vince Williams Jr. with 47th pick but was worth 19th pick.</li>
+  <li>Drafted Vince Williams Jr. with 47th pick but was worth 17th pick.</li>
 
-  <li>Drafted Gregory Jackson II with 45th pick but was worth 36th pick.</li>
+  <li>Drafted Gregory Jackson II with 45th pick but was worth 42th pick.</li>
 
   </ul>'
 end_year: 2026
-final_bpm: 9751
-final_vorp: 17
+final_bpm: 11379
+final_vorp: 19
 href: kleimza99x
 is_active: true
 name: Zach Kleiman
@@ -89,19 +89,19 @@ trade_lose_list: '<ul>
   </ul>'
 trade_num: 109
 trade_overall_percentile_bpm: 48
-trade_overall_percentile_vorp: 48
+trade_overall_percentile_vorp: 49
 trade_rating_bpm: 0
 trade_rating_grade_bpm: C+
 trade_rating_grade_vorp: B+
 trade_rating_percentile_bpm: 55
 trade_rating_percentile_vorp: 79
 trade_rating_vorp: 0
-trade_total_bpm: -7263
+trade_total_bpm: -5634
 trade_total_grade_bpm: C-
 trade_total_grade_vorp: F
 trade_total_percentile_bpm: 41
-trade_total_percentile_vorp: 18
-trade_total_vorp: -30
+trade_total_percentile_vorp: 20
+trade_total_vorp: -28
 trade_win_list: '<ul>
 
   <li>Added Brandon Clarke to MEM.</li>

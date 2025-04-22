@@ -271,8 +271,8 @@ updateTexts();
     
     <div class="col-md-3">
       <h3> Draft Rating:</h3>
-      <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text=C- data-bpm-text=C> C</h3>
-      <h5 > Draft Pick Efficiency Rating: <span class="stat-text" data-vorp-text=41 data-bpm-text=50><span> 50 </h5>
+      <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text=C- data-bpm-text=B-> B-</h3>
+      <h5 > Draft Pick Efficiency Rating: <span class="stat-text" data-vorp-text=47 data-bpm-text=62><span> 62 </h5>
       <h5> Draft Total Value Rating: <span class="stat-text" data-vorp-text=43 data-bpm-text=43><span> 43  </h5>
     </div>
     <div class="col-md-9">
@@ -468,7 +468,8 @@ function getStackedChartMappedData(stat) {
       name: d.name,
       draft: parseFloat(d[`draft_${stat}`]),
       expected: parseFloat(d[`expected_${stat}`]),
-      draftPick: d[`draft_pick_${stat}`]
+      draftPick: d[`draft_pick_${stat}`],
+      expectedPick: d[`draft_pick_${stat}`] - d[`draft_grade_${stat}`],
     }))
     .sort((a, b) => b.draft - a.draft);
     console.log(filtered);
@@ -483,7 +484,7 @@ function getStackedChartMappedData(stat) {
     labels.push(d.name);
     draftData.push(d.draft);
     expectedData.push(d.expected);
-    tooltipData.push(`Draft Pick ${d.draftPick}`);
+    tooltipData.push(`Draft Pick ${d.draftPick}, Redraft Pick would be ${d.expectedPick}`);
   }
 
   return { labels, draftData, expectedData, tooltipData };
@@ -502,24 +503,24 @@ function updateExecDraftPlayersChart() {
 
   stackedChart.options.plugins.tooltip.callbacks.label = function(context) {
     const index = context.dataIndex;
-    return `${tooltipData[index]} | Draft Pick ${rawTransactionData[index]['draft_pick_' + currentExecDraftStat]}`;
+    return `${tooltipData[index]}`;
   };
 
   stackedChart.update();
 }
 </script>
 
-      Monte McNair ranks in the 41th percentile for drafting among executives in our database. McNair's draft picks average out to be worth the equivalent of 2 spots lower than they were picked due to their terrible drafting.
+      Monte McNair ranks in the 46th percentile for drafting among executives in our database. McNair's draft picks average out to be worth the equivalent of 4 spots lower than they were picked due to their terrible drafting.
       <h5>Some of their biggest wins:</h5>
       <ul>
 <li>Drafted Tyrese Haliburton with 12th pick but was worth 1th pick.</li>
-<li>Drafted Jahmi'us Ramsey with 43th pick but was worth 40th pick.</li>
+<li>Drafted Jahmi'us Ramsey with 43th pick but was worth 42th pick.</li>
 </ul>
       <h5>Some of their biggest busts:</h5>
       <ul>
-<li>Drafted Davion Mitchell with 9th pick but was worth 56th pick.</li>
+<li>Drafted Davion Mitchell with 9th pick but was worth 60th pick.</li>
 <li>Drafted Keegan Murray with 4th pick but was worth 10th pick.</li>
-<li>Drafted Devin Carter with 13th pick but was worth 25th pick.</li>
+<li>Drafted Devin Carter with 13th pick but was worth 31th pick.</li>
 </ul>
     </div>
   </div>
@@ -541,8 +542,9 @@ function updateExecDraftPlayersChart() {
 </ul>
       <h5>Their biggest L:</h5>
       <ul>
-<li>Added Tristan Thompson to SAC.</li>
-<li>Lost Delon Wright to ATL.</li>
+<li>Added Zach LaVine, future 2nd round pick, Sidy Cissoko, future 1st round pick, future 2nd round pick, future 1st round pick, future 2nd round pick, future 1st round pick to SAC.</li>
+<li>Lost De'Aaron Fox, Jordan McLaughlin to SAS.</li>
+<li>Lost Kevin Huerter to CHI.</li>
 </ul>
     </div>
   </div>

@@ -2,24 +2,24 @@
 bpm_rank: 49
 draft_bust_list: '<ul>
 
-  <li>Drafted Harrison Barnes with 7th pick but was worth 8th pick.</li>
+  <li>Drafted James Wiseman with 2th pick but was worth 56th pick.</li>
 
-  <li>Drafted James Wiseman with 2th pick but was worth 54th pick.</li>
+  <li>Drafted Harrison Barnes with 7th pick but was worth 8th pick.</li>
 
   <li>Drafted Jordan Poole with 28th pick but was worth 22th pick.</li>
 
   </ul>'
-draft_description: Bob Myers ranks in the 66th percentile for drafting among executives
-  in our database. Myers's draft picks average out to be worth the equivalent of 3
+draft_description: Bob Myers ranks in the 77th percentile for drafting among executives
+  in our database. Myers's draft picks average out to be worth the equivalent of 2
   spots higher than they were picked due to his good drafting.
 draft_num_players: 15
-draft_overall_percentile_vorp: 72
-draft_rating_bpm: -2
-draft_rating_grade_bpm: C
-draft_rating_grade_vorp: B-
-draft_rating_percentile_bpm: 49
-draft_rating_percentile_vorp: 66
-draft_rating_vorp: 3
+draft_overall_percentile_vorp: 78
+draft_rating_bpm: -5
+draft_rating_grade_bpm: B-
+draft_rating_grade_vorp: B+
+draft_rating_percentile_bpm: 64
+draft_rating_percentile_vorp: 77
+draft_rating_vorp: 2
 draft_total_bpm: 5570
 draft_total_grade_bpm: B+
 draft_total_grade_vorp: B+
@@ -30,9 +30,9 @@ draft_win_list: '<ul>
 
   <li>Drafted Draymond Green with 35th pick but was worth 3th pick.</li>
 
-  <li>Drafted Nico Mannion with 48th pick but was worth 37th pick.</li>
+  <li>Drafted Gui Santos with 55th pick but was worth 19th pick.</li>
 
-  <li>Drafted Kevon Looney with 30th pick but was worth 12th pick.</li>
+  <li>Drafted Nico Mannion with 48th pick but was worth 39th pick.</li>
 
   </ul>'
 end_year: 2023
@@ -102,7 +102,7 @@ trade_rating_vorp: 0
 trade_total_bpm: 11306
 trade_total_grade_bpm: B-
 trade_total_grade_vorp: C-
-trade_total_percentile_bpm: 63
+trade_total_percentile_bpm: 64
 trade_total_percentile_vorp: 41
 trade_total_vorp: -7
 trade_win_list: '<ul>

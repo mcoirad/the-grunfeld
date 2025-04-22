@@ -1,10 +1,10 @@
 ---
-bpm_rank: 79
+bpm_rank: 80
 draft_bust_list: '<ul>
 
   <li>Drafted Kris Dunn with 5th pick but was worth 14th pick.</li>
 
-  <li>Drafted Josh Okogie with 20th pick but was worth 29th pick.</li>
+  <li>Drafted Josh Okogie with 20th pick but was worth 28th pick.</li>
 
   </ul>'
 draft_description: This executive has only drafted 3 players and thus doesn't have

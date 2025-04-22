@@ -9,17 +9,17 @@ draft_bust_list: '<ul>
   <li>Drafted Channing Frye with 8th pick but was worth 15th pick.</li>
 
   </ul>'
-draft_description: Isiah Thomas ranks in the 75th percentile for drafting among executives
+draft_description: Isiah Thomas ranks in the 81th percentile for drafting among executives
   in our database. Thomas's draft picks average out to be worth the equivalent of
-  5 spots higher than they were picked due to his good drafting.
+  3 spots higher than they were picked due to his good drafting.
 draft_num_players: 10
-draft_overall_percentile_vorp: 71
-draft_rating_bpm: 2
-draft_rating_grade_bpm: B-
-draft_rating_grade_vorp: B+
-draft_rating_percentile_bpm: 65
-draft_rating_percentile_vorp: 75
-draft_rating_vorp: 5
+draft_overall_percentile_vorp: 74
+draft_rating_bpm: -1
+draft_rating_grade_bpm: B+
+draft_rating_grade_vorp: A-
+draft_rating_percentile_bpm: 78
+draft_rating_percentile_vorp: 82
+draft_rating_vorp: 3
 draft_total_bpm: 782
 draft_total_grade_bpm: B-
 draft_total_grade_vorp: B-
@@ -30,9 +30,9 @@ draft_win_list: '<ul>
 
   <li>Drafted Tracy McGrady with 9th pick but was worth 2th pick.</li>
 
-  <li>Drafted Trevor Ariza with 43th pick but was worth 5th pick.</li>
-
   <li>Drafted David Lee with 30th pick but was worth 4th pick.</li>
+
+  <li>Drafted Trevor Ariza with 43th pick but was worth 5th pick.</li>
 
   </ul>'
 end_year: 2008

@@ -2,24 +2,24 @@
 bpm_rank: 122
 draft_bust_list: '<ul>
 
-  <li>Drafted Terrance Ferguson with 21th pick but was worth 53th pick.</li>
+  <li>Drafted Terrance Ferguson with 21th pick but was worth 56th pick.</li>
 
-  <li>Drafted Tre Mann with 18th pick but was worth 52th pick.</li>
+  <li>Drafted Tre Mann with 18th pick but was worth 56th pick.</li>
 
   <li>Drafted Cameron Payne with 14th pick but was worth 19th pick.</li>
 
   </ul>'
-draft_description: Sam Presti ranks in the 72th percentile for drafting among executives
+draft_description: Sam Presti ranks in the 79th percentile for drafting among executives
   in our database. Presti's draft picks average out to be worth the equivalent of
-  4 spots higher than they were picked due to his good drafting.
+  3 spots higher than they were picked due to his good drafting.
 draft_num_players: 22
-draft_overall_percentile_vorp: 85
-draft_rating_bpm: 6
-draft_rating_grade_bpm: B+
-draft_rating_grade_vorp: B
-draft_rating_percentile_bpm: 77
-draft_rating_percentile_vorp: 72
-draft_rating_vorp: 4
+draft_overall_percentile_vorp: 89
+draft_rating_bpm: 2
+draft_rating_grade_bpm: A-
+draft_rating_grade_vorp: B+
+draft_rating_percentile_bpm: 86
+draft_rating_percentile_vorp: 80
+draft_rating_vorp: 3
 draft_total_bpm: 314254
 draft_total_grade_bpm: S
 draft_total_grade_vorp: S
@@ -36,8 +36,8 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: -64646
-final_vorp: -8
+final_bpm: -64366
+final_vorp: -7
 href: prestsa99x
 is_active: true
 name: Sam Presti
@@ -100,12 +100,12 @@ trade_rating_grade_vorp: D-
 trade_rating_percentile_bpm: 37
 trade_rating_percentile_vorp: 21
 trade_rating_vorp: 0
-trade_total_bpm: -268219
+trade_total_bpm: -267939
 trade_total_grade_bpm: F-
 trade_total_grade_vorp: F-
 trade_total_percentile_bpm: 1
 trade_total_percentile_vorp: 0
-trade_total_vorp: -170
+trade_total_vorp: -169
 trade_win_list: '<ul>
 
   <li>Added Danilo Gallinari, Shai Gilgeous-Alexander, Tre Mann, Jalen Williams, Jaime

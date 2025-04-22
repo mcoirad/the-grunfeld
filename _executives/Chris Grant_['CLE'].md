@@ -2,24 +2,24 @@
 bpm_rank: 153
 draft_bust_list: '<ul>
 
-  <li>Drafted Anthony Bennett with 1th pick but was worth 50th pick.</li>
+  <li>Drafted Anthony Bennett with 1th pick but was worth 59th pick.</li>
 
-  <li>Drafted Tristan Thompson with 4th pick but was worth 22th pick.</li>
+  <li>Drafted Tristan Thompson with 4th pick but was worth 23th pick.</li>
 
-  <li>Drafted Dion Waiters with 4th pick but was worth 42th pick.</li>
+  <li>Drafted Dion Waiters with 4th pick but was worth 46th pick.</li>
 
   </ul>'
-draft_description: Chris Grant ranks in the 2th percentile for drafting among executives
-  in our database. Grant's draft picks average out to be worth the equivalent of 15
+draft_description: Chris Grant ranks in the 5th percentile for drafting among executives
+  in our database. Grant's draft picks average out to be worth the equivalent of 19
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 8
-draft_overall_percentile_vorp: 33
-draft_rating_bpm: -12
+draft_overall_percentile_vorp: 34
+draft_rating_bpm: -18
 draft_rating_grade_bpm: F
-draft_rating_grade_vorp: F-
-draft_rating_percentile_bpm: 11
-draft_rating_percentile_vorp: 3
-draft_rating_vorp: -15
+draft_rating_grade_vorp: F
+draft_rating_percentile_bpm: 12
+draft_rating_percentile_vorp: 6
+draft_rating_vorp: -19
 draft_total_bpm: -3812
 draft_total_grade_bpm: B-
 draft_total_grade_vorp: B-

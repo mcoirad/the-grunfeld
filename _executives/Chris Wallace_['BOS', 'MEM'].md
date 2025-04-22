@@ -2,24 +2,24 @@
 bpm_rank: 133
 draft_bust_list: '<ul>
 
-  <li>Drafted Hasheem Thabeet with 2th pick but was worth 41th pick.</li>
+  <li>Drafted Hasheem Thabeet with 2th pick but was worth 51th pick.</li>
 
   <li>Drafted Jaren Jackson Jr. with 4th pick but was worth 6th pick.</li>
 
-  <li>Drafted Xavier Henry with 12th pick but was worth 49th pick.</li>
+  <li>Drafted Xavier Henry with 12th pick but was worth 58th pick.</li>
 
   </ul>'
-draft_description: Chris Wallace ranks in the 18th percentile for drafting among executives
+draft_description: Chris Wallace ranks in the 16th percentile for drafting among executives
   in our database. Wallace's draft picks average out to be worth the equivalent of
-  8 spots lower than they were picked due to their terrible drafting.
+  13 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 16
-draft_overall_percentile_vorp: 48
-draft_rating_bpm: -6
-draft_rating_grade_bpm: D
+draft_overall_percentile_vorp: 47
+draft_rating_bpm: -12
+draft_rating_grade_bpm: D+
 draft_rating_grade_vorp: F
-draft_rating_percentile_bpm: 29
-draft_rating_percentile_vorp: 18
-draft_rating_vorp: -8
+draft_rating_percentile_bpm: 36
+draft_rating_percentile_vorp: 17
+draft_rating_vorp: -13
 draft_total_bpm: 33176
 draft_total_grade_bpm: B+
 draft_total_grade_vorp: B+
@@ -28,7 +28,7 @@ draft_total_percentile_vorp: 77
 draft_total_vorp: 34
 draft_win_list: '<ul>
 
-  <li>Drafted Josh Selby with 49th pick but was worth 46th pick.</li>
+  <li>Drafted Josh Selby with 49th pick but was worth 52th pick.</li>
 
   <li>Drafted DeMarre Carroll with 27th pick but was worth 16th pick.</li>
 

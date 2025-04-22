@@ -2,24 +2,24 @@
 bpm_rank: 120
 draft_bust_list: '<ul>
 
-  <li>Drafted Deandre Ayton with 1th pick but was worth 7th pick.</li>
+  <li>Drafted Deandre Ayton with 1th pick but was worth 6th pick.</li>
 
-  <li>Drafted Josh Jackson with 4th pick but was worth 54th pick.</li>
+  <li>Drafted Josh Jackson with 4th pick but was worth 57th pick.</li>
 
   <li>Drafted Alex Len with 5th pick but was worth 25th pick.</li>
 
   </ul>'
-draft_description: Ryan McDonough ranks in the 8th percentile for drafting among executives
-  in our database. McDonough's draft picks average out to be worth the equivalent
-  of 12 spots lower than they were picked due to their terrible drafting.
+draft_description: Ryan McDonough ranks in the 11th percentile for drafting among
+  executives in our database. McDonough's draft picks average out to be worth the
+  equivalent of 15 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 12
-draft_overall_percentile_vorp: 36
-draft_rating_bpm: -10
-draft_rating_grade_bpm: F
+draft_overall_percentile_vorp: 37
+draft_rating_bpm: -14
+draft_rating_grade_bpm: D-
 draft_rating_grade_vorp: F
-draft_rating_percentile_bpm: 15
-draft_rating_percentile_vorp: 8
-draft_rating_vorp: -12
+draft_rating_percentile_bpm: 25
+draft_rating_percentile_vorp: 11
+draft_rating_vorp: -15
 draft_total_bpm: -36168
 draft_total_grade_bpm: B-
 draft_total_grade_vorp: B-

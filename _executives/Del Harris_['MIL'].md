@@ -1,17 +1,25 @@
 ---
-bpm_rank: 90
-draft_bust_list: null
-draft_description: Del Harris ranks in the 20th percentile for drafting among executives
+bpm_rank: 89
+draft_bust_list: '<ul>
+
+  <li>Drafted Jeff Grayer with 13th pick but was worth 61th pick.</li>
+
+  <li>Drafted Tito Horford with 39th pick but was worth 61th pick.</li>
+
+  <li>Drafted Frank Kornet with 30th pick but was worth 43th pick.</li>
+
+  </ul>'
+draft_description: Del Harris ranks in the 11th percentile for drafting among executives
   in our database. Harris's draft picks average out to be worth the equivalent of
-  7 spots lower than they were picked due to their terrible drafting.
+  15 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 4
-draft_overall_percentile_vorp: 13
-draft_rating_bpm: 0
-draft_rating_grade_bpm: C+
-draft_rating_grade_vorp: D-
-draft_rating_percentile_bpm: 55
-draft_rating_percentile_vorp: 20
-draft_rating_vorp: -7
+draft_overall_percentile_vorp: 9
+draft_rating_bpm: -9
+draft_rating_grade_bpm: C-
+draft_rating_grade_vorp: F
+draft_rating_percentile_bpm: 47
+draft_rating_percentile_vorp: 12
+draft_rating_vorp: -15
 draft_total_bpm: -19762
 draft_total_grade_bpm: F
 draft_total_grade_vorp: F
@@ -21,10 +29,6 @@ draft_total_vorp: -2
 draft_win_list: '<ul>
 
   <li>Drafted Steve Henson with 44th pick but was worth 20th pick.</li>
-
-  <li>Drafted Tito Horford with 39th pick but was worth 47th pick.</li>
-
-  <li>Drafted Frank Kornet with 30th pick but was worth 37th pick.</li>
 
   </ul>'
 end_year: 1992

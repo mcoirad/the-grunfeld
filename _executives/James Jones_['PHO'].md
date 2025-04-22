@@ -1,5 +1,5 @@
 ---
-bpm_rank: 45
+bpm_rank: 44
 draft_bust_list: null
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
@@ -70,10 +70,9 @@ trade_description: 'James Jones ranks in the 56th percentile for trading among e
   in our database. '
 trade_lose_list: '<ul>
 
-  <li>Added Ryan Dunn, Kevin McCullar Jr., future 2nd round pick, future 2nd round
-  pick to PHO.</li>
+  <li>Added Jevon Carter, Kyle Korver to PHO.</li>
 
-  <li>Lost DaRon Holmes to DEN.</li>
+  <li>Lost Josh Jackson, De''Anthony Melton, Robert Woodard to MEM.</li>
 
   </ul>'
 trade_num: 81
@@ -88,7 +87,7 @@ trade_rating_vorp: 0
 trade_total_bpm: 37917
 trade_total_grade_bpm: B+
 trade_total_grade_vorp: B+
-trade_total_percentile_bpm: 78
+trade_total_percentile_bpm: 79
 trade_total_percentile_vorp: 76
 trade_total_vorp: 7
 trade_win_list: '<ul>

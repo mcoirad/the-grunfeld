@@ -4,22 +4,22 @@ draft_bust_list: '<ul>
 
   <li>Drafted Kenny Thomas with 22th pick but was worth 16th pick.</li>
 
-  <li>Drafted Bryce Drew with 16th pick but was worth 46th pick.</li>
+  <li>Drafted Bryce Drew with 16th pick but was worth 48th pick.</li>
 
   <li>Drafted Michael Dickerson with 14th pick but was worth 22th pick.</li>
 
   </ul>'
-draft_description: Carroll Dawson ranks in the 55th percentile for drafting among
+draft_description: Carroll Dawson ranks in the 67th percentile for drafting among
   executives in our database. Dawson's draft picks average out to be worth the equivalent
-  of 2 spots higher than they were picked due to his good drafting.
+  of 1 spot higher than they were picked due to his good drafting.
 draft_num_players: 10
-draft_overall_percentile_vorp: 67
-draft_rating_bpm: -2
-draft_rating_grade_bpm: C
-draft_rating_grade_vorp: C+
-draft_rating_percentile_bpm: 48
-draft_rating_percentile_vorp: 56
-draft_rating_vorp: 2
+draft_overall_percentile_vorp: 73
+draft_rating_bpm: -6
+draft_rating_grade_bpm: C+
+draft_rating_grade_vorp: B
+draft_rating_percentile_bpm: 58
+draft_rating_percentile_vorp: 68
+draft_rating_vorp: 1
 draft_total_bpm: 35423
 draft_total_grade_bpm: B+
 draft_total_grade_vorp: B+
@@ -91,7 +91,7 @@ trade_lose_list: '<ul>
   </ul>'
 trade_num: 110
 trade_overall_percentile_bpm: 96
-trade_overall_percentile_vorp: 92
+trade_overall_percentile_vorp: 93
 trade_rating_bpm: 0
 trade_rating_grade_bpm: A+
 trade_rating_grade_vorp: A
@@ -102,7 +102,7 @@ trade_total_bpm: 199176
 trade_total_grade_bpm: S
 trade_total_grade_vorp: A+
 trade_total_percentile_bpm: 98
-trade_total_percentile_vorp: 93
+trade_total_percentile_vorp: 94
 trade_total_vorp: 35
 trade_win_list: '<ul>
 

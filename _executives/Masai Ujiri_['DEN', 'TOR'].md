@@ -4,22 +4,22 @@ draft_bust_list: '<ul>
 
   <li>Drafted Evan Fournier with 20th pick but was worth 13th pick.</li>
 
-  <li>Drafted Gradey Dick with 13th pick but was worth 52th pick.</li>
+  <li>Drafted Gradey Dick with 13th pick but was worth 54th pick.</li>
 
-  <li>Drafted Malachi Flynn with 29th pick but was worth 47th pick.</li>
+  <li>Drafted Malachi Flynn with 29th pick but was worth 49th pick.</li>
 
   </ul>'
-draft_description: Masai Ujiri ranks in the 69th percentile for drafting among executives
-  in our database. Ujiri's draft picks average out to be worth the equivalent of 4
-  spots higher than they were picked due to his good drafting.
+draft_description: Masai Ujiri ranks in the 73th percentile for drafting among executives
+  in our database. Ujiri's draft picks average out to be worth the equivalent of 1
+  spot higher than they were picked due to his good drafting.
 draft_num_players: 20
-draft_overall_percentile_vorp: 74
-draft_rating_bpm: 5
-draft_rating_grade_bpm: B+
-draft_rating_grade_vorp: B
-draft_rating_percentile_bpm: 75
-draft_rating_percentile_vorp: 70
-draft_rating_vorp: 4
+draft_overall_percentile_vorp: 76
+draft_rating_bpm: 1
+draft_rating_grade_bpm: A-
+draft_rating_grade_vorp: B+
+draft_rating_percentile_bpm: 84
+draft_rating_percentile_vorp: 73
+draft_rating_vorp: 1
 draft_total_bpm: 21777
 draft_total_grade_bpm: B+
 draft_total_grade_vorp: B+
@@ -36,8 +36,8 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: 73833
-final_vorp: 100
+final_bpm: 73223
+final_vorp: 97
 href: ujirima99x
 is_active: true
 name: Masai Ujiri
@@ -98,19 +98,19 @@ trade_lose_list: '<ul>
   </ul>'
 trade_num: 142
 trade_overall_percentile_bpm: 80
-trade_overall_percentile_vorp: 72
+trade_overall_percentile_vorp: 69
 trade_rating_bpm: 0
 trade_rating_grade_bpm: A-
 trade_rating_grade_vorp: B
 trade_rating_percentile_bpm: 83
 trade_rating_percentile_vorp: 71
 trade_rating_vorp: 0
-trade_total_bpm: 35187
+trade_total_bpm: 34577
 trade_total_grade_bpm: B+
-trade_total_grade_vorp: B
-trade_total_percentile_bpm: 77
-trade_total_percentile_vorp: 72
-trade_total_vorp: 4
+trade_total_grade_vorp: B-
+trade_total_percentile_bpm: 76
+trade_total_percentile_vorp: 66
+trade_total_vorp: 1
 trade_win_list: '<ul>
 
   <li>Added Drew Eubanks, Thaddeus Young, Christian Koloko to TOR.</li>

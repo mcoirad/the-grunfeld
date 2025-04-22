@@ -2,22 +2,24 @@
 bpm_rank: 147
 draft_bust_list: '<ul>
 
-  <li>Drafted Austin Rivers with 10th pick but was worth 56th pick.</li>
+  <li>Drafted Austin Rivers with 10th pick but was worth 60th pick.</li>
 
   <li>Drafted Buddy Hield with 6th pick but was worth 6th pick.</li>
 
+  <li>Drafted Darius Miller with 46th pick but was worth 46th pick.</li>
+
   </ul>'
-draft_description: Dell Demps ranks in the 14th percentile for drafting among executives
-  in our database. Demps's draft picks average out to be worth the equivalent of 11
+draft_description: Dell Demps ranks in the 15th percentile for drafting among executives
+  in our database. Demps's draft picks average out to be worth the equivalent of 13
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 4
 draft_overall_percentile_vorp: 42
-draft_rating_bpm: -12
-draft_rating_grade_bpm: F
+draft_rating_bpm: -14
+draft_rating_grade_bpm: D-
 draft_rating_grade_vorp: F
-draft_rating_percentile_bpm: 12
-draft_rating_percentile_vorp: 15
-draft_rating_vorp: -11
+draft_rating_percentile_bpm: 26
+draft_rating_percentile_vorp: 16
+draft_rating_vorp: -13
 draft_total_bpm: 71827
 draft_total_grade_bpm: B
 draft_total_grade_vorp: B

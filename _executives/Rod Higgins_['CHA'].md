@@ -6,20 +6,20 @@ draft_bust_list: '<ul>
 
   <li>Drafted D.J. Augustin with 9th pick but was worth 14th pick.</li>
 
-  <li>Drafted Alexis Ajinça with 20th pick but was worth 47th pick.</li>
+  <li>Drafted Alexis Ajinça with 20th pick but was worth 56th pick.</li>
 
   </ul>'
-draft_description: Rod Higgins ranks in the 27th percentile for drafting among executives
+draft_description: Rod Higgins ranks in the 34th percentile for drafting among executives
   in our database. Higgins's draft picks average out to be worth the equivalent of
-  5 spots lower than they were picked due to their terrible drafting.
+  7 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
-draft_overall_percentile_vorp: 37
-draft_rating_bpm: -10
+draft_overall_percentile_vorp: 40
+draft_rating_bpm: -18
 draft_rating_grade_bpm: F
-draft_rating_grade_vorp: D
-draft_rating_percentile_bpm: 16
-draft_rating_percentile_vorp: 28
-draft_rating_vorp: -5
+draft_rating_grade_vorp: D+
+draft_rating_percentile_bpm: 10
+draft_rating_percentile_vorp: 35
+draft_rating_vorp: -7
 draft_total_bpm: -23935
 draft_total_grade_bpm: C-
 draft_total_grade_vorp: C-
@@ -28,9 +28,9 @@ draft_total_percentile_vorp: 46
 draft_total_vorp: 4
 draft_win_list: '<ul>
 
-  <li>Drafted Derrick Brown with 40th pick but was worth 32th pick.</li>
-
   <li>Drafted Jared Dudley with 22th pick but was worth 7th pick.</li>
+
+  <li>Drafted Derrick Brown with 40th pick but was worth 32th pick.</li>
 
   </ul>'
 end_year: 2011

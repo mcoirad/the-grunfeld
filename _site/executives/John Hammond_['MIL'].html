@@ -272,7 +272,7 @@ updateTexts();
     <div class="col-md-3">
       <h3> Draft Rating:</h3>
       <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text=C- data-bpm-text=C-> C-</h3>
-      <h5 > Draft Pick Efficiency Rating: <span class="stat-text" data-vorp-text=41 data-bpm-text=42><span> 42 </h5>
+      <h5 > Draft Pick Efficiency Rating: <span class="stat-text" data-vorp-text=42 data-bpm-text=47><span> 47 </h5>
       <h5> Draft Total Value Rating: <span class="stat-text" data-vorp-text=90 data-bpm-text=90><span> 90  </h5>
     </div>
     <div class="col-md-9">
@@ -468,7 +468,8 @@ function getStackedChartMappedData(stat) {
       name: d.name,
       draft: parseFloat(d[`draft_${stat}`]),
       expected: parseFloat(d[`expected_${stat}`]),
-      draftPick: d[`draft_pick_${stat}`]
+      draftPick: d[`draft_pick_${stat}`],
+      expectedPick: d[`draft_pick_${stat}`] - d[`draft_grade_${stat}`],
     }))
     .sort((a, b) => b.draft - a.draft);
     console.log(filtered);
@@ -483,7 +484,7 @@ function getStackedChartMappedData(stat) {
     labels.push(d.name);
     draftData.push(d.draft);
     expectedData.push(d.expected);
-    tooltipData.push(`Draft Pick ${d.draftPick}`);
+    tooltipData.push(`Draft Pick ${d.draftPick}, Redraft Pick would be ${d.expectedPick}`);
   }
 
   return { labels, draftData, expectedData, tooltipData };
@@ -502,25 +503,25 @@ function updateExecDraftPlayersChart() {
 
   stackedChart.options.plugins.tooltip.callbacks.label = function(context) {
     const index = context.dataIndex;
-    return `${tooltipData[index]} | Draft Pick ${rawTransactionData[index]['draft_pick_' + currentExecDraftStat]}`;
+    return `${tooltipData[index]}`;
   };
 
   stackedChart.update();
 }
 </script>
 
-      John Hammond ranks in the 41th percentile for drafting among executives in our database. Hammond's draft picks average out to be worth the equivalent of 2 spots lower than they were picked due to their terrible drafting.
+      John Hammond ranks in the 42th percentile for drafting among executives in our database. Hammond's draft picks average out to be worth the equivalent of 5 spots lower than they were picked due to their terrible drafting.
       <h5>Some of their biggest wins:</h5>
       <ul>
 <li>Drafted Giannis Antetokounmpo with 15th pick but was worth 1th pick.</li>
 <li>Drafted Malcolm Brogdon with 36th pick but was worth 7th pick.</li>
-<li>Drafted Jodie Meeks with 41th pick but was worth 19th pick.</li>
+<li>Drafted Doron Lamb with 42th pick but was worth 55th pick.</li>
 </ul>
       <h5>Some of their biggest busts:</h5>
       <ul>
 <li>Drafted Jabari Parker with 2th pick but was worth 21th pick.</li>
-<li>Drafted Joe Alexander with 8th pick but was worth 41th pick.</li>
-<li>Drafted Thon Maker with 10th pick but was worth 30th pick.</li>
+<li>Drafted Joe Alexander with 8th pick but was worth 50th pick.</li>
+<li>Drafted Luc Mbah a Moute with 37th pick but was worth 22th pick.</li>
 </ul>
     </div>
   </div>

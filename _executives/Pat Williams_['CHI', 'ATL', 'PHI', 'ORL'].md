@@ -6,20 +6,20 @@ draft_bust_list: '<ul>
 
   <li>Drafted Terry Catledge with 21th pick but was worth 61th pick.</li>
 
-  <li>Drafted Stanley Roberts with 23th pick but was worth 39th pick.</li>
+  <li>Drafted Earl Cureton with 58th pick but was worth 61th pick.</li>
 
   </ul>'
-draft_description: Pat Williams ranks in the 57th percentile for drafting among executives
+draft_description: Pat Williams ranks in the 48th percentile for drafting among executives
   in our database. Williams's draft picks average out to be worth the equivalent of
-  2 spots higher than they were picked due to his good drafting.
+  3 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 35
-draft_overall_percentile_vorp: 78
-draft_rating_bpm: 2
-draft_rating_grade_bpm: B-
-draft_rating_grade_vorp: C+
-draft_rating_percentile_bpm: 63
-draft_rating_percentile_vorp: 58
-draft_rating_vorp: 2
+draft_overall_percentile_vorp: 74
+draft_rating_bpm: -14
+draft_rating_grade_bpm: D-
+draft_rating_grade_vorp: C
+draft_rating_percentile_bpm: 27
+draft_rating_percentile_vorp: 49
+draft_rating_vorp: -3
 draft_total_bpm: 270288
 draft_total_grade_bpm: S
 draft_total_grade_vorp: S
@@ -109,7 +109,7 @@ trade_total_bpm: 61255
 trade_total_grade_bpm: A-
 trade_total_grade_vorp: C
 trade_total_percentile_bpm: 85
-trade_total_percentile_vorp: 49
+trade_total_percentile_vorp: 48
 trade_total_vorp: -4
 trade_win_list: '<ul>
 

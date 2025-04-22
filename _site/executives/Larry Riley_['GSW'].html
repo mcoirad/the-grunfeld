@@ -271,8 +271,8 @@ updateTexts();
     
     <div class="col-md-3">
       <h3> Draft Rating:</h3>
-      <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text=D+ data-bpm-text=D+> D+</h3>
-      <h5 > Draft Pick Efficiency Rating: <span class="stat-text" data-vorp-text=38 data-bpm-text=36><span> 36 </h5>
+      <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text=C- data-bpm-text=C> C</h3>
+      <h5 > Draft Pick Efficiency Rating: <span class="stat-text" data-vorp-text=45 data-bpm-text=50><span> 50 </h5>
       <h5> Draft Total Value Rating: <span class="stat-text" data-vorp-text=91 data-bpm-text=91><span> 91  </h5>
     </div>
     <div class="col-md-9">
@@ -468,7 +468,8 @@ function getStackedChartMappedData(stat) {
       name: d.name,
       draft: parseFloat(d[`draft_${stat}`]),
       expected: parseFloat(d[`expected_${stat}`]),
-      draftPick: d[`draft_pick_${stat}`]
+      draftPick: d[`draft_pick_${stat}`],
+      expectedPick: d[`draft_pick_${stat}`] - d[`draft_grade_${stat}`],
     }))
     .sort((a, b) => b.draft - a.draft);
     console.log(filtered);
@@ -483,7 +484,7 @@ function getStackedChartMappedData(stat) {
     labels.push(d.name);
     draftData.push(d.draft);
     expectedData.push(d.expected);
-    tooltipData.push(`Draft Pick ${d.draftPick}`);
+    tooltipData.push(`Draft Pick ${d.draftPick}, Redraft Pick would be ${d.expectedPick}`);
   }
 
   return { labels, draftData, expectedData, tooltipData };
@@ -502,18 +503,18 @@ function updateExecDraftPlayersChart() {
 
   stackedChart.options.plugins.tooltip.callbacks.label = function(context) {
     const index = context.dataIndex;
-    return `${tooltipData[index]} | Draft Pick ${rawTransactionData[index]['draft_pick_' + currentExecDraftStat]}`;
+    return `${tooltipData[index]}`;
   };
 
   stackedChart.update();
 }
 </script>
 
-      Larry Riley ranks in the 37th percentile for drafting among executives in our database. Riley's draft picks average out to be worth the equivalent of 3 spots lower than they were picked due to their terrible drafting.
+      Larry Riley ranks in the 44th percentile for drafting among executives in our database. Riley's draft picks average out to be worth the equivalent of 4 spots lower than they were picked due to their terrible drafting.
       <h5>Some of their biggest wins:</h5>
       <ul>
 <li>Drafted Stephen Curry with 7th pick but was worth 2th pick.</li>
-<li>Drafted Charles Jenkins with 44th pick but was worth 48th pick.</li>
+<li>Drafted Charles Jenkins with 44th pick but was worth 54th pick.</li>
 <li>Drafted Klay Thompson with 11th pick but was worth 8th pick.</li>
 </ul>
       <h5>Some of their biggest busts:</h5>

@@ -4,22 +4,22 @@ draft_bust_list: '<ul>
 
   <li>Drafted Scott May with 2th pick but was worth 15th pick.</li>
 
-  <li>Drafted Eddy Curry with 4th pick but was worth 45th pick.</li>
+  <li>Drafted Eddy Curry with 4th pick but was worth 53th pick.</li>
 
   <li>Drafted Elton Brand with 1th pick but was worth 5th pick.</li>
 
   </ul>'
-draft_description: Jerry Krause ranks in the 25th percentile for drafting among executives
+draft_description: Jerry Krause ranks in the 18th percentile for drafting among executives
   in our database. Krause's draft picks average out to be worth the equivalent of
-  6 spots lower than they were picked due to their terrible drafting.
+  12 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 38
-draft_overall_percentile_vorp: 49
-draft_rating_bpm: -3
-draft_rating_grade_bpm: C-
-draft_rating_grade_vorp: D-
-draft_rating_percentile_bpm: 40
-draft_rating_percentile_vorp: 26
-draft_rating_vorp: -6
+draft_overall_percentile_vorp: 45
+draft_rating_bpm: -12
+draft_rating_grade_bpm: D+
+draft_rating_grade_vorp: F
+draft_rating_percentile_bpm: 35
+draft_rating_percentile_vorp: 18
+draft_rating_vorp: -12
 draft_total_bpm: -127665
 draft_total_grade_bpm: B
 draft_total_grade_vorp: B
@@ -32,7 +32,7 @@ draft_win_list: '<ul>
 
   <li>Drafted Horace Grant with 10th pick but was worth 6th pick.</li>
 
-  <li>Drafted Lonny Baxter with 44th pick but was worth 42th pick.</li>
+  <li>Drafted Khalid El-Amin with 34th pick but was worth 30th pick.</li>
 
   </ul>'
 end_year: 2003
@@ -102,7 +102,7 @@ trade_rating_vorp: 0
 trade_total_bpm: 7932
 trade_total_grade_bpm: C+
 trade_total_grade_vorp: D
-trade_total_percentile_bpm: 59
+trade_total_percentile_bpm: 60
 trade_total_percentile_vorp: 28
 trade_total_vorp: -18
 trade_win_list: '<ul>

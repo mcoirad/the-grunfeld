@@ -2,24 +2,24 @@
 bpm_rank: 141
 draft_bust_list: '<ul>
 
-  <li>Drafted Mohamed Bamba with 6th pick but was worth 19th pick.</li>
+  <li>Drafted Mohamed Bamba with 6th pick but was worth 20th pick.</li>
 
   <li>Drafted Jalen Suggs with 5th pick but was worth 15th pick.</li>
 
-  <li>Drafted Wesley Iwundu with 33th pick but was worth 51th pick.</li>
+  <li>Drafted Wesley Iwundu with 33th pick but was worth 54th pick.</li>
 
   </ul>'
-draft_description: Jeff Weltman ranks in the 11th percentile for drafting among executives
+draft_description: Jeff Weltman ranks in the 12th percentile for drafting among executives
   in our database. Weltman's draft picks average out to be worth the equivalent of
-  12 spots lower than they were picked due to their terrible drafting.
+  14 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 14
 draft_overall_percentile_vorp: 38
-draft_rating_bpm: -15
+draft_rating_bpm: -18
 draft_rating_grade_bpm: F
 draft_rating_grade_vorp: F
-draft_rating_percentile_bpm: 8
-draft_rating_percentile_vorp: 12
-draft_rating_vorp: -12
+draft_rating_percentile_bpm: 11
+draft_rating_percentile_vorp: 13
+draft_rating_vorp: -14
 draft_total_bpm: -31604
 draft_total_grade_bpm: B-
 draft_total_grade_vorp: B-
@@ -99,7 +99,7 @@ trade_total_bpm: -12876
 trade_total_grade_bpm: D+
 trade_total_grade_vorp: D-
 trade_total_percentile_bpm: 36
-trade_total_percentile_vorp: 25
+trade_total_percentile_vorp: 26
 trade_total_vorp: -20
 trade_win_list: '<ul>
 

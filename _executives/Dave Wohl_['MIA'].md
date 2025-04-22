@@ -88,7 +88,7 @@ trade_total_bpm: 135753
 trade_total_grade_bpm: A+
 trade_total_grade_vorp: A+
 trade_total_percentile_bpm: 96
-trade_total_percentile_vorp: 94
+trade_total_percentile_vorp: 95
 trade_total_vorp: 36
 trade_win_list: '<ul>
 

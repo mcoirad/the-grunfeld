@@ -1,17 +1,17 @@
 ---
-bpm_rank: 101
+bpm_rank: 100
 draft_bust_list: null
-draft_description: Doug Collins ranks in the 78th percentile for drafting among executives
+draft_description: Doug Collins ranks in the 76th percentile for drafting among executives
   in our database. Collins's draft picks average out to be worth the equivalent of
-  6 spots higher than they were picked due to his good drafting.
+  2 spots higher than they were picked due to his good drafting.
 draft_num_players: 7
-draft_overall_percentile_vorp: 64
-draft_rating_bpm: 9
-draft_rating_grade_bpm: A-
+draft_overall_percentile_vorp: 62
+draft_rating_bpm: 2
+draft_rating_grade_bpm: A
 draft_rating_grade_vorp: B+
-draft_rating_percentile_bpm: 85
-draft_rating_percentile_vorp: 79
-draft_rating_vorp: 6
+draft_rating_percentile_bpm: 87
+draft_rating_percentile_vorp: 76
+draft_rating_vorp: 2
 draft_total_bpm: -4090
 draft_total_grade_bpm: C
 draft_total_grade_vorp: C
@@ -20,9 +20,11 @@ draft_total_percentile_vorp: 48
 draft_total_vorp: 6
 draft_win_list: '<ul>
 
+  <li>Drafted Don Reid with 58th pick but was worth 38th pick.</li>
+
   <li>Drafted Jerome Williams with 26th pick but was worth 14th pick.</li>
 
-  <li>Drafted Lou Roe with 30th pick but was worth 35th pick.</li>
+  <li>Drafted Lou Roe with 30th pick but was worth 43th pick.</li>
 
   </ul>'
 end_year: 1998
@@ -78,7 +80,7 @@ trade_lose_list: '<ul>
   </ul>'
 trade_num: 27
 trade_overall_percentile_bpm: 34
-trade_overall_percentile_vorp: 52
+trade_overall_percentile_vorp: 51
 trade_rating_bpm: 0
 trade_rating_grade_bpm: F
 trade_rating_grade_vorp: C+
@@ -89,7 +91,7 @@ trade_total_bpm: 5793
 trade_total_grade_bpm: C+
 trade_total_grade_vorp: C-
 trade_total_percentile_bpm: 54
-trade_total_percentile_vorp: 47
+trade_total_percentile_vorp: 46
 trade_total_vorp: -4
 trade_win_list: '<ul>
 

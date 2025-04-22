@@ -274,7 +274,7 @@ updateTexts();
     <div class="col-md-3">
       <h3> Draft Rating:</h3>
       <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text=A- data-bpm-text=A> A</h3>
-      <h5 > Draft Pick Efficiency Rating: <span class="stat-text" data-vorp-text=82 data-bpm-text=93><span> 93 </h5>
+      <h5 > Draft Pick Efficiency Rating: <span class="stat-text" data-vorp-text=81 data-bpm-text=93><span> 93 </h5>
       <h5> Draft Total Value Rating: <span class="stat-text" data-vorp-text=65 data-bpm-text=65><span> 65  </h5>
     </div>
     <div class="col-md-9">
@@ -470,7 +470,8 @@ function getStackedChartMappedData(stat) {
       name: d.name,
       draft: parseFloat(d[`draft_${stat}`]),
       expected: parseFloat(d[`expected_${stat}`]),
-      draftPick: d[`draft_pick_${stat}`]
+      draftPick: d[`draft_pick_${stat}`],
+      expectedPick: d[`draft_pick_${stat}`] - d[`draft_grade_${stat}`],
     }))
     .sort((a, b) => b.draft - a.draft);
     console.log(filtered);
@@ -485,7 +486,7 @@ function getStackedChartMappedData(stat) {
     labels.push(d.name);
     draftData.push(d.draft);
     expectedData.push(d.expected);
-    tooltipData.push(`Draft Pick ${d.draftPick}`);
+    tooltipData.push(`Draft Pick ${d.draftPick}, Redraft Pick would be ${d.expectedPick}`);
   }
 
   return { labels, draftData, expectedData, tooltipData };
@@ -504,25 +505,25 @@ function updateExecDraftPlayersChart() {
 
   stackedChart.options.plugins.tooltip.callbacks.label = function(context) {
     const index = context.dataIndex;
-    return `${tooltipData[index]} | Draft Pick ${rawTransactionData[index]['draft_pick_' + currentExecDraftStat]}`;
+    return `${tooltipData[index]}`;
   };
 
   stackedChart.update();
 }
 </script>
 
-      Mitch Kupchak ranks in the 81th percentile for drafting among executives in our database. Kupchak's draft picks average out to be worth the equivalent of 7 spots higher than they were picked due to his good drafting.
+      Mitch Kupchak ranks in the 80th percentile for drafting among executives in our database. Kupchak's draft picks average out to be worth the equivalent of 3 spots higher than they were picked due to his good drafting.
       <h5>Some of their biggest wins:</h5>
       <ul>
 <li>Drafted Marc Gasol with 48th pick but was worth 4th pick.</li>
-<li>Drafted Patrick Beverley with 42th pick but was worth 12th pick.</li>
-<li>Drafted Larry Nance Jr. with 27th pick but was worth 8th pick.</li>
+<li>Drafted Robert Sacre with 60th pick but was worth 56th pick.</li>
+<li>Drafted Derrick Caracter with 58th pick but was worth 52th pick.</li>
 </ul>
       <h5>Some of their biggest busts:</h5>
       <ul>
 <li>Drafted Brandon Ingram with 2th pick but was worth 11th pick.</li>
 <li>Drafted D'Angelo Russell with 2th pick but was worth 5th pick.</li>
-<li>Drafted Sasha Vujačić with 27th pick but was worth 22th pick.</li>
+<li>Drafted Brian Cook with 24th pick but was worth 25th pick.</li>
 </ul>
     </div>
   </div>

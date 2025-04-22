@@ -4,22 +4,22 @@ draft_bust_list: '<ul>
 
   <li>Drafted Richard Hamilton with 7th pick but was worth 14th pick.</li>
 
-  <li>Drafted Jared Jeffries with 11th pick but was worth 43th pick.</li>
+  <li>Drafted Jared Jeffries with 11th pick but was worth 52th pick.</li>
 
-  <li>Drafted Juan Dixon with 17th pick but was worth 30th pick.</li>
+  <li>Drafted Juan Dixon with 17th pick but was worth 39th pick.</li>
 
   </ul>'
-draft_description: Wes Unseld ranks in the 28th percentile for drafting among executives
+draft_description: Wes Unseld ranks in the 23th percentile for drafting among executives
   in our database. Unseld's draft picks average out to be worth the equivalent of
-  5 spots lower than they were picked due to their terrible drafting.
+  10 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 6
-draft_overall_percentile_vorp: 16
-draft_rating_bpm: -8
-draft_rating_grade_bpm: D-
-draft_rating_grade_vorp: D
-draft_rating_percentile_bpm: 22
-draft_rating_percentile_vorp: 28
-draft_rating_vorp: -5
+draft_overall_percentile_vorp: 14
+draft_rating_bpm: -18
+draft_rating_grade_bpm: F
+draft_rating_grade_vorp: D-
+draft_rating_percentile_bpm: 14
+draft_rating_percentile_vorp: 24
+draft_rating_vorp: -10
 draft_total_bpm: -53172
 draft_total_grade_bpm: F
 draft_total_grade_vorp: F
@@ -27,8 +27,6 @@ draft_total_percentile_bpm: 4
 draft_total_percentile_vorp: 4
 draft_total_vorp: -2
 draft_win_list: '<ul>
-
-  <li>Drafted Calvin Booth with 35th pick but was worth 23th pick.</li>
 
   </ul>'
 end_year: 2003
@@ -99,7 +97,7 @@ trade_total_bpm: -104337
 trade_total_grade_bpm: F
 trade_total_grade_vorp: F
 trade_total_percentile_bpm: 10
-trade_total_percentile_vorp: 10
+trade_total_percentile_vorp: 9
 trade_total_vorp: -45
 trade_win_list: '<ul>
 

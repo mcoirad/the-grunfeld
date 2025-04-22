@@ -2,9 +2,11 @@
 bpm_rank: 104
 draft_bust_list: '<ul>
 
-  <li>Drafted Eric Leckner with 17th pick but was worth 58th pick.</li>
+  <li>Drafted Eric Leckner with 17th pick but was worth 61th pick.</li>
 
-  <li>Drafted José Ortiz with 15th pick but was worth 41th pick.</li>
+  <li>Drafted Bart Kofoed with 107th pick but was worth 61th pick.</li>
+
+  <li>Drafted José Ortiz with 15th pick but was worth 61th pick.</li>
 
   </ul>'
 draft_description: This executive has only drafted 3 players and thus doesn't have

@@ -1,25 +1,25 @@
 ---
-bpm_rank: 67
+bpm_rank: 75
 draft_bust_list: '<ul>
 
-  <li>Drafted Davion Mitchell with 9th pick but was worth 56th pick.</li>
+  <li>Drafted Davion Mitchell with 9th pick but was worth 60th pick.</li>
 
   <li>Drafted Keegan Murray with 4th pick but was worth 10th pick.</li>
 
-  <li>Drafted Devin Carter with 13th pick but was worth 25th pick.</li>
+  <li>Drafted Devin Carter with 13th pick but was worth 31th pick.</li>
 
   </ul>'
-draft_description: Monte McNair ranks in the 41th percentile for drafting among executives
+draft_description: Monte McNair ranks in the 46th percentile for drafting among executives
   in our database. McNair's draft picks average out to be worth the equivalent of
-  2 spots lower than they were picked due to their terrible drafting.
+  4 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 8
-draft_overall_percentile_vorp: 42
-draft_rating_bpm: -2
-draft_rating_grade_bpm: C
+draft_overall_percentile_vorp: 45
+draft_rating_bpm: -6
+draft_rating_grade_bpm: B-
 draft_rating_grade_vorp: C-
-draft_rating_percentile_bpm: 50
-draft_rating_percentile_vorp: 41
-draft_rating_vorp: -2
+draft_rating_percentile_bpm: 62
+draft_rating_percentile_vorp: 47
+draft_rating_vorp: -4
 draft_total_bpm: -21576
 draft_total_grade_bpm: C-
 draft_total_grade_vorp: C-
@@ -30,12 +30,12 @@ draft_win_list: '<ul>
 
   <li>Drafted Tyrese Haliburton with 12th pick but was worth 1th pick.</li>
 
-  <li>Drafted Jahmi''us Ramsey with 43th pick but was worth 40th pick.</li>
+  <li>Drafted Jahmi''us Ramsey with 43th pick but was worth 42th pick.</li>
 
   </ul>'
 end_year: 2026
-final_bpm: -3517
-final_vorp: 20
+final_bpm: -6652
+final_vorp: 21
 href: mcnaimo99x
 is_active: true
 name: Monte McNair
@@ -83,9 +83,13 @@ trade_description: 'Monte McNair ranks in the 84th percentile for trading among 
   in our database. '
 trade_lose_list: '<ul>
 
-  <li>Added Tristan Thompson to SAC.</li>
+  <li>Added Zach LaVine, future 2nd round pick, Sidy Cissoko, future 1st round pick,
+  future 2nd round pick, future 1st round pick, future 2nd round pick, future 1st
+  round pick to SAC.</li>
 
-  <li>Lost Delon Wright to ATL.</li>
+  <li>Lost De''Aaron Fox, Jordan McLaughlin to SAS.</li>
+
+  <li>Lost Kevin Huerter to CHI.</li>
 
   </ul>'
 trade_num: 80
@@ -97,12 +101,12 @@ trade_rating_grade_vorp: A-
 trade_rating_percentile_bpm: 54
 trade_rating_percentile_vorp: 85
 trade_rating_vorp: 0
-trade_total_bpm: 39553
+trade_total_bpm: 36418
 trade_total_grade_bpm: B+
 trade_total_grade_vorp: A-
-trade_total_percentile_bpm: 79
+trade_total_percentile_bpm: 78
 trade_total_percentile_vorp: 81
-trade_total_vorp: 10
+trade_total_vorp: 11
 trade_win_list: '<ul>
 
   <li>Added Jalen McDaniels to SAC.</li>

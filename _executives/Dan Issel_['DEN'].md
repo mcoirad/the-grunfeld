@@ -4,20 +4,22 @@ draft_bust_list: '<ul>
 
   <li>Drafted Raef LaFrentz with 3th pick but was worth 11th pick.</li>
 
-  <li>Drafted Francisco Elson with 41th pick but was worth 42th pick.</li>
+  <li>Drafted Francisco Elson with 41th pick but was worth 54th pick.</li>
+
+  <li>Drafted Chris Herren with 33th pick but was worth 50th pick.</li>
 
   </ul>'
-draft_description: Dan Issel ranks in the 88th percentile for drafting among executives
-  in our database. Issel's draft picks average out to be worth the equivalent of 10
+draft_description: Dan Issel ranks in the 86th percentile for drafting among executives
+  in our database. Issel's draft picks average out to be worth the equivalent of 4
   spots higher than they were picked due to his good drafting.
 draft_num_players: 6
-draft_overall_percentile_vorp: 71
-draft_rating_bpm: 12
+draft_overall_percentile_vorp: 70
+draft_rating_bpm: 6
 draft_rating_grade_bpm: A+
-draft_rating_grade_vorp: A
+draft_rating_grade_vorp: A-
 draft_rating_percentile_bpm: 94
-draft_rating_percentile_vorp: 89
-draft_rating_vorp: 10
+draft_rating_percentile_vorp: 86
+draft_rating_vorp: 4
 draft_total_bpm: -4641
 draft_total_grade_bpm: C+
 draft_total_grade_vorp: C+
@@ -27,8 +29,6 @@ draft_total_vorp: 10
 draft_win_list: '<ul>
 
   <li>Drafted James Posey with 18th pick but was worth 11th pick.</li>
-
-  <li>Drafted Chris Herren with 33th pick but was worth 38th pick.</li>
 
   </ul>'
 end_year: 2001

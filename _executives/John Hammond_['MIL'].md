@@ -4,22 +4,22 @@ draft_bust_list: '<ul>
 
   <li>Drafted Jabari Parker with 2th pick but was worth 21th pick.</li>
 
-  <li>Drafted Joe Alexander with 8th pick but was worth 41th pick.</li>
+  <li>Drafted Joe Alexander with 8th pick but was worth 50th pick.</li>
 
-  <li>Drafted Thon Maker with 10th pick but was worth 30th pick.</li>
+  <li>Drafted Luc Mbah a Moute with 37th pick but was worth 22th pick.</li>
 
   </ul>'
-draft_description: John Hammond ranks in the 41th percentile for drafting among executives
+draft_description: John Hammond ranks in the 42th percentile for drafting among executives
   in our database. Hammond's draft picks average out to be worth the equivalent of
-  2 spots lower than they were picked due to their terrible drafting.
+  5 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 16
-draft_overall_percentile_vorp: 65
-draft_rating_bpm: -3
+draft_overall_percentile_vorp: 66
+draft_rating_bpm: -9
 draft_rating_grade_bpm: C-
 draft_rating_grade_vorp: C-
-draft_rating_percentile_bpm: 42
-draft_rating_percentile_vorp: 41
-draft_rating_vorp: -2
+draft_rating_percentile_bpm: 47
+draft_rating_percentile_vorp: 42
+draft_rating_vorp: -5
 draft_total_bpm: 150313
 draft_total_grade_bpm: A
 draft_total_grade_vorp: A
@@ -32,7 +32,7 @@ draft_win_list: '<ul>
 
   <li>Drafted Malcolm Brogdon with 36th pick but was worth 7th pick.</li>
 
-  <li>Drafted Jodie Meeks with 41th pick but was worth 19th pick.</li>
+  <li>Drafted Doron Lamb with 42th pick but was worth 55th pick.</li>
 
   </ul>'
 end_year: 2017
@@ -103,7 +103,7 @@ trade_total_bpm: -11823
 trade_total_grade_bpm: D+
 trade_total_grade_vorp: D-
 trade_total_percentile_bpm: 38
-trade_total_percentile_vorp: 24
+trade_total_percentile_vorp: 23
 trade_total_vorp: -24
 trade_win_list: '<ul>
 

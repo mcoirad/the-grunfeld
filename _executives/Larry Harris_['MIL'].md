@@ -1,25 +1,23 @@
 ---
-bpm_rank: 100
+bpm_rank: 99
 draft_bust_list: '<ul>
 
   <li>Drafted Andrew Bogut with 1th pick but was worth 6th pick.</li>
 
-  <li>Drafted Yi Jianlian with 6th pick but was worth 49th pick.</li>
-
-  <li>Drafted Ramon Sessions with 56th pick but was worth 11th pick.</li>
+  <li>Drafted Yi Jianlian with 6th pick but was worth 60th pick.</li>
 
   </ul>'
-draft_description: Larry Harris ranks in the 76th percentile for drafting among executives
+draft_description: Larry Harris ranks in the 75th percentile for drafting among executives
   in our database. Harris's draft picks average out to be worth the equivalent of
-  5 spots higher than they were picked due to his good drafting.
+  2 spots higher than they were picked due to his good drafting.
 draft_num_players: 5
-draft_overall_percentile_vorp: 69
-draft_rating_bpm: 2
+draft_overall_percentile_vorp: 68
+draft_rating_bpm: -5
 draft_rating_grade_bpm: B-
 draft_rating_grade_vorp: B+
-draft_rating_percentile_bpm: 64
-draft_rating_percentile_vorp: 76
-draft_rating_vorp: 5
+draft_rating_percentile_bpm: 63
+draft_rating_percentile_vorp: 75
+draft_rating_vorp: 2
 draft_total_bpm: 5614
 draft_total_grade_bpm: B-
 draft_total_grade_vorp: B-
@@ -28,7 +26,9 @@ draft_total_percentile_vorp: 61
 draft_total_vorp: 17
 draft_win_list: '<ul>
 
-  <li>Drafted David Noel with 39th pick but was worth 32th pick.</li>
+  <li>Drafted Ramon Sessions with 56th pick but was worth 11th pick.</li>
+
+  <li>Drafted David Noel with 39th pick but was worth 39th pick.</li>
 
   </ul>'
 end_year: 2008
@@ -97,7 +97,7 @@ trade_rating_percentile_vorp: 94
 trade_rating_vorp: 0
 trade_total_bpm: 13523
 trade_total_grade_bpm: B-
-trade_total_grade_vorp: B
+trade_total_grade_vorp: B+
 trade_total_percentile_bpm: 65
 trade_total_percentile_vorp: 73
 trade_total_vorp: 4

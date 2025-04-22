@@ -468,7 +468,8 @@ function getStackedChartMappedData(stat) {
       name: d.name,
       draft: parseFloat(d[`draft_${stat}`]),
       expected: parseFloat(d[`expected_${stat}`]),
-      draftPick: d[`draft_pick_${stat}`]
+      draftPick: d[`draft_pick_${stat}`],
+      expectedPick: d[`draft_pick_${stat}`] - d[`draft_grade_${stat}`],
     }))
     .sort((a, b) => b.draft - a.draft);
     console.log(filtered);
@@ -483,7 +484,7 @@ function getStackedChartMappedData(stat) {
     labels.push(d.name);
     draftData.push(d.draft);
     expectedData.push(d.expected);
-    tooltipData.push(`Draft Pick ${d.draftPick}`);
+    tooltipData.push(`Draft Pick ${d.draftPick}, Redraft Pick would be ${d.expectedPick}`);
   }
 
   return { labels, draftData, expectedData, tooltipData };
@@ -502,7 +503,7 @@ function updateExecDraftPlayersChart() {
 
   stackedChart.options.plugins.tooltip.callbacks.label = function(context) {
     const index = context.dataIndex;
-    return `${tooltipData[index]} | Draft Pick ${rawTransactionData[index]['draft_pick_' + currentExecDraftStat]}`;
+    return `${tooltipData[index]}`;
   };
 
   stackedChart.update();
@@ -536,8 +537,8 @@ function updateExecDraftPlayersChart() {
 </ul>
       <h5>Their biggest L:</h5>
       <ul>
-<li>Added Ryan Dunn, Kevin McCullar Jr., future 2nd round pick, future 2nd round pick to PHO.</li>
-<li>Lost DaRon Holmes to DEN.</li>
+<li>Added Jevon Carter, Kyle Korver to PHO.</li>
+<li>Lost Josh Jackson, De'Anthony Melton, Robert Woodard to MEM.</li>
 </ul>
     </div>
   </div>

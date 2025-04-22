@@ -2,24 +2,24 @@
 bpm_rank: 135
 draft_bust_list: '<ul>
 
-  <li>Drafted Killian Hayes with 7th pick but was worth 58th pick.</li>
+  <li>Drafted Killian Hayes with 7th pick but was worth 60th pick.</li>
 
-  <li>Drafted Jaden Ivey with 5th pick but was worth 42th pick.</li>
+  <li>Drafted Jaden Ivey with 5th pick but was worth 49th pick.</li>
 
   <li>Drafted Cade Cunningham with 1th pick but was worth 7th pick.</li>
 
   </ul>'
-draft_description: Troy Weaver ranks in the 5th percentile for drafting among executives
+draft_description: Troy Weaver ranks in the 8th percentile for drafting among executives
   in our database. Weaver's draft picks average out to be worth the equivalent of
-  14 spots lower than they were picked due to their terrible drafting.
+  16 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 6
-draft_overall_percentile_vorp: 23
-draft_rating_bpm: -15
+draft_overall_percentile_vorp: 25
+draft_rating_bpm: -18
 draft_rating_grade_bpm: F
 draft_rating_grade_vorp: F
-draft_rating_percentile_bpm: 7
-draft_rating_percentile_vorp: 6
-draft_rating_vorp: -14
+draft_rating_percentile_bpm: 9
+draft_rating_percentile_vorp: 8
+draft_rating_vorp: -16
 draft_total_bpm: -38880
 draft_total_grade_bpm: C-
 draft_total_grade_vorp: C-

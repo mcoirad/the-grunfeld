@@ -1,5 +1,5 @@
 ---
-bpm_rank: 43
+bpm_rank: 45
 draft_bust_list: null
 draft_description: This executive has only drafted 2 players and thus doesn't have
   a draft grade.
@@ -21,8 +21,8 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: 29523
-final_vorp: -2
+final_bpm: 23683
+final_vorp: 1
 href: dunlemi02x
 is_active: true
 name: Mike Dunleavy
@@ -76,20 +76,20 @@ trade_lose_list: '<ul>
 
   </ul>'
 trade_num: 28
-trade_overall_percentile_bpm: 83
-trade_overall_percentile_vorp: 67
+trade_overall_percentile_bpm: 82
+trade_overall_percentile_vorp: 68
 trade_rating_bpm: 0
 trade_rating_grade_bpm: A+
 trade_rating_grade_vorp: S
 trade_rating_percentile_bpm: 96
 trade_rating_percentile_vorp: 97
 trade_rating_vorp: 0
-trade_total_bpm: 24331
+trade_total_bpm: 18490
 trade_total_grade_bpm: B
 trade_total_grade_vorp: D+
-trade_total_percentile_bpm: 71
-trade_total_percentile_vorp: 36
-trade_total_vorp: -10
+trade_total_percentile_bpm: 68
+trade_total_percentile_vorp: 39
+trade_total_vorp: -8
 trade_win_list: '<ul>
 
   <li>Added Chris Paul to GSW.</li>

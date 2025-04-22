@@ -4,22 +4,22 @@ draft_bust_list: '<ul>
 
   <li>Drafted Juwan Howard with 5th pick but was worth 15th pick.</li>
 
-  <li>Drafted Calbert Cheaney with 6th pick but was worth 42th pick.</li>
+  <li>Drafted Calbert Cheaney with 6th pick but was worth 53th pick.</li>
 
-  <li>Drafted Sebastian Telfair with 13th pick but was worth 46th pick.</li>
+  <li>Drafted Sebastian Telfair with 13th pick but was worth 59th pick.</li>
 
   </ul>'
-draft_description: John Nash ranks in the 6th percentile for drafting among executives
-  in our database. Nash's draft picks average out to be worth the equivalent of 13
+draft_description: John Nash ranks in the 2th percentile for drafting among executives
+  in our database. Nash's draft picks average out to be worth the equivalent of 21
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 10
-draft_overall_percentile_vorp: 6
-draft_rating_bpm: -14
-draft_rating_grade_bpm: F
-draft_rating_grade_vorp: F
-draft_rating_percentile_bpm: 9
-draft_rating_percentile_vorp: 6
-draft_rating_vorp: -13
+draft_overall_percentile_vorp: 4
+draft_rating_bpm: -28
+draft_rating_grade_bpm: F-
+draft_rating_grade_vorp: F-
+draft_rating_percentile_bpm: 2
+draft_rating_percentile_vorp: 3
+draft_rating_vorp: -21
 draft_total_bpm: -62337
 draft_total_grade_bpm: F
 draft_total_grade_vorp: F
@@ -28,11 +28,7 @@ draft_total_percentile_vorp: 5
 draft_total_vorp: -2
 draft_win_list: '<ul>
 
-  <li>Drafted Ha Seung-Jin with 46th pick but was worth 35th pick.</li>
-
-  <li>Drafted Evan Eschmeyer with 34th pick but was worth 37th pick.</li>
-
-  <li>Drafted Sergei Monia with 23th pick but was worth 32th pick.</li>
+  <li>Drafted Ha Seung-Jin with 46th pick but was worth 48th pick.</li>
 
   </ul>'
 end_year: 2006
@@ -107,7 +103,7 @@ trade_rating_percentile_vorp: 82
 trade_rating_vorp: 0
 trade_total_bpm: 5220
 trade_total_grade_bpm: C+
-trade_total_grade_vorp: D+
+trade_total_grade_vorp: C-
 trade_total_percentile_bpm: 53
 trade_total_percentile_vorp: 40
 trade_total_vorp: -7

@@ -1,25 +1,25 @@
 ---
-bpm_rank: 80
+bpm_rank: 66
 draft_bust_list: '<ul>
 
-  <li>Drafted Max Christie with 35th pick but was worth 40th pick.</li>
+  <li>Drafted Max Christie with 35th pick but was worth 46th pick.</li>
 
-  <li>Drafted Jalen Hood-Schifino with 17th pick but was worth 44th pick.</li>
+  <li>Drafted Jalen Hood-Schifino with 17th pick but was worth 48th pick.</li>
 
-  <li>Drafted Dalton Knecht with 17th pick but was worth 16th pick.</li>
+  <li>Drafted Dalton Knecht with 17th pick but was worth 9th pick.</li>
 
   </ul>'
-draft_description: Rob Pelinka ranks in the 60th percentile for drafting among executives
+draft_description: Rob Pelinka ranks in the 71th percentile for drafting among executives
   in our database. Pelinka's draft picks average out to be worth the equivalent of
-  3 spots higher than they were picked due to his good drafting.
+  1 spot higher than they were picked due to his good drafting.
 draft_num_players: 6
-draft_overall_percentile_vorp: 34
-draft_rating_bpm: 1
-draft_rating_grade_bpm: C+
-draft_rating_grade_vorp: B-
-draft_rating_percentile_bpm: 59
-draft_rating_percentile_vorp: 61
-draft_rating_vorp: 3
+draft_overall_percentile_vorp: 39
+draft_rating_bpm: -6
+draft_rating_grade_bpm: B-
+draft_rating_grade_vorp: B
+draft_rating_percentile_bpm: 61
+draft_rating_percentile_vorp: 72
+draft_rating_vorp: 1
 draft_total_bpm: -16610
 draft_total_grade_bpm: F
 draft_total_grade_vorp: F
@@ -30,8 +30,8 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: -14216
-final_vorp: 6
+final_bpm: -1242
+final_vorp: 11
 href: pelinro99x
 is_active: true
 name: Rob Pelinka
@@ -85,28 +85,26 @@ trade_lose_list: '<ul>
 
   </ul>'
 trade_num: 67
-trade_overall_percentile_bpm: 61
-trade_overall_percentile_vorp: 17
+trade_overall_percentile_bpm: 63
+trade_overall_percentile_vorp: 19
 trade_rating_bpm: 0
 trade_rating_grade_bpm: C
 trade_rating_grade_vorp: F
 trade_rating_percentile_bpm: 51
 trade_rating_percentile_vorp: 14
 trade_rating_vorp: 0
-trade_total_bpm: 21301
-trade_total_grade_bpm: B
+trade_total_bpm: 34275
+trade_total_grade_bpm: B+
 trade_total_grade_vorp: D-
-trade_total_percentile_bpm: 70
-trade_total_percentile_vorp: 20
-trade_total_vorp: -28
+trade_total_percentile_bpm: 75
+trade_total_percentile_vorp: 24
+trade_total_vorp: -23
 trade_win_list: '<ul>
 
-  <li>Added Anthony Davis to LAL.</li>
+  <li>Added Dorian Finney-Smith, Shake Milton to LAL.</li>
 
-  <li>Lost Isaac Bonga, Jemerrio Jones, Moritz Wagner, Kennedy Chandler to WAS.</li>
-
-  <li>Lost Lonzo Ball, Josh Hart, De''Andre Hunter, Brandon Ingram, Dyson Daniels
-  to NOP.</li>
+  <li>Lost Maxwell Lewis, D''Angelo Russell, future 2nd round pick, future 2nd round
+  pick, future 2nd round pick to BRK.</li>
 
   </ul>'
 ---

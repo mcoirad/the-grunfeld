@@ -9,17 +9,17 @@ draft_bust_list: '<ul>
   <li>Drafted Vin Baker with 8th pick but was worth 13th pick.</li>
 
   </ul>'
-draft_description: Mike Dunleavy ranks in the 26th percentile for drafting among executives
+draft_description: Mike Dunleavy ranks in the 31th percentile for drafting among executives
   in our database. Dunleavy's draft picks average out to be worth the equivalent of
-  6 spots lower than they were picked due to their terrible drafting.
+  8 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 7
-draft_overall_percentile_vorp: 54
-draft_rating_bpm: -9
-draft_rating_grade_bpm: F
-draft_rating_grade_vorp: D-
-draft_rating_percentile_bpm: 19
-draft_rating_percentile_vorp: 27
-draft_rating_vorp: -6
+draft_overall_percentile_vorp: 56
+draft_rating_bpm: -15
+draft_rating_grade_bpm: D-
+draft_rating_grade_vorp: D
+draft_rating_percentile_bpm: 20
+draft_rating_percentile_vorp: 31
+draft_rating_vorp: -8
 draft_total_bpm: 54731
 draft_total_grade_bpm: A-
 draft_total_grade_vorp: A-

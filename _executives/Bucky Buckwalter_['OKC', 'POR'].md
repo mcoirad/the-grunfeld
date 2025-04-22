@@ -2,24 +2,24 @@
 bpm_rank: 39
 draft_bust_list: '<ul>
 
-  <li>Drafted Mark Bryant with 21th pick but was worth 57th pick.</li>
+  <li>Drafted Mark Bryant with 21th pick but was worth 61th pick.</li>
 
-  <li>Drafted Alaa Abdelnaby with 25th pick but was worth 44th pick.</li>
+  <li>Drafted Alaa Abdelnaby with 25th pick but was worth 46th pick.</li>
 
-  <li>Drafted Ronnie Murphy with 17th pick but was worth 37th pick.</li>
+  <li>Drafted Dave Johnson with 26th pick but was worth 46th pick.</li>
 
   </ul>'
-draft_description: Bucky Buckwalter ranks in the 70th percentile for drafting among
+draft_description: Bucky Buckwalter ranks in the 49th percentile for drafting among
   executives in our database. Buckwalter's draft picks average out to be worth the
-  equivalent of 4 spots higher than they were picked due to his good drafting.
+  equivalent of 3 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 14
-draft_overall_percentile_vorp: 71
-draft_rating_bpm: 10
-draft_rating_grade_bpm: A
-draft_rating_grade_vorp: B
-draft_rating_percentile_bpm: 90
-draft_rating_percentile_vorp: 71
-draft_rating_vorp: 4
+draft_overall_percentile_vorp: 60
+draft_rating_bpm: 0
+draft_rating_grade_bpm: A-
+draft_rating_grade_vorp: C
+draft_rating_percentile_bpm: 81
+draft_rating_percentile_vorp: 50
+draft_rating_vorp: -3
 draft_total_bpm: 39033
 draft_total_grade_bpm: B
 draft_total_grade_vorp: B
@@ -32,7 +32,7 @@ draft_win_list: '<ul>
 
   <li>Drafted Clifford Robinson with 36th pick but was worth 4th pick.</li>
 
-  <li>Drafted Reggie Smith with 31th pick but was worth 35th pick.</li>
+  <li>Drafted Reggie Smith with 31th pick but was worth 41th pick.</li>
 
   </ul>'
 end_year: 1992
@@ -94,7 +94,7 @@ trade_lose_list: '<ul>
   </ul>'
 trade_num: 39
 trade_overall_percentile_bpm: 61
-trade_overall_percentile_vorp: 61
+trade_overall_percentile_vorp: 60
 trade_rating_bpm: 0
 trade_rating_grade_bpm: A
 trade_rating_grade_vorp: B+
@@ -105,7 +105,7 @@ trade_total_bpm: -15651
 trade_total_grade_bpm: D
 trade_total_grade_vorp: C-
 trade_total_percentile_bpm: 32
-trade_total_percentile_vorp: 44
+trade_total_percentile_vorp: 43
 trade_total_vorp: -6
 trade_win_list: '<ul>
 

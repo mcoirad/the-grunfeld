@@ -272,7 +272,7 @@ updateTexts();
     <div class="col-md-3">
       <h3> Draft Rating:</h3>
       <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text=F data-bpm-text=F> F</h3>
-      <h5 > Draft Pick Efficiency Rating: <span class="stat-text" data-vorp-text=7 data-bpm-text=4><span> 4 </h5>
+      <h5 > Draft Pick Efficiency Rating: <span class="stat-text" data-vorp-text=14 data-bpm-text=7><span> 7 </h5>
       <h5> Draft Total Value Rating: <span class="stat-text" data-vorp-text=13 data-bpm-text=13><span> 13  </h5>
     </div>
     <div class="col-md-9">
@@ -468,7 +468,8 @@ function getStackedChartMappedData(stat) {
       name: d.name,
       draft: parseFloat(d[`draft_${stat}`]),
       expected: parseFloat(d[`expected_${stat}`]),
-      draftPick: d[`draft_pick_${stat}`]
+      draftPick: d[`draft_pick_${stat}`],
+      expectedPick: d[`draft_pick_${stat}`] - d[`draft_grade_${stat}`],
     }))
     .sort((a, b) => b.draft - a.draft);
     console.log(filtered);
@@ -483,7 +484,7 @@ function getStackedChartMappedData(stat) {
     labels.push(d.name);
     draftData.push(d.draft);
     expectedData.push(d.expected);
-    tooltipData.push(`Draft Pick ${d.draftPick}`);
+    tooltipData.push(`Draft Pick ${d.draftPick}, Redraft Pick would be ${d.expectedPick}`);
   }
 
   return { labels, draftData, expectedData, tooltipData };
@@ -502,22 +503,22 @@ function updateExecDraftPlayersChart() {
 
   stackedChart.options.plugins.tooltip.callbacks.label = function(context) {
     const index = context.dataIndex;
-    return `${tooltipData[index]} | Draft Pick ${rawTransactionData[index]['draft_pick_' + currentExecDraftStat]}`;
+    return `${tooltipData[index]}`;
   };
 
   stackedChart.update();
 }
 </script>
 
-      Artūras Karnišovas ranks in the 7th percentile for drafting among executives in our database. Karnišovas's draft picks average out to be worth the equivalent of 13 spots lower than they were picked due to their terrible drafting.
+      Artūras Karnišovas ranks in the 13th percentile for drafting among executives in our database. Karnišovas's draft picks average out to be worth the equivalent of 14 spots lower than they were picked due to their terrible drafting.
       <h5>Some of their biggest wins:</h5>
       <ul>
 </ul>
       <h5>Some of their biggest busts:</h5>
       <ul>
-<li>Drafted Patrick Williams with 4th pick but was worth 47th pick.</li>
-<li>Drafted Ayo Dosunmu with 38th pick but was worth 24th pick.</li>
-<li>Drafted Dalen Terry with 18th pick but was worth 34th pick.</li>
+<li>Drafted Patrick Williams with 4th pick but was worth 49th pick.</li>
+<li>Drafted Ayo Dosunmu with 38th pick but was worth 23th pick.</li>
+<li>Drafted Dalen Terry with 18th pick but was worth 41th pick.</li>
 </ul>
     </div>
   </div>
@@ -539,8 +540,9 @@ function updateExecDraftPlayersChart() {
 </ul>
       <h5>Their biggest L:</h5>
       <ul>
-<li>Added Chris Duarte, future 2nd round pick, future 2nd round pick to CHI.</li>
-<li>Lost DeMar DeRozan to SAC.</li>
+<li>Added Javonte Green, Daniel Theis, Troy Brown Jr. to CHI.</li>
+<li>Lost Daniel Gafford, Chandler Hutchison to WAS.</li>
+<li>Lost Luke Kornet to BOS.</li>
 </ul>
     </div>
   </div>

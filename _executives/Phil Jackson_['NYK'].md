@@ -21,8 +21,6 @@ draft_win_list: '<ul>
 
   <li>Drafted Kristaps Porziņģis with 4th pick but was worth 2th pick.</li>
 
-  <li>Drafted Cleanthony Early with 34th pick but was worth 46th pick.</li>
-
   </ul>'
 end_year: 2017
 final_bpm: -54733
@@ -93,7 +91,7 @@ trade_total_bpm: 707
 trade_total_grade_bpm: C
 trade_total_grade_vorp: C-
 trade_total_percentile_bpm: 49
-trade_total_percentile_vorp: 45
+trade_total_percentile_vorp: 44
 trade_total_vorp: -5
 trade_win_list: '<ul>
 

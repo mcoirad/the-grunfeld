@@ -1,17 +1,17 @@
 ---
 bpm_rank: 34
 draft_bust_list: null
-draft_description: Otis Smith ranks in the 83th percentile for drafting among executives
-  in our database. Smith's draft picks average out to be worth the equivalent of 8
+draft_description: Otis Smith ranks in the 85th percentile for drafting among executives
+  in our database. Smith's draft picks average out to be worth the equivalent of 4
   spots higher than they were picked due to his good drafting.
 draft_num_players: 6
-draft_overall_percentile_vorp: 66
-draft_rating_bpm: 10
-draft_rating_grade_bpm: A-
+draft_overall_percentile_vorp: 67
+draft_rating_bpm: 4
+draft_rating_grade_bpm: A
 draft_rating_grade_vorp: A-
-draft_rating_percentile_bpm: 86
-draft_rating_percentile_vorp: 83
-draft_rating_vorp: 8
+draft_rating_percentile_bpm: 90
+draft_rating_percentile_vorp: 85
+draft_rating_vorp: 4
 draft_total_bpm: 4214
 draft_total_grade_bpm: C
 draft_total_grade_vorp: C

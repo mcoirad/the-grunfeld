@@ -4,22 +4,22 @@ draft_bust_list: '<ul>
 
   <li>Drafted Emeka Okafor with 2th pick but was worth 17th pick.</li>
 
-  <li>Drafted Adam Morrison with 3th pick but was worth 51th pick.</li>
+  <li>Drafted Adam Morrison with 3th pick but was worth 59th pick.</li>
 
   <li>Drafted Raymond Felton with 5th pick but was worth 11th pick.</li>
 
   </ul>'
-draft_description: Bernie Bickerstaff ranks in the 22th percentile for drafting among
+draft_description: Bernie Bickerstaff ranks in the 25th percentile for drafting among
   executives in our database. Bickerstaff's draft picks average out to be worth the
-  equivalent of 6 spots lower than they were picked due to their terrible drafting.
+  equivalent of 10 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 14
-draft_overall_percentile_vorp: 47
-draft_rating_bpm: -16
+draft_overall_percentile_vorp: 49
+draft_rating_bpm: -24
 draft_rating_grade_bpm: F
 draft_rating_grade_vorp: D-
 draft_rating_percentile_bpm: 6
-draft_rating_percentile_vorp: 22
-draft_rating_vorp: -6
+draft_rating_percentile_vorp: 26
+draft_rating_vorp: -10
 draft_total_bpm: -42275
 draft_total_grade_bpm: B
 draft_total_grade_vorp: B
@@ -28,11 +28,11 @@ draft_total_percentile_vorp: 72
 draft_total_vorp: 31
 draft_win_list: '<ul>
 
-  <li>Drafted Robert Werdann with 46th pick but was worth 35th pick.</li>
-
   <li>Drafted Dikembe Mutombo with 4th pick but was worth 1th pick.</li>
 
-  <li>Drafted Bernard Robinson with 45th pick but was worth 26th pick.</li>
+  <li>Drafted Robert Werdann with 46th pick but was worth 41th pick.</li>
+
+  <li>Drafted Bernard Robinson with 45th pick but was worth 33th pick.</li>
 
   </ul>'
 end_year: 2007
@@ -104,7 +104,7 @@ trade_rating_vorp: 0
 trade_total_bpm: 8167
 trade_total_grade_bpm: B-
 trade_total_grade_vorp: D+
-trade_total_percentile_bpm: 60
+trade_total_percentile_bpm: 61
 trade_total_percentile_vorp: 34
 trade_total_vorp: -12
 trade_win_list: '<ul>

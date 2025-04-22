@@ -2,24 +2,24 @@
 bpm_rank: 124
 draft_bust_list: '<ul>
 
-  <li>Drafted Jacque Vaughn with 27th pick but was worth 46th pick.</li>
+  <li>Drafted Jacque Vaughn with 27th pick but was worth 56th pick.</li>
 
   <li>Drafted Blue Edwards with 21th pick but was worth 18th pick.</li>
 
-  <li>Drafted Shandon Anderson with 54th pick but was worth 17th pick.</li>
+  <li>Drafted Mike Sweetney with 9th pick but was worth 49th pick.</li>
 
   </ul>'
-draft_description: Scott Layden ranks in the 84th percentile for drafting among executives
+draft_description: Scott Layden ranks in the 82th percentile for drafting among executives
   in our database. Layden's draft picks average out to be worth the equivalent of
-  8 spots higher than they were picked due to his good drafting.
+  4 spots higher than they were picked due to his good drafting.
 draft_num_players: 12
-draft_overall_percentile_vorp: 72
-draft_rating_bpm: 7
+draft_overall_percentile_vorp: 71
+draft_rating_bpm: 0
 draft_rating_grade_bpm: B+
 draft_rating_grade_vorp: A-
 draft_rating_percentile_bpm: 79
-draft_rating_percentile_vorp: 84
-draft_rating_vorp: 8
+draft_rating_percentile_vorp: 83
+draft_rating_vorp: 4
 draft_total_bpm: -33903
 draft_total_grade_bpm: B-
 draft_total_grade_vorp: B-
@@ -28,9 +28,11 @@ draft_total_percentile_vorp: 60
 draft_total_vorp: 16
 draft_win_list: '<ul>
 
-  <li>Drafted Lavor Postell with 39th pick but was worth 30th pick.</li>
-
   <li>Drafted Bryon Russell with 45th pick but was worth 7th pick.</li>
+
+  <li>Drafted Jamie Watson with 47th pick but was worth 24th pick.</li>
+
+  <li>Drafted Shandon Anderson with 54th pick but was worth 17th pick.</li>
 
   </ul>'
 end_year: 2019

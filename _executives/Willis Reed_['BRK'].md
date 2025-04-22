@@ -6,20 +6,20 @@ draft_bust_list: '<ul>
 
   <li>Drafted Kenny Anderson with 2th pick but was worth 5th pick.</li>
 
-  <li>Drafted Rex Walters with 16th pick but was worth 23th pick.</li>
+  <li>Drafted Rex Walters with 16th pick but was worth 28th pick.</li>
 
   </ul>'
-draft_description: Willis Reed ranks in the 16th percentile for drafting among executives
-  in our database. Reed's draft picks average out to be worth the equivalent of 9
+draft_description: Willis Reed ranks in the 17th percentile for drafting among executives
+  in our database. Reed's draft picks average out to be worth the equivalent of 13
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 7
 draft_overall_percentile_vorp: 42
-draft_rating_bpm: -6
-draft_rating_grade_bpm: D
+draft_rating_bpm: -11
+draft_rating_grade_bpm: D+
 draft_rating_grade_vorp: F
-draft_rating_percentile_bpm: 30
+draft_rating_percentile_bpm: 38
 draft_rating_percentile_vorp: 17
-draft_rating_vorp: -9
+draft_rating_vorp: -13
 draft_total_bpm: 25353
 draft_total_grade_bpm: B
 draft_total_grade_vorp: B

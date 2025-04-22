@@ -4,22 +4,22 @@ draft_bust_list: '<ul>
 
   <li>Drafted DeSagana Diop with 8th pick but was worth 21th pick.</li>
 
-  <li>Drafted Dajuan Wagner with 6th pick but was worth 45th pick.</li>
+  <li>Drafted Jason Kapono with 31th pick but was worth 54th pick.</li>
 
-  <li>Drafted Trajan Langdon with 11th pick but was worth 21th pick.</li>
+  <li>Drafted Dajuan Wagner with 6th pick but was worth 54th pick.</li>
 
   </ul>'
-draft_description: Jim Paxson ranks in the 34th percentile for drafting among executives
+draft_description: Jim Paxson ranks in the 33th percentile for drafting among executives
   in our database. Paxson's draft picks average out to be worth the equivalent of
-  4 spots lower than they were picked due to their terrible drafting.
+  8 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 11
-draft_overall_percentile_vorp: 64
-draft_rating_bpm: -4
+draft_overall_percentile_vorp: 63
+draft_rating_bpm: -11
 draft_rating_grade_bpm: D+
 draft_rating_grade_vorp: D+
-draft_rating_percentile_bpm: 38
-draft_rating_percentile_vorp: 35
-draft_rating_vorp: -4
+draft_rating_percentile_bpm: 39
+draft_rating_percentile_vorp: 33
+draft_rating_vorp: -8
 draft_total_bpm: 292794
 draft_total_grade_bpm: A
 draft_total_grade_vorp: A

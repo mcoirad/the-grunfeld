@@ -1,10 +1,12 @@
 ---
-bpm_rank: 113
+bpm_rank: 114
 draft_bust_list: '<ul>
 
-  <li>Drafted Ben McLemore with 7th pick but was worth 51th pick.</li>
+  <li>Drafted Ben McLemore with 7th pick but was worth 60th pick.</li>
 
-  <li>Drafted Nik Stauskas with 8th pick but was worth 52th pick.</li>
+  <li>Drafted Nik Stauskas with 8th pick but was worth 58th pick.</li>
+
+  <li>Drafted Ray McCallum with 36th pick but was worth 52th pick.</li>
 
   </ul>'
 draft_description: This executive has only drafted 3 players and thus doesn't have
@@ -24,8 +26,6 @@ draft_total_percentile_bpm: 2
 draft_total_percentile_vorp: 2
 draft_total_vorp: -3
 draft_win_list: '<ul>
-
-  <li>Drafted Ray McCallum with 36th pick but was worth 43th pick.</li>
 
   </ul>'
 end_year: 2015
@@ -95,7 +95,7 @@ trade_total_bpm: -5982
 trade_total_grade_bpm: C-
 trade_total_grade_vorp: D+
 trade_total_percentile_bpm: 41
-trade_total_percentile_vorp: 37
+trade_total_percentile_vorp: 36
 trade_total_vorp: -10
 trade_win_list: '<ul>
 

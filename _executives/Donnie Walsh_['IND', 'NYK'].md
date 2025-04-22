@@ -9,17 +9,17 @@ draft_bust_list: '<ul>
   <li>Drafted Erick Dampier with 10th pick but was worth 16th pick.</li>
 
   </ul>'
-draft_description: Donnie Walsh ranks in the 62th percentile for drafting among executives
-  in our database. Walsh's draft picks average out to be worth the equivalent of 3
-  spots higher than they were picked due to his good drafting.
+draft_description: Donnie Walsh ranks in the 69th percentile for drafting among executives
+  in our database. Walsh's draft picks average out to be worth the equivalent of 1
+  spot higher than they were picked due to his good drafting.
 draft_num_players: 28
-draft_overall_percentile_vorp: 79
-draft_rating_bpm: -7
-draft_rating_grade_bpm: D-
-draft_rating_grade_vorp: B-
-draft_rating_percentile_bpm: 27
-draft_rating_percentile_vorp: 62
-draft_rating_vorp: 3
+draft_overall_percentile_vorp: 82
+draft_rating_bpm: -14
+draft_rating_grade_bpm: D
+draft_rating_grade_vorp: B
+draft_rating_percentile_bpm: 28
+draft_rating_percentile_vorp: 70
+draft_rating_vorp: 1
 draft_total_bpm: 89755
 draft_total_grade_bpm: A+
 draft_total_grade_vorp: A+
@@ -30,9 +30,9 @@ draft_win_list: '<ul>
 
   <li>Drafted Reggie Miller with 11th pick but was worth 2th pick.</li>
 
-  <li>Drafted Sean Green with 41th pick but was worth 33th pick.</li>
+  <li>Drafted Fred Hoiberg with 52th pick but was worth 11th pick.</li>
 
-  <li>Drafted Dale Davis with 13th pick but was worth 6th pick.</li>
+  <li>Drafted Mark Pope with 52th pick but was worth 50th pick.</li>
 
   </ul>'
 end_year: 2011

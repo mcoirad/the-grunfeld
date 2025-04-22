@@ -4,22 +4,22 @@ draft_bust_list: '<ul>
 
   <li>Drafted Antoine Walker with 6th pick but was worth 9th pick.</li>
 
-  <li>Drafted Eric Montross with 9th pick but was worth 45th pick.</li>
+  <li>Drafted Eric Montross with 9th pick but was worth 54th pick.</li>
 
-  <li>Drafted Eric Williams with 14th pick but was worth 45th pick.</li>
+  <li>Drafted Eric Williams with 14th pick but was worth 53th pick.</li>
 
   </ul>'
-draft_description: M.L. Carr ranks in the 4th percentile for drafting among executives
-  in our database. Carr's draft picks average out to be worth the equivalent of 14
+draft_description: M.L. Carr ranks in the 1th percentile for drafting among executives
+  in our database. Carr's draft picks average out to be worth the equivalent of 21
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
-draft_overall_percentile_vorp: 30
-draft_rating_bpm: -9
+draft_overall_percentile_vorp: 29
+draft_rating_bpm: -16
 draft_rating_grade_bpm: F
-draft_rating_grade_vorp: F
+draft_rating_grade_vorp: F-
 draft_rating_percentile_bpm: 17
-draft_rating_percentile_vorp: 5
-draft_rating_vorp: -14
+draft_rating_percentile_vorp: 2
+draft_rating_vorp: -21
 draft_total_bpm: -30159
 draft_total_grade_bpm: C+
 draft_total_grade_vorp: C+
@@ -28,9 +28,9 @@ draft_total_percentile_vorp: 55
 draft_total_vorp: 12
 draft_win_list: '<ul>
 
-  <li>Drafted Steve Hamer with 38th pick but was worth 31th pick.</li>
+  <li>Drafted Steve Hamer with 38th pick but was worth 42th pick.</li>
 
-  <li>Drafted Junior Burrough with 33th pick but was worth 40th pick.</li>
+  <li>Drafted Junior Burrough with 33th pick but was worth 48th pick.</li>
 
   </ul>'
 end_year: 1997

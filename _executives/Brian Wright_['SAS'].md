@@ -2,24 +2,24 @@
 bpm_rank: 139
 draft_bust_list: '<ul>
 
-  <li>Drafted Jeremy Sochan with 9th pick but was worth 46th pick.</li>
+  <li>Drafted Malaki Branham with 20th pick but was worth 58th pick.</li>
 
-  <li>Drafted Malaki Branham with 20th pick but was worth 52th pick.</li>
+  <li>Drafted Jeremy Sochan with 9th pick but was worth 51th pick.</li>
 
-  <li>Drafted Blake Wesley with 25th pick but was worth 50th pick.</li>
+  <li>Drafted Blake Wesley with 25th pick but was worth 57th pick.</li>
 
   </ul>'
-draft_description: Brian Wright ranks in the 17th percentile for drafting among executives
+draft_description: Brian Wright ranks in the 21th percentile for drafting among executives
   in our database. Wright's draft picks average out to be worth the equivalent of
-  8 spots lower than they were picked due to their terrible drafting.
+  12 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 11
-draft_overall_percentile_vorp: 32
-draft_rating_bpm: -8
-draft_rating_grade_bpm: D-
-draft_rating_grade_vorp: F
-draft_rating_percentile_bpm: 23
-draft_rating_percentile_vorp: 17
-draft_rating_vorp: -8
+draft_overall_percentile_vorp: 34
+draft_rating_bpm: -13
+draft_rating_grade_bpm: D+
+draft_rating_grade_vorp: D-
+draft_rating_percentile_bpm: 33
+draft_rating_percentile_vorp: 21
+draft_rating_vorp: -12
 draft_total_bpm: -46727
 draft_total_grade_bpm: C-
 draft_total_grade_vorp: C-
@@ -32,8 +32,8 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: -103681
-final_vorp: -28
+final_bpm: -101653
+final_vorp: -23
 href: wrighbr99x
 is_active: true
 name: Brian Wright
@@ -87,25 +87,28 @@ trade_lose_list: '<ul>
 
   </ul>'
 trade_num: 75
-trade_overall_percentile_bpm: 16
-trade_overall_percentile_vorp: 11
+trade_overall_percentile_bpm: 17
+trade_overall_percentile_vorp: 12
 trade_rating_bpm: 0
 trade_rating_grade_bpm: F
 trade_rating_grade_vorp: F
 trade_rating_percentile_bpm: 17
 trade_rating_percentile_vorp: 13
 trade_rating_vorp: 0
-trade_total_bpm: -59937
+trade_total_bpm: -57909
 trade_total_grade_bpm: F
 trade_total_grade_vorp: F
 trade_total_percentile_bpm: 16
-trade_total_percentile_vorp: 9
-trade_total_vorp: -49
+trade_total_percentile_vorp: 10
+trade_total_vorp: -44
 trade_win_list: '<ul>
 
-  <li>Didn''t receive any players or picks.</li>
+  <li>Added De''Aaron Fox, Jordan McLaughlin to SAS.</li>
 
-  <li>Lost Devonte'' Graham, future 2nd round pick to CHO.</li>
+  <li>Lost Sidy Cissoko, future 1st round pick, future 2nd round pick, future 1st
+  round pick, future 2nd round pick, future 1st round pick to SAC.</li>
+
+  <li>Lost Zach Collins, Tre Jones, future 1st round pick to CHI.</li>
 
   </ul>'
 ---

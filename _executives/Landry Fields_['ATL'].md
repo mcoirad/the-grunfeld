@@ -1,10 +1,10 @@
 ---
-bpm_rank: 77
+bpm_rank: 79
 draft_bust_list: '<ul>
 
-  <li>Drafted Zaccharie Risacher with 1th pick but was worth 48th pick.</li>
+  <li>Drafted Zaccharie Risacher with 1th pick but was worth 52th pick.</li>
 
-  <li>Drafted Kobe Bufkin with 15th pick but was worth 31th pick.</li>
+  <li>Drafted Kobe Bufkin with 15th pick but was worth 35th pick.</li>
 
   </ul>'
 draft_description: This executive has only drafted 3 players and thus doesn't have
@@ -27,8 +27,8 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: -8924
-final_vorp: 16
+final_bpm: -9096
+final_vorp: 15
 href: fieldla01x
 is_active: true
 name: Landry Fields
@@ -56,7 +56,7 @@ signing_total_bpm: -6846
 signing_total_grade_bpm: B-
 signing_total_grade_vorp: D-
 signing_total_percentile_bpm: 66
-signing_total_percentile_vorp: 26
+signing_total_percentile_vorp: 25
 signing_total_vorp: 0
 signing_win_list: '<ul>
 
@@ -88,12 +88,12 @@ trade_rating_grade_vorp: D
 trade_rating_percentile_bpm: 15
 trade_rating_percentile_vorp: 32
 trade_rating_vorp: 0
-trade_total_bpm: 6698
+trade_total_bpm: 6526
 trade_total_grade_bpm: C+
 trade_total_grade_vorp: A
 trade_total_percentile_bpm: 55
-trade_total_percentile_vorp: 88
-trade_total_vorp: 17
+trade_total_percentile_vorp: 87
+trade_total_vorp: 16
 trade_win_list: '<ul>
 
   <li>Added Dyson Daniels, E.J. Liddell, Larry Nance Jr., Cody Zeller, future 1st

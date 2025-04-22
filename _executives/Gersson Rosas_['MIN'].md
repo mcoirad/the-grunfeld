@@ -19,7 +19,7 @@ draft_total_percentile_vorp: 56
 draft_total_vorp: 12
 draft_win_list: '<ul>
 
-  <li>Drafted Jaylen Nowell with 43th pick but was worth 33th pick.</li>
+  <li>Drafted Jaylen Nowell with 43th pick but was worth 35th pick.</li>
 
   </ul>'
 end_year: 2021
@@ -89,8 +89,8 @@ trade_rating_vorp: 0
 trade_total_bpm: 13250
 trade_total_grade_bpm: B-
 trade_total_grade_vorp: C
-trade_total_percentile_bpm: 64
-trade_total_percentile_vorp: 51
+trade_total_percentile_bpm: 65
+trade_total_percentile_vorp: 50
 trade_total_vorp: -4
 trade_win_list: '<ul>
 

@@ -4,20 +4,22 @@ draft_bust_list: '<ul>
 
   <li>Drafted Robin Lopez with 15th pick but was worth 18th pick.</li>
 
-  <li>Drafted Earl Clark with 14th pick but was worth 46th pick.</li>
+  <li>Drafted Earl Clark with 14th pick but was worth 56th pick.</li>
+
+  <li>Drafted Alando Tucker with 29th pick but was worth 46th pick.</li>
 
   </ul>'
-draft_description: Steve Kerr ranks in the 42th percentile for drafting among executives
-  in our database. Kerr's draft picks average out to be worth the equivalent of 1
-  spot lower than they were picked due to their terrible drafting.
+draft_description: Steve Kerr ranks in the 26th percentile for drafting among executives
+  in our database. Kerr's draft picks average out to be worth the equivalent of 10
+  spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
-draft_overall_percentile_vorp: 26
-draft_rating_bpm: 4
-draft_rating_grade_bpm: B
-draft_rating_grade_vorp: C-
-draft_rating_percentile_bpm: 72
-draft_rating_percentile_vorp: 42
-draft_rating_vorp: -1
+draft_overall_percentile_vorp: 18
+draft_rating_bpm: -7
+draft_rating_grade_bpm: C+
+draft_rating_grade_vorp: D-
+draft_rating_percentile_bpm: 53
+draft_rating_percentile_vorp: 27
+draft_rating_vorp: -10
 draft_total_bpm: -14506
 draft_total_grade_bpm: F
 draft_total_grade_vorp: F
@@ -26,7 +28,7 @@ draft_total_percentile_vorp: 9
 draft_total_vorp: -1
 draft_win_list: '<ul>
 
-  <li>Drafted Alando Tucker with 29th pick but was worth 35th pick.</li>
+  <li>Drafted D.J. Strawberry with 59th pick but was worth 45th pick.</li>
 
   </ul>'
 end_year: 2010
@@ -83,7 +85,7 @@ trade_lose_list: '<ul>
 
   </ul>'
 trade_num: 28
-trade_overall_percentile_bpm: 77
+trade_overall_percentile_bpm: 78
 trade_overall_percentile_vorp: 50
 trade_rating_bpm: 0
 trade_rating_grade_bpm: A-
@@ -94,7 +96,7 @@ trade_rating_vorp: 0
 trade_total_bpm: 18812
 trade_total_grade_bpm: B
 trade_total_grade_vorp: B+
-trade_total_percentile_bpm: 68
+trade_total_percentile_bpm: 70
 trade_total_percentile_vorp: 74
 trade_total_vorp: 6
 trade_win_list: '<ul>

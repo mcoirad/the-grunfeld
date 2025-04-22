@@ -1,8 +1,8 @@
 ---
-bpm_rank: 37
+bpm_rank: 36
 draft_bust_list: '<ul>
 
-  <li>Drafted Bennedict Mathurin with 6th pick but was worth 50th pick.</li>
+  <li>Drafted Bennedict Mathurin with 6th pick but was worth 56th pick.</li>
 
   <li>Drafted Dante Cunningham with 33th pick but was worth 27th pick.</li>
 
@@ -11,15 +11,15 @@ draft_bust_list: '<ul>
   </ul>'
 draft_description: Kevin Pritchard ranks in the 51th percentile for drafting among
   executives in our database. Pritchard's draft picks average out to be worth the
-  equivalent of 1 spot higher than they were picked due to his good drafting.
+  equivalent of 3 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 21
 draft_overall_percentile_vorp: 26
-draft_rating_bpm: 4
+draft_rating_bpm: -2
 draft_rating_grade_bpm: B+
 draft_rating_grade_vorp: C
-draft_rating_percentile_bpm: 73
+draft_rating_percentile_bpm: 75
 draft_rating_percentile_vorp: 51
-draft_rating_vorp: 1
+draft_rating_vorp: -3
 draft_total_bpm: -74326
 draft_total_grade_bpm: F-
 draft_total_grade_vorp: F-
@@ -28,16 +28,16 @@ draft_total_percentile_vorp: 0
 draft_total_vorp: -4
 draft_win_list: '<ul>
 
-  <li>Drafted Cassius Stanley with 54th pick but was worth 44th pick.</li>
+  <li>Drafted Cassius Stanley with 54th pick but was worth 45th pick.</li>
+
+  <li>Drafted Patty Mills with 55th pick but was worth 15th pick.</li>
 
   <li>Drafted Goga Bitadze with 18th pick but was worth 10th pick.</li>
 
-  <li>Drafted Armon Johnson with 34th pick but was worth 38th pick.</li>
-
   </ul>'
 end_year: 2026
-final_bpm: 47811
-final_vorp: 66
+final_bpm: 49855
+final_vorp: 68
 href: pritcke01x
 is_active: true
 name: Kevin Pritchard
@@ -95,19 +95,19 @@ trade_lose_list: '<ul>
   </ul>'
 trade_num: 135
 trade_overall_percentile_bpm: 83
-trade_overall_percentile_vorp: 82
+trade_overall_percentile_vorp: 83
 trade_rating_bpm: 0
 trade_rating_grade_bpm: B
 trade_rating_grade_vorp: B
 trade_rating_percentile_bpm: 71
 trade_rating_percentile_vorp: 72
 trade_rating_vorp: 0
-trade_total_bpm: 128123
+trade_total_bpm: 130167
 trade_total_grade_bpm: A+
-trade_total_grade_vorp: A
+trade_total_grade_vorp: A+
 trade_total_percentile_bpm: 95
 trade_total_percentile_vorp: 93
-trade_total_vorp: 32
+trade_total_vorp: 34
 trade_win_list: '<ul>
 
   <li>Added Nicolas Batum to POR.</li>

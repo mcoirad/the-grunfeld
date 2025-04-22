@@ -9,17 +9,17 @@ draft_bust_list: '<ul>
   <li>Drafted Meyers Leonard with 11th pick but was worth 19th pick.</li>
 
   </ul>'
-draft_description: Neil Olshey ranks in the 47th percentile for drafting among executives
+draft_description: Neil Olshey ranks in the 57th percentile for drafting among executives
   in our database. Olshey's draft picks average out to be worth the equivalent of
-  1 spot higher than they were picked due to his good drafting.
+  1 spot lower than they were picked due to their terrible drafting.
 draft_num_players: 14
-draft_overall_percentile_vorp: 67
-draft_rating_bpm: -2
-draft_rating_grade_bpm: C-
-draft_rating_grade_vorp: C
-draft_rating_percentile_bpm: 46
-draft_rating_percentile_vorp: 48
-draft_rating_vorp: 1
+draft_overall_percentile_vorp: 72
+draft_rating_bpm: -7
+draft_rating_grade_bpm: C+
+draft_rating_grade_vorp: C+
+draft_rating_percentile_bpm: 56
+draft_rating_percentile_vorp: 58
+draft_rating_vorp: -1
 draft_total_bpm: 105545
 draft_total_grade_bpm: A-
 draft_total_grade_vorp: A-
@@ -32,7 +32,7 @@ draft_win_list: '<ul>
 
   <li>Drafted CJ McCollum with 10th pick but was worth 3th pick.</li>
 
-  <li>Drafted Will Barton with 40th pick but was worth 10th pick.</li>
+  <li>Drafted CJ Elleby with 46th pick but was worth 55th pick.</li>
 
   </ul>'
 end_year: 2021

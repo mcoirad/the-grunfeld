@@ -9,17 +9,17 @@ draft_bust_list: '<ul>
   <li>Drafted Ron Anderson with 27th pick but was worth 15th pick.</li>
 
   </ul>'
-draft_description: Harry Weltman ranks in the 67th percentile for drafting among executives
+draft_description: Harry Weltman ranks in the 54th percentile for drafting among executives
   in our database. Weltman's draft picks average out to be worth the equivalent of
-  4 spots higher than they were picked due to his good drafting.
+  1 spot lower than they were picked due to their terrible drafting.
 draft_num_players: 13
-draft_overall_percentile_vorp: 73
-draft_rating_bpm: 1
-draft_rating_grade_bpm: B-
-draft_rating_grade_vorp: B
-draft_rating_percentile_bpm: 61
-draft_rating_percentile_vorp: 68
-draft_rating_vorp: 4
+draft_overall_percentile_vorp: 66
+draft_rating_bpm: -16
+draft_rating_grade_bpm: F
+draft_rating_grade_vorp: C+
+draft_rating_percentile_bpm: 16
+draft_rating_percentile_vorp: 54
+draft_rating_vorp: -1
 draft_total_bpm: 21275
 draft_total_grade_bpm: B+
 draft_total_grade_vorp: B+
@@ -31,8 +31,6 @@ draft_win_list: '<ul>
   <li>Drafted Mookie Blaylock with 12th pick but was worth 2th pick.</li>
 
   <li>Drafted Hot Rod Williams with 45th pick but was worth 8th pick.</li>
-
-  <li>Drafted Paul Thompson with 50th pick but was worth 23th pick.</li>
 
   </ul>'
 end_year: 1990

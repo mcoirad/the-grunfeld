@@ -25,7 +25,7 @@ draft_total_percentile_vorp: 47
 draft_total_vorp: 5
 draft_win_list: '<ul>
 
-  <li>Drafted Alphonso Ford with 32th pick but was worth 32th pick.</li>
+  <li>Drafted Alphonso Ford with 32th pick but was worth 43th pick.</li>
 
   </ul>'
 end_year: 1994

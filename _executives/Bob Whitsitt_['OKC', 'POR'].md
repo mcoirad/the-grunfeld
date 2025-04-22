@@ -1,17 +1,17 @@
 ---
 bpm_rank: 105
 draft_bust_list: null
-draft_description: Bob Whitsitt ranks in the 96th percentile for drafting among executives
+draft_description: Bob Whitsitt ranks in the 95th percentile for drafting among executives
   in our database. Whitsitt's draft picks average out to be worth the equivalent of
-  12 spots higher than they were picked due to his good drafting.
+  8 spots higher than they were picked due to his good drafting.
 draft_num_players: 7
-draft_overall_percentile_vorp: 70
-draft_rating_bpm: 16
+draft_overall_percentile_vorp: 69
+draft_rating_bpm: 9
 draft_rating_grade_bpm: S
 draft_rating_grade_vorp: A+
 draft_rating_percentile_bpm: 98
-draft_rating_percentile_vorp: 96
-draft_rating_vorp: 12
+draft_rating_percentile_vorp: 95
+draft_rating_vorp: 8
 draft_total_bpm: -20082
 draft_total_grade_bpm: C-
 draft_total_grade_vorp: C-
@@ -20,9 +20,11 @@ draft_total_percentile_vorp: 43
 draft_total_vorp: 3
 draft_win_list: '<ul>
 
-  <li>Drafted Jermaine O''Neal with 17th pick but was worth 11th pick.</li>
+  <li>Drafted Ruben Boumtje-Boumtje with 50th pick but was worth 39th pick.</li>
 
-  <li>Drafted Zach Randolph with 19th pick but was worth 9th pick.</li>
+  <li>Drafted Alvin Williams with 48th pick but was worth 13th pick.</li>
+
+  <li>Drafted Jermaine O''Neal with 17th pick but was worth 11th pick.</li>
 
   </ul>'
 end_year: 2003

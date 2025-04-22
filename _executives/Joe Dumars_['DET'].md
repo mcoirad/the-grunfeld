@@ -2,24 +2,24 @@
 bpm_rank: 62
 draft_bust_list: '<ul>
 
-  <li>Drafted Darko Miličić with 2th pick but was worth 42th pick.</li>
+  <li>Drafted Darko Miličić with 2th pick but was worth 53th pick.</li>
 
   <li>Drafted Brandon Knight with 8th pick but was worth 22th pick.</li>
 
-  <li>Drafted Kentavious Caldwell-Pope with 8th pick but was worth 10th pick.</li>
+  <li>Drafted Kentavious Caldwell-Pope with 8th pick but was worth 9th pick.</li>
 
   </ul>'
 draft_description: Joe Dumars ranks in the 74th percentile for drafting among executives
   in our database. Dumars's draft picks average out to be worth the equivalent of
-  5 spots higher than they were picked due to his good drafting.
+  2 spots higher than they were picked due to his good drafting.
 draft_num_players: 26
 draft_overall_percentile_vorp: 78
-draft_rating_bpm: 5
+draft_rating_bpm: 0
 draft_rating_grade_bpm: B+
 draft_rating_grade_vorp: B+
-draft_rating_percentile_bpm: 76
+draft_rating_percentile_bpm: 80
 draft_rating_percentile_vorp: 74
-draft_rating_vorp: 5
+draft_rating_vorp: 2
 draft_total_bpm: -47089
 draft_total_grade_bpm: A-
 draft_total_grade_vorp: A-
@@ -30,9 +30,9 @@ draft_win_list: '<ul>
 
   <li>Drafted Mehmet Okur with 38th pick but was worth 11th pick.</li>
 
-  <li>Drafted Andre Drummond with 9th pick but was worth 5th pick.</li>
+  <li>Drafted Peyton Siva with 56th pick but was worth 46th pick.</li>
 
-  <li>Drafted Tayshaun Prince with 23th pick but was worth 5th pick.</li>
+  <li>Drafted Andre Drummond with 9th pick but was worth 5th pick.</li>
 
   </ul>'
 end_year: 2014
@@ -103,7 +103,7 @@ trade_total_bpm: 34487
 trade_total_grade_bpm: B+
 trade_total_grade_vorp: C-
 trade_total_percentile_bpm: 76
-trade_total_percentile_vorp: 40
+trade_total_percentile_vorp: 41
 trade_total_vorp: -7
 trade_win_list: '<ul>
 

@@ -1,10 +1,10 @@
 ---
-bpm_rank: 76
+bpm_rank: 77
 draft_bust_list: '<ul>
 
-  <li>Drafted Ron Holland II with 5th pick but was worth 37th pick.</li>
+  <li>Drafted Ron Holland II with 5th pick but was worth 45th pick.</li>
 
-  <li>Drafted Ron Holland II with 5th pick but was worth 37th pick.</li>
+  <li>Drafted Ron Holland II with 5th pick but was worth 45th pick.</li>
 
   </ul>'
 draft_description: This executive has only drafted 2 players and thus doesn't have

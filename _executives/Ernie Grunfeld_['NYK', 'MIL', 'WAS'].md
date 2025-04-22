@@ -4,21 +4,22 @@ draft_bust_list: '<ul>
 
   <li>Drafted John Wall with 1th pick but was worth 2th pick.</li>
 
-  <li>Drafted Jan Veselý with 6th pick but was worth 43th pick.</li>
+  <li>Drafted Jan Veselý with 6th pick but was worth 49th pick.</li>
 
-  <li>Drafted Nick Young with 16th pick but was worth 40th pick.</li>
+  <li>Drafted Nick Young with 16th pick but was worth 51th pick.</li>
 
   </ul>'
-draft_description: Ernie Grunfeld ranks in the 44th percentile for drafting among
-  executives in our database. That's basically average. It could worse though lol.
+draft_description: Ernie Grunfeld ranks in the 47th percentile for drafting among
+  executives in our database. Grunfeld's draft picks average out to be worth the equivalent
+  of 4 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 28
-draft_overall_percentile_vorp: 69
-draft_rating_bpm: -3
-draft_rating_grade_bpm: D+
-draft_rating_grade_vorp: C-
-draft_rating_percentile_bpm: 39
-draft_rating_percentile_vorp: 45
-draft_rating_vorp: 0
+draft_overall_percentile_vorp: 71
+draft_rating_bpm: -10
+draft_rating_grade_bpm: C-
+draft_rating_grade_vorp: C
+draft_rating_percentile_bpm: 44
+draft_rating_percentile_vorp: 48
+draft_rating_vorp: -4
 draft_total_bpm: 95751
 draft_total_grade_bpm: A+
 draft_total_grade_vorp: A+
@@ -31,7 +32,7 @@ draft_win_list: '<ul>
 
   <li>Drafted Charlie Ward with 26th pick but was worth 6th pick.</li>
 
-  <li>Drafted Dominic McGuire with 47th pick but was worth 30th pick.</li>
+  <li>Drafted Greg Anthony with 12th pick but was worth 7th pick.</li>
 
   </ul>'
 end_year: 2019

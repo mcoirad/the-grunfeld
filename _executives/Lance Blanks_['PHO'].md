@@ -1,10 +1,10 @@
 ---
-bpm_rank: 93
+bpm_rank: 92
 draft_bust_list: '<ul>
 
   <li>Drafted Markieff Morris with 13th pick but was worth 20th pick.</li>
 
-  <li>Drafted Kendall Marshall with 13th pick but was worth 49th pick.</li>
+  <li>Drafted Kendall Marshall with 13th pick but was worth 53th pick.</li>
 
   </ul>'
 draft_description: This executive has only drafted 2 players and thus doesn't have

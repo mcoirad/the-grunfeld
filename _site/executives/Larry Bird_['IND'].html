@@ -271,8 +271,8 @@ updateTexts();
     
     <div class="col-md-3">
       <h3> Draft Rating:</h3>
-      <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text=B+ data-bpm-text=D+> D+</h3>
-      <h5 > Draft Pick Efficiency Rating: <span class="stat-text" data-vorp-text=73 data-bpm-text=37><span> 37 </h5>
+      <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text=B- data-bpm-text=D+> D+</h3>
+      <h5 > Draft Pick Efficiency Rating: <span class="stat-text" data-vorp-text=63 data-bpm-text=39><span> 39 </h5>
       <h5> Draft Total Value Rating: <span class="stat-text" data-vorp-text=84 data-bpm-text=84><span> 84  </h5>
     </div>
     <div class="col-md-9">
@@ -468,7 +468,8 @@ function getStackedChartMappedData(stat) {
       name: d.name,
       draft: parseFloat(d[`draft_${stat}`]),
       expected: parseFloat(d[`expected_${stat}`]),
-      draftPick: d[`draft_pick_${stat}`]
+      draftPick: d[`draft_pick_${stat}`],
+      expectedPick: d[`draft_pick_${stat}`] - d[`draft_grade_${stat}`],
     }))
     .sort((a, b) => b.draft - a.draft);
     console.log(filtered);
@@ -483,7 +484,7 @@ function getStackedChartMappedData(stat) {
     labels.push(d.name);
     draftData.push(d.draft);
     expectedData.push(d.expected);
-    tooltipData.push(`Draft Pick ${d.draftPick}`);
+    tooltipData.push(`Draft Pick ${d.draftPick}, Redraft Pick would be ${d.expectedPick}`);
   }
 
   return { labels, draftData, expectedData, tooltipData };
@@ -502,25 +503,25 @@ function updateExecDraftPlayersChart() {
 
   stackedChart.options.plugins.tooltip.callbacks.label = function(context) {
     const index = context.dataIndex;
-    return `${tooltipData[index]} | Draft Pick ${rawTransactionData[index]['draft_pick_' + currentExecDraftStat]}`;
+    return `${tooltipData[index]}`;
   };
 
   stackedChart.update();
 }
 </script>
 
-      Larry Bird ranks in the 73th percentile for drafting among executives in our database. Bird's draft picks average out to be worth the equivalent of 4 spots higher than they were picked due to his good drafting.
+      Larry Bird ranks in the 63th percentile for drafting among executives in our database. That's basically average. It could worse though lol.
       <h5>Some of their biggest wins:</h5>
       <ul>
 <li>Drafted Paul George with 10th pick but was worth 1th pick.</li>
 <li>Drafted Danny Granger with 17th pick but was worth 5th pick.</li>
-<li>Drafted Joe Young with 43th pick but was worth 38th pick.</li>
+<li>Drafted Myles Turner with 11th pick but was worth 4th pick.</li>
 </ul>
       <h5>Some of their biggest busts:</h5>
       <ul>
-<li>Drafted Tyler Hansbrough with 13th pick but was worth 34th pick.</li>
-<li>Drafted Solomon Hill with 23th pick but was worth 40th pick.</li>
-<li>Drafted Shawne Williams with 17th pick but was worth 36th pick.</li>
+<li>Drafted Tyler Hansbrough with 13th pick but was worth 39th pick.</li>
+<li>Drafted Solomon Hill with 23th pick but was worth 49th pick.</li>
+<li>Drafted Lance Stephenson with 40th pick but was worth 15th pick.</li>
 </ul>
     </div>
   </div>

@@ -271,8 +271,8 @@ updateTexts();
     
     <div class="col-md-3">
       <h3> Draft Rating:</h3>
-      <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text=D- data-bpm-text=C-> C-</h3>
-      <h5 > Draft Pick Efficiency Rating: <span class="stat-text" data-vorp-text=23 data-bpm-text=47><span> 47 </h5>
+      <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text=D- data-bpm-text=B-> B-</h3>
+      <h5 > Draft Pick Efficiency Rating: <span class="stat-text" data-vorp-text=23 data-bpm-text=61><span> 61 </h5>
       <h5> Draft Total Value Rating: <span class="stat-text" data-vorp-text=51 data-bpm-text=51><span> 51  </h5>
     </div>
     <div class="col-md-9">
@@ -468,7 +468,8 @@ function getStackedChartMappedData(stat) {
       name: d.name,
       draft: parseFloat(d[`draft_${stat}`]),
       expected: parseFloat(d[`expected_${stat}`]),
-      draftPick: d[`draft_pick_${stat}`]
+      draftPick: d[`draft_pick_${stat}`],
+      expectedPick: d[`draft_pick_${stat}`] - d[`draft_grade_${stat}`],
     }))
     .sort((a, b) => b.draft - a.draft);
     console.log(filtered);
@@ -483,7 +484,7 @@ function getStackedChartMappedData(stat) {
     labels.push(d.name);
     draftData.push(d.draft);
     expectedData.push(d.expected);
-    tooltipData.push(`Draft Pick ${d.draftPick}`);
+    tooltipData.push(`Draft Pick ${d.draftPick}, Redraft Pick would be ${d.expectedPick}`);
   }
 
   return { labels, draftData, expectedData, tooltipData };
@@ -502,22 +503,22 @@ function updateExecDraftPlayersChart() {
 
   stackedChart.options.plugins.tooltip.callbacks.label = function(context) {
     const index = context.dataIndex;
-    return `${tooltipData[index]} | Draft Pick ${rawTransactionData[index]['draft_pick_' + currentExecDraftStat]}`;
+    return `${tooltipData[index]}`;
   };
 
   stackedChart.update();
 }
 </script>
 
-      Rob Hennigan ranks in the 22th percentile for drafting among executives in our database. Hennigan's draft picks average out to be worth the equivalent of 6 spots lower than they were picked due to their terrible drafting.
+      Rob Hennigan ranks in the 22th percentile for drafting among executives in our database. Hennigan's draft picks average out to be worth the equivalent of 10 spots lower than they were picked due to their terrible drafting.
       <h5>Some of their biggest wins:</h5>
       <ul>
 <li>Drafted Kyle O'Quinn with 49th pick but was worth 11th pick.</li>
 </ul>
       <h5>Some of their biggest busts:</h5>
       <ul>
-<li>Drafted Mario Hezonja with 5th pick but was worth 40th pick.</li>
-<li>Drafted Andrew Nicholson with 19th pick but was worth 54th pick.</li>
+<li>Drafted Mario Hezonja with 5th pick but was worth 56th pick.</li>
+<li>Drafted Andrew Nicholson with 19th pick but was worth 58th pick.</li>
 </ul>
     </div>
   </div>

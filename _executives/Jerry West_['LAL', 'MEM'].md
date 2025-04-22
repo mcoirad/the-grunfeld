@@ -9,17 +9,17 @@ draft_bust_list: '<ul>
   <li>Drafted Derek Fisher with 24th pick but was worth 13th pick.</li>
 
   </ul>'
-draft_description: Jerry West ranks in the 79th percentile for drafting among executives
-  in our database. West's draft picks average out to be worth the equivalent of 6
+draft_description: Jerry West ranks in the 77th percentile for drafting among executives
+  in our database. West's draft picks average out to be worth the equivalent of 2
   spots higher than they were picked due to his good drafting.
 draft_num_players: 24
-draft_overall_percentile_vorp: 86
-draft_rating_bpm: 1
+draft_overall_percentile_vorp: 85
+draft_rating_bpm: -7
 draft_rating_grade_bpm: C+
 draft_rating_grade_vorp: B+
-draft_rating_percentile_bpm: 60
-draft_rating_percentile_vorp: 80
-draft_rating_vorp: 6
+draft_rating_percentile_bpm: 54
+draft_rating_percentile_vorp: 78
+draft_rating_vorp: 2
 draft_total_bpm: 37939
 draft_total_grade_bpm: A
 draft_total_grade_vorp: A

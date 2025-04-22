@@ -2,24 +2,23 @@
 bpm_rank: 84
 draft_bust_list: '<ul>
 
-  <li>Drafted Coby White with 7th pick but was worth 16th pick.</li>
+  <li>Drafted Coby White with 7th pick but was worth 17th pick.</li>
 
-  <li>Drafted Tony Snell with 20th pick but was worth 32th pick.</li>
+  <li>Drafted Tony Snell with 20th pick but was worth 41th pick.</li>
 
   <li>Drafted Taj Gibson with 26th pick but was worth 17th pick.</li>
 
   </ul>'
-draft_description: Gar Forman ranks in the 61th percentile for drafting among executives
-  in our database. Forman's draft picks average out to be worth the equivalent of
-  3 spots higher than they were picked due to his good drafting.
+draft_description: Gar Forman ranks in the 64th percentile for drafting among executives
+  in our database. That's basically average. It could worse though lol.
 draft_num_players: 15
-draft_overall_percentile_vorp: 63
-draft_rating_bpm: -2
-draft_rating_grade_bpm: C
+draft_overall_percentile_vorp: 65
+draft_rating_bpm: -6
+draft_rating_grade_bpm: C+
 draft_rating_grade_vorp: B-
-draft_rating_percentile_bpm: 50
-draft_rating_percentile_vorp: 61
-draft_rating_vorp: 3
+draft_rating_percentile_bpm: 59
+draft_rating_percentile_vorp: 64
+draft_rating_vorp: 0
 draft_total_bpm: -33310
 draft_total_grade_bpm: B-
 draft_total_grade_vorp: B-
@@ -30,7 +29,7 @@ draft_win_list: '<ul>
 
   <li>Drafted Jimmy Butler with 30th pick but was worth 1th pick.</li>
 
-  <li>Drafted Cameron Bairstow with 49th pick but was worth 36th pick.</li>
+  <li>Drafted Cameron Bairstow with 49th pick but was worth 42th pick.</li>
 
   <li>Drafted James Johnson with 16th pick but was worth 14th pick.</li>
 
@@ -91,7 +90,7 @@ trade_lose_list: '<ul>
 
   </ul>'
 trade_num: 112
-trade_overall_percentile_bpm: 68
+trade_overall_percentile_bpm: 69
 trade_overall_percentile_vorp: 47
 trade_rating_bpm: 0
 trade_rating_grade_bpm: B-

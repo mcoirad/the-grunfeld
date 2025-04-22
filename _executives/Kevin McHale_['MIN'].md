@@ -9,17 +9,17 @@ draft_bust_list: '<ul>
   <li>Drafted Rasho Nesterović with 17th pick but was worth 16th pick.</li>
 
   </ul>'
-draft_description: Kevin McHale ranks in the 64th percentile for drafting among executives
+draft_description: Kevin McHale ranks in the 56th percentile for drafting among executives
   in our database. McHale's draft picks average out to be worth the equivalent of
-  3 spots higher than they were picked due to his good drafting.
+  1 spot lower than they were picked due to their terrible drafting.
 draft_num_players: 18
-draft_overall_percentile_vorp: 77
-draft_rating_bpm: 4
+draft_overall_percentile_vorp: 74
+draft_rating_bpm: -3
 draft_rating_grade_bpm: B
-draft_rating_grade_vorp: B-
-draft_rating_percentile_bpm: 72
-draft_rating_percentile_vorp: 64
-draft_rating_vorp: 3
+draft_rating_grade_vorp: C+
+draft_rating_percentile_bpm: 71
+draft_rating_percentile_vorp: 57
+draft_rating_vorp: -1
 draft_total_bpm: 168649
 draft_total_grade_bpm: A
 draft_total_grade_vorp: A
@@ -30,9 +30,9 @@ draft_win_list: '<ul>
 
   <li>Drafted Kevin Garnett with 5th pick but was worth 1th pick.</li>
 
-  <li>Drafted Jerome Allen with 49th pick but was worth 35th pick.</li>
+  <li>Drafted Igor Rakočević with 51th pick but was worth 34th pick.</li>
 
-  <li>Drafted Mark Davis with 48th pick but was worth 35th pick.</li>
+  <li>Drafted Jerome Allen with 49th pick but was worth 43th pick.</li>
 
   </ul>'
 end_year: 2008
@@ -93,7 +93,7 @@ trade_lose_list: '<ul>
   </ul>'
 trade_num: 102
 trade_overall_percentile_bpm: 14
-trade_overall_percentile_vorp: 33
+trade_overall_percentile_vorp: 32
 trade_rating_bpm: 0
 trade_rating_grade_bpm: D-
 trade_rating_grade_vorp: C+

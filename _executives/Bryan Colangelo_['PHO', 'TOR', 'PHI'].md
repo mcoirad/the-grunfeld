@@ -1,5 +1,5 @@
 ---
-bpm_rank: 32
+bpm_rank: 31
 draft_bust_list: '<ul>
 
   <li>Drafted Andrea Bargnani with 1th pick but was worth 17th pick.</li>
@@ -9,17 +9,17 @@ draft_bust_list: '<ul>
   <li>Drafted Jonas Valančiūnas with 5th pick but was worth 7th pick.</li>
 
   </ul>'
-draft_description: Bryan Colangelo ranks in the 65th percentile for drafting among
+draft_description: Bryan Colangelo ranks in the 66th percentile for drafting among
   executives in our database. Colangelo's draft picks average out to be worth the
-  equivalent of 3 spots higher than they were picked due to his good drafting.
+  equivalent of 1 spot higher than they were picked due to his good drafting.
 draft_num_players: 26
-draft_overall_percentile_vorp: 81
-draft_rating_bpm: -2
-draft_rating_grade_bpm: C-
+draft_overall_percentile_vorp: 82
+draft_rating_bpm: -7
+draft_rating_grade_bpm: C
 draft_rating_grade_vorp: B-
-draft_rating_percentile_bpm: 44
-draft_rating_percentile_vorp: 65
-draft_rating_vorp: 3
+draft_rating_percentile_bpm: 52
+draft_rating_percentile_vorp: 67
+draft_rating_vorp: 1
 draft_total_bpm: 195195
 draft_total_grade_bpm: A+
 draft_total_grade_vorp: A+

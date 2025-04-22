@@ -9,15 +9,15 @@ draft_bust_list: '<ul>
   </ul>'
 draft_description: Garry St. Jean ranks in the 88th percentile for drafting among
   executives in our database. St.'s draft picks average out to be worth the equivalent
-  of 9 spots higher than they were picked due to his good drafting.
+  of 6 spots higher than they were picked due to his good drafting.
 draft_num_players: 7
 draft_overall_percentile_vorp: 77
-draft_rating_bpm: 11
-draft_rating_grade_bpm: A
+draft_rating_bpm: 6
+draft_rating_grade_bpm: A+
 draft_rating_grade_vorp: A
-draft_rating_percentile_bpm: 92
-draft_rating_percentile_vorp: 88
-draft_rating_vorp: 9
+draft_rating_percentile_bpm: 95
+draft_rating_percentile_vorp: 89
+draft_rating_vorp: 6
 draft_total_bpm: -5543
 draft_total_grade_bpm: B-
 draft_total_grade_vorp: B-
@@ -27,6 +27,8 @@ draft_total_vorp: 23
 draft_win_list: '<ul>
 
   <li>Drafted Gilbert Arenas with 31th pick but was worth 7th pick.</li>
+
+  <li>Drafted Chris Porter with 55th pick but was worth 43th pick.</li>
 
   <li>Drafted Troy Murphy with 14th pick but was worth 12th pick.</li>
 

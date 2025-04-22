@@ -2,24 +2,23 @@
 bpm_rank: 85
 draft_bust_list: '<ul>
 
-  <li>Drafted Isaac Okoro with 5th pick but was worth 29th pick.</li>
+  <li>Drafted Isaac Okoro with 5th pick but was worth 30th pick.</li>
 
   <li>Drafted Collin Sexton with 8th pick but was worth 23th pick.</li>
 
-  <li>Drafted Darius Garland with 5th pick but was worth 7th pick.</li>
+  <li>Drafted Darius Garland with 5th pick but was worth 6th pick.</li>
 
   </ul>'
-draft_description: Koby Altman ranks in the 54th percentile for drafting among executives
-  in our database. Altman's draft picks average out to be worth the equivalent of
-  2 spots higher than they were picked due to his good drafting.
+draft_description: Koby Altman ranks in the 66th percentile for drafting among executives
+  in our database. That's basically average. It could worse though lol.
 draft_num_players: 9
-draft_overall_percentile_vorp: 56
-draft_rating_bpm: -1
-draft_rating_grade_bpm: C+
-draft_rating_grade_vorp: C+
-draft_rating_percentile_bpm: 53
-draft_rating_percentile_vorp: 54
-draft_rating_vorp: 2
+draft_overall_percentile_vorp: 62
+draft_rating_bpm: -3
+draft_rating_grade_bpm: B
+draft_rating_grade_vorp: B-
+draft_rating_percentile_bpm: 68
+draft_rating_percentile_vorp: 66
+draft_rating_vorp: 0
 draft_total_bpm: -17444
 draft_total_grade_bpm: C+
 draft_total_grade_vorp: C+
@@ -28,11 +27,9 @@ draft_total_percentile_vorp: 58
 draft_total_vorp: 15
 draft_win_list: '<ul>
 
-  <li>Drafted Emoni Bates with 49th pick but was worth 36th pick.</li>
+  <li>Drafted Emoni Bates with 49th pick but was worth 35th pick.</li>
 
   <li>Drafted Evan Mobley with 3th pick but was worth 2th pick.</li>
-
-  <li>Drafted Dylan Windler with 26th pick but was worth 25th pick.</li>
 
   </ul>'
 end_year: 2026
@@ -103,7 +100,7 @@ trade_rating_vorp: 0
 trade_total_bpm: 27126
 trade_total_grade_bpm: B
 trade_total_grade_vorp: C-
-trade_total_percentile_bpm: 73
+trade_total_percentile_bpm: 72
 trade_total_percentile_vorp: 43
 trade_total_vorp: -6
 trade_win_list: '<ul>

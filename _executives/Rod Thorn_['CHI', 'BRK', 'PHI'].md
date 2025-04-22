@@ -1,25 +1,25 @@
 ---
-bpm_rank: 12
+bpm_rank: 11
 draft_bust_list: '<ul>
 
   <li>Drafted Dave Greenwood with 2th pick but was worth 13th pick.</li>
 
-  <li>Drafted Sidney Green with 5th pick but was worth 57th pick.</li>
+  <li>Drafted Sidney Green with 5th pick but was worth 61th pick.</li>
 
   <li>Drafted Kenyon Martin with 1th pick but was worth 5th pick.</li>
 
   </ul>'
-draft_description: Rod Thorn ranks in the 59th percentile for drafting among executives
-  in our database. Thorn's draft picks average out to be worth the equivalent of 3
-  spots higher than they were picked due to his good drafting.
+draft_description: Rod Thorn ranks in the 45th percentile for drafting among executives
+  in our database. Thorn's draft picks average out to be worth the equivalent of 4
+  spots lower than they were picked due to their terrible drafting.
 draft_num_players: 20
-draft_overall_percentile_vorp: 78
-draft_rating_bpm: 2
-draft_rating_grade_bpm: B-
-draft_rating_grade_vorp: C+
-draft_rating_percentile_bpm: 67
-draft_rating_percentile_vorp: 60
-draft_rating_vorp: 3
+draft_overall_percentile_vorp: 71
+draft_rating_bpm: -11
+draft_rating_grade_bpm: C-
+draft_rating_grade_vorp: C-
+draft_rating_percentile_bpm: 40
+draft_rating_percentile_vorp: 46
+draft_rating_vorp: -4
 draft_total_bpm: 290668
 draft_total_grade_bpm: A+
 draft_total_grade_vorp: A+
@@ -32,7 +32,7 @@ draft_win_list: '<ul>
 
   <li>Drafted Nikola Vučević with 16th pick but was worth 4th pick.</li>
 
-  <li>Drafted James Wilkes with 50th pick but was worth 32th pick.</li>
+  <li>Drafted Tamar Slay with 54th pick but was worth 44th pick.</li>
 
   </ul>'
 end_year: 2012
@@ -97,7 +97,7 @@ trade_lose_list: '<ul>
   </ul>'
 trade_num: 122
 trade_overall_percentile_bpm: 47
-trade_overall_percentile_vorp: 65
+trade_overall_percentile_vorp: 64
 trade_rating_bpm: 0
 trade_rating_grade_bpm: C+
 trade_rating_grade_vorp: B+

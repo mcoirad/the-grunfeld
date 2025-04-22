@@ -1,17 +1,23 @@
 ---
 bpm_rank: 57
-draft_bust_list: null
-draft_description: Lawrence Frank ranks in the 94th percentile for drafting among
+draft_bust_list: '<ul>
+
+  <li>Drafted Jerome Robinson with 13th pick but was worth 59th pick.</li>
+
+  <li>Drafted Kobe Brown with 30th pick but was worth 35th pick.</li>
+
+  </ul>'
+draft_description: Lawrence Frank ranks in the 97th percentile for drafting among
   executives in our database. Frank's draft picks average out to be worth the equivalent
-  of 12 spots higher than they were picked due to his good drafting.
+  of 9 spots higher than they were picked due to his good drafting.
 draft_num_players: 6
-draft_overall_percentile_vorp: 68
-draft_rating_bpm: 12
+draft_overall_percentile_vorp: 69
+draft_rating_bpm: 7
 draft_rating_grade_bpm: A+
-draft_rating_grade_vorp: A+
-draft_rating_percentile_bpm: 94
-draft_rating_percentile_vorp: 94
-draft_rating_vorp: 12
+draft_rating_grade_vorp: S
+draft_rating_percentile_bpm: 96
+draft_rating_percentile_vorp: 97
+draft_rating_vorp: 9
 draft_total_bpm: -13883
 draft_total_grade_bpm: C-
 draft_total_grade_vorp: C-
@@ -20,11 +26,9 @@ draft_total_percentile_vorp: 41
 draft_total_vorp: 2
 draft_win_list: '<ul>
 
-  <li>Drafted Jordan Miller with 48th pick but was worth 25th pick.</li>
+  <li>Drafted Jordan Miller with 48th pick but was worth 28th pick.</li>
 
   <li>Drafted Terance Mann with 48th pick but was worth 11th pick.</li>
-
-  <li>Drafted Kobe Brown with 30th pick but was worth 31th pick.</li>
 
   </ul>'
 end_year: 2026
@@ -96,7 +100,7 @@ trade_total_bpm: -30691
 trade_total_grade_bpm: D-
 trade_total_grade_vorp: F
 trade_total_percentile_bpm: 23
-trade_total_percentile_vorp: 19
+trade_total_percentile_vorp: 18
 trade_total_vorp: -28
 trade_win_list: '<ul>
 

@@ -2,24 +2,24 @@
 bpm_rank: 25
 draft_bust_list: '<ul>
 
-  <li>Drafted Dillon Brooks with 45th pick but was worth 57th pick.</li>
+  <li>Drafted Dillon Brooks with 45th pick but was worth 60th pick.</li>
 
   <li>Drafted Marcus Morris with 14th pick but was worth 15th pick.</li>
 
   <li>Drafted Aaron Brooks with 26th pick but was worth 19th pick.</li>
 
   </ul>'
-draft_description: Daryl Morey ranks in the 92th percentile for drafting among executives
-  in our database. Morey's draft picks average out to be worth the equivalent of 10
+draft_description: Daryl Morey ranks in the 94th percentile for drafting among executives
+  in our database. Morey's draft picks average out to be worth the equivalent of 8
   spots higher than they were picked due to his good drafting.
 draft_num_players: 25
-draft_overall_percentile_vorp: 83
-draft_rating_bpm: 13
+draft_overall_percentile_vorp: 84
+draft_rating_bpm: 9
 draft_rating_grade_bpm: S
-draft_rating_grade_vorp: A
-draft_rating_percentile_bpm: 97
-draft_rating_percentile_vorp: 93
-draft_rating_vorp: 10
+draft_rating_grade_vorp: A+
+draft_rating_percentile_bpm: 99
+draft_rating_percentile_vorp: 94
+draft_rating_vorp: 8
 draft_total_bpm: 11065
 draft_total_grade_bpm: B+
 draft_total_grade_vorp: B+
@@ -36,8 +36,8 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: 101729
-final_vorp: 88
+final_bpm: 104393
+final_vorp: 85
 href: moreyda99x
 is_active: true
 name: Daryl Morey
@@ -94,19 +94,19 @@ trade_lose_list: '<ul>
   </ul>'
 trade_num: 301
 trade_overall_percentile_bpm: 82
-trade_overall_percentile_vorp: 34
+trade_overall_percentile_vorp: 33
 trade_rating_bpm: 0
 trade_rating_grade_bpm: B+
 trade_rating_grade_vorp: C-
 trade_rating_percentile_bpm: 74
 trade_rating_percentile_vorp: 42
 trade_rating_vorp: 0
-trade_total_bpm: 104708
+trade_total_bpm: 107372
 trade_total_grade_bpm: A
 trade_total_grade_vorp: D-
 trade_total_percentile_bpm: 91
-trade_total_percentile_vorp: 27
-trade_total_vorp: -19
+trade_total_percentile_vorp: 24
+trade_total_vorp: -22
 trade_win_list: '<ul>
 
   <li>Added Cole Aldrich, Daequan Cook, James Harden, Lazar Hayward to HOU.</li>

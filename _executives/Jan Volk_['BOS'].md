@@ -1,25 +1,25 @@
 ---
-bpm_rank: 102
+bpm_rank: 101
 draft_bust_list: '<ul>
 
   <li>Drafted Brian Shaw with 24th pick but was worth 16th pick.</li>
 
+  <li>Drafted Brad Lohaus with 45th pick but was worth 17th pick.</li>
+
   <li>Drafted Sam Vincent with 20th pick but was worth 23th pick.</li>
 
-  <li>Drafted Michael Smith with 13th pick but was worth 34th pick.</li>
-
   </ul>'
-draft_description: Jan Volk ranks in the 87th percentile for drafting among executives
-  in our database. Volk's draft picks average out to be worth the equivalent of 8
+draft_description: Jan Volk ranks in the 91th percentile for drafting among executives
+  in our database. Volk's draft picks average out to be worth the equivalent of 7
   spots higher than they were picked due to his good drafting.
 draft_num_players: 6
-draft_overall_percentile_vorp: 74
-draft_rating_bpm: -6
-draft_rating_grade_bpm: D
+draft_overall_percentile_vorp: 77
+draft_rating_bpm: -16
+draft_rating_grade_bpm: F
 draft_rating_grade_vorp: A
-draft_rating_percentile_bpm: 31
-draft_rating_percentile_vorp: 87
-draft_rating_vorp: 8
+draft_rating_percentile_bpm: 19
+draft_rating_percentile_vorp: 92
+draft_rating_vorp: 7
 draft_total_bpm: 7787
 draft_total_grade_bpm: B-
 draft_total_grade_vorp: B-
@@ -31,8 +31,6 @@ draft_win_list: '<ul>
   <li>Drafted Reggie Lewis with 22th pick but was worth 9th pick.</li>
 
   <li>Drafted Dino Radja with 40th pick but was worth 16th pick.</li>
-
-  <li>Drafted Brad Lohaus with 45th pick but was worth 17th pick.</li>
 
   </ul>'
 end_year: 1990
@@ -90,7 +88,7 @@ trade_lose_list: '<ul>
   </ul>'
 trade_num: 29
 trade_overall_percentile_bpm: 19
-trade_overall_percentile_vorp: 34
+trade_overall_percentile_vorp: 33
 trade_rating_bpm: 0
 trade_rating_grade_bpm: F
 trade_rating_grade_vorp: F
@@ -100,8 +98,8 @@ trade_rating_vorp: 0
 trade_total_bpm: -26668
 trade_total_grade_bpm: D-
 trade_total_grade_vorp: C
-trade_total_percentile_bpm: 25
-trade_total_percentile_vorp: 50
+trade_total_percentile_bpm: 26
+trade_total_percentile_vorp: 49
 trade_total_vorp: -4
 trade_win_list: '<ul>
 

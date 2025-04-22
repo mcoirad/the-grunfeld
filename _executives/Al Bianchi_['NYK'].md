@@ -1,16 +1,23 @@
 ---
 bpm_rank: 33
-draft_bust_list: null
-draft_description: Al Bianchi ranks in the 45th percentile for drafting among executives
-  in our database. That's basically average. It could worse though lol.
+draft_bust_list: '<ul>
+
+  <li>Drafted Jerrod Mustaf with 17th pick but was worth 41th pick.</li>
+
+  <li>Drafted Greg Butler with 37th pick but was worth 61th pick.</li>
+
+  </ul>'
+draft_description: Al Bianchi ranks in the 39th percentile for drafting among executives
+  in our database. Bianchi's draft picks average out to be worth the equivalent of
+  6 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 4
-draft_overall_percentile_vorp: 40
-draft_rating_bpm: 9
-draft_rating_grade_bpm: A-
-draft_rating_grade_vorp: C-
-draft_rating_percentile_bpm: 84
-draft_rating_percentile_vorp: 46
-draft_rating_vorp: 0
+draft_overall_percentile_vorp: 37
+draft_rating_bpm: 2
+draft_rating_grade_bpm: A
+draft_rating_grade_vorp: D+
+draft_rating_percentile_bpm: 88
+draft_rating_percentile_vorp: 39
+draft_rating_vorp: -6
 draft_total_bpm: -6987
 draft_total_grade_bpm: D+
 draft_total_grade_vorp: D+
@@ -21,7 +28,7 @@ draft_win_list: '<ul>
 
   <li>Drafted Rod Strickland with 19th pick but was worth 1th pick.</li>
 
-  <li>Drafted Greg Butler with 37th pick but was worth 44th pick.</li>
+  <li>Drafted Brian Quinnett with 50th pick but was worth 44th pick.</li>
 
   </ul>'
 end_year: 1991

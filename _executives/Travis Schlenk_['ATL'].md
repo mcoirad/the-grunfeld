@@ -2,22 +2,22 @@
 bpm_rank: 143
 draft_bust_list: '<ul>
 
-  <li>Drafted Cam Reddish with 10th pick but was worth 57th pick.</li>
+  <li>Drafted Cam Reddish with 10th pick but was worth 59th pick.</li>
 
   <li>Drafted Kevin Huerter with 19th pick but was worth 16th pick.</li>
 
   <li>Drafted Onyeka Okongwu with 6th pick but was worth 9th pick.</li>
 
   </ul>'
-draft_description: Travis Schlenk ranks in the 46th percentile for drafting among
+draft_description: Travis Schlenk ranks in the 61th percentile for drafting among
   executives in our database. That's basically average. It could worse though lol.
 draft_num_players: 10
-draft_overall_percentile_vorp: 53
-draft_rating_bpm: 0
-draft_rating_grade_bpm: C+
-draft_rating_grade_vorp: C-
-draft_rating_percentile_bpm: 54
-draft_rating_percentile_vorp: 47
+draft_overall_percentile_vorp: 61
+draft_rating_bpm: -3
+draft_rating_grade_bpm: B
+draft_rating_grade_vorp: B-
+draft_rating_percentile_bpm: 72
+draft_rating_percentile_vorp: 61
 draft_rating_vorp: 0
 draft_total_bpm: -11788
 draft_total_grade_bpm: C+
@@ -30,8 +30,6 @@ draft_win_list: '<ul>
   <li>Drafted John Collins with 19th pick but was worth 9th pick.</li>
 
   <li>Drafted Jalen Johnson with 20th pick but was worth 9th pick.</li>
-
-  <li>Drafted Tyler Dorsey with 41th pick but was worth 43th pick.</li>
 
   </ul>'
 end_year: 2022

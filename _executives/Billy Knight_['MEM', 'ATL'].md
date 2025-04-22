@@ -4,22 +4,22 @@ draft_bust_list: '<ul>
 
   <li>Drafted Marvin Williams with 2th pick but was worth 9th pick.</li>
 
-  <li>Drafted Shelden Williams with 5th pick but was worth 47th pick.</li>
+  <li>Drafted Shelden Williams with 5th pick but was worth 55th pick.</li>
 
   <li>Drafted Stromile Swift with 2th pick but was worth 14th pick.</li>
 
   </ul>'
-draft_description: Billy Knight ranks in the 31th percentile for drafting among executives
+draft_description: Billy Knight ranks in the 27th percentile for drafting among executives
   in our database. Knight's draft picks average out to be worth the equivalent of
-  4 spots lower than they were picked due to their terrible drafting.
+  9 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 17
-draft_overall_percentile_vorp: 59
-draft_rating_bpm: -4
-draft_rating_grade_bpm: D+
+draft_overall_percentile_vorp: 58
+draft_rating_bpm: -10
+draft_rating_grade_bpm: C-
 draft_rating_grade_vorp: D
-draft_rating_percentile_bpm: 35
-draft_rating_percentile_vorp: 31
-draft_rating_vorp: -4
+draft_rating_percentile_bpm: 42
+draft_rating_percentile_vorp: 28
+draft_rating_vorp: -9
 draft_total_bpm: 51310
 draft_total_grade_bpm: A
 draft_total_grade_vorp: A
@@ -30,9 +30,9 @@ draft_win_list: '<ul>
 
   <li>Drafted Josh Smith with 17th pick but was worth 3th pick.</li>
 
-  <li>Drafted Antonis Fotsis with 48th pick but was worth 27th pick.</li>
+  <li>Drafted Shane Battier with 6th pick but was worth 3th pick.</li>
 
-  <li>Drafted Travis Hansen with 37th pick but was worth 36th pick.</li>
+  <li>Drafted Al Horford with 3th pick but was worth 2th pick.</li>
 
   </ul>'
 end_year: 2008
@@ -105,7 +105,7 @@ trade_total_bpm: -59298
 trade_total_grade_bpm: F
 trade_total_grade_vorp: D-
 trade_total_percentile_bpm: 16
-trade_total_percentile_vorp: 24
+trade_total_percentile_vorp: 25
 trade_total_vorp: -22
 trade_win_list: '<ul>
 

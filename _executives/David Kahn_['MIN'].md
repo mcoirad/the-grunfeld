@@ -6,20 +6,20 @@ draft_bust_list: '<ul>
 
   <li>Drafted Wesley Johnson with 4th pick but was worth 20th pick.</li>
 
-  <li>Drafted Jonny Flynn with 6th pick but was worth 50th pick.</li>
+  <li>Drafted Jonny Flynn with 6th pick but was worth 60th pick.</li>
 
   </ul>'
-draft_description: David Kahn ranks in the 12th percentile for drafting among executives
-  in our database. Kahn's draft picks average out to be worth the equivalent of 12
+draft_description: David Kahn ranks in the 14th percentile for drafting among executives
+  in our database. Kahn's draft picks average out to be worth the equivalent of 14
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 6
-draft_overall_percentile_vorp: 31
-draft_rating_bpm: -20
+draft_overall_percentile_vorp: 32
+draft_rating_bpm: -27
 draft_rating_grade_bpm: F-
 draft_rating_grade_vorp: F
-draft_rating_percentile_bpm: 2
-draft_rating_percentile_vorp: 13
-draft_rating_vorp: -12
+draft_rating_percentile_bpm: 3
+draft_rating_percentile_vorp: 15
+draft_rating_vorp: -14
 draft_total_bpm: -32767
 draft_total_grade_bpm: C
 draft_total_grade_vorp: C
@@ -27,6 +27,8 @@ draft_total_percentile_bpm: 49
 draft_total_percentile_vorp: 49
 draft_total_vorp: 6
 draft_win_list: '<ul>
+
+  <li>Drafted Robbie Hummel with 58th pick but was worth 46th pick.</li>
 
   </ul>'
 end_year: 2013
@@ -59,7 +61,7 @@ signing_total_bpm: -35201
 signing_total_grade_bpm: D+
 signing_total_grade_vorp: D+
 signing_total_percentile_bpm: 35
-signing_total_percentile_vorp: 37
+signing_total_percentile_vorp: 36
 signing_total_vorp: 4
 signing_win_list: '<ul>
 

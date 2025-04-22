@@ -1,25 +1,25 @@
 ---
-bpm_rank: 129
+bpm_rank: 128
 draft_bust_list: '<ul>
 
-  <li>Drafted Jahlil Okafor with 3th pick but was worth 29th pick.</li>
+  <li>Drafted Jahlil Okafor with 3th pick but was worth 37th pick.</li>
 
   <li>Drafted Michael Carter-Williams with 11th pick but was worth 19th pick.</li>
 
   <li>Drafted Jerami Grant with 39th pick but was worth 12th pick.</li>
 
   </ul>'
-draft_description: Sam Hinkie ranks in the 52th percentile for drafting among executives
+draft_description: Sam Hinkie ranks in the 55th percentile for drafting among executives
   in our database. Hinkie's draft picks average out to be worth the equivalent of
-  1 spot higher than they were picked due to his good drafting.
+  1 spot lower than they were picked due to their terrible drafting.
 draft_num_players: 6
-draft_overall_percentile_vorp: 63
-draft_rating_bpm: -7
+draft_overall_percentile_vorp: 65
+draft_rating_bpm: -13
 draft_rating_grade_bpm: D
-draft_rating_grade_vorp: C
-draft_rating_percentile_bpm: 28
-draft_rating_percentile_vorp: 52
-draft_rating_vorp: 1
+draft_rating_grade_vorp: C+
+draft_rating_percentile_bpm: 31
+draft_rating_percentile_vorp: 56
+draft_rating_vorp: -1
 draft_total_bpm: 77199
 draft_total_grade_bpm: B+
 draft_total_grade_vorp: B+

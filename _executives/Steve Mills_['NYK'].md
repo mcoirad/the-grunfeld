@@ -4,7 +4,7 @@ draft_bust_list: '<ul>
 
   <li>Drafted RJ Barrett with 3th pick but was worth 21th pick.</li>
 
-  <li>Drafted Kevin Knox with 9th pick but was worth 57th pick.</li>
+  <li>Drafted Kevin Knox with 9th pick but was worth 60th pick.</li>
 
   </ul>'
 draft_description: This executive has only drafted 3 players and thus doesn't have

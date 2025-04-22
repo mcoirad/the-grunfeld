@@ -4,22 +4,22 @@ draft_bust_list: '<ul>
 
   <li>Drafted Armen Gilliam with 2th pick but was worth 12th pick.</li>
 
-  <li>Drafted William Bedford with 6th pick but was worth 64th pick.</li>
+  <li>Drafted William Bedford with 6th pick but was worth 61th pick.</li>
 
   <li>Drafted Ricky Sobers with 16th pick but was worth 11th pick.</li>
 
   </ul>'
-draft_description: Jerry Colangelo ranks in the 95th percentile for drafting among
+draft_description: Jerry Colangelo ranks in the 93th percentile for drafting among
   executives in our database. Colangelo's draft picks average out to be worth the
-  equivalent of 12 spots higher than they were picked due to his good drafting.
+  equivalent of 8 spots higher than they were picked due to his good drafting.
 draft_num_players: 52
-draft_overall_percentile_vorp: 97
-draft_rating_bpm: 10
-draft_rating_grade_bpm: A
+draft_overall_percentile_vorp: 96
+draft_rating_bpm: -3
+draft_rating_grade_bpm: B
 draft_rating_grade_vorp: A+
-draft_rating_percentile_bpm: 87
-draft_rating_percentile_vorp: 95
-draft_rating_vorp: 12
+draft_rating_percentile_bpm: 70
+draft_rating_percentile_vorp: 94
+draft_rating_vorp: 8
 draft_total_bpm: 153284
 draft_total_grade_bpm: S
 draft_total_grade_vorp: S

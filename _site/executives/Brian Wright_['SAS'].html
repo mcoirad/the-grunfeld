@@ -271,8 +271,8 @@ updateTexts();
     
     <div class="col-md-3">
       <h3> Draft Rating:</h3>
-      <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text=F data-bpm-text=D-> D-</h3>
-      <h5 > Draft Pick Efficiency Rating: <span class="stat-text" data-vorp-text=17 data-bpm-text=23><span> 23 </h5>
+      <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text=D- data-bpm-text=D+> D+</h3>
+      <h5 > Draft Pick Efficiency Rating: <span class="stat-text" data-vorp-text=21 data-bpm-text=33><span> 33 </h5>
       <h5> Draft Total Value Rating: <span class="stat-text" data-vorp-text=46 data-bpm-text=46><span> 46  </h5>
     </div>
     <div class="col-md-9">
@@ -468,7 +468,8 @@ function getStackedChartMappedData(stat) {
       name: d.name,
       draft: parseFloat(d[`draft_${stat}`]),
       expected: parseFloat(d[`expected_${stat}`]),
-      draftPick: d[`draft_pick_${stat}`]
+      draftPick: d[`draft_pick_${stat}`],
+      expectedPick: d[`draft_pick_${stat}`] - d[`draft_grade_${stat}`],
     }))
     .sort((a, b) => b.draft - a.draft);
     console.log(filtered);
@@ -483,7 +484,7 @@ function getStackedChartMappedData(stat) {
     labels.push(d.name);
     draftData.push(d.draft);
     expectedData.push(d.expected);
-    tooltipData.push(`Draft Pick ${d.draftPick}`);
+    tooltipData.push(`Draft Pick ${d.draftPick}, Redraft Pick would be ${d.expectedPick}`);
   }
 
   return { labels, draftData, expectedData, tooltipData };
@@ -502,23 +503,23 @@ function updateExecDraftPlayersChart() {
 
   stackedChart.options.plugins.tooltip.callbacks.label = function(context) {
     const index = context.dataIndex;
-    return `${tooltipData[index]} | Draft Pick ${rawTransactionData[index]['draft_pick_' + currentExecDraftStat]}`;
+    return `${tooltipData[index]}`;
   };
 
   stackedChart.update();
 }
 </script>
 
-      Brian Wright ranks in the 17th percentile for drafting among executives in our database. Wright's draft picks average out to be worth the equivalent of 8 spots lower than they were picked due to their terrible drafting.
+      Brian Wright ranks in the 21th percentile for drafting among executives in our database. Wright's draft picks average out to be worth the equivalent of 12 spots lower than they were picked due to their terrible drafting.
       <h5>Some of their biggest wins:</h5>
       <ul>
 <li>Drafted Tre Jones with 41th pick but was worth 15th pick.</li>
 </ul>
       <h5>Some of their biggest busts:</h5>
       <ul>
-<li>Drafted Jeremy Sochan with 9th pick but was worth 46th pick.</li>
-<li>Drafted Malaki Branham with 20th pick but was worth 52th pick.</li>
-<li>Drafted Blake Wesley with 25th pick but was worth 50th pick.</li>
+<li>Drafted Malaki Branham with 20th pick but was worth 58th pick.</li>
+<li>Drafted Jeremy Sochan with 9th pick but was worth 51th pick.</li>
+<li>Drafted Blake Wesley with 25th pick but was worth 57th pick.</li>
 </ul>
     </div>
   </div>
@@ -535,8 +536,9 @@ function updateExecDraftPlayersChart() {
       Brian Wright ranks in the 12th percentile for trading among executives in our database. 
       <h5>Their biggest win:</h5>
       <ul>
-<li>Didn't receive any players or picks.</li>
-<li>Lost Devonte' Graham, future 2nd round pick to CHO.</li>
+<li>Added De'Aaron Fox, Jordan McLaughlin to SAS.</li>
+<li>Lost Sidy Cissoko, future 1st round pick, future 2nd round pick, future 1st round pick, future 2nd round pick, future 1st round pick to SAC.</li>
+<li>Lost Zach Collins, Tre Jones, future 1st round pick to CHI.</li>
 </ul>
       <h5>Their biggest L:</h5>
       <ul>

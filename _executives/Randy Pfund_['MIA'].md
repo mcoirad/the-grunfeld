@@ -4,22 +4,22 @@ draft_bust_list: '<ul>
 
   <li>Drafted Michael Beasley with 2th pick but was worth 25th pick.</li>
 
-  <li>Drafted Rasual Butler with 53th pick but was worth 13th pick.</li>
-
   <li>Drafted Caron Butler with 10th pick but was worth 7th pick.</li>
 
+  <li>Drafted Wayne Simien with 29th pick but was worth 50th pick.</li>
+
   </ul>'
-draft_description: Randy Pfund ranks in the 85th percentile for drafting among executives
-  in our database. Pfund's draft picks average out to be worth the equivalent of 8
+draft_description: Randy Pfund ranks in the 84th percentile for drafting among executives
+  in our database. Pfund's draft picks average out to be worth the equivalent of 4
   spots higher than they were picked due to his good drafting.
 draft_num_players: 13
 draft_overall_percentile_vorp: 86
-draft_rating_bpm: 9
+draft_rating_bpm: 1
 draft_rating_grade_bpm: A-
 draft_rating_grade_vorp: A-
 draft_rating_percentile_bpm: 83
-draft_rating_percentile_vorp: 85
-draft_rating_vorp: 8
+draft_rating_percentile_vorp: 84
+draft_rating_vorp: 4
 draft_total_bpm: 144947
 draft_total_grade_bpm: A
 draft_total_grade_vorp: A
@@ -30,7 +30,7 @@ draft_win_list: '<ul>
 
   <li>Drafted Dwyane Wade with 5th pick but was worth 2th pick.</li>
 
-  <li>Drafted Ken Johnson with 49th pick but was worth 31th pick.</li>
+  <li>Drafted Ken Johnson with 49th pick but was worth 39th pick.</li>
 
   <li>Drafted Eddie House with 37th pick but was worth 8th pick.</li>
 
@@ -92,7 +92,7 @@ trade_lose_list: '<ul>
 
   </ul>'
 trade_num: 87
-trade_overall_percentile_bpm: 44
+trade_overall_percentile_bpm: 45
 trade_overall_percentile_vorp: 59
 trade_rating_bpm: 0
 trade_rating_grade_bpm: D-
@@ -101,9 +101,9 @@ trade_rating_percentile_bpm: 22
 trade_rating_percentile_vorp: 39
 trade_rating_vorp: 0
 trade_total_bpm: 16816
-trade_total_grade_bpm: B-
+trade_total_grade_bpm: B
 trade_total_grade_vorp: B+
-trade_total_percentile_bpm: 66
+trade_total_percentile_bpm: 68
 trade_total_percentile_vorp: 79
 trade_total_vorp: 9
 trade_win_list: '<ul>

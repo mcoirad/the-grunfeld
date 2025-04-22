@@ -2,24 +2,24 @@
 bpm_rank: 165
 draft_bust_list: '<ul>
 
-  <li>Drafted Michael Olowokandi with 1th pick but was worth 56th pick.</li>
+  <li>Drafted Michael Olowokandi with 1th pick but was worth 58th pick.</li>
 
-  <li>Drafted Lorenzen Wright with 7th pick but was worth 45th pick.</li>
+  <li>Drafted Lorenzen Wright with 7th pick but was worth 56th pick.</li>
 
   <li>Drafted Reggie Williams with 4th pick but was worth 11th pick.</li>
 
   </ul>'
-draft_description: Elgin Baylor ranks in the 36th percentile for drafting among executives
+draft_description: Elgin Baylor ranks in the 30th percentile for drafting among executives
   in our database. Baylor's draft picks average out to be worth the equivalent of
-  3 spots lower than they were picked due to their terrible drafting.
+  8 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 41
-draft_overall_percentile_vorp: 56
-draft_rating_bpm: -5
-draft_rating_grade_bpm: D
-draft_rating_grade_vorp: D+
-draft_rating_percentile_bpm: 32
-draft_rating_percentile_vorp: 37
-draft_rating_vorp: -3
+draft_overall_percentile_vorp: 53
+draft_rating_bpm: -15
+draft_rating_grade_bpm: D-
+draft_rating_grade_vorp: D
+draft_rating_percentile_bpm: 21
+draft_rating_percentile_vorp: 30
+draft_rating_vorp: -8
 draft_total_bpm: -240165
 draft_total_grade_bpm: B+
 draft_total_grade_vorp: B+
@@ -30,9 +30,9 @@ draft_win_list: '<ul>
 
   <li>Drafted DeAndre Jordan with 35th pick but was worth 5th pick.</li>
 
-  <li>Drafted Rob Lock with 51th pick but was worth 40th pick.</li>
+  <li>Drafted Rob Lock with 51th pick but was worth 56th pick.</li>
 
-  <li>Drafted Tom Garrick with 45th pick but was worth 24th pick.</li>
+  <li>Drafted Paul Davis with 34th pick but was worth 46th pick.</li>
 
   </ul>'
 end_year: 2008

@@ -2,22 +2,22 @@
 bpm_rank: 28
 draft_bust_list: '<ul>
 
-  <li>Drafted Ron Mercer with 6th pick but was worth 43th pick.</li>
+  <li>Drafted Ron Mercer with 6th pick but was worth 53th pick.</li>
 
-  <li>Drafted Jérôme Moïso with 11th pick but was worth 29th pick.</li>
+  <li>Drafted Jérôme Moïso with 11th pick but was worth 37th pick.</li>
 
   </ul>'
-draft_description: Rick Pitino ranks in the 11th percentile for drafting among executives
+draft_description: Rick Pitino ranks in the 7th percentile for drafting among executives
   in our database. Pitino's draft picks average out to be worth the equivalent of
-  12 spots lower than they were picked due to their terrible drafting.
+  16 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 4
-draft_overall_percentile_vorp: 48
-draft_rating_bpm: -10
-draft_rating_grade_bpm: F
+draft_overall_percentile_vorp: 47
+draft_rating_bpm: -14
+draft_rating_grade_bpm: D-
 draft_rating_grade_vorp: F
-draft_rating_percentile_bpm: 17
-draft_rating_percentile_vorp: 11
-draft_rating_vorp: -12
+draft_rating_percentile_bpm: 23
+draft_rating_percentile_vorp: 7
+draft_rating_vorp: -16
 draft_total_bpm: 159952
 draft_total_grade_bpm: A-
 draft_total_grade_vorp: A-
@@ -84,7 +84,7 @@ trade_lose_list: '<ul>
   </ul>'
 trade_num: 47
 trade_overall_percentile_bpm: 50
-trade_overall_percentile_vorp: 71
+trade_overall_percentile_vorp: 70
 trade_rating_bpm: 0
 trade_rating_grade_bpm: B+
 trade_rating_grade_vorp: A+
@@ -93,9 +93,9 @@ trade_rating_percentile_vorp: 94
 trade_rating_vorp: 0
 trade_total_bpm: -30982
 trade_total_grade_bpm: D-
-trade_total_grade_vorp: C
+trade_total_grade_vorp: C-
 trade_total_percentile_bpm: 23
-trade_total_percentile_vorp: 48
+trade_total_percentile_vorp: 47
 trade_total_vorp: -4
 trade_win_list: '<ul>
 

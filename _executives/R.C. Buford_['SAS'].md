@@ -2,24 +2,24 @@
 bpm_rank: 7
 draft_bust_list: '<ul>
 
-  <li>Drafted Lonnie Walker with 18th pick but was worth 55th pick.</li>
-
   <li>Drafted Cory Joseph with 29th pick but was worth 19th pick.</li>
+
+  <li>Drafted Lonnie Walker with 18th pick but was worth 58th pick.</li>
 
   <li>Drafted Beno Udrih with 28th pick but was worth 18th pick.</li>
 
   </ul>'
-draft_description: R.C. Buford ranks in the 80th percentile for drafting among executives
+draft_description: R.C. Buford ranks in the 88th percentile for drafting among executives
   in our database. Buford's draft picks average out to be worth the equivalent of
-  7 spots higher than they were picked due to his good drafting.
+  5 spots higher than they were picked due to his good drafting.
 draft_num_players: 17
-draft_overall_percentile_vorp: 77
-draft_rating_bpm: 3
-draft_rating_grade_bpm: B
-draft_rating_grade_vorp: A-
-draft_rating_percentile_bpm: 71
-draft_rating_percentile_vorp: 81
-draft_rating_vorp: 7
+draft_overall_percentile_vorp: 80
+draft_rating_bpm: -1
+draft_rating_grade_bpm: B+
+draft_rating_grade_vorp: A
+draft_rating_percentile_bpm: 77
+draft_rating_percentile_vorp: 88
+draft_rating_vorp: 5
 draft_total_bpm: 2119
 draft_total_grade_bpm: B
 draft_total_grade_vorp: B
@@ -30,7 +30,7 @@ draft_win_list: '<ul>
 
   <li>Drafted Derrick White with 29th pick but was worth 5th pick.</li>
 
-  <li>Drafted Kyle Anderson with 30th pick but was worth 5th pick.</li>
+  <li>Drafted Kyle Anderson with 30th pick but was worth 6th pick.</li>
 
   <li>Drafted George Hill with 26th pick but was worth 7th pick.</li>
 
@@ -103,7 +103,7 @@ trade_total_bpm: 40264
 trade_total_grade_bpm: B+
 trade_total_grade_vorp: C-
 trade_total_percentile_bpm: 80
-trade_total_percentile_vorp: 43
+trade_total_percentile_vorp: 42
 trade_total_vorp: -6
 trade_win_list: '<ul>
 

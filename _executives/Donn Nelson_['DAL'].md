@@ -2,22 +2,24 @@
 bpm_rank: 17
 draft_bust_list: '<ul>
 
-  <li>Drafted Dennis Smith Jr. with 9th pick but was worth 37th pick.</li>
+  <li>Drafted Dennis Smith Jr. with 9th pick but was worth 40th pick.</li>
 
-  <li>Drafted Josh Green with 18th pick but was worth 56th pick.</li>
+  <li>Drafted Josh Green with 18th pick but was worth 58th pick.</li>
+
+  <li>Drafted Maurice Ager with 28th pick but was worth 52th pick.</li>
 
   </ul>'
-draft_description: Donn Nelson ranks in the 30th percentile for drafting among executives
+draft_description: Donn Nelson ranks in the 35th percentile for drafting among executives
   in our database. Nelson's draft picks average out to be worth the equivalent of
-  5 spots lower than they were picked due to their terrible drafting.
+  7 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 8
-draft_overall_percentile_vorp: 36
-draft_rating_bpm: 0
-draft_rating_grade_bpm: C+
-draft_rating_grade_vorp: D
-draft_rating_percentile_bpm: 56
-draft_rating_percentile_vorp: 30
-draft_rating_vorp: -5
+draft_overall_percentile_vorp: 39
+draft_rating_bpm: -4
+draft_rating_grade_bpm: B-
+draft_rating_grade_vorp: D+
+draft_rating_percentile_bpm: 67
+draft_rating_percentile_vorp: 36
+draft_rating_vorp: -7
 draft_total_bpm: -21878
 draft_total_grade_bpm: C-
 draft_total_grade_vorp: C-
@@ -26,7 +28,7 @@ draft_total_percentile_vorp: 42
 draft_total_vorp: 3
 draft_win_list: '<ul>
 
-  <li>Drafted A.J. Hammons with 46th pick but was worth 38th pick.</li>
+  <li>Drafted A.J. Hammons with 46th pick but was worth 43th pick.</li>
 
   </ul>'
 end_year: 2021
@@ -86,7 +88,7 @@ trade_lose_list: '<ul>
   </ul>'
 trade_num: 194
 trade_overall_percentile_bpm: 88
-trade_overall_percentile_vorp: 58
+trade_overall_percentile_vorp: 57
 trade_rating_bpm: 0
 trade_rating_grade_bpm: A-
 trade_rating_grade_vorp: B

@@ -2,22 +2,22 @@
 bpm_rank: 14
 draft_bust_list: '<ul>
 
-  <li>Drafted Dante Exum with 5th pick but was worth 50th pick.</li>
+  <li>Drafted Dante Exum with 5th pick but was worth 56th pick.</li>
 
-  <li>Drafted Trey Lyles with 12th pick but was worth 20th pick.</li>
+  <li>Drafted Trey Lyles with 12th pick but was worth 19th pick.</li>
 
   </ul>'
-draft_description: Dennis Lindsey ranks in the 50th percentile for drafting among
+draft_description: Dennis Lindsey ranks in the 55th percentile for drafting among
   executives in our database. Lindsey's draft picks average out to be worth the equivalent
-  of 1 spot higher than they were picked due to his good drafting.
+  of 1 spot lower than they were picked due to their terrible drafting.
 draft_num_players: 10
-draft_overall_percentile_vorp: 44
-draft_rating_bpm: 3
+draft_overall_percentile_vorp: 47
+draft_rating_bpm: -3
 draft_rating_grade_bpm: B
-draft_rating_grade_vorp: C
-draft_rating_percentile_bpm: 70
-draft_rating_percentile_vorp: 50
-draft_rating_vorp: 1
+draft_rating_grade_vorp: C+
+draft_rating_percentile_bpm: 72
+draft_rating_percentile_vorp: 56
+draft_rating_vorp: -1
 draft_total_bpm: -22341
 draft_total_grade_bpm: D+
 draft_total_grade_vorp: D+
