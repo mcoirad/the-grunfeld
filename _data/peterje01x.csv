@@ -1,33 +1,33 @@
-date,Transaction,single_value_bpm,value_bpm,single_value_vorp,value_vorp
-2024-06-26 00:00:00,added Tidjane Salaün to CHA,0.0,0,0.0,0.0
-2024-06-26 00:00:00,added KJ Simpson to CHA,0.0,0,0.0,0.0
-2024-06-26 00:00:00,added Tidjane Salaün to CHA,0.0,0,0.0,0.0
-2024-06-26 00:00:00,added KJ Simpson to CHA,0.0,0,0.0,0.0
-2024-07-03 00:00:00,added Tidjane Salaun to CHA,0.0,0,0.0,0.0
-2024-07-06 00:00:00,added Josh Green to CHO,-8302.800000000001,-8302,-1.1,-1.1
-2024-07-06 00:00:00,added Reggie Jackson to CHO,0.0,-8302,0.0,-1.1
-2024-07-06 00:00:00,added Devonte' Graham to CHA,0.0,-8302,0.0,-1.1
-2024-07-07 00:00:00,added K.J. Simpson to CHA,0.0,-8302,0.0,-1.1
-2024-07-13 00:00:00,added Taj Gibson to CHA,0.0,-8302,0.0,-1.1
-2024-07-14 00:00:00,added Miles Bridges to CHA,0.0,-8302,0.0,-1.1
-2024-07-16 00:00:00,added Seth Curry to CHA,0.0,-8302,0.0,-1.1
-2024-07-31 00:00:00,added Moussa Diabate to CHA,0.0,-8302,0.0,-1.1
-2024-09-25 00:00:00,added Harry Giles to CHA,0.0,-8302,0.0,-1.1
-2024-10-02 00:00:00,lost James Nnaji to NYK,-0.0,-8302,-0.0,-1.1
-2024-10-02 00:00:00,added Charlie Brown Jr. to CHO,0.0,-8302,0.0,-1.1
-2024-10-02 00:00:00,added DaQuan Jeffries to CHO,-4857.599999999999,-13160,-0.7,-1.8
-2024-10-02 00:00:00,added Duane Washington Jr. to CHO,0.0,-13160,0.0,-1.8
-2024-10-21 00:00:00,added Jared Rhoden to CHA,0.0,-13160,0.0,-1.8
-2024-12-02 00:00:00,added Isaiah Wong to CHA,0.0,-13160,0.0,-1.8
-2025-01-15 00:00:00,lost Nick Richards to PHO,3264.0,-9896,0.4,-1.4
-2025-01-15 00:00:00,added Josh Okogie to CHA,0.0,-9896,0.0,-1.4
-2025-02-06 00:00:00,lost Cody Martin to PHO,555.0,-9341,-0.0,-1.4
-2025-02-06 00:00:00,lost Vasilije Micić to PHO,310.8,-9030,0.1,-1.2999999999999998
-2025-02-06 00:00:00,added Jusuf Nurkic to CHA,0.0,-9030,0.0,-1.2999999999999998
-2025-02-07 00:00:00,added Elfrid Payton to CHA,0.0,-9030,0.0,-1.2999999999999998
-2025-02-12 00:00:00,added Damion Baugh to CHA,0.0,-9030,0.0,-1.2999999999999998
-2025-02-15 00:00:00,added Wendell Moore Jr. to CHA,0.0,-9030,0.0,-1.2999999999999998
-2025-03-01 00:00:00,added Malachi Flynn to CHA,0.0,-9030,0.0,-1.2999999999999998
-2025-03-12 00:00:00,added Marcus Garrett to CHA,0.0,-9030,0.0,-1.2999999999999998
-2025-04-03 00:00:00,added Jaylen Sims to CHA,0.0,-9030,0.0,-1.2999999999999998
-2025-04-13 00:00:00,added Jaylen Sims to CHA,0.0,-9030,0.0,-1.2999999999999998
+date,Transaction,single_value_bpm,value_bpm,single_value_vorp,value_vorp,transaction_type,player_name
+2024-06-26 00:00:00,added Tidjane Salaün to CHA,0.0,0,0.0,0.0,draft,Tidjane Salaün
+2024-06-26 00:00:00,added KJ Simpson to CHA,0.0,0,0.0,0.0,draft,KJ Simpson
+2024-06-26 00:00:00,added Tidjane Salaün to CHA,0.0,0,0.0,0.0,draft,Tidjane Salaün
+2024-06-26 00:00:00,added KJ Simpson to CHA,0.0,0,0.0,0.0,draft,KJ Simpson
+2024-07-03 00:00:00,added Tidjane Salaun to CHA,0.0,0,0.0,0.0,signing,Tidjane Salaun
+2024-07-06 00:00:00,added Josh Green to CHO,-8302.800000000001,-8302,-1.1,-1.1,multitrade,Josh Green
+2024-07-06 00:00:00,added Reggie Jackson to CHO,0.0,-8302,0.0,-1.1,multitrade,Reggie Jackson
+2024-07-06 00:00:00,added Devonte' Graham to CHA,0.0,-8302,0.0,-1.1,trade,Devonte' Graham
+2024-07-07 00:00:00,added K.J. Simpson to CHA,0.0,-8302,0.0,-1.1,signing,K.J. Simpson
+2024-07-13 00:00:00,added Taj Gibson to CHA,0.0,-8302,0.0,-1.1,signing,Taj Gibson
+2024-07-14 00:00:00,added Miles Bridges to CHA,0.0,-8302,0.0,-1.1,signing,Miles Bridges
+2024-07-16 00:00:00,added Seth Curry to CHA,0.0,-8302,0.0,-1.1,signing,Seth Curry
+2024-07-31 00:00:00,added Moussa Diabate to CHA,0.0,-8302,0.0,-1.1,signing,Moussa Diabate
+2024-09-25 00:00:00,added Harry Giles to CHA,0.0,-8302,0.0,-1.1,signing,Harry Giles
+2024-10-02 00:00:00,lost James Nnaji to NYK,-0.0,-8302,-0.0,-1.1,multitrade,James Nnaji
+2024-10-02 00:00:00,added Charlie Brown Jr. to CHO,0.0,-8302,0.0,-1.1,multitrade,Charlie Brown Jr.
+2024-10-02 00:00:00,added DaQuan Jeffries to CHO,-4857.599999999999,-13160,-0.7,-1.8,multitrade,DaQuan Jeffries
+2024-10-02 00:00:00,added Duane Washington Jr. to CHO,0.0,-13160,0.0,-1.8,multitrade,Duane Washington Jr.
+2024-10-21 00:00:00,added Jared Rhoden to CHA,0.0,-13160,0.0,-1.8,signing,Jared Rhoden
+2024-12-02 00:00:00,added Isaiah Wong to CHA,0.0,-13160,0.0,-1.8,signing,Isaiah Wong
+2025-01-15 00:00:00,lost Nick Richards to PHO,3264.0,-9896,0.4,-1.4,trade,Nick Richards
+2025-01-15 00:00:00,added Josh Okogie to CHA,0.0,-9896,0.0,-1.4,trade,Josh Okogie
+2025-02-06 00:00:00,lost Cody Martin to PHO,555.0,-9341,-0.0,-1.4,trade,Cody Martin
+2025-02-06 00:00:00,lost Vasilije Micić to PHO,310.8,-9030,0.1,-1.2999999999999998,trade,Vasilije Micić
+2025-02-06 00:00:00,added Jusuf Nurkic to CHA,0.0,-9030,0.0,-1.2999999999999998,trade,Jusuf Nurkic
+2025-02-07 00:00:00,added Elfrid Payton to CHA,0.0,-9030,0.0,-1.2999999999999998,signing,Elfrid Payton
+2025-02-12 00:00:00,added Damion Baugh to CHA,0.0,-9030,0.0,-1.2999999999999998,signing,Damion Baugh
+2025-02-15 00:00:00,added Wendell Moore Jr. to CHA,0.0,-9030,0.0,-1.2999999999999998,signing,Wendell Moore Jr.
+2025-03-01 00:00:00,added Malachi Flynn to CHA,0.0,-9030,0.0,-1.2999999999999998,signing,Malachi Flynn
+2025-03-12 00:00:00,added Marcus Garrett to CHA,0.0,-9030,0.0,-1.2999999999999998,signing,Marcus Garrett
+2025-04-03 00:00:00,added Jaylen Sims to CHA,0.0,-9030,0.0,-1.2999999999999998,signing,Jaylen Sims
+2025-04-13 00:00:00,added Jaylen Sims to CHA,0.0,-9030,0.0,-1.2999999999999998,signing,Jaylen Sims

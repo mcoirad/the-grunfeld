@@ -1,20 +1,20 @@
-date,Transaction,single_value_bpm,value_bpm,single_value_vorp,value_vorp
-2021-07-29 00:00:00,added Santi Aldama to UTA,0.0,0,0.0,0.0
-2021-07-30 00:00:00,lost Derrick Favors to OKC,1371.3,1371,-0.0,0.0
-2021-08-06 00:00:00,added Rudy Gay to UTA,-4302.0,-2930,-0.1,-0.1
-2021-08-06 00:00:00,added Hassan Whiteside to UTA,2440.2000000000003,-490,1.2,1.1
-2021-08-06 00:00:00,added Mike Conley to UTA,6635.0,6144,3.4000000000000004,4.5
-2021-08-07 00:00:00,added Eric Paschall to UTA,-368.5,5776,0.3,4.8
-2021-08-07 00:00:00,lost Santi Aldama to MEM,-3598.2000000000003,2177,-3.6,1.1999999999999995
-2021-08-07 00:00:00,added Jared Butler to UTA,0.0,2177,0.0,1.1999999999999995
-2021-08-07 00:00:00,added Jabari Walker to UTA,0.0,2177,0.0,1.1999999999999995
-2021-08-07 00:00:00,added Jarrell Brantley to UTA,136.5,2314,0.1,1.2999999999999998
-2021-08-10 00:00:00,added Trent Forrest to UTA,-765.0,1549,0.2,1.4999999999999998
-2021-08-11 00:00:00,added Jared Butler to UTA,-576.0,973,0.0,1.4999999999999998
-2021-08-14 00:00:00,added MaCio Teague to UTA,0.0,973,0.0,1.4999999999999998
-2021-09-13 00:00:00,added Derrick Alston Jr. to UTA,0.0,973,0.0,1.4999999999999998
-2021-09-22 00:00:00,added Justin James to UTA,0.0,973,0.0,1.4999999999999998
-2021-09-28 00:00:00,added Malik Fitts to UTA,0.0,973,0.0,1.4999999999999998
-2021-09-28 00:00:00,added Marques Bolden to UTA,0.0,973,0.0,1.4999999999999998
-2021-10-14 00:00:00,added Nino Johnson to UTA,0.0,973,0.0,1.4999999999999998
-2021-10-16 00:00:00,added Malik Fitts to UTA,-343.0,630,-0.1,1.3999999999999997
+date,Transaction,single_value_bpm,value_bpm,single_value_vorp,value_vorp,transaction_type,player_name
+2021-07-29 00:00:00,added Santi Aldama to UTA,0.0,0,0.0,0.0,draft,Santi Aldama
+2021-07-30 00:00:00,lost Derrick Favors to OKC,1371.3,1371,-0.0,0.0,trade,Derrick Favors
+2021-08-06 00:00:00,added Rudy Gay to UTA,-4302.0,-2930,-0.1,-0.1,signing,Rudy Gay
+2021-08-06 00:00:00,added Hassan Whiteside to UTA,2440.2000000000003,-490,1.2,1.1,signing,Hassan Whiteside
+2021-08-06 00:00:00,added Mike Conley to UTA,6635.0,6144,3.4000000000000004,4.5,signing,Mike Conley
+2021-08-07 00:00:00,added Eric Paschall to UTA,-368.5,5776,0.3,4.8,trade,Eric Paschall
+2021-08-07 00:00:00,lost Santi Aldama to MEM,-3598.2000000000003,2177,-3.6,1.1999999999999995,trade,Santi Aldama
+2021-08-07 00:00:00,added Jared Butler to UTA,0.0,2177,0.0,1.1999999999999995,trade,Jared Butler
+2021-08-07 00:00:00,added Jabari Walker to UTA,0.0,2177,0.0,1.1999999999999995,trade,Jabari Walker
+2021-08-07 00:00:00,added Jarrell Brantley to UTA,136.5,2314,0.1,1.2999999999999998,signing,Jarrell Brantley
+2021-08-10 00:00:00,added Trent Forrest to UTA,-765.0,1549,0.2,1.4999999999999998,signing,Trent Forrest
+2021-08-11 00:00:00,added Jared Butler to UTA,-576.0,973,0.0,1.4999999999999998,signing,Jared Butler
+2021-08-14 00:00:00,added MaCio Teague to UTA,0.0,973,0.0,1.4999999999999998,signing,MaCio Teague
+2021-09-13 00:00:00,added Derrick Alston Jr. to UTA,0.0,973,0.0,1.4999999999999998,signing,Derrick Alston Jr.
+2021-09-22 00:00:00,added Justin James to UTA,0.0,973,0.0,1.4999999999999998,signing,Justin James
+2021-09-28 00:00:00,added Malik Fitts to UTA,0.0,973,0.0,1.4999999999999998,signing,Malik Fitts
+2021-09-28 00:00:00,added Marques Bolden to UTA,0.0,973,0.0,1.4999999999999998,signing,Marques Bolden
+2021-10-14 00:00:00,added Nino Johnson to UTA,0.0,973,0.0,1.4999999999999998,signing,Nino Johnson
+2021-10-16 00:00:00,added Malik Fitts to UTA,-343.0,630,-0.1,1.3999999999999997,signing,Malik Fitts

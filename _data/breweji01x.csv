@@ -1,9 +1,9 @@
-date,Transaction,single_value_bpm,value_bpm,single_value_vorp,value_vorp
-1990-12-29 00:00:00,added Dan Godfread to MIN,0.0,0,0.0,0.0
-1991-01-18 00:00:00,added Dan Godfread to MIN,16.0,16,0.0,0.0
-1991-06-26 00:00:00,added Luc Longley to MIN,-10600.500000000002,-10584,-1.2000000000000002,-1.2000000000000002
-1991-06-26 00:00:00,added Myron Brown to MIN,-41.4,-10625,0.0,-1.2000000000000002
-1991-10-03 00:00:00,added Tellis Frank to MIN,-2687.3,-13313,-0.2,-1.4
-1991-11-25 00:00:00,lost Tyrone Corbin to UTA,-1203.6999999999998,-14516,-3.7,-5.1000000000000005
-1991-11-25 00:00:00,added Thurl Bailey to MIN,-8021.6,-22538,0.2999999999999999,-4.800000000000001
-1991-11-25 00:00:00,added Tim Burroughs to MIN,0.0,-22538,0.0,-4.800000000000001
+date,Transaction,single_value_bpm,value_bpm,single_value_vorp,value_vorp,transaction_type,player_name
+1990-12-29 00:00:00,added Dan Godfread to MIN,0.0,0,0.0,0.0,signing,Dan Godfread
+1991-01-18 00:00:00,added Dan Godfread to MIN,16.0,16,0.0,0.0,signing,Dan Godfread
+1991-06-26 00:00:00,added Luc Longley to MIN,-10600.500000000002,-10584,-1.2000000000000002,-1.2000000000000002,draft,Luc Longley
+1991-06-26 00:00:00,added Myron Brown to MIN,-41.4,-10625,0.0,-1.2000000000000002,draft,Myron Brown
+1991-10-03 00:00:00,added Tellis Frank to MIN,-2687.3,-13313,-0.2,-1.4,signing,Tellis Frank
+1991-11-25 00:00:00,lost Tyrone Corbin to UTA,-1203.6999999999998,-14516,-3.7,-5.1000000000000005,trade,Tyrone Corbin
+1991-11-25 00:00:00,added Thurl Bailey to MIN,-8021.6,-22538,0.2999999999999999,-4.800000000000001,trade,Thurl Bailey
+1991-11-25 00:00:00,added Tim Burroughs to MIN,0.0,-22538,0.0,-4.800000000000001,trade,Tim Burroughs

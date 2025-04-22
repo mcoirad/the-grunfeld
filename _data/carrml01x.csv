@@ -1,47 +1,47 @@
-date,Transaction,single_value_bpm,value_bpm,single_value_vorp,value_vorp
-1994-06-29 00:00:00,added Eric Montross to BOS,-12673.0,-12673,-1.2999999999999998,-1.2999999999999998
-1994-06-29 00:00:00,added Andrei Fetisov to BOS,0.0,-12673,0.0,-1.2999999999999998
-1994-06-29 00:00:00,lost Andrei Fetisov to MIL,-0.0,-12673,-0.0,-1.2999999999999998
-1994-06-29 00:00:00,lost Ed Pinckney to MIL,584.5,-12088,-0.3,-1.6
-1994-06-29 00:00:00,added Blue Edwards to BOS,-1166.1,-13254,0.0,-1.6
-1994-06-29 00:00:00,added Derek Strong to BOS,-3763.2,-17017,-0.3,-1.9
-1994-07-20 00:00:00,added David Wesley to BOS,8375.8,-8642,5.3,3.4
-1994-07-25 00:00:00,added Dominique Wilkins to BOS,242.3,-8399,1.3,4.7
-1994-08-01 00:00:00,added Pervis Ellison to BOS,-6894.099999999999,-15293,0.0999999999999999,4.8
-1994-10-19 00:00:00,added Greg Minor to BOS,-7630.1,-22923,0.5999999999999999,5.4
-1995-02-03 00:00:00,lost Blue Edwards to UTA,1573.0,-21350,0.1,5.499999999999999
-1995-02-03 00:00:00,added Jay Humphries to BOS,-260.0,-21610,0.0,5.499999999999999
-1995-02-03 00:00:00,added Junior Burrough to BOS,0.0,-21610,0.0,5.499999999999999
-1995-02-28 00:00:00,added Tony Dawson to BOS,-202.8,-21813,0.0,5.499999999999999
-1995-02-28 00:00:00,added James Blackwell to BOS,30.5,-21783,0.0,5.499999999999999
-1995-06-28 00:00:00,added Eric Williams to BOS,-26891.4,-48674,-0.8000000000000002,4.699999999999999
-1995-06-28 00:00:00,added Junior Burrough to BOS,-3712.5,-52387,-0.7,3.999999999999999
-1995-09-22 00:00:00,added Dana Barros to BOS,11753.1,-40634,6.5,10.5
-1995-10-04 00:00:00,added Doug Smith to BOS,-1122.4,-41756,-0.2,10.3
-1995-10-05 00:00:00,added Fred Vinson to BOS,0.0,-41756,0.0,10.3
-1995-10-24 00:00:00,added Charles Claxton to BOS,-132.29999999999998,-41888,0.0,10.3
-1995-11-08 00:00:00,added Larry Sykes to BOS,-35.4,-41924,0.0,10.3
-1995-11-24 00:00:00,added Thomas Hamilton to BOS,-1029.0,-42953,-0.2,10.1
-1995-11-26 00:00:00,lost Sherman Douglas to MIL,1513.7,-41439,-1.9,8.200000000000001
-1995-11-26 00:00:00,added Todd Day to BOS,-2219.6000000000004,-43659,1.4,9.6
-1995-11-26 00:00:00,added Alton Lister to BOS,-6161.5,-49820,-0.8999999999999999,8.700000000000001
-1996-03-23 00:00:00,added Todd Mundt to BOS,0.0,-49820,0.0,8.700000000000001
-1996-04-12 00:00:00,added Todd Mundt to BOS,-280.5,-50101,-0.1,8.600000000000001
-1996-06-21 00:00:00,lost Eric Montross to DAL,5904.0,-44197,1.0,9.6
-1996-06-21 00:00:00,lost Samaki Walker to DAL,8810.2,-35386,1.2000000000000002,10.8
-1996-06-21 00:00:00,added Antoine Walker to BOS,0.0,-35386,0.0,10.8
-1996-06-21 00:00:00,added Ron Mercer to BOS,-7294.099999999999,-42680,0.3,11.1
-1996-06-26 00:00:00,added Antoine Walker to BOS,14859.7,-27821,14.9,26.0
-1996-06-26 00:00:00,added Steve Hamer to BOS,-1742.0,-29563,-0.3,25.7
-1996-08-01 00:00:00,added Frank Brickowski to BOS,-1428.0,-30991,-0.2,25.5
-1996-09-10 00:00:00,added Nate Driggers to BOS,0.0,-30991,0.0,25.5
-1996-10-08 00:00:00,added Brett Szabo to BOS,0.0,-30991,0.0,25.5
-1996-11-02 00:00:00,added Marty Conlon to BOS,-5003.400000000001,-35994,-0.5,25.0
-1996-11-08 00:00:00,added Nate Driggers to BOS,0.0,-35994,0.0,25.0
-1997-01-10 00:00:00,added Brett Szabo to BOS,0.0,-35994,0.0,25.0
-1997-01-30 00:00:00,added Brett Szabo to BOS,-3972.0,-39966,-0.7,24.3
-1997-02-08 00:00:00,added Michael Hawkins to BOS,0.0,-39966,0.0,24.3
-1997-03-07 00:00:00,added Michael Hawkins to BOS,-1271.4,-41238,-0.2,24.1
-1997-03-10 00:00:00,added Stacey King to BOS,-36.3,-41274,0.0,24.1
-1997-04-04 00:00:00,added Nate Driggers to BOS,0.0,-41274,0.0,24.1
-1997-04-14 00:00:00,added Nate Driggers to BOS,-990.0,-42264,-0.2,23.9
+date,Transaction,single_value_bpm,value_bpm,single_value_vorp,value_vorp,transaction_type,player_name
+1994-06-29 00:00:00,added Eric Montross to BOS,-12673.0,-12673,-1.2999999999999998,-1.2999999999999998,draft,Eric Montross
+1994-06-29 00:00:00,added Andrei Fetisov to BOS,0.0,-12673,0.0,-1.2999999999999998,draft,Andrei Fetisov
+1994-06-29 00:00:00,lost Andrei Fetisov to MIL,-0.0,-12673,-0.0,-1.2999999999999998,trade,Andrei Fetisov
+1994-06-29 00:00:00,lost Ed Pinckney to MIL,584.5,-12088,-0.3,-1.6,trade,Ed Pinckney
+1994-06-29 00:00:00,added Blue Edwards to BOS,-1166.1,-13254,0.0,-1.6,trade,Blue Edwards
+1994-06-29 00:00:00,added Derek Strong to BOS,-3763.2,-17017,-0.3,-1.9,trade,Derek Strong
+1994-07-20 00:00:00,added David Wesley to BOS,8375.8,-8642,5.3,3.4,signing,David Wesley
+1994-07-25 00:00:00,added Dominique Wilkins to BOS,242.3,-8399,1.3,4.7,signing,Dominique Wilkins
+1994-08-01 00:00:00,added Pervis Ellison to BOS,-6894.099999999999,-15293,0.0999999999999999,4.8,signing,Pervis Ellison
+1994-10-19 00:00:00,added Greg Minor to BOS,-7630.1,-22923,0.5999999999999999,5.4,signing,Greg Minor
+1995-02-03 00:00:00,lost Blue Edwards to UTA,1573.0,-21350,0.1,5.499999999999999,trade,Blue Edwards
+1995-02-03 00:00:00,added Jay Humphries to BOS,-260.0,-21610,0.0,5.499999999999999,trade,Jay Humphries
+1995-02-03 00:00:00,added Junior Burrough to BOS,0.0,-21610,0.0,5.499999999999999,trade,Junior Burrough
+1995-02-28 00:00:00,added Tony Dawson to BOS,-202.8,-21813,0.0,5.499999999999999,signing,Tony Dawson
+1995-02-28 00:00:00,added James Blackwell to BOS,30.5,-21783,0.0,5.499999999999999,signing,James Blackwell
+1995-06-28 00:00:00,added Eric Williams to BOS,-26891.4,-48674,-0.8000000000000002,4.699999999999999,draft,Eric Williams
+1995-06-28 00:00:00,added Junior Burrough to BOS,-3712.5,-52387,-0.7,3.999999999999999,draft,Junior Burrough
+1995-09-22 00:00:00,added Dana Barros to BOS,11753.1,-40634,6.5,10.5,signing,Dana Barros
+1995-10-04 00:00:00,added Doug Smith to BOS,-1122.4,-41756,-0.2,10.3,signing,Doug Smith
+1995-10-05 00:00:00,added Fred Vinson to BOS,0.0,-41756,0.0,10.3,signing,Fred Vinson
+1995-10-24 00:00:00,added Charles Claxton to BOS,-132.29999999999998,-41888,0.0,10.3,signing,Charles Claxton
+1995-11-08 00:00:00,added Larry Sykes to BOS,-35.4,-41924,0.0,10.3,signing,Larry Sykes
+1995-11-24 00:00:00,added Thomas Hamilton to BOS,-1029.0,-42953,-0.2,10.1,signing,Thomas Hamilton
+1995-11-26 00:00:00,lost Sherman Douglas to MIL,1513.7,-41439,-1.9,8.200000000000001,trade,Sherman Douglas
+1995-11-26 00:00:00,added Todd Day to BOS,-2219.6000000000004,-43659,1.4,9.6,trade,Todd Day
+1995-11-26 00:00:00,added Alton Lister to BOS,-6161.5,-49820,-0.8999999999999999,8.700000000000001,trade,Alton Lister
+1996-03-23 00:00:00,added Todd Mundt to BOS,0.0,-49820,0.0,8.700000000000001,signing,Todd Mundt
+1996-04-12 00:00:00,added Todd Mundt to BOS,-280.5,-50101,-0.1,8.600000000000001,signing,Todd Mundt
+1996-06-21 00:00:00,lost Eric Montross to DAL,5904.0,-44197,1.0,9.6,trade,Eric Montross
+1996-06-21 00:00:00,lost Samaki Walker to DAL,8810.2,-35386,1.2000000000000002,10.8,trade,Samaki Walker
+1996-06-21 00:00:00,added Antoine Walker to BOS,0.0,-35386,0.0,10.8,trade,Antoine Walker
+1996-06-21 00:00:00,added Ron Mercer to BOS,-7294.099999999999,-42680,0.3,11.1,trade,Ron Mercer
+1996-06-26 00:00:00,added Antoine Walker to BOS,14859.7,-27821,14.9,26.0,draft,Antoine Walker
+1996-06-26 00:00:00,added Steve Hamer to BOS,-1742.0,-29563,-0.3,25.7,draft,Steve Hamer
+1996-08-01 00:00:00,added Frank Brickowski to BOS,-1428.0,-30991,-0.2,25.5,signing,Frank Brickowski
+1996-09-10 00:00:00,added Nate Driggers to BOS,0.0,-30991,0.0,25.5,signing,Nate Driggers
+1996-10-08 00:00:00,added Brett Szabo to BOS,0.0,-30991,0.0,25.5,signing,Brett Szabo
+1996-11-02 00:00:00,added Marty Conlon to BOS,-5003.400000000001,-35994,-0.5,25.0,signing,Marty Conlon
+1996-11-08 00:00:00,added Nate Driggers to BOS,0.0,-35994,0.0,25.0,signing,Nate Driggers
+1997-01-10 00:00:00,added Brett Szabo to BOS,0.0,-35994,0.0,25.0,signing,Brett Szabo
+1997-01-30 00:00:00,added Brett Szabo to BOS,-3972.0,-39966,-0.7,24.3,signing,Brett Szabo
+1997-02-08 00:00:00,added Michael Hawkins to BOS,0.0,-39966,0.0,24.3,signing,Michael Hawkins
+1997-03-07 00:00:00,added Michael Hawkins to BOS,-1271.4,-41238,-0.2,24.1,signing,Michael Hawkins
+1997-03-10 00:00:00,added Stacey King to BOS,-36.3,-41274,0.0,24.1,signing,Stacey King
+1997-04-04 00:00:00,added Nate Driggers to BOS,0.0,-41274,0.0,24.1,signing,Nate Driggers
+1997-04-14 00:00:00,added Nate Driggers to BOS,-990.0,-42264,-0.2,23.9,signing,Nate Driggers

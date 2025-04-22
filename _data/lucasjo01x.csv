@@ -1,42 +1,42 @@
-date,Transaction,single_value_bpm,value_bpm,single_value_vorp,value_vorp
-1994-06-29 00:00:00,added Sharone Wright to PHI,-12220.4,-12220,-1.5,-1.5
-1994-06-29 00:00:00,added B.J. Tyler to PHI,-4045.0,-16265,-0.6,-2.1
-1994-06-29 00:00:00,added Derrick Alston to PHI,-7202.4,-23467,-0.5,-2.6
-1994-07-25 00:00:00,lost Eric Leckner to DET,4419.4,-19048,0.7,-1.9
-1994-07-25 00:00:00,added Jamie Feick to PHI,0.0,-19048,0.0,-1.9
-1994-07-28 00:00:00,added Scott Williams to PHI,-10819.5,-29867,-0.6000000000000001,-2.5
-1994-10-05 00:00:00,added Tate George to PHI,0.0,-29867,0.0,-2.5
-1994-10-06 00:00:00,added Steve Bardo to PHI,0.0,-29867,0.0,-2.5
-1994-10-08 00:00:00,added Lloyd Daniels to PHI,-617.4000000000001,-30485,-0.1,-2.6
-1994-11-08 00:00:00,added Willie Burton to PHI,-1720.4,-32205,0.4,-2.2
-1994-11-15 00:00:00,added Jaren Jackson to PHI,-848.0999999999999,-33053,-0.1,-2.3000000000000003
-1995-01-05 00:00:00,added Jeff Grayer to PHI,-4282.2,-37336,-0.5,-2.8000000000000003
-1995-02-15 00:00:00,added Kevin Pritchard to PHI,-514.8000000000001,-37850,-0.1,-2.9000000000000004
-1995-02-17 00:00:00,added Jerome Harmon to PHI,-505.6,-38356,0.0,-2.9000000000000004
-1995-03-24 00:00:00,added Alaa Abdelnaby to PHI,-747.0,-39103,-0.2,-3.1000000000000005
-1995-03-27 00:00:00,added Alphonso Ford to PHI,-1078.0,-40181,-0.2,-3.3000000000000007
-1995-04-04 00:00:00,added Corey Gaines to PHI,-1176.0,-41357,-0.1,-3.400000000000001
-1995-06-28 00:00:00,added Jerry Stackhouse to PHI,-9890.6,-51248,0.7999999999999999,-2.600000000000001
-1995-09-21 00:00:00,added Richard Dumas to PHI,-2143.1,-53391,-0.2,-2.800000000000001
-1995-09-26 00:00:00,added Vernon Maxwell to PHI,-4868.9,-58260,0.2,-2.600000000000001
-1995-10-05 00:00:00,added Charles Smith to PHI,0.0,-58260,0.0,-2.600000000000001
-1995-10-05 00:00:00,added Elmer Bennett to PHI,-745.8000000000001,-59005,-0.2,-2.800000000000001
-1995-11-21 00:00:00,added Greg Grant to PHI,-1064.0,-60069,-0.1,-2.900000000000001
-1995-11-30 00:00:00,lost Shawn Bradley to NJN,2931.3,-57138,-0.8,-3.700000000000001
-1995-11-30 00:00:00,lost Greg Graham to NJN,1261.0,-55877,0.1,-3.600000000000001
-1995-11-30 00:00:00,lost Tim Perry to NJN,-16.7,-55894,-0.1,-3.700000000000001
-1995-11-30 00:00:00,added Derrick Coleman to PHI,2134.2,-53760,5.2,1.4999999999999991
-1995-11-30 00:00:00,added Sean Higgins to PHI,-3297.6,-57057,-0.4,1.0999999999999992
-1995-11-30 00:00:00,added Rex Walters to PHI,-2178.6,-59236,0.3,1.3999999999999992
-1995-12-03 00:00:00,added Trevor Ruffin to PHI,-3102.0,-62338,0.0,1.3999999999999992
-1995-12-07 00:00:00,added Trevor Wilson to PHI,0.0,-62338,0.0,1.3999999999999992
-1995-12-12 00:00:00,added Mike Brown to PHI,-988.2,-63326,-0.2,1.1999999999999993
-1995-12-12 00:00:00,added Scott Skiles to PHI,-991.2,-64317,-0.1,1.0999999999999992
-1996-01-10 00:00:00,added Greg Sutton to PHI,0.0,-64317,0.0,1.0999999999999992
-1996-01-11 00:00:00,added LaSalle Thompson to PHI,-4483.4,-68800,-0.7,0.3999999999999992
-1996-01-30 00:00:00,added Greg Sutton to PHI,-1813.5,-70614,-0.2,0.1999999999999992
-1996-02-22 00:00:00,lost Sharone Wright to TOR,9550.3,-61064,1.8000000000000005,2.0
-1996-02-22 00:00:00,added Tony Massenburg to PHI,-3457.2,-64521,-0.5,1.4999999999999998
-1996-02-22 00:00:00,added Ed Pinckney to PHI,-611.1,-65132,0.2,1.6999999999999995
-1996-02-22 00:00:00,added Ryan Minor to PHI,0.0,-65132,0.0,1.6999999999999995
-1996-02-22 00:00:00,added James Collins to PHI,0.0,-65132,0.0,1.6999999999999995
+date,Transaction,single_value_bpm,value_bpm,single_value_vorp,value_vorp,transaction_type,player_name
+1994-06-29 00:00:00,added Sharone Wright to PHI,-12220.4,-12220,-1.5,-1.5,draft,Sharone Wright
+1994-06-29 00:00:00,added B.J. Tyler to PHI,-4045.0,-16265,-0.6,-2.1,draft,B.J. Tyler
+1994-06-29 00:00:00,added Derrick Alston to PHI,-7202.4,-23467,-0.5,-2.6,draft,Derrick Alston
+1994-07-25 00:00:00,lost Eric Leckner to DET,4419.4,-19048,0.7,-1.9,trade,Eric Leckner
+1994-07-25 00:00:00,added Jamie Feick to PHI,0.0,-19048,0.0,-1.9,trade,Jamie Feick
+1994-07-28 00:00:00,added Scott Williams to PHI,-10819.5,-29867,-0.6000000000000001,-2.5,signing,Scott Williams
+1994-10-05 00:00:00,added Tate George to PHI,0.0,-29867,0.0,-2.5,signing,Tate George
+1994-10-06 00:00:00,added Steve Bardo to PHI,0.0,-29867,0.0,-2.5,signing,Steve Bardo
+1994-10-08 00:00:00,added Lloyd Daniels to PHI,-617.4000000000001,-30485,-0.1,-2.6,signing,Lloyd Daniels
+1994-11-08 00:00:00,added Willie Burton to PHI,-1720.4,-32205,0.4,-2.2,signing,Willie Burton
+1994-11-15 00:00:00,added Jaren Jackson to PHI,-848.0999999999999,-33053,-0.1,-2.3000000000000003,signing,Jaren Jackson
+1995-01-05 00:00:00,added Jeff Grayer to PHI,-4282.2,-37336,-0.5,-2.8000000000000003,signing,Jeff Grayer
+1995-02-15 00:00:00,added Kevin Pritchard to PHI,-514.8000000000001,-37850,-0.1,-2.9000000000000004,signing,Kevin Pritchard
+1995-02-17 00:00:00,added Jerome Harmon to PHI,-505.6,-38356,0.0,-2.9000000000000004,signing,Jerome Harmon
+1995-03-24 00:00:00,added Alaa Abdelnaby to PHI,-747.0,-39103,-0.2,-3.1000000000000005,signing,Alaa Abdelnaby
+1995-03-27 00:00:00,added Alphonso Ford to PHI,-1078.0,-40181,-0.2,-3.3000000000000007,signing,Alphonso Ford
+1995-04-04 00:00:00,added Corey Gaines to PHI,-1176.0,-41357,-0.1,-3.400000000000001,signing,Corey Gaines
+1995-06-28 00:00:00,added Jerry Stackhouse to PHI,-9890.6,-51248,0.7999999999999999,-2.600000000000001,draft,Jerry Stackhouse
+1995-09-21 00:00:00,added Richard Dumas to PHI,-2143.1,-53391,-0.2,-2.800000000000001,signing,Richard Dumas
+1995-09-26 00:00:00,added Vernon Maxwell to PHI,-4868.9,-58260,0.2,-2.600000000000001,signing,Vernon Maxwell
+1995-10-05 00:00:00,added Charles Smith to PHI,0.0,-58260,0.0,-2.600000000000001,signing,Charles Smith
+1995-10-05 00:00:00,added Elmer Bennett to PHI,-745.8000000000001,-59005,-0.2,-2.800000000000001,signing,Elmer Bennett
+1995-11-21 00:00:00,added Greg Grant to PHI,-1064.0,-60069,-0.1,-2.900000000000001,signing,Greg Grant
+1995-11-30 00:00:00,lost Shawn Bradley to NJN,2931.3,-57138,-0.8,-3.700000000000001,trade,Shawn Bradley
+1995-11-30 00:00:00,lost Greg Graham to NJN,1261.0,-55877,0.1,-3.600000000000001,trade,Greg Graham
+1995-11-30 00:00:00,lost Tim Perry to NJN,-16.7,-55894,-0.1,-3.700000000000001,trade,Tim Perry
+1995-11-30 00:00:00,added Derrick Coleman to PHI,2134.2,-53760,5.2,1.4999999999999991,trade,Derrick Coleman
+1995-11-30 00:00:00,added Sean Higgins to PHI,-3297.6,-57057,-0.4,1.0999999999999992,trade,Sean Higgins
+1995-11-30 00:00:00,added Rex Walters to PHI,-2178.6,-59236,0.3,1.3999999999999992,trade,Rex Walters
+1995-12-03 00:00:00,added Trevor Ruffin to PHI,-3102.0,-62338,0.0,1.3999999999999992,signing,Trevor Ruffin
+1995-12-07 00:00:00,added Trevor Wilson to PHI,0.0,-62338,0.0,1.3999999999999992,signing,Trevor Wilson
+1995-12-12 00:00:00,added Mike Brown to PHI,-988.2,-63326,-0.2,1.1999999999999993,signing,Mike Brown
+1995-12-12 00:00:00,added Scott Skiles to PHI,-991.2,-64317,-0.1,1.0999999999999992,signing,Scott Skiles
+1996-01-10 00:00:00,added Greg Sutton to PHI,0.0,-64317,0.0,1.0999999999999992,signing,Greg Sutton
+1996-01-11 00:00:00,added LaSalle Thompson to PHI,-4483.4,-68800,-0.7,0.3999999999999992,signing,LaSalle Thompson
+1996-01-30 00:00:00,added Greg Sutton to PHI,-1813.5,-70614,-0.2,0.1999999999999992,signing,Greg Sutton
+1996-02-22 00:00:00,lost Sharone Wright to TOR,9550.3,-61064,1.8000000000000005,2.0,trade,Sharone Wright
+1996-02-22 00:00:00,added Tony Massenburg to PHI,-3457.2,-64521,-0.5,1.4999999999999998,trade,Tony Massenburg
+1996-02-22 00:00:00,added Ed Pinckney to PHI,-611.1,-65132,0.2,1.6999999999999995,trade,Ed Pinckney
+1996-02-22 00:00:00,added Ryan Minor to PHI,0.0,-65132,0.0,1.6999999999999995,trade,Ryan Minor
+1996-02-22 00:00:00,added James Collins to PHI,0.0,-65132,0.0,1.6999999999999995,trade,James Collins

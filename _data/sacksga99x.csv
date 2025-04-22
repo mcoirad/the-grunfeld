@@ -1,18 +1,18 @@
-date,Transaction,single_value_bpm,value_bpm,single_value_vorp,value_vorp
-2012-06-28 00:00:00,added Furkan Aldemir to LAC,0.0,0,0.0,0.0
-2012-06-29 00:00:00,lost Mo Williams to UTA,1276.2,1276,-0.4,-0.4
-2012-06-29 00:00:00,lost Furkan Aldemir to HOU,-0.0,1276,-0.0,-0.4
-2012-06-29 00:00:00,added Lamar Odom to LAC,-1131.1999999999998,145,0.6,0.1999999999999999
-2012-07-11 00:00:00,added Jamal Crawford to LAC,-733.5999999999995,-588,5.1,5.3
-2012-07-11 00:00:00,lost Reggie Evans to BRK,5777.799999999999,5189,0.3,5.6
-2012-07-11 00:00:00,lost Marcus Paige to BRK,-0.0,5189,-0.0,5.6
-2012-07-11 00:00:00,added Cheick Diallo to LAC,0.0,5189,0.0,5.6
-2012-07-18 00:00:00,added Grant Hill to LAC,-2447.2,2742,-0.4,5.199999999999999
-2012-07-19 00:00:00,added Ryan Hollins to LAC,-3501.5,-759,-0.3,4.9
-2012-07-27 00:00:00,added Ronny Turiaf to LAC,-1191.7,-1951,0.1,4.999999999999999
-2012-07-30 00:00:00,lost Sofoklis Schortsanitis to ATL,-0.0,-1951,-0.0,4.999999999999999
-2012-07-30 00:00:00,added Willie Green to LAC,-3731.2,-5682,0.0,4.999999999999999
-2012-09-14 00:00:00,added Matt Barnes to LAC,2676.1000000000004,-3006,3.8,8.799999999999999
-2012-09-29 00:00:00,added Courtney Fortson to LAC,0.0,-3006,0.0,8.799999999999999
-2013-03-08 00:00:00,added Maalik Wayns to LAC,76.5,-2929,0.0,8.799999999999999
-2013-03-15 00:00:00,added DaJuan Summers to LAC,-62.3,-2992,0.0,8.799999999999999
+date,Transaction,single_value_bpm,value_bpm,single_value_vorp,value_vorp,transaction_type,player_name
+2012-06-28 00:00:00,added Furkan Aldemir to LAC,0.0,0,0.0,0.0,draft,Furkan Aldemir
+2012-06-29 00:00:00,lost Mo Williams to UTA,1276.2,1276,-0.4,-0.4,multitrade,Mo Williams
+2012-06-29 00:00:00,lost Furkan Aldemir to HOU,-0.0,1276,-0.0,-0.4,multitrade,Furkan Aldemir
+2012-06-29 00:00:00,added Lamar Odom to LAC,-1131.1999999999998,145,0.6,0.1999999999999999,multitrade,Lamar Odom
+2012-07-11 00:00:00,added Jamal Crawford to LAC,-733.5999999999995,-588,5.1,5.3,signing,Jamal Crawford
+2012-07-11 00:00:00,lost Reggie Evans to BRK,5777.799999999999,5189,0.3,5.6,trade,Reggie Evans
+2012-07-11 00:00:00,lost Marcus Paige to BRK,-0.0,5189,-0.0,5.6,trade,Marcus Paige
+2012-07-11 00:00:00,added Cheick Diallo to LAC,0.0,5189,0.0,5.6,trade,Cheick Diallo
+2012-07-18 00:00:00,added Grant Hill to LAC,-2447.2,2742,-0.4,5.199999999999999,signing,Grant Hill
+2012-07-19 00:00:00,added Ryan Hollins to LAC,-3501.5,-759,-0.3,4.9,signing,Ryan Hollins
+2012-07-27 00:00:00,added Ronny Turiaf to LAC,-1191.7,-1951,0.1,4.999999999999999,signing,Ronny Turiaf
+2012-07-30 00:00:00,lost Sofoklis Schortsanitis to ATL,-0.0,-1951,-0.0,4.999999999999999,trade,Sofoklis Schortsanitis
+2012-07-30 00:00:00,added Willie Green to LAC,-3731.2,-5682,0.0,4.999999999999999,trade,Willie Green
+2012-09-14 00:00:00,added Matt Barnes to LAC,2676.1000000000004,-3006,3.8,8.799999999999999,signing,Matt Barnes
+2012-09-29 00:00:00,added Courtney Fortson to LAC,0.0,-3006,0.0,8.799999999999999,signing,Courtney Fortson
+2013-03-08 00:00:00,added Maalik Wayns to LAC,76.5,-2929,0.0,8.799999999999999,signing,Maalik Wayns
+2013-03-15 00:00:00,added DaJuan Summers to LAC,-62.3,-2992,0.0,8.799999999999999,signing,DaJuan Summers

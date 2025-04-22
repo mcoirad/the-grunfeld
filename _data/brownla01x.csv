@@ -1,36 +1,36 @@
-date,Transaction,single_value_bpm,value_bpm,single_value_vorp,value_vorp
-1997-06-25 00:00:00,added Keith Van Horn to PHI,701.1,701,1.4,1.4
-1997-06-25 00:00:00,added Marko Milič to PHI,0.0,701,0.0,1.4
-1997-06-25 00:00:00,added Kebu Stewart to PHI,-154.0,547,0.0,1.4
-1997-06-25 00:00:00,added James Collins to PHI,0.0,547,0.0,1.4
-1997-06-25 00:00:00,lost James Collins to LAC,103.0,650,-0.0,1.4
-1997-06-25 00:00:00,added Jelani McCoy to PHI,0.0,650,0.0,1.4
-1997-06-27 00:00:00,lost Michael Cage to NJN,-503.7,146,-0.7999999999999999,0.6
-1997-06-27 00:00:00,lost Lucious Harris to NJN,6214.900000000001,6361,-3.4,-2.8
-1997-06-27 00:00:00,lost Don MacLean to NJN,630.0,6991,0.1,-2.7
-1997-06-27 00:00:00,lost Keith Van Horn to NJN,737.7000000000003,7729,-5.4,-8.1
-1997-06-27 00:00:00,added Jim Jackson to PHI,-2682.0,5047,0.2,-7.899999999999999
-1997-06-27 00:00:00,added Eric Montross to PHI,-2089.4,2957,-0.4,-8.299999999999999
-1997-06-27 00:00:00,added Anthony Parker to PHI,234.1,3191,0.1,-8.2
-1997-06-27 00:00:00,added Tim Thomas to PHI,-1077.5,2114,0.7999999999999999,-7.399999999999999
-1997-09-04 00:00:00,added Terry Cummings to PHI,-1902.4,211,-0.2,-7.6
-1997-11-21 00:00:00,lost Marko Milič to PHO,516.0999999999999,727,-0.0,-7.6
-1997-11-21 00:00:00,added Tom Chambers to PHI,125.0,852,0.0,-7.6
-1997-12-18 00:00:00,lost Eric Montross to DET,9941.8,10794,1.6,-6.0
-1997-12-18 00:00:00,lost Jerry Stackhouse to DET,-24238.9,-13444,-12.3,-18.3
-1997-12-18 00:00:00,lost Alex Acker to DET,459.5,-12984,0.1,-18.2
-1997-12-18 00:00:00,added Aaron McKie to PHI,11420.4,-1564,9.8,-8.399999999999999
-1997-12-18 00:00:00,added Theo Ratliff to PHI,8964.6,7400,5.999999999999999,-2.3999999999999995
-1997-12-18 00:00:00,added Carlos Delfino to PHI,0.0,7400,0.0,-2.3999999999999995
-1998-01-18 00:00:00,lost Jelani McCoy to SEA,4580.8,11981,-5.551115123125783e-17,-2.3999999999999995
-1998-01-18 00:00:00,added Eric Snow to PHI,-544.5,11436,7.6,5.2
-1998-02-17 00:00:00,lost Jim Jackson to GSW,2138.6,13575,-0.1,5.1000000000000005
-1998-02-17 00:00:00,lost Clarence Weatherspoon to GSW,-103.5,13471,-0.6,4.500000000000001
-1998-02-17 00:00:00,added Brian Shaw to PHI,-1255.0,12216,-0.1,4.400000000000001
-1998-02-17 00:00:00,added Joe Smith to PHI,-5292.0,6924,-0.3,4.100000000000001
-1998-02-19 00:00:00,lost Terry Cummings to NYK,1163.8000000000002,8088,-0.0,4.100000000000001
-1998-02-19 00:00:00,added Ron Grandison to PHI,0.0,8088,0.0,4.100000000000001
-1998-02-19 00:00:00,added Herb Williams to PHI,0.0,8088,0.0,4.100000000000001
-1998-03-10 00:00:00,added William Cunningham to PHI,9.5,8097,0.0,4.100000000000001
-1998-03-11 00:00:00,added Benoit Benjamin to PHI,0.0,8097,0.0,4.100000000000001
-1998-03-30 00:00:00,added Benoit Benjamin to PHI,-1016.5,7081,-0.2,3.900000000000001
+date,Transaction,single_value_bpm,value_bpm,single_value_vorp,value_vorp,transaction_type,player_name
+1997-06-25 00:00:00,added Keith Van Horn to PHI,701.1,701,1.4,1.4,draft,Keith Van Horn
+1997-06-25 00:00:00,added Marko Milič to PHI,0.0,701,0.0,1.4,draft,Marko Milič
+1997-06-25 00:00:00,added Kebu Stewart to PHI,-154.0,547,0.0,1.4,draft,Kebu Stewart
+1997-06-25 00:00:00,added James Collins to PHI,0.0,547,0.0,1.4,draft,James Collins
+1997-06-25 00:00:00,lost James Collins to LAC,103.0,650,-0.0,1.4,trade,James Collins
+1997-06-25 00:00:00,added Jelani McCoy to PHI,0.0,650,0.0,1.4,trade,Jelani McCoy
+1997-06-27 00:00:00,lost Michael Cage to NJN,-503.7,146,-0.7999999999999999,0.6,trade,Michael Cage
+1997-06-27 00:00:00,lost Lucious Harris to NJN,6214.900000000001,6361,-3.4,-2.8,trade,Lucious Harris
+1997-06-27 00:00:00,lost Don MacLean to NJN,630.0,6991,0.1,-2.7,trade,Don MacLean
+1997-06-27 00:00:00,lost Keith Van Horn to NJN,737.7000000000003,7729,-5.4,-8.1,trade,Keith Van Horn
+1997-06-27 00:00:00,added Jim Jackson to PHI,-2682.0,5047,0.2,-7.899999999999999,trade,Jim Jackson
+1997-06-27 00:00:00,added Eric Montross to PHI,-2089.4,2957,-0.4,-8.299999999999999,trade,Eric Montross
+1997-06-27 00:00:00,added Anthony Parker to PHI,234.1,3191,0.1,-8.2,trade,Anthony Parker
+1997-06-27 00:00:00,added Tim Thomas to PHI,-1077.5,2114,0.7999999999999999,-7.399999999999999,trade,Tim Thomas
+1997-09-04 00:00:00,added Terry Cummings to PHI,-1902.4,211,-0.2,-7.6,signing,Terry Cummings
+1997-11-21 00:00:00,lost Marko Milič to PHO,516.0999999999999,727,-0.0,-7.6,trade,Marko Milič
+1997-11-21 00:00:00,added Tom Chambers to PHI,125.0,852,0.0,-7.6,trade,Tom Chambers
+1997-12-18 00:00:00,lost Eric Montross to DET,9941.8,10794,1.6,-6.0,trade,Eric Montross
+1997-12-18 00:00:00,lost Jerry Stackhouse to DET,-24238.9,-13444,-12.3,-18.3,trade,Jerry Stackhouse
+1997-12-18 00:00:00,lost Alex Acker to DET,459.5,-12984,0.1,-18.2,trade,Alex Acker
+1997-12-18 00:00:00,added Aaron McKie to PHI,11420.4,-1564,9.8,-8.399999999999999,trade,Aaron McKie
+1997-12-18 00:00:00,added Theo Ratliff to PHI,8964.6,7400,5.999999999999999,-2.3999999999999995,trade,Theo Ratliff
+1997-12-18 00:00:00,added Carlos Delfino to PHI,0.0,7400,0.0,-2.3999999999999995,trade,Carlos Delfino
+1998-01-18 00:00:00,lost Jelani McCoy to SEA,4580.8,11981,-5.551115123125783e-17,-2.3999999999999995,trade,Jelani McCoy
+1998-01-18 00:00:00,added Eric Snow to PHI,-544.5,11436,7.6,5.2,trade,Eric Snow
+1998-02-17 00:00:00,lost Jim Jackson to GSW,2138.6,13575,-0.1,5.1000000000000005,trade,Jim Jackson
+1998-02-17 00:00:00,lost Clarence Weatherspoon to GSW,-103.5,13471,-0.6,4.500000000000001,trade,Clarence Weatherspoon
+1998-02-17 00:00:00,added Brian Shaw to PHI,-1255.0,12216,-0.1,4.400000000000001,trade,Brian Shaw
+1998-02-17 00:00:00,added Joe Smith to PHI,-5292.0,6924,-0.3,4.100000000000001,trade,Joe Smith
+1998-02-19 00:00:00,lost Terry Cummings to NYK,1163.8000000000002,8088,-0.0,4.100000000000001,trade,Terry Cummings
+1998-02-19 00:00:00,added Ron Grandison to PHI,0.0,8088,0.0,4.100000000000001,trade,Ron Grandison
+1998-02-19 00:00:00,added Herb Williams to PHI,0.0,8088,0.0,4.100000000000001,trade,Herb Williams
+1998-03-10 00:00:00,added William Cunningham to PHI,9.5,8097,0.0,4.100000000000001,signing,William Cunningham
+1998-03-11 00:00:00,added Benoit Benjamin to PHI,0.0,8097,0.0,4.100000000000001,signing,Benoit Benjamin
+1998-03-30 00:00:00,added Benoit Benjamin to PHI,-1016.5,7081,-0.2,3.900000000000001,signing,Benoit Benjamin

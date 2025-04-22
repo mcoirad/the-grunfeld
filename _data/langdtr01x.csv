@@ -1,27 +1,27 @@
-date,Transaction,single_value_bpm,value_bpm,single_value_vorp,value_vorp
-2024-06-26 00:00:00,added Ron Holland II to DET,0.0,0,0.0,0.0
-2024-06-26 00:00:00,added Cam Spencer to DET,0.0,0,0.0,0.0
-2024-06-26 00:00:00,added Ron Holland II to DET,0.0,0,0.0,0.0
-2024-06-26 00:00:00,added Cam Spencer to DET,0.0,0,0.0,0.0
-2024-07-06 00:00:00,lost Cam Spencer to MEM,64.2,64,-0.1,-0.1
-2024-07-06 00:00:00,added Bobi Klintman to DET,0.0,64,0.0,-0.1
-2024-07-06 00:00:00,added Wendell Moore Jr. to DET,-21.9,42,0.1,0.0
-2024-07-06 00:00:00,lost Quentin Grimes to DAL,321.0,363,-0.5,-0.5
-2024-07-06 00:00:00,added Tim Hardaway to DET,-4176.0,-3812,0.0,-0.5
-2024-07-06 00:00:00,added Daniss Jenkins to DET,-199.2,-4011,0.0,-0.5
-2024-07-06 00:00:00,added Ron Holland to DET,-3506.1,-7518,-0.3,-0.8
-2024-07-08 00:00:00,added Tobias Harris to DET,0.0,-7518,1.1,0.3
-2024-07-11 00:00:00,added Malik Beasley to DET,1547.0,-5971,1.5,1.8
-2024-07-12 00:00:00,added Bobi Klintman to DET,-190.0,-6161,0.0,1.8
-2024-07-12 00:00:00,added Simone Fontecchio to DET,-3500.3,-9661,-0.3,1.5
-2024-09-25 00:00:00,added Lamar Stevens to DET,0.0,-9661,0.0,1.5
-2024-10-21 00:00:00,added Cole Swider to DET,-265.2,-9926,-0.1,1.4
-2024-10-22 00:00:00,added Alondes Williams to DET,176.4,-9750,0.0,1.4
-2024-12-15 00:00:00,added Javante McCoy to DET,0.0,-9750,0.0,1.4
-2024-12-16 00:00:00,added Paul Reed to DET,1218.0,-8532,0.5,1.9
-2025-01-06 00:00:00,added Tolu Smith to DET,0.0,-8532,0.0,1.9
-2025-01-06 00:00:00,added Ron Harper to DET,0.0,-8532,0.0,1.9
-2025-02-06 00:00:00,added K.J. Martin to DET,0.0,-8532,0.0,1.9
-2025-02-06 00:00:00,lost K.J. Martin to UTA,2419.2,-6112,0.4,2.3
-2025-02-06 00:00:00,added Dennis Schroder to DET,-1233.1,-7346,0.0,2.3
-2025-02-06 00:00:00,added Lindy Waters III to DET,-70.4,-7416,0.0,2.3
+date,Transaction,single_value_bpm,value_bpm,single_value_vorp,value_vorp,transaction_type,player_name
+2024-06-26 00:00:00,added Ron Holland II to DET,0.0,0,0.0,0.0,draft,Ron Holland II
+2024-06-26 00:00:00,added Cam Spencer to DET,0.0,0,0.0,0.0,draft,Cam Spencer
+2024-06-26 00:00:00,added Ron Holland II to DET,0.0,0,0.0,0.0,draft,Ron Holland II
+2024-06-26 00:00:00,added Cam Spencer to DET,0.0,0,0.0,0.0,draft,Cam Spencer
+2024-07-06 00:00:00,lost Cam Spencer to MEM,64.2,64,-0.1,-0.1,multitrade,Cam Spencer
+2024-07-06 00:00:00,added Bobi Klintman to DET,0.0,64,0.0,-0.1,multitrade,Bobi Klintman
+2024-07-06 00:00:00,added Wendell Moore Jr. to DET,-21.9,42,0.1,0.0,multitrade,Wendell Moore Jr.
+2024-07-06 00:00:00,lost Quentin Grimes to DAL,321.0,363,-0.5,-0.5,trade,Quentin Grimes
+2024-07-06 00:00:00,added Tim Hardaway to DET,-4176.0,-3812,0.0,-0.5,trade,Tim Hardaway
+2024-07-06 00:00:00,added Daniss Jenkins to DET,-199.2,-4011,0.0,-0.5,signing,Daniss Jenkins
+2024-07-06 00:00:00,added Ron Holland to DET,-3506.1,-7518,-0.3,-0.8,signing,Ron Holland
+2024-07-08 00:00:00,added Tobias Harris to DET,0.0,-7518,1.1,0.3,signing,Tobias Harris
+2024-07-11 00:00:00,added Malik Beasley to DET,1547.0,-5971,1.5,1.8,signing,Malik Beasley
+2024-07-12 00:00:00,added Bobi Klintman to DET,-190.0,-6161,0.0,1.8,signing,Bobi Klintman
+2024-07-12 00:00:00,added Simone Fontecchio to DET,-3500.3,-9661,-0.3,1.5,signing,Simone Fontecchio
+2024-09-25 00:00:00,added Lamar Stevens to DET,0.0,-9661,0.0,1.5,signing,Lamar Stevens
+2024-10-21 00:00:00,added Cole Swider to DET,-265.2,-9926,-0.1,1.4,signing,Cole Swider
+2024-10-22 00:00:00,added Alondes Williams to DET,176.4,-9750,0.0,1.4,signing,Alondes Williams
+2024-12-15 00:00:00,added Javante McCoy to DET,0.0,-9750,0.0,1.4,signing,Javante McCoy
+2024-12-16 00:00:00,added Paul Reed to DET,1218.0,-8532,0.5,1.9,signing,Paul Reed
+2025-01-06 00:00:00,added Tolu Smith to DET,0.0,-8532,0.0,1.9,signing,Tolu Smith
+2025-01-06 00:00:00,added Ron Harper to DET,0.0,-8532,0.0,1.9,signing,Ron Harper
+2025-02-06 00:00:00,added K.J. Martin to DET,0.0,-8532,0.0,1.9,trade,K.J. Martin
+2025-02-06 00:00:00,lost K.J. Martin to UTA,2419.2,-6112,0.4,2.3,multitrade,K.J. Martin
+2025-02-06 00:00:00,added Dennis Schroder to DET,-1233.1,-7346,0.0,2.3,multitrade,Dennis Schroder
+2025-02-06 00:00:00,added Lindy Waters III to DET,-70.4,-7416,0.0,2.3,multitrade,Lindy Waters III
