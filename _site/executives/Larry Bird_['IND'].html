@@ -128,7 +128,8 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     document.getElementById("toggle-stat").innerText = `Switch to ${currentStat === 'vorp' ? 'BPM' : 'VORP'}`;
     updateChart();
     updateTexts();
-    updateDraftChart(); 
+    updateDraftChart();
+    updateExecDraftPlayersChart();
 
 });
 
@@ -395,6 +396,116 @@ function updateDraftChart() {
 }
     
   </script>
+
+    <div class="col-md-9"><canvas id="executive_draft_players_chart"></canvas></div>
+    
+<script>
+let rawTransactionData = [];
+let stackedChart = null;
+let currentExecDraftStat = currentStat; // or 'bpm'
+
+d3.csv("https://raw.githubusercontent.com/mcoirad/the-grunfeld/master/_data/drafted_players/birdla01x.csv").then(data => {
+  rawTransactionData = data;
+  makeStackedChart();
+});
+
+function makeStackedChart() {
+  const ctx = document.getElementById("executive_draft_players_chart").getContext("2d");
+  const { labels, draftData, expectedData, tooltipData } = getStackedChartMappedData(currentExecDraftStat);
+
+  stackedChart = new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: labels,
+      datasets: [
+        {
+          label: `Expected ${currentExecDraftStat.toUpperCase()}`,
+          data: expectedData,
+          backgroundColor: 'red',
+        },
+        {
+          label: `Draft ${currentExecDraftStat.toUpperCase()}`,
+          data: draftData,
+          backgroundColor: 'blue',
+        }
+      ]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        tooltip: {
+          callbacks: {
+            label: function(context) {
+              return `${context.label} | ${tooltipData[context.dataIndex]}`;
+            }
+          }
+        },
+        title: {
+          display: true,
+          text: 'Drafted Players – Expected vs Actual'
+        }
+      },
+      scales: {
+        x: {
+          stacked: false  // ← not stacked = grouped bars
+        },
+        y: {
+          stacked: false, // ← disable vertical stacking
+          title: {
+            display: true,
+            text: currentExecDraftStat.toUpperCase()
+          }
+        }
+      }
+    }
+  });
+}
+
+function getStackedChartMappedData(stat) {
+  const filtered = rawTransactionData
+    .filter(d => d[`draft_${stat}`] !== "" && d[`expected_${stat}`] !== "")
+    .map(d => ({
+      name: d.name,
+      draft: parseFloat(d[`draft_${stat}`]),
+      expected: parseFloat(d[`expected_${stat}`]),
+      draftPick: d[`draft_pick_${stat}`]
+    }))
+    .sort((a, b) => b.draft - a.draft);
+
+  const labels = [];
+  const draftData = [];
+  const expectedData = [];
+  const tooltipData = [];
+
+  for (const d of filtered) {
+    labels.push(d.name);
+    draftData.push(d.draft);
+    expectedData.push(d.expected);
+    tooltipData.push(`Draft Pick ${d.draftPick}`);
+  }
+
+  return { labels, draftData, expectedData, tooltipData };
+}
+
+function updateExecDraftPlayersChart() {
+  currentExecDraftStat = currentStat;
+
+  const { labels, draftData, expectedData, tooltipData } = getStackedChartMappedData(currentExecDraftStat);
+  stackedChart.data.labels = labels;
+  stackedChart.data.datasets[0].data = expectedData;
+  stackedChart.data.datasets[0].label = `Expected ${currentExecDraftStat.toUpperCase()}`;
+  stackedChart.data.datasets[1].data = draftData;
+  stackedChart.data.datasets[1].label = `Draft ${currentExecDraftStat.toUpperCase()}`;
+  stackedChart.options.scales.y.title.text = currentExecDraftStat.toUpperCase();
+
+  stackedChart.options.plugins.tooltip.callbacks.label = function(context) {
+    const index = context.dataIndex;
+    return `${tooltipData[index]} | Draft Pick ${rawTransactionData[index]['draft_pick_' + currentExecDraftStat]}`;
+  };
+
+  stackedChart.update();
+}
+</script>
 
       Larry Bird ranks in the 73th percentile for drafting among executives in our database. Bird's draft picks average out to be worth the equivalent of 4 spots higher than they were picked due to his good drafting.
       <h5>Some of their biggest wins:</h5>

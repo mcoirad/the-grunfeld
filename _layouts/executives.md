@@ -62,7 +62,8 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     document.getElementById("toggle-stat").innerText = `Switch to ${currentStat === 'vorp' ? 'BPM' : 'VORP'}`;
     updateChart();
     updateTexts();
-    updateDraftChart(); 
+    updateDraftChart();
+    updateExecDraftPlayersChart();
 
 });
 
@@ -211,6 +212,8 @@ updateTexts();
     <div class="col-md-9">
     <div class="col-md-9"><canvas id="executive_draft_chart"></canvas></div>
     {% include executive_draft_chart.html exec_name=page.name exec_href=page.href %}
+    <div class="col-md-9"><canvas id="executive_draft_players_chart"></canvas></div>
+    {% include executive_draft_players_chart.html exec_name=page.name exec_href=page.href %}
       {{ executive.draft_description}}
       <h5>Some of their biggest wins:</h5>
       {{ executive.draft_win_list}}

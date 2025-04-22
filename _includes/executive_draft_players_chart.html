@@ -2,16 +2,16 @@
 <script>
 let rawTransactionData = [];
 let stackedChart = null;
-let currentStat = 'vorp'; // or 'bpm'
+let currentExecDraftStat = currentStat; // or 'bpm'
 
-d3.csv("https://your-data-url.csv").then(data => {
+d3.csv("https://raw.githubusercontent.com/mcoirad/the-grunfeld/master/_data/drafted_players/{{ include.exec_href }}.csv").then(data => {
   rawTransactionData = data;
   makeStackedChart();
 });
 
 function makeStackedChart() {
-  const ctx = document.getElementById("stacked_chart").getContext("2d");
-  const { labels, draftData, expectedData, tooltipData } = getStackedChartMappedData(currentStat);
+  const ctx = document.getElementById("executive_draft_players_chart").getContext("2d");
+  const { labels, draftData, expectedData, tooltipData } = getStackedChartMappedData(currentExecDraftStat);
 
   stackedChart = new Chart(ctx, {
     type: 'bar',
@@ -19,12 +19,12 @@ function makeStackedChart() {
       labels: labels,
       datasets: [
         {
-          label: `Expected ${currentStat.toUpperCase()}`,
+          label: `Expected ${currentExecDraftStat.toUpperCase()}`,
           data: expectedData,
           backgroundColor: 'red',
         },
         {
-          label: `Draft ${currentStat.toUpperCase()}`,
+          label: `Draft ${currentExecDraftStat.toUpperCase()}`,
           data: draftData,
           backgroundColor: 'blue',
         }
@@ -36,8 +36,7 @@ function makeStackedChart() {
         tooltip: {
           callbacks: {
             label: function(context) {
-              const index = context.dataIndex;
-              return `${tooltipData[index]} | Draft Pick ${rawTransactionData[index]['draft_pick_' + currentStat]}`;
+              return `${context.label} | ${tooltipData[context.dataIndex]}`;
             }
           }
         },
@@ -48,13 +47,13 @@ function makeStackedChart() {
       },
       scales: {
         x: {
-          stacked: true
+          stacked: false  // ← not stacked = grouped bars
         },
         y: {
-          stacked: true,
+          stacked: false, // ← disable vertical stacking
           title: {
             display: true,
-            text: currentStat.toUpperCase()
+            text: currentExecDraftStat.toUpperCase()
           }
         }
       }
@@ -63,37 +62,45 @@ function makeStackedChart() {
 }
 
 function getStackedChartMappedData(stat) {
+  const filtered = rawTransactionData
+    .filter(d => d[`draft_${stat}`] !== "" && d[`expected_${stat}`] !== "")
+    .map(d => ({
+      name: d.name,
+      draft: parseFloat(d[`draft_${stat}`]),
+      expected: parseFloat(d[`expected_${stat}`]),
+      draftPick: d[`draft_pick_${stat}`]
+    }))
+    .sort((a, b) => b.draft - a.draft);
+
   const labels = [];
   const draftData = [];
   const expectedData = [];
   const tooltipData = [];
 
-  rawTransactionData.forEach(d => {
-    if (d[`draft_${stat}`] !== "" && d[`expected_${stat}`] !== "") {
-      labels.push(d.name);
-      draftData.push(parseFloat(d[`draft_${stat}`]));
-      expectedData.push(parseFloat(d[`expected_${stat}`]));
-      tooltipData.push(d.name);
-    }
-  });
+  for (const d of filtered) {
+    labels.push(d.name);
+    draftData.push(d.draft);
+    expectedData.push(d.expected);
+    tooltipData.push(`Draft Pick ${d.draftPick}`);
+  }
 
   return { labels, draftData, expectedData, tooltipData };
 }
 
-function updateStackedChart(newStat) {
-  currentStat = newStat;
+function updateExecDraftPlayersChart() {
+  currentExecDraftStat = currentStat;
 
-  const { labels, draftData, expectedData, tooltipData } = getStackedChartMappedData(currentStat);
+  const { labels, draftData, expectedData, tooltipData } = getStackedChartMappedData(currentExecDraftStat);
   stackedChart.data.labels = labels;
   stackedChart.data.datasets[0].data = expectedData;
-  stackedChart.data.datasets[0].label = `Expected ${currentStat.toUpperCase()}`;
+  stackedChart.data.datasets[0].label = `Expected ${currentExecDraftStat.toUpperCase()}`;
   stackedChart.data.datasets[1].data = draftData;
-  stackedChart.data.datasets[1].label = `Draft ${currentStat.toUpperCase()}`;
-  stackedChart.options.scales.y.title.text = currentStat.toUpperCase();
+  stackedChart.data.datasets[1].label = `Draft ${currentExecDraftStat.toUpperCase()}`;
+  stackedChart.options.scales.y.title.text = currentExecDraftStat.toUpperCase();
 
   stackedChart.options.plugins.tooltip.callbacks.label = function(context) {
     const index = context.dataIndex;
-    return `${tooltipData[index]} | Draft Pick ${rawTransactionData[index]['draft_pick_' + currentStat]}`;
+    return `${tooltipData[index]} | Draft Pick ${rawTransactionData[index]['draft_pick_' + currentExecDraftStat]}`;
   };
 
   stackedChart.update();
