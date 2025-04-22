@@ -13,15 +13,18 @@ draft_description: Scott Layden ranks in the 84th percentile for drafting among 
   in our database. Layden's draft picks average out to be worth the equivalent of
   8 spots higher than they were picked due to his good drafting.
 draft_num_players: 12
-draft_rating_bpm: 6.7
+draft_overall_percentile_vorp: 72
+draft_rating_bpm: 7
 draft_rating_grade_bpm: B+
 draft_rating_grade_vorp: A-
-draft_rating_percentile_bpm: 78.89908256880734
-draft_rating_percentile_vorp: 84.40366972477064
-draft_rating_vorp: 7.8
+draft_rating_percentile_bpm: 79
+draft_rating_percentile_vorp: 84
+draft_rating_vorp: 8
 draft_total_bpm: -33903
-draft_total_percentile_bpm: 60.36585365853659
-draft_total_percentile_vorp: 60.36585365853659
+draft_total_grade_bpm: B-
+draft_total_grade_vorp: B-
+draft_total_percentile_bpm: 60
+draft_total_percentile_vorp: 60
 draft_total_vorp: 16
 draft_win_list: '<ul>
 
@@ -32,6 +35,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2019
 final_bpm: -70280
+final_vorp: 39
 href: laydesc99x
 is_active: false
 name: Scott Layden
@@ -46,9 +50,21 @@ signing_lose_list: '<ul>
   <li>Signed Antoine Carr in 1994.</li>
 
   </ul>'
-signing_rating_bpm: -0.53
+signing_num_players: 72
+signing_overall_percentile_bpm: 17
+signing_overall_percentile_vorp: 7
+signing_rating_bpm: -1
+signing_rating_grade_bpm: D
 signing_rating_grade_vorp: F
-signing_rating_vorp: -0.19
+signing_rating_percentile_bpm: 30
+signing_rating_percentile_vorp: 13
+signing_rating_vorp: 0
+signing_total_bpm: -117991
+signing_total_grade_bpm: F
+signing_total_grade_vorp: F-
+signing_total_percentile_bpm: 4
+signing_total_percentile_vorp: 1
+signing_total_vorp: -5
 signing_win_list: '<ul>
 
   <li>Signed Dikembe Mutombo in 2003.</li>
@@ -76,9 +92,21 @@ trade_lose_list: '<ul>
   <li>Lost Marcus Camby, Nenê, Mark Jackson to DEN.</li>
 
   </ul>'
-trade_rating_bpm: 0.11
+trade_num: 75
+trade_overall_percentile_bpm: 77
+trade_overall_percentile_vorp: 91
+trade_rating_bpm: 0
+trade_rating_grade_bpm: B-
 trade_rating_grade_vorp: A
-trade_rating_vorp: 0.32
+trade_rating_percentile_bpm: 65
+trade_rating_percentile_vorp: 92
+trade_rating_vorp: 0
+trade_total_bpm: 81614
+trade_total_grade_bpm: A
+trade_total_grade_vorp: A
+trade_total_percentile_bpm: 89
+trade_total_percentile_vorp: 91
+trade_total_vorp: 27
 trade_win_list: '<ul>
 
   <li>Added Kenny Gattison, Brooks Thompson, Andrei Kirilenko to UTA.</li>

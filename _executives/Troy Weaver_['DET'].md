@@ -13,21 +13,25 @@ draft_description: Troy Weaver ranks in the 5th percentile for drafting among ex
   in our database. Weaver's draft picks average out to be worth the equivalent of
   14 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 6
-draft_rating_bpm: -15.2
+draft_overall_percentile_vorp: 23
+draft_rating_bpm: -15
 draft_rating_grade_bpm: F
 draft_rating_grade_vorp: F
-draft_rating_percentile_bpm: 7.339449541284404
-draft_rating_percentile_vorp: 5.504587155963303
-draft_rating_vorp: -13.5
+draft_rating_percentile_bpm: 7
+draft_rating_percentile_vorp: 6
+draft_rating_vorp: -14
 draft_total_bpm: -38880
-draft_total_percentile_bpm: 40.853658536585364
-draft_total_percentile_vorp: 40.853658536585364
+draft_total_grade_bpm: C-
+draft_total_grade_vorp: C-
+draft_total_percentile_bpm: 41
+draft_total_percentile_vorp: 41
 draft_total_vorp: 2
 draft_win_list: '<ul>
 
   </ul>'
 end_year: 2024
 final_bpm: -95153
+final_vorp: -1
 href: weavetr99x
 is_active: false
 name: Troy Weaver
@@ -43,9 +47,21 @@ signing_lose_list: '<ul>
   <li>Signed Cory Joseph in 2021.</li>
 
   </ul>'
-signing_rating_bpm: -0.51
+signing_num_players: 76
+signing_overall_percentile_bpm: 27
+signing_overall_percentile_vorp: 52
+signing_rating_bpm: -1
+signing_rating_grade_bpm: D+
 signing_rating_grade_vorp: C+
-signing_rating_vorp: -0.03
+signing_rating_percentile_bpm: 33
+signing_rating_percentile_vorp: 54
+signing_rating_vorp: 0
+signing_total_bpm: -59088
+signing_total_grade_bpm: D-
+signing_total_grade_vorp: C
+signing_total_percentile_bpm: 21
+signing_total_percentile_vorp: 51
+signing_total_vorp: 8
 signing_win_list: '<ul>
 
   <li>Signed Jalen Duren in 2022.</li>
@@ -69,9 +85,21 @@ trade_lose_list: '<ul>
   <li>Lost Christian Wood, Luka Garza to HOU.</li>
 
   </ul>'
-trade_rating_bpm: -0.15
+trade_num: 85
+trade_overall_percentile_bpm: 38
+trade_overall_percentile_vorp: 23
+trade_rating_bpm: 0
+trade_rating_grade_bpm: D-
 trade_rating_grade_vorp: F
-trade_rating_vorp: -0.3
+trade_rating_percentile_bpm: 24
+trade_rating_percentile_vorp: 11
+trade_rating_vorp: 0
+trade_total_bpm: 2815
+trade_total_grade_bpm: C
+trade_total_grade_vorp: D+
+trade_total_percentile_bpm: 52
+trade_total_percentile_vorp: 35
+trade_total_vorp: -11
 trade_win_list: '<ul>
 
   <li>Added Balša Koprivica to DET.</li>

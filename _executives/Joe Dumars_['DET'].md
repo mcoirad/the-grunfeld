@@ -13,15 +13,18 @@ draft_description: Joe Dumars ranks in the 74th percentile for drafting among ex
   in our database. Dumars's draft picks average out to be worth the equivalent of
   5 spots higher than they were picked due to his good drafting.
 draft_num_players: 26
-draft_rating_bpm: 5.0
+draft_overall_percentile_vorp: 78
+draft_rating_bpm: 5
 draft_rating_grade_bpm: B+
 draft_rating_grade_vorp: B+
-draft_rating_percentile_bpm: 76.14678899082568
-draft_rating_percentile_vorp: 74.31192660550458
-draft_rating_vorp: 4.9
+draft_rating_percentile_bpm: 76
+draft_rating_percentile_vorp: 74
+draft_rating_vorp: 5
 draft_total_bpm: -47089
-draft_total_percentile_bpm: 82.3170731707317
-draft_total_percentile_vorp: 82.3170731707317
+draft_total_grade_bpm: A-
+draft_total_grade_vorp: A-
+draft_total_percentile_bpm: 82
+draft_total_percentile_vorp: 82
 draft_total_vorp: 50
 draft_win_list: '<ul>
 
@@ -34,6 +37,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2014
 final_bpm: -90
+final_vorp: 84
 href: dumarjo01x
 is_active: false
 name: Joe Dumars
@@ -48,9 +52,21 @@ signing_lose_list: '<ul>
   <li>Signed Kwame Brown in 2008.</li>
 
   </ul>'
-signing_rating_bpm: -0.57
+signing_num_players: 54
+signing_overall_percentile_bpm: 53
+signing_overall_percentile_vorp: 84
+signing_rating_bpm: -1
+signing_rating_grade_bpm: F
 signing_rating_grade_vorp: B+
-signing_rating_vorp: 0.06
+signing_rating_percentile_bpm: 18
+signing_rating_percentile_vorp: 77
+signing_rating_vorp: 0
+signing_total_bpm: 12512
+signing_total_grade_bpm: A
+signing_total_grade_vorp: A
+signing_total_percentile_bpm: 88
+signing_total_percentile_vorp: 91
+signing_total_vorp: 41
 signing_win_list: '<ul>
 
   <li>Signed Chauncey Billups in 2002.</li>
@@ -74,9 +90,21 @@ trade_lose_list: '<ul>
   <li>Lost Chauncey Billups, Antonio McDyess, Cheikh Samb to DEN.</li>
 
   </ul>'
-trade_rating_bpm: 0.09
+trade_num: 106
+trade_overall_percentile_bpm: 69
+trade_overall_percentile_vorp: 53
+trade_rating_bpm: 0
+trade_rating_grade_bpm: B-
 trade_rating_grade_vorp: B-
-trade_rating_vorp: 0.06
+trade_rating_percentile_bpm: 63
+trade_rating_percentile_vorp: 65
+trade_rating_vorp: 0
+trade_total_bpm: 34487
+trade_total_grade_bpm: B+
+trade_total_grade_vorp: C-
+trade_total_percentile_bpm: 76
+trade_total_percentile_vorp: 40
+trade_total_vorp: -7
 trade_win_list: '<ul>
 
   <li>Added Chucky Atkins, Ben Wallace to DET.</li>

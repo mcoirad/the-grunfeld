@@ -11,15 +11,18 @@ draft_description: Rick Pitino ranks in the 11th percentile for drafting among e
   in our database. Pitino's draft picks average out to be worth the equivalent of
   12 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 4
-draft_rating_bpm: -10.0
+draft_overall_percentile_vorp: 48
+draft_rating_bpm: -10
 draft_rating_grade_bpm: F
 draft_rating_grade_vorp: F
-draft_rating_percentile_bpm: 16.513761467889907
-draft_rating_percentile_vorp: 11.009174311926605
-draft_rating_vorp: -11.8
+draft_rating_percentile_bpm: 17
+draft_rating_percentile_vorp: 11
+draft_rating_vorp: -12
 draft_total_bpm: 159952
-draft_total_percentile_bpm: 85.97560975609755
-draft_total_percentile_vorp: 85.97560975609755
+draft_total_grade_bpm: A-
+draft_total_grade_vorp: A-
+draft_total_percentile_bpm: 86
+draft_total_percentile_vorp: 86
 draft_total_vorp: 64
 draft_win_list: '<ul>
 
@@ -28,6 +31,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2001
 final_bpm: 85876
+final_vorp: 59
 href: pitinri99x
 is_active: false
 name: Rick Pitino
@@ -42,9 +46,21 @@ signing_lose_list: '<ul>
   <li>Signed Andrew DeClercq in 1997.</li>
 
   </ul>'
-signing_rating_bpm: -0.6
+signing_num_players: 25
+signing_overall_percentile_bpm: 23
+signing_overall_percentile_vorp: 18
+signing_rating_bpm: -1
+signing_rating_grade_bpm: F
 signing_rating_grade_vorp: F
-signing_rating_vorp: -0.2
+signing_rating_percentile_bpm: 16
+signing_rating_percentile_vorp: 11
+signing_rating_vorp: 0
+signing_total_bpm: -43094
+signing_total_grade_bpm: D
+signing_total_grade_vorp: D-
+signing_total_percentile_bpm: 31
+signing_total_percentile_vorp: 24
+signing_total_vorp: 0
 signing_win_list: '<ul>
 
   <li>Signed Tyus Edney in 1997.</li>
@@ -66,9 +82,21 @@ trade_lose_list: '<ul>
   <li>Lost Andrew DeClercq, Andre Miller to CLE.</li>
 
   </ul>'
-trade_rating_bpm: 0.18
+trade_num: 47
+trade_overall_percentile_bpm: 50
+trade_overall_percentile_vorp: 71
+trade_rating_bpm: 0
+trade_rating_grade_bpm: B+
 trade_rating_grade_vorp: A+
-trade_rating_vorp: 0.36
+trade_rating_percentile_bpm: 78
+trade_rating_percentile_vorp: 94
+trade_rating_vorp: 0
+trade_total_bpm: -30982
+trade_total_grade_bpm: D-
+trade_total_grade_vorp: C
+trade_total_percentile_bpm: 23
+trade_total_percentile_vorp: 48
+trade_total_vorp: -4
 trade_win_list: '<ul>
 
   <li>Added Roy Rogers to BOS.</li>

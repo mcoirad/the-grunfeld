@@ -13,15 +13,18 @@ draft_description: Mitch Kupchak ranks in the 81th percentile for drafting among
   in our database. Kupchak's draft picks average out to be worth the equivalent of
   7 spots higher than they were picked due to his good drafting.
 draft_num_players: 23
-draft_rating_bpm: 11.0
+draft_overall_percentile_vorp: 73
+draft_rating_bpm: 11
 draft_rating_grade_bpm: A
 draft_rating_grade_vorp: A-
-draft_rating_percentile_bpm: 92.66055045871559
-draft_rating_percentile_vorp: 81.65137614678899
-draft_rating_vorp: 6.9
+draft_rating_percentile_bpm: 93
+draft_rating_percentile_vorp: 82
+draft_rating_vorp: 7
 draft_total_bpm: -66571
-draft_total_percentile_bpm: 64.63414634146342
-draft_total_percentile_vorp: 64.63414634146342
+draft_total_grade_bpm: B-
+draft_total_grade_vorp: B-
+draft_total_percentile_bpm: 65
+draft_total_percentile_vorp: 65
 draft_total_vorp: 21
 draft_win_list: '<ul>
 
@@ -34,6 +37,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2024
 final_bpm: -265025
+final_vorp: 12
 href: kupchmi01x
 is_active: false
 name: Mitch Kupchak
@@ -48,9 +52,21 @@ signing_lose_list: '<ul>
   <li>Signed Josh Powell in 2008.</li>
 
   </ul>'
-signing_rating_bpm: -0.36
+signing_num_players: 174
+signing_overall_percentile_bpm: 36
+signing_overall_percentile_vorp: 73
+signing_rating_bpm: 0
+signing_rating_grade_bpm: B
 signing_rating_grade_vorp: B
-signing_rating_vorp: 0.01
+signing_rating_percentile_bpm: 69
+signing_rating_percentile_vorp: 69
+signing_rating_vorp: 0
+signing_total_bpm: -118979
+signing_total_grade_bpm: F
+signing_total_grade_vorp: B+
+signing_total_percentile_bpm: 3
+signing_total_percentile_vorp: 77
+signing_total_vorp: 22
 signing_win_list: '<ul>
 
   <li>Signed Lou Williams in 2015.</li>
@@ -76,9 +92,21 @@ trade_lose_list: '<ul>
   <li>Lost Rick Fox, Gary Payton, Rajon Rondo to BOS.</li>
 
   </ul>'
-trade_rating_bpm: -0.02
+trade_num: 174
+trade_overall_percentile_bpm: 27
+trade_overall_percentile_vorp: 30
+trade_rating_bpm: 0
+trade_rating_grade_bpm: C-
 trade_rating_grade_vorp: C-
-trade_rating_vorp: -0.02
+trade_rating_percentile_bpm: 42
+trade_rating_percentile_vorp: 44
+trade_rating_vorp: 0
+trade_total_bpm: -79475
+trade_total_grade_bpm: F
+trade_total_grade_vorp: F
+trade_total_percentile_bpm: 13
+trade_total_percentile_vorp: 17
+trade_total_vorp: -31
 trade_win_list: '<ul>
 
   <li>Added Caron Butler, Brian Grant, Lamar Odom, Jordan Farmar, Renaldas Seibutis

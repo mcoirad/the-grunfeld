@@ -4,15 +4,18 @@ draft_bust_list: null
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
+draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
 draft_rating_grade_vorp: null
-draft_rating_percentile_bpm: .nan
-draft_rating_percentile_vorp: .nan
+draft_rating_percentile_bpm: null
+draft_rating_percentile_vorp: null
 draft_rating_vorp: null
 draft_total_bpm: 9877
-draft_total_percentile_bpm: 59.146341463414636
-draft_total_percentile_vorp: 59.146341463414636
+draft_total_grade_bpm: C+
+draft_total_grade_vorp: C+
+draft_total_percentile_bpm: 59
+draft_total_percentile_vorp: 59
 draft_total_vorp: 16
 draft_win_list: '<ul>
 
@@ -23,6 +26,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 1994
 final_bpm: -14250
+final_vorp: 15
 href: gavitda99x
 is_active: false
 name: Dave Gavitt
@@ -37,9 +41,21 @@ signing_lose_list: '<ul>
   <li>Signed Stojko Vranković in 1990.</li>
 
   </ul>'
-signing_rating_bpm: -0.45
+signing_num_players: 31
+signing_overall_percentile_bpm: 50
+signing_overall_percentile_vorp: 35
+signing_rating_bpm: 0
+signing_rating_grade_bpm: C
 signing_rating_grade_vorp: C-
-signing_rating_vorp: -0.06
+signing_rating_percentile_bpm: 48
+signing_rating_percentile_vorp: 45
+signing_rating_vorp: 0
+signing_total_bpm: -16065
+signing_total_grade_bpm: C
+signing_total_grade_vorp: D-
+signing_total_percentile_bpm: 52
+signing_total_percentile_vorp: 25
+signing_total_vorp: 0
 signing_win_list: '<ul>
 
   <li>Signed Derek Smith in 1990.</li>
@@ -63,8 +79,20 @@ trade_lose_list: '<ul>
   <li>Lost Brian Shaw to MIA.</li>
 
   </ul>'
+trade_num: 5
+trade_overall_percentile_bpm: null
+trade_overall_percentile_vorp: null
 trade_rating_bpm: null
+trade_rating_grade_bpm: null
 trade_rating_grade_vorp: null
+trade_rating_percentile_bpm: null
+trade_rating_percentile_vorp: null
 trade_rating_vorp: null
+trade_total_bpm: -8062
+trade_total_grade_bpm: C-
+trade_total_grade_vorp: C+
+trade_total_percentile_bpm: 40
+trade_total_percentile_vorp: 55
+trade_total_vorp: -1
 trade_win_list: null
 ---

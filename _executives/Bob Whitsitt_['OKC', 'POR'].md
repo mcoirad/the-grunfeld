@@ -5,15 +5,18 @@ draft_description: Bob Whitsitt ranks in the 96th percentile for drafting among 
   in our database. Whitsitt's draft picks average out to be worth the equivalent of
   12 spots higher than they were picked due to his good drafting.
 draft_num_players: 7
-draft_rating_bpm: 15.6
+draft_overall_percentile_vorp: 70
+draft_rating_bpm: 16
 draft_rating_grade_bpm: S
 draft_rating_grade_vorp: A+
-draft_rating_percentile_bpm: 98.1651376146789
-draft_rating_percentile_vorp: 96.3302752293578
-draft_rating_vorp: 12.4
+draft_rating_percentile_bpm: 98
+draft_rating_percentile_vorp: 96
+draft_rating_vorp: 12
 draft_total_bpm: -20082
-draft_total_percentile_bpm: 42.68292682926829
-draft_total_percentile_vorp: 42.68292682926829
+draft_total_grade_bpm: C-
+draft_total_grade_vorp: C-
+draft_total_percentile_bpm: 43
+draft_total_percentile_vorp: 43
 draft_total_vorp: 3
 draft_win_list: '<ul>
 
@@ -24,6 +27,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2003
 final_bpm: -40057
+final_vorp: -47
 href: whitsbo99x
 is_active: false
 name: Bob Whitsitt
@@ -38,9 +42,21 @@ signing_lose_list: '<ul>
   <li>Signed James Edwards in 1994.</li>
 
   </ul>'
-signing_rating_bpm: -0.16
+signing_num_players: 78
+signing_overall_percentile_bpm: 93
+signing_overall_percentile_vorp: 88
+signing_rating_bpm: 0
+signing_rating_grade_bpm: A
 signing_rating_grade_vorp: A-
-signing_rating_vorp: 0.13
+signing_rating_percentile_bpm: 90
+signing_rating_percentile_vorp: 87
+signing_rating_vorp: 0
+signing_total_bpm: 52096
+signing_total_grade_bpm: A+
+signing_total_grade_vorp: A
+signing_total_percentile_bpm: 96
+signing_total_percentile_vorp: 89
+signing_total_vorp: 37
 signing_win_list: '<ul>
 
   <li>Signed Arvydas Sabonis in 1995.</li>
@@ -66,9 +82,21 @@ trade_lose_list: '<ul>
   <li>Lost Scottie Pippen, Jeff Sanders to CHI.</li>
 
   </ul>'
-trade_rating_bpm: 0.31
+trade_num: 158
+trade_overall_percentile_bpm: 53
+trade_overall_percentile_vorp: 16
+trade_rating_bpm: 0
+trade_rating_grade_bpm: A
 trade_rating_grade_vorp: D
-trade_rating_vorp: -0.1
+trade_rating_percentile_bpm: 91
+trade_rating_percentile_vorp: 29
+trade_rating_vorp: 0
+trade_total_bpm: -72072
+trade_total_grade_bpm: F
+trade_total_grade_vorp: F
+trade_total_percentile_bpm: 14
+trade_total_percentile_vorp: 3
+trade_total_vorp: -87
 trade_win_list: '<ul>
 
   <li>Added Mitchell Butler, Rasheed Wallace to POR.</li>

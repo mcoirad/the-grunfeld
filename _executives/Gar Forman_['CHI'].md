@@ -13,15 +13,18 @@ draft_description: Gar Forman ranks in the 61th percentile for drafting among ex
   in our database. Forman's draft picks average out to be worth the equivalent of
   3 spots higher than they were picked due to his good drafting.
 draft_num_players: 15
-draft_rating_bpm: -1.6
+draft_overall_percentile_vorp: 63
+draft_rating_bpm: -2
 draft_rating_grade_bpm: C
 draft_rating_grade_vorp: B-
-draft_rating_percentile_bpm: 50.45871559633027
-draft_rating_percentile_vorp: 61.46788990825688
-draft_rating_vorp: 2.7
+draft_rating_percentile_bpm: 50
+draft_rating_percentile_vorp: 61
+draft_rating_vorp: 3
 draft_total_bpm: -33310
-draft_total_percentile_bpm: 65.2439024390244
-draft_total_percentile_vorp: 65.2439024390244
+draft_total_grade_bpm: B-
+draft_total_grade_vorp: B-
+draft_total_percentile_bpm: 65
+draft_total_percentile_vorp: 65
 draft_total_vorp: 22
 draft_win_list: '<ul>
 
@@ -34,6 +37,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2020
 final_bpm: -17030
+final_vorp: 54
 href: formaga99x
 is_active: false
 name: Gar Forman
@@ -48,9 +52,21 @@ signing_lose_list: '<ul>
   <li>Signed Cristiano Felício in 2017.</li>
 
   </ul>'
-signing_rating_bpm: -0.26
+signing_num_players: 110
+signing_overall_percentile_bpm: 76
+signing_overall_percentile_vorp: 85
+signing_rating_bpm: 0
+signing_rating_grade_bpm: A-
 signing_rating_grade_vorp: B+
-signing_rating_vorp: 0.06
+signing_rating_percentile_bpm: 82
+signing_rating_percentile_vorp: 76
+signing_rating_vorp: 0
+signing_total_bpm: -3927
+signing_total_grade_bpm: B
+signing_total_grade_vorp: A
+signing_total_percentile_bpm: 71
+signing_total_percentile_vorp: 93
+signing_total_vorp: 47
 signing_win_list: '<ul>
 
   <li>Signed Zach LaVine in 2018.</li>
@@ -74,9 +90,21 @@ trade_lose_list: '<ul>
   <li>Lost Jimmy Butler, Justin Patton to MIN.</li>
 
   </ul>'
-trade_rating_bpm: 0.11
+trade_num: 112
+trade_overall_percentile_bpm: 68
+trade_overall_percentile_vorp: 47
+trade_rating_bpm: 0
+trade_rating_grade_bpm: B-
 trade_rating_grade_vorp: B-
-trade_rating_vorp: 0.06
+trade_rating_percentile_bpm: 67
+trade_rating_percentile_vorp: 65
+trade_rating_vorp: 0
+trade_total_bpm: 20207
+trade_total_grade_bpm: B
+trade_total_grade_vorp: D
+trade_total_percentile_bpm: 70
+trade_total_percentile_vorp: 29
+trade_total_vorp: -16
 trade_win_list: '<ul>
 
   <li>Added Vladimir Veremeenko to CHI.</li>

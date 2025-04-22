@@ -13,15 +13,18 @@ draft_description: Chris Wallace ranks in the 18th percentile for drafting among
   in our database. Wallace's draft picks average out to be worth the equivalent of
   8 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 16
-draft_rating_bpm: -6.4
+draft_overall_percentile_vorp: 48
+draft_rating_bpm: -6
 draft_rating_grade_bpm: D
 draft_rating_grade_vorp: F
-draft_rating_percentile_bpm: 29.357798165137616
-draft_rating_percentile_vorp: 18.34862385321101
-draft_rating_vorp: -8.4
+draft_rating_percentile_bpm: 29
+draft_rating_percentile_vorp: 18
+draft_rating_vorp: -8
 draft_total_bpm: 33176
-draft_total_percentile_bpm: 76.82926829268293
-draft_total_percentile_vorp: 76.82926829268293
+draft_total_grade_bpm: B+
+draft_total_grade_vorp: B+
+draft_total_percentile_bpm: 77
+draft_total_percentile_vorp: 77
 draft_total_vorp: 34
 draft_win_list: '<ul>
 
@@ -32,6 +35,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2019
 final_bpm: -85779
+final_vorp: 54
 href: wallach99x
 is_active: false
 name: Chris Wallace
@@ -46,9 +50,21 @@ signing_lose_list: '<ul>
   <li>Signed Andrew Harrison in 2016.</li>
 
   </ul>'
-signing_rating_bpm: -0.34
+signing_num_players: 141
+signing_overall_percentile_bpm: 41
+signing_overall_percentile_vorp: 56
+signing_rating_bpm: 0
+signing_rating_grade_bpm: B+
 signing_rating_grade_vorp: D+
-signing_rating_vorp: -0.1
+signing_rating_percentile_bpm: 73
+signing_rating_percentile_vorp: 37
+signing_rating_vorp: 0
+signing_total_bpm: -91157
+signing_total_grade_bpm: F
+signing_total_grade_vorp: B+
+signing_total_percentile_bpm: 9
+signing_total_percentile_vorp: 76
+signing_total_vorp: 22
 signing_win_list: '<ul>
 
   <li>Signed Mike Conley in 2010.</li>
@@ -74,9 +90,21 @@ trade_lose_list: '<ul>
   <li>Lost Brian Cardinal, Jason Collins, Kevin Love, Mike Miller to MIN.</li>
 
   </ul>'
-trade_rating_bpm: -0.02
+trade_num: 146
+trade_overall_percentile_bpm: 33
+trade_overall_percentile_vorp: 64
+trade_rating_bpm: 0
+trade_rating_grade_bpm: C-
 trade_rating_grade_vorp: B+
-trade_rating_vorp: 0.11
+trade_rating_percentile_bpm: 41
+trade_rating_percentile_vorp: 74
+trade_rating_vorp: 0
+trade_total_bpm: -27798
+trade_total_grade_bpm: D-
+trade_total_grade_vorp: C+
+trade_total_percentile_bpm: 24
+trade_total_percentile_vorp: 54
+trade_total_vorp: -1
 trade_win_list: '<ul>
 
   <li>Added Tony Delk, Rodney Rogers to BOS.</li>

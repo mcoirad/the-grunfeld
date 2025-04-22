@@ -13,21 +13,25 @@ draft_description: Tommy Sheppard ranks in the 0th percentile for drafting among
   in our database. Sheppard's draft picks average out to be worth the equivalent of
   22 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 4
-draft_rating_bpm: -36.8
+draft_overall_percentile_vorp: 1
+draft_rating_bpm: -37
 draft_rating_grade_bpm: F-
 draft_rating_grade_vorp: F-
-draft_rating_percentile_bpm: 0.0
-draft_rating_percentile_vorp: 0.0
-draft_rating_vorp: -22.5
+draft_rating_percentile_bpm: 0
+draft_rating_percentile_vorp: 0
+draft_rating_vorp: -22
 draft_total_bpm: -52755
-draft_total_percentile_bpm: 2.4390243902439024
-draft_total_percentile_vorp: 2.4390243902439024
+draft_total_grade_bpm: F-
+draft_total_grade_vorp: F-
+draft_total_percentile_bpm: 2
+draft_total_percentile_vorp: 2
 draft_total_vorp: -3
 draft_win_list: '<ul>
 
   </ul>'
 end_year: 2023
 final_bpm: -56167
+final_vorp: 12
 href: sheppto01x
 is_active: false
 name: Tommy Sheppard
@@ -42,9 +46,21 @@ signing_lose_list: '<ul>
   <li>Signed Raul Neto in 2021.</li>
 
   </ul>'
-signing_rating_bpm: -0.42
+signing_num_players: 63
+signing_overall_percentile_bpm: 46
+signing_overall_percentile_vorp: 56
+signing_rating_bpm: 0
+signing_rating_grade_bpm: C
 signing_rating_grade_vorp: B
-signing_rating_vorp: 0.02
+signing_rating_percentile_bpm: 53
+signing_rating_percentile_vorp: 71
+signing_rating_vorp: 0
+signing_total_bpm: -28892
+signing_total_grade_bpm: D+
+signing_total_grade_vorp: C-
+signing_total_percentile_bpm: 38
+signing_total_percentile_vorp: 40
+signing_total_vorp: 5
 signing_win_list: '<ul>
 
   <li>Signed Delon Wright in 2022.</li>
@@ -66,9 +82,21 @@ trade_lose_list: '<ul>
   <li>Added Isaac Bonga, Jemerrio Jones, Moritz Wagner, Kennedy Chandler to WAS.</li>
 
   </ul>'
-trade_rating_bpm: 0.0
+trade_num: 57
+trade_overall_percentile_bpm: 61
+trade_overall_percentile_vorp: 68
+trade_rating_bpm: 0
+trade_rating_grade_bpm: C
 trade_rating_grade_vorp: C+
-trade_rating_vorp: 0.0
+trade_rating_percentile_bpm: 51
+trade_rating_percentile_vorp: 56
+trade_rating_vorp: 0
+trade_total_bpm: 25480
+trade_total_grade_bpm: B
+trade_total_grade_vorp: A-
+trade_total_percentile_bpm: 71
+trade_total_percentile_vorp: 80
+trade_total_vorp: 10
 trade_win_list: '<ul>
 
   <li>Added Kristaps Porzingis, Yannick Nzosa to WAS.</li>

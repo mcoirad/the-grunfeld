@@ -4,15 +4,18 @@ draft_bust_list: null
 draft_description: Al Bianchi ranks in the 45th percentile for drafting among executives
   in our database. That's basically average. It could worse though lol.
 draft_num_players: 4
-draft_rating_bpm: 8.8
+draft_overall_percentile_vorp: 40
+draft_rating_bpm: 9
 draft_rating_grade_bpm: A-
 draft_rating_grade_vorp: C-
-draft_rating_percentile_bpm: 84.40366972477064
-draft_rating_percentile_vorp: 45.87155963302752
-draft_rating_vorp: 0.2
+draft_rating_percentile_bpm: 84
+draft_rating_percentile_vorp: 46
+draft_rating_vorp: 0
 draft_total_bpm: -6987
-draft_total_percentile_bpm: 34.146341463414636
-draft_total_percentile_vorp: 34.146341463414636
+draft_total_grade_bpm: D+
+draft_total_grade_vorp: D+
+draft_total_percentile_bpm: 34
+draft_total_percentile_vorp: 34
 draft_total_vorp: 1
 draft_win_list: '<ul>
 
@@ -23,6 +26,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 1991
 final_bpm: 56742
+final_vorp: 35
 href: biancal01x
 is_active: false
 name: Al Bianchi
@@ -37,9 +41,21 @@ signing_lose_list: '<ul>
   <li>Signed Billy Donovan in 1987.</li>
 
   </ul>'
-signing_rating_bpm: -0.5
+signing_num_players: 12
+signing_overall_percentile_bpm: 64
+signing_overall_percentile_vorp: 80
+signing_rating_bpm: 0
+signing_rating_grade_bpm: D+
 signing_rating_grade_vorp: A
-signing_rating_vorp: 0.17
+signing_rating_percentile_bpm: 40
+signing_rating_percentile_vorp: 90
+signing_rating_vorp: 0
+signing_total_bpm: 10521
+signing_total_grade_bpm: A
+signing_total_grade_vorp: B
+signing_total_percentile_bpm: 87
+signing_total_percentile_vorp: 71
+signing_total_vorp: 16
 signing_win_list: '<ul>
 
   <li>Signed John Starks in 1990.</li>
@@ -61,9 +77,21 @@ trade_lose_list: '<ul>
   <li>Lost Ron Moore, Fennis Dembo to DET.</li>
 
   </ul>'
-trade_rating_bpm: -0.14
+trade_num: 19
+trade_overall_percentile_bpm: 54
+trade_overall_percentile_vorp: 72
+trade_rating_bpm: 0
+trade_rating_grade_bpm: D-
 trade_rating_grade_vorp: C+
-trade_rating_vorp: 0.0
+trade_rating_percentile_bpm: 25
+trade_rating_percentile_vorp: 56
+trade_rating_vorp: 0
+trade_total_bpm: 53207
+trade_total_grade_bpm: A-
+trade_total_grade_vorp: A
+trade_total_percentile_bpm: 82
+trade_total_percentile_vorp: 88
+trade_total_vorp: 18
 trade_win_list: '<ul>
 
   <li>Added Charles Oakley, Rod Strickland, Phil Stinnie to NYK.</li>

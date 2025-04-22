@@ -5,15 +5,18 @@ draft_description: Steve Patterson ranks in the 78th percentile for drafting amo
   executives in our database. Patterson's draft picks average out to be worth the
   equivalent of 6 spots higher than they were picked due to his good drafting.
 draft_num_players: 6
-draft_rating_bpm: 12.2
+draft_overall_percentile_vorp: 65
+draft_rating_bpm: 12
 draft_rating_grade_bpm: A+
 draft_rating_grade_vorp: B+
-draft_rating_percentile_bpm: 95.41284403669725
-draft_rating_percentile_vorp: 78.89908256880734
-draft_rating_vorp: 6.0
+draft_rating_percentile_bpm: 95
+draft_rating_percentile_vorp: 79
+draft_rating_vorp: 6
 draft_total_bpm: 3201
-draft_total_percentile_bpm: 51.829268292682926
-draft_total_percentile_vorp: 51.829268292682926
+draft_total_grade_bpm: C
+draft_total_grade_vorp: C
+draft_total_percentile_bpm: 52
+draft_total_percentile_vorp: 52
 draft_total_vorp: 9
 draft_win_list: '<ul>
 
@@ -24,6 +27,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2007
 final_bpm: 120463
+final_vorp: 76
 href: pattest99x
 is_active: false
 name: Steve Patterson
@@ -38,9 +42,21 @@ signing_lose_list: '<ul>
   <li>Signed Kennard Winchester in 1990.</li>
 
   </ul>'
-signing_rating_bpm: -0.52
+signing_num_players: 22
+signing_overall_percentile_bpm: 42
+signing_overall_percentile_vorp: 30
+signing_rating_bpm: -1
+signing_rating_grade_bpm: D
 signing_rating_grade_vorp: D-
-signing_rating_vorp: -0.14
+signing_rating_percentile_bpm: 31
+signing_rating_percentile_vorp: 24
+signing_rating_vorp: 0
+signing_total_bpm: -14860
+signing_total_grade_bpm: C+
+signing_total_grade_vorp: D+
+signing_total_percentile_bpm: 53
+signing_total_percentile_vorp: 37
+signing_total_vorp: 4
 signing_win_list: '<ul>
 
   <li>Signed Ime Udoka in 2006.</li>
@@ -62,9 +78,21 @@ trade_lose_list: '<ul>
   <li>Added Sergio Rodríguez to POR.</li>
 
   </ul>'
-trade_rating_bpm: 0.53
+trade_num: 48
+trade_overall_percentile_bpm: 96
+trade_overall_percentile_vorp: 98
+trade_rating_bpm: 1
+trade_rating_grade_bpm: A+
 trade_rating_grade_vorp: S
-trade_rating_vorp: 0.65
+trade_rating_percentile_bpm: 96
+trade_rating_percentile_vorp: 98
+trade_rating_vorp: 1
+trade_total_bpm: 132121
+trade_total_grade_bpm: A+
+trade_total_grade_vorp: S
+trade_total_percentile_bpm: 95
+trade_total_percentile_vorp: 99
+trade_total_vorp: 62
 trade_win_list: '<ul>
 
   <li>Added Brandon Roy to POR.</li>

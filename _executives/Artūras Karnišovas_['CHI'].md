@@ -13,21 +13,25 @@ draft_description: Artūras Karnišovas ranks in the 7th percentile for drafting
   executives in our database. Karnišovas's draft picks average out to be worth the
   equivalent of 13 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
-draft_rating_bpm: -16.8
+draft_overall_percentile_vorp: 10
+draft_rating_bpm: -17
 draft_rating_grade_bpm: F
 draft_rating_grade_vorp: F
-draft_rating_percentile_bpm: 3.669724770642202
-draft_rating_percentile_vorp: 7.339449541284404
-draft_rating_vorp: -12.6
+draft_rating_percentile_bpm: 4
+draft_rating_percentile_vorp: 7
+draft_rating_vorp: -13
 draft_total_bpm: -40546
-draft_total_percentile_bpm: 12.804878048780488
-draft_total_percentile_vorp: 12.804878048780488
+draft_total_grade_bpm: F
+draft_total_grade_vorp: F
+draft_total_percentile_bpm: 13
+draft_total_percentile_vorp: 13
 draft_total_vorp: -1
 draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
 final_bpm: -47881
+final_vorp: 15
 href: karniar99x
 is_active: true
 name: Artūras Karnišovas
@@ -42,9 +46,21 @@ signing_lose_list: '<ul>
   <li>Signed Garrett Temple in 2020.</li>
 
   </ul>'
-signing_rating_bpm: -0.34
+signing_num_players: 72
+signing_overall_percentile_bpm: 58
+signing_overall_percentile_vorp: 63
+signing_rating_bpm: 0
+signing_rating_grade_bpm: B
 signing_rating_grade_vorp: B
-signing_rating_vorp: 0.0
+signing_rating_percentile_bpm: 71
+signing_rating_percentile_vorp: 69
+signing_rating_vorp: 0
+signing_total_bpm: -21378
+signing_total_grade_bpm: C-
+signing_total_grade_vorp: C+
+signing_total_percentile_bpm: 44
+signing_total_percentile_vorp: 57
+signing_total_vorp: 11
 signing_win_list: '<ul>
 
   <li>Signed Zach LaVine in 2022.</li>
@@ -63,16 +79,26 @@ trade_description: 'Artūras Karnišovas ranks in the 56th percentile for tradin
   executives in our database. '
 trade_lose_list: '<ul>
 
-  <li>Added Javonte Green, Daniel Theis, Troy Brown Jr. to CHI.</li>
+  <li>Added Chris Duarte, future 2nd round pick, future 2nd round pick to CHI.</li>
 
-  <li>Lost Daniel Gafford, Chandler Hutchison to WAS.</li>
-
-  <li>Lost Luke Kornet to BOS.</li>
+  <li>Lost DeMar DeRozan to SAC.</li>
 
   </ul>'
-trade_rating_bpm: 0.2
+trade_num: 36
+trade_overall_percentile_bpm: 74
+trade_overall_percentile_vorp: 65
+trade_rating_bpm: 0
+trade_rating_grade_bpm: A-
 trade_rating_grade_vorp: C+
-trade_rating_vorp: 0.0
+trade_rating_percentile_bpm: 83
+trade_rating_percentile_vorp: 56
+trade_rating_vorp: 0
+trade_total_bpm: 14043
+trade_total_grade_bpm: B-
+trade_total_grade_vorp: B+
+trade_total_percentile_bpm: 65
+trade_total_percentile_vorp: 73
+trade_total_vorp: 5
 trade_win_list: '<ul>
 
   <li>Added DeMar DeRozan to CHI.</li>

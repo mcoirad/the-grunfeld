@@ -13,15 +13,18 @@ draft_description: Wayne Embry ranks in the 55th percentile for drafting among e
   in our database. Embry's draft picks average out to be worth the equivalent of 2
   spots higher than they were picked due to his good drafting.
 draft_num_players: 28
-draft_rating_bpm: 2.5
+draft_overall_percentile_vorp: 68
+draft_rating_bpm: 2
 draft_rating_grade_bpm: B
 draft_rating_grade_vorp: C+
-draft_rating_percentile_bpm: 68.80733944954129
-draft_rating_percentile_vorp: 55.04587155963303
-draft_rating_vorp: 2.0
+draft_rating_percentile_bpm: 69
+draft_rating_percentile_vorp: 55
+draft_rating_vorp: 2
 draft_total_bpm: -41740
-draft_total_percentile_bpm: 81.09756097560975
-draft_total_percentile_vorp: 81.09756097560975
+draft_total_grade_bpm: A-
+draft_total_grade_vorp: A-
+draft_total_percentile_bpm: 81
+draft_total_percentile_vorp: 81
 draft_total_vorp: 45
 draft_win_list: '<ul>
 
@@ -34,6 +37,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2006
 final_bpm: -214966
+final_vorp: 17
 href: embrywa01x
 is_active: false
 name: Wayne Embry
@@ -48,9 +52,21 @@ signing_lose_list: '<ul>
   <li>Signed Henry James in 1991.</li>
 
   </ul>'
-signing_rating_bpm: -0.56
+signing_num_players: 66
+signing_overall_percentile_bpm: 21
+signing_overall_percentile_vorp: 43
+signing_rating_bpm: -1
+signing_rating_grade_bpm: D-
 signing_rating_grade_vorp: D-
-signing_rating_vorp: -0.15
+signing_rating_percentile_bpm: 23
+signing_rating_percentile_vorp: 22
+signing_rating_vorp: 0
+signing_total_bpm: -59139
+signing_total_grade_bpm: D-
+signing_total_grade_vorp: B-
+signing_total_percentile_bpm: 20
+signing_total_percentile_vorp: 63
+signing_total_vorp: 14
 signing_win_list: '<ul>
 
   <li>Signed Craig Ehlo in 1987.</li>
@@ -78,9 +94,21 @@ trade_lose_list: '<ul>
   <li>Lost Wilson Washington, Maurice Cheeks to PHI.</li>
 
   </ul>'
-trade_rating_bpm: -0.12
+trade_num: 117
+trade_overall_percentile_bpm: 19
+trade_overall_percentile_vorp: 50
+trade_rating_bpm: 0
+trade_rating_grade_bpm: D
 trade_rating_grade_vorp: A
-trade_rating_vorp: 0.29
+trade_rating_percentile_bpm: 29
+trade_rating_percentile_vorp: 88
+trade_rating_vorp: 0
+trade_total_bpm: -114087
+trade_total_grade_bpm: F
+trade_total_grade_vorp: F
+trade_total_percentile_bpm: 9
+trade_total_percentile_vorp: 11
+trade_total_vorp: -41
 trade_win_list: '<ul>
 
   <li>Added Andrew DeClercq, Andre Miller to CLE.</li>

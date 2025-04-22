@@ -5,15 +5,18 @@ draft_description: Larry Riley ranks in the 37th percentile for drafting among e
   in our database. Riley's draft picks average out to be worth the equivalent of 3
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 4
-draft_rating_bpm: -3.8
+draft_overall_percentile_vorp: 64
+draft_rating_bpm: -4
 draft_rating_grade_bpm: D+
 draft_rating_grade_vorp: D+
-draft_rating_percentile_bpm: 35.77981651376147
-draft_rating_percentile_vorp: 37.61467889908257
-draft_rating_vorp: -3.0
+draft_rating_percentile_bpm: 36
+draft_rating_percentile_vorp: 38
+draft_rating_vorp: -3
 draft_total_bpm: 229076
-draft_total_percentile_bpm: 90.85365853658537
-draft_total_percentile_vorp: 90.85365853658537
+draft_total_grade_bpm: A
+draft_total_grade_vorp: A
+draft_total_percentile_bpm: 91
+draft_total_percentile_vorp: 91
 draft_total_vorp: 90
 draft_win_list: '<ul>
 
@@ -26,6 +29,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2012
 final_bpm: 290628
+final_vorp: 126
 href: rileyla99x
 is_active: false
 name: Larry Riley
@@ -40,9 +44,21 @@ signing_lose_list: '<ul>
   <li>Signed Anthony Tolliver in 2010.</li>
 
   </ul>'
-signing_rating_bpm: -0.59
+signing_num_players: 22
+signing_overall_percentile_bpm: 34
+signing_overall_percentile_vorp: 30
+signing_rating_bpm: -1
+signing_rating_grade_bpm: F
 signing_rating_grade_vorp: D-
-signing_rating_vorp: -0.14
+signing_rating_percentile_bpm: 16
+signing_rating_percentile_vorp: 25
+signing_rating_vorp: 0
+signing_total_bpm: -16113
+signing_total_grade_bpm: C
+signing_total_grade_vorp: D+
+signing_total_percentile_bpm: 51
+signing_total_percentile_vorp: 35
+signing_total_vorp: 4
 signing_win_list: '<ul>
 
   <li>Signed Dorell Wright in 2010.</li>
@@ -66,9 +82,21 @@ trade_lose_list: '<ul>
   <li>Lost Jamal Crawford to ATL.</li>
 
   </ul>'
-trade_rating_bpm: 0.14
+trade_num: 41
+trade_overall_percentile_bpm: 80
+trade_overall_percentile_vorp: 64
+trade_rating_bpm: 0
+trade_rating_grade_bpm: B
 trade_rating_grade_vorp: D+
-trade_rating_vorp: -0.07
+trade_rating_percentile_bpm: 73
+trade_rating_percentile_vorp: 35
+trade_rating_vorp: 0
+trade_total_bpm: 77665
+trade_total_grade_bpm: A
+trade_total_grade_vorp: A
+trade_total_percentile_bpm: 88
+trade_total_percentile_vorp: 92
+trade_total_vorp: 32
 trade_win_list: '<ul>
 
   <li>Added Troy Murphy, Draymond Green to GSW.</li>

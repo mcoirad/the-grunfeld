@@ -13,15 +13,18 @@ draft_description: Pat Riley ranks in the 68th percentile for drafting among exe
   in our database. Riley's draft picks average out to be worth the equivalent of 4
   spots higher than they were picked due to his good drafting.
 draft_num_players: 11
-draft_rating_bpm: -1.4
+draft_overall_percentile_vorp: 72
+draft_rating_bpm: -1
 draft_rating_grade_bpm: C
 draft_rating_grade_vorp: B
-draft_rating_percentile_bpm: 51.37614678899082
-draft_rating_percentile_vorp: 68.80733944954129
-draft_rating_vorp: 3.8
+draft_rating_percentile_bpm: 51
+draft_rating_percentile_vorp: 69
+draft_rating_vorp: 4
 draft_total_bpm: 24368
-draft_total_percentile_bpm: 75.0
-draft_total_percentile_vorp: 75.0
+draft_total_grade_bpm: B+
+draft_total_grade_vorp: B+
+draft_total_percentile_bpm: 75
+draft_total_percentile_vorp: 75
 draft_total_vorp: 34
 draft_win_list: '<ul>
 
@@ -34,6 +37,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2026
 final_bpm: 189704
+final_vorp: 169
 href: rileypa01x
 is_active: true
 name: Pat Riley
@@ -48,9 +52,21 @@ signing_lose_list: '<ul>
   <li>Signed Rodney McGruder in 2016.</li>
 
   </ul>'
-signing_rating_bpm: -0.31
+signing_num_players: 221
+signing_overall_percentile_bpm: 62
+signing_overall_percentile_vorp: 89
+signing_rating_bpm: 0
+signing_rating_grade_bpm: B+
 signing_rating_grade_vorp: A-
-signing_rating_vorp: 0.08
+signing_rating_percentile_bpm: 78
+signing_rating_percentile_vorp: 81
+signing_rating_vorp: 0
+signing_total_bpm: -18584
+signing_total_grade_bpm: C-
+signing_total_grade_vorp: S
+signing_total_percentile_bpm: 47
+signing_total_percentile_vorp: 98
+signing_total_vorp: 78
 signing_win_list: '<ul>
 
   <li>Signed Dwyane Wade in 2010.</li>
@@ -74,9 +90,21 @@ trade_lose_list: '<ul>
   <li>Lost Bojan Bogdanović to MIN.</li>
 
   </ul>'
-trade_rating_bpm: -0.04
+trade_num: 128
+trade_overall_percentile_bpm: 68
+trade_overall_percentile_vorp: 82
+trade_rating_bpm: 0
+trade_rating_grade_bpm: D+
 trade_rating_grade_vorp: B-
-trade_rating_vorp: 0.06
+trade_rating_percentile_bpm: 38
+trade_rating_percentile_vorp: 66
+trade_rating_vorp: 0
+trade_total_bpm: 183921
+trade_total_grade_bpm: A+
+trade_total_grade_vorp: S
+trade_total_percentile_bpm: 97
+trade_total_percentile_vorp: 98
+trade_total_vorp: 58
 trade_win_list: '<ul>
 
   <li>Added LeBron James to MIA.</li>

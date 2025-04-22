@@ -13,15 +13,18 @@ draft_description: Bob Bass ranks in the 56th percentile for drafting among exec
   in our database. Bass's draft picks average out to be worth the equivalent of 2
   spots higher than they were picked due to his good drafting.
 draft_num_players: 31
-draft_rating_bpm: 6.1
+draft_overall_percentile_vorp: 76
+draft_rating_bpm: 6
 draft_rating_grade_bpm: B+
 draft_rating_grade_vorp: C+
-draft_rating_percentile_bpm: 77.98165137614679
-draft_rating_percentile_vorp: 56.88073394495413
-draft_rating_vorp: 2.3
+draft_rating_percentile_bpm: 78
+draft_rating_percentile_vorp: 57
+draft_rating_vorp: 2
 draft_total_bpm: 252470
-draft_total_percentile_bpm: 95.73170731707317
-draft_total_percentile_vorp: 95.73170731707317
+draft_total_grade_bpm: A+
+draft_total_grade_vorp: A+
+draft_total_percentile_bpm: 96
+draft_total_percentile_vorp: 96
 draft_total_vorp: 122
 draft_win_list: '<ul>
 
@@ -32,6 +35,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2004
 final_bpm: -83952
+final_vorp: -7
 href: bassbo99x
 is_active: false
 name: Bob Bass
@@ -46,9 +50,21 @@ signing_lose_list: '<ul>
   <li>Signed Caldwell Jones in 1989.</li>
 
   </ul>'
-signing_rating_bpm: -0.34
+signing_num_players: 141
+signing_overall_percentile_bpm: 66
+signing_overall_percentile_vorp: 66
+signing_rating_bpm: 0
+signing_rating_grade_bpm: B
 signing_rating_grade_vorp: C-
-signing_rating_vorp: -0.07
+signing_rating_percentile_bpm: 73
+signing_rating_percentile_vorp: 43
+signing_rating_vorp: 0
+signing_total_bpm: -9878
+signing_total_grade_bpm: C+
+signing_total_grade_vorp: A
+signing_total_percentile_bpm: 59
+signing_total_percentile_vorp: 88
+signing_total_vorp: 36
 signing_win_list: '<ul>
 
   <li>Signed Johnny Moore in 1980.</li>
@@ -76,9 +92,21 @@ trade_lose_list: '<ul>
   <li>Lost Kobe Bryant to LAL.</li>
 
   </ul>'
-trade_rating_bpm: -0.16
+trade_num: 203
+trade_overall_percentile_bpm: 12
+trade_overall_percentile_vorp: 16
+trade_rating_bpm: 0
+trade_rating_grade_bpm: D-
 trade_rating_grade_vorp: D
-trade_rating_vorp: -0.09
+trade_rating_percentile_bpm: 23
+trade_rating_percentile_vorp: 30
+trade_rating_vorp: 0
+trade_total_bpm: -326545
+trade_total_grade_bpm: F-
+trade_total_grade_vorp: F-
+trade_total_percentile_bpm: 0
+trade_total_percentile_vorp: 1
+trade_total_vorp: -165
 trade_win_list: '<ul>
 
   <li>Added Walter Berry to SAS.</li>

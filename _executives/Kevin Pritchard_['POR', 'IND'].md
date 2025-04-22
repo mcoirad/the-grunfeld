@@ -13,15 +13,18 @@ draft_description: Kevin Pritchard ranks in the 51th percentile for drafting amo
   executives in our database. Pritchard's draft picks average out to be worth the
   equivalent of 1 spot higher than they were picked due to his good drafting.
 draft_num_players: 21
-draft_rating_bpm: 3.9
+draft_overall_percentile_vorp: 26
+draft_rating_bpm: 4
 draft_rating_grade_bpm: B+
 draft_rating_grade_vorp: C
-draft_rating_percentile_bpm: 73.39449541284404
-draft_rating_percentile_vorp: 51.37614678899082
-draft_rating_vorp: 1.2
+draft_rating_percentile_bpm: 73
+draft_rating_percentile_vorp: 51
+draft_rating_vorp: 1
 draft_total_bpm: -74326
-draft_total_percentile_bpm: 0.0
-draft_total_percentile_vorp: 0.0
+draft_total_grade_bpm: F-
+draft_total_grade_vorp: F-
+draft_total_percentile_bpm: 0
+draft_total_percentile_vorp: 0
 draft_total_vorp: -4
 draft_win_list: '<ul>
 
@@ -34,6 +37,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2026
 final_bpm: 47811
+final_vorp: 66
 href: pritcke01x
 is_active: true
 name: Kevin Pritchard
@@ -48,9 +52,21 @@ signing_lose_list: '<ul>
   <li>Signed Justin Holiday in 2020.</li>
 
   </ul>'
-signing_rating_bpm: -0.33
+signing_num_players: 122
+signing_overall_percentile_bpm: 72
+signing_overall_percentile_vorp: 72
+signing_rating_bpm: 0
+signing_rating_grade_bpm: B+
 signing_rating_grade_vorp: C+
-signing_rating_vorp: -0.03
+signing_rating_percentile_bpm: 76
+signing_rating_percentile_vorp: 55
+signing_rating_vorp: 0
+signing_total_bpm: -5986
+signing_total_grade_bpm: B
+signing_total_grade_vorp: A
+signing_total_percentile_bpm: 68
+signing_total_percentile_vorp: 90
+signing_total_vorp: 38
 signing_win_list: '<ul>
 
   <li>Signed Domantas Sabonis in 2019.</li>
@@ -77,9 +93,21 @@ trade_lose_list: '<ul>
   <li>Lost Malcolm Brogdon to BOS.</li>
 
   </ul>'
-trade_rating_bpm: 0.13
+trade_num: 135
+trade_overall_percentile_bpm: 83
+trade_overall_percentile_vorp: 82
+trade_rating_bpm: 0
+trade_rating_grade_bpm: B
 trade_rating_grade_vorp: B
-trade_rating_vorp: 0.09
+trade_rating_percentile_bpm: 71
+trade_rating_percentile_vorp: 72
+trade_rating_vorp: 0
+trade_total_bpm: 128123
+trade_total_grade_bpm: A+
+trade_total_grade_vorp: A
+trade_total_percentile_bpm: 95
+trade_total_percentile_vorp: 93
+trade_total_vorp: 32
 trade_win_list: '<ul>
 
   <li>Added Nicolas Batum to POR.</li>

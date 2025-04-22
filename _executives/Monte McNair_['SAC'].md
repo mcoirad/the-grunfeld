@@ -13,15 +13,18 @@ draft_description: Monte McNair ranks in the 41th percentile for drafting among 
   in our database. McNair's draft picks average out to be worth the equivalent of
   2 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 8
-draft_rating_bpm: -1.8
+draft_overall_percentile_vorp: 42
+draft_rating_bpm: -2
 draft_rating_grade_bpm: C
 draft_rating_grade_vorp: C-
-draft_rating_percentile_bpm: 49.54128440366973
-draft_rating_percentile_vorp: 41.28440366972477
-draft_rating_vorp: -1.8
+draft_rating_percentile_bpm: 50
+draft_rating_percentile_vorp: 41
+draft_rating_vorp: -2
 draft_total_bpm: -21576
-draft_total_percentile_bpm: 43.292682926829265
-draft_total_percentile_vorp: 43.292682926829265
+draft_total_grade_bpm: C-
+draft_total_grade_vorp: C-
+draft_total_percentile_bpm: 43
+draft_total_percentile_vorp: 43
 draft_total_vorp: 3
 draft_win_list: '<ul>
 
@@ -32,6 +35,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2026
 final_bpm: -3517
+final_vorp: 20
 href: mcnaimo99x
 is_active: true
 name: Monte McNair
@@ -46,9 +50,21 @@ signing_lose_list: '<ul>
   <li>Signed Alex Len in 2021.</li>
 
   </ul>'
-signing_rating_bpm: -0.34
+signing_num_players: 71
+signing_overall_percentile_bpm: 57
+signing_overall_percentile_vorp: 58
+signing_rating_bpm: 0
+signing_rating_grade_bpm: B
 signing_rating_grade_vorp: B
-signing_rating_vorp: 0.0
+signing_rating_percentile_bpm: 71
+signing_rating_percentile_vorp: 69
+signing_rating_vorp: 0
+signing_total_bpm: -21494
+signing_total_grade_bpm: C-
+signing_total_grade_vorp: C
+signing_total_percentile_bpm: 43
+signing_total_percentile_vorp: 48
+signing_total_vorp: 7
 signing_win_list: '<ul>
 
   <li>Signed Keon Ellis in 2023.</li>
@@ -72,9 +88,21 @@ trade_lose_list: '<ul>
   <li>Lost Delon Wright to ATL.</li>
 
   </ul>'
-trade_rating_bpm: 0.04
+trade_num: 80
+trade_overall_percentile_bpm: 66
+trade_overall_percentile_vorp: 83
+trade_rating_bpm: 0
+trade_rating_grade_bpm: C+
 trade_rating_grade_vorp: A-
-trade_rating_vorp: 0.21
+trade_rating_percentile_bpm: 54
+trade_rating_percentile_vorp: 85
+trade_rating_vorp: 0
+trade_total_bpm: 39553
+trade_total_grade_bpm: B+
+trade_total_grade_vorp: A-
+trade_total_percentile_bpm: 79
+trade_total_percentile_vorp: 81
+trade_total_vorp: 10
 trade_win_list: '<ul>
 
   <li>Added Jalen McDaniels to SAC.</li>

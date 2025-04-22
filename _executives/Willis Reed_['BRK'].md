@@ -13,15 +13,18 @@ draft_description: Willis Reed ranks in the 16th percentile for drafting among e
   in our database. Reed's draft picks average out to be worth the equivalent of 9
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 7
-draft_rating_bpm: -6.3
+draft_overall_percentile_vorp: 42
+draft_rating_bpm: -6
 draft_rating_grade_bpm: D
 draft_rating_grade_vorp: F
-draft_rating_percentile_bpm: 30.275229357798164
-draft_rating_percentile_vorp: 16.513761467889907
-draft_rating_vorp: -9.1
+draft_rating_percentile_bpm: 30
+draft_rating_percentile_vorp: 17
+draft_rating_vorp: -9
 draft_total_bpm: 25353
-draft_total_percentile_bpm: 67.07317073170732
-draft_total_percentile_vorp: 67.07317073170732
+draft_total_grade_bpm: B
+draft_total_grade_vorp: B
+draft_total_percentile_bpm: 67
+draft_total_percentile_vorp: 67
 draft_total_vorp: 25
 draft_win_list: '<ul>
 
@@ -30,6 +33,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 1996
 final_bpm: -121622
+final_vorp: -1
 href: reedwi01x
 is_active: false
 name: Willis Reed
@@ -44,9 +48,21 @@ signing_lose_list: '<ul>
   <li>Signed Kevin Edwards in 1993.</li>
 
   </ul>'
-signing_rating_bpm: -0.57
+signing_num_players: 30
+signing_overall_percentile_bpm: 25
+signing_overall_percentile_vorp: 26
+signing_rating_bpm: -1
+signing_rating_grade_bpm: F
 signing_rating_grade_vorp: F
-signing_rating_vorp: -0.17
+signing_rating_percentile_bpm: 20
+signing_rating_percentile_vorp: 18
+signing_rating_vorp: 0
+signing_total_bpm: -43417
+signing_total_grade_bpm: D
+signing_total_grade_vorp: D
+signing_total_percentile_bpm: 30
+signing_total_percentile_vorp: 33
+signing_total_vorp: 3
 signing_win_list: '<ul>
 
   <li>Signed Armen Gilliam in 1993.</li>
@@ -70,9 +86,21 @@ trade_lose_list: '<ul>
   <li>Lost Mookie Blaylock, Roy Hinson to ATL.</li>
 
   </ul>'
-trade_rating_bpm: -0.58
+trade_num: 37
+trade_overall_percentile_bpm: 7
+trade_overall_percentile_vorp: 37
+trade_rating_bpm: -1
+trade_rating_grade_bpm: F
 trade_rating_grade_vorp: C+
-trade_rating_vorp: 0.0
+trade_rating_percentile_bpm: 4
+trade_rating_percentile_vorp: 56
+trade_rating_vorp: 0
+trade_total_bpm: -103558
+trade_total_grade_bpm: F
+trade_total_grade_vorp: F
+trade_total_percentile_bpm: 10
+trade_total_percentile_vorp: 18
+trade_total_vorp: -29
 trade_win_list: '<ul>
 
   <li>Added Terry Mills, Dražen Petrović, Kevin Thompson to NJN.</li>

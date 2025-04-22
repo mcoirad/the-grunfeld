@@ -13,15 +13,18 @@ draft_description: Kevin McHale ranks in the 64th percentile for drafting among 
   in our database. McHale's draft picks average out to be worth the equivalent of
   3 spots higher than they were picked due to his good drafting.
 draft_num_players: 18
-draft_rating_bpm: 3.7
+draft_overall_percentile_vorp: 77
+draft_rating_bpm: 4
 draft_rating_grade_bpm: B
 draft_rating_grade_vorp: B-
-draft_rating_percentile_bpm: 72.4770642201835
-draft_rating_percentile_vorp: 64.22018348623853
-draft_rating_vorp: 3.2
+draft_rating_percentile_bpm: 72
+draft_rating_percentile_vorp: 64
+draft_rating_vorp: 3
 draft_total_bpm: 168649
-draft_total_percentile_bpm: 90.2439024390244
-draft_total_percentile_vorp: 90.2439024390244
+draft_total_grade_bpm: A
+draft_total_grade_vorp: A
+draft_total_percentile_bpm: 90
+draft_total_percentile_vorp: 90
 draft_total_vorp: 87
 draft_win_list: '<ul>
 
@@ -34,6 +37,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2008
 final_bpm: -101471
+final_vorp: 50
 href: mchalke01x
 is_active: false
 name: Kevin McHale
@@ -48,9 +52,21 @@ signing_lose_list: '<ul>
   <li>Signed Mark Madsen in 2003.</li>
 
   </ul>'
-signing_rating_bpm: -0.53
+signing_num_players: 64
+signing_overall_percentile_bpm: 15
+signing_overall_percentile_vorp: 46
+signing_rating_bpm: -1
+signing_rating_grade_bpm: D
 signing_rating_grade_vorp: D+
-signing_rating_vorp: -0.09
+signing_rating_percentile_bpm: 29
+signing_rating_percentile_vorp: 39
+signing_rating_vorp: 0
+signing_total_bpm: -134718
+signing_total_grade_bpm: F-
+signing_total_grade_vorp: C
+signing_total_percentile_bpm: 1
+signing_total_percentile_vorp: 52
+signing_total_vorp: 9
 signing_win_list: '<ul>
 
   <li>Signed Fred Hoiberg in 2003.</li>
@@ -75,9 +91,21 @@ trade_lose_list: '<ul>
   <li>Lost Kevin Garnett to BOS.</li>
 
   </ul>'
-trade_rating_bpm: -0.17
+trade_num: 102
+trade_overall_percentile_bpm: 14
+trade_overall_percentile_vorp: 33
+trade_rating_bpm: 0
+trade_rating_grade_bpm: D-
 trade_rating_grade_vorp: C+
-trade_rating_vorp: 0.0
+trade_rating_percentile_bpm: 22
+trade_rating_percentile_vorp: 56
+trade_rating_vorp: 0
+trade_total_bpm: -135401
+trade_total_grade_bpm: F
+trade_total_grade_vorp: F
+trade_total_percentile_bpm: 5
+trade_total_percentile_vorp: 9
+trade_total_vorp: -46
 trade_win_list: '<ul>
 
   <li>Added Brian Cardinal, Jason Collins, Kevin Love, Mike Miller to MIN.</li>

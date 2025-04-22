@@ -11,15 +11,18 @@ draft_description: Steve Kerr ranks in the 42th percentile for drafting among ex
   in our database. Kerr's draft picks average out to be worth the equivalent of 1
   spot lower than they were picked due to their terrible drafting.
 draft_num_players: 5
-draft_rating_bpm: 3.6
+draft_overall_percentile_vorp: 26
+draft_rating_bpm: 4
 draft_rating_grade_bpm: B
 draft_rating_grade_vorp: C-
-draft_rating_percentile_bpm: 71.55963302752293
-draft_rating_percentile_vorp: 42.20183486238532
-draft_rating_vorp: -1.2
+draft_rating_percentile_bpm: 72
+draft_rating_percentile_vorp: 42
+draft_rating_vorp: -1
 draft_total_bpm: -14506
-draft_total_percentile_bpm: 9.146341463414634
-draft_total_percentile_vorp: 9.146341463414634
+draft_total_grade_bpm: F
+draft_total_grade_vorp: F
+draft_total_percentile_bpm: 9
+draft_total_percentile_vorp: 9
 draft_total_vorp: -1
 draft_win_list: '<ul>
 
@@ -28,6 +31,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2010
 final_bpm: 6578
+final_vorp: 18
 href: kerrst01x
 is_active: false
 name: Steve Kerr
@@ -42,9 +46,21 @@ signing_lose_list: '<ul>
   <li>Signed Stromile Swift in 2009.</li>
 
   </ul>'
-signing_rating_bpm: -0.5
+signing_num_players: 14
+signing_overall_percentile_bpm: 61
+signing_overall_percentile_vorp: 71
+signing_rating_bpm: 0
+signing_rating_grade_bpm: D+
 signing_rating_grade_vorp: B+
-signing_rating_vorp: 0.07
+signing_rating_percentile_bpm: 40
+signing_rating_percentile_vorp: 80
+signing_rating_vorp: 0
+signing_total_bpm: 2272
+signing_total_grade_bpm: A-
+signing_total_grade_vorp: B-
+signing_total_percentile_bpm: 82
+signing_total_percentile_vorp: 63
+signing_total_vorp: 14
 signing_win_list: '<ul>
 
   <li>Signed Channing Frye in 2009.</li>
@@ -66,9 +82,21 @@ trade_lose_list: '<ul>
   <li>Lost Rudy Fernández, James Jones to POR.</li>
 
   </ul>'
-trade_rating_bpm: 0.22
+trade_num: 28
+trade_overall_percentile_bpm: 77
+trade_overall_percentile_vorp: 50
+trade_rating_bpm: 0
+trade_rating_grade_bpm: A-
 trade_rating_grade_vorp: D-
-trade_rating_vorp: -0.11
+trade_rating_percentile_bpm: 86
+trade_rating_percentile_vorp: 27
+trade_rating_vorp: 0
+trade_total_bpm: 18812
+trade_total_grade_bpm: B
+trade_total_grade_vorp: B+
+trade_total_percentile_bpm: 68
+trade_total_percentile_vorp: 74
+trade_total_vorp: 6
 trade_win_list: '<ul>
 
   <li>Added Jared Dudley, Jason Richardson, Gani Lawal to PHO.</li>

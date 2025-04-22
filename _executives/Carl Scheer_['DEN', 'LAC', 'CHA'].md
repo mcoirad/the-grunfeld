@@ -13,15 +13,18 @@ draft_description: Carl Scheer ranks in the 0th percentile for drafting among ex
   in our database. Scheer's draft picks average out to be worth the equivalent of
   19 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 14
-draft_rating_bpm: -16.0
+draft_overall_percentile_vorp: 18
+draft_rating_bpm: -16
 draft_rating_grade_bpm: F
 draft_rating_grade_vorp: F-
-draft_rating_percentile_bpm: 5.504587155963303
-draft_rating_percentile_vorp: 0.9174311926605505
-draft_rating_vorp: -19.2
+draft_rating_percentile_bpm: 6
+draft_rating_percentile_vorp: 1
+draft_rating_vorp: -19
 draft_total_bpm: -63974
-draft_total_percentile_bpm: 35.97560975609756
-draft_total_percentile_vorp: 35.97560975609756
+draft_total_grade_bpm: D+
+draft_total_grade_vorp: D+
+draft_total_percentile_bpm: 36
+draft_total_percentile_vorp: 36
 draft_total_vorp: 1
 draft_win_list: '<ul>
 
@@ -30,6 +33,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 1990
 final_bpm: -308690
+final_vorp: -70
 href: scheeca99x
 is_active: false
 name: Carl Scheer
@@ -44,9 +48,21 @@ signing_lose_list: '<ul>
   <li>Signed Franklin Edwards in 1985.</li>
 
   </ul>'
-signing_rating_bpm: -0.28
+signing_num_players: 50
+signing_overall_percentile_bpm: 81
+signing_overall_percentile_vorp: 41
+signing_rating_bpm: 0
+signing_rating_grade_bpm: A-
 signing_rating_grade_vorp: F
-signing_rating_vorp: -0.17
+signing_rating_percentile_bpm: 81
+signing_rating_percentile_vorp: 18
+signing_rating_vorp: 0
+signing_total_bpm: 1006
+signing_total_grade_bpm: A-
+signing_total_grade_vorp: B-
+signing_total_percentile_bpm: 81
+signing_total_percentile_vorp: 65
+signing_total_vorp: 14
 signing_win_list: '<ul>
 
   <li>Signed Bobby Jones in 1974.</li>
@@ -74,9 +90,21 @@ trade_lose_list: '<ul>
   <li>Lost Clyde Drexler, Steve Colter to POR.</li>
 
   </ul>'
-trade_rating_bpm: 0.08
+trade_num: 146
+trade_overall_percentile_bpm: 31
+trade_overall_percentile_vorp: 33
+trade_rating_bpm: 0
+trade_rating_grade_bpm: B-
 trade_rating_grade_vorp: B-
-trade_rating_vorp: 0.03
+trade_rating_percentile_bpm: 60
+trade_rating_percentile_vorp: 62
+trade_rating_vorp: 0
+trade_total_bpm: -245722
+trade_total_grade_bpm: F-
+trade_total_grade_vorp: F
+trade_total_percentile_bpm: 1
+trade_total_percentile_vorp: 4
+trade_total_vorp: -85
 trade_win_list: '<ul>
 
   <li>Added Alex English, Carl Nicks to DEN.</li>

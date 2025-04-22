@@ -13,15 +13,18 @@ draft_description: Brian Wright ranks in the 17th percentile for drafting among 
   in our database. Wright's draft picks average out to be worth the equivalent of
   8 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 11
-draft_rating_bpm: -7.9
+draft_overall_percentile_vorp: 32
+draft_rating_bpm: -8
 draft_rating_grade_bpm: D-
 draft_rating_grade_vorp: F
-draft_rating_percentile_bpm: 22.93577981651376
-draft_rating_percentile_vorp: 17.431192660550458
-draft_rating_vorp: -8.5
+draft_rating_percentile_bpm: 23
+draft_rating_percentile_vorp: 17
+draft_rating_vorp: -8
 draft_total_bpm: -46727
-draft_total_percentile_bpm: 46.34146341463415
-draft_total_percentile_vorp: 46.34146341463415
+draft_total_grade_bpm: C-
+draft_total_grade_vorp: C-
+draft_total_percentile_bpm: 46
+draft_total_percentile_vorp: 46
 draft_total_vorp: 4
 draft_win_list: '<ul>
 
@@ -30,6 +33,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2026
 final_bpm: -103681
+final_vorp: -28
 href: wrighbr99x
 is_active: true
 name: Brian Wright
@@ -44,9 +48,21 @@ signing_lose_list: '<ul>
   <li>Signed Keita Bates-Diop in 2021.</li>
 
   </ul>'
-signing_rating_bpm: -0.25
+signing_num_players: 68
+signing_overall_percentile_bpm: 83
+signing_overall_percentile_vorp: 83
+signing_rating_bpm: 0
+signing_rating_grade_bpm: A-
 signing_rating_grade_vorp: A+
-signing_rating_vorp: 0.23
+signing_rating_percentile_bpm: 83
+signing_rating_percentile_vorp: 97
+signing_rating_vorp: 0
+signing_total_bpm: 2983
+signing_total_grade_bpm: A-
+signing_total_grade_vorp: B
+signing_total_percentile_bpm: 84
+signing_total_percentile_vorp: 70
+signing_total_vorp: 16
 signing_win_list: '<ul>
 
   <li>Signed Dejounte Murray in 2019.</li>
@@ -70,14 +86,26 @@ trade_lose_list: '<ul>
   <li>Lost Derrick White to BOS.</li>
 
   </ul>'
-trade_rating_bpm: -0.23
+trade_num: 75
+trade_overall_percentile_bpm: 16
+trade_overall_percentile_vorp: 11
+trade_rating_bpm: 0
+trade_rating_grade_bpm: F
 trade_rating_grade_vorp: F
-trade_rating_vorp: -0.27
+trade_rating_percentile_bpm: 17
+trade_rating_percentile_vorp: 13
+trade_rating_vorp: 0
+trade_total_bpm: -59937
+trade_total_grade_bpm: F
+trade_total_grade_vorp: F
+trade_total_percentile_bpm: 16
+trade_total_percentile_vorp: 9
+trade_total_vorp: -49
 trade_win_list: '<ul>
 
-  <li>Added Max Strus to CLE.</li>
+  <li>Didn''t receive any players or picks.</li>
 
-  <li>Lost Cedi Osman, Lamar Stevens to SAS.</li>
+  <li>Lost Devonte'' Graham, future 2nd round pick to CHO.</li>
 
   </ul>'
 ---

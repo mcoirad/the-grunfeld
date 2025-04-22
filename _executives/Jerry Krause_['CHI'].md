@@ -13,15 +13,18 @@ draft_description: Jerry Krause ranks in the 25th percentile for drafting among 
   in our database. Krause's draft picks average out to be worth the equivalent of
   6 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 38
-draft_rating_bpm: -3.2
+draft_overall_percentile_vorp: 49
+draft_rating_bpm: -3
 draft_rating_grade_bpm: C-
 draft_rating_grade_vorp: D-
-draft_rating_percentile_bpm: 40.36697247706422
-draft_rating_percentile_vorp: 25.68807339449541
-draft_rating_vorp: -5.7
+draft_rating_percentile_bpm: 40
+draft_rating_percentile_vorp: 26
+draft_rating_vorp: -6
 draft_total_bpm: -127665
-draft_total_percentile_bpm: 71.34146341463415
-draft_total_percentile_vorp: 71.34146341463415
+draft_total_grade_bpm: B
+draft_total_grade_vorp: B
+draft_total_percentile_bpm: 71
+draft_total_percentile_vorp: 71
 draft_total_vorp: 31
 draft_win_list: '<ul>
 
@@ -34,6 +37,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2003
 final_bpm: -238766
+final_vorp: 35
 href: krausje99x
 is_active: false
 name: Jerry Krause
@@ -48,9 +52,21 @@ signing_lose_list: '<ul>
   <li>Signed Dickey Simpkins in 1998.</li>
 
   </ul>'
-signing_rating_bpm: -0.56
+signing_num_players: 94
+signing_overall_percentile_bpm: 14
+signing_overall_percentile_vorp: 57
+signing_rating_bpm: -1
+signing_rating_grade_bpm: D-
 signing_rating_grade_vorp: D+
-signing_rating_vorp: -0.1
+signing_rating_percentile_bpm: 25
+signing_rating_percentile_vorp: 38
+signing_rating_vorp: 0
+signing_total_bpm: -119032
+signing_total_grade_bpm: F-
+signing_total_grade_vorp: B+
+signing_total_percentile_bpm: 2
+signing_total_percentile_vorp: 76
+signing_total_vorp: 21
 signing_win_list: '<ul>
 
   <li>Signed Steve Kerr in 1993.</li>
@@ -74,9 +90,21 @@ trade_lose_list: '<ul>
   <li>Lost Elton Brand to LAC.</li>
 
   </ul>'
-trade_rating_bpm: 0.0
+trade_num: 142
+trade_overall_percentile_bpm: 55
+trade_overall_percentile_vorp: 43
+trade_rating_bpm: 0
+trade_rating_grade_bpm: C
 trade_rating_grade_vorp: C+
-trade_rating_vorp: 0.02
+trade_rating_percentile_bpm: 51
+trade_rating_percentile_vorp: 58
+trade_rating_vorp: 0
+trade_total_bpm: 7932
+trade_total_grade_bpm: C+
+trade_total_grade_vorp: D
+trade_total_percentile_bpm: 59
+trade_total_percentile_vorp: 28
+trade_total_vorp: -18
 trade_win_list: '<ul>
 
   <li>Added Scottie Pippen, Jeff Sanders to CHI.</li>

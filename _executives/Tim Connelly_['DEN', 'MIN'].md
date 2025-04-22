@@ -13,15 +13,18 @@ draft_description: Tim Connelly ranks in the 89th percentile for drafting among 
   in our database. Connelly's draft picks average out to be worth the equivalent of
   10 spots higher than they were picked due to his good drafting.
 draft_num_players: 14
-draft_rating_bpm: 7.9
+draft_overall_percentile_vorp: 91
+draft_rating_bpm: 8
 draft_rating_grade_bpm: A-
 draft_rating_grade_vorp: A
-draft_rating_percentile_bpm: 81.65137614678899
-draft_rating_percentile_vorp: 89.90825688073394
-draft_rating_vorp: 9.9
+draft_rating_percentile_bpm: 82
+draft_rating_percentile_vorp: 90
+draft_rating_vorp: 10
 draft_total_bpm: 227836
-draft_total_percentile_bpm: 92.07317073170732
-draft_total_percentile_vorp: 92.07317073170732
+draft_total_grade_bpm: A
+draft_total_grade_vorp: A
+draft_total_percentile_bpm: 92
+draft_total_percentile_vorp: 92
 draft_total_vorp: 95
 draft_win_list: '<ul>
 
@@ -34,6 +37,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2026
 final_bpm: 118628
+final_vorp: 79
 href: conneti99x
 is_active: true
 name: Tim Connelly
@@ -49,9 +53,21 @@ signing_lose_list: '<ul>
   <li>Signed Gary Harris in 2017.</li>
 
   </ul>'
-signing_rating_bpm: -0.43
+signing_num_players: 141
+signing_overall_percentile_bpm: 32
+signing_overall_percentile_vorp: 64
+signing_rating_bpm: 0
+signing_rating_grade_bpm: C
 signing_rating_grade_vorp: C
-signing_rating_vorp: -0.04
+signing_rating_percentile_bpm: 52
+signing_rating_percentile_vorp: 52
+signing_rating_vorp: 0
+signing_total_bpm: -86045
+signing_total_grade_bpm: F
+signing_total_grade_vorp: B+
+signing_total_percentile_bpm: 12
+signing_total_percentile_vorp: 75
+signing_total_vorp: 21
 signing_win_list: '<ul>
 
   <li>Signed Nikola Jokić in 2018.</li>
@@ -77,9 +93,21 @@ trade_lose_list: '<ul>
   <li>Lost Rudy Gobert to UTA.</li>
 
   </ul>'
-trade_rating_bpm: -0.13
+trade_num: 148
+trade_overall_percentile_bpm: 26
+trade_overall_percentile_vorp: 20
+trade_rating_bpm: 0
+trade_rating_grade_bpm: D-
 trade_rating_grade_vorp: D
-trade_rating_vorp: -0.11
+trade_rating_percentile_bpm: 27
+trade_rating_percentile_vorp: 27
+trade_rating_vorp: 0
+trade_total_bpm: -23162
+trade_total_grade_bpm: D-
+trade_total_grade_vorp: F
+trade_total_percentile_bpm: 26
+trade_total_percentile_vorp: 13
+trade_total_vorp: -37
 trade_win_list: '<ul>
 
   <li>Added Gary Clark, Aaron Gordon to DEN.</li>

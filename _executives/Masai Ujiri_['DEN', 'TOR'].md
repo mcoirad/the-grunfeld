@@ -13,15 +13,18 @@ draft_description: Masai Ujiri ranks in the 69th percentile for drafting among e
   in our database. Ujiri's draft picks average out to be worth the equivalent of 4
   spots higher than they were picked due to his good drafting.
 draft_num_players: 20
-draft_rating_bpm: 4.6
+draft_overall_percentile_vorp: 74
+draft_rating_bpm: 5
 draft_rating_grade_bpm: B+
 draft_rating_grade_vorp: B
-draft_rating_percentile_bpm: 75.22935779816514
-draft_rating_percentile_vorp: 69.72477064220183
-draft_rating_vorp: 4.0
+draft_rating_percentile_bpm: 75
+draft_rating_percentile_vorp: 70
+draft_rating_vorp: 4
 draft_total_bpm: 21777
-draft_total_percentile_bpm: 79.26829268292683
-draft_total_percentile_vorp: 79.26829268292683
+draft_total_grade_bpm: B+
+draft_total_grade_vorp: B+
+draft_total_percentile_bpm: 79
+draft_total_percentile_vorp: 79
 draft_total_vorp: 41
 draft_win_list: '<ul>
 
@@ -34,6 +37,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2026
 final_bpm: 73833
+final_vorp: 100
 href: ujirima99x
 is_active: true
 name: Masai Ujiri
@@ -48,9 +52,21 @@ signing_lose_list: '<ul>
   <li>Signed Jalen McDaniels in 2023.</li>
 
   </ul>'
-signing_rating_bpm: -0.25
+signing_num_players: 178
+signing_overall_percentile_bpm: 86
+signing_overall_percentile_vorp: 87
+signing_rating_bpm: 0
+signing_rating_grade_bpm: A-
 signing_rating_grade_vorp: A-
-signing_rating_vorp: 0.07
+signing_rating_percentile_bpm: 82
+signing_rating_percentile_vorp: 80
+signing_rating_vorp: 0
+signing_total_bpm: 16870
+signing_total_grade_bpm: A
+signing_total_grade_vorp: A+
+signing_total_percentile_bpm: 90
+signing_total_percentile_vorp: 94
+signing_total_vorp: 55
 signing_win_list: '<ul>
 
   <li>Signed Pascal Siakam in 2019.</li>
@@ -80,9 +96,21 @@ trade_lose_list: '<ul>
   <li>Lost Richaun Holmes to MIN.</li>
 
   </ul>'
-trade_rating_bpm: 0.21
+trade_num: 142
+trade_overall_percentile_bpm: 80
+trade_overall_percentile_vorp: 72
+trade_rating_bpm: 0
+trade_rating_grade_bpm: A-
 trade_rating_grade_vorp: B
-trade_rating_vorp: 0.08
+trade_rating_percentile_bpm: 83
+trade_rating_percentile_vorp: 71
+trade_rating_vorp: 0
+trade_total_bpm: 35187
+trade_total_grade_bpm: B+
+trade_total_grade_vorp: B
+trade_total_percentile_bpm: 77
+trade_total_percentile_vorp: 72
+trade_total_vorp: 4
 trade_win_list: '<ul>
 
   <li>Added Drew Eubanks, Thaddeus Young, Christian Koloko to TOR.</li>

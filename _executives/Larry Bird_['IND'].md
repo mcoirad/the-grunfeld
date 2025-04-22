@@ -13,15 +13,18 @@ draft_description: Larry Bird ranks in the 73th percentile for drafting among ex
   in our database. Bird's draft picks average out to be worth the equivalent of 4
   spots higher than they were picked due to his good drafting.
 draft_num_players: 12
-draft_rating_bpm: -3.7
+draft_overall_percentile_vorp: 79
+draft_rating_bpm: -4
 draft_rating_grade_bpm: D+
 draft_rating_grade_vorp: B+
-draft_rating_percentile_bpm: 36.69724770642202
-draft_rating_percentile_vorp: 73.39449541284404
-draft_rating_vorp: 4.3
+draft_rating_percentile_bpm: 37
+draft_rating_percentile_vorp: 73
+draft_rating_vorp: 4
 draft_total_bpm: 62001
-draft_total_percentile_bpm: 84.14634146341463
-draft_total_percentile_vorp: 84.14634146341463
+draft_total_grade_bpm: A-
+draft_total_grade_vorp: A-
+draft_total_percentile_bpm: 84
+draft_total_percentile_vorp: 84
 draft_total_vorp: 55
 draft_win_list: '<ul>
 
@@ -34,6 +37,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2017
 final_bpm: -50452
+final_vorp: 67
 href: birdla01x
 is_active: false
 name: Larry Bird
@@ -48,9 +52,21 @@ signing_lose_list: '<ul>
   <li>Signed Earl Watson in 2009.</li>
 
   </ul>'
-signing_rating_bpm: -0.45
+signing_num_players: 69
+signing_overall_percentile_bpm: 40
+signing_overall_percentile_vorp: 75
+signing_rating_bpm: 0
+signing_rating_grade_bpm: C
 signing_rating_grade_vorp: B+
-signing_rating_vorp: 0.03
+signing_rating_percentile_bpm: 47
+signing_rating_percentile_vorp: 73
+signing_rating_vorp: 0
+signing_total_bpm: -40375
+signing_total_grade_bpm: D
+signing_total_grade_vorp: B+
+signing_total_percentile_bpm: 32
+signing_total_percentile_vorp: 77
+signing_total_vorp: 22
 signing_win_list: '<ul>
 
   <li>Signed David West in 2011.</li>
@@ -74,9 +90,21 @@ trade_lose_list: '<ul>
   <li>Lost Dāvis Bertāns, Kawhi Leonard, Erazem Lorbek to SAS.</li>
 
   </ul>'
-trade_rating_bpm: -0.14
+trade_num: 88
+trade_overall_percentile_bpm: 20
+trade_overall_percentile_vorp: 59
+trade_rating_bpm: 0
+trade_rating_grade_bpm: D-
 trade_rating_grade_vorp: A-
-trade_rating_vorp: 0.17
+trade_rating_percentile_bpm: 26
+trade_rating_percentile_vorp: 81
+trade_rating_vorp: 0
+trade_total_bpm: -72077
+trade_total_grade_bpm: F
+trade_total_grade_vorp: D+
+trade_total_percentile_bpm: 13
+trade_total_percentile_vorp: 37
+trade_total_vorp: -10
 trade_win_list: '<ul>
 
   <li>Added Ike Diogu, Mike Dunleavy, Keith McLeod, Troy Murphy to IND.</li>

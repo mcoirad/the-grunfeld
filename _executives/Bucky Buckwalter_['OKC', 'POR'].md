@@ -13,15 +13,18 @@ draft_description: Bucky Buckwalter ranks in the 70th percentile for drafting am
   executives in our database. Buckwalter's draft picks average out to be worth the
   equivalent of 4 spots higher than they were picked due to his good drafting.
 draft_num_players: 14
-draft_rating_bpm: 10.2
+draft_overall_percentile_vorp: 71
+draft_rating_bpm: 10
 draft_rating_grade_bpm: A
 draft_rating_grade_vorp: B
-draft_rating_percentile_bpm: 89.90825688073394
-draft_rating_percentile_vorp: 70.64220183486239
-draft_rating_vorp: 4.1
+draft_rating_percentile_bpm: 90
+draft_rating_percentile_vorp: 71
+draft_rating_vorp: 4
 draft_total_bpm: 39033
-draft_total_percentile_bpm: 70.73170731707317
-draft_total_percentile_vorp: 70.73170731707317
+draft_total_grade_bpm: B
+draft_total_grade_vorp: B
+draft_total_percentile_bpm: 71
+draft_total_percentile_vorp: 71
 draft_total_vorp: 31
 draft_win_list: '<ul>
 
@@ -34,6 +37,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 1992
 final_bpm: 45355
+final_vorp: 42
 href: buckwbu99x
 is_active: false
 name: Bucky Buckwalter
@@ -48,9 +52,21 @@ signing_lose_list: '<ul>
   <li>Signed Maurice Lucas in 1987.</li>
 
   </ul>'
-signing_rating_bpm: -0.36
+signing_num_players: 26
+signing_overall_percentile_bpm: 79
+signing_overall_percentile_vorp: 56
+signing_rating_bpm: 0
+signing_rating_grade_bpm: B-
 signing_rating_grade_vorp: C-
-signing_rating_vorp: -0.08
+signing_rating_percentile_bpm: 67
+signing_rating_percentile_vorp: 41
+signing_rating_vorp: 0
+signing_total_bpm: 21973
+signing_total_grade_bpm: A
+signing_total_grade_vorp: B
+signing_total_percentile_bpm: 92
+signing_total_percentile_vorp: 70
+signing_total_vorp: 16
 signing_win_list: '<ul>
 
   <li>Signed Rod Strickland in 1992.</li>
@@ -76,9 +92,21 @@ trade_lose_list: '<ul>
   <li>Lost Walter Berry to SAS.</li>
 
   </ul>'
-trade_rating_bpm: 0.29
+trade_num: 39
+trade_overall_percentile_bpm: 61
+trade_overall_percentile_vorp: 61
+trade_rating_bpm: 0
+trade_rating_grade_bpm: A
 trade_rating_grade_vorp: B+
-trade_rating_vorp: 0.14
+trade_rating_percentile_bpm: 90
+trade_rating_percentile_vorp: 78
+trade_rating_vorp: 0
+trade_total_bpm: -15651
+trade_total_grade_bpm: D
+trade_total_grade_vorp: C-
+trade_total_percentile_bpm: 32
+trade_total_percentile_vorp: 44
+trade_total_vorp: -6
 trade_win_list: '<ul>
 
   <li>Added Danny Ainge to POR.</li>

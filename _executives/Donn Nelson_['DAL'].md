@@ -11,15 +11,18 @@ draft_description: Donn Nelson ranks in the 30th percentile for drafting among e
   in our database. Nelson's draft picks average out to be worth the equivalent of
   5 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 8
-draft_rating_bpm: 0.2
+draft_overall_percentile_vorp: 36
+draft_rating_bpm: 0
 draft_rating_grade_bpm: C+
 draft_rating_grade_vorp: D
-draft_rating_percentile_bpm: 55.96330275229358
-draft_rating_percentile_vorp: 30.275229357798164
-draft_rating_vorp: -4.8
+draft_rating_percentile_bpm: 56
+draft_rating_percentile_vorp: 30
+draft_rating_vorp: -5
 draft_total_bpm: -21878
-draft_total_percentile_bpm: 42.073170731707314
-draft_total_percentile_vorp: 42.073170731707314
+draft_total_grade_bpm: C-
+draft_total_grade_vorp: C-
+draft_total_percentile_bpm: 42
+draft_total_percentile_vorp: 42
 draft_total_vorp: 3
 draft_win_list: '<ul>
 
@@ -28,6 +31,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2021
 final_bpm: 133941
+final_vorp: 102
 href: nelsodo99x
 is_active: false
 name: Donn Nelson
@@ -42,9 +46,21 @@ signing_lose_list: '<ul>
   <li>Signed J.J. Barea in 2006.</li>
 
   </ul>'
-signing_rating_bpm: -0.4
+signing_num_players: 178
+signing_overall_percentile_bpm: 79
+signing_overall_percentile_vorp: 91
+signing_rating_bpm: 0
+signing_rating_grade_bpm: B-
 signing_rating_grade_vorp: A-
-signing_rating_vorp: 0.09
+signing_rating_percentile_bpm: 61
+signing_rating_percentile_vorp: 84
+signing_rating_vorp: 0
+signing_total_bpm: 58545
+signing_total_grade_bpm: S
+signing_total_grade_vorp: S
+signing_total_percentile_bpm: 98
+signing_total_percentile_vorp: 99
+signing_total_vorp: 104
 signing_win_list: '<ul>
 
   <li>Signed Luka Dončić in 2018.</li>
@@ -68,9 +84,21 @@ trade_lose_list: '<ul>
   <li>Lost Trae Young, Cam Reddish to ATL.</li>
 
   </ul>'
-trade_rating_bpm: 0.24
+trade_num: 194
+trade_overall_percentile_bpm: 88
+trade_overall_percentile_vorp: 58
+trade_rating_bpm: 0
+trade_rating_grade_bpm: A-
 trade_rating_grade_vorp: B
-trade_rating_vorp: 0.07
+trade_rating_percentile_bpm: 86
+trade_rating_percentile_vorp: 69
+trade_rating_vorp: 0
+trade_total_bpm: 97274
+trade_total_grade_bpm: A
+trade_total_grade_vorp: C-
+trade_total_percentile_bpm: 90
+trade_total_percentile_vorp: 46
+trade_total_vorp: -4
 trade_win_list: '<ul>
 
   <li>Added Malik Allen, Jason Kidd, Antoine Wright to DAL.</li>

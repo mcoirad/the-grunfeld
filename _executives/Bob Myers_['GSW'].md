@@ -13,15 +13,18 @@ draft_description: Bob Myers ranks in the 66th percentile for drafting among exe
   in our database. Myers's draft picks average out to be worth the equivalent of 3
   spots higher than they were picked due to his good drafting.
 draft_num_players: 15
-draft_rating_bpm: -1.9
+draft_overall_percentile_vorp: 72
+draft_rating_bpm: -2
 draft_rating_grade_bpm: C
 draft_rating_grade_vorp: B-
-draft_rating_percentile_bpm: 48.62385321100918
-draft_rating_percentile_vorp: 66.05504587155963
-draft_rating_vorp: 3.4
+draft_rating_percentile_bpm: 49
+draft_rating_percentile_vorp: 66
+draft_rating_vorp: 3
 draft_total_bpm: 5570
-draft_total_percentile_bpm: 78.04878048780488
-draft_total_percentile_vorp: 78.04878048780488
+draft_total_grade_bpm: B+
+draft_total_grade_vorp: B+
+draft_total_percentile_bpm: 78
+draft_total_percentile_vorp: 78
 draft_total_vorp: 37
 draft_win_list: '<ul>
 
@@ -34,6 +37,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2023
 final_bpm: 11979
+final_vorp: 69
 href: myersbo99x
 is_active: false
 name: Bob Myers
@@ -48,9 +52,21 @@ signing_lose_list: '<ul>
   <li>Signed Damion Lee in 2019.</li>
 
   </ul>'
-signing_rating_bpm: -0.22
+signing_num_players: 149
+signing_overall_percentile_bpm: 77
+signing_overall_percentile_vorp: 90
+signing_rating_bpm: 0
+signing_rating_grade_bpm: A-
 signing_rating_grade_vorp: A
-signing_rating_vorp: 0.16
+signing_rating_percentile_bpm: 84
+signing_rating_percentile_vorp: 89
+signing_rating_vorp: 0
+signing_total_bpm: -4897
+signing_total_grade_bpm: B
+signing_total_grade_vorp: A
+signing_total_percentile_bpm: 70
+signing_total_percentile_vorp: 91
+signing_total_vorp: 39
 signing_win_list: '<ul>
 
   <li>Signed Kevin Durant in 2016.</li>
@@ -74,9 +90,21 @@ trade_lose_list: '<ul>
   <li>Lost Kevin Durant to BRK.</li>
 
   </ul>'
-trade_rating_bpm: 0.13
+trade_num: 79
+trade_overall_percentile_bpm: 68
+trade_overall_percentile_vorp: 39
+trade_rating_bpm: 0
+trade_rating_grade_bpm: B
 trade_rating_grade_vorp: D+
-trade_rating_vorp: -0.07
+trade_rating_percentile_bpm: 72
+trade_rating_percentile_vorp: 37
+trade_rating_vorp: 0
+trade_total_bpm: 11306
+trade_total_grade_bpm: B-
+trade_total_grade_vorp: C-
+trade_total_percentile_bpm: 63
+trade_total_percentile_vorp: 41
+trade_total_vorp: -7
 trade_win_list: '<ul>
 
   <li>Added Andre Iguodala, Kevin Murphy to GSW.</li>

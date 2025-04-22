@@ -13,15 +13,18 @@ draft_description: Billy McKinney ranks in the 30th percentile for drafting amon
   executives in our database. McKinney's draft picks average out to be worth the equivalent
   of 5 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 8
-draft_rating_bpm: -7.2
+draft_overall_percentile_vorp: 55
+draft_rating_bpm: -7
 draft_rating_grade_bpm: D-
 draft_rating_grade_vorp: D
-draft_rating_percentile_bpm: 24.770642201834864
-draft_rating_percentile_vorp: 30.275229357798164
-draft_rating_vorp: -4.8
+draft_rating_percentile_bpm: 25
+draft_rating_percentile_vorp: 30
+draft_rating_vorp: -5
 draft_total_bpm: 20744
-draft_total_percentile_bpm: 79.8780487804878
-draft_total_percentile_vorp: 79.8780487804878
+draft_total_grade_bpm: B+
+draft_total_grade_vorp: B+
+draft_total_percentile_bpm: 80
+draft_total_percentile_vorp: 80
 draft_total_vorp: 42
 draft_win_list: '<ul>
 
@@ -34,6 +37,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 1995
 final_bpm: -87831
+final_vorp: 36
 href: mckinbi01x
 is_active: false
 name: Billy McKinney
@@ -48,9 +52,21 @@ signing_lose_list: '<ul>
   <li>Signed Tod Murphy in 1989.</li>
 
   </ul>'
-signing_rating_bpm: -0.63
+signing_num_players: 35
+signing_overall_percentile_bpm: 12
+signing_overall_percentile_vorp: 35
+signing_rating_bpm: -1
+signing_rating_grade_bpm: F
 signing_rating_grade_vorp: D-
-signing_rating_vorp: -0.14
+signing_rating_percentile_bpm: 13
+signing_rating_percentile_vorp: 24
+signing_rating_vorp: 0
+signing_total_bpm: -87404
+signing_total_grade_bpm: F
+signing_total_grade_vorp: C-
+signing_total_percentile_bpm: 11
+signing_total_percentile_vorp: 46
+signing_total_vorp: 6
 signing_win_list: '<ul>
 
   <li>Signed Tracy Moore in 1993.</li>
@@ -74,9 +90,21 @@ trade_lose_list: '<ul>
   <li>Lost Brad Lohaus, Duane Cooper to MIL.</li>
 
   </ul>'
-trade_rating_bpm: -0.38
+trade_num: 50
+trade_overall_percentile_bpm: 18
+trade_overall_percentile_vorp: 20
+trade_rating_bpm: 0
+trade_rating_grade_bpm: F
 trade_rating_grade_vorp: F
-trade_rating_vorp: -0.38
+trade_rating_percentile_bpm: 8
+trade_rating_percentile_vorp: 8
+trade_rating_vorp: 0
+trade_total_bpm: -21170
+trade_total_grade_bpm: D
+trade_total_grade_vorp: D
+trade_total_percentile_bpm: 29
+trade_total_percentile_vorp: 33
+trade_total_vorp: -13
 trade_win_list: '<ul>
 
   <li>Added Pete Chilcutt, Jevon Crudup, Cal Bowdler to DET.</li>

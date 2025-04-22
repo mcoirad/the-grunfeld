@@ -13,15 +13,18 @@ draft_description: Danny Ainge ranks in the 48th percentile for drafting among e
   in our database. Ainge's draft picks average out to be worth the equivalent of 1
   spot higher than they were picked due to his good drafting.
 draft_num_players: 48
-draft_rating_bpm: 0.6
+draft_overall_percentile_vorp: 69
+draft_rating_bpm: 1
 draft_rating_grade_bpm: C+
 draft_rating_grade_vorp: C
-draft_rating_percentile_bpm: 56.88073394495413
-draft_rating_percentile_vorp: 48.62385321100918
-draft_rating_vorp: 0.9
+draft_rating_percentile_bpm: 57
+draft_rating_percentile_vorp: 49
+draft_rating_vorp: 1
 draft_total_bpm: -45202
-draft_total_percentile_bpm: 88.41463414634147
-draft_total_percentile_vorp: 88.41463414634147
+draft_total_grade_bpm: A
+draft_total_grade_vorp: A
+draft_total_percentile_bpm: 88
+draft_total_percentile_vorp: 88
 draft_total_vorp: 67
 draft_win_list: '<ul>
 
@@ -34,6 +37,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2026
 final_bpm: 336675
+final_vorp: 190
 href: aingeda01x
 is_active: true
 name: Danny Ainge
@@ -48,9 +52,21 @@ signing_lose_list: '<ul>
   <li>Signed Jonas Jerebko in 2015.</li>
 
   </ul>'
-signing_rating_bpm: -0.21
+signing_num_players: 201
+signing_overall_percentile_bpm: 89
+signing_overall_percentile_vorp: 88
+signing_rating_bpm: 0
+signing_rating_grade_bpm: A-
 signing_rating_grade_vorp: A-
-signing_rating_vorp: 0.08
+signing_rating_percentile_bpm: 86
+signing_rating_percentile_vorp: 82
+signing_rating_vorp: 0
+signing_total_bpm: 22917
+signing_total_grade_bpm: A
+signing_total_grade_vorp: A+
+signing_total_percentile_bpm: 93
+signing_total_percentile_vorp: 95
+signing_total_vorp: 57
 signing_win_list: '<ul>
 
   <li>Signed Al Horford in 2016.</li>
@@ -76,9 +92,21 @@ trade_lose_list: '<ul>
   <li>Lost Donovan Mitchell to CLE.</li>
 
   </ul>'
-trade_rating_bpm: 0.19
+trade_num: 306
+trade_overall_percentile_bpm: 89
+trade_overall_percentile_vorp: 86
+trade_rating_bpm: 0
+trade_rating_grade_bpm: B+
 trade_rating_grade_vorp: B
-trade_rating_vorp: 0.09
+trade_rating_percentile_bpm: 78
+trade_rating_percentile_vorp: 73
+trade_rating_vorp: 0
+trade_total_bpm: 358961
+trade_total_grade_bpm: S
+trade_total_grade_vorp: S
+trade_total_percentile_bpm: 100
+trade_total_percentile_vorp: 99
+trade_total_vorp: 66
 trade_win_list: '<ul>
 
   <li>Added Kevin Garnett to BOS.</li>

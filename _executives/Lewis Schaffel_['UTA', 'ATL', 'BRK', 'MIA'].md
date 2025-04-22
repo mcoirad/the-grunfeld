@@ -13,15 +13,18 @@ draft_description: Lewis Schaffel ranks in the 98th percentile for drafting amon
   executives in our database. Schaffel's draft picks average out to be worth the equivalent
   of 13 spots higher than they were picked due to his good drafting.
 draft_num_players: 19
-draft_rating_bpm: 9.9
+draft_overall_percentile_vorp: 84
+draft_rating_bpm: 10
 draft_rating_grade_bpm: A
 draft_rating_grade_vorp: S
-draft_rating_percentile_bpm: 88.07339449541284
-draft_rating_percentile_vorp: 98.1651376146789
-draft_rating_vorp: 13.1
+draft_rating_percentile_bpm: 88
+draft_rating_percentile_vorp: 98
+draft_rating_vorp: 13
 draft_total_bpm: -64712
-draft_total_percentile_bpm: 70.1219512195122
-draft_total_percentile_vorp: 70.1219512195122
+draft_total_grade_bpm: B
+draft_total_grade_vorp: B
+draft_total_percentile_bpm: 70
+draft_total_percentile_vorp: 70
 draft_total_vorp: 30
 draft_win_list: '<ul>
 
@@ -34,6 +37,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 1995
 final_bpm: -125108
+final_vorp: 2
 href: schafle99x
 is_active: false
 name: Lewis Schaffel
@@ -48,9 +52,21 @@ signing_lose_list: '<ul>
   <li>Signed Pat Cummings in 1988.</li>
 
   </ul>'
-signing_rating_bpm: -0.51
+signing_num_players: 51
+signing_overall_percentile_bpm: 26
+signing_overall_percentile_vorp: 17
+signing_rating_bpm: -1
+signing_rating_grade_bpm: D+
 signing_rating_grade_vorp: D-
-signing_rating_vorp: -0.16
+signing_rating_percentile_bpm: 34
+signing_rating_percentile_vorp: 21
+signing_rating_vorp: 0
+signing_total_bpm: -60871
+signing_total_grade_bpm: F
+signing_total_grade_vorp: F
+signing_total_percentile_bpm: 18
+signing_total_percentile_vorp: 14
+signing_total_vorp: 0
 signing_win_list: '<ul>
 
   <li>Signed Brad Lohaus in 1994.</li>
@@ -80,9 +96,21 @@ trade_lose_list: '<ul>
   <li>Lost Grant Long, Steve Smith, Joe Vogel to ATL.</li>
 
   </ul>'
-trade_rating_bpm: -0.07
+trade_num: 63
+trade_overall_percentile_bpm: 41
+trade_overall_percentile_vorp: 15
+trade_rating_bpm: 0
+trade_rating_grade_bpm: D+
 trade_rating_grade_vorp: F
-trade_rating_vorp: -0.37
+trade_rating_percentile_bpm: 33
+trade_rating_percentile_vorp: 9
+trade_rating_vorp: 0
+trade_total_bpm: 475
+trade_total_grade_bpm: C
+trade_total_grade_vorp: D-
+trade_total_percentile_bpm: 49
+trade_total_percentile_vorp: 21
+trade_total_vorp: -27
 trade_win_list: '<ul>
 
   <li>Added Slick Watts to UTA.</li>

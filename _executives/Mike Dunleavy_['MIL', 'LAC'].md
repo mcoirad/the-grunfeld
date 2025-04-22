@@ -13,21 +13,25 @@ draft_description: Mike Dunleavy ranks in the 26th percentile for drafting among
   in our database. Dunleavy's draft picks average out to be worth the equivalent of
   6 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 7
-draft_rating_bpm: -8.9
+draft_overall_percentile_vorp: 54
+draft_rating_bpm: -9
 draft_rating_grade_bpm: F
 draft_rating_grade_vorp: D-
-draft_rating_percentile_bpm: 19.26605504587156
-draft_rating_percentile_vorp: 26.605504587155963
-draft_rating_vorp: -5.6
+draft_rating_percentile_bpm: 19
+draft_rating_percentile_vorp: 27
+draft_rating_vorp: -6
 draft_total_bpm: 54731
-draft_total_percentile_bpm: 81.70731707317073
-draft_total_percentile_vorp: 81.70731707317073
+draft_total_grade_bpm: A-
+draft_total_grade_vorp: A-
+draft_total_percentile_bpm: 82
+draft_total_percentile_vorp: 82
 draft_total_vorp: 47
 draft_win_list: '<ul>
 
   </ul>'
 end_year: 2010
 final_bpm: 81952
+final_vorp: 58
 href: dunlemi01x
 is_active: false
 name: Mike Dunleavy
@@ -42,9 +46,21 @@ signing_lose_list: '<ul>
   <li>Signed Ken Norman in 1993.</li>
 
   </ul>'
-signing_rating_bpm: -0.47
+signing_num_players: 39
+signing_overall_percentile_bpm: 35
+signing_overall_percentile_vorp: 14
+signing_rating_bpm: 0
+signing_rating_grade_bpm: C-
 signing_rating_grade_vorp: F
-signing_rating_vorp: -0.18
+signing_rating_percentile_bpm: 43
+signing_rating_percentile_vorp: 16
+signing_rating_vorp: 0
+signing_total_bpm: -51359
+signing_total_grade_bpm: D-
+signing_total_grade_vorp: F
+signing_total_percentile_bpm: 26
+signing_total_percentile_vorp: 12
+signing_total_vorp: -1
 signing_win_list: '<ul>
 
   <li>Signed Danny Young in 1994.</li>
@@ -70,9 +86,21 @@ trade_lose_list: '<ul>
   <li>Lost Zach Randolph to MEM.</li>
 
   </ul>'
-trade_rating_bpm: 0.1
+trade_num: 82
+trade_overall_percentile_bpm: 76
+trade_overall_percentile_vorp: 56
+trade_rating_bpm: 0
+trade_rating_grade_bpm: B-
 trade_rating_grade_vorp: D
-trade_rating_vorp: -0.1
+trade_rating_percentile_bpm: 63
+trade_rating_percentile_vorp: 29
+trade_rating_vorp: 0
+trade_total_bpm: 78580
+trade_total_grade_bpm: A
+trade_total_grade_vorp: A-
+trade_total_percentile_bpm: 88
+trade_total_percentile_vorp: 83
+trade_total_vorp: 12
 trade_win_list: '<ul>
 
   <li>Added Ray Allen, Rasho Nesterović to MIL.</li>

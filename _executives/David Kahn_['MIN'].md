@@ -13,21 +13,25 @@ draft_description: David Kahn ranks in the 12th percentile for drafting among ex
   in our database. Kahn's draft picks average out to be worth the equivalent of 12
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 6
-draft_rating_bpm: -20.3
+draft_overall_percentile_vorp: 31
+draft_rating_bpm: -20
 draft_rating_grade_bpm: F-
 draft_rating_grade_vorp: F
-draft_rating_percentile_bpm: 1.834862385321101
-draft_rating_percentile_vorp: 12.844036697247706
-draft_rating_vorp: -11.5
+draft_rating_percentile_bpm: 2
+draft_rating_percentile_vorp: 13
+draft_rating_vorp: -12
 draft_total_bpm: -32767
-draft_total_percentile_bpm: 48.78048780487805
-draft_total_percentile_vorp: 48.78048780487805
+draft_total_grade_bpm: C
+draft_total_grade_vorp: C
+draft_total_percentile_bpm: 49
+draft_total_percentile_vorp: 49
 draft_total_vorp: 6
 draft_win_list: '<ul>
 
   </ul>'
 end_year: 2013
 final_bpm: -105060
+final_vorp: -27
 href: kahnda99x
 is_active: false
 name: David Kahn
@@ -42,9 +46,21 @@ signing_lose_list: '<ul>
   <li>Signed Sasha Pavlović in 2009.</li>
 
   </ul>'
-signing_rating_bpm: -0.5
+signing_num_players: 28
+signing_overall_percentile_bpm: 38
+signing_overall_percentile_vorp: 36
+signing_rating_bpm: 0
+signing_rating_grade_bpm: D+
 signing_rating_grade_vorp: D+
-signing_rating_vorp: -0.11
+signing_rating_percentile_bpm: 40
+signing_rating_percentile_vorp: 36
+signing_rating_vorp: 0
+signing_total_bpm: -35201
+signing_total_grade_bpm: D+
+signing_total_grade_vorp: D+
+signing_total_percentile_bpm: 35
+signing_total_percentile_vorp: 37
+signing_total_vorp: 4
 signing_win_list: '<ul>
 
   <li>Signed Andrei Kirilenko in 2012.</li>
@@ -68,9 +84,21 @@ trade_lose_list: '<ul>
   <li>Lost Ty Lawson to DEN.</li>
 
   </ul>'
-trade_rating_bpm: -0.22
+trade_num: 87
+trade_overall_percentile_bpm: 20
+trade_overall_percentile_vorp: 20
+trade_rating_bpm: 0
+trade_rating_grade_bpm: F
 trade_rating_grade_vorp: D-
-trade_rating_vorp: -0.11
+trade_rating_percentile_bpm: 19
+trade_rating_percentile_vorp: 27
+trade_rating_vorp: 0
+trade_total_bpm: -37091
+trade_total_grade_bpm: D-
+trade_total_grade_vorp: F
+trade_total_percentile_bpm: 21
+trade_total_percentile_vorp: 13
+trade_total_vorp: -37
 trade_win_list: '<ul>
 
   <li>Added Bojan Bogdanović to MIN.</li>

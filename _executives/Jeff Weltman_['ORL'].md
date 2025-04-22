@@ -13,15 +13,18 @@ draft_description: Jeff Weltman ranks in the 11th percentile for drafting among 
   in our database. Weltman's draft picks average out to be worth the equivalent of
   12 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 14
-draft_rating_bpm: -15.0
+draft_overall_percentile_vorp: 38
+draft_rating_bpm: -15
 draft_rating_grade_bpm: F
 draft_rating_grade_vorp: F
-draft_rating_percentile_bpm: 8.256880733944953
-draft_rating_percentile_vorp: 11.926605504587156
-draft_rating_vorp: -11.7
+draft_rating_percentile_bpm: 8
+draft_rating_percentile_vorp: 12
+draft_rating_vorp: -12
 draft_total_bpm: -31604
-draft_total_percentile_bpm: 64.02439024390245
-draft_total_percentile_vorp: 64.02439024390245
+draft_total_grade_bpm: B-
+draft_total_grade_vorp: B-
+draft_total_percentile_bpm: 64
+draft_total_percentile_vorp: 64
 draft_total_vorp: 21
 draft_win_list: '<ul>
 
@@ -30,6 +33,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2026
 final_bpm: -105155
+final_vorp: 10
 href: weltmje01x
 is_active: true
 name: Jeff Weltman
@@ -44,9 +48,21 @@ signing_lose_list: '<ul>
   <li>Signed Dwayne Bacon in 2020.</li>
 
   </ul>'
-signing_rating_bpm: -0.36
+signing_num_players: 114
+signing_overall_percentile_bpm: 43
+signing_overall_percentile_vorp: 40
+signing_rating_bpm: 0
+signing_rating_grade_bpm: B
 signing_rating_grade_vorp: D-
-signing_rating_vorp: -0.14
+signing_rating_percentile_bpm: 68
+signing_rating_percentile_vorp: 24
+signing_rating_vorp: 0
+signing_total_bpm: -60674
+signing_total_grade_bpm: F
+signing_total_grade_vorp: C+
+signing_total_percentile_bpm: 19
+signing_total_percentile_vorp: 55
+signing_total_vorp: 9
 signing_win_list: '<ul>
 
   <li>Signed Nikola Vučević in 2019.</li>
@@ -70,9 +86,21 @@ trade_lose_list: '<ul>
   <li>Lost Gary Clark, Aaron Gordon to DEN.</li>
 
   </ul>'
-trade_rating_bpm: 0.2
+trade_num: 50
+trade_overall_percentile_bpm: 59
+trade_overall_percentile_vorp: 55
+trade_rating_bpm: 0
+trade_rating_grade_bpm: A-
 trade_rating_grade_vorp: A-
-trade_rating_vorp: 0.2
+trade_rating_percentile_bpm: 83
+trade_rating_percentile_vorp: 84
+trade_rating_vorp: 0
+trade_total_bpm: -12876
+trade_total_grade_bpm: D+
+trade_total_grade_vorp: D-
+trade_total_percentile_bpm: 36
+trade_total_percentile_vorp: 25
+trade_total_vorp: -20
 trade_win_list: '<ul>
 
   <li>Added Jerian Grant, Timofey Mozgov to ORL.</li>

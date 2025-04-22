@@ -13,21 +13,25 @@ draft_description: Joe Cronin ranks in the 9th percentile for drafting among exe
   in our database. Cronin's draft picks average out to be worth the equivalent of
   12 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 7
-draft_rating_bpm: -17.6
+draft_overall_percentile_vorp: 5
+draft_rating_bpm: -18
 draft_rating_grade_bpm: F-
 draft_rating_grade_vorp: F
-draft_rating_percentile_bpm: 2.7522935779816513
-draft_rating_percentile_vorp: 9.174311926605505
-draft_rating_vorp: -12.3
+draft_rating_percentile_bpm: 3
+draft_rating_percentile_vorp: 9
+draft_rating_vorp: -12
 draft_total_bpm: -51889
-draft_total_percentile_bpm: 0.6097560975609756
-draft_total_percentile_vorp: 0.6097560975609756
+draft_total_grade_bpm: F-
+draft_total_grade_vorp: F-
+draft_total_percentile_bpm: 1
+draft_total_percentile_vorp: 1
 draft_total_vorp: -4
 draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
 final_bpm: -115622
+final_vorp: -28
 href: cronijo99x
 is_active: true
 name: Joe Cronin
@@ -43,9 +47,21 @@ signing_lose_list: '<ul>
   <li>Signed Anfernee Simons in 2022.</li>
 
   </ul>'
-signing_rating_bpm: -0.43
+signing_num_players: 55
+signing_overall_percentile_bpm: 47
+signing_overall_percentile_vorp: 44
+signing_rating_bpm: 0
+signing_rating_grade_bpm: C
 signing_rating_grade_vorp: C
-signing_rating_vorp: -0.04
+signing_rating_percentile_bpm: 52
+signing_rating_percentile_vorp: 52
+signing_rating_vorp: 0
+signing_total_bpm: -22300
+signing_total_grade_bpm: C-
+signing_total_grade_vorp: D+
+signing_total_percentile_bpm: 41
+signing_total_percentile_vorp: 36
+signing_total_vorp: 4
 signing_win_list: '<ul>
 
   <li>Signed Matisse Thybulle in 2023.</li>
@@ -71,9 +87,21 @@ trade_lose_list: '<ul>
   <li>Lost Damian Lillard to MIL.</li>
 
   </ul>'
-trade_rating_bpm: -0.69
+trade_num: 55
+trade_overall_percentile_bpm: 10
+trade_overall_percentile_vorp: 13
+trade_rating_bpm: -1
+trade_rating_grade_bpm: F-
 trade_rating_grade_vorp: F
-trade_rating_vorp: -0.38
+trade_rating_percentile_bpm: 1
+trade_rating_percentile_vorp: 6
+trade_rating_vorp: 0
+trade_total_bpm: -41434
+trade_total_grade_bpm: F
+trade_total_grade_vorp: D-
+trade_total_percentile_bpm: 18
+trade_total_percentile_vorp: 21
+trade_total_vorp: -28
 trade_win_list: '<ul>
 
   <li>Added Deni Avdija to POR.</li>

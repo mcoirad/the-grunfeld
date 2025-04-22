@@ -13,15 +13,18 @@ draft_description: Bernie Bickerstaff ranks in the 22th percentile for drafting 
   executives in our database. Bickerstaff's draft picks average out to be worth the
   equivalent of 6 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 14
-draft_rating_bpm: -15.8
+draft_overall_percentile_vorp: 47
+draft_rating_bpm: -16
 draft_rating_grade_bpm: F
 draft_rating_grade_vorp: D-
-draft_rating_percentile_bpm: 6.422018348623853
-draft_rating_percentile_vorp: 22.01834862385321
-draft_rating_vorp: -6.5
+draft_rating_percentile_bpm: 6
+draft_rating_percentile_vorp: 22
+draft_rating_vorp: -6
 draft_total_bpm: -42275
-draft_total_percentile_bpm: 71.95121951219512
-draft_total_percentile_vorp: 71.95121951219512
+draft_total_grade_bpm: B
+draft_total_grade_vorp: B
+draft_total_percentile_bpm: 72
+draft_total_percentile_vorp: 72
 draft_total_vorp: 31
 draft_win_list: '<ul>
 
@@ -34,6 +37,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2007
 final_bpm: -98037
+final_vorp: 32
 href: bickebe99x
 is_active: false
 name: Bernie Bickerstaff
@@ -48,9 +52,21 @@ signing_lose_list: '<ul>
   <li>Signed Matt Carroll in 2005.</li>
 
   </ul>'
-signing_rating_bpm: -0.48
+signing_num_players: 63
+signing_overall_percentile_bpm: 29
+signing_overall_percentile_vorp: 38
+signing_rating_bpm: 0
+signing_rating_grade_bpm: C-
 signing_rating_grade_vorp: F
-signing_rating_vorp: -0.19
+signing_rating_percentile_bpm: 41
+signing_rating_percentile_vorp: 14
+signing_rating_vorp: 0
+signing_total_bpm: -63929
+signing_total_grade_bpm: F
+signing_total_grade_vorp: B-
+signing_total_percentile_bpm: 17
+signing_total_percentile_vorp: 62
+signing_total_vorp: 13
 signing_win_list: '<ul>
 
   <li>Signed Reggie Williams in 1991.</li>
@@ -76,9 +92,21 @@ trade_lose_list: '<ul>
   <li>Lost Bernard Robinson to NJN.</li>
 
   </ul>'
-trade_rating_bpm: -0.09
+trade_num: 87
+trade_overall_percentile_bpm: 46
+trade_overall_percentile_vorp: 54
+trade_rating_bpm: 0
+trade_rating_grade_bpm: D
 trade_rating_grade_vorp: B+
-trade_rating_vorp: 0.09
+trade_rating_percentile_bpm: 31
+trade_rating_percentile_vorp: 73
+trade_rating_vorp: 0
+trade_total_bpm: 8167
+trade_total_grade_bpm: B-
+trade_total_grade_vorp: D+
+trade_total_percentile_bpm: 60
+trade_total_percentile_vorp: 34
+trade_total_vorp: -12
 trade_win_list: '<ul>
 
   <li>Added Jared Dudley to CHA.</li>

@@ -13,15 +13,18 @@ draft_description: Rod Higgins ranks in the 27th percentile for drafting among e
   in our database. Higgins's draft picks average out to be worth the equivalent of
   5 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
-draft_rating_bpm: -10.4
+draft_overall_percentile_vorp: 37
+draft_rating_bpm: -10
 draft_rating_grade_bpm: F
 draft_rating_grade_vorp: D
-draft_rating_percentile_bpm: 15.596330275229358
-draft_rating_percentile_vorp: 27.522935779816514
-draft_rating_vorp: -5.4
+draft_rating_percentile_bpm: 16
+draft_rating_percentile_vorp: 28
+draft_rating_vorp: -5
 draft_total_bpm: -23935
-draft_total_percentile_bpm: 45.73170731707317
-draft_total_percentile_vorp: 45.73170731707317
+draft_total_grade_bpm: C-
+draft_total_grade_vorp: C-
+draft_total_percentile_bpm: 46
+draft_total_percentile_vorp: 46
 draft_total_vorp: 4
 draft_win_list: '<ul>
 
@@ -32,6 +35,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2011
 final_bpm: -83723
+final_vorp: -9
 href: higgiro01x
 is_active: false
 name: Rod Higgins
@@ -46,9 +50,21 @@ signing_lose_list: '<ul>
   <li>Signed Dominic McGuire in 2011.</li>
 
   </ul>'
-signing_rating_bpm: -0.71
+signing_num_players: 21
+signing_overall_percentile_bpm: 25
+signing_overall_percentile_vorp: 18
+signing_rating_bpm: -1
+signing_rating_grade_bpm: F
 signing_rating_grade_vorp: F
-signing_rating_vorp: -0.19
+signing_rating_percentile_bpm: 5
+signing_rating_percentile_vorp: 14
+signing_rating_vorp: 0
+signing_total_bpm: -18809
+signing_total_grade_bpm: C-
+signing_total_grade_vorp: D-
+signing_total_percentile_bpm: 46
+signing_total_percentile_vorp: 21
+signing_total_vorp: 0
 signing_win_list: null
 start_year: 2007
 team:
@@ -64,9 +80,21 @@ trade_lose_list: '<ul>
   <li>Lost Alexis Ajinça, Tyson Chandler to DAL.</li>
 
   </ul>'
-trade_rating_bpm: -0.4
+trade_num: 48
+trade_overall_percentile_bpm: 13
+trade_overall_percentile_vorp: 18
+trade_rating_bpm: 0
+trade_rating_grade_bpm: F
 trade_rating_grade_vorp: F
-trade_rating_vorp: -0.4
+trade_rating_percentile_bpm: 7
+trade_rating_percentile_vorp: 4
+trade_rating_vorp: 0
+trade_total_bpm: -40979
+trade_total_grade_bpm: F
+trade_total_grade_vorp: D
+trade_total_percentile_bpm: 18
+trade_total_percentile_vorp: 32
+trade_total_vorp: -14
 trade_win_list: '<ul>
 
   <li>Added Jermareo Davidson, Jason Richardson to CHA.</li>

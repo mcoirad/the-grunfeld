@@ -11,15 +11,18 @@ draft_description: Billy King ranks in the 93th percentile for drafting among ex
   in our database. King's draft picks average out to be worth the equivalent of 11
   spots higher than they were picked due to his good drafting.
 draft_num_players: 13
-draft_rating_bpm: 12.8
+draft_overall_percentile_vorp: 89
+draft_rating_bpm: 13
 draft_rating_grade_bpm: A+
 draft_rating_grade_vorp: A+
-draft_rating_percentile_bpm: 96.3302752293578
-draft_rating_percentile_vorp: 93.57798165137615
-draft_rating_vorp: 11.4
+draft_rating_percentile_bpm: 96
+draft_rating_percentile_vorp: 94
+draft_rating_vorp: 11
 draft_total_bpm: 61695
-draft_total_percentile_bpm: 83.53658536585365
-draft_total_percentile_vorp: 83.53658536585365
+draft_total_grade_bpm: A-
+draft_total_grade_vorp: A-
+draft_total_percentile_bpm: 84
+draft_total_percentile_vorp: 84
 draft_total_vorp: 53
 draft_win_list: '<ul>
 
@@ -32,6 +35,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2016
 final_bpm: -207084
+final_vorp: -16
 href: kingbi99x
 is_active: false
 name: Billy King
@@ -46,9 +50,21 @@ signing_lose_list: '<ul>
   <li>Signed Stephen Graham in 2010.</li>
 
   </ul>'
-signing_rating_bpm: -0.52
+signing_num_players: 112
+signing_overall_percentile_bpm: 19
+signing_overall_percentile_vorp: 48
+signing_rating_bpm: -1
+signing_rating_grade_bpm: D
 signing_rating_grade_vorp: C-
-signing_rating_vorp: -0.08
+signing_rating_percentile_bpm: 33
+signing_rating_percentile_vorp: 41
+signing_rating_vorp: 0
+signing_total_bpm: -112566
+signing_total_grade_bpm: F
+signing_total_grade_vorp: C+
+signing_total_percentile_bpm: 5
+signing_total_percentile_vorp: 55
+signing_total_vorp: 10
 signing_win_list: '<ul>
 
   <li>Signed Brook Lopez in 2015.</li>
@@ -74,9 +90,21 @@ trade_lose_list: '<ul>
   <li>Lost Mehmet Okur, Shawne Williams, Damian Lillard to POR.</li>
 
   </ul>'
-trade_rating_bpm: -0.1
+trade_num: 207
+trade_overall_percentile_bpm: 17
+trade_overall_percentile_vorp: 30
+trade_rating_bpm: 0
+trade_rating_grade_bpm: D
 trade_rating_grade_vorp: C+
-trade_rating_vorp: 0.0
+trade_rating_percentile_bpm: 29
+trade_rating_percentile_vorp: 56
+trade_rating_vorp: 0
+trade_total_bpm: -156213
+trade_total_grade_bpm: F
+trade_total_grade_vorp: F
+trade_total_percentile_bpm: 4
+trade_total_percentile_vorp: 4
+trade_total_vorp: -79
 trade_win_list: '<ul>
 
   <li>Added Roshown McLeod, Dikembe Mutombo to PHI.</li>

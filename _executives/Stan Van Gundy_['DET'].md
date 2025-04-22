@@ -13,15 +13,18 @@ draft_description: Stan Van Gundy ranks in the 38th percentile for drafting amon
   executives in our database. Van's draft picks average out to be worth the equivalent
   of 2 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 6
-draft_rating_bpm: 1.7
+draft_overall_percentile_vorp: 25
+draft_rating_bpm: 2
 draft_rating_grade_bpm: B-
 draft_rating_grade_vorp: D+
-draft_rating_percentile_bpm: 62.38532110091743
-draft_rating_percentile_vorp: 38.53211009174312
-draft_rating_vorp: -2.3
+draft_rating_percentile_bpm: 62
+draft_rating_percentile_vorp: 39
+draft_rating_vorp: -2
 draft_total_bpm: -27723
-draft_total_percentile_bpm: 11.585365853658537
-draft_total_percentile_vorp: 11.585365853658537
+draft_total_grade_bpm: F
+draft_total_grade_vorp: F
+draft_total_percentile_bpm: 12
+draft_total_percentile_vorp: 12
 draft_total_vorp: -1
 draft_win_list: '<ul>
 
@@ -32,6 +35,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2018
 final_bpm: 16776
+final_vorp: 34
 href: vangust01x
 is_active: false
 name: Stan Van Gundy
@@ -46,9 +50,21 @@ signing_lose_list: '<ul>
   <li>Signed Ish Smith in 2016.</li>
 
   </ul>'
-signing_rating_bpm: -0.1
+signing_num_players: 46
+signing_overall_percentile_bpm: 90
+signing_overall_percentile_vorp: 87
+signing_rating_bpm: 0
+signing_rating_grade_bpm: A
 signing_rating_grade_vorp: A+
-signing_rating_vorp: 0.23
+signing_rating_percentile_bpm: 92
+signing_rating_percentile_vorp: 95
+signing_rating_vorp: 0
+signing_total_bpm: 11583
+signing_total_grade_bpm: A
+signing_total_grade_vorp: B+
+signing_total_percentile_bpm: 88
+signing_total_percentile_vorp: 79
+signing_total_vorp: 23
 signing_win_list: '<ul>
 
   <li>Signed Andre Drummond in 2016.</li>
@@ -72,9 +88,21 @@ trade_lose_list: '<ul>
   <li>Lost Marcus Morris to BOS.</li>
 
   </ul>'
-trade_rating_bpm: 0.2
+trade_num: 47
+trade_overall_percentile_bpm: 79
+trade_overall_percentile_vorp: 76
+trade_rating_bpm: 0
+trade_rating_grade_bpm: A-
 trade_rating_grade_vorp: B
-trade_rating_vorp: 0.07
+trade_rating_percentile_bpm: 83
+trade_rating_percentile_vorp: 68
+trade_rating_vorp: 0
+trade_total_bpm: 32917
+trade_total_grade_bpm: B+
+trade_total_grade_vorp: A-
+trade_total_percentile_bpm: 74
+trade_total_percentile_vorp: 84
+trade_total_vorp: 12
 trade_win_list: '<ul>
 
   <li>Added Reggie Jackson to DET.</li>

@@ -12,15 +12,18 @@ draft_bust_list: '<ul>
 draft_description: Travis Schlenk ranks in the 46th percentile for drafting among
   executives in our database. That's basically average. It could worse though lol.
 draft_num_players: 10
-draft_rating_bpm: -0.3
+draft_overall_percentile_vorp: 53
+draft_rating_bpm: 0
 draft_rating_grade_bpm: C+
 draft_rating_grade_vorp: C-
-draft_rating_percentile_bpm: 54.12844036697248
-draft_rating_percentile_vorp: 46.788990825688074
-draft_rating_vorp: 0.5
+draft_rating_percentile_bpm: 54
+draft_rating_percentile_vorp: 47
+draft_rating_vorp: 0
 draft_total_bpm: -11788
-draft_total_percentile_bpm: 59.75609756097561
-draft_total_percentile_vorp: 59.75609756097561
+draft_total_grade_bpm: C+
+draft_total_grade_vorp: C+
+draft_total_percentile_bpm: 60
+draft_total_percentile_vorp: 60
 draft_total_vorp: 16
 draft_win_list: '<ul>
 
@@ -33,6 +36,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2022
 final_bpm: -107370
+final_vorp: 6
 href: schletr01x
 is_active: false
 name: Travis Schlenk
@@ -47,9 +51,21 @@ signing_lose_list: '<ul>
   <li>Signed Solomon Hill in 2020.</li>
 
   </ul>'
-signing_rating_bpm: -0.41
+signing_num_players: 89
+signing_overall_percentile_bpm: 66
+signing_overall_percentile_vorp: 55
+signing_rating_bpm: 0
+signing_rating_grade_bpm: C+
 signing_rating_grade_vorp: D
-signing_rating_vorp: -0.13
+signing_rating_percentile_bpm: 57
+signing_rating_percentile_vorp: 28
+signing_rating_vorp: 0
+signing_total_bpm: -106
+signing_total_grade_bpm: B+
+signing_total_grade_vorp: A-
+signing_total_percentile_bpm: 76
+signing_total_percentile_vorp: 81
+signing_total_vorp: 24
 signing_win_list: '<ul>
 
   <li>Signed Trae Young in 2018.</li>
@@ -73,9 +89,21 @@ trade_lose_list: '<ul>
   <li>Lost Luka Dončić to DAL.</li>
 
   </ul>'
-trade_rating_bpm: 0.17
+trade_num: 102
+trade_overall_percentile_bpm: 44
+trade_overall_percentile_vorp: 38
+trade_rating_bpm: 0
+trade_rating_grade_bpm: B+
 trade_rating_grade_vorp: B-
-trade_rating_vorp: 0.03
+trade_rating_percentile_bpm: 77
+trade_rating_percentile_vorp: 61
+trade_rating_vorp: 0
+trade_total_bpm: -95476
+trade_total_grade_bpm: F
+trade_total_grade_vorp: F
+trade_total_percentile_bpm: 11
+trade_total_percentile_vorp: 15
+trade_total_vorp: -34
 trade_win_list: '<ul>
 
   <li>Added Clint Capela, Nene to ATL.</li>

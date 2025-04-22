@@ -13,15 +13,18 @@ draft_description: Harry Weltman ranks in the 67th percentile for drafting among
   in our database. Weltman's draft picks average out to be worth the equivalent of
   4 spots higher than they were picked due to his good drafting.
 draft_num_players: 13
-draft_rating_bpm: 1.2
+draft_overall_percentile_vorp: 73
+draft_rating_bpm: 1
 draft_rating_grade_bpm: B-
 draft_rating_grade_vorp: B
-draft_rating_percentile_bpm: 60.55045871559633
-draft_rating_percentile_vorp: 67.88990825688073
-draft_rating_vorp: 3.5
+draft_rating_percentile_bpm: 61
+draft_rating_percentile_vorp: 68
+draft_rating_vorp: 4
 draft_total_bpm: 21275
-draft_total_percentile_bpm: 78.65853658536585
-draft_total_percentile_vorp: 78.65853658536585
+draft_total_grade_bpm: B+
+draft_total_grade_vorp: B+
+draft_total_percentile_bpm: 79
+draft_total_percentile_vorp: 79
 draft_total_vorp: 37
 draft_win_list: '<ul>
 
@@ -34,6 +37,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 1990
 final_bpm: -6268
+final_vorp: 38
 href: weltmha99x
 is_active: false
 name: Harry Weltman
@@ -48,9 +52,21 @@ signing_lose_list: '<ul>
   <li>Signed Kevin Williams in 1988.</li>
 
   </ul>'
-signing_rating_bpm: -0.57
+signing_num_players: 31
+signing_overall_percentile_bpm: 28
+signing_overall_percentile_vorp: 18
+signing_rating_bpm: -1
+signing_rating_grade_bpm: F
 signing_rating_grade_vorp: D-
-signing_rating_vorp: -0.13
+signing_rating_percentile_bpm: 20
+signing_rating_percentile_vorp: 27
+signing_rating_vorp: 0
+signing_total_bpm: -32448
+signing_total_grade_bpm: D+
+signing_total_grade_vorp: F
+signing_total_percentile_bpm: 37
+signing_total_percentile_vorp: 10
+signing_total_vorp: -1
 signing_win_list: '<ul>
 
   <li>Signed Dudley Bradley in 1987.</li>
@@ -76,9 +92,21 @@ trade_lose_list: '<ul>
   <li>Lost Žan Tabak, Richard Petruška to CLE.</li>
 
   </ul>'
-trade_rating_bpm: -0.07
+trade_num: 78
+trade_overall_percentile_bpm: 44
+trade_overall_percentile_vorp: 43
+trade_rating_bpm: 0
+trade_rating_grade_bpm: D+
 trade_rating_grade_vorp: F
-trade_rating_vorp: -0.23
+trade_rating_percentile_bpm: 35
+trade_rating_percentile_vorp: 18
+trade_rating_vorp: 0
+trade_total_bpm: 4905
+trade_total_grade_bpm: C
+trade_total_grade_vorp: B
+trade_total_percentile_bpm: 52
+trade_total_percentile_vorp: 68
+trade_total_vorp: 2
 trade_win_list: '<ul>
 
   <li>Added World B. Free to CLE.</li>

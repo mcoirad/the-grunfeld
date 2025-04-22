@@ -13,15 +13,18 @@ draft_description: R.C. Buford ranks in the 80th percentile for drafting among e
   in our database. Buford's draft picks average out to be worth the equivalent of
   7 spots higher than they were picked due to his good drafting.
 draft_num_players: 17
-draft_rating_bpm: 3.3
+draft_overall_percentile_vorp: 77
+draft_rating_bpm: 3
 draft_rating_grade_bpm: B
 draft_rating_grade_vorp: A-
-draft_rating_percentile_bpm: 70.64220183486239
-draft_rating_percentile_vorp: 80.73394495412845
-draft_rating_vorp: 6.7
+draft_rating_percentile_bpm: 71
+draft_rating_percentile_vorp: 81
+draft_rating_vorp: 7
 draft_total_bpm: 2119
-draft_total_percentile_bpm: 72.5609756097561
-draft_total_percentile_vorp: 72.5609756097561
+draft_total_grade_bpm: B
+draft_total_grade_vorp: B
+draft_total_percentile_bpm: 73
+draft_total_percentile_vorp: 73
 draft_total_vorp: 31
 draft_win_list: '<ul>
 
@@ -34,6 +37,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2019
 final_bpm: 260709
+final_vorp: 173
 href: buforrc99x
 is_active: false
 name: R.C. Buford
@@ -48,9 +52,21 @@ signing_lose_list: '<ul>
   <li>Signed Bryn Forbes in 2016.</li>
 
   </ul>'
-signing_rating_bpm: -0.24
+signing_num_players: 174
+signing_overall_percentile_bpm: 92
+signing_overall_percentile_vorp: 96
+signing_rating_bpm: 0
+signing_rating_grade_bpm: A-
 signing_rating_grade_vorp: A
-signing_rating_vorp: 0.2
+signing_rating_percentile_bpm: 84
+signing_rating_percentile_vorp: 92
+signing_rating_vorp: 0
+signing_total_bpm: 218325
+signing_total_grade_bpm: S
+signing_total_grade_vorp: S
+signing_total_percentile_bpm: 100
+signing_total_percentile_vorp: 100
+signing_total_vorp: 148
 signing_win_list: '<ul>
 
   <li>Signed Manu Ginóbili in 2004.</li>
@@ -74,9 +90,21 @@ trade_lose_list: '<ul>
   <li>Lost Goran Dragić to PHO.</li>
 
   </ul>'
-trade_rating_bpm: 0.22
+trade_num: 77
+trade_overall_percentile_bpm: 83
+trade_overall_percentile_vorp: 42
+trade_rating_bpm: 0
+trade_rating_grade_bpm: A-
 trade_rating_grade_vorp: C-
-trade_rating_vorp: -0.04
+trade_rating_percentile_bpm: 86
+trade_rating_percentile_vorp: 41
+trade_rating_vorp: 0
+trade_total_bpm: 40264
+trade_total_grade_bpm: B+
+trade_total_grade_vorp: C-
+trade_total_percentile_bpm: 80
+trade_total_percentile_vorp: 43
+trade_total_vorp: -6
 trade_win_list: '<ul>
 
   <li>Added Matt Bonner, Eric Williams, Jack McClinton to SAS.</li>

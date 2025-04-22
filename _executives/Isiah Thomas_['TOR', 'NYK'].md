@@ -13,15 +13,18 @@ draft_description: Isiah Thomas ranks in the 75th percentile for drafting among 
   in our database. Thomas's draft picks average out to be worth the equivalent of
   5 spots higher than they were picked due to his good drafting.
 draft_num_players: 10
-draft_rating_bpm: 2.3
+draft_overall_percentile_vorp: 71
+draft_rating_bpm: 2
 draft_rating_grade_bpm: B-
 draft_rating_grade_vorp: B+
-draft_rating_percentile_bpm: 65.13761467889908
-draft_rating_percentile_vorp: 75.22935779816514
-draft_rating_vorp: 5.0
+draft_rating_percentile_bpm: 65
+draft_rating_percentile_vorp: 75
+draft_rating_vorp: 5
 draft_total_bpm: 782
-draft_total_percentile_bpm: 66.46341463414635
-draft_total_percentile_vorp: 66.46341463414635
+draft_total_grade_bpm: B-
+draft_total_grade_vorp: B-
+draft_total_percentile_bpm: 66
+draft_total_percentile_vorp: 66
 draft_total_vorp: 23
 draft_win_list: '<ul>
 
@@ -34,6 +37,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2008
 final_bpm: -131029
+final_vorp: 25
 href: thomais01x
 is_active: false
 name: Isiah Thomas
@@ -48,9 +52,21 @@ signing_lose_list: '<ul>
   <li>Signed Jerome James in 2005.</li>
 
   </ul>'
-signing_rating_bpm: -0.76
+signing_num_players: 37
+signing_overall_percentile_bpm: 11
+signing_overall_percentile_vorp: 6
+signing_rating_bpm: -1
+signing_rating_grade_bpm: F-
 signing_rating_grade_vorp: F
-signing_rating_vorp: -0.32
+signing_rating_percentile_bpm: 2
+signing_rating_percentile_vorp: 6
+signing_rating_vorp: 0
+signing_total_bpm: -59788
+signing_total_grade_bpm: F
+signing_total_grade_vorp: F
+signing_total_percentile_bpm: 20
+signing_total_percentile_vorp: 7
+signing_total_vorp: -1
 signing_win_list: '<ul>
 
   <li>Signed Walt Williams in 1996.</li>
@@ -73,9 +89,21 @@ trade_lose_list: '<ul>
   Noah, Kyrylo Fesenko, Jon Brockman to CHI.</li>
 
   </ul>'
-trade_rating_bpm: -0.37
+trade_num: 87
+trade_overall_percentile_bpm: 12
+trade_overall_percentile_vorp: 63
+trade_rating_bpm: 0
+trade_rating_grade_bpm: F
 trade_rating_grade_vorp: C+
-trade_rating_vorp: 0.0
+trade_rating_percentile_bpm: 9
+trade_rating_percentile_vorp: 56
+trade_rating_vorp: 0
+trade_total_bpm: -72024
+trade_total_grade_bpm: F
+trade_total_grade_vorp: B
+trade_total_percentile_bpm: 15
+trade_total_percentile_vorp: 71
+trade_total_vorp: 3
 trade_win_list: '<ul>
 
   <li>Added Anfernee Hardaway, Stephon Marbury, Cezary Trybański to NYK.</li>

@@ -204,9 +204,9 @@ updateTexts();
     
     <div class="col-md-3">
       <h3> Draft Rating:</h3>
-      <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text={{ executive.draft_rating_grade_vorp}} data-bpm-text={{ executive.draft_rating_grade_bpm}}> {{ executive.draft_rating_grade_bpm}}</h3>
-      <h5 > Draft Pick Efficiency Rating: <span class="stat-text" data-vorp-text={{ executive.draft_rating_percentile_vorp | round: 2 }} data-bpm-text={{ executive.draft_rating_percentile_bpm | round: 2 }}><span> {{ executive.draft_rating_percentile_bpm | round: 2 }} </h5>
-      <h5> Draft Total Value Rating: <span class="stat-text" data-vorp-text={{ executive.draft_total_percentile_vorp | round: 2 }} data-bpm-text={{ executive.draft_total_percentile_bpm | round: 2 }}><span> {{ executive.draft_total_percentile_bpm | round: 2 }}  </h5>
+      <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text={{ executive.draft_rating_grade_vorp | default: "n/a" }} data-bpm-text={{ executive.draft_rating_grade_bpm | default: "n/a" }}> {{ executive.draft_rating_grade_bpm | default: "n/a" }}</h3>
+      <h5 > Draft Pick Efficiency Rating: <span class="stat-text" data-vorp-text={{ executive.draft_rating_percentile_vorp | default: "n/a" }} data-bpm-text={{ executive.draft_rating_percentile_bpm | default: "n/a"  }}><span> {{ executive.draft_rating_percentile_bpm | default: "n/a"}} </h5>
+      <h5> Draft Total Value Rating: <span class="stat-text" data-vorp-text={{ executive.draft_total_percentile_vorp | default: "n/a" }} data-bpm-text={{ executive.draft_total_percentile_bpm | default: "n/a" }}><span> {{ executive.draft_total_percentile_bpm | default: "n/a"}}  </h5>
     </div>
     <div class="col-md-9">
     <div class="col-md-9"><canvas id="executive_draft_chart"></canvas></div>

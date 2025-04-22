@@ -13,15 +13,18 @@ draft_description: Rob Babcock ranks in the 2th percentile for drafting among ex
   in our database. Babcock's draft picks average out to be worth the equivalent of
   15 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
-draft_rating_bpm: -9.0
+draft_overall_percentile_vorp: 2
+draft_rating_bpm: -9
 draft_rating_grade_bpm: F
 draft_rating_grade_vorp: F-
-draft_rating_percentile_bpm: 18.34862385321101
-draft_rating_percentile_vorp: 2.7522935779816513
-draft_rating_vorp: -15.0
+draft_rating_percentile_bpm: 18
+draft_rating_percentile_vorp: 3
+draft_rating_vorp: -15
 draft_total_bpm: -32755
-draft_total_percentile_bpm: 1.2195121951219512
-draft_total_percentile_vorp: 1.2195121951219512
+draft_total_grade_bpm: F-
+draft_total_grade_vorp: F-
+draft_total_percentile_bpm: 1
+draft_total_percentile_vorp: 1
 draft_total_vorp: -4
 draft_win_list: '<ul>
 
@@ -30,6 +33,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2006
 final_bpm: -72826
+final_vorp: -13
 href: babcoro99x
 is_active: false
 name: Rob Babcock
@@ -42,9 +46,21 @@ signing_lose_list: '<ul>
   <li>Signed Darrick Martin in 2005.</li>
 
   </ul>'
-signing_rating_bpm: 0.2
+signing_num_players: 5
+signing_overall_percentile_bpm: 97
+signing_overall_percentile_vorp: 82
+signing_rating_bpm: 0
+signing_rating_grade_bpm: S
 signing_rating_grade_vorp: A+
-signing_rating_vorp: 0.2
+signing_rating_percentile_bpm: 100
+signing_rating_percentile_vorp: 95
+signing_rating_vorp: 0
+signing_total_bpm: 24818
+signing_total_grade_bpm: A+
+signing_total_grade_vorp: B
+signing_total_percentile_bpm: 93
+signing_total_percentile_vorp: 69
+signing_total_vorp: 16
 signing_win_list: '<ul>
 
   <li>Signed José Calderón in 2005.</li>
@@ -69,9 +85,21 @@ trade_lose_list: '<ul>
   <li>Lost Vince Carter to NJN.</li>
 
   </ul>'
+trade_num: 11
+trade_overall_percentile_bpm: null
+trade_overall_percentile_vorp: null
 trade_rating_bpm: null
+trade_rating_grade_bpm: null
 trade_rating_grade_vorp: null
+trade_rating_percentile_bpm: null
+trade_rating_percentile_vorp: null
 trade_rating_vorp: null
+trade_total_bpm: -64889
+trade_total_grade_bpm: F
+trade_total_grade_vorp: D-
+trade_total_percentile_bpm: 15
+trade_total_percentile_vorp: 23
+trade_total_vorp: -26
 trade_win_list: '<ul>
 
   <li>Added Mike James to TOR.</li>

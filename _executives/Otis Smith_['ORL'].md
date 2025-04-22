@@ -5,15 +5,18 @@ draft_description: Otis Smith ranks in the 83th percentile for drafting among ex
   in our database. Smith's draft picks average out to be worth the equivalent of 8
   spots higher than they were picked due to his good drafting.
 draft_num_players: 6
-draft_rating_bpm: 9.7
+draft_overall_percentile_vorp: 66
+draft_rating_bpm: 10
 draft_rating_grade_bpm: A-
 draft_rating_grade_vorp: A-
-draft_rating_percentile_bpm: 86.23853211009174
-draft_rating_percentile_vorp: 83.4862385321101
-draft_rating_vorp: 7.5
+draft_rating_percentile_bpm: 86
+draft_rating_percentile_vorp: 83
+draft_rating_vorp: 8
 draft_total_bpm: 4214
-draft_total_percentile_bpm: 49.390243902439025
-draft_total_percentile_vorp: 49.390243902439025
+draft_total_grade_bpm: C
+draft_total_grade_vorp: C
+draft_total_percentile_bpm: 49
+draft_total_percentile_vorp: 49
 draft_total_vorp: 7
 draft_win_list: '<ul>
 
@@ -22,6 +25,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2012
 final_bpm: 52979
+final_vorp: 30
 href: smithot01x
 is_active: false
 name: Otis Smith
@@ -36,9 +40,21 @@ signing_lose_list: '<ul>
   <li>Signed Quentin Richardson in 2010.</li>
 
   </ul>'
-signing_rating_bpm: -0.33
+signing_num_players: 21
+signing_overall_percentile_bpm: 63
+signing_overall_percentile_vorp: 76
+signing_rating_bpm: 0
+signing_rating_grade_bpm: B+
 signing_rating_grade_vorp: S
-signing_rating_vorp: 0.24
+signing_rating_percentile_bpm: 75
+signing_rating_percentile_vorp: 97
+signing_rating_vorp: 0
+signing_total_bpm: -16595
+signing_total_grade_bpm: C
+signing_total_grade_vorp: C+
+signing_total_percentile_bpm: 51
+signing_total_percentile_vorp: 54
+signing_total_vorp: 9
 signing_win_list: '<ul>
 
   <li>Signed Matt Barnes in 2009.</li>
@@ -62,9 +78,21 @@ trade_lose_list: '<ul>
   <li>Lost Trevor Ariza to LAL.</li>
 
   </ul>'
-trade_rating_bpm: 0.05
+trade_num: 50
+trade_overall_percentile_bpm: 70
+trade_overall_percentile_vorp: 57
+trade_rating_bpm: 0
+trade_rating_grade_bpm: C+
 trade_rating_grade_vorp: D
-trade_rating_vorp: -0.11
+trade_rating_percentile_bpm: 55
+trade_rating_percentile_vorp: 28
+trade_rating_vorp: 0
+trade_total_bpm: 65360
+trade_total_grade_bpm: A-
+trade_total_grade_vorp: A-
+trade_total_percentile_bpm: 86
+trade_total_percentile_vorp: 86
+trade_total_vorp: 14
 trade_win_list: '<ul>
 
   <li>Added Ryan Anderson, Vince Carter to ORL.</li>

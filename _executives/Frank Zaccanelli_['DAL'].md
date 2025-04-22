@@ -4,19 +4,23 @@ draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
   a draft grade.
 draft_num_players: 0
+draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
 draft_rating_grade_vorp: null
-draft_rating_percentile_bpm: .nan
-draft_rating_percentile_vorp: .nan
+draft_rating_percentile_bpm: null
+draft_rating_percentile_vorp: null
 draft_rating_vorp: null
 draft_total_bpm: 0
-draft_total_percentile_bpm: 33.53658536585366
-draft_total_percentile_vorp: 33.53658536585366
+draft_total_grade_bpm: D+
+draft_total_grade_vorp: D+
+draft_total_percentile_bpm: 34
+draft_total_percentile_vorp: 34
 draft_total_vorp: 0
 draft_win_list: null
 end_year: 1997
 final_bpm: -18962
+final_vorp: 7
 href: zaccafr99x
 is_active: false
 name: Frank Zaccanelli
@@ -27,9 +31,21 @@ signing_lose_list: '<ul>
   <li>Signed Oliver Miller in 1996.</li>
 
   </ul>'
-signing_rating_bpm: .nan
+signing_num_players: 1
+signing_overall_percentile_bpm: null
+signing_overall_percentile_vorp: null
+signing_rating_bpm: null
+signing_rating_grade_bpm: null
 signing_rating_grade_vorp: null
-signing_rating_vorp: .nan
+signing_rating_percentile_bpm: null
+signing_rating_percentile_vorp: null
+signing_rating_vorp: null
+signing_total_bpm: -2090
+signing_total_grade_bpm: B
+signing_total_grade_vorp: F
+signing_total_percentile_bpm: 73
+signing_total_percentile_vorp: 17
+signing_total_vorp: 0
 signing_win_list: null
 start_year: 1996
 team:
@@ -45,8 +61,20 @@ trade_lose_list: '<ul>
   <li>Lost Tony Dumas, Jason Kidd, Loren Meyer to PHO.</li>
 
   </ul>'
+trade_num: 7
+trade_overall_percentile_bpm: null
+trade_overall_percentile_vorp: null
 trade_rating_bpm: null
+trade_rating_grade_bpm: null
 trade_rating_grade_vorp: null
+trade_rating_percentile_bpm: null
+trade_rating_percentile_vorp: null
 trade_rating_vorp: null
+trade_total_bpm: -16872
+trade_total_grade_bpm: D
+trade_total_grade_vorp: B+
+trade_total_percentile_bpm: 30
+trade_total_percentile_vorp: 77
+trade_total_vorp: 7
 trade_win_list: null
 ---

@@ -13,15 +13,18 @@ draft_description: John Nash ranks in the 6th percentile for drafting among exec
   in our database. Nash's draft picks average out to be worth the equivalent of 13
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 10
-draft_rating_bpm: -13.5
+draft_overall_percentile_vorp: 6
+draft_rating_bpm: -14
 draft_rating_grade_bpm: F
 draft_rating_grade_vorp: F
-draft_rating_percentile_bpm: 9.174311926605505
-draft_rating_percentile_vorp: 6.422018348623853
-draft_rating_vorp: -12.7
+draft_rating_percentile_bpm: 9
+draft_rating_percentile_vorp: 6
+draft_rating_vorp: -13
 draft_total_bpm: -62337
-draft_total_percentile_bpm: 5.487804878048781
-draft_total_percentile_vorp: 5.487804878048781
+draft_total_grade_bpm: F
+draft_total_grade_vorp: F
+draft_total_percentile_bpm: 5
+draft_total_percentile_vorp: 5
 draft_total_vorp: -2
 draft_win_list: '<ul>
 
@@ -34,6 +37,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2006
 final_bpm: -131746
+final_vorp: -3
 href: nashjo99x
 is_active: false
 name: John Nash
@@ -48,9 +52,21 @@ signing_lose_list: '<ul>
   <li>Signed Bob Thornton in 1987.</li>
 
   </ul>'
-signing_rating_bpm: -0.34
+signing_num_players: 96
+signing_overall_percentile_bpm: 43
+signing_overall_percentile_vorp: 39
+signing_rating_bpm: 0
+signing_rating_grade_bpm: B
 signing_rating_grade_vorp: D
-signing_rating_vorp: -0.12
+signing_rating_percentile_bpm: 72
+signing_rating_percentile_vorp: 32
+signing_rating_vorp: 0
+signing_total_bpm: -74629
+signing_total_grade_bpm: F
+signing_total_grade_vorp: C-
+signing_total_percentile_bpm: 15
+signing_total_percentile_vorp: 47
+signing_total_vorp: 7
 signing_win_list: '<ul>
 
   <li>Signed Chris Whitney in 1996.</li>
@@ -80,9 +96,21 @@ trade_lose_list: '<ul>
   <li>Lost Deron Williams to UTA.</li>
 
   </ul>'
-trade_rating_bpm: 0.25
+trade_num: 102
+trade_overall_percentile_bpm: 70
+trade_overall_percentile_vorp: 61
+trade_rating_bpm: 0
+trade_rating_grade_bpm: A
 trade_rating_grade_vorp: A-
-trade_rating_vorp: 0.19
+trade_rating_percentile_bpm: 87
+trade_rating_percentile_vorp: 82
+trade_rating_vorp: 0
+trade_total_bpm: 5220
+trade_total_grade_bpm: C+
+trade_total_grade_vorp: D+
+trade_total_percentile_bpm: 53
+trade_total_percentile_vorp: 40
+trade_total_vorp: -7
 trade_win_list: '<ul>
 
   <li>Added Pervis Ellison to WSB.</li>

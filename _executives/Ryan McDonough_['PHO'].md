@@ -13,15 +13,18 @@ draft_description: Ryan McDonough ranks in the 8th percentile for drafting among
   in our database. McDonough's draft picks average out to be worth the equivalent
   of 12 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 12
-draft_rating_bpm: -10.4
+draft_overall_percentile_vorp: 36
+draft_rating_bpm: -10
 draft_rating_grade_bpm: F
 draft_rating_grade_vorp: F
-draft_rating_percentile_bpm: 14.678899082568808
-draft_rating_percentile_vorp: 8.256880733944953
-draft_rating_vorp: -12.5
+draft_rating_percentile_bpm: 15
+draft_rating_percentile_vorp: 8
+draft_rating_vorp: -12
 draft_total_bpm: -36168
-draft_total_percentile_bpm: 63.41463414634146
-draft_total_percentile_vorp: 63.41463414634146
+draft_total_grade_bpm: B-
+draft_total_grade_vorp: B-
+draft_total_percentile_bpm: 63
+draft_total_percentile_vorp: 63
 draft_total_vorp: 20
 draft_win_list: '<ul>
 
@@ -30,6 +33,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2018
 final_bpm: -56981
+final_vorp: 9
 href: mcdonry99x
 is_active: false
 name: Ryan McDonough
@@ -44,9 +48,21 @@ signing_lose_list: '<ul>
   <li>Signed Tyson Chandler in 2015.</li>
 
   </ul>'
-signing_rating_bpm: -0.51
+signing_num_players: 76
+signing_overall_percentile_bpm: 42
+signing_overall_percentile_vorp: 71
+signing_rating_bpm: -1
+signing_rating_grade_bpm: D+
 signing_rating_grade_vorp: B
-signing_rating_vorp: 0.0
+signing_rating_percentile_bpm: 35
+signing_rating_percentile_vorp: 69
+signing_rating_vorp: 0
+signing_total_bpm: -16889
+signing_total_grade_bpm: C
+signing_total_grade_vorp: B
+signing_total_percentile_bpm: 50
+signing_total_percentile_vorp: 73
+signing_total_vorp: 20
 signing_win_list: '<ul>
 
   <li>Signed Devin Booker in 2018.</li>
@@ -70,9 +86,21 @@ trade_lose_list: '<ul>
   <li>Lost Isaiah Thomas to BOS.</li>
 
   </ul>'
-trade_rating_bpm: 0.08
+trade_num: 81
+trade_overall_percentile_bpm: 51
+trade_overall_percentile_vorp: 18
+trade_rating_bpm: 0
+trade_rating_grade_bpm: C+
 trade_rating_grade_vorp: F
-trade_rating_vorp: -0.2
+trade_rating_percentile_bpm: 60
+trade_rating_percentile_vorp: 19
+trade_rating_vorp: 0
+trade_total_bpm: -3923
+trade_total_grade_bpm: C-
+trade_total_grade_vorp: F
+trade_total_percentile_bpm: 42
+trade_total_percentile_vorp: 16
+trade_total_vorp: -32
 trade_win_list: '<ul>
 
   <li>Added Brandan Wright to PHO.</li>

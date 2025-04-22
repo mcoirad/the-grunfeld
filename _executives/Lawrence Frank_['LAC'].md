@@ -5,15 +5,18 @@ draft_description: Lawrence Frank ranks in the 94th percentile for drafting amon
   executives in our database. Frank's draft picks average out to be worth the equivalent
   of 12 spots higher than they were picked due to his good drafting.
 draft_num_players: 6
-draft_rating_bpm: 11.7
+draft_overall_percentile_vorp: 68
+draft_rating_bpm: 12
 draft_rating_grade_bpm: A+
 draft_rating_grade_vorp: A+
-draft_rating_percentile_bpm: 94.4954128440367
-draft_rating_percentile_vorp: 94.4954128440367
-draft_rating_vorp: 11.7
+draft_rating_percentile_bpm: 94
+draft_rating_percentile_vorp: 94
+draft_rating_vorp: 12
 draft_total_bpm: -13883
-draft_total_percentile_bpm: 40.853658536585364
-draft_total_percentile_vorp: 40.853658536585364
+draft_total_grade_bpm: C-
+draft_total_grade_vorp: C-
+draft_total_percentile_bpm: 41
+draft_total_percentile_vorp: 41
 draft_total_vorp: 2
 draft_win_list: '<ul>
 
@@ -26,6 +29,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2026
 final_bpm: 2461
+final_vorp: 25
 href: frankla99x
 is_active: true
 name: Lawrence Frank
@@ -40,9 +44,21 @@ signing_lose_list: '<ul>
   <li>Signed Avery Bradley in 2018.</li>
 
   </ul>'
-signing_rating_bpm: -0.16
+signing_num_players: 103
+signing_overall_percentile_bpm: 93
+signing_overall_percentile_vorp: 95
+signing_rating_bpm: 0
+signing_rating_grade_bpm: A
 signing_rating_grade_vorp: A+
-signing_rating_vorp: 0.23
+signing_rating_percentile_bpm: 90
+signing_rating_percentile_vorp: 96
+signing_rating_vorp: 0
+signing_total_bpm: 47035
+signing_total_grade_bpm: A+
+signing_total_grade_vorp: A+
+signing_total_percentile_bpm: 96
+signing_total_percentile_vorp: 93
+signing_total_vorp: 52
 signing_win_list: '<ul>
 
   <li>Signed Kawhi Leonard in 2019.</li>
@@ -67,9 +83,21 @@ trade_lose_list: '<ul>
   Jaquez Jr., Dillon Jones to OKC.</li>
 
   </ul>'
-trade_rating_bpm: 0.03
+trade_num: 130
+trade_overall_percentile_bpm: 38
+trade_overall_percentile_vorp: 52
+trade_rating_bpm: 0
+trade_rating_grade_bpm: C+
 trade_rating_grade_vorp: A-
-trade_rating_vorp: 0.22
+trade_rating_percentile_bpm: 53
+trade_rating_percentile_vorp: 86
+trade_rating_vorp: 0
+trade_total_bpm: -30691
+trade_total_grade_bpm: D-
+trade_total_grade_vorp: F
+trade_total_percentile_bpm: 23
+trade_total_percentile_vorp: 19
+trade_total_vorp: -28
 trade_win_list: '<ul>
 
   <li>Added Robert Covington, Norman Powell to LAC.</li>

@@ -13,15 +13,18 @@ draft_description: Norm Sonju ranks in the 53th percentile for drafting among ex
   in our database. Sonju's draft picks average out to be worth the equivalent of 2
   spots higher than they were picked due to his good drafting.
 draft_num_players: 36
-draft_rating_bpm: 0.6
+draft_overall_percentile_vorp: 73
+draft_rating_bpm: 1
 draft_rating_grade_bpm: C+
 draft_rating_grade_vorp: C+
-draft_rating_percentile_bpm: 57.79816513761468
-draft_rating_percentile_vorp: 53.211009174311926
-draft_rating_vorp: 1.6
+draft_rating_percentile_bpm: 58
+draft_rating_percentile_vorp: 53
+draft_rating_vorp: 2
 draft_total_bpm: 367
-draft_total_percentile_bpm: 93.29268292682927
-draft_total_percentile_vorp: 93.29268292682927
+draft_total_grade_bpm: A+
+draft_total_grade_vorp: A+
+draft_total_percentile_bpm: 93
+draft_total_percentile_vorp: 93
 draft_total_vorp: 101
 draft_win_list: '<ul>
 
@@ -34,6 +37,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 1996
 final_bpm: -325728
+final_vorp: -39
 href: sonjuno99x
 is_active: false
 name: Norm Sonju
@@ -48,9 +52,21 @@ signing_lose_list: '<ul>
   <li>Signed Lorenzo Williams in 1994.</li>
 
   </ul>'
-signing_rating_bpm: -0.33
+signing_num_players: 77
+signing_overall_percentile_bpm: 42
+signing_overall_percentile_vorp: 44
+signing_rating_bpm: 0
+signing_rating_grade_bpm: B+
 signing_rating_grade_vorp: D+
-signing_rating_vorp: -0.11
+signing_rating_percentile_bpm: 75
+signing_rating_percentile_vorp: 35
+signing_rating_vorp: 0
+signing_total_bpm: -94601
+signing_total_grade_bpm: F
+signing_total_grade_vorp: C+
+signing_total_percentile_bpm: 8
+signing_total_percentile_vorp: 53
+signing_total_vorp: 9
 signing_win_list: '<ul>
 
   <li>Signed George McCloud in 1995.</li>
@@ -76,9 +92,21 @@ trade_lose_list: '<ul>
   <li>Lost Mark Price to CLE.</li>
 
   </ul>'
-trade_rating_bpm: 0.15
+trade_num: 123
+trade_overall_percentile_bpm: 38
+trade_overall_percentile_vorp: 30
+trade_rating_bpm: 0
+trade_rating_grade_bpm: B+
 trade_rating_grade_vorp: C+
-trade_rating_vorp: 0.02
+trade_rating_percentile_bpm: 73
+trade_rating_percentile_vorp: 59
+trade_rating_vorp: 0
+trade_total_bpm: -231494
+trade_total_grade_bpm: F-
+trade_total_grade_vorp: F-
+trade_total_percentile_bpm: 2
+trade_total_percentile_vorp: 2
+trade_total_vorp: -149
 trade_win_list: '<ul>
 
   <li>Added Rodney McCray, Phil Henderson, Mike Iuzzolino to DAL.</li>

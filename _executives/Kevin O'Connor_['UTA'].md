@@ -13,15 +13,18 @@ draft_description: Kevin O'Connor ranks in the 63th percentile for drafting amon
   executives in our database. O'Connor's draft picks average out to be worth the equivalent
   of 3 spots higher than they were picked due to his good drafting.
 draft_num_players: 21
-draft_rating_bpm: 1.6
+draft_overall_percentile_vorp: 73
+draft_rating_bpm: 2
 draft_rating_grade_bpm: B-
 draft_rating_grade_vorp: B-
-draft_rating_percentile_bpm: 61.46788990825688
-draft_rating_percentile_vorp: 63.30275229357798
-draft_rating_vorp: 2.9
+draft_rating_percentile_bpm: 61
+draft_rating_percentile_vorp: 63
+draft_rating_vorp: 3
 draft_total_bpm: 8181
-draft_total_percentile_bpm: 82.92682926829268
-draft_total_percentile_vorp: 82.92682926829268
+draft_total_grade_bpm: A-
+draft_total_grade_vorp: A-
+draft_total_percentile_bpm: 83
+draft_total_percentile_vorp: 83
 draft_total_vorp: 52
 draft_win_list: '<ul>
 
@@ -34,6 +37,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2012
 final_bpm: -25289
+final_vorp: 92
 href: oconnke99x
 is_active: false
 name: Kevin O'Connor
@@ -48,9 +52,21 @@ signing_lose_list: '<ul>
   <li>Signed Keith McLeod in 2004.</li>
 
   </ul>'
-signing_rating_bpm: -0.68
+signing_num_players: 56
+signing_overall_percentile_bpm: 9
+signing_overall_percentile_vorp: 44
+signing_rating_bpm: -1
+signing_rating_grade_bpm: F
 signing_rating_grade_vorp: F
-signing_rating_vorp: -0.29
+signing_rating_percentile_bpm: 7
+signing_rating_percentile_vorp: 8
+signing_rating_vorp: 0
+signing_total_bpm: -87810
+signing_total_grade_bpm: F
+signing_total_grade_vorp: A-
+signing_total_percentile_bpm: 10
+signing_total_percentile_vorp: 80
+signing_total_vorp: 23
 signing_win_list: '<ul>
 
   <li>Signed Carlos Boozer in 2004.</li>
@@ -74,9 +90,21 @@ trade_lose_list: '<ul>
   <li>Lost Herbert Hill to PHI.</li>
 
   </ul>'
-trade_rating_bpm: 0.12
+trade_num: 82
+trade_overall_percentile_bpm: 76
+trade_overall_percentile_vorp: 92
+trade_rating_bpm: 0
+trade_rating_grade_bpm: B
 trade_rating_grade_vorp: A+
-trade_rating_vorp: 0.48
+trade_rating_percentile_bpm: 69
+trade_rating_percentile_vorp: 96
+trade_rating_vorp: 0
+trade_total_bpm: 54339
+trade_total_grade_bpm: A-
+trade_total_grade_vorp: A
+trade_total_percentile_bpm: 83
+trade_total_percentile_vorp: 87
+trade_total_vorp: 16
 trade_win_list: '<ul>
 
   <li>Added Al Jefferson to UTA.</li>

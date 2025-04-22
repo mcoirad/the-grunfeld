@@ -11,15 +11,18 @@ draft_description: Sean Marks ranks in the 58th percentile for drafting among ex
   in our database. Marks's draft picks average out to be worth the equivalent of 3
   spots higher than they were picked due to his good drafting.
 draft_num_players: 10
-draft_rating_bpm: 6.9
+draft_overall_percentile_vorp: 54
+draft_rating_bpm: 7
 draft_rating_grade_bpm: B+
 draft_rating_grade_vorp: C+
-draft_rating_percentile_bpm: 79.81651376146789
-draft_rating_percentile_vorp: 58.71559633027523
-draft_rating_vorp: 2.6
+draft_rating_percentile_bpm: 80
+draft_rating_percentile_vorp: 59
+draft_rating_vorp: 3
 draft_total_bpm: -18691
-draft_total_percentile_bpm: 50.0
-draft_total_percentile_vorp: 50.0
+draft_total_grade_bpm: C
+draft_total_grade_vorp: C
+draft_total_percentile_bpm: 50
+draft_total_percentile_vorp: 50
 draft_total_vorp: 9
 draft_win_list: '<ul>
 
@@ -32,6 +35,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2026
 final_bpm: -76231
+final_vorp: 81
 href: marksse99x
 is_active: true
 name: Sean Marks
@@ -46,9 +50,21 @@ signing_lose_list: '<ul>
   <li>Signed Sean Kilpatrick in 2016.</li>
 
   </ul>'
-signing_rating_bpm: -0.35
+signing_num_players: 161
+signing_overall_percentile_bpm: 42
+signing_overall_percentile_vorp: 76
+signing_rating_bpm: 0
+signing_rating_grade_bpm: B
 signing_rating_grade_vorp: B
-signing_rating_vorp: 0.0
+signing_rating_percentile_bpm: 69
+signing_rating_percentile_vorp: 69
+signing_rating_vorp: 0
+signing_total_bpm: -68180
+signing_total_grade_bpm: F
+signing_total_grade_vorp: A-
+signing_total_percentile_bpm: 15
+signing_total_percentile_vorp: 84
+signing_total_vorp: 29
 signing_win_list: '<ul>
 
   <li>Signed Kyrie Irving in 2019.</li>
@@ -72,14 +88,29 @@ trade_lose_list: '<ul>
   <li>Lost Kyrie Irving, Markieff Morris to DAL.</li>
 
   </ul>'
-trade_rating_bpm: 0.0
+trade_num: 152
+trade_overall_percentile_bpm: 56
+trade_overall_percentile_vorp: 83
+trade_rating_bpm: 0
+trade_rating_grade_bpm: C
 trade_rating_grade_vorp: B
-trade_rating_vorp: 0.08
+trade_rating_percentile_bpm: 51
+trade_rating_percentile_vorp: 71
+trade_rating_vorp: 0
+trade_total_bpm: 10640
+trade_total_grade_bpm: B-
+trade_total_grade_vorp: A+
+trade_total_percentile_bpm: 62
+trade_total_percentile_vorp: 96
+trade_total_vorp: 44
 trade_win_list: '<ul>
 
-  <li>Added Kevin Durant to BRK.</li>
+  <li>Added Bojan Bogdanovic, Mamadi Diakite, Shake Milton, future 1st round pick,
+  future 1st round pick, future 2nd round pick, future 1st round pick, future 1st
+  round pick, future 1st round pick, future 1st round pick to BRK.</li>
 
-  <li>Lost Treveon Graham, Shabazz Napier, D''Angelo Russell to GSW.</li>
+  <li>Lost Keita Bates-Diop, Mikal Bridges, Juan Pablo Vaulet, future 2nd round pick
+  to NYK.</li>
 
   </ul>'
 ---

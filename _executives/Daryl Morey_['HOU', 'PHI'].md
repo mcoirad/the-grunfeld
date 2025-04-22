@@ -13,15 +13,18 @@ draft_description: Daryl Morey ranks in the 92th percentile for drafting among e
   in our database. Morey's draft picks average out to be worth the equivalent of 10
   spots higher than they were picked due to his good drafting.
 draft_num_players: 25
-draft_rating_bpm: 13.1
+draft_overall_percentile_vorp: 83
+draft_rating_bpm: 13
 draft_rating_grade_bpm: S
 draft_rating_grade_vorp: A
-draft_rating_percentile_bpm: 97.24770642201835
-draft_rating_percentile_vorp: 92.66055045871559
-draft_rating_vorp: 10.2
+draft_rating_percentile_bpm: 97
+draft_rating_percentile_vorp: 93
+draft_rating_vorp: 10
 draft_total_bpm: 11065
-draft_total_percentile_bpm: 73.78048780487805
-draft_total_percentile_vorp: 73.78048780487805
+draft_total_grade_bpm: B+
+draft_total_grade_vorp: B+
+draft_total_percentile_bpm: 74
+draft_total_percentile_vorp: 74
 draft_total_vorp: 33
 draft_win_list: '<ul>
 
@@ -34,6 +37,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2026
 final_bpm: 101729
+final_vorp: 88
 href: moreyda99x
 is_active: true
 name: Daryl Morey
@@ -48,9 +52,21 @@ signing_lose_list: '<ul>
   <li>Signed Corey Brewer in 2015.</li>
 
   </ul>'
-signing_rating_bpm: -0.36
+signing_num_players: 261
+signing_overall_percentile_bpm: 61
+signing_overall_percentile_vorp: 87
+signing_rating_bpm: 0
+signing_rating_grade_bpm: B
 signing_rating_grade_vorp: B+
-signing_rating_vorp: 0.07
+signing_rating_percentile_bpm: 67
+signing_rating_percentile_vorp: 78
+signing_rating_vorp: 0
+signing_total_bpm: -14044
+signing_total_grade_bpm: C+
+signing_total_grade_vorp: A+
+signing_total_percentile_bpm: 54
+signing_total_percentile_vorp: 97
+signing_total_vorp: 74
 signing_win_list: '<ul>
 
   <li>Signed James Harden in 2016.</li>
@@ -76,9 +92,21 @@ trade_lose_list: '<ul>
   <li>Lost Kyle Lowry to TOR.</li>
 
   </ul>'
-trade_rating_bpm: 0.15
+trade_num: 301
+trade_overall_percentile_bpm: 82
+trade_overall_percentile_vorp: 34
+trade_rating_bpm: 0
+trade_rating_grade_bpm: B+
 trade_rating_grade_vorp: C-
-trade_rating_vorp: -0.03
+trade_rating_percentile_bpm: 74
+trade_rating_percentile_vorp: 42
+trade_rating_vorp: 0
+trade_total_bpm: 104708
+trade_total_grade_bpm: A
+trade_total_grade_vorp: D-
+trade_total_percentile_bpm: 91
+trade_total_percentile_vorp: 27
+trade_total_vorp: -19
 trade_win_list: '<ul>
 
   <li>Added Cole Aldrich, Daequan Cook, James Harden, Lazar Hayward to HOU.</li>

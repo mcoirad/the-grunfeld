@@ -11,15 +11,18 @@ draft_description: Garry St. Jean ranks in the 88th percentile for drafting amon
   executives in our database. St.'s draft picks average out to be worth the equivalent
   of 9 spots higher than they were picked due to his good drafting.
 draft_num_players: 7
-draft_rating_bpm: 10.9
+draft_overall_percentile_vorp: 77
+draft_rating_bpm: 11
 draft_rating_grade_bpm: A
 draft_rating_grade_vorp: A
-draft_rating_percentile_bpm: 91.74311926605505
-draft_rating_percentile_vorp: 88.07339449541284
-draft_rating_vorp: 9.0
+draft_rating_percentile_bpm: 92
+draft_rating_percentile_vorp: 88
+draft_rating_vorp: 9
 draft_total_bpm: -5543
-draft_total_percentile_bpm: 65.85365853658537
-draft_total_percentile_vorp: 65.85365853658537
+draft_total_grade_bpm: B-
+draft_total_grade_vorp: B-
+draft_total_percentile_bpm: 66
+draft_total_percentile_vorp: 66
 draft_total_vorp: 23
 draft_win_list: '<ul>
 
@@ -30,6 +33,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2004
 final_bpm: -213311
+final_vorp: -28
 href: stjeaga99x
 is_active: false
 name: Garry St. Jean
@@ -44,9 +48,21 @@ signing_lose_list: '<ul>
   <li>Signed Bill Curley in 2000.</li>
 
   </ul>'
-signing_rating_bpm: -0.41
+signing_num_players: 51
+signing_overall_percentile_bpm: 49
+signing_overall_percentile_vorp: 31
+signing_rating_bpm: 0
+signing_rating_grade_bpm: C+
 signing_rating_grade_vorp: D
-signing_rating_vorp: -0.12
+signing_rating_percentile_bpm: 56
+signing_rating_percentile_vorp: 31
+signing_rating_vorp: 0
+signing_total_bpm: -22026
+signing_total_grade_bpm: C-
+signing_total_grade_vorp: D
+signing_total_percentile_bpm: 42
+signing_total_percentile_vorp: 30
+signing_total_vorp: 2
 signing_win_list: '<ul>
 
   <li>Signed Brian Cardinal in 2003.</li>
@@ -70,9 +86,21 @@ trade_lose_list: '<ul>
   <li>Lost Vince Carter to TOR.</li>
 
   </ul>'
-trade_rating_bpm: -0.6
+trade_num: 74
+trade_overall_percentile_bpm: 4
+trade_overall_percentile_vorp: 5
+trade_rating_bpm: -1
+trade_rating_grade_bpm: F
 trade_rating_grade_vorp: F
-trade_rating_vorp: -0.4
+trade_rating_percentile_bpm: 4
+trade_rating_percentile_vorp: 4
+trade_rating_vorp: 0
+trade_total_bpm: -185742
+trade_total_grade_bpm: F
+trade_total_grade_vorp: F
+trade_total_percentile_bpm: 4
+trade_total_percentile_vorp: 6
+trade_total_vorp: -53
 trade_win_list: '<ul>
 
   <li>Added Jim Jackson, Clarence Weatherspoon to GSW.</li>

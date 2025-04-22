@@ -13,15 +13,18 @@ draft_description: Pat Williams ranks in the 57th percentile for drafting among 
   in our database. Williams's draft picks average out to be worth the equivalent of
   2 spots higher than they were picked due to his good drafting.
 draft_num_players: 35
-draft_rating_bpm: 1.9
+draft_overall_percentile_vorp: 78
+draft_rating_bpm: 2
 draft_rating_grade_bpm: B-
 draft_rating_grade_vorp: C+
-draft_rating_percentile_bpm: 63.30275229357798
-draft_rating_percentile_vorp: 57.79816513761468
-draft_rating_vorp: 2.4
+draft_rating_percentile_bpm: 63
+draft_rating_percentile_vorp: 58
+draft_rating_vorp: 2
 draft_total_bpm: 270288
-draft_total_percentile_bpm: 98.78048780487805
-draft_total_percentile_vorp: 98.78048780487805
+draft_total_grade_bpm: S
+draft_total_grade_vorp: S
+draft_total_percentile_bpm: 99
+draft_total_percentile_vorp: 99
 draft_total_vorp: 148
 draft_win_list: '<ul>
 
@@ -34,6 +37,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 1996
 final_bpm: 254672
+final_vorp: 169
 href: willipa99x
 is_active: false
 name: Pat Williams
@@ -48,9 +52,21 @@ signing_lose_list: '<ul>
   <li>Signed Marc Iavaroni in 1982.</li>
 
   </ul>'
-signing_rating_bpm: -0.48
+signing_num_players: 63
+signing_overall_percentile_bpm: 27
+signing_overall_percentile_vorp: 46
+signing_rating_bpm: 0
+signing_rating_grade_bpm: C-
 signing_rating_grade_vorp: F
-signing_rating_vorp: -0.28
+signing_rating_percentile_bpm: 41
+signing_rating_percentile_vorp: 9
+signing_rating_vorp: 0
+signing_total_bpm: -76871
+signing_total_grade_bpm: F
+signing_total_grade_vorp: A-
+signing_total_percentile_bpm: 13
+signing_total_percentile_vorp: 82
+signing_total_vorp: 25
 signing_win_list: '<ul>
 
   <li>Signed Darrell Armstrong in 1995.</li>
@@ -80,9 +96,21 @@ trade_lose_list: '<ul>
   <li>Lost Brad Daugherty to CLE.</li>
 
   </ul>'
-trade_rating_bpm: 0.01
+trade_num: 178
+trade_overall_percentile_bpm: 69
+trade_overall_percentile_vorp: 56
+trade_rating_bpm: 0
+trade_rating_grade_bpm: C
 trade_rating_grade_vorp: B-
-trade_rating_vorp: 0.04
+trade_rating_percentile_bpm: 52
+trade_rating_percentile_vorp: 64
+trade_rating_vorp: 0
+trade_total_bpm: 61255
+trade_total_grade_bpm: A-
+trade_total_grade_vorp: C
+trade_total_percentile_bpm: 85
+trade_total_percentile_vorp: 49
+trade_total_vorp: -4
 trade_win_list: '<ul>
 
   <li>Added Bobby Jones, Ralph Simpson, Leon Wood to PHI.</li>

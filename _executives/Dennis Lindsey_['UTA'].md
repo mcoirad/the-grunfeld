@@ -11,15 +11,18 @@ draft_description: Dennis Lindsey ranks in the 50th percentile for drafting amon
   executives in our database. Lindsey's draft picks average out to be worth the equivalent
   of 1 spot higher than they were picked due to his good drafting.
 draft_num_players: 10
-draft_rating_bpm: 2.7
+draft_overall_percentile_vorp: 44
+draft_rating_bpm: 3
 draft_rating_grade_bpm: B
 draft_rating_grade_vorp: C
-draft_rating_percentile_bpm: 69.72477064220183
-draft_rating_percentile_vorp: 50.45871559633027
-draft_rating_vorp: 1.1
+draft_rating_percentile_bpm: 70
+draft_rating_percentile_vorp: 50
+draft_rating_vorp: 1
 draft_total_bpm: -22341
-draft_total_percentile_bpm: 37.19512195121951
-draft_total_percentile_vorp: 37.19512195121951
+draft_total_grade_bpm: D+
+draft_total_grade_vorp: D+
+draft_total_percentile_bpm: 37
+draft_total_percentile_vorp: 37
 draft_total_vorp: 1
 draft_win_list: '<ul>
 
@@ -28,6 +31,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2021
 final_bpm: 166769
+final_vorp: 89
 href: lindsde99x
 is_active: false
 name: Dennis Lindsey
@@ -42,9 +46,21 @@ signing_lose_list: '<ul>
   <li>Signed Raul Neto in 2015.</li>
 
   </ul>'
-signing_rating_bpm: -0.21
+signing_num_players: 108
+signing_overall_percentile_bpm: 92
+signing_overall_percentile_vorp: 91
+signing_rating_bpm: 0
+signing_rating_grade_bpm: A-
 signing_rating_grade_vorp: A-
-signing_rating_vorp: 0.11
+signing_rating_percentile_bpm: 85
+signing_rating_percentile_vorp: 84
+signing_rating_vorp: 0
+signing_total_bpm: 127862
+signing_total_grade_bpm: S
+signing_total_grade_vorp: S
+signing_total_percentile_bpm: 99
+signing_total_percentile_vorp: 98
+signing_total_vorp: 88
 signing_win_list: '<ul>
 
   <li>Signed Rudy Gobert in 2016.</li>
@@ -69,9 +85,21 @@ trade_lose_list: '<ul>
   <li>Lost Enes Kanter, Steve Novak to OKC.</li>
 
   </ul>'
-trade_rating_bpm: 0.12
+trade_num: 97
+trade_overall_percentile_bpm: 78
+trade_overall_percentile_vorp: 75
+trade_rating_bpm: 0
+trade_rating_grade_bpm: B
 trade_rating_grade_vorp: A
-trade_rating_vorp: 0.25
+trade_rating_percentile_bpm: 71
+trade_rating_percentile_vorp: 87
+trade_rating_vorp: 0
+trade_total_bpm: 61248
+trade_total_grade_bpm: A-
+trade_total_grade_vorp: B-
+trade_total_percentile_bpm: 85
+trade_total_percentile_vorp: 62
+trade_total_vorp: 0
 trade_win_list: '<ul>
 
   <li>Added Mike Conley to UTA.</li>

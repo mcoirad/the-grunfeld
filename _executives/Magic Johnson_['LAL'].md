@@ -10,15 +10,18 @@ draft_bust_list: '<ul>
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
+draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
 draft_rating_grade_vorp: null
-draft_rating_percentile_bpm: .nan
-draft_rating_percentile_vorp: .nan
+draft_rating_percentile_bpm: null
+draft_rating_percentile_vorp: null
 draft_rating_vorp: null
 draft_total_bpm: -2749
-draft_total_percentile_bpm: 37.19512195121951
-draft_total_percentile_vorp: 37.19512195121951
+draft_total_grade_bpm: D+
+draft_total_grade_vorp: D+
+draft_total_percentile_bpm: 37
+draft_total_percentile_vorp: 37
 draft_total_vorp: 1
 draft_win_list: '<ul>
 
@@ -27,6 +30,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2019
 final_bpm: 47930
+final_vorp: 26
 href: johnsma01x
 is_active: false
 name: Magic Johnson
@@ -41,9 +45,21 @@ signing_lose_list: '<ul>
   <li>Signed Kentavious Caldwell-Pope in 2018.</li>
 
   </ul>'
-signing_rating_bpm: -0.33
+signing_num_players: 39
+signing_overall_percentile_bpm: 87
+signing_overall_percentile_vorp: 91
+signing_rating_bpm: 0
+signing_rating_grade_bpm: B+
 signing_rating_grade_vorp: A
-signing_rating_vorp: 0.17
+signing_rating_percentile_bpm: 75
+signing_rating_percentile_vorp: 90
+signing_rating_vorp: 0
+signing_total_bpm: 79576
+signing_total_grade_bpm: S
+signing_total_grade_vorp: A
+signing_total_percentile_bpm: 98
+signing_total_percentile_vorp: 92
+signing_total_vorp: 45
 signing_win_list: '<ul>
 
   <li>Signed LeBron James in 2018.</li>
@@ -67,9 +83,21 @@ trade_lose_list: '<ul>
   <li>Lost Michael Beasley, Ivica Zubac to LAC.</li>
 
   </ul>'
-trade_rating_bpm: -0.75
+trade_num: 26
+trade_overall_percentile_bpm: 12
+trade_overall_percentile_vorp: 21
+trade_rating_bpm: -1
+trade_rating_grade_bpm: F-
 trade_rating_grade_vorp: F
-trade_rating_vorp: -0.25
+trade_rating_percentile_bpm: 0
+trade_rating_percentile_vorp: 17
+trade_rating_vorp: 0
+trade_total_bpm: -28898
+trade_total_grade_bpm: D-
+trade_total_grade_vorp: D-
+trade_total_percentile_bpm: 24
+trade_total_percentile_vorp: 26
+trade_total_vorp: -19
 trade_win_list: '<ul>
 
   <li>Added Reggie Bullock to LAL.</li>

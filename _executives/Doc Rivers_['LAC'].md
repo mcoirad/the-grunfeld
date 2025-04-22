@@ -4,21 +4,25 @@ draft_bust_list: null
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
+draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
 draft_rating_grade_vorp: null
-draft_rating_percentile_bpm: .nan
-draft_rating_percentile_vorp: .nan
+draft_rating_percentile_bpm: null
+draft_rating_percentile_vorp: null
 draft_rating_vorp: null
 draft_total_bpm: -2212
-draft_total_percentile_bpm: 33.53658536585366
-draft_total_percentile_vorp: 33.53658536585366
+draft_total_grade_bpm: D+
+draft_total_grade_vorp: D+
+draft_total_percentile_bpm: 34
+draft_total_percentile_vorp: 34
 draft_total_vorp: 0
 draft_win_list: '<ul>
 
   </ul>'
 end_year: 2017
 final_bpm: 46922
+final_vorp: 47
 href: riverdo99x
 is_active: false
 name: Doc Rivers
@@ -33,9 +37,21 @@ signing_lose_list: '<ul>
   <li>Signed Paul Pierce in 2015.</li>
 
   </ul>'
-signing_rating_bpm: -0.47
+signing_num_players: 56
+signing_overall_percentile_bpm: 69
+signing_overall_percentile_vorp: 79
+signing_rating_bpm: 0
+signing_rating_grade_bpm: C-
 signing_rating_grade_vorp: B
-signing_rating_vorp: 0.0
+signing_rating_percentile_bpm: 44
+signing_rating_percentile_vorp: 69
+signing_rating_vorp: 0
+signing_total_bpm: 41799
+signing_total_grade_bpm: A+
+signing_total_grade_vorp: A
+signing_total_percentile_bpm: 95
+signing_total_percentile_vorp: 90
+signing_total_vorp: 38
 signing_win_list: '<ul>
 
   <li>Signed Chris Paul in 2013.</li>
@@ -61,9 +77,21 @@ trade_lose_list: '<ul>
   <li>Lost Marcus Paige to MIL.</li>
 
   </ul>'
-trade_rating_bpm: -0.18
+trade_num: 52
+trade_overall_percentile_bpm: 39
+trade_overall_percentile_vorp: 50
+trade_rating_bpm: 0
+trade_rating_grade_bpm: D-
 trade_rating_grade_vorp: D-
-trade_rating_vorp: -0.18
+trade_rating_percentile_bpm: 21
+trade_rating_percentile_vorp: 20
+trade_rating_vorp: 0
+trade_total_bpm: 7334
+trade_total_grade_bpm: C+
+trade_total_grade_vorp: B+
+trade_total_percentile_bpm: 58
+trade_total_percentile_vorp: 79
+trade_total_vorp: 9
 trade_win_list: '<ul>
 
   <li>Added Danilo Gallinari to LAC.</li>

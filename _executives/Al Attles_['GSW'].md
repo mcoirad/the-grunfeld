@@ -13,15 +13,18 @@ draft_description: Al Attles ranks in the 99th percentile for drafting among exe
   in our database. Attles's draft picks average out to be worth the equivalent of
   17 spots higher than they were picked due to his good drafting.
 draft_num_players: 30
-draft_rating_bpm: 19.5
+draft_overall_percentile_vorp: 94
+draft_rating_bpm: 19
 draft_rating_grade_bpm: S
 draft_rating_grade_vorp: S
-draft_rating_percentile_bpm: 99.08256880733946
-draft_rating_percentile_vorp: 99.08256880733946
-draft_rating_vorp: 17.2
+draft_rating_percentile_bpm: 99
+draft_rating_percentile_vorp: 99
+draft_rating_vorp: 17
 draft_total_bpm: 22777
-draft_total_percentile_bpm: 89.02439024390245
-draft_total_percentile_vorp: 89.02439024390245
+draft_total_grade_bpm: A
+draft_total_grade_vorp: A
+draft_total_percentile_bpm: 89
+draft_total_percentile_vorp: 89
 draft_total_vorp: 72
 draft_win_list: '<ul>
 
@@ -34,6 +37,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 1997
 final_bpm: -221905
+final_vorp: -19
 href: attleal01x
 is_active: false
 name: Al Attles
@@ -48,9 +52,21 @@ signing_lose_list: '<ul>
   <li>Signed E.C. Coleman in 1977.</li>
 
   </ul>'
-signing_rating_bpm: -0.64
+signing_num_players: 26
+signing_overall_percentile_bpm: 21
+signing_overall_percentile_vorp: 17
+signing_rating_bpm: -1
+signing_rating_grade_bpm: F
 signing_rating_grade_vorp: F
-signing_rating_vorp: -0.16
+signing_rating_percentile_bpm: 12
+signing_rating_percentile_vorp: 20
+signing_rating_vorp: 0
+signing_total_bpm: -43253
+signing_total_grade_bpm: D
+signing_total_grade_vorp: F
+signing_total_percentile_bpm: 30
+signing_total_percentile_vorp: 13
+signing_total_vorp: 0
 signing_win_list: '<ul>
 
   <li>Signed Joe Hassett in 1981.</li>
@@ -70,9 +86,21 @@ trade_lose_list: '<ul>
   <li>Lost Robert Parish, Kevin McHale to BOS.</li>
 
   </ul>'
-trade_rating_bpm: 0.0
+trade_num: 61
+trade_overall_percentile_bpm: 27
+trade_overall_percentile_vorp: 22
+trade_rating_bpm: 0
+trade_rating_grade_bpm: C
 trade_rating_grade_vorp: C-
-trade_rating_vorp: -0.04
+trade_rating_percentile_bpm: 51
+trade_rating_percentile_vorp: 41
+trade_rating_vorp: 0
+trade_total_bpm: -201429
+trade_total_grade_bpm: F
+trade_total_grade_vorp: F-
+trade_total_percentile_bpm: 3
+trade_total_percentile_vorp: 2
+trade_total_vorp: -91
 trade_win_list: '<ul>
 
   <li>Added Bernard King to GSW.</li>

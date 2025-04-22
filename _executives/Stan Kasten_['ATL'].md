@@ -13,15 +13,18 @@ draft_description: Stan Kasten ranks in the 91th percentile for drafting among e
   in our database. Kasten's draft picks average out to be worth the equivalent of
   10 spots higher than they were picked due to his good drafting.
 draft_num_players: 17
-draft_rating_bpm: 10.0
+draft_overall_percentile_vorp: 84
+draft_rating_bpm: 10
 draft_rating_grade_bpm: A
 draft_rating_grade_vorp: A
-draft_rating_percentile_bpm: 88.9908256880734
-draft_rating_percentile_vorp: 91.74311926605505
-draft_rating_vorp: 10.2
+draft_rating_percentile_bpm: 89
+draft_rating_percentile_vorp: 92
+draft_rating_vorp: 10
 draft_total_bpm: -7754
-draft_total_percentile_bpm: 76.21951219512195
-draft_total_percentile_vorp: 76.21951219512195
+draft_total_grade_bpm: B+
+draft_total_grade_vorp: B+
+draft_total_percentile_bpm: 76
+draft_total_percentile_vorp: 76
 draft_total_vorp: 34
 draft_win_list: '<ul>
 
@@ -34,6 +37,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 1990
 final_bpm: 109536
+final_vorp: 95
 href: kastest99x
 is_active: false
 name: Stan Kasten
@@ -48,9 +52,21 @@ signing_lose_list: '<ul>
   <li>Signed Scott Hastings in 1985.</li>
 
   </ul>'
-signing_rating_bpm: -0.43
+signing_num_players: 39
+signing_overall_percentile_bpm: 47
+signing_overall_percentile_vorp: 71
+signing_rating_bpm: 0
+signing_rating_grade_bpm: C
 signing_rating_grade_vorp: B+
-signing_rating_vorp: 0.05
+signing_rating_percentile_bpm: 50
+signing_rating_percentile_vorp: 76
+signing_rating_vorp: 0
+signing_total_bpm: -21216
+signing_total_grade_bpm: C-
+signing_total_grade_vorp: B
+signing_total_percentile_bpm: 45
+signing_total_percentile_vorp: 67
+signing_total_vorp: 16
 signing_win_list: '<ul>
 
   <li>Signed Spud Webb in 1985.</li>
@@ -74,9 +90,21 @@ trade_lose_list: '<ul>
   <li>Lost Don Collins to WSB.</li>
 
   </ul>'
-trade_rating_bpm: 0.22
+trade_num: 79
+trade_overall_percentile_bpm: 91
+trade_overall_percentile_vorp: 80
+trade_rating_bpm: 0
+trade_rating_grade_bpm: A-
 trade_rating_grade_vorp: B-
-trade_rating_vorp: 0.04
+trade_rating_percentile_bpm: 86
+trade_rating_percentile_vorp: 63
+trade_rating_vorp: 0
+trade_total_bpm: 138506
+trade_total_grade_bpm: A+
+trade_total_grade_vorp: A+
+trade_total_percentile_bpm: 96
+trade_total_percentile_vorp: 97
+trade_total_vorp: 46
 trade_win_list: '<ul>
 
   <li>Added Dominique Wilkins to ATL.</li>

@@ -5,15 +5,18 @@ draft_description: Doug Collins ranks in the 78th percentile for drafting among 
   in our database. Collins's draft picks average out to be worth the equivalent of
   6 spots higher than they were picked due to his good drafting.
 draft_num_players: 7
-draft_rating_bpm: 9.0
+draft_overall_percentile_vorp: 64
+draft_rating_bpm: 9
 draft_rating_grade_bpm: A-
 draft_rating_grade_vorp: B+
-draft_rating_percentile_bpm: 85.3211009174312
-draft_rating_percentile_vorp: 78.89908256880734
-draft_rating_vorp: 6.0
+draft_rating_percentile_bpm: 85
+draft_rating_percentile_vorp: 79
+draft_rating_vorp: 6
 draft_total_bpm: -4090
-draft_total_percentile_bpm: 48.170731707317074
-draft_total_percentile_vorp: 48.170731707317074
+draft_total_grade_bpm: C
+draft_total_grade_vorp: C
+draft_total_percentile_bpm: 48
+draft_total_percentile_vorp: 48
 draft_total_vorp: 6
 draft_win_list: '<ul>
 
@@ -24,6 +27,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 1998
 final_bpm: -33567
+final_vorp: 0
 href: collido01x
 is_active: false
 name: Doug Collins
@@ -38,9 +42,21 @@ signing_lose_list: '<ul>
   <li>Signed Bison Dele in 1997.</li>
 
   </ul>'
-signing_rating_bpm: -0.7
+signing_num_players: 10
+signing_overall_percentile_bpm: 20
+signing_overall_percentile_vorp: 54
+signing_rating_bpm: -1
+signing_rating_grade_bpm: F
 signing_rating_grade_vorp: S
-signing_rating_vorp: 0.3
+signing_rating_percentile_bpm: 6
+signing_rating_percentile_vorp: 99
+signing_rating_vorp: 0
+signing_total_bpm: -35271
+signing_total_grade_bpm: D+
+signing_total_grade_vorp: F
+signing_total_percentile_bpm: 35
+signing_total_percentile_vorp: 9
+signing_total_vorp: -1
 signing_win_list: '<ul>
 
   <li>Signed Kenny Smith in 1996.</li>
@@ -60,9 +76,21 @@ trade_lose_list: '<ul>
   <li>Lost Aaron McKie, Theo Ratliff, Carlos Delfino to PHI.</li>
 
   </ul>'
-trade_rating_bpm: -0.29
+trade_num: 27
+trade_overall_percentile_bpm: 34
+trade_overall_percentile_vorp: 52
+trade_rating_bpm: 0
+trade_rating_grade_bpm: F
 trade_rating_grade_vorp: C+
-trade_rating_vorp: 0.0
+trade_rating_percentile_bpm: 14
+trade_rating_percentile_vorp: 56
+trade_rating_vorp: 0
+trade_total_bpm: 5793
+trade_total_grade_bpm: C+
+trade_total_grade_vorp: C-
+trade_total_percentile_bpm: 54
+trade_total_percentile_vorp: 47
+trade_total_vorp: -4
 trade_win_list: '<ul>
 
   <li>Added Stacey Augmon, Grant Long to DET.</li>

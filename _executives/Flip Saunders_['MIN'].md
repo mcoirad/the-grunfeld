@@ -5,15 +5,18 @@ draft_description: Flip Saunders ranks in the 82th percentile for drafting among
   in our database. Saunders's draft picks average out to be worth the equivalent of
   7 spots higher than they were picked due to his good drafting.
 draft_num_players: 4
-draft_rating_bpm: 7.2
+draft_overall_percentile_vorp: 78
+draft_rating_bpm: 7
 draft_rating_grade_bpm: A-
 draft_rating_grade_vorp: A-
-draft_rating_percentile_bpm: 80.73394495412845
-draft_rating_percentile_vorp: 82.56880733944953
-draft_rating_vorp: 7.2
+draft_rating_percentile_bpm: 81
+draft_rating_percentile_vorp: 83
+draft_rating_vorp: 7
 draft_total_bpm: 73376
-draft_total_percentile_bpm: 73.17073170731707
-draft_total_percentile_vorp: 73.17073170731707
+draft_total_grade_bpm: B+
+draft_total_grade_vorp: B+
+draft_total_percentile_bpm: 73
+draft_total_percentile_vorp: 73
 draft_total_vorp: 32
 draft_win_list: '<ul>
 
@@ -22,6 +25,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2015
 final_bpm: 28220
+final_vorp: 24
 href: saundfl99x
 is_active: false
 name: Flip Saunders
@@ -37,9 +41,21 @@ signing_lose_list: '<ul>
   <li>Signed Chase Budinger in 2013.</li>
 
   </ul>'
-signing_rating_bpm: -0.52
+signing_num_players: 25
+signing_overall_percentile_bpm: 34
+signing_overall_percentile_vorp: 44
+signing_rating_bpm: -1
+signing_rating_grade_bpm: D
 signing_rating_grade_vorp: C
-signing_rating_vorp: -0.05
+signing_rating_percentile_bpm: 31
+signing_rating_percentile_vorp: 50
+signing_rating_vorp: 0
+signing_total_bpm: -29618
+signing_total_grade_bpm: D+
+signing_total_grade_vorp: D+
+signing_total_percentile_bpm: 37
+signing_total_percentile_vorp: 38
+signing_total_vorp: 4
 signing_win_list: '<ul>
 
   <li>Signed Kevin Garnett in 2015.</li>
@@ -65,9 +81,21 @@ trade_lose_list: '<ul>
   <li>Lost Kevin Love to CLE.</li>
 
   </ul>'
-trade_rating_bpm: 0.38
+trade_num: 37
+trade_overall_percentile_bpm: 63
+trade_overall_percentile_vorp: 34
+trade_rating_bpm: 0
+trade_rating_grade_bpm: A+
 trade_rating_grade_vorp: D+
-trade_rating_vorp: -0.08
+trade_rating_percentile_bpm: 94
+trade_rating_percentile_vorp: 34
+trade_rating_vorp: 0
+trade_total_bpm: -15538
+trade_total_grade_bpm: D
+trade_total_grade_vorp: D+
+trade_total_percentile_bpm: 32
+trade_total_percentile_vorp: 34
+trade_total_vorp: -12
 trade_win_list: '<ul>
 
   <li>Added Tyus Jones to MIN.</li>

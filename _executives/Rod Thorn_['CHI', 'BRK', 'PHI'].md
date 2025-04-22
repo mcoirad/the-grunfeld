@@ -13,15 +13,18 @@ draft_description: Rod Thorn ranks in the 59th percentile for drafting among exe
   in our database. Thorn's draft picks average out to be worth the equivalent of 3
   spots higher than they were picked due to his good drafting.
 draft_num_players: 20
-draft_rating_bpm: 2.4
+draft_overall_percentile_vorp: 78
+draft_rating_bpm: 2
 draft_rating_grade_bpm: B-
 draft_rating_grade_vorp: C+
-draft_rating_percentile_bpm: 66.97247706422019
-draft_rating_percentile_vorp: 59.63302752293578
-draft_rating_vorp: 2.6
+draft_rating_percentile_bpm: 67
+draft_rating_percentile_vorp: 60
+draft_rating_vorp: 3
 draft_total_bpm: 290668
-draft_total_percentile_bpm: 96.34146341463415
-draft_total_percentile_vorp: 96.34146341463415
+draft_total_grade_bpm: A+
+draft_total_grade_vorp: A+
+draft_total_percentile_bpm: 96
+draft_total_percentile_vorp: 96
 draft_total_vorp: 134
 draft_win_list: '<ul>
 
@@ -34,6 +37,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2012
 final_bpm: 188498
+final_vorp: 134
 href: thornro01x
 is_active: false
 name: Rod Thorn
@@ -49,9 +53,21 @@ signing_lose_list: '<ul>
   <li>Signed Travis Outlaw in 2010.</li>
 
   </ul>'
-signing_rating_bpm: -0.69
+signing_num_players: 67
+signing_overall_percentile_bpm: 8
+signing_overall_percentile_vorp: 40
+signing_rating_bpm: -1
+signing_rating_grade_bpm: F
 signing_rating_grade_vorp: C
-signing_rating_vorp: -0.06
+signing_rating_percentile_bpm: 7
+signing_rating_percentile_vorp: 47
+signing_rating_vorp: 0
+signing_total_bpm: -89332
+signing_total_grade_bpm: F
+signing_total_grade_vorp: D+
+signing_total_percentile_bpm: 10
+signing_total_percentile_vorp: 34
+signing_total_vorp: 4
 signing_win_list: '<ul>
 
   <li>Signed Todd MacCulloch in 2001.</li>
@@ -79,9 +95,21 @@ trade_lose_list: '<ul>
   <li>Lost Andre Iguodala to DEN.</li>
 
   </ul>'
-trade_rating_bpm: 0.07
+trade_num: 122
+trade_overall_percentile_bpm: 47
+trade_overall_percentile_vorp: 65
+trade_rating_bpm: 0
+trade_rating_grade_bpm: C+
 trade_rating_grade_vorp: B+
-trade_rating_vorp: 0.16
+trade_rating_percentile_bpm: 58
+trade_rating_percentile_vorp: 80
+trade_rating_vorp: 0
+trade_total_bpm: -12838
+trade_total_grade_bpm: D+
+trade_total_grade_vorp: C
+trade_total_percentile_bpm: 37
+trade_total_percentile_vorp: 49
+trade_total_vorp: -4
 trade_win_list: '<ul>
 
   <li>Added Chris Dudley, Jason Kidd to BRK.</li>

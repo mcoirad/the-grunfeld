@@ -4,21 +4,25 @@ draft_bust_list: null
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
 draft_num_players: 1
+draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
 draft_rating_grade_vorp: null
-draft_rating_percentile_bpm: .nan
-draft_rating_percentile_vorp: .nan
+draft_rating_percentile_bpm: null
+draft_rating_percentile_vorp: null
 draft_rating_vorp: null
 draft_total_bpm: -4363
-draft_total_percentile_bpm: 19.51219512195122
-draft_total_percentile_vorp: 19.51219512195122
+draft_total_grade_bpm: F
+draft_total_grade_vorp: F
+draft_total_percentile_bpm: 20
+draft_total_percentile_vorp: 20
 draft_total_vorp: 0
 draft_win_list: '<ul>
 
   </ul>'
 end_year: 1996
 final_bpm: 144313
+final_vorp: 57
 href: wohlda01x
 is_active: false
 name: Dave Wohl
@@ -33,9 +37,21 @@ signing_lose_list: '<ul>
   <li>Signed Danny Schayes in 1995.</li>
 
   </ul>'
-signing_rating_bpm: -0.47
+signing_num_players: 17
+signing_overall_percentile_bpm: 67
+signing_overall_percentile_vorp: 83
+signing_rating_bpm: 0
+signing_rating_grade_bpm: C-
 signing_rating_grade_vorp: A
-signing_rating_vorp: 0.18
+signing_rating_percentile_bpm: 44
+signing_rating_percentile_vorp: 91
+signing_rating_vorp: 0
+signing_total_bpm: 12923
+signing_total_grade_bpm: A
+signing_total_grade_vorp: B+
+signing_total_percentile_bpm: 89
+signing_total_percentile_vorp: 74
+signing_total_vorp: 21
 signing_win_list: '<ul>
 
   <li>Signed Dan Majerle in 1996.</li>
@@ -59,9 +75,21 @@ trade_lose_list: '<ul>
   <li>Lost Terrence Rencher to PHO.</li>
 
   </ul>'
-trade_rating_bpm: 0.75
+trade_num: 28
+trade_overall_percentile_bpm: 98
+trade_overall_percentile_vorp: 97
+trade_rating_bpm: 1
+trade_rating_grade_bpm: S
 trade_rating_grade_vorp: S
-trade_rating_vorp: 0.75
+trade_rating_percentile_bpm: 100
+trade_rating_percentile_vorp: 100
+trade_rating_vorp: 1
+trade_total_bpm: 135753
+trade_total_grade_bpm: A+
+trade_total_grade_vorp: A+
+trade_total_percentile_bpm: 96
+trade_total_percentile_vorp: 94
+trade_total_vorp: 36
 trade_win_list: '<ul>
 
   <li>Added Chris Gatling, Tim Hardaway to MIA.</li>

@@ -10,15 +10,18 @@ draft_bust_list: '<ul>
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
+draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
 draft_rating_grade_vorp: null
-draft_rating_percentile_bpm: .nan
-draft_rating_percentile_vorp: .nan
+draft_rating_percentile_bpm: null
+draft_rating_percentile_vorp: null
 draft_rating_vorp: null
 draft_total_bpm: -20527
-draft_total_percentile_bpm: 6.7073170731707314
-draft_total_percentile_vorp: 6.7073170731707314
+draft_total_grade_bpm: F
+draft_total_grade_vorp: F
+draft_total_percentile_bpm: 7
+draft_total_percentile_vorp: 7
 draft_total_vorp: -2
 draft_win_list: '<ul>
 
@@ -27,6 +30,7 @@ draft_win_list: '<ul>
   </ul>'
 end_year: 2019
 final_bpm: -13422
+final_vorp: 8
 href: thiboto99x
 is_active: false
 name: Tom Thibodeau
@@ -41,9 +45,21 @@ signing_lose_list: '<ul>
   <li>Signed Anthony Tolliver in 2018.</li>
 
   </ul>'
-signing_rating_bpm: -0.28
+signing_num_players: 35
+signing_overall_percentile_bpm: 86
+signing_overall_percentile_vorp: 49
+signing_rating_bpm: 0
+signing_rating_grade_bpm: A-
 signing_rating_grade_vorp: F
-signing_rating_vorp: -0.19
+signing_rating_percentile_bpm: 80
+signing_rating_percentile_vorp: 15
+signing_rating_vorp: 0
+signing_total_bpm: 20322
+signing_total_grade_bpm: A
+signing_total_grade_vorp: A-
+signing_total_percentile_bpm: 91
+signing_total_percentile_vorp: 83
+signing_total_vorp: 25
 signing_win_list: '<ul>
 
   <li>Signed Karl-Anthony Towns in 2018.</li>
@@ -67,8 +83,20 @@ trade_lose_list: '<ul>
   <li>Lost Jimmy Butler, Justin Patton to PHI.</li>
 
   </ul>'
+trade_num: 13
+trade_overall_percentile_bpm: null
+trade_overall_percentile_vorp: null
 trade_rating_bpm: null
+trade_rating_grade_bpm: null
 trade_rating_grade_vorp: null
+trade_rating_percentile_bpm: null
+trade_rating_percentile_vorp: null
 trade_rating_vorp: null
+trade_total_bpm: -13217
+trade_total_grade_bpm: D+
+trade_total_grade_vorp: D
+trade_total_percentile_bpm: 34
+trade_total_percentile_vorp: 30
+trade_total_vorp: -16
 trade_win_list: null
 ---

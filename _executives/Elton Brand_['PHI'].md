@@ -4,21 +4,25 @@ draft_bust_list: null
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
 draft_num_players: 1
+draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
 draft_rating_grade_vorp: null
-draft_rating_percentile_bpm: .nan
-draft_rating_percentile_vorp: .nan
+draft_rating_percentile_bpm: null
+draft_rating_percentile_vorp: null
 draft_rating_vorp: null
 draft_total_bpm: -364
-draft_total_percentile_bpm: 19.51219512195122
-draft_total_percentile_vorp: 19.51219512195122
+draft_total_grade_bpm: F
+draft_total_grade_vorp: F
+draft_total_percentile_bpm: 20
+draft_total_percentile_vorp: 20
 draft_total_vorp: 0
 draft_win_list: '<ul>
 
   </ul>'
 end_year: 2020
 final_bpm: -4723
+final_vorp: 11
 href: brandel99x
 is_active: false
 name: Elton Brand
@@ -33,9 +37,21 @@ signing_lose_list: '<ul>
   <li>Signed Norvel Pelle in 2019.</li>
 
   </ul>'
-signing_rating_bpm: -0.08
+signing_num_players: 26
+signing_overall_percentile_bpm: 92
+signing_overall_percentile_vorp: 84
+signing_rating_bpm: 0
+signing_rating_grade_bpm: A
 signing_rating_grade_vorp: A+
-signing_rating_vorp: 0.2
+signing_rating_percentile_bpm: 93
+signing_rating_percentile_vorp: 95
+signing_rating_vorp: 0
+signing_total_bpm: 18546
+signing_total_grade_bpm: A
+signing_total_grade_vorp: B+
+signing_total_percentile_bpm: 91
+signing_total_percentile_vorp: 74
+signing_total_vorp: 21
 signing_win_list: '<ul>
 
   <li>Signed Tobias Harris in 2019.</li>
@@ -61,9 +77,21 @@ trade_lose_list: '<ul>
   <li>Lost Mathias Lessort to LAC.</li>
 
   </ul>'
-trade_rating_bpm: 0.58
+trade_num: 44
+trade_overall_percentile_bpm: 62
+trade_overall_percentile_vorp: 69
+trade_rating_bpm: 1
+trade_rating_grade_bpm: S
 trade_rating_grade_vorp: S
-trade_rating_vorp: 0.67
+trade_rating_percentile_bpm: 98
+trade_rating_percentile_vorp: 99
+trade_rating_vorp: 1
+trade_total_bpm: -22905
+trade_total_grade_bpm: D-
+trade_total_grade_vorp: D+
+trade_total_percentile_bpm: 27
+trade_total_percentile_vorp: 38
+trade_total_vorp: -10
 trade_win_list: '<ul>
 
   <li>Added Jonathon Simmons, Carsen Edwards, Tyrese Maxey to PHI.</li>
