@@ -402,7 +402,7 @@ function updateDraftChart() {
 <script>
 let rawTransactionData = [];
 let stackedChart = null;
-let currentExecDraftStat = currentStat; // or 'bpm'
+let currentExecDraftStat = currentStat ?? "bpm"; // or 'bpm'
 
 d3.csv("https://raw.githubusercontent.com/mcoirad/the-grunfeld/master/_data/drafted_players/buchach99x.csv").then(data => {
   rawTransactionData = data;
@@ -471,6 +471,7 @@ function getStackedChartMappedData(stat) {
       draftPick: d[`draft_pick_${stat}`]
     }))
     .sort((a, b) => b.draft - a.draft);
+    console.log(filtered);
     
 
   const labels = [];
@@ -496,12 +497,12 @@ function updateExecDraftPlayersChart() {
   stackedChart.data.datasets[0].data = expectedData;
   stackedChart.data.datasets[0].label = `Expected ${currentExecDraftStat.toUpperCase()}`;
   stackedChart.data.datasets[1].data = draftData;
-  stackedChart.data.datasets[1].label = `Actual ${currentExecDraftStat.toUpperCase()}`;
+  stackedChart.data.datasets[1].label = `Draft ${currentExecDraftStat.toUpperCase()}`;
   stackedChart.options.scales.y.title.text = currentExecDraftStat.toUpperCase();
 
   stackedChart.options.plugins.tooltip.callbacks.label = function(context) {
     const index = context.dataIndex;
-    return `${tooltipData[index]} | Picked with #${tooltipData[index]['draft_pick_' + currentExecDraftStat]}, worth $${tooltipData[index]['expected_' + currentExecDraftStat]}`;
+    return `${tooltipData[index]} | Draft Pick ${rawTransactionData[index]['draft_pick_' + currentExecDraftStat]}`;
   };
 
   stackedChart.update();
