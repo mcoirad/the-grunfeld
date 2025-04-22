@@ -1,0 +1,101 @@
+
+<script>
+let rawTransactionData = [];
+let stackedChart = null;
+let currentStat = 'vorp'; // or 'bpm'
+
+d3.csv("https://your-data-url.csv").then(data => {
+  rawTransactionData = data;
+  makeStackedChart();
+});
+
+function makeStackedChart() {
+  const ctx = document.getElementById("stacked_chart").getContext("2d");
+  const { labels, draftData, expectedData, tooltipData } = getStackedChartMappedData(currentStat);
+
+  stackedChart = new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: labels,
+      datasets: [
+        {
+          label: `Expected ${currentStat.toUpperCase()}`,
+          data: expectedData,
+          backgroundColor: 'red',
+        },
+        {
+          label: `Draft ${currentStat.toUpperCase()}`,
+          data: draftData,
+          backgroundColor: 'blue',
+        }
+      ]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        tooltip: {
+          callbacks: {
+            label: function(context) {
+              const index = context.dataIndex;
+              return `${tooltipData[index]} | Draft Pick ${rawTransactionData[index]['draft_pick_' + currentStat]}`;
+            }
+          }
+        },
+        title: {
+          display: true,
+          text: 'Drafted Players – Expected vs Actual'
+        }
+      },
+      scales: {
+        x: {
+          stacked: true
+        },
+        y: {
+          stacked: true,
+          title: {
+            display: true,
+            text: currentStat.toUpperCase()
+          }
+        }
+      }
+    }
+  });
+}
+
+function getStackedChartMappedData(stat) {
+  const labels = [];
+  const draftData = [];
+  const expectedData = [];
+  const tooltipData = [];
+
+  rawTransactionData.forEach(d => {
+    if (d[`draft_${stat}`] !== "" && d[`expected_${stat}`] !== "") {
+      labels.push(d.name);
+      draftData.push(parseFloat(d[`draft_${stat}`]));
+      expectedData.push(parseFloat(d[`expected_${stat}`]));
+      tooltipData.push(d.name);
+    }
+  });
+
+  return { labels, draftData, expectedData, tooltipData };
+}
+
+function updateStackedChart(newStat) {
+  currentStat = newStat;
+
+  const { labels, draftData, expectedData, tooltipData } = getStackedChartMappedData(currentStat);
+  stackedChart.data.labels = labels;
+  stackedChart.data.datasets[0].data = expectedData;
+  stackedChart.data.datasets[0].label = `Expected ${currentStat.toUpperCase()}`;
+  stackedChart.data.datasets[1].data = draftData;
+  stackedChart.data.datasets[1].label = `Draft ${currentStat.toUpperCase()}`;
+  stackedChart.options.scales.y.title.text = currentStat.toUpperCase();
+
+  stackedChart.options.plugins.tooltip.callbacks.label = function(context) {
+    const index = context.dataIndex;
+    return `${tooltipData[index]} | Draft Pick ${rawTransactionData[index]['draft_pick_' + currentStat]}`;
+  };
+
+  stackedChart.update();
+}
+</script>
