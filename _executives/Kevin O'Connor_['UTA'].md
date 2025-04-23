@@ -1,5 +1,5 @@
 ---
-bpm_rank: 94
+bpm_rank: 95
 draft_bust_list: '<ul>
 
   <li>Drafted Enes Kanter with 3th pick but was worth 11th pick.</li>

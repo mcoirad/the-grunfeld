@@ -88,7 +88,7 @@ trade_lose_list: '<ul>
   </ul>'
 trade_num: 29
 trade_overall_percentile_bpm: 19
-trade_overall_percentile_vorp: 33
+trade_overall_percentile_vorp: 34
 trade_rating_bpm: 0
 trade_rating_grade_bpm: F
 trade_rating_grade_vorp: F
@@ -98,8 +98,8 @@ trade_rating_vorp: 0
 trade_total_bpm: -26668
 trade_total_grade_bpm: D-
 trade_total_grade_vorp: C
-trade_total_percentile_bpm: 26
-trade_total_percentile_vorp: 49
+trade_total_percentile_bpm: 25
+trade_total_percentile_vorp: 50
 trade_total_vorp: -4
 trade_win_list: '<ul>
 

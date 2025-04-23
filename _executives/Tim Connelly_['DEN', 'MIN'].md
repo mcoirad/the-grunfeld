@@ -36,7 +36,7 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: 118435
+final_bpm: 117458
 final_vorp: 77
 href: conneti99x
 is_active: true
@@ -102,7 +102,7 @@ trade_rating_grade_vorp: D
 trade_rating_percentile_bpm: 27
 trade_rating_percentile_vorp: 27
 trade_rating_vorp: 0
-trade_total_bpm: -23355
+trade_total_bpm: -24332
 trade_total_grade_bpm: D-
 trade_total_grade_vorp: F
 trade_total_percentile_bpm: 26

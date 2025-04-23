@@ -1,5 +1,5 @@
 ---
-bpm_rank: 31
+bpm_rank: 32
 draft_bust_list: '<ul>
 
   <li>Drafted Andrea Bargnani with 1th pick but was worth 17th pick.</li>

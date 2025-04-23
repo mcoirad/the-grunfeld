@@ -78,7 +78,7 @@ trade_lose_list: '<ul>
 
   </ul>'
 trade_num: 28
-trade_overall_percentile_bpm: 52
+trade_overall_percentile_bpm: 53
 trade_overall_percentile_vorp: 66
 trade_rating_bpm: 0
 trade_rating_grade_bpm: C

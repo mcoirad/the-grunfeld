@@ -1,5 +1,5 @@
 ---
-bpm_rank: 66
+bpm_rank: 58
 draft_bust_list: '<ul>
 
   <li>Drafted Max Christie with 35th pick but was worth 46th pick.</li>
@@ -30,8 +30,8 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: -1242
-final_vorp: 11
+final_bpm: 713
+final_vorp: 10
 href: pelinro99x
 is_active: true
 name: Rob Pelinka
@@ -85,7 +85,7 @@ trade_lose_list: '<ul>
 
   </ul>'
 trade_num: 67
-trade_overall_percentile_bpm: 63
+trade_overall_percentile_bpm: 64
 trade_overall_percentile_vorp: 19
 trade_rating_bpm: 0
 trade_rating_grade_bpm: C
@@ -93,10 +93,10 @@ trade_rating_grade_vorp: F
 trade_rating_percentile_bpm: 51
 trade_rating_percentile_vorp: 14
 trade_rating_vorp: 0
-trade_total_bpm: 34275
+trade_total_bpm: 36229
 trade_total_grade_bpm: B+
 trade_total_grade_vorp: D-
-trade_total_percentile_bpm: 75
+trade_total_percentile_bpm: 77
 trade_total_percentile_vorp: 24
 trade_total_vorp: -23
 trade_win_list: '<ul>

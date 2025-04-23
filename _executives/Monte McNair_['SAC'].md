@@ -1,5 +1,5 @@
 ---
-bpm_rank: 75
+bpm_rank: 72
 draft_bust_list: '<ul>
 
   <li>Drafted Davion Mitchell with 9th pick but was worth 60th pick.</li>
@@ -34,8 +34,8 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: -6652
-final_vorp: 21
+final_bpm: -5675
+final_vorp: 20
 href: mcnaimo99x
 is_active: true
 name: Monte McNair
@@ -101,12 +101,12 @@ trade_rating_grade_vorp: A-
 trade_rating_percentile_bpm: 54
 trade_rating_percentile_vorp: 85
 trade_rating_vorp: 0
-trade_total_bpm: 36418
+trade_total_bpm: 37395
 trade_total_grade_bpm: B+
 trade_total_grade_vorp: A-
 trade_total_percentile_bpm: 78
 trade_total_percentile_vorp: 81
-trade_total_vorp: 11
+trade_total_vorp: 10
 trade_win_list: '<ul>
 
   <li>Added Jalen McDaniels to SAC.</li>

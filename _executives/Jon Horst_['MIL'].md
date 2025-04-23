@@ -1,5 +1,5 @@
 ---
-bpm_rank: 50
+bpm_rank: 51
 draft_bust_list: '<ul>
 
   <li>Drafted MarJon Beauchamp with 24th pick but was worth 46th pick.</li>

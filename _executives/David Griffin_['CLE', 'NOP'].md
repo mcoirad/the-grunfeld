@@ -34,8 +34,8 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: 101216
-final_vorp: 56
+final_bpm: 100239
+final_vorp: 57
 href: griffin01x
 is_active: true
 name: David Griffin
@@ -101,7 +101,7 @@ trade_rating_grade_vorp: A-
 trade_rating_percentile_bpm: 77
 trade_rating_percentile_vorp: 83
 trade_rating_vorp: 0
-trade_total_bpm: 58571
+trade_total_bpm: 57594
 trade_total_grade_bpm: A-
 trade_total_grade_vorp: D
 trade_total_percentile_bpm: 84

@@ -1,5 +1,5 @@
 ---
-bpm_rank: 129
+bpm_rank: 130
 draft_bust_list: '<ul>
 
   <li>Drafted Cameron Thomas with 27th pick but was worth 27th pick.</li>
@@ -36,8 +36,8 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: -79496
-final_vorp: 70
+final_bpm: -82428
+final_vorp: 72
 href: marksse99x
 is_active: true
 name: Sean Marks
@@ -91,7 +91,7 @@ trade_lose_list: '<ul>
 
   </ul>'
 trade_num: 152
-trade_overall_percentile_bpm: 55
+trade_overall_percentile_bpm: 52
 trade_overall_percentile_vorp: 82
 trade_rating_bpm: 0
 trade_rating_grade_bpm: C
@@ -99,12 +99,12 @@ trade_rating_grade_vorp: B
 trade_rating_percentile_bpm: 51
 trade_rating_percentile_vorp: 71
 trade_rating_vorp: 0
-trade_total_bpm: 7375
-trade_total_grade_bpm: C+
-trade_total_grade_vorp: A
-trade_total_percentile_bpm: 59
+trade_total_bpm: 4444
+trade_total_grade_bpm: C
+trade_total_grade_vorp: A+
+trade_total_percentile_bpm: 52
 trade_total_percentile_vorp: 93
-trade_total_vorp: 33
+trade_total_vorp: 34
 trade_win_list: '<ul>
 
   <li>Added Bojan Bogdanovic, Mamadi Diakite, Shake Milton, future 1st round pick,

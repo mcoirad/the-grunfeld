@@ -1,5 +1,5 @@
 ---
-bpm_rank: 138
+bpm_rank: 139
 draft_bust_list: '<ul>
 
   <li>Drafted Wally Szczerbiak with 6th pick but was worth 12th pick.</li>

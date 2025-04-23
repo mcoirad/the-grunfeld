@@ -30,7 +30,7 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: -45665
+final_bpm: -46153
 final_vorp: 14
 href: karniar99x
 is_active: true
@@ -95,10 +95,10 @@ trade_rating_grade_vorp: C+
 trade_rating_percentile_bpm: 83
 trade_rating_percentile_vorp: 56
 trade_rating_vorp: 0
-trade_total_bpm: 16260
-trade_total_grade_bpm: B
+trade_total_bpm: 15771
+trade_total_grade_bpm: B-
 trade_total_grade_vorp: B
-trade_total_percentile_bpm: 67
+trade_total_percentile_bpm: 66
 trade_total_percentile_vorp: 73
 trade_total_vorp: 4
 trade_win_list: '<ul>

@@ -1,5 +1,5 @@
 ---
-bpm_rank: 62
+bpm_rank: 63
 draft_bust_list: '<ul>
 
   <li>Drafted Darko Miličić with 2th pick but was worth 53th pick.</li>

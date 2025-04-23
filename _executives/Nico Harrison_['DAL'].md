@@ -1,5 +1,5 @@
 ---
-bpm_rank: 95
+bpm_rank: 93
 draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
   a draft grade.
@@ -19,7 +19,7 @@ draft_total_percentile_vorp: 34
 draft_total_vorp: 0
 draft_win_list: null
 end_year: 2026
-final_bpm: -25496
+final_bpm: -24030
 final_vorp: 11
 href: harrini01x
 is_active: true
@@ -74,20 +74,20 @@ trade_lose_list: '<ul>
 
   </ul>'
 trade_num: 54
-trade_overall_percentile_bpm: 61
-trade_overall_percentile_vorp: 55
+trade_overall_percentile_bpm: 62
+trade_overall_percentile_vorp: 54
 trade_rating_bpm: 0
 trade_rating_grade_bpm: C+
 trade_rating_grade_vorp: D+
 trade_rating_percentile_bpm: 57
 trade_rating_percentile_vorp: 37
 trade_rating_vorp: 0
-trade_total_bpm: 14565
-trade_total_grade_bpm: B-
+trade_total_bpm: 16031
+trade_total_grade_bpm: B
 trade_total_grade_vorp: B
-trade_total_percentile_bpm: 66
-trade_total_percentile_vorp: 72
-trade_total_vorp: 4
+trade_total_percentile_bpm: 67
+trade_total_percentile_vorp: 71
+trade_total_vorp: 3
 trade_win_list: '<ul>
 
   <li>Added Kyrie Irving, Markieff Morris to DAL.</li>

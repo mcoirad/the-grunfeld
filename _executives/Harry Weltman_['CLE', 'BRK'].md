@@ -1,5 +1,5 @@
 ---
-bpm_rank: 74
+bpm_rank: 75
 draft_bust_list: '<ul>
 
   <li>Drafted Dennis Hopson with 3th pick but was worth 20th pick.</li>
@@ -100,9 +100,9 @@ trade_rating_percentile_bpm: 35
 trade_rating_percentile_vorp: 18
 trade_rating_vorp: 0
 trade_total_bpm: 4905
-trade_total_grade_bpm: C
+trade_total_grade_bpm: C+
 trade_total_grade_vorp: B
-trade_total_percentile_bpm: 52
+trade_total_percentile_bpm: 53
 trade_total_percentile_vorp: 68
 trade_total_vorp: 2
 trade_win_list: '<ul>

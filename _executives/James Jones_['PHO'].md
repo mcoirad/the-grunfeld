@@ -70,9 +70,10 @@ trade_description: 'James Jones ranks in the 56th percentile for trading among e
   in our database. '
 trade_lose_list: '<ul>
 
-  <li>Added Jevon Carter, Kyle Korver to PHO.</li>
+  <li>Added Ryan Dunn, Kevin McCullar Jr., future 2nd round pick, future 2nd round
+  pick to PHO.</li>
 
-  <li>Lost Josh Jackson, De''Anthony Melton, Robert Woodard to MEM.</li>
+  <li>Lost DaRon Holmes to DEN.</li>
 
   </ul>'
 trade_num: 81

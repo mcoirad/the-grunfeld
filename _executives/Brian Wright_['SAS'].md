@@ -1,5 +1,5 @@
 ---
-bpm_rank: 139
+bpm_rank: 138
 draft_bust_list: '<ul>
 
   <li>Drafted Malaki Branham with 20th pick but was worth 58th pick.</li>
@@ -32,7 +32,7 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: -101653
+final_bpm: -101164
 final_vorp: -23
 href: wrighbr99x
 is_active: true
@@ -95,7 +95,7 @@ trade_rating_grade_vorp: F
 trade_rating_percentile_bpm: 17
 trade_rating_percentile_vorp: 13
 trade_rating_vorp: 0
-trade_total_bpm: -57909
+trade_total_bpm: -57420
 trade_total_grade_bpm: F
 trade_total_grade_vorp: F
 trade_total_percentile_bpm: 16

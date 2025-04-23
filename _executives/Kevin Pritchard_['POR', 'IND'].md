@@ -36,7 +36,7 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: 49855
+final_bpm: 50343
 final_vorp: 68
 href: pritcke01x
 is_active: true
@@ -95,16 +95,16 @@ trade_lose_list: '<ul>
   </ul>'
 trade_num: 135
 trade_overall_percentile_bpm: 83
-trade_overall_percentile_vorp: 83
+trade_overall_percentile_vorp: 82
 trade_rating_bpm: 0
 trade_rating_grade_bpm: B
 trade_rating_grade_vorp: B
 trade_rating_percentile_bpm: 71
 trade_rating_percentile_vorp: 72
 trade_rating_vorp: 0
-trade_total_bpm: 130167
+trade_total_bpm: 130656
 trade_total_grade_bpm: A+
-trade_total_grade_vorp: A+
+trade_total_grade_vorp: A
 trade_total_percentile_bpm: 95
 trade_total_percentile_vorp: 93
 trade_total_vorp: 34

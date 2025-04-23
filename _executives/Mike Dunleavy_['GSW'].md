@@ -21,8 +21,8 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: 23683
-final_vorp: 1
+final_bpm: 25637
+final_vorp: 0
 href: dunlemi02x
 is_active: true
 name: Mike Dunleavy
@@ -76,7 +76,7 @@ trade_lose_list: '<ul>
 
   </ul>'
 trade_num: 28
-trade_overall_percentile_bpm: 82
+trade_overall_percentile_bpm: 83
 trade_overall_percentile_vorp: 68
 trade_rating_bpm: 0
 trade_rating_grade_bpm: A+
@@ -84,12 +84,12 @@ trade_rating_grade_vorp: S
 trade_rating_percentile_bpm: 96
 trade_rating_percentile_vorp: 97
 trade_rating_vorp: 0
-trade_total_bpm: 18490
+trade_total_bpm: 20445
 trade_total_grade_bpm: B
 trade_total_grade_vorp: D+
-trade_total_percentile_bpm: 68
-trade_total_percentile_vorp: 39
-trade_total_vorp: -8
+trade_total_percentile_bpm: 70
+trade_total_percentile_vorp: 38
+trade_total_vorp: -9
 trade_win_list: '<ul>
 
   <li>Added Chris Paul to GSW.</li>

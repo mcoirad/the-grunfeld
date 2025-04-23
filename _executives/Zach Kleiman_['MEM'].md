@@ -1,5 +1,5 @@
 ---
-bpm_rank: 51
+bpm_rank: 49
 draft_bust_list: '<ul>
 
   <li>Drafted Jaylen Wells with 39th pick but was worth 32th pick.</li>
@@ -32,7 +32,7 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: 11379
+final_bpm: 12356
 final_vorp: 19
 href: kleimza99x
 is_active: true
@@ -96,11 +96,11 @@ trade_rating_grade_vorp: B+
 trade_rating_percentile_bpm: 55
 trade_rating_percentile_vorp: 79
 trade_rating_vorp: 0
-trade_total_bpm: -5634
+trade_total_bpm: -4657
 trade_total_grade_bpm: C-
 trade_total_grade_vorp: F
 trade_total_percentile_bpm: 41
-trade_total_percentile_vorp: 20
+trade_total_percentile_vorp: 19
 trade_total_vorp: -28
 trade_win_list: '<ul>
 

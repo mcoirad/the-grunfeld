@@ -36,7 +36,7 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: 104393
+final_bpm: 102439
 final_vorp: 85
 href: moreyda99x
 is_active: true
@@ -101,12 +101,12 @@ trade_rating_grade_vorp: C-
 trade_rating_percentile_bpm: 74
 trade_rating_percentile_vorp: 42
 trade_rating_vorp: 0
-trade_total_bpm: 107372
+trade_total_bpm: 105418
 trade_total_grade_bpm: A
 trade_total_grade_vorp: D-
 trade_total_percentile_bpm: 91
-trade_total_percentile_vorp: 24
-trade_total_vorp: -22
+trade_total_percentile_vorp: 25
+trade_total_vorp: -21
 trade_win_list: '<ul>
 
   <li>Added Cole Aldrich, Daequan Cook, James Harden, Lazar Hayward to HOU.</li>

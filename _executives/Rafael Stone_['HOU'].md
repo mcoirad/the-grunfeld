@@ -34,7 +34,7 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: -49423
+final_bpm: -49912
 final_vorp: 18
 href: stonera99x
 is_active: true
@@ -92,7 +92,7 @@ trade_lose_list: '<ul>
 
   </ul>'
 trade_num: 95
-trade_overall_percentile_bpm: 31
+trade_overall_percentile_bpm: 30
 trade_overall_percentile_vorp: 48
 trade_rating_bpm: 0
 trade_rating_grade_bpm: D
@@ -100,12 +100,12 @@ trade_rating_grade_vorp: C+
 trade_rating_percentile_bpm: 28
 trade_rating_percentile_vorp: 56
 trade_rating_vorp: 0
-trade_total_bpm: -13166
-trade_total_grade_bpm: D+
-trade_total_grade_vorp: D+
-trade_total_percentile_bpm: 34
+trade_total_bpm: -13654
+trade_total_grade_bpm: D
+trade_total_grade_vorp: C-
+trade_total_percentile_bpm: 33
 trade_total_percentile_vorp: 40
-trade_total_vorp: -8
+trade_total_vorp: -7
 trade_win_list: '<ul>
 
   <li>Added Christian Wood, Luka Garza to HOU.</li>

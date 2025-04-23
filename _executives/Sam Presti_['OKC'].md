@@ -36,7 +36,7 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: -64366
+final_bpm: -63878
 final_vorp: -7
 href: prestsa99x
 is_active: true
@@ -100,12 +100,12 @@ trade_rating_grade_vorp: D-
 trade_rating_percentile_bpm: 37
 trade_rating_percentile_vorp: 21
 trade_rating_vorp: 0
-trade_total_bpm: -267939
+trade_total_bpm: -267451
 trade_total_grade_bpm: F-
 trade_total_grade_vorp: F-
 trade_total_percentile_bpm: 1
 trade_total_percentile_vorp: 0
-trade_total_vorp: -169
+trade_total_vorp: -170
 trade_win_list: '<ul>
 
   <li>Added Danilo Gallinari, Shai Gilgeous-Alexander, Tre Mann, Jalen Williams, Jaime

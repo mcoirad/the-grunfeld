@@ -36,7 +36,7 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: 73223
+final_bpm: 72246
 final_vorp: 97
 href: ujirima99x
 is_active: true
@@ -97,7 +97,7 @@ trade_lose_list: '<ul>
 
   </ul>'
 trade_num: 142
-trade_overall_percentile_bpm: 80
+trade_overall_percentile_bpm: 79
 trade_overall_percentile_vorp: 69
 trade_rating_bpm: 0
 trade_rating_grade_bpm: A-
@@ -105,10 +105,10 @@ trade_rating_grade_vorp: B
 trade_rating_percentile_bpm: 83
 trade_rating_percentile_vorp: 71
 trade_rating_vorp: 0
-trade_total_bpm: 34577
+trade_total_bpm: 33599
 trade_total_grade_bpm: B+
 trade_total_grade_vorp: B-
-trade_total_percentile_bpm: 76
+trade_total_percentile_bpm: 74
 trade_total_percentile_vorp: 66
 trade_total_vorp: 1
 trade_win_list: '<ul>

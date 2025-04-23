@@ -1,5 +1,5 @@
 ---
-bpm_rank: 32
+bpm_rank: 31
 draft_bust_list: null
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
@@ -23,8 +23,8 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: 69075
-final_vorp: -12
+final_bpm: 70052
+final_vorp: -13
 href: rosele99x
 is_active: true
 name: Leon Rose
@@ -89,7 +89,7 @@ trade_rating_grade_vorp: A
 trade_rating_percentile_bpm: 64
 trade_rating_percentile_vorp: 91
 trade_rating_vorp: 0
-trade_total_bpm: 28897
+trade_total_bpm: 29874
 trade_total_grade_bpm: B
 trade_total_grade_vorp: F
 trade_total_percentile_bpm: 73

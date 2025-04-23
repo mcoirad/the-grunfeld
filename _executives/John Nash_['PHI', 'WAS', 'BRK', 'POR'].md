@@ -103,8 +103,8 @@ trade_rating_percentile_vorp: 82
 trade_rating_vorp: 0
 trade_total_bpm: 5220
 trade_total_grade_bpm: C+
-trade_total_grade_vorp: C-
-trade_total_percentile_bpm: 53
+trade_total_grade_vorp: D+
+trade_total_percentile_bpm: 54
 trade_total_percentile_vorp: 40
 trade_total_vorp: -7
 trade_win_list: '<ul>

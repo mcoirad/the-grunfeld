@@ -21,7 +21,7 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: 123828
+final_bpm: 124316
 final_vorp: 37
 href: stevebr99x
 is_active: true
@@ -84,7 +84,7 @@ trade_rating_grade_vorp: B+
 trade_rating_percentile_bpm: 99
 trade_rating_percentile_vorp: 77
 trade_rating_vorp: 0
-trade_total_bpm: 123298
+trade_total_bpm: 123786
 trade_total_grade_bpm: A+
 trade_total_grade_vorp: A
 trade_total_percentile_bpm: 93

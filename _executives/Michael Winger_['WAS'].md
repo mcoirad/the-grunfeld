@@ -1,5 +1,5 @@
 ---
-bpm_rank: 130
+bpm_rank: 129
 draft_bust_list: null
 draft_description: This executive has only drafted 2 players and thus doesn't have
   a draft grade.
@@ -23,7 +23,7 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: -80725
+final_bpm: -80237
 final_vorp: -5
 href: wingemi99x
 is_active: true
@@ -79,18 +79,18 @@ trade_lose_list: '<ul>
   </ul>'
 trade_num: 59
 trade_overall_percentile_bpm: 19
-trade_overall_percentile_vorp: 43
+trade_overall_percentile_vorp: 41
 trade_rating_bpm: 0
 trade_rating_grade_bpm: F
 trade_rating_grade_vorp: D-
 trade_rating_percentile_bpm: 12
 trade_rating_percentile_vorp: 24
 trade_rating_vorp: 0
-trade_total_bpm: -27071
+trade_total_bpm: -26582
 trade_total_grade_bpm: D-
-trade_total_grade_vorp: B-
-trade_total_percentile_bpm: 25
-trade_total_percentile_vorp: 62
+trade_total_grade_vorp: C+
+trade_total_percentile_bpm: 26
+trade_total_percentile_vorp: 58
 trade_total_vorp: 0
 trade_win_list: '<ul>
 

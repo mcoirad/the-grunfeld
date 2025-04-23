@@ -1,5 +1,5 @@
 ---
-bpm_rank: 103
+bpm_rank: 102
 draft_bust_list: null
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
@@ -21,8 +21,8 @@ draft_win_list: '<ul>
 
   </ul>'
 end_year: 2026
-final_bpm: -38071
-final_vorp: -4
+final_bpm: -35628
+final_vorp: -5
 href: boothca01x
 is_active: true
 name: Calvin Booth
@@ -74,20 +74,20 @@ trade_lose_list: '<ul>
 
   </ul>'
 trade_num: 30
-trade_overall_percentile_bpm: 45
-trade_overall_percentile_vorp: 29
+trade_overall_percentile_bpm: 46
+trade_overall_percentile_vorp: 27
 trade_rating_bpm: 0
 trade_rating_grade_bpm: D
 trade_rating_grade_vorp: F
 trade_rating_percentile_bpm: 27
 trade_rating_percentile_vorp: 8
 trade_rating_vorp: 0
-trade_total_bpm: 10546
+trade_total_bpm: 12989
 trade_total_grade_bpm: B-
-trade_total_grade_vorp: C
-trade_total_percentile_bpm: 62
-trade_total_percentile_vorp: 51
-trade_total_vorp: -3
+trade_total_grade_vorp: C-
+trade_total_percentile_bpm: 64
+trade_total_percentile_vorp: 46
+trade_total_vorp: -4
 trade_win_list: '<ul>
 
   <li>Added DaRon Holmes to DEN.</li>

@@ -1,5 +1,5 @@
 ---
-bpm_rank: 93
+bpm_rank: 94
 draft_bust_list: '<ul>
 
   <li>Drafted Marco Belinelli with 18th pick but was worth 18th pick.</li>
@@ -85,7 +85,7 @@ trade_lose_list: '<ul>
 
   </ul>'
 trade_num: 46
-trade_overall_percentile_bpm: 43
+trade_overall_percentile_bpm: 44
 trade_overall_percentile_vorp: 19
 trade_rating_bpm: 0
 trade_rating_grade_bpm: D

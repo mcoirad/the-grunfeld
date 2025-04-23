@@ -1,5 +1,5 @@
 ---
-bpm_rank: 49
+bpm_rank: 50
 draft_bust_list: '<ul>
 
   <li>Drafted James Wiseman with 2th pick but was worth 56th pick.</li>
@@ -102,7 +102,7 @@ trade_rating_vorp: 0
 trade_total_bpm: 11306
 trade_total_grade_bpm: B-
 trade_total_grade_vorp: C-
-trade_total_percentile_bpm: 64
+trade_total_percentile_bpm: 63
 trade_total_percentile_vorp: 41
 trade_total_vorp: -7
 trade_win_list: '<ul>

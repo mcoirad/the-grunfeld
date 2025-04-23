@@ -205,7 +205,7 @@ updateTexts();
     
     <div class="col-md-3">
       <h3> Draft Rating:</h3>
-      <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text={{ executive.draft_rating_grade_vorp | default: "n/a" }} data-bpm-text={{ executive.draft_rating_grade_bpm | default: "n/a" }}> {{ executive.draft_rating_grade_bpm | default: "n/a" }}</h3>
+      <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text={{ executive.draft_rating_grade_vorp | default: "n/a" }} data-bpm-text={{ executive.draft_rating_grade_bpm | default: "n/a" }}> {{ executive.draft_rating_grade_bpm | default: "n/a" }}</p>
       <h5 > Draft Pick Efficiency Rating: <span class="stat-text" data-vorp-text={{ executive.draft_rating_percentile_vorp | default: "n/a" }} data-bpm-text={{ executive.draft_rating_percentile_bpm | default: "n/a"  }}><span> {{ executive.draft_rating_percentile_bpm | default: "n/a"}} </h5>
       <h5> Draft Total Value Rating: <span class="stat-text" data-vorp-text={{ executive.draft_total_percentile_vorp | default: "n/a" }} data-bpm-text={{ executive.draft_total_percentile_bpm | default: "n/a" }}><span> {{ executive.draft_total_percentile_bpm | default: "n/a"}}  </h5>
     </div>
@@ -228,7 +228,9 @@ updateTexts();
   <div class="row">
     <div class="col-md-3">
       <h3> Trade Rating:</h3>
-      <p style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);"> {{ executive.trade_rating_grade_vorp}}</h3>
+      <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text={{ executive.trade_rating_grade_vorp | default: "n/a" }} data-bpm-text={{ executive.trade_rating_grade_bpm | default: "n/a" }}> {{ executive.trade_rating_grade_bpm| default: "n/a" }}</p>
+      <h5 > Trade Efficiency Rating: <span class="stat-text" data-vorp-text={{ executive.trade_rating_percentile_vorp | default: "n/a" }} data-bpm-text={{ executive.trade_rating_percentile_bpm | default: "n/a"  }}><span> {{ executive.trade_rating_percentile_bpm | default: "n/a"}} </h5> 
+      <h5> Trade Total Value Rating: <span class="stat-text" data-vorp-text={{ executive.trade_overall_percentile_vorp | default: "n/a" }} data-bpm-text={{ executive.trade_overall_percentile_bpm | default: "n/a" }}><span> {{ executive.trade_overall_percentile_bpm | default: "n/a"}}  </h5>
     </div>
     <div class="col-md-9">
       {{ executive.trade_description}}
@@ -245,7 +247,9 @@ updateTexts();
   <div class="row">
     <div class="col-md-3">
       <h3> Signing Rating:</h3>
-      <p style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);"> {{ executive.signing_rating_grade_vorp}}</h3>
+      <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text={{ executive.signing_rating_grade_vorp | default: "n/a" }} data-bpm-text={{ executive.signing_rating_grade_bpm | default: "n/a" }}> {{ executive.signing_rating_grade_bpm | default: "n/a" }}</p>
+      <h5 > Signing Efficiency Rating: <span class="stat-text" data-vorp-text={{ executive.signing_rating_percentile_vorp | default: "n/a" }} data-bpm-text={{ executive.signing_rating_percentile_bpm | default: "n/a"  }}><span> {{ executive.signing_rating_percentile_bpm | default: "n/a"}} </h5> 
+      <h5> Signing Total Value Rating: <span class="stat-text" data-vorp-text={{ executive.signing_overall_percentile_vorp | default: "n/a" }} data-bpm-text={{ executive.signing_overall_percentile_bpm | default: "n/a" }}><span> {{ executive.signing_overall_percentile_bpm | default: "n/a"}}  </h5>
     </div>
     <div class="col-md-9">
       {{ executive.signing_description}}
