@@ -423,14 +423,16 @@ function makeStackedChart() {
       labels: labels,
       datasets: [
         {
-          label: `Expected ${currentExecDraftStat.toUpperCase()}`,
+          label: `Expected Career ${currentExecDraftStat.toUpperCase()}`,
           data: expectedData,
           backgroundColor: 'red',
+          borderRadius: 5,
         },
         {
-          label: `Draft ${currentExecDraftStat.toUpperCase()}`,
+          label: `Actual Career ${currentExecDraftStat.toUpperCase()}`,
           data: draftData,
           backgroundColor: 'blue',
+          borderRadius: 5,
         }
       ]
     },
@@ -470,7 +472,7 @@ function getStackedChartMappedData(stat) {
     .filter(d => d[`draft_${stat}`] !== "" && d[`expected_${stat}`] !== "")
     .map(d => ({
       name: d.name,
-      draft: parseFloat(d[`draft_${stat}`]),
+      draft: parseFloat(d[`total_${stat}`]),
       expected: parseFloat(d[`expected_${stat}`]),
       draftPick: d[`draft_pick_${stat}`],
       expectedPick: d[`draft_pick_${stat}`] - d[`draft_grade_${stat}`],
@@ -500,9 +502,9 @@ function updateExecDraftPlayersChart() {
   const { labels, draftData, expectedData, tooltipData } = getStackedChartMappedData(currentExecDraftStat);
   stackedChart.data.labels = labels;
   stackedChart.data.datasets[0].data = expectedData;
-  stackedChart.data.datasets[0].label = `Expected ${currentExecDraftStat.toUpperCase()}`;
+  stackedChart.data.datasets[0].label = `Expected Career ${currentExecDraftStat.toUpperCase()}`;
   stackedChart.data.datasets[1].data = draftData;
-  stackedChart.data.datasets[1].label = `Actual ${currentExecDraftStat.toUpperCase()}`;
+  stackedChart.data.datasets[1].label = `Actual Career ${currentExecDraftStat.toUpperCase()}`;
   stackedChart.options.scales.y.title.text = currentExecDraftStat.toUpperCase();
 
   stackedChart.options.plugins.tooltip.callbacks.label = function(context) {
