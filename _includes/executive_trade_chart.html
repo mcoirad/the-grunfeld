@@ -1,20 +1,20 @@
 <script>
-      let myDraftChart = null;
-      let rawDraftData = [];
+      let myTradeChart = null;
+      let rawTradeData = [];
     // Load the dataset
-    d3.csv("https://raw.githubusercontent.com/mcoirad/the-grunfeld/master/_data/executive/executive_stats.csv").then(makeChartExecutiveDraft);
+    d3.csv("https://raw.githubusercontent.com/mcoirad/the-grunfeld/master/_data/executive/executive_stats.csv").then(makeChartExecutiveTrade);
     
-    function makeChartExecutiveDraft(exec_data) {
-  rawDraftData = exec_data;
+    function makeChartExecutiveTrade(exec_data) {
+  rawTradeData = exec_data;
 
   const { scoreData, tooltipData, pointRadii, pointBorderColors, pointBackgroundColors } =
-    getDraftChartMappedData(currentStat);
+    getTradeChartMappedData(currentStat);
 
-  const ctx = document.getElementById('executive_draft_chart').getContext('2d');
-  myDraftChart = new Chart(ctx, {
+  const ctx = document.getElementById('executive_trade_chart').getContext('2d');
+  myTradeChart = new Chart(ctx, {
     data: {
       datasets: [{
-        label: 'Executive Draft Dataset',
+        label: 'Executive Trade Dataset',
         data: scoreData,
         borderColor: pointBorderColors,
         backgroundColor: pointBackgroundColors,
@@ -35,7 +35,7 @@
         },
         title: {
           display: true,
-          text: 'Executive Draft Ratings'
+          text: 'Executive Trade Ratings'
         },
         tooltip: {
           callbacks: {
@@ -51,14 +51,14 @@
         x: {
           title: {
             display: true,
-            text: 'Percentile for Total Draft Value',
+            text: 'Percentile for Total Trade Value',
             color: "black"
           }
         },
         y: {
           title: {
             display: true,
-            text: 'Percentile for Draft Pick Efficiency',
+            text: 'Percentile for Trade Pick Efficiency',
             color: "black"
           }
         }
@@ -72,16 +72,16 @@
   });
 }
 
-function getDraftChartMappedData(stat) {
-  const valueKeyX = `draft_total_percentile_${stat}`;
-  const valueKeyY = `draft_rating_percentile_${stat}`;
+function getTradeChartMappedData(stat) {
+  const valueKeyX = `trade_total_percentile_${stat}`;
+  const valueKeyY = `trade_rating_percentile_${stat}`;
   const tooltipData = [];
   const scoreData = [];
   const pointRadii = [];
   const pointBorderColors = [];
   const pointBackgroundColors = [];
 
-  const filtered = rawDraftData.filter(d => d[valueKeyX] !== "" && d[valueKeyY] !== "");
+  const filtered = rawTradeData.filter(d => d[valueKeyX] !== "" && d[valueKeyY] !== "");
 
   for (const d of filtered) {
     scoreData.push({ x: parseFloat(d[valueKeyX]), y: parseFloat(d[valueKeyY]) });
@@ -99,23 +99,23 @@ function getDraftChartMappedData(stat) {
   return { scoreData, tooltipData, pointRadii, pointBorderColors, pointBackgroundColors };
 }
 
-function updateDraftChart() {
+function updateTradeChart() {
   const { scoreData, tooltipData, pointRadii, pointBorderColors, pointBackgroundColors } =
-    getDraftChartMappedData(currentStat);
+    getTradeChartMappedData(currentStat);
 
-  const dataset = myDraftChart.data.datasets[0];
+  const dataset = myTradeChart.data.datasets[0];
   dataset.data = scoreData;
   dataset.pointRadius = pointRadii;
   dataset.pointHoverRadius = pointRadii;
   dataset.backgroundColor = pointBackgroundColors;
   dataset.borderColor = pointBorderColors;
-  dataset.label = `Executive Draft Dataset (${currentStat.toUpperCase()})`;
+  dataset.label = `Executive Trade Dataset (${currentStat.toUpperCase()})`;
 
-  myDraftChart.options.plugins.tooltip.callbacks.label = function(context) {
+  myTradeChart.options.plugins.tooltip.callbacks.label = function(context) {
     return tooltipData[context.dataIndex];
   };
 
-  myDraftChart.update();
+  myTradeChart.update();
 }
     
   </script>

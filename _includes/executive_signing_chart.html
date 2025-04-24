@@ -1,20 +1,20 @@
 <script>
-      let myDraftChart = null;
-      let rawDraftData = [];
+      let mySigningChart = null;
+      let rawSigningData = [];
     // Load the dataset
-    d3.csv("https://raw.githubusercontent.com/mcoirad/the-grunfeld/master/_data/executive/executive_stats.csv").then(makeChartExecutiveDraft);
+    d3.csv("https://raw.githubusercontent.com/mcoirad/the-grunfeld/master/_data/executive/executive_stats.csv").then(makeChartExecutiveSigning);
     
-    function makeChartExecutiveDraft(exec_data) {
-  rawDraftData = exec_data;
+    function makeChartExecutiveSigning(exec_data) {
+  rawSigningData = exec_data;
 
   const { scoreData, tooltipData, pointRadii, pointBorderColors, pointBackgroundColors } =
-    getDraftChartMappedData(currentStat);
+    getSigningChartMappedData(currentStat);
 
-  const ctx = document.getElementById('executive_draft_chart').getContext('2d');
-  myDraftChart = new Chart(ctx, {
+  const ctx = document.getElementById('executive_signing_chart').getContext('2d');
+  mySigningChart = new Chart(ctx, {
     data: {
       datasets: [{
-        label: 'Executive Draft Dataset',
+        label: 'Executive Signing Dataset',
         data: scoreData,
         borderColor: pointBorderColors,
         backgroundColor: pointBackgroundColors,
@@ -35,7 +35,7 @@
         },
         title: {
           display: true,
-          text: 'Executive Draft Ratings'
+          text: 'Executive Signing Ratings'
         },
         tooltip: {
           callbacks: {
@@ -51,14 +51,14 @@
         x: {
           title: {
             display: true,
-            text: 'Percentile for Total Draft Value',
+            text: 'Percentile for Total Signing Value',
             color: "black"
           }
         },
         y: {
           title: {
             display: true,
-            text: 'Percentile for Draft Pick Efficiency',
+            text: 'Percentile for Signing Pick Efficiency',
             color: "black"
           }
         }
@@ -72,16 +72,16 @@
   });
 }
 
-function getDraftChartMappedData(stat) {
-  const valueKeyX = `draft_total_percentile_${stat}`;
-  const valueKeyY = `draft_rating_percentile_${stat}`;
+function getSigningChartMappedData(stat) {
+  const valueKeyX = `signing_total_percentile_${stat}`;
+  const valueKeyY = `signing_rating_percentile_${stat}`;
   const tooltipData = [];
   const scoreData = [];
   const pointRadii = [];
   const pointBorderColors = [];
   const pointBackgroundColors = [];
 
-  const filtered = rawDraftData.filter(d => d[valueKeyX] !== "" && d[valueKeyY] !== "");
+  const filtered = rawSigningData.filter(d => d[valueKeyX] !== "" && d[valueKeyY] !== "");
 
   for (const d of filtered) {
     scoreData.push({ x: parseFloat(d[valueKeyX]), y: parseFloat(d[valueKeyY]) });
@@ -99,23 +99,23 @@ function getDraftChartMappedData(stat) {
   return { scoreData, tooltipData, pointRadii, pointBorderColors, pointBackgroundColors };
 }
 
-function updateDraftChart() {
+function updateSigningChart() {
   const { scoreData, tooltipData, pointRadii, pointBorderColors, pointBackgroundColors } =
-    getDraftChartMappedData(currentStat);
+    getSigningChartMappedData(currentStat);
 
-  const dataset = myDraftChart.data.datasets[0];
+  const dataset = mySigningChart.data.datasets[0];
   dataset.data = scoreData;
   dataset.pointRadius = pointRadii;
   dataset.pointHoverRadius = pointRadii;
   dataset.backgroundColor = pointBackgroundColors;
   dataset.borderColor = pointBorderColors;
-  dataset.label = `Executive Draft Dataset (${currentStat.toUpperCase()})`;
+  dataset.label = `Executive Signing Dataset (${currentStat.toUpperCase()})`;
 
-  myDraftChart.options.plugins.tooltip.callbacks.label = function(context) {
+  mySigningChart.options.plugins.tooltip.callbacks.label = function(context) {
     return tooltipData[context.dataIndex];
   };
 
-  myDraftChart.update();
+  mySigningChart.update();
 }
     
   </script>

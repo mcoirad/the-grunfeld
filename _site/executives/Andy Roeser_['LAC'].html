@@ -84,11 +84,13 @@
   </head>
 
 <header class="masthead">
-    <div class="overlay"></div>
+    <!-- <div class="overlay"></div> -->
     <div class="container">
         <div class="row">
+        <div class="col-md-3"></div>
+        <div class="col-md-6">
             <div class="page-heading">
-                <img src="../assets/img/headshots/roesean99x.png" >
+                <img class="w-50 p-3" src="../assets/img/headshots/roesean99x.png" >
                 <h1>Andy Roeser</h1>
                 <h2></h2>
                 <h3 class="post-subtitle">
@@ -97,6 +99,8 @@
                     
                 </h3>
             </div>
+            </div>
+            <div class="col-md-3"></div>
             
             
         </div>
@@ -276,7 +280,9 @@ updateTexts();
       <h5> Draft Total Value Rating: <span class="stat-text" data-vorp-text=34 data-bpm-text=34><span> 34  </h5>
     </div>
     <div class="col-md-9">
-    <div class="col-md-9"><canvas id="executive_draft_chart"></canvas></div>
+    <div class="row">
+    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;"><canvas id="executive_draft_chart"></canvas></div>
+    </div>
     <script>
       let myDraftChart = null;
       let rawDraftData = [];
@@ -305,6 +311,8 @@ updateTexts();
     },
     type: 'scatter',
     options: {
+      //responsive: true,
+      maintainAspectRatio: false,
       plugins: {
         legend: {
           position: 'top',
@@ -397,7 +405,7 @@ function updateDraftChart() {
     
   </script>
 
-    <div class="col-md-9"><canvas id="executive_draft_players_chart"></canvas></div>
+    <div class="row"><div class="col-md-12" style="height: 40vh; min-height: 350px;"><canvas id="executive_draft_players_chart"></canvas></div></div>
     
 <script>
 let rawTransactionData = [];
@@ -411,7 +419,7 @@ d3.csv("https://raw.githubusercontent.com/mcoirad/the-grunfeld/master/_data/draf
 
 function makeStackedChart() {
   const ctx = document.getElementById("executive_draft_players_chart").getContext("2d");
-  const { labels, draftData, expectedData, tooltipData } = getStackedChartMappedData(currentExecDraftStat);
+  const { labels, draftData, expectedData, tooltipData, tooltipTitles } = getStackedChartMappedData(currentExecDraftStat);
 
   stackedChart = new Chart(ctx, {
     type: 'bar',
@@ -434,11 +442,16 @@ function makeStackedChart() {
     },
     options: {
       responsive: true,
+      maintainAspectRatio: false,
       plugins: {
         tooltip: {
           callbacks: {
             label: function(context) {
-              return `${context.label} | ${tooltipData[context.dataIndex]}`;
+              return `${tooltipData[context.dataIndex]}`;
+            },
+            title: function(context) {
+              const index = context[0].dataIndex;
+              return `${tooltipTitles[index]}`;
             }
           }
         },
@@ -472,6 +485,7 @@ function getStackedChartMappedData(stat) {
       expected: parseFloat(d[`expected_${stat}`]),
       draftPick: d[`draft_pick_${stat}`],
       expectedPick: d[`draft_pick_${stat}`] - d[`draft_grade_${stat}`],
+      year: d.transaction_date.slice(0, 4)
     }))
     .sort((a, b) => b.draft - a.draft);
     console.log(filtered);
@@ -481,21 +495,22 @@ function getStackedChartMappedData(stat) {
   const draftData = [];
   const expectedData = [];
   const tooltipData = [];
+  const tooltipTitles = [];
 
   for (const d of filtered) {
-    labels.push(d.name);
+    labels.push(`${d.name}`);
     draftData.push(d.draft);
     expectedData.push(d.expected);
     tooltipData.push(`Draft Pick ${d.draftPick}, Redraft Pick would be ${d.expectedPick}`);
+    tooltipTitles.push(`${d.name} (${d.year})`);
   }
-
-  return { labels, draftData, expectedData, tooltipData };
+  return { labels, draftData, expectedData, tooltipData, tooltipTitles };
 }
 
 function updateExecDraftPlayersChart() {
   currentExecDraftStat = currentStat;
 
-  const { labels, draftData, expectedData, tooltipData } = getStackedChartMappedData(currentExecDraftStat);
+  const { labels, draftData, expectedData, tooltipData, tooltipTitles } = getStackedChartMappedData(currentExecDraftStat);
   stackedChart.data.labels = labels;
   stackedChart.data.datasets[0].data = expectedData;
   stackedChart.data.datasets[0].label = `Expected Career ${currentExecDraftStat.toUpperCase()}`;
@@ -506,6 +521,11 @@ function updateExecDraftPlayersChart() {
   stackedChart.options.plugins.tooltip.callbacks.label = function(context) {
     const index = context.dataIndex;
     return `${tooltipData[index]}`;
+  };
+
+  stackedChart.options.plugins.tooltip.callbacks.title = function(context) {
+    const index = context[0].dataIndex;
+    return `${tooltipTitles[index]}`;
   };
 
   stackedChart.update();
@@ -530,7 +550,133 @@ function updateExecDraftPlayersChart() {
       <h5 > Trade Efficiency Rating: <span class="stat-text" data-vorp-text=n/a data-bpm-text=n/a><span> n/a </h5> 
       <h5> Trade Total Value Rating: <span class="stat-text" data-vorp-text=n/a data-bpm-text=n/a><span> n/a  </h5>
     </div>
+
     <div class="col-md-9">
+    <div class="row">
+    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;"><canvas id="executive_trade_chart"></canvas></div>
+    </div>
+    <script>
+      let myTradeChart = null;
+      let rawTradeData = [];
+    // Load the dataset
+    d3.csv("https://raw.githubusercontent.com/mcoirad/the-grunfeld/master/_data/executive/executive_stats.csv").then(makeChartExecutiveTrade);
+    
+    function makeChartExecutiveTrade(exec_data) {
+  rawTradeData = exec_data;
+
+  const { scoreData, tooltipData, pointRadii, pointBorderColors, pointBackgroundColors } =
+    getTradeChartMappedData(currentStat);
+
+  const ctx = document.getElementById('executive_trade_chart').getContext('2d');
+  myTradeChart = new Chart(ctx, {
+    data: {
+      datasets: [{
+        label: 'Executive Trade Dataset',
+        data: scoreData,
+        borderColor: pointBorderColors,
+        backgroundColor: pointBackgroundColors,
+        tension: 0.1,
+        pointRadius: pointRadii,
+        pointHoverBackgroundColor: 'red',
+        pointHoverRadius: pointRadii,
+      }]
+    },
+    type: 'scatter',
+    options: {
+      //responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: {
+          position: 'top',
+          display: false,
+        },
+        title: {
+          display: true,
+          text: 'Executive Trade Ratings'
+        },
+        tooltip: {
+          callbacks: {
+            label: function(context) {
+              return tooltipData[context.dataIndex];
+            }
+          },
+          mode: 'nearest',
+          intersect: false,
+        }
+      },
+      scales: {
+        x: {
+          title: {
+            display: true,
+            text: 'Percentile for Total Trade Value',
+            color: "black"
+          }
+        },
+        y: {
+          title: {
+            display: true,
+            text: 'Percentile for Trade Pick Efficiency',
+            color: "black"
+          }
+        }
+      },
+      responsive: true,
+      hover: {
+        mode: 'nearest',
+        intersect: false
+      },
+    }
+  });
+}
+
+function getTradeChartMappedData(stat) {
+  const valueKeyX = `trade_total_percentile_${stat}`;
+  const valueKeyY = `trade_rating_percentile_${stat}`;
+  const tooltipData = [];
+  const scoreData = [];
+  const pointRadii = [];
+  const pointBorderColors = [];
+  const pointBackgroundColors = [];
+
+  const filtered = rawTradeData.filter(d => d[valueKeyX] !== "" && d[valueKeyY] !== "");
+
+  for (const d of filtered) {
+    scoreData.push({ x: parseFloat(d[valueKeyX]), y: parseFloat(d[valueKeyY]) });
+    tooltipData.push(d.name);
+    pointRadii.push(10);
+    pointBorderColors.push(d.is_active === 'True' ? 'red' : 'rgb(75, 192, 192)');
+
+    if (d.href.includes( 'roesean99x' ) ) {
+      pointBackgroundColors.push(d.is_active === 'True' ? 'red' : 'rgb(75, 192, 192)');
+    } else {
+      pointBackgroundColors.push('rgba(0,0,0,0.1)');
+    }
+  }
+
+  return { scoreData, tooltipData, pointRadii, pointBorderColors, pointBackgroundColors };
+}
+
+function updateTradeChart() {
+  const { scoreData, tooltipData, pointRadii, pointBorderColors, pointBackgroundColors } =
+    getTradeChartMappedData(currentStat);
+
+  const dataset = myTradeChart.data.datasets[0];
+  dataset.data = scoreData;
+  dataset.pointRadius = pointRadii;
+  dataset.pointHoverRadius = pointRadii;
+  dataset.backgroundColor = pointBackgroundColors;
+  dataset.borderColor = pointBorderColors;
+  dataset.label = `Executive Trade Dataset (${currentStat.toUpperCase()})`;
+
+  myTradeChart.options.plugins.tooltip.callbacks.label = function(context) {
+    return tooltipData[context.dataIndex];
+  };
+
+  myTradeChart.update();
+}
+    
+  </script>
+
       This executive has only made 3 trades and thus doesn't have a trade grade.
       <h5>Their biggest win:</h5>
       <ul>
@@ -556,6 +702,131 @@ function updateExecDraftPlayersChart() {
       <h5> Signing Total Value Rating: <span class="stat-text" data-vorp-text=n/a data-bpm-text=n/a><span> n/a  </h5>
     </div>
     <div class="col-md-9">
+    <div class="row">
+    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;"><canvas id="executive_signing_chart"></canvas></div>
+    </div>
+    <script>
+      let mySigningChart = null;
+      let rawSigningData = [];
+    // Load the dataset
+    d3.csv("https://raw.githubusercontent.com/mcoirad/the-grunfeld/master/_data/executive/executive_stats.csv").then(makeChartExecutiveSigning);
+    
+    function makeChartExecutiveSigning(exec_data) {
+  rawSigningData = exec_data;
+
+  const { scoreData, tooltipData, pointRadii, pointBorderColors, pointBackgroundColors } =
+    getSigningChartMappedData(currentStat);
+
+  const ctx = document.getElementById('executive_signing_chart').getContext('2d');
+  mySigningChart = new Chart(ctx, {
+    data: {
+      datasets: [{
+        label: 'Executive Signing Dataset',
+        data: scoreData,
+        borderColor: pointBorderColors,
+        backgroundColor: pointBackgroundColors,
+        tension: 0.1,
+        pointRadius: pointRadii,
+        pointHoverBackgroundColor: 'red',
+        pointHoverRadius: pointRadii,
+      }]
+    },
+    type: 'scatter',
+    options: {
+      //responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: {
+          position: 'top',
+          display: false,
+        },
+        title: {
+          display: true,
+          text: 'Executive Signing Ratings'
+        },
+        tooltip: {
+          callbacks: {
+            label: function(context) {
+              return tooltipData[context.dataIndex];
+            }
+          },
+          mode: 'nearest',
+          intersect: false,
+        }
+      },
+      scales: {
+        x: {
+          title: {
+            display: true,
+            text: 'Percentile for Total Signing Value',
+            color: "black"
+          }
+        },
+        y: {
+          title: {
+            display: true,
+            text: 'Percentile for Signing Pick Efficiency',
+            color: "black"
+          }
+        }
+      },
+      responsive: true,
+      hover: {
+        mode: 'nearest',
+        intersect: false
+      },
+    }
+  });
+}
+
+function getSigningChartMappedData(stat) {
+  const valueKeyX = `signing_total_percentile_${stat}`;
+  const valueKeyY = `signing_rating_percentile_${stat}`;
+  const tooltipData = [];
+  const scoreData = [];
+  const pointRadii = [];
+  const pointBorderColors = [];
+  const pointBackgroundColors = [];
+
+  const filtered = rawSigningData.filter(d => d[valueKeyX] !== "" && d[valueKeyY] !== "");
+
+  for (const d of filtered) {
+    scoreData.push({ x: parseFloat(d[valueKeyX]), y: parseFloat(d[valueKeyY]) });
+    tooltipData.push(d.name);
+    pointRadii.push(10);
+    pointBorderColors.push(d.is_active === 'True' ? 'red' : 'rgb(75, 192, 192)');
+
+    if (d.href.includes( 'roesean99x' ) ) {
+      pointBackgroundColors.push(d.is_active === 'True' ? 'red' : 'rgb(75, 192, 192)');
+    } else {
+      pointBackgroundColors.push('rgba(0,0,0,0.1)');
+    }
+  }
+
+  return { scoreData, tooltipData, pointRadii, pointBorderColors, pointBackgroundColors };
+}
+
+function updateSigningChart() {
+  const { scoreData, tooltipData, pointRadii, pointBorderColors, pointBackgroundColors } =
+    getSigningChartMappedData(currentStat);
+
+  const dataset = mySigningChart.data.datasets[0];
+  dataset.data = scoreData;
+  dataset.pointRadius = pointRadii;
+  dataset.pointHoverRadius = pointRadii;
+  dataset.backgroundColor = pointBackgroundColors;
+  dataset.borderColor = pointBorderColors;
+  dataset.label = `Executive Signing Dataset (${currentStat.toUpperCase()})`;
+
+  mySigningChart.options.plugins.tooltip.callbacks.label = function(context) {
+    return tooltipData[context.dataIndex];
+  };
+
+  mySigningChart.update();
+}
+    
+  </script>
+
       This executive has only made 4 signings in free agency and thus doesn't have a signing grade.
       <h5>Their best signings:</h5>
       

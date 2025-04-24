@@ -11,7 +11,7 @@ d3.csv("https://raw.githubusercontent.com/mcoirad/the-grunfeld/master/_data/draf
 
 function makeStackedChart() {
   const ctx = document.getElementById("executive_draft_players_chart").getContext("2d");
-  const { labels, draftData, expectedData, tooltipData } = getStackedChartMappedData(currentExecDraftStat);
+  const { labels, draftData, expectedData, tooltipData, tooltipTitles } = getStackedChartMappedData(currentExecDraftStat);
 
   stackedChart = new Chart(ctx, {
     type: 'bar',
@@ -34,11 +34,16 @@ function makeStackedChart() {
     },
     options: {
       responsive: true,
+      maintainAspectRatio: false,
       plugins: {
         tooltip: {
           callbacks: {
             label: function(context) {
-              return `${context.label} | ${tooltipData[context.dataIndex]}`;
+              return `${tooltipData[context.dataIndex]}`;
+            },
+            title: function(context) {
+              const index = context[0].dataIndex;
+              return `${tooltipTitles[index]}`;
             }
           }
         },
@@ -72,6 +77,7 @@ function getStackedChartMappedData(stat) {
       expected: parseFloat(d[`expected_${stat}`]),
       draftPick: d[`draft_pick_${stat}`],
       expectedPick: d[`draft_pick_${stat}`] - d[`draft_grade_${stat}`],
+      year: d.transaction_date.slice(0, 4)
     }))
     .sort((a, b) => b.draft - a.draft);
     console.log(filtered);
@@ -81,21 +87,22 @@ function getStackedChartMappedData(stat) {
   const draftData = [];
   const expectedData = [];
   const tooltipData = [];
+  const tooltipTitles = [];
 
   for (const d of filtered) {
-    labels.push(d.name);
+    labels.push(`${d.name}`);
     draftData.push(d.draft);
     expectedData.push(d.expected);
     tooltipData.push(`Draft Pick ${d.draftPick}, Redraft Pick would be ${d.expectedPick}`);
+    tooltipTitles.push(`${d.name} (${d.year})`);
   }
-
-  return { labels, draftData, expectedData, tooltipData };
+  return { labels, draftData, expectedData, tooltipData, tooltipTitles };
 }
 
 function updateExecDraftPlayersChart() {
   currentExecDraftStat = currentStat;
 
-  const { labels, draftData, expectedData, tooltipData } = getStackedChartMappedData(currentExecDraftStat);
+  const { labels, draftData, expectedData, tooltipData, tooltipTitles } = getStackedChartMappedData(currentExecDraftStat);
   stackedChart.data.labels = labels;
   stackedChart.data.datasets[0].data = expectedData;
   stackedChart.data.datasets[0].label = `Expected Career ${currentExecDraftStat.toUpperCase()}`;
@@ -106,6 +113,11 @@ function updateExecDraftPlayersChart() {
   stackedChart.options.plugins.tooltip.callbacks.label = function(context) {
     const index = context.dataIndex;
     return `${tooltipData[index]}`;
+  };
+
+  stackedChart.options.plugins.tooltip.callbacks.title = function(context) {
+    const index = context[0].dataIndex;
+    return `${tooltipTitles[index]}`;
   };
 
   stackedChart.update();

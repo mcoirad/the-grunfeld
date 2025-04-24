@@ -14,11 +14,13 @@ layout: default
   </head>
 
 <header class="masthead">
-    <div class="overlay"></div>
+    <!-- <div class="overlay"></div> -->
     <div class="container">
         <div class="row">
+        <div class="col-md-3"></div>
+        <div class="col-md-6">
             <div class="page-heading">
-                <img src="../assets/img/headshots/{{ executive.href }}.png" >
+                <img class="w-50 p-3" src="../assets/img/headshots/{{ executive.href }}.png" >
                 <h1>{{ page.name }}</h1>
                 <h2>{{ page.position }}</h2>
                 <h3 class="post-subtitle">
@@ -27,6 +29,8 @@ layout: default
                     {% endfor %}
                 </h3>
             </div>
+            </div>
+            <div class="col-md-3"></div>
             
             
         </div>
@@ -210,9 +214,11 @@ updateTexts();
       <h5> Draft Total Value Rating: <span class="stat-text" data-vorp-text={{ executive.draft_total_percentile_vorp | default: "n/a" }} data-bpm-text={{ executive.draft_total_percentile_bpm | default: "n/a" }}><span> {{ executive.draft_total_percentile_bpm | default: "n/a"}}  </h5>
     </div>
     <div class="col-md-9">
-    <div class="col-md-9"><canvas id="executive_draft_chart"></canvas></div>
+    <div class="row">
+    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;"><canvas id="executive_draft_chart"></canvas></div>
+    </div>
     {% include executive_draft_chart.html exec_name=page.name exec_href=page.href %}
-    <div class="col-md-9"><canvas id="executive_draft_players_chart"></canvas></div>
+    <div class="row"><div class="col-md-12" style="height: 40vh; min-height: 350px;"><canvas id="executive_draft_players_chart"></canvas></div></div>
     {% include executive_draft_players_chart.html exec_name=page.name exec_href=page.href %}
       {{ executive.draft_description}}
       <h5>Some of their biggest wins:</h5>
@@ -228,11 +234,16 @@ updateTexts();
   <div class="row">
     <div class="col-md-3">
       <h3> Trade Rating:</h3>
-      <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text={{ executive.trade_rating_grade_vorp | default: "n/a" }} data-bpm-text={{ executive.trade_rating_grade_bpm | default: "n/a" }}> {{ executive.trade_rating_grade_bpm| default: "n/a" }}</p>
+      <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text={{ executive.trade_rating_grade_vorp | default: "n/a" }} data-bpm-text={{ executive.trade_rating_grade_bpm | default: "n/a" }}> {{ executive.trade_rating_grade_bpm | default: "n/a" }}</p>
       <h5 > Trade Efficiency Rating: <span class="stat-text" data-vorp-text={{ executive.trade_rating_percentile_vorp | default: "n/a" }} data-bpm-text={{ executive.trade_rating_percentile_bpm | default: "n/a"  }}><span> {{ executive.trade_rating_percentile_bpm | default: "n/a"}} </h5> 
       <h5> Trade Total Value Rating: <span class="stat-text" data-vorp-text={{ executive.trade_overall_percentile_vorp | default: "n/a" }} data-bpm-text={{ executive.trade_overall_percentile_bpm | default: "n/a" }}><span> {{ executive.trade_overall_percentile_bpm | default: "n/a"}}  </h5>
     </div>
+
     <div class="col-md-9">
+    <div class="row">
+    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;"><canvas id="executive_trade_chart"></canvas></div>
+    </div>
+    {% include executive_trade_chart.html exec_name=page.name exec_href=page.href %}
       {{ executive.trade_description}}
       <h5>Their biggest win:</h5>
       {{ executive.trade_win_list}}
@@ -252,6 +263,10 @@ updateTexts();
       <h5> Signing Total Value Rating: <span class="stat-text" data-vorp-text={{ executive.signing_overall_percentile_vorp | default: "n/a" }} data-bpm-text={{ executive.signing_overall_percentile_bpm | default: "n/a" }}><span> {{ executive.signing_overall_percentile_bpm | default: "n/a"}}  </h5>
     </div>
     <div class="col-md-9">
+    <div class="row">
+    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;"><canvas id="executive_signing_chart"></canvas></div>
+    </div>
+    {% include executive_signing_chart.html exec_name=page.name exec_href=page.href %}
       {{ executive.signing_description}}
       <h5>Their best signings:</h5>
       {{ executive.signing_win_list}}
