@@ -86,6 +86,8 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateTexts();
     updateDraftChart();
     updateExecDraftPlayersChart();
+    updateSigningChart();
+    updateTradeChart();
 
 });
 
@@ -257,7 +259,7 @@ updateTexts();
       <h3> Trade Rating:</h3>
       <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text={{ executive.trade_rating_grade_vorp | default: "n/a" }} data-bpm-text={{ executive.trade_rating_grade_bpm | default: "n/a" }}> {{ executive.trade_rating_grade_bpm | default: "n/a" }}</p>
       <h5 > Trade Efficiency Rating: <span class="stat-text" data-vorp-text={{ executive.trade_rating_percentile_vorp | default: "n/a" }} data-bpm-text={{ executive.trade_rating_percentile_bpm | default: "n/a"  }}><span> {{ executive.trade_rating_percentile_bpm | default: "n/a"}} </h5> 
-      <h5> Trade Total Value Rating: <span class="stat-text" data-vorp-text={{ executive.trade_overall_percentile_vorp | default: "n/a" }} data-bpm-text={{ executive.trade_overall_percentile_bpm | default: "n/a" }}><span> {{ executive.trade_overall_percentile_bpm | default: "n/a"}}  </h5>
+      <h5> Trade Total Value Rating: <span class="stat-text" data-vorp-text={{ executive.trade_total_percentile_vorp | default: "n/a" }} data-bpm-text={{ executive.trade_total_percentile_bpm | default: "n/a" }}><span> {{ executive.trade_total_percentile_bpm | default: "n/a"}}  </h5>
     </div>
 
     <div class="col-md-9">
@@ -281,7 +283,7 @@ updateTexts();
       <h3> Signing Rating:</h3>
       <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text={{ executive.signing_rating_grade_vorp | default: "n/a" }} data-bpm-text={{ executive.signing_rating_grade_bpm | default: "n/a" }}> {{ executive.signing_rating_grade_bpm | default: "n/a" }}</p>
       <h5 > Signing Efficiency Rating: <span class="stat-text" data-vorp-text={{ executive.signing_rating_percentile_vorp | default: "n/a" }} data-bpm-text={{ executive.signing_rating_percentile_bpm | default: "n/a"  }}><span> {{ executive.signing_rating_percentile_bpm | default: "n/a"}} </h5> 
-      <h5> Signing Total Value Rating: <span class="stat-text" data-vorp-text={{ executive.signing_overall_percentile_vorp | default: "n/a" }} data-bpm-text={{ executive.signing_overall_percentile_bpm | default: "n/a" }}><span> {{ executive.signing_overall_percentile_bpm | default: "n/a"}}  </h5>
+      <h5> Signing Total Value Rating: <span class="stat-text" data-vorp-text={{ executive.signing_total_percentile_vorp | default: "n/a" }} data-bpm-text={{ executive.signing_total_percentile_bpm | default: "n/a" }}><span> {{ executive.signing_total_percentile_bpm | default: "n/a"}}  </h5>
     </div>
     <div class="col-md-9">
     <div class="row">
