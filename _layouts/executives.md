@@ -15,11 +15,15 @@ layout: default
 
 <header class="masthead">
     <!-- <div class="overlay"></div> -->
+    
     <div class="container">
         <div class="row">
         <div class="col-md-3"></div>
         <div class="col-md-6">
             <div class="page-heading">
+            <button class="btn btn-primary" id="toggle-stat">Switch to VORP</button>
+
+            <!-- 
                 <img class="w-50 p-3" src="../assets/img/headshots/{{ executive.href }}.png" >
                 <h1>{{ page.name }}</h1>
                 <h2>{{ page.position }}</h2>
@@ -27,7 +31,7 @@ layout: default
                     {% for team in executive.team  %}
                     {{team}}{% if forloop.last %}{% else %}, {% endif %}
                     {% endfor %}
-                </h3>
+                </h3>-->
             </div>
             </div>
             <div class="col-md-3"></div>
@@ -37,9 +41,9 @@ layout: default
         
     </div>
     
+
     
 </header>
-
 {% comment %}
 {% include executive.md executive=executive %}
             {{ content }}
@@ -49,11 +53,25 @@ layout: default
 
     <div class="container">
         <div class="row">
+        <div class="col-md-3">
+          <img class="w-100 p-3" src="../assets/img/headshots/{{ executive.href }}.png" >
+                <h1>{{ page.name }}</h1>
+                <h2>{{ page.position }}</h2>
+                <h3 class="post-subtitle">
+                    {% for team in executive.team  %}
+                    {{team}}{% if forloop.last %}{% else %}, {% endif %}
+                    {% endfor %}
+                </h3>
+        </div>
+        <div class="col-md-9">
+    <div class="row">
+    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
-          <canvas id="executiveTenure"></canvas></div></div>
+          <canvas id="executiveTenure"></canvas></div></div></div>
+        </div>
+      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
-<button id="toggle-stat">Switch to VORP</button>
 <script>
 
   
@@ -129,7 +147,8 @@ function makeChart() {
             }]
         },
         options: {
-            responsive: true,
+            //responsive: true,
+            maintainAspectRatio: false,
             scales: {
                 x: {
                     type: 'time',
@@ -205,7 +224,7 @@ updateTexts();
 
 <div class="container">
   <div class="row">
-    <h1 style=" text-align:center;">Grade Report</h1>
+    <h1 class="alert alert-dark" style=" text-align:center;">Grade Report</h1>
     
     <div class="col-md-3">
       <h3> Draft Rating:</h3>
@@ -217,6 +236,8 @@ updateTexts();
     <div class="row">
     <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;"><canvas id="executive_draft_chart"></canvas></div>
     </div>
+    <hr>
+
     {% include executive_draft_chart.html exec_name=page.name exec_href=page.href %}
     <div class="row"><div class="col-md-12" style="height: 40vh; min-height: 350px;"><canvas id="executive_draft_players_chart"></canvas></div></div>
     {% include executive_draft_players_chart.html exec_name=page.name exec_href=page.href %}
