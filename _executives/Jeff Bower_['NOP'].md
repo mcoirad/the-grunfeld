@@ -26,11 +26,12 @@ is_active: false
 name: Jeff Bower
 signing_description: 'Jeff Bower ranks in the 43th percentile for free agency signings
   among executives in our database. '
-signing_lose_list: '<ul>
-
-  <li>Signed Melvin Ely in 2007.</li>
-
-  </ul>'
+signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul id=vorp-toggle>\n\
+  <li>Signed Melvin Ely <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  0\" data-vorp-text=\"-0.1\">-0.1</span> in 2007.</li>\n</ul>\n    <h5 id=\"bpm-toggle\"\
+  >Their worst signings: </h5><ul id=bpm-toggle>\n<li>Signed Melvin Ely <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-278\" data-vorp-text=\"-278.1\"\
+  >-278</span> in 2007.</li>\n</ul>\n    "
 signing_num_players: 14
 signing_overall_percentile_bpm: 85
 signing_overall_percentile_vorp: 31
@@ -46,7 +47,7 @@ signing_total_grade_vorp: F
 signing_total_percentile_bpm: 75
 signing_total_percentile_vorp: 18
 signing_total_vorp: 0
-signing_win_list: null
+signing_win_list: "\n    \n    \n    "
 start_year: 2005
 team:
 - New Orleans Pelicans
@@ -54,15 +55,25 @@ team_shortcode:
 - NOP
 trade_description: 'Jeff Bower ranks in the 89th percentile for trading among executives
   in our database. '
-trade_lose_list: '<ul>
-
-  <li>Added Mike James, Bonzi Wells to NOH.</li>
-
-  <li>Lost Marcus Vinicius to MEM.</li>
-
-  <li>Lost Adam Haluska, Bobby Jackson, Maarty Leunen to HOU.</li>
-
-  </ul>'
+trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.9\">-0.9</span></h5><ul\
+  \ id=vorp-toggle>\n<li>Added Marc Jackson <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0.0</span>, Linton Johnson <span\
+  \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"\
+  +0.0\">+0.0</span> to NOP.</li>\n<li>Lost Boštjan Nachbar <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"+3314\" data-vorp-text=\"-0.9\">-0.9</span> to\
+  \ NJN.</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest L: <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-2120\" data-vorp-text=\"-2120.7\">-2120</span></h5><ul\
+  \ id=bpm-toggle>\n<li>Added Mike James <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-1596\" data-vorp-text=\"-0.3\">-1596</span>, Bonzi Wells <span\
+  \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-175\" data-vorp-text=\"\
+  +0.2\">-175</span> to NOH.</li>\n<li>Lost Marcus Vinicius <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to MEM.</li>\n\
+  <li>Lost Adam Haluska <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +0\" data-vorp-text=\"+0.0\">+0</span>, Bobby Jackson <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-348\" data-vorp-text=\"-0.3\">-348</span>, Maarty\
+  \ Leunen <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"\
+  +0.0\">+0</span> to HOU.</li>\n</ul>\n    "
 trade_num: 51
 trade_overall_percentile_bpm: 83
 trade_overall_percentile_vorp: 78
@@ -78,11 +89,19 @@ trade_total_grade_vorp: B-
 trade_total_percentile_bpm: 73
 trade_total_percentile_vorp: 66
 trade_total_vorp: 1
-trade_win_list: '<ul>
-
-  <li>Added Desmond Mason, Cedric Simmons to NOP.</li>
-
-  <li>Lost Jamaal Magloire to MIL.</li>
-
-  </ul>'
+trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+1\" data-vorp-text=\"+1.3\">+1.3</span></h5><ul\
+  \ id=vorp-toggle>\n<li>Added Desmond Mason <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0.0</span>, Cedric Simmons <span\
+  \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"\
+  +0.0\">+0.0</span> to NOP.</li>\n<li>Lost Jamaal Magloire <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+10106\" data-vorp-text=\"+1.3\">+1.3</span> to\
+  \ MIL.</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest win: <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+10106\" data-vorp-text=\"+10106.5\"\
+  >+10106</span></h5><ul id=bpm-toggle>\n<li>Added Desmond Mason <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span>,\
+  \ Cedric Simmons <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +0\" data-vorp-text=\"+0.0\">+0</span> to NOP.</li>\n<li>Lost Jamaal Magloire <span\
+  \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+10106\" data-vorp-text=\"\
+  +1.3\">+10106</span> to MIL.</li>\n</ul>\n    "
 ---

@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,15 +567,25 @@ function updateExecDraftPlayersChart() {
 </script>
 
       This executive has only drafted 3 players and thus doesn't have a draft grade.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Alphonso Ford with 32th pick but was worth 43th pick.</li>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Shawn Bradley with 2th pick but was worth 10th pick.</li>
-<li>Drafted Clarence Weatherspoon with 9th pick but was worth 10th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Alphonso Ford <span class="badge badge-pill badge-success" data-bpm-text="+1052" data-vorp-text="+1052.8">+1052</span> with 32th pick but was worth 30th pick. </li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Shawn Bradley <span class="badge badge-pill badge-danger" data-bpm-text="-19" data-vorp-text="-19.9">-19.9</span> with 2th pick but was worth 10th pick.</li>
+<li>Drafted Clarence Weatherspoon <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.6">-1.6</span> with 9th pick but was worth 10th pick.</li>
+<li>Drafted Alphonso Ford <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.2">-0.2</span> with 32th pick but was worth 43th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Shawn Bradley <span class="badge badge-pill badge-danger" data-bpm-text="-63183" data-vorp-text="-63183.7">-63183</span> with 2th pick but was worth 35th pick.</li>
+<li>Drafted Clarence Weatherspoon <span class="badge badge-pill badge-danger" data-bpm-text="-17729" data-vorp-text="-17729.8">-17729</span> with 9th pick but was worth 37th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -706,16 +727,26 @@ function updateTradeChart() {
   </script>
 
       Jim Lynam ranks in the 0th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added William Njoku, Kebu Stewart to PHI.</li>
-<li>Lost Jayson Williams to NJN.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.4">+0.4</span></h5><ul id=vorp-toggle>
+<li>Added William Njoku <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Kebu Stewart <span class="badge badge-pill badge-success" data-bpm-text="-154" data-vorp-text="+0.0">+0.0</span> to PHI.</li>
+<li>Lost Jayson Williams <span class="badge badge-pill badge-success" data-bpm-text="+18945" data-vorp-text="+0.4">+0.4</span> to NJN.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Jeff Hornacek, Andrew Lang, Tim Perry to PHI.</li>
-<li>Lost Charles Barkley to PHO.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+18791" data-vorp-text="+18791.1">+18791</span></h5><ul id=bpm-toggle>
+<li>Added William Njoku <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Kebu Stewart <span class="badge badge-pill badge-danger" data-bpm-text="-154" data-vorp-text="+0.0">-154</span> to PHI.</li>
+<li>Lost Jayson Williams <span class="badge badge-pill badge-success" data-bpm-text="+18945" data-vorp-text="+0.4">+18945</span> to NJN.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-21" data-vorp-text="-21.9">-21.9</span></h5><ul id=vorp-toggle>
+<li>Added Jeff Malone <span class="badge badge-pill badge-danger" data-bpm-text="-6048" data-vorp-text="-0.6">-0.6</span>, B.J. Tyler <span class="badge badge-pill badge-danger" data-bpm-text="-4045" data-vorp-text="-0.6">-0.6</span> to PHI.</li>
+<li>Lost Sean Green <span class="badge badge-pill badge-success" data-bpm-text="+54" data-vorp-text="+0.0">+0.0</span>, Jeff Hornacek <span class="badge badge-pill badge-danger" data-bpm-text="-52676" data-vorp-text="-20.7">-20.7</span>, Junior Burrough <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to UTA.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-75613" data-vorp-text="-75613.9">-75613</span></h5><ul id=bpm-toggle>
+<li>Added Jeff Hornacek <span class="badge badge-pill badge-success" data-bpm-text="+6457" data-vorp-text="+4.0">+6457</span>, Andrew Lang <span class="badge badge-pill badge-danger" data-bpm-text="-5769" data-vorp-text="-0.6">-5769</span>, Tim Perry <span class="badge badge-pill badge-danger" data-bpm-text="-12043" data-vorp-text="-0.6">-12043</span> to PHI.</li>
+<li>Lost Charles Barkley <span class="badge badge-pill badge-danger" data-bpm-text="-64258" data-vorp-text="-21.4">-64258</span> to PHO.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -856,14 +887,22 @@ function updateSigningChart() {
   </script>
 
       Jim Lynam ranks in the 0th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
       
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Orlando Woolridge in 1993.</li>
-<li>Signed Eric Leckner in 1993.</li>
-<li>Signed Warren Kidd in 1993.</li>
+    
+    
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Eric Leckner <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.9">-0.9</span> in 1993.</li>
+<li>Signed Warren Kidd <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.5">-0.5</span> in 1993.</li>
+<li>Signed Orlando Woolridge <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.5">-0.5</span> in 1993.</li>
 </ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Orlando Woolridge <span class="badge badge-pill badge-danger" data-bpm-text="-6060" data-vorp-text="-6060.5">-6060</span> in 1993.</li>
+<li>Signed Eric Leckner <span class="badge badge-pill badge-danger" data-bpm-text="-5698" data-vorp-text="-5698.7">-5698</span> in 1993.</li>
+<li>Signed Warren Kidd <span class="badge badge-pill badge-danger" data-bpm-text="-3712" data-vorp-text="-3712.8">-3712</span> in 1993.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -875,6 +914,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

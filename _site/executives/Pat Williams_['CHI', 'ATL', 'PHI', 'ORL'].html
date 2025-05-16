@@ -142,16 +142,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -166,6 +174,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -299,6 +308,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -568,18 +579,31 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Pat Williams ranks in the 48th percentile for drafting among executives in our database. Williams's draft picks average out to be worth the equivalent of 3 spots lower than they were picked due to their terrible drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Charles Barkley with 5th pick but was worth 3th pick.</li>
-<li>Drafted Maurice Cheeks with 36th pick but was worth 2th pick.</li>
-<li>Drafted Nick Anderson with 11th pick but was worth 6th pick.</li>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Charles Barkley <span class="badge badge-pill badge-success" data-bpm-text="+51" data-vorp-text="+51.4">+51.4</span> with 5th pick but was worth 3th pick. </li>
+<li>Drafted Maurice Cheeks <span class="badge badge-pill badge-success" data-bpm-text="+42" data-vorp-text="+42.1">+42.1</span> with 36th pick but was worth 2th pick. </li>
+<li>Drafted World B. Free <span class="badge badge-pill badge-success" data-bpm-text="+21" data-vorp-text="+21.4">+21.4</span> with 23th pick but was worth 3th pick. </li>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Darryl Dawkins with 5th pick but was worth 9th pick.</li>
-<li>Drafted Terry Catledge with 21th pick but was worth 61th pick.</li>
-<li>Drafted Earl Cureton with 58th pick but was worth 61th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Charles Barkley <span class="badge badge-pill badge-success" data-bpm-text="+175773" data-vorp-text="+175773.6">+175773</span> with 5th pick but was worth 3th pick. </li>
+<li>Drafted Maurice Cheeks <span class="badge badge-pill badge-success" data-bpm-text="+97566" data-vorp-text="+97566.0">+97566</span> with 36th pick but was worth 2th pick. </li>
+<li>Drafted Nick Anderson <span class="badge badge-pill badge-success" data-bpm-text="+46842" data-vorp-text="+46842.4">+46842</span> with 11th pick but was worth 4th pick. </li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Leon Wood <span class="badge badge-pill badge-danger" data-bpm-text="-12" data-vorp-text="-12.8">-12.8</span> with 10th pick but was worth 18th pick.</li>
+<li>Drafted Darryl Dawkins <span class="badge badge-pill badge-danger" data-bpm-text="-9" data-vorp-text="-9.0">-9.0</span> with 5th pick but was worth 9th pick.</li>
+<li>Drafted Bison Dele <span class="badge badge-pill badge-danger" data-bpm-text="-6" data-vorp-text="-6.4">-6.4</span> with 10th pick but was worth 14th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Darryl Dawkins <span class="badge badge-pill badge-danger" data-bpm-text="-35718" data-vorp-text="-35718.6">-35718</span> with 5th pick but was worth 61th pick.</li>
+<li>Drafted Terry Catledge <span class="badge badge-pill badge-danger" data-bpm-text="-35206" data-vorp-text="-35206.6">-35206</span> with 21th pick but was worth 61th pick.</li>
+<li>Drafted Earl Cureton <span class="badge badge-pill badge-danger" data-bpm-text="-33534" data-vorp-text="-33534.0">-33534</span> with 58th pick but was worth 61th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -721,16 +745,26 @@ function updateTradeChart() {
   </script>
 
       Pat Williams ranks in the 64th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Bobby Jones, Ralph Simpson, Leon Wood to PHI.</li>
-<li>Lost George McGinnis, Mike Evans to DEN.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+24" data-vorp-text="+24.1">+24.1</span></h5><ul id=vorp-toggle>
+<li>Added Anfernee Hardaway <span class="badge badge-pill badge-success" data-bpm-text="+59421" data-vorp-text="+21.9">+21.9</span>, Todd Fuller <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Vince Carter <span class="badge badge-pill badge-success" data-bpm-text="+5815" data-vorp-text="+2.9">+2.9</span>, Mike Miller <span class="badge badge-pill badge-success" data-bpm-text="-754" data-vorp-text="+2.9">+2.9</span> to ORL.</li>
+<li>Lost Chris Webber <span class="badge badge-pill badge-danger" data-bpm-text="-9613" data-vorp-text="-3.6">-3.6</span> to GSW.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Roy Hinson to PHI.</li>
-<li>Lost Brad Daugherty to CLE.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+68498" data-vorp-text="+68498.4">+68498</span></h5><ul id=bpm-toggle>
+<li>Added Bobby Jones <span class="badge badge-pill badge-success" data-bpm-text="+52461" data-vorp-text="+20.9">+52461</span>, Ralph Simpson <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Leon Wood <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to PHI.</li>
+<li>Lost George McGinnis <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Mike Evans <span class="badge badge-pill badge-success" data-bpm-text="+16036" data-vorp-text="+0.4">+16036</span> to DEN.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-21" data-vorp-text="-21.3">-21.3</span></h5><ul id=vorp-toggle>
+<li>Added Roy Hinson <span class="badge badge-pill badge-danger" data-bpm-text="-7165" data-vorp-text="-0.1">-0.1</span> to PHI.</li>
+<li>Lost Brad Daugherty <span class="badge badge-pill badge-danger" data-bpm-text="-43971" data-vorp-text="-21.2">-21.2</span> to CLE.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-51137" data-vorp-text="-51137.6">-51137</span></h5><ul id=bpm-toggle>
+<li>Added Roy Hinson <span class="badge badge-pill badge-danger" data-bpm-text="-7165" data-vorp-text="-0.1">-7165</span> to PHI.</li>
+<li>Lost Brad Daugherty <span class="badge badge-pill badge-danger" data-bpm-text="-43971" data-vorp-text="-21.2">-43971</span> to CLE.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -871,18 +905,30 @@ function updateSigningChart() {
   </script>
 
       Pat Williams ranks in the 9th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Darrell Armstrong in 1995.</li>
-<li>Signed Horace Grant in 1994.</li>
-<li>Signed Ollie Johnson in 1980.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Darrell Armstrong <span class="badge badge-pill badge-success" data-bpm-text="+17" data-vorp-text="+17.8">+17.8</span> in 1995.</li>
+<li>Signed Horace Grant <span class="badge badge-pill badge-success" data-bpm-text="+12" data-vorp-text="+12.5">+12.5</span> in 1994.</li>
+<li>Signed Caldwell Jones <span class="badge badge-pill badge-success" data-bpm-text="+4" data-vorp-text="+4.2">+4.2</span> in 1975.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Jeff Turner in 1989.</li>
-<li>Signed Greg Kite in 1990.</li>
-<li>Signed Marc Iavaroni in 1982.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Darrell Armstrong <span class="badge badge-pill badge-success" data-bpm-text="+42517" data-vorp-text="+42517.4">+42517</span> in 1995.</li>
+<li>Signed Horace Grant <span class="badge badge-pill badge-success" data-bpm-text="+21244" data-vorp-text="+21244.8">+21244</span> in 1994.</li>
+<li>Signed Ollie Johnson <span class="badge badge-pill badge-success" data-bpm-text="+57" data-vorp-text="+57.0">+57</span> in 1980.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Jeff Turner <span class="badge badge-pill badge-danger" data-bpm-text="-5" data-vorp-text="-5.2">-5.2</span> in 1989.</li>
+<li>Signed Greg Kite <span class="badge badge-pill badge-danger" data-bpm-text="-2" data-vorp-text="-2.3">-2.3</span> in 1990.</li>
+<li>Signed Marc Iavaroni <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.0">-1.0</span> in 1982.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Jeff Turner <span class="badge badge-pill badge-danger" data-bpm-text="-37101" data-vorp-text="-37101.6">-37101</span> in 1989.</li>
+<li>Signed Greg Kite <span class="badge badge-pill badge-danger" data-bpm-text="-18611" data-vorp-text="-18611.7">-18611</span> in 1990.</li>
+<li>Signed Marc Iavaroni <span class="badge badge-pill badge-danger" data-bpm-text="-10713" data-vorp-text="-10713.6">-10713</span> in 1982.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -894,6 +940,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

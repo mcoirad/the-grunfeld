@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,12 +567,19 @@ function updateExecDraftPlayersChart() {
 </script>
 
       This executive has only drafted 3 players and thus doesn't have a draft grade.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Jericho Sims with 58th pick but was worth 29th pick.</li>
-</ul>
-      <h5>Some of their biggest busts:</h5>
       
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Jericho Sims <span class="badge badge-pill badge-success" data-bpm-text="+1" data-vorp-text="+1.8">+1.8</span> with 58th pick but was worth 29th pick. </li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Jericho Sims <span class="badge badge-pill badge-success" data-bpm-text="+10859" data-vorp-text="+10859.6">+10859</span> with 58th pick but was worth 38th pick. </li>
+</ul>
+    
+      
+    
+    
+    
+
     </div>
   </div>
 </div>
@@ -703,17 +721,28 @@ function updateTradeChart() {
   </script>
 
       Leon Rose ranks in the 90th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Dani Diez, Bojan Dubljevic, Josh Hart to NYK.</li>
-<li>Lost Ryan Arcidiacono, Cam Reddish, Ante Tomic, Kris Murray to POR.</li>
-<li>Lost Sviatoslav Mykhailiuk to CHO.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+7" data-vorp-text="+7.1">+7.1</span></h5><ul id=vorp-toggle>
+<li>Added Dani Diez <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Bojan Dubljevic <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Josh Hart <span class="badge badge-pill badge-success" data-bpm-text="+10563" data-vorp-text="+5.9">+5.9</span> to NYK.</li>
+<li>Lost Ryan Arcidiacono <span class="badge badge-pill badge-success" data-bpm-text="+1372" data-vorp-text="+0.3">+0.3</span>, Cam Reddish <span class="badge badge-pill badge-success" data-bpm-text="+2373" data-vorp-text="+0.3">+0.3</span>, Ante Tomic <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Kris Murray <span class="badge badge-pill badge-success" data-bpm-text="+7677" data-vorp-text="+0.8">+0.8</span> to POR.</li>
+<li>Lost Sviatoslav Mykhailiuk <span class="badge badge-pill badge-danger" data-bpm-text="+214" data-vorp-text="-0.2">-0.2</span> to CHO.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Keita Bates-Diop, Mikal Bridges, Juan Pablo Vaulet, future 2nd round pick to NYK.</li>
-<li>Lost Bojan Bogdanovic, Mamadi Diakite, Shake Milton, future 1st round pick, future 1st round pick, future 2nd round pick, future 1st round pick, future 1st round pick, future 1st round pick, future 1st round pick to BRK.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+22201" data-vorp-text="+22201.0">+22201</span></h5><ul id=bpm-toggle>
+<li>Added Dani Diez <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Bojan Dubljevic <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Josh Hart <span class="badge badge-pill badge-success" data-bpm-text="+10563" data-vorp-text="+5.9">+10563</span> to NYK.</li>
+<li>Lost Ryan Arcidiacono <span class="badge badge-pill badge-success" data-bpm-text="+1372" data-vorp-text="+0.3">+1372</span>, Cam Reddish <span class="badge badge-pill badge-success" data-bpm-text="+2373" data-vorp-text="+0.3">+2373</span>, Ante Tomic <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Kris Murray <span class="badge badge-pill badge-success" data-bpm-text="+7677" data-vorp-text="+0.8">+7677</span> to POR.</li>
+<li>Lost Sviatoslav Mykhailiuk <span class="badge badge-pill badge-success" data-bpm-text="+214" data-vorp-text="-0.2">+214</span> to CHO.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-43" data-vorp-text="-43.1">-43.1</span></h5><ul id=vorp-toggle>
+<li>Added Keita Bates-Diop <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Mikal Bridges <span class="badge badge-pill badge-success" data-bpm-text="-1780" data-vorp-text="+1.0">+1.0</span>, Juan Pablo Vaulet <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, future 2nd round pick <span class="badge badge-pill badge-success" data-bpm-text="-2496" data-vorp-text="+1.0">+1.0</span> to NYK.</li>
+<li>Lost Bojan Bogdanovic <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Mamadi Diakite <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Shake Milton <span class="badge badge-pill badge-danger" data-bpm-text="+442" data-vorp-text="-0.1">-0.1</span>, future 1st round pick <span class="badge badge-pill badge-danger" data-bpm-text="-4525" data-vorp-text="-7.3">-7.3</span>, future 1st round pick <span class="badge badge-pill badge-danger" data-bpm-text="-4525" data-vorp-text="-7.3">-7.3</span>, future 2nd round pick <span class="badge badge-pill badge-danger" data-bpm-text="+2496" data-vorp-text="-1.0">-1.0</span>, future 1st round pick <span class="badge badge-pill badge-danger" data-bpm-text="-4525" data-vorp-text="-7.3">-7.3</span>, future 1st round pick <span class="badge badge-pill badge-danger" data-bpm-text="-4525" data-vorp-text="-7.3">-7.3</span>, future 1st round pick <span class="badge badge-pill badge-danger" data-bpm-text="-4525" data-vorp-text="-7.3">-7.3</span>, future 1st round pick <span class="badge badge-pill badge-danger" data-bpm-text="-4525" data-vorp-text="-7.3">-7.3</span> to BRK.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-28493" data-vorp-text="-28493.2">-28493</span></h5><ul id=bpm-toggle>
+<li>Added Keita Bates-Diop <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Mikal Bridges <span class="badge badge-pill badge-danger" data-bpm-text="-1780" data-vorp-text="+1.0">-1780</span>, Juan Pablo Vaulet <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, future 2nd round pick <span class="badge badge-pill badge-danger" data-bpm-text="-2496" data-vorp-text="+1.0">-2496</span> to NYK.</li>
+<li>Lost Bojan Bogdanovic <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Mamadi Diakite <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Shake Milton <span class="badge badge-pill badge-success" data-bpm-text="+442" data-vorp-text="-0.1">+442</span>, future 1st round pick <span class="badge badge-pill badge-danger" data-bpm-text="-4525" data-vorp-text="-7.3">-4525</span>, future 1st round pick <span class="badge badge-pill badge-danger" data-bpm-text="-4525" data-vorp-text="-7.3">-4525</span>, future 2nd round pick <span class="badge badge-pill badge-success" data-bpm-text="+2496" data-vorp-text="-1.0">+2496</span>, future 1st round pick <span class="badge badge-pill badge-danger" data-bpm-text="-4525" data-vorp-text="-7.3">-4525</span>, future 1st round pick <span class="badge badge-pill badge-danger" data-bpm-text="-4525" data-vorp-text="-7.3">-4525</span>, future 1st round pick <span class="badge badge-pill badge-danger" data-bpm-text="-4525" data-vorp-text="-7.3">-4525</span>, future 1st round pick <span class="badge badge-pill badge-danger" data-bpm-text="-4525" data-vorp-text="-7.3">-4525</span> to BRK.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -854,18 +883,30 @@ function updateSigningChart() {
   </script>
 
       Leon Rose ranks in the 79th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Jalen Brunson in 2022.</li>
-<li>Signed Donte DiVincenzo in 2023.</li>
-<li>Signed Immanuel Quickley in 2020.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Jalen Brunson <span class="badge badge-pill badge-success" data-bpm-text="+11" data-vorp-text="+11.9">+11.9</span> in 2022.</li>
+<li>Signed Immanuel Quickley <span class="badge badge-pill badge-success" data-bpm-text="+4" data-vorp-text="+4.8">+4.8</span> in 2020.</li>
+<li>Signed Isaiah Hartenstein <span class="badge badge-pill badge-success" data-bpm-text="+3" data-vorp-text="+3.3">+3.3</span> in 2022.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Elfrid Payton in 2020.</li>
-<li>Signed Miles McBride in 2021.</li>
-<li>Signed Landry Shamet in 2024.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Jalen Brunson <span class="badge badge-pill badge-success" data-bpm-text="+32687" data-vorp-text="+32687.9">+32687</span> in 2022.</li>
+<li>Signed Donte DiVincenzo <span class="badge badge-pill badge-success" data-bpm-text="+8024" data-vorp-text="+8024.0">+8024</span> in 2023.</li>
+<li>Signed Immanuel Quickley <span class="badge badge-pill badge-success" data-bpm-text="+7263" data-vorp-text="+7263.9">+7263</span> in 2020.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Elfrid Payton <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.4">-0.4</span> in 2020.</li>
+<li>Signed Taj Gibson <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.2">-0.2</span> in 2024.</li>
+<li>Signed Landry Shamet <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.2">-0.2</span> in 2024.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Elfrid Payton <span class="badge badge-pill badge-danger" data-bpm-text="-4452" data-vorp-text="-4452.0">-4452</span> in 2020.</li>
+<li>Signed Miles McBride <span class="badge badge-pill badge-danger" data-bpm-text="-3554" data-vorp-text="-3554.8">-3554</span> in 2021.</li>
+<li>Signed Landry Shamet <span class="badge badge-pill badge-danger" data-bpm-text="-2260" data-vorp-text="-2260.5">-2260</span> in 2024.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -877,6 +918,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

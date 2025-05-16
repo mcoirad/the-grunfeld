@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,14 +567,22 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Doug Collins ranks in the 76th percentile for drafting among executives in our database. Collins's draft picks average out to be worth the equivalent of 2 spots higher than they were picked due to his good drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Don Reid with 58th pick but was worth 38th pick.</li>
-<li>Drafted Jerome Williams with 26th pick but was worth 14th pick.</li>
-<li>Drafted Lou Roe with 30th pick but was worth 43th pick.</li>
-</ul>
-      <h5>Some of their biggest busts:</h5>
       
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Jerome Williams <span class="badge badge-pill badge-success" data-bpm-text="+7" data-vorp-text="+7.4">+7.4</span> with 26th pick but was worth 14th pick. </li>
+<li>Drafted Don Reid <span class="badge badge-pill badge-success" data-bpm-text="+4" data-vorp-text="+4.1">+4.1</span> with 58th pick but was worth 38th pick. </li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Don Reid <span class="badge badge-pill badge-success" data-bpm-text="+29756" data-vorp-text="+29756.0">+29756</span> with 58th pick but was worth 46th pick. </li>
+<li>Drafted Jerome Williams <span class="badge badge-pill badge-success" data-bpm-text="+4421" data-vorp-text="+4421.9">+4421</span> with 26th pick but was worth 12th pick. </li>
+<li>Drafted Lou Roe <span class="badge badge-pill badge-success" data-bpm-text="+1145" data-vorp-text="+1145.1">+1145</span> with 30th pick but was worth 28th pick. </li>
+</ul>
+    
+      
+    
+    
+    
+
     </div>
   </div>
 </div>
@@ -705,16 +724,26 @@ function updateTradeChart() {
   </script>
 
       Doug Collins ranks in the 56th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Stacey Augmon, Grant Long to DET.</li>
-<li>Lost Alain Digbeau, Cal Bowdler, Dion Glover, Lari Ketner to ATL.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+2" data-vorp-text="+2.4">+2.4</span></h5><ul id=vorp-toggle>
+<li>Added Otis Thorpe <span class="badge badge-pill badge-success" data-bpm-text="-2733" data-vorp-text="+2.1">+2.1</span> to DET.</li>
+<li>Lost Randolph Childress <span class="badge badge-pill badge-success" data-bpm-text="+2012" data-vorp-text="+0.3">+0.3</span>, Bill Curley <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to POR.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Eric Montross, Jerry Stackhouse, Alex Acker to DET.</li>
-<li>Lost Aaron McKie, Theo Ratliff, Carlos Delfino to PHI.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+12388" data-vorp-text="+12388.6">+12388</span></h5><ul id=bpm-toggle>
+<li>Added Stacey Augmon <span class="badge badge-pill badge-danger" data-bpm-text="-963" data-vorp-text="-0.1">-963</span>, Grant Long <span class="badge badge-pill badge-danger" data-bpm-text="-1512" data-vorp-text="+0.6">-1512</span> to DET.</li>
+<li>Lost Alain Digbeau <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Cal Bowdler <span class="badge badge-pill badge-success" data-bpm-text="+4418" data-vorp-text="+0.4">+4418</span>, Dion Glover <span class="badge badge-pill badge-success" data-bpm-text="+10446" data-vorp-text="-0.2">+10446</span>, Lari Ketner <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to ATL.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-5" data-vorp-text="-5.2">-5.2</span></h5><ul id=vorp-toggle>
+<li>Added Eric Montross <span class="badge badge-pill badge-danger" data-bpm-text="-9941" data-vorp-text="-1.6">-1.6</span>, Jerry Stackhouse <span class="badge badge-pill badge-success" data-bpm-text="+24238" data-vorp-text="+12.3">+12.3</span>, Alex Acker <span class="badge badge-pill badge-danger" data-bpm-text="-459" data-vorp-text="-0.1">-0.1</span> to DET.</li>
+<li>Lost Aaron McKie <span class="badge badge-pill badge-danger" data-bpm-text="-11420" data-vorp-text="-9.8">-9.8</span>, Theo Ratliff <span class="badge badge-pill badge-danger" data-bpm-text="-8964" data-vorp-text="-6.0">-6.0</span>, Carlos Delfino <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to PHI.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-6547" data-vorp-text="-6547.4">-6547</span></h5><ul id=bpm-toggle>
+<li>Added Eric Montross <span class="badge badge-pill badge-danger" data-bpm-text="-9941" data-vorp-text="-1.6">-9941</span>, Jerry Stackhouse <span class="badge badge-pill badge-success" data-bpm-text="+24238" data-vorp-text="+12.3">+24238</span>, Alex Acker <span class="badge badge-pill badge-danger" data-bpm-text="-459" data-vorp-text="-0.1">-459</span> to DET.</li>
+<li>Lost Aaron McKie <span class="badge badge-pill badge-danger" data-bpm-text="-11420" data-vorp-text="-9.8">-11420</span>, Theo Ratliff <span class="badge badge-pill badge-danger" data-bpm-text="-8964" data-vorp-text="-6.0">-8964</span>, Carlos Delfino <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to PHI.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -855,16 +884,27 @@ function updateSigningChart() {
   </script>
 
       Doug Collins ranks in the 98th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Kenny Smith in 1996.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Bison Dele <span class="badge badge-pill badge-success" data-bpm-text="+1" data-vorp-text="+1.6">+1.6</span> in 1997.</li>
+<li>Signed Malik Sealy <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.6">+0.6</span> in 1997.</li>
+<li>Signed Kenny Smith <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.1">+0.1</span> in 1996.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Michael Curry in 1996.</li>
-<li>Signed Rick Mahorn in 1996.</li>
-<li>Signed Bison Dele in 1997.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Kenny Smith <span class="badge badge-pill badge-success" data-bpm-text="+140" data-vorp-text="+140.8">+140</span> in 1996.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Michael Curry <span class="badge badge-pill badge-danger" data-bpm-text="-2" data-vorp-text="-2.8">-2.8</span> in 1996.</li>
+<li>Signed Rick Mahorn <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.7">-0.7</span> in 1996.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Michael Curry <span class="badge badge-pill badge-danger" data-bpm-text="-26704" data-vorp-text="-26704.3">-26704</span> in 1996.</li>
+<li>Signed Rick Mahorn <span class="badge badge-pill badge-danger" data-bpm-text="-4712" data-vorp-text="-4712.2">-4712</span> in 1996.</li>
+<li>Signed Bison Dele <span class="badge badge-pill badge-danger" data-bpm-text="-1177" data-vorp-text="-1177.0">-1177</span> in 1997.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -876,6 +916,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

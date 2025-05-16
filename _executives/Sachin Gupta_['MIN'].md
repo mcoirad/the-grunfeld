@@ -26,11 +26,10 @@ is_active: false
 name: Sachin Gupta
 signing_description: 'Sachin Gupta ranks in the 94th percentile for free agency signings
   among executives in our database. '
-signing_lose_list: '<ul>
-
-  <li>Signed Chris Silva in 2021.</li>
-
-  </ul>'
+signing_lose_list: "\n    \n    <h5 id=\"bpm-toggle\">Their worst signings: </h5><ul\
+  \ id=bpm-toggle>\n<li>Signed Chris Silva <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-17\" data-vorp-text=\"-17.4\">-17</span> in 2021.</li>\n</ul>\n\
+  \    "
 signing_num_players: 5
 signing_overall_percentile_bpm: 90
 signing_overall_percentile_vorp: 59
@@ -46,11 +45,12 @@ signing_total_grade_vorp: D-
 signing_total_percentile_bpm: 80
 signing_total_percentile_vorp: 23
 signing_total_vorp: 0
-signing_win_list: '<ul>
-
-  <li>Signed Greg Monroe in 2022.</li>
-
-  </ul>'
+signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
+  <li>Signed Greg Monroe <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +0\" data-vorp-text=\"+0.1\">+0.1</span> in 2022.</li>\n</ul>\n    <h5 id=\"bpm-toggle\"\
+  >Their best signings: </h5><ul id=bpm-toggle>\n<li>Signed Greg Monroe <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+364\" data-vorp-text=\"+364.5\"\
+  >+364</span> in 2022.</li>\n</ul>\n    "
 start_year: 2021
 team:
 - Minnesota Timberwolves
@@ -58,7 +58,7 @@ team_shortcode:
 - MIN
 trade_description: This executive hasn't traded any players, and thus doesn't have
   a trade grade.
-trade_lose_list: null
+trade_lose_list: "\n    \n    \n    "
 trade_num: 0
 trade_overall_percentile_bpm: null
 trade_overall_percentile_vorp: null
@@ -74,5 +74,5 @@ trade_total_grade_vorp: B-
 trade_total_percentile_bpm: 48
 trade_total_percentile_vorp: 61
 trade_total_vorp: 0
-trade_win_list: null
+trade_win_list: "\n    \n    \n    "
 ---

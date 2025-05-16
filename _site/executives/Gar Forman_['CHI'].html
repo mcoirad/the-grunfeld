@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,18 +567,31 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Gar Forman ranks in the 64th percentile for drafting among executives in our database. That's basically average. It could worse though lol.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Jimmy Butler with 30th pick but was worth 1th pick.</li>
-<li>Drafted Cameron Bairstow with 49th pick but was worth 42th pick.</li>
-<li>Drafted James Johnson with 16th pick but was worth 14th pick.</li>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Jimmy Butler <span class="badge badge-pill badge-success" data-bpm-text="+50" data-vorp-text="+50.4">+50.4</span> with 30th pick but was worth 1th pick. </li>
+<li>Drafted Taj Gibson <span class="badge badge-pill badge-success" data-bpm-text="+5" data-vorp-text="+5.1">+5.1</span> with 26th pick but was worth 17th pick. </li>
+<li>Drafted Bobby Portis <span class="badge badge-pill badge-success" data-bpm-text="+3" data-vorp-text="+3.7">+3.7</span> with 22th pick but was worth 13th pick. </li>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Coby White with 7th pick but was worth 17th pick.</li>
-<li>Drafted Tony Snell with 20th pick but was worth 41th pick.</li>
-<li>Drafted Taj Gibson with 26th pick but was worth 17th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Jimmy Butler <span class="badge badge-pill badge-success" data-bpm-text="+145285" data-vorp-text="+145285.0">+145285</span> with 30th pick but was worth 2th pick. </li>
+<li>Drafted Cameron Bairstow <span class="badge badge-pill badge-success" data-bpm-text="+8674" data-vorp-text="+8674.3">+8674</span> with 49th pick but was worth 22th pick. </li>
+<li>Drafted James Johnson <span class="badge badge-pill badge-success" data-bpm-text="+6224" data-vorp-text="+6224.4">+6224</span> with 16th pick but was worth 14th pick. </li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Coby White <span class="badge badge-pill badge-danger" data-bpm-text="-5" data-vorp-text="-5.6">-5.6</span> with 7th pick but was worth 17th pick.</li>
+<li>Drafted Wendell Carter Jr. <span class="badge badge-pill badge-danger" data-bpm-text="-4" data-vorp-text="-4.2">-4.2</span> with 7th pick but was worth 15th pick.</li>
+<li>Drafted Chandler Hutchison <span class="badge badge-pill badge-danger" data-bpm-text="-3" data-vorp-text="-3.1">-3.1</span> with 22th pick but was worth 56th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Coby White <span class="badge badge-pill badge-danger" data-bpm-text="-27083" data-vorp-text="-27083.1">-27083</span> with 7th pick but was worth 57th pick.</li>
+<li>Drafted Tony Snell <span class="badge badge-pill badge-danger" data-bpm-text="-26184" data-vorp-text="-26184.0">-26184</span> with 20th pick but was worth 57th pick.</li>
+<li>Drafted Taj Gibson <span class="badge badge-pill badge-danger" data-bpm-text="-20762" data-vorp-text="-20762.1">-20762</span> with 26th pick but was worth 57th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -709,16 +733,26 @@ function updateTradeChart() {
   </script>
 
       Gar Forman ranks in the 64th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Vladimir Veremeenko to CHI.</li>
-<li>Lost Kirk Hinrich, Kevin Séraphin to WAS.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+4" data-vorp-text="+4.8">+4.8</span></h5><ul id=vorp-toggle>
+<li>Added Carlos Boozer <span class="badge badge-pill badge-success" data-bpm-text="+2390" data-vorp-text="+4.8">+4.8</span>, Malcolm Lee <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to CHI.</li>
+<li>Lost Mario Austin <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to UTA.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Kris Dunn, Zach LaVine, Lauri Markkanen to CHI.</li>
-<li>Lost Jimmy Butler, Justin Patton to MIN.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+25015" data-vorp-text="+25015.8">+25015</span></h5><ul id=bpm-toggle>
+<li>Added Vladimir Veremeenko <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to CHI.</li>
+<li>Lost Kirk Hinrich <span class="badge badge-pill badge-success" data-bpm-text="+1471" data-vorp-text="-0.4">+1471</span>, Kevin Séraphin <span class="badge badge-pill badge-success" data-bpm-text="+23544" data-vorp-text="+3.3">+23544</span> to WAS.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-8" data-vorp-text="-8.1">-8.1</span></h5><ul id=vorp-toggle>
+<li>Didn't receive any players or picks.</li>
+<li>Lost Kyle Korver <span class="badge badge-pill badge-danger" data-bpm-text="-10726" data-vorp-text="-8.1">-8.1</span> to ATL.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-23057" data-vorp-text="-23057.9">-23057</span></h5><ul id=bpm-toggle>
+<li>Added Kris Dunn <span class="badge badge-pill badge-danger" data-bpm-text="-6494" data-vorp-text="+0.5">-6494</span>, Zach LaVine <span class="badge badge-pill badge-danger" data-bpm-text="-1508" data-vorp-text="-0.1">-1508</span>, Lauri Markkanen <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to CHI.</li>
+<li>Lost Jimmy Butler <span class="badge badge-pill badge-danger" data-bpm-text="-15042" data-vorp-text="-5.0">-15042</span>, Justin Patton <span class="badge badge-pill badge-danger" data-bpm-text="-12" data-vorp-text="+0.0">-12</span> to MIN.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -859,18 +893,30 @@ function updateSigningChart() {
   </script>
 
       Gar Forman ranks in the 76th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Zach LaVine in 2018.</li>
-<li>Signed Pau Gasol in 2014.</li>
-<li>Signed Nikola Mirotić in 2014.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Zach LaVine <span class="badge badge-pill badge-success" data-bpm-text="+14" data-vorp-text="+14.1">+14.1</span> in 2018.</li>
+<li>Signed Pau Gasol <span class="badge badge-pill badge-success" data-bpm-text="+7" data-vorp-text="+7.7">+7.7</span> in 2014.</li>
+<li>Signed Nikola Mirotić <span class="badge badge-pill badge-success" data-bpm-text="+4" data-vorp-text="+4.4">+4.4</span> in 2014.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Kirk Hinrich in 2012.</li>
-<li>Signed Doug McDermott in 2014.</li>
-<li>Signed Cristiano Felício in 2017.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Zach LaVine <span class="badge badge-pill badge-success" data-bpm-text="+28310" data-vorp-text="+28310.1">+28310</span> in 2018.</li>
+<li>Signed Pau Gasol <span class="badge badge-pill badge-success" data-bpm-text="+20609" data-vorp-text="+20609.4">+20609</span> in 2014.</li>
+<li>Signed Nikola Mirotić <span class="badge badge-pill badge-success" data-bpm-text="+7448" data-vorp-text="+7448.5">+7448</span> in 2014.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Cristiano Felício <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.0">-1.0</span> in 2017.</li>
+<li>Signed Doug McDermott <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.7">-0.7</span> in 2014.</li>
+<li>Signed Antonio Blakeney <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.7">-0.7</span> in 2018.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Kirk Hinrich <span class="badge badge-pill badge-danger" data-bpm-text="-11819" data-vorp-text="-11819.6">-11819</span> in 2012.</li>
+<li>Signed Doug McDermott <span class="badge badge-pill badge-danger" data-bpm-text="-9586" data-vorp-text="-9586.7">-9586</span> in 2014.</li>
+<li>Signed Cristiano Felício <span class="badge badge-pill badge-danger" data-bpm-text="-8057" data-vorp-text="-8057.1">-8057</span> in 2017.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -882,6 +928,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

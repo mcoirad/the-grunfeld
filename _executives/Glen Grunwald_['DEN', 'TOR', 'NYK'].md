@@ -1,14 +1,13 @@
 ---
 bpm_rank: 150
-draft_bust_list: '<ul>
-
-  <li>Drafted Tim Hardaway Jr. with 24th pick but was worth 12th pick.</li>
-
-  <li>Drafted Michael Bradley with 17th pick but was worth 50th pick.</li>
-
-  <li>Drafted Morris Peterson with 21th pick but was worth 7th pick.</li>
-
-  </ul>'
+draft_bust_list: "\n    \n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Tim Hardaway Jr. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-26344\" data-vorp-text=\"-26344.8\">-26344</span> with 24th pick\
+  \ but was worth 58th pick.</li>\n<li>Drafted Michael Bradley <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-8064\" data-vorp-text=\"-8064.0\">-8064</span>\
+  \ with 17th pick but was worth 46th pick.</li>\n<li>Drafted Morris Peterson <span\
+  \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-6550\" data-vorp-text=\"\
+  -6550.8\">-6550</span> with 21th pick but was worth 35th pick.</li>\n</ul>\n    "
 draft_description: Glen Grunwald ranks in the 32th percentile for drafting among executives
   in our database. Grunwald's draft picks average out to be worth the equivalent of
   8 spots lower than they were picked due to their terrible drafting.
@@ -26,11 +25,15 @@ draft_total_grade_vorp: B
 draft_total_percentile_bpm: 68
 draft_total_percentile_vorp: 68
 draft_total_vorp: 27
-draft_win_list: '<ul>
-
-  <li>Drafted Chris Bosh with 4th pick but was worth 4th pick.</li>
-
-  </ul>'
+draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
+  <li>Drafted Morris Peterson <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +7\" data-vorp-text=\"+7.6\">+7.6</span> with 21th pick but was worth 7th pick.\
+  \ </li>\n<li>Drafted Tim Hardaway Jr. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+3\" data-vorp-text=\"+3.7\">+3.7</span> with 24th pick but was\
+  \ worth 12th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Chris Bosh <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+4110\" data-vorp-text=\"+4110.2\">+4110</span> with 4th pick\
+  \ but was worth 3th pick. </li>\n</ul>\n    "
 end_year: 2013
 final_bpm: -131828
 final_vorp: -3
@@ -39,15 +42,19 @@ is_active: false
 name: Glen Grunwald
 signing_description: 'Glen Grunwald ranks in the 58th percentile for free agency signings
   among executives in our database. '
-signing_lose_list: '<ul>
-
-  <li>Signed Milt Palacio in 2003.</li>
-
-  <li>Signed Michael Stewart in 1999.</li>
-
-  <li>Signed Jelani McCoy in 2002.</li>
-
-  </ul>'
+signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul id=vorp-toggle>\n\
+  <li>Signed Michael Stewart <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -1\" data-vorp-text=\"-1.1\">-1.1</span> in 1999.</li>\n<li>Signed Milt Palacio\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-1\" data-vorp-text=\"\
+  -1.1\">-1.1</span> in 2003.</li>\n<li>Signed Greg Foster <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.9\">-0.9</span> in 2002.</li>\n\
+  </ul>\n    <h5 id=\"bpm-toggle\">Their worst signings: </h5><ul id=bpm-toggle>\n\
+  <li>Signed Milt Palacio <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -9766\" data-vorp-text=\"-9766.4\">-9766</span> in 2003.</li>\n<li>Signed Michael\
+  \ Stewart <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-6329\"\
+  \ data-vorp-text=\"-6329.1\">-6329</span> in 1999.</li>\n<li>Signed Jelani McCoy\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-5194\" data-vorp-text=\"\
+  -5194.6\">-5194</span> in 2002.</li>\n</ul>\n    "
 signing_num_players: 68
 signing_overall_percentile_bpm: 32
 signing_overall_percentile_vorp: 62
@@ -63,15 +70,19 @@ signing_total_grade_vorp: B-
 signing_total_percentile_bpm: 36
 signing_total_percentile_vorp: 66
 signing_total_vorp: 15
-signing_win_list: '<ul>
-
-  <li>Signed Jason Kidd in 2012.</li>
-
-  <li>Signed J.R. Smith in 2012.</li>
-
-  <li>Signed Steve Novak in 2011.</li>
-
-  </ul>'
+signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
+  <li>Signed J.R. Smith <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +3\" data-vorp-text=\"+3.2\">+3.2</span> in 2012.</li>\n<li>Signed Jason Kidd <span\
+  \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+2\" data-vorp-text=\"\
+  +2.7\">+2.7</span> in 2012.</li>\n<li>Signed Steve Novak <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+2\" data-vorp-text=\"+2.5\">+2.5</span> in 2011.</li>\n\
+  </ul>\n    <h5 id=\"bpm-toggle\">Their best signings: </h5><ul id=bpm-toggle>\n\
+  <li>Signed Jason Kidd <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +6741\" data-vorp-text=\"+6741.9\">+6741</span> in 2012.</li>\n<li>Signed J.R. Smith\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+5512\" data-vorp-text=\"\
+  +5512.1\">+5512</span> in 2012.</li>\n<li>Signed Steve Novak <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+4346\" data-vorp-text=\"+4346.1\"\
+  >+4346</span> in 2011.</li>\n</ul>\n    "
 start_year: 2011
 team:
 - Denver Nuggets
@@ -83,13 +94,18 @@ team_shortcode:
 - NYK
 trade_description: 'Glen Grunwald ranks in the 22th percentile for trading among executives
   in our database. '
-trade_lose_list: '<ul>
-
-  <li>Added Fran Vázquez to TOR.</li>
-
-  <li>Lost Tracy McGrady to ORL.</li>
-
-  </ul>'
+trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-28\" data-vorp-text=\"-28.4\">-28.4</span></h5><ul\
+  \ id=vorp-toggle>\n<li>Added Fran Vázquez <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0.0</span> to TOR.</li>\n<li>Lost\
+  \ Tracy McGrady <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-89547\"\
+  \ data-vorp-text=\"-28.4\">-28.4</span> to ORL.</li>\n</ul>\n    <h5 id=\"bpm-toggle\"\
+  >Their biggest L: <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -89547\" data-vorp-text=\"-89547.6\">-89547</span></h5><ul id=bpm-toggle>\n<li>Added\
+  \ Fran Vázquez <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+0\"\
+  \ data-vorp-text=\"+0.0\">+0</span> to TOR.</li>\n<li>Lost Tracy McGrady <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-89547\" data-vorp-text=\"-28.4\"\
+  >-89547</span> to ORL.</li>\n</ul>\n    "
 trade_num: 127
 trade_overall_percentile_bpm: 24
 trade_overall_percentile_vorp: 16
@@ -105,11 +121,16 @@ trade_total_grade_vorp: F
 trade_total_percentile_bpm: 8
 trade_total_percentile_vorp: 10
 trade_total_vorp: -45
-trade_win_list: '<ul>
-
-  <li>Added Vince Carter to TOR.</li>
-
-  <li>Lost Antawn Jamison to GSW.</li>
-
-  </ul>'
+trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+19\" data-vorp-text=\"+19.2\">+19.2</span></h5><ul\
+  \ id=vorp-toggle>\n<li>Added Vince Carter <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+73299\" data-vorp-text=\"+26.1\">+26.1</span> to TOR.</li>\n\
+  <li>Lost Antawn Jamison <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -3090\" data-vorp-text=\"-6.9\">-6.9</span> to GSW.</li>\n</ul>\n    <h5 id=\"bpm-toggle\"\
+  >Their biggest win: <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +70208\" data-vorp-text=\"+70208.9\">+70208</span></h5><ul id=bpm-toggle>\n<li>Added\
+  \ Vince Carter <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+73299\"\
+  \ data-vorp-text=\"+26.1\">+73299</span> to TOR.</li>\n<li>Lost Antawn Jamison <span\
+  \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-3090\" data-vorp-text=\"\
+  -6.9\">-3090</span> to GSW.</li>\n</ul>\n    "
 ---

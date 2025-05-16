@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,11 +567,17 @@ function updateExecDraftPlayersChart() {
 </script>
 
       This executive has only drafted 3 players and thus doesn't have a draft grade.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-</ul>
-      <h5>Some of their biggest busts:</h5>
       
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+</ul>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+</ul>
+    
+      
+    
+    
+    
+
     </div>
   </div>
 </div>
@@ -702,16 +719,26 @@ function updateTradeChart() {
   </script>
 
       Brad Stevens ranks in the 76th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Derrick White to BOS.</li>
-<li>Lost Romeo Langford, Josh Richardson, Blake Wesley to SAS.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+11" data-vorp-text="+11.9">+11.9</span></h5><ul id=vorp-toggle>
+<li>Added Derrick White <span class="badge badge-pill badge-success" data-bpm-text="+22604" data-vorp-text="+9.8">+9.8</span> to BOS.</li>
+<li>Lost Romeo Langford <span class="badge badge-pill badge-success" data-bpm-text="+3725" data-vorp-text="+0.5">+0.5</span>, Josh Richardson <span class="badge badge-pill badge-danger" data-bpm-text="+1199" data-vorp-text="-0.4">-0.4</span>, Blake Wesley <span class="badge badge-pill badge-success" data-bpm-text="+12268" data-vorp-text="+2.0">+2.0</span> to SAS.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Juan Hernangomez to BOS.</li>
-<li>Lost Kris Dunn, Carsen Edwards to MEM.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+39797" data-vorp-text="+39797.5">+39797</span></h5><ul id=bpm-toggle>
+<li>Added Derrick White <span class="badge badge-pill badge-success" data-bpm-text="+22604" data-vorp-text="+9.8">+22604</span> to BOS.</li>
+<li>Lost Romeo Langford <span class="badge badge-pill badge-success" data-bpm-text="+3725" data-vorp-text="+0.5">+3725</span>, Josh Richardson <span class="badge badge-pill badge-success" data-bpm-text="+1199" data-vorp-text="-0.4">+1199</span>, Blake Wesley <span class="badge badge-pill badge-success" data-bpm-text="+12268" data-vorp-text="+2.0">+12268</span> to SAS.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-1.0">-1.0</span></h5><ul id=vorp-toggle>
+<li>Added future 2nd round pick <span class="badge badge-pill badge-success" data-bpm-text="-2496" data-vorp-text="+1.0">+1.0</span> to BOS.</li>
+<li>Lost Jaden Springer <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, future 2nd round pick <span class="badge badge-pill badge-danger" data-bpm-text="+2496" data-vorp-text="-1.0">-1.0</span>, future 2nd round pick <span class="badge badge-pill badge-danger" data-bpm-text="+2496" data-vorp-text="-1.0">-1.0</span> to HOU.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-796" data-vorp-text="-796.8">-796</span></h5><ul id=bpm-toggle>
+<li>Added Juan Hernangomez <span class="badge badge-pill badge-danger" data-bpm-text="-796" data-vorp-text="-0.2">-796</span> to BOS.</li>
+<li>Lost Kris Dunn <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Carsen Edwards <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to MEM.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -852,18 +879,30 @@ function updateSigningChart() {
   </script>
 
       Brad Stevens ranks in the 84th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Luke Kornet in 2024.</li>
-<li>Signed Luke Kornet in 2022.</li>
-<li>Signed Sam Hauser in 2022.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Sam Hauser <span class="badge badge-pill badge-success" data-bpm-text="+3" data-vorp-text="+3.3">+3.3</span> in 2022.</li>
+<li>Signed Luke Kornet <span class="badge badge-pill badge-success" data-bpm-text="+1" data-vorp-text="+1.9">+1.9</span> in 2022.</li>
+<li>Signed Luke Kornet <span class="badge badge-pill badge-success" data-bpm-text="+1" data-vorp-text="+1.7">+1.7</span> in 2024.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Jordan Walsh in 2023.</li>
-<li>Signed Xavier Tillman Sr. in 2024.</li>
-<li>Signed Dennis Schroder in 2021.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Luke Kornet <span class="badge badge-pill badge-success" data-bpm-text="+4336" data-vorp-text="+4336.2">+4336</span> in 2024.</li>
+<li>Signed Luke Kornet <span class="badge badge-pill badge-success" data-bpm-text="+4146" data-vorp-text="+4146.2">+4146</span> in 2022.</li>
+<li>Signed Sam Hauser <span class="badge badge-pill badge-success" data-bpm-text="+4124" data-vorp-text="+4124.2">+4124</span> in 2022.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Xavier Tillman Sr. <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.4">-0.4</span> in 2024.</li>
+<li>Signed Noah Vonleh <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.2">-0.2</span> in 2022.</li>
+<li>Signed Jordan Walsh <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.2">-0.2</span> in 2023.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Jordan Walsh <span class="badge badge-pill badge-danger" data-bpm-text="-1949" data-vorp-text="-1949.4">-1949</span> in 2023.</li>
+<li>Signed Xavier Tillman Sr. <span class="badge badge-pill badge-danger" data-bpm-text="-1871" data-vorp-text="-1871.1">-1871</span> in 2024.</li>
+<li>Signed Dennis Schroder <span class="badge badge-pill badge-danger" data-bpm-text="-1719" data-vorp-text="-1719.6">-1719</span> in 2021.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -875,6 +914,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

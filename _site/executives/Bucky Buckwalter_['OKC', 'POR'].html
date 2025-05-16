@@ -134,16 +134,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -158,6 +166,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -291,6 +300,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -560,18 +571,30 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Bucky Buckwalter ranks in the 49th percentile for drafting among executives in our database. Buckwalter's draft picks average out to be worth the equivalent of 3 spots lower than they were picked due to their terrible drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Arvydas Sabonis with 24th pick but was worth 7th pick.</li>
-<li>Drafted Clifford Robinson with 36th pick but was worth 4th pick.</li>
-<li>Drafted Reggie Smith with 31th pick but was worth 41th pick.</li>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Clifford Robinson <span class="badge badge-pill badge-success" data-bpm-text="+26" data-vorp-text="+26.9">+26.9</span> with 36th pick but was worth 4th pick. </li>
+<li>Drafted Arvydas Sabonis <span class="badge badge-pill badge-success" data-bpm-text="+17" data-vorp-text="+17.2">+17.2</span> with 24th pick but was worth 7th pick. </li>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Mark Bryant with 21th pick but was worth 61th pick.</li>
-<li>Drafted Alaa Abdelnaby with 25th pick but was worth 46th pick.</li>
-<li>Drafted Dave Johnson with 26th pick but was worth 46th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Arvydas Sabonis <span class="badge badge-pill badge-success" data-bpm-text="+50050" data-vorp-text="+50050.0">+50050</span> with 24th pick but was worth 5th pick. </li>
+<li>Drafted Clifford Robinson <span class="badge badge-pill badge-success" data-bpm-text="+26321" data-vorp-text="+26321.9">+26321</span> with 36th pick but was worth 7th pick. </li>
+<li>Drafted Reggie Smith <span class="badge badge-pill badge-success" data-bpm-text="+1479" data-vorp-text="+1479.6">+1479</span> with 31th pick but was worth 29th pick. </li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Mark Bryant <span class="badge badge-pill badge-danger" data-bpm-text="-5" data-vorp-text="-5.5">-5.5</span> with 21th pick but was worth 61th pick.</li>
+<li>Drafted Ronnie Murphy <span class="badge badge-pill badge-danger" data-bpm-text="-3" data-vorp-text="-3.7">-3.7</span> with 17th pick but was worth 61th pick.</li>
+<li>Drafted Alaa Abdelnaby <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.5">-1.5</span> with 25th pick but was worth 46th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Mark Bryant <span class="badge badge-pill badge-danger" data-bpm-text="-43132" data-vorp-text="-43132.8">-43132</span> with 21th pick but was worth 61th pick.</li>
+<li>Drafted Alaa Abdelnaby <span class="badge badge-pill badge-danger" data-bpm-text="-5186" data-vorp-text="-5186.2">-5186</span> with 25th pick but was worth 35th pick.</li>
+<li>Drafted Dave Johnson <span class="badge badge-pill badge-danger" data-bpm-text="-2243" data-vorp-text="-2243.5">-2243</span> with 26th pick but was worth 32th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -713,16 +736,26 @@ function updateTradeChart() {
   </script>
 
       Bucky Buckwalter ranks in the 77th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Danny Ainge to POR.</li>
-<li>Lost Byron Irvin, Pete Chilcutt, Brett Roberts to SAC.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+4" data-vorp-text="+4.2">+4.2</span></h5><ul id=vorp-toggle>
+<li>Added Danny Ainge <span class="badge badge-pill badge-success" data-bpm-text="+9357" data-vorp-text="+4.1">+4.1</span> to POR.</li>
+<li>Lost Byron Irvin <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Pete Chilcutt <span class="badge badge-pill badge-success" data-bpm-text="+5652" data-vorp-text="+0.1">+0.1</span>, Brett Roberts <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to SAC.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Kevin Duckworth to POR.</li>
-<li>Lost Walter Berry to SAS.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+15010" data-vorp-text="+15010.3">+15010</span></h5><ul id=bpm-toggle>
+<li>Added Danny Ainge <span class="badge badge-pill badge-success" data-bpm-text="+9357" data-vorp-text="+4.1">+9357</span> to POR.</li>
+<li>Lost Byron Irvin <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Pete Chilcutt <span class="badge badge-pill badge-success" data-bpm-text="+5652" data-vorp-text="+0.1">+5652</span>, Brett Roberts <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to SAC.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-5" data-vorp-text="-5.6">-5.6</span></h5><ul id=vorp-toggle>
+<li>Added Kevin Duckworth <span class="badge badge-pill badge-danger" data-bpm-text="-47972" data-vorp-text="-4.7">-4.7</span> to POR.</li>
+<li>Lost Walter Berry <span class="badge badge-pill badge-danger" data-bpm-text="+3589" data-vorp-text="-0.9">-0.9</span> to SAS.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-44383" data-vorp-text="-44383.3">-44383</span></h5><ul id=bpm-toggle>
+<li>Added Kevin Duckworth <span class="badge badge-pill badge-danger" data-bpm-text="-47972" data-vorp-text="-4.7">-47972</span> to POR.</li>
+<li>Lost Walter Berry <span class="badge badge-pill badge-success" data-bpm-text="+3589" data-vorp-text="-0.9">+3589</span> to SAS.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -863,18 +896,30 @@ function updateSigningChart() {
   </script>
 
       Bucky Buckwalter ranks in the 41th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Rod Strickland in 1992.</li>
-<li>Signed Danny Young in 1988.</li>
-<li>Signed Ennis Whatley in 1991.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Rod Strickland <span class="badge badge-pill badge-success" data-bpm-text="+14" data-vorp-text="+14.8">+14.8</span> in 1992.</li>
+<li>Signed Danny Young <span class="badge badge-pill badge-success" data-bpm-text="+2" data-vorp-text="+2.1">+2.1</span> in 1988.</li>
+<li>Signed Ennis Whatley <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.2">+0.2</span> in 1991.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Mike Holton in 1986.</li>
-<li>Signed Wayne Cooper in 1989.</li>
-<li>Signed Maurice Lucas in 1987.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Rod Strickland <span class="badge badge-pill badge-success" data-bpm-text="+37778" data-vorp-text="+37778.5">+37778</span> in 1992.</li>
+<li>Signed Danny Young <span class="badge badge-pill badge-success" data-bpm-text="+1595" data-vorp-text="+1595.0">+1595</span> in 1988.</li>
+<li>Signed Ennis Whatley <span class="badge badge-pill badge-success" data-bpm-text="+220" data-vorp-text="+220.0">+220</span> in 1991.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Fernando Martín <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.3">-0.3</span> in 1986.</li>
+<li>Signed Charles Jones <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.2">-0.2</span> in 1987.</li>
+<li>Signed Mike Holton <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.1">-0.1</span> in 1986.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Mike Holton <span class="badge badge-pill badge-danger" data-bpm-text="-3786" data-vorp-text="-3786.6">-3786</span> in 1986.</li>
+<li>Signed Wayne Cooper <span class="badge badge-pill badge-danger" data-bpm-text="-3700" data-vorp-text="-3700.4">-3700</span> in 1989.</li>
+<li>Signed Maurice Lucas <span class="badge badge-pill badge-danger" data-bpm-text="-2620" data-vorp-text="-2620.2">-2620</span> in 1987.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -886,6 +931,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

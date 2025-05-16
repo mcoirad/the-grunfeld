@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,18 +567,31 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Joe Dumars ranks in the 74th percentile for drafting among executives in our database. Dumars's draft picks average out to be worth the equivalent of 2 spots higher than they were picked due to his good drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Mehmet Okur with 38th pick but was worth 11th pick.</li>
-<li>Drafted Peyton Siva with 56th pick but was worth 46th pick.</li>
-<li>Drafted Andre Drummond with 9th pick but was worth 5th pick.</li>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Tayshaun Prince <span class="badge badge-pill badge-success" data-bpm-text="+18" data-vorp-text="+18.0">+18.0</span> with 23th pick but was worth 5th pick. </li>
+<li>Drafted Mehmet Okur <span class="badge badge-pill badge-success" data-bpm-text="+14" data-vorp-text="+14.7">+14.7</span> with 38th pick but was worth 11th pick. </li>
+<li>Drafted Andre Drummond <span class="badge badge-pill badge-success" data-bpm-text="+10" data-vorp-text="+10.6">+10.6</span> with 9th pick but was worth 5th pick. </li>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Darko Miličić with 2th pick but was worth 53th pick.</li>
-<li>Drafted Brandon Knight with 8th pick but was worth 22th pick.</li>
-<li>Drafted Kentavious Caldwell-Pope with 8th pick but was worth 9th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Mehmet Okur <span class="badge badge-pill badge-success" data-bpm-text="+24626" data-vorp-text="+24626.1">+24626</span> with 38th pick but was worth 7th pick. </li>
+<li>Drafted Peyton Siva <span class="badge badge-pill badge-success" data-bpm-text="+22898" data-vorp-text="+22898.8">+22898</span> with 56th pick but was worth 30th pick. </li>
+<li>Drafted Andre Drummond <span class="badge badge-pill badge-success" data-bpm-text="+21439" data-vorp-text="+21439.0">+21439</span> with 9th pick but was worth 5th pick. </li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Darko Miličić <span class="badge badge-pill badge-danger" data-bpm-text="-63" data-vorp-text="-63.7">-63.7</span> with 2th pick but was worth 53th pick.</li>
+<li>Drafted Brandon Knight <span class="badge badge-pill badge-danger" data-bpm-text="-15" data-vorp-text="-15.9">-15.9</span> with 8th pick but was worth 22th pick.</li>
+<li>Drafted Austin Daye <span class="badge badge-pill badge-danger" data-bpm-text="-8" data-vorp-text="-8.5">-8.5</span> with 15th pick but was worth 39th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Darko Miličić <span class="badge badge-pill badge-danger" data-bpm-text="-199596" data-vorp-text="-199596.2">-199596</span> with 2th pick but was worth 47th pick.</li>
+<li>Drafted Brandon Knight <span class="badge badge-pill badge-danger" data-bpm-text="-44681" data-vorp-text="-44681.2">-44681</span> with 8th pick but was worth 55th pick.</li>
+<li>Drafted Kentavious Caldwell-Pope <span class="badge badge-pill badge-danger" data-bpm-text="-34201" data-vorp-text="-34201.4">-34201</span> with 8th pick but was worth 56th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -709,16 +733,26 @@ function updateTradeChart() {
   </script>
 
       Joe Dumars ranks in the 65th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Chucky Atkins, Ben Wallace to DET.</li>
-<li>Lost Grant Hill to ORL.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+18" data-vorp-text="+18.1">+18.1</span></h5><ul id=vorp-toggle>
+<li>Added Chucky Atkins <span class="badge badge-pill badge-success" data-bpm-text="-10370" data-vorp-text="+1.2">+1.2</span>, Ben Wallace <span class="badge badge-pill badge-success" data-bpm-text="+57569" data-vorp-text="+23.3">+23.3</span> to DET.</li>
+<li>Lost Grant Hill <span class="badge badge-pill badge-danger" data-bpm-text="-12788" data-vorp-text="-6.4">-6.4</span> to ORL.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Allen Iverson to DET.</li>
-<li>Lost Chauncey Billups, Antonio McDyess, Cheikh Samb to DEN.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+34411" data-vorp-text="+34411.5">+34411</span></h5><ul id=bpm-toggle>
+<li>Added Chucky Atkins <span class="badge badge-pill badge-danger" data-bpm-text="-10370" data-vorp-text="+1.2">-10370</span>, Ben Wallace <span class="badge badge-pill badge-success" data-bpm-text="+57569" data-vorp-text="+23.3">+57569</span> to DET.</li>
+<li>Lost Grant Hill <span class="badge badge-pill badge-danger" data-bpm-text="-12788" data-vorp-text="-6.4">-12788</span> to ORL.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-16" data-vorp-text="-16.2">-16.2</span></h5><ul id=vorp-toggle>
+<li>Added Brandon Jennings <span class="badge badge-pill badge-success" data-bpm-text="+4143" data-vorp-text="+3.2">+3.2</span> to DET.</li>
+<li>Lost Brandon Knight <span class="badge badge-pill badge-danger" data-bpm-text="-3020" data-vorp-text="-2.8">-2.8</span>, Viacheslav Kravtsov <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Khris Middleton <span class="badge badge-pill badge-danger" data-bpm-text="-18929" data-vorp-text="-16.6">-16.6</span> to MIL.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-22546" data-vorp-text="-22546.6">-22546</span></h5><ul id=bpm-toggle>
+<li>Added Allen Iverson <span class="badge badge-pill badge-success" data-bpm-text="+394" data-vorp-text="+1.1">+394</span> to DET.</li>
+<li>Lost Chauncey Billups <span class="badge badge-pill badge-danger" data-bpm-text="-23231" data-vorp-text="-9.4">-23231</span>, Antonio McDyess <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Cheikh Samb <span class="badge badge-pill badge-success" data-bpm-text="+290" data-vorp-text="+0.1">+290</span> to DEN.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -859,18 +893,30 @@ function updateSigningChart() {
   </script>
 
       Joe Dumars ranks in the 77th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Chauncey Billups in 2002.</li>
-<li>Signed Ben Wallace in 2009.</li>
-<li>Signed Chris Webber in 2007.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Chauncey Billups <span class="badge badge-pill badge-success" data-bpm-text="+28" data-vorp-text="+28.6">+28.6</span> in 2002.</li>
+<li>Signed Antonio McDyess <span class="badge badge-pill badge-success" data-bpm-text="+4" data-vorp-text="+4.4">+4.4</span> in 2004.</li>
+<li>Signed Ben Wallace <span class="badge badge-pill badge-success" data-bpm-text="+3" data-vorp-text="+3.2">+3.2</span> in 2009.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Ben Gordon in 2009.</li>
-<li>Signed Will Bynum in 2008.</li>
-<li>Signed Kwame Brown in 2008.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Chauncey Billups <span class="badge badge-pill badge-success" data-bpm-text="+80407" data-vorp-text="+80407.5">+80407</span> in 2002.</li>
+<li>Signed Ben Wallace <span class="badge badge-pill badge-success" data-bpm-text="+4340" data-vorp-text="+4340.5">+4340</span> in 2009.</li>
+<li>Signed Chris Webber <span class="badge badge-pill badge-success" data-bpm-text="+2170" data-vorp-text="+2170.9">+2170</span> in 2007.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Kwame Brown <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.7">-0.7</span> in 2008.</li>
+<li>Signed Damien Wilkins <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.5">-0.5</span> in 2011.</li>
+<li>Signed Elden Campbell <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.4">-0.4</span> in 2005.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Ben Gordon <span class="badge badge-pill badge-danger" data-bpm-text="-10126" data-vorp-text="-10126.1">-10126</span> in 2009.</li>
+<li>Signed Will Bynum <span class="badge badge-pill badge-danger" data-bpm-text="-9565" data-vorp-text="-9565.0">-9565</span> in 2008.</li>
+<li>Signed Kwame Brown <span class="badge badge-pill badge-danger" data-bpm-text="-6193" data-vorp-text="-6193.5">-6193</span> in 2008.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -882,6 +928,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

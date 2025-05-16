@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,14 +567,23 @@ function updateExecDraftPlayersChart() {
 </script>
 
       This executive has only drafted 3 players and thus doesn't have a draft grade.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Zaccharie Risacher with 1th pick but was worth 52th pick.</li>
-<li>Drafted Kobe Bufkin with 15th pick but was worth 35th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Zaccharie Risacher <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.4">-1.4</span> with 1th pick but was worth 52th pick.</li>
+<li>Drafted Kobe Bufkin <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.3">-0.3</span> with 15th pick but was worth 35th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Zaccharie Risacher <span class="badge badge-pill badge-danger" data-bpm-text="-6576" data-vorp-text="-6576.5">-6576</span> with 1th pick but was worth 54th pick.</li>
+<li>Drafted Kobe Bufkin <span class="badge badge-pill badge-danger" data-bpm-text="-836" data-vorp-text="-836.5">-836</span> with 15th pick but was worth 27th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -705,16 +725,26 @@ function updateTradeChart() {
   </script>
 
       Landry Fields ranks in the 32th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Dyson Daniels, E.J. Liddell, Larry Nance Jr., Cody Zeller, future 1st round pick, future 1st round pick to ATL.</li>
-<li>Lost Dejounte Murray to NOP.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+17" data-vorp-text="+17.2">+17.2</span></h5><ul id=vorp-toggle>
+<li>Added Dyson Daniels <span class="badge badge-pill badge-success" data-bpm-text="+3508" data-vorp-text="+2.2">+2.2</span>, E.J. Liddell <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Larry Nance Jr. <span class="badge badge-pill badge-success" data-bpm-text="+787" data-vorp-text="+0.4">+0.4</span>, Cody Zeller <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, future 1st round pick <span class="badge badge-pill badge-success" data-bpm-text="+4525" data-vorp-text="+7.3">+7.3</span>, future 1st round pick <span class="badge badge-pill badge-success" data-bpm-text="+4525" data-vorp-text="+7.3">+7.3</span> to ATL.</li>
+<li>Lost Dejounte Murray <span class="badge badge-pill badge-danger" data-bpm-text="+1619" data-vorp-text="-0.1">-0.1</span> to NOP.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Bruno Fernando, Garrison Mathews to ATL.</li>
-<li>Lost Justin Holiday, Frank Kaminsky, Ulrich Chomche to HOU.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+14966" data-vorp-text="+14966.6">+14966</span></h5><ul id=bpm-toggle>
+<li>Added Dyson Daniels <span class="badge badge-pill badge-success" data-bpm-text="+3508" data-vorp-text="+2.2">+3508</span>, E.J. Liddell <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Larry Nance Jr. <span class="badge badge-pill badge-success" data-bpm-text="+787" data-vorp-text="+0.4">+787</span>, Cody Zeller <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, future 1st round pick <span class="badge badge-pill badge-success" data-bpm-text="+4525" data-vorp-text="+7.3">+4525</span>, future 1st round pick <span class="badge badge-pill badge-success" data-bpm-text="+4525" data-vorp-text="+7.3">+4525</span> to ATL.</li>
+<li>Lost Dejounte Murray <span class="badge badge-pill badge-success" data-bpm-text="+1619" data-vorp-text="-0.1">+1619</span> to NOP.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.4">-1.4</span></h5><ul id=vorp-toggle>
+<li>Added Rudy Gay <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to ATL.</li>
+<li>Lost John Collins <span class="badge badge-pill badge-danger" data-bpm-text="+490" data-vorp-text="-1.4">-1.4</span> to UTA.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-6300" data-vorp-text="-6300.2">-6300</span></h5><ul id=bpm-toggle>
+<li>Added Bruno Fernando <span class="badge badge-pill badge-danger" data-bpm-text="-1773" data-vorp-text="-0.1">-1773</span>, Garrison Mathews <span class="badge badge-pill badge-danger" data-bpm-text="-4308" data-vorp-text="-0.1">-4308</span> to ATL.</li>
+<li>Lost Justin Holiday <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Frank Kaminsky <span class="badge badge-pill badge-danger" data-bpm-text="-218" data-vorp-text="-0.1">-218</span>, Ulrich Chomche <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to HOU.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -855,17 +885,29 @@ function updateSigningChart() {
   </script>
 
       Landry Fields ranks in the 68th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Vit Krejci in 2024.</li>
-<li>Signed Daeqwon Plowden in 2024.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Vit Krejci <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.6">+0.6</span> in 2024.</li>
+<li>Signed Mouhamed Gueye <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.2">+0.2</span> in 2023.</li>
+<li>Signed Daeqwon Plowden <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.1">+0.1</span> in 2024.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Vit Krejci in 2023.</li>
-<li>Signed Trent Forrest in 2023.</li>
-<li>Signed Wesley Matthews in 2023.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Vit Krejci <span class="badge badge-pill badge-success" data-bpm-text="+329" data-vorp-text="+329.1">+329</span> in 2024.</li>
+<li>Signed Daeqwon Plowden <span class="badge badge-pill badge-success" data-bpm-text="+179" data-vorp-text="+179.4">+179</span> in 2024.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Trent Forrest <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.3">-0.3</span> in 2023.</li>
+<li>Signed Vit Krejci <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.2">-0.2</span> in 2023.</li>
+<li>Signed Wesley Matthews <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.1">-0.1</span> in 2023.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Vit Krejci <span class="badge badge-pill badge-danger" data-bpm-text="-2001" data-vorp-text="-2001.7">-2001</span> in 2023.</li>
+<li>Signed Trent Forrest <span class="badge badge-pill badge-danger" data-bpm-text="-1821" data-vorp-text="-1821.6">-1821</span> in 2023.</li>
+<li>Signed Wesley Matthews <span class="badge badge-pill badge-danger" data-bpm-text="-1156" data-vorp-text="-1156.4">-1156</span> in 2023.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -877,6 +919,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

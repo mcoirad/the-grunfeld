@@ -26,15 +26,19 @@ is_active: false
 name: Tony DiLeo
 signing_description: 'Tony DiLeo ranks in the 0th percentile for free agency signings
   among executives in our database. '
-signing_lose_list: '<ul>
-
-  <li>Signed Damien Wilkins in 2012.</li>
-
-  <li>Signed Maalik Wayns in 2013.</li>
-
-  <li>Signed Jeremy Pargo in 2013.</li>
-
-  </ul>'
+signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul id=vorp-toggle>\n\
+  <li>Signed Maalik Wayns <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  0\" data-vorp-text=\"-0.4\">-0.4</span> in 2013.</li>\n<li>Signed Damien Wilkins\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"\
+  -0.1\">-0.1</span> in 2012.</li>\n<li>Signed Jeremy Pargo <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.1\">-0.1</span> in 2013.</li>\n\
+  </ul>\n    <h5 id=\"bpm-toggle\">Their worst signings: </h5><ul id=bpm-toggle>\n\
+  <li>Signed Damien Wilkins <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -2409\" data-vorp-text=\"-2409.0\">-2409</span> in 2012.</li>\n<li>Signed Maalik\
+  \ Wayns <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-2046\" data-vorp-text=\"\
+  -2046.0\">-2046</span> in 2013.</li>\n<li>Signed Jeremy Pargo <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-915\" data-vorp-text=\"-915.2\">-915</span>\
+  \ in 2013.</li>\n</ul>\n    "
 signing_num_players: 7
 signing_overall_percentile_bpm: 36
 signing_overall_percentile_vorp: 6
@@ -50,7 +54,7 @@ signing_total_grade_vorp: F
 signing_total_percentile_bpm: 68
 signing_total_percentile_vorp: 11
 signing_total_vorp: -1
-signing_win_list: null
+signing_win_list: "\n    \n    \n    "
 start_year: 2012
 team:
 - Philadelphia 76ers
@@ -58,11 +62,14 @@ team_shortcode:
 - PHI
 trade_description: This executive has only made one trade and thus doesn't have a
   trade grade.
-trade_lose_list: '<ul>
-
-  <li>Added Charles Jenkins to PHI.</li>
-
-  </ul>'
+trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.1\">-0.1</span></h5><ul\
+  \ id=vorp-toggle>\n<li>Added Charles Jenkins <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-600\" data-vorp-text=\"-0.1\">-0.1</span> to PHI.</li>\n</ul>\n\
+  \    <h5 id=\"bpm-toggle\">Their biggest L: <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-600\" data-vorp-text=\"-600.0\">-600</span></h5><ul id=bpm-toggle>\n\
+  <li>Added Charles Jenkins <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -600\" data-vorp-text=\"-0.1\">-600</span> to PHI.</li>\n</ul>\n    "
 trade_num: 1
 trade_overall_percentile_bpm: null
 trade_overall_percentile_vorp: null
@@ -78,5 +85,5 @@ trade_total_grade_vorp: C+
 trade_total_percentile_bpm: 45
 trade_total_percentile_vorp: 57
 trade_total_vorp: 0
-trade_win_list: null
+trade_win_list: "\n    \n    \n    "
 ---

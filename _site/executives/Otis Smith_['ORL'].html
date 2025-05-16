@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,12 +567,19 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Otis Smith ranks in the 85th percentile for drafting among executives in our database. Smith's draft picks average out to be worth the equivalent of 4 spots higher than they were picked due to his good drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted J.J. Redick with 11th pick but was worth 7th pick.</li>
-</ul>
-      <h5>Some of their biggest busts:</h5>
       
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted J.J. Redick <span class="badge badge-pill badge-success" data-bpm-text="+12" data-vorp-text="+12.0">+12.0</span> with 11th pick but was worth 7th pick. </li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted J.J. Redick <span class="badge badge-pill badge-success" data-bpm-text="+14072" data-vorp-text="+14072.0">+14072</span> with 11th pick but was worth 8th pick. </li>
+</ul>
+    
+      
+    
+    
+    
+
     </div>
   </div>
 </div>
@@ -703,16 +721,26 @@ function updateTradeChart() {
   </script>
 
       Otis Smith ranks in the 28th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Ryan Anderson, Vince Carter to ORL.</li>
-<li>Lost Rafer Alston, Tony Battie, Courtney Lee to NJN.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+10" data-vorp-text="+10.7">+10.7</span></h5><ul id=vorp-toggle>
+<li>Added Rashard Lewis <span class="badge badge-pill badge-success" data-bpm-text="+23973" data-vorp-text="+10.7">+10.7</span> to ORL.</li>
+<li>Lost Emir Preldžić <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to SEA.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Brian Cook, Maurice Evans to ORL.</li>
-<li>Lost Trevor Ariza to LAL.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+29777" data-vorp-text="+29777.9">+29777</span></h5><ul id=bpm-toggle>
+<li>Added Ryan Anderson <span class="badge badge-pill badge-success" data-bpm-text="+16501" data-vorp-text="+6.4">+16501</span>, Vince Carter <span class="badge badge-pill badge-success" data-bpm-text="+5815" data-vorp-text="+2.9">+5815</span> to ORL.</li>
+<li>Lost Rafer Alston <span class="badge badge-pill badge-success" data-bpm-text="+3064" data-vorp-text="+0.4">+3064</span>, Tony Battie <span class="badge badge-pill badge-success" data-bpm-text="+1072" data-vorp-text="+0.2">+1072</span>, Courtney Lee <span class="badge badge-pill badge-success" data-bpm-text="+3325" data-vorp-text="-0.4">+3325</span> to NJN.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-2" data-vorp-text="-2.6">-2.6</span></h5><ul id=vorp-toggle>
+<li>Added Glen Davis <span class="badge badge-pill badge-danger" data-bpm-text="-9431" data-vorp-text="-0.4">-0.4</span>, Von Wafer <span class="badge badge-pill badge-danger" data-bpm-text="-1219" data-vorp-text="-0.1">-0.1</span> to ORL.</li>
+<li>Lost Brandon Bass <span class="badge badge-pill badge-danger" data-bpm-text="+8614" data-vorp-text="-2.1">-2.1</span> to BOS.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-5792" data-vorp-text="-5792.8">-5792</span></h5><ul id=bpm-toggle>
+<li>Added Brian Cook <span class="badge badge-pill badge-danger" data-bpm-text="-2691" data-vorp-text="-0.3">-2691</span>, Maurice Evans <span class="badge badge-pill badge-success" data-bpm-text="+1461" data-vorp-text="+1.2">+1461</span> to ORL.</li>
+<li>Lost Trevor Ariza <span class="badge badge-pill badge-danger" data-bpm-text="-4562" data-vorp-text="-2.7">-4562</span> to LAL.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -853,18 +881,30 @@ function updateSigningChart() {
   </script>
 
       Otis Smith ranks in the 97th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Matt Barnes in 2009.</li>
-<li>Signed Mickaël Piétrus in 2008.</li>
-<li>Signed Jason Williams in 2009.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Mickaël Piétrus <span class="badge badge-pill badge-success" data-bpm-text="+2" data-vorp-text="+2.2">+2.2</span> in 2008.</li>
+<li>Signed Keith Bogans <span class="badge badge-pill badge-success" data-bpm-text="+1" data-vorp-text="+1.8">+1.8</span> in 2006.</li>
+<li>Signed Matt Barnes <span class="badge badge-pill badge-success" data-bpm-text="+1" data-vorp-text="+1.7">+1.7</span> in 2009.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Keyon Dooling in 2005.</li>
-<li>Signed Chris Duhon in 2010.</li>
-<li>Signed Quentin Richardson in 2010.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Matt Barnes <span class="badge badge-pill badge-success" data-bpm-text="+2726" data-vorp-text="+2726.1">+2726</span> in 2009.</li>
+<li>Signed Mickaël Piétrus <span class="badge badge-pill badge-success" data-bpm-text="+1708" data-vorp-text="+1708.0">+1708</span> in 2008.</li>
+<li>Signed Jason Williams <span class="badge badge-pill badge-success" data-bpm-text="+1651" data-vorp-text="+1651.7">+1651</span> in 2009.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Ish Smith <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.3">-0.3</span> in 2012.</li>
+<li>Signed Larry Hughes <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.3">-0.3</span> in 2011.</li>
+<li>Signed Jeremy Richardson <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.2">-0.2</span> in 2008.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Keyon Dooling <span class="badge badge-pill badge-danger" data-bpm-text="-5735" data-vorp-text="-5735.8">-5735</span> in 2005.</li>
+<li>Signed Chris Duhon <span class="badge badge-pill badge-danger" data-bpm-text="-5148" data-vorp-text="-5148.0">-5148</span> in 2010.</li>
+<li>Signed Quentin Richardson <span class="badge badge-pill badge-danger" data-bpm-text="-2818" data-vorp-text="-2818.1">-2818</span> in 2010.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -876,6 +916,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

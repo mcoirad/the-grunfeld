@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,10 +567,9 @@ function updateExecDraftPlayersChart() {
 </script>
 
       This executive hasn't drafted any players, and thus doesn't have a draft grade.
-      <h5>Some of their biggest wins:</h5>
       
-      <h5>Some of their biggest busts:</h5>
       
+
     </div>
   </div>
 </div>
@@ -701,13 +711,20 @@ function updateTradeChart() {
   </script>
 
       This executive has only made one trade and thus doesn't have a trade grade.
-      <h5>Their biggest win:</h5>
       
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Bobby Brown, Shelden Williams to MIN.</li>
-<li>Lost Calvin Booth, Rashad McCants to SAC.</li>
+    
+    
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.3">-0.3</span></h5><ul id=vorp-toggle>
+<li>Added Bobby Brown <span class="badge badge-pill badge-success" data-bpm-text="-563" data-vorp-text="+0.0">+0.0</span>, Shelden Williams <span class="badge badge-pill badge-success" data-bpm-text="-351" data-vorp-text="+0.0">+0.0</span> to MIN.</li>
+<li>Lost Calvin Booth <span class="badge badge-pill badge-success" data-bpm-text="+280" data-vorp-text="+0.0">+0.0</span>, Rashad McCants <span class="badge badge-pill badge-danger" data-bpm-text="-279" data-vorp-text="-0.3">-0.3</span> to SAC.</li>
 </ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-913" data-vorp-text="-913.6">-913</span></h5><ul id=bpm-toggle>
+<li>Added Bobby Brown <span class="badge badge-pill badge-danger" data-bpm-text="-563" data-vorp-text="+0.0">-563</span>, Shelden Williams <span class="badge badge-pill badge-danger" data-bpm-text="-351" data-vorp-text="+0.0">-351</span> to MIN.</li>
+<li>Lost Calvin Booth <span class="badge badge-pill badge-success" data-bpm-text="+280" data-vorp-text="+0.0">+280</span>, Rashad McCants <span class="badge badge-pill badge-danger" data-bpm-text="-279" data-vorp-text="-0.3">-279</span> to SAC.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -848,10 +865,14 @@ function updateSigningChart() {
   </script>
 
       This executive hasn't signed any players, and thus doesn't have a signing grade.
-      <h5>Their best signings:</h5>
       
-      <h5>Their worst signings:</h5>
+    
+    
+    
       
+    
+    
+    
     </div>
   </div>
 </div>
@@ -863,6 +884,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

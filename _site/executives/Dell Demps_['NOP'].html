@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,15 +567,24 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Dell Demps ranks in the 15th percentile for drafting among executives in our database. Demps's draft picks average out to be worth the equivalent of 13 spots lower than they were picked due to their terrible drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Austin Rivers with 10th pick but was worth 60th pick.</li>
-<li>Drafted Buddy Hield with 6th pick but was worth 6th pick.</li>
-<li>Drafted Darius Miller with 46th pick but was worth 46th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Austin Rivers <span class="badge badge-pill badge-danger" data-bpm-text="-11" data-vorp-text="-11.4">-11.4</span> with 10th pick but was worth 60th pick.</li>
+<li>Drafted Anthony Davis <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.3">-0.3</span> with 1th pick but was worth 2th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Austin Rivers <span class="badge badge-pill badge-danger" data-bpm-text="-54275" data-vorp-text="-54275.9">-54275</span> with 10th pick but was worth 60th pick.</li>
+<li>Drafted Buddy Hield <span class="badge badge-pill badge-danger" data-bpm-text="-9930" data-vorp-text="-9930.0">-9930</span> with 6th pick but was worth 9th pick.</li>
+<li>Drafted Darius Miller <span class="badge badge-pill badge-danger" data-bpm-text="-1532" data-vorp-text="-1532.9">-1532</span> with 46th pick but was worth 50th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -706,16 +726,26 @@ function updateTradeChart() {
   </script>
 
       Dell Demps ranks in the 34th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Frank Jackson to NOP.</li>
-<li>Lost Dwayne Bacon to CHO.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+3" data-vorp-text="+3.4">+3.4</span></h5><ul id=vorp-toggle>
+<li>Added Jrue Holiday <span class="badge badge-pill badge-success" data-bpm-text="+10797" data-vorp-text="+6.0">+6.0</span>, Pierre Jackson <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to NOP.</li>
+<li>Lost Nerlens Noel <span class="badge badge-pill badge-danger" data-bpm-text="-718" data-vorp-text="-2.6">-2.6</span>, Elfrid Payton <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to PHI.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Al-Farouq Aminu, Eric Gordon, Chris Kaman, Austin Rivers to NOP.</li>
-<li>Lost Chris Paul, Artūras Gudaitis to LAC.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+10831" data-vorp-text="+10831.0">+10831</span></h5><ul id=bpm-toggle>
+<li>Added Frank Jackson <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to NOP.</li>
+<li>Lost Dwayne Bacon <span class="badge badge-pill badge-success" data-bpm-text="+10831" data-vorp-text="+1.6">+10831</span> to CHO.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-34" data-vorp-text="-34.0">-34.0</span></h5><ul id=vorp-toggle>
+<li>Added Al-Farouq Aminu <span class="badge badge-pill badge-success" data-bpm-text="-1227" data-vorp-text="+0.7">+0.7</span>, Eric Gordon <span class="badge badge-pill badge-success" data-bpm-text="-3194" data-vorp-text="+2.0">+2.0</span>, Chris Kaman <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Austin Rivers <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to NOP.</li>
+<li>Lost Chris Paul <span class="badge badge-pill badge-danger" data-bpm-text="-117970" data-vorp-text="-36.7">-36.7</span>, Artūras Gudaitis <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to LAC.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-122392" data-vorp-text="-122392.1">-122392</span></h5><ul id=bpm-toggle>
+<li>Added Al-Farouq Aminu <span class="badge badge-pill badge-danger" data-bpm-text="-1227" data-vorp-text="+0.7">-1227</span>, Eric Gordon <span class="badge badge-pill badge-danger" data-bpm-text="-3194" data-vorp-text="+2.0">-3194</span>, Chris Kaman <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Austin Rivers <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to NOP.</li>
+<li>Lost Chris Paul <span class="badge badge-pill badge-danger" data-bpm-text="-117970" data-vorp-text="-36.7">-117970</span>, Artūras Gudaitis <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to LAC.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -856,18 +886,30 @@ function updateSigningChart() {
   </script>
 
       Dell Demps ranks in the 28th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Jrue Holiday in 2017.</li>
-<li>Signed Julius Randle in 2018.</li>
-<li>Signed Jordan Crawford in 2017.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Jrue Holiday <span class="badge badge-pill badge-success" data-bpm-text="+7" data-vorp-text="+7.8">+7.8</span> in 2017.</li>
+<li>Signed Julius Randle <span class="badge badge-pill badge-success" data-bpm-text="+2" data-vorp-text="+2.0">+2.0</span> in 2018.</li>
+<li>Signed Rajon Rondo <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.7">+0.7</span> in 2017.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed E'Twaun Moore in 2016.</li>
-<li>Signed Solomon Hill in 2016.</li>
-<li>Signed Frank Jackson in 2017.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Jrue Holiday <span class="badge badge-pill badge-success" data-bpm-text="+15699" data-vorp-text="+15699.8">+15699</span> in 2017.</li>
+<li>Signed Julius Randle <span class="badge badge-pill badge-success" data-bpm-text="+3348" data-vorp-text="+3348.0">+3348</span> in 2018.</li>
+<li>Signed Jordan Crawford <span class="badge badge-pill badge-success" data-bpm-text="+574" data-vorp-text="+574.6">+574</span> in 2017.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Frank Jackson <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.5">-1.5</span> in 2017.</li>
+<li>Signed Ömer Aşık <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.9">-0.9</span> in 2015.</li>
+<li>Signed Solomon Hill <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.8">-0.8</span> in 2016.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed E'Twaun Moore <span class="badge badge-pill badge-danger" data-bpm-text="-13168" data-vorp-text="-13168.5">-13168</span> in 2016.</li>
+<li>Signed Solomon Hill <span class="badge badge-pill badge-danger" data-bpm-text="-10468" data-vorp-text="-10468.2">-10468</span> in 2016.</li>
+<li>Signed Frank Jackson <span class="badge badge-pill badge-danger" data-bpm-text="-9760" data-vorp-text="-9760.9">-9760</span> in 2017.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -879,6 +921,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

@@ -138,16 +138,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -162,6 +170,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -295,6 +304,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -564,15 +575,26 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Carl Scheer ranks in the 0th percentile for drafting among executives in our database. Scheer's draft picks average out to be worth the equivalent of 26 spots lower than they were picked due to their terrible drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Robert Smith <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.1">+0.1</span> with 65th pick but was worth 31th pick. </li>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Benoit Benjamin with 3th pick but was worth 19th pick.</li>
-<li>Drafted Marvin Webster with 3th pick but was worth 10th pick.</li>
-<li>Drafted Tom LaGarde with 9th pick but was worth 61th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Benoit Benjamin <span class="badge badge-pill badge-danger" data-bpm-text="-38" data-vorp-text="-38.5">-38.5</span> with 3th pick but was worth 19th pick.</li>
+<li>Drafted Tom LaGarde <span class="badge badge-pill badge-danger" data-bpm-text="-16" data-vorp-text="-16.6">-16.6</span> with 9th pick but was worth 61th pick.</li>
+<li>Drafted Marvin Webster <span class="badge badge-pill badge-danger" data-bpm-text="-15" data-vorp-text="-15.8">-15.8</span> with 3th pick but was worth 10th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Benoit Benjamin <span class="badge badge-pill badge-danger" data-bpm-text="-126628" data-vorp-text="-126628.7">-126628</span> with 3th pick but was worth 61th pick.</li>
+<li>Drafted Marvin Webster <span class="badge badge-pill badge-danger" data-bpm-text="-35537" data-vorp-text="-35537.1">-35537</span> with 3th pick but was worth 61th pick.</li>
+<li>Drafted Tom LaGarde <span class="badge badge-pill badge-danger" data-bpm-text="-31558" data-vorp-text="-31558.2">-31558</span> with 9th pick but was worth 61th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -714,16 +736,26 @@ function updateTradeChart() {
   </script>
 
       Carl Scheer ranks in the 61th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Alex English, Carl Nicks to DEN.</li>
-<li>Lost George McGinnis to IND.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+34" data-vorp-text="+34.2">+34.2</span></h5><ul id=vorp-toggle>
+<li>Added Alex English <span class="badge badge-pill badge-success" data-bpm-text="+75883" data-vorp-text="+34.2">+34.2</span>, Carl Nicks <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to DEN.</li>
+<li>Lost George McGinnis <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to IND.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added T.R. Dunn, Howard Carter to DEN.</li>
-<li>Lost Clyde Drexler, Steve Colter to POR.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+75883" data-vorp-text="+75883.0">+75883</span></h5><ul id=bpm-toggle>
+<li>Added Alex English <span class="badge badge-pill badge-success" data-bpm-text="+75883" data-vorp-text="+34.2">+75883</span>, Carl Nicks <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to DEN.</li>
+<li>Lost George McGinnis <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to IND.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-50" data-vorp-text="-50.4">-50.4</span></h5><ul id=vorp-toggle>
+<li>Added T.R. Dunn <span class="badge badge-pill badge-success" data-bpm-text="-1237" data-vorp-text="+8.8">+8.8</span>, Howard Carter <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to DEN.</li>
+<li>Lost Clyde Drexler <span class="badge badge-pill badge-danger" data-bpm-text="-169608" data-vorp-text="-57.9">-57.9</span>, Steve Colter <span class="badge badge-pill badge-danger" data-bpm-text="+1169" data-vorp-text="-1.3">-1.3</span> to POR.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-169675" data-vorp-text="-169675.4">-169675</span></h5><ul id=bpm-toggle>
+<li>Added T.R. Dunn <span class="badge badge-pill badge-danger" data-bpm-text="-1237" data-vorp-text="+8.8">-1237</span>, Howard Carter <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to DEN.</li>
+<li>Lost Clyde Drexler <span class="badge badge-pill badge-danger" data-bpm-text="-169608" data-vorp-text="-57.9">-169608</span>, Steve Colter <span class="badge badge-pill badge-success" data-bpm-text="+1169" data-vorp-text="-1.3">+1169</span> to POR.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -864,18 +896,30 @@ function updateSigningChart() {
   </script>
 
       Carl Scheer ranks in the 17th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Bobby Jones in 1974.</li>
-<li>Signed Glen Gondrezick in 1979.</li>
-<li>Signed Tom Boswell in 1978.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Bobby Jones <span class="badge badge-pill badge-success" data-bpm-text="+9" data-vorp-text="+9.6">+9.6</span> in 1974.</li>
+<li>Signed Glen Gondrezick <span class="badge badge-pill badge-success" data-bpm-text="+3" data-vorp-text="+3.7">+3.7</span> in 1979.</li>
+<li>Signed Tom Boswell <span class="badge badge-pill badge-success" data-bpm-text="+1" data-vorp-text="+1.7">+1.7</span> in 1978.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Mike Evans in 1983.</li>
-<li>Signed Kenny Higgs in 1980.</li>
-<li>Signed Franklin Edwards in 1985.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Bobby Jones <span class="badge badge-pill badge-success" data-bpm-text="+28401" data-vorp-text="+28401.0">+28401</span> in 1974.</li>
+<li>Signed Glen Gondrezick <span class="badge badge-pill badge-success" data-bpm-text="+5002" data-vorp-text="+5002.5">+5002</span> in 1979.</li>
+<li>Signed Tom Boswell <span class="badge badge-pill badge-success" data-bpm-text="+1302" data-vorp-text="+1302.3">+1302</span> in 1978.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Kenny Higgs <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.0">-1.0</span> in 1980.</li>
+<li>Signed Anthony Roberts <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.4">-0.4</span> in 1984.</li>
+<li>Signed Mike Evans <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.4">-0.4</span> in 1983.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Mike Evans <span class="badge badge-pill badge-danger" data-bpm-text="-16036" data-vorp-text="-16036.5">-16036</span> in 1983.</li>
+<li>Signed Kenny Higgs <span class="badge badge-pill badge-danger" data-bpm-text="-10668" data-vorp-text="-10668.0">-10668</span> in 1980.</li>
+<li>Signed Franklin Edwards <span class="badge badge-pill badge-danger" data-bpm-text="-2228" data-vorp-text="-2228.4">-2228</span> in 1985.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -887,6 +931,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

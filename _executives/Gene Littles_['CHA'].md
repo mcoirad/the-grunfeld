@@ -26,7 +26,7 @@ is_active: false
 name: Gene Littles
 signing_description: This executive has only made 2 signings in free agency and thus
   doesn't have a signing grade.
-signing_lose_list: null
+signing_lose_list: "\n    \n    \n    "
 signing_num_players: 2
 signing_overall_percentile_bpm: null
 signing_overall_percentile_vorp: null
@@ -42,7 +42,7 @@ signing_total_grade_vorp: D-
 signing_total_percentile_bpm: 79
 signing_total_percentile_vorp: 21
 signing_total_vorp: 0
-signing_win_list: null
+signing_win_list: "\n    \n    \n    "
 start_year: 1990
 team:
 - Charlotte Hornets
@@ -50,7 +50,7 @@ team_shortcode:
 - CHA
 trade_description: This executive hasn't traded any players, and thus doesn't have
   a trade grade.
-trade_lose_list: null
+trade_lose_list: "\n    \n    \n    "
 trade_num: 0
 trade_overall_percentile_bpm: null
 trade_overall_percentile_vorp: null
@@ -66,5 +66,5 @@ trade_total_grade_vorp: B-
 trade_total_percentile_bpm: 48
 trade_total_percentile_vorp: 61
 trade_total_vorp: 0
-trade_win_list: null
+trade_win_list: "\n    \n    \n    "
 ---

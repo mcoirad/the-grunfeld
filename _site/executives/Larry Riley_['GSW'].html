@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,14 +567,25 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Larry Riley ranks in the 44th percentile for drafting among executives in our database. Riley's draft picks average out to be worth the equivalent of 4 spots lower than they were picked due to their terrible drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Stephen Curry with 7th pick but was worth 2th pick.</li>
-<li>Drafted Charles Jenkins with 44th pick but was worth 54th pick.</li>
-<li>Drafted Klay Thompson with 11th pick but was worth 8th pick.</li>
-</ul>
-      <h5>Some of their biggest busts:</h5>
       
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Stephen Curry <span class="badge badge-pill badge-success" data-bpm-text="+60" data-vorp-text="+60.4">+60.4</span> with 7th pick but was worth 2th pick. </li>
+<li>Drafted Klay Thompson <span class="badge badge-pill badge-success" data-bpm-text="+9" data-vorp-text="+9.7">+9.7</span> with 11th pick but was worth 8th pick. </li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Stephen Curry <span class="badge badge-pill badge-success" data-bpm-text="+204814" data-vorp-text="+204814.3">+204814</span> with 7th pick but was worth 2th pick. </li>
+<li>Drafted Charles Jenkins <span class="badge badge-pill badge-success" data-bpm-text="+2785" data-vorp-text="+2785.0">+2785</span> with 44th pick but was worth 38th pick. </li>
+<li>Drafted Klay Thompson <span class="badge badge-pill badge-success" data-bpm-text="+1555" data-vorp-text="+1555.7">+1555</span> with 11th pick but was worth 10th pick. </li>
+</ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Ekpe Udoh <span class="badge badge-pill badge-danger" data-bpm-text="-14" data-vorp-text="-14.5">-14.5</span> with 6th pick but was worth 22th pick.</li>
+<li>Drafted Charles Jenkins <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.7">-0.7</span> with 44th pick but was worth 54th pick.</li>
+</ul>
+    
+    
+
     </div>
   </div>
 </div>
@@ -705,16 +727,26 @@ function updateTradeChart() {
   </script>
 
       Larry Riley ranks in the 35th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Troy Murphy, Draymond Green to GSW.</li>
-<li>Lost Dan Gadzuric, Brandan Wright to NJN.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+27" data-vorp-text="+27.9">+27.9</span></h5><ul id=vorp-toggle>
+<li>Added Troy Murphy <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Draymond Green <span class="badge badge-pill badge-success" data-bpm-text="+58714" data-vorp-text="+27.7">+27.7</span> to GSW.</li>
+<li>Lost Dan Gadzuric <span class="badge badge-pill badge-success" data-bpm-text="+1211" data-vorp-text="+0.2">+0.2</span>, Brandan Wright <span class="badge badge-pill badge-success" data-bpm-text="+257" data-vorp-text="+0.0">+0.0</span> to NJN.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Speedy Claxton, Acie Law to GSW.</li>
-<li>Lost Jamal Crawford to ATL.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+60183" data-vorp-text="+60183.4">+60183</span></h5><ul id=bpm-toggle>
+<li>Added Troy Murphy <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Draymond Green <span class="badge badge-pill badge-success" data-bpm-text="+58714" data-vorp-text="+27.7">+58714</span> to GSW.</li>
+<li>Lost Dan Gadzuric <span class="badge badge-pill badge-success" data-bpm-text="+1211" data-vorp-text="+0.2">+1211</span>, Brandan Wright <span class="badge badge-pill badge-success" data-bpm-text="+257" data-vorp-text="+0.0">+257</span> to NJN.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-3" data-vorp-text="-3.4">-3.4</span></h5><ul id=vorp-toggle>
+<li>Added Speedy Claxton <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Acie Law <span class="badge badge-pill badge-danger" data-bpm-text="-1844" data-vorp-text="-0.1">-0.1</span> to GSW.</li>
+<li>Lost Jamal Crawford <span class="badge badge-pill badge-danger" data-bpm-text="-3607" data-vorp-text="-3.3">-3.3</span> to ATL.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-5451" data-vorp-text="-5451.2">-5451</span></h5><ul id=bpm-toggle>
+<li>Added Speedy Claxton <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Acie Law <span class="badge badge-pill badge-danger" data-bpm-text="-1844" data-vorp-text="-0.1">-1844</span> to GSW.</li>
+<li>Lost Jamal Crawford <span class="badge badge-pill badge-danger" data-bpm-text="-3607" data-vorp-text="-3.3">-3607</span> to ATL.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -855,18 +887,30 @@ function updateSigningChart() {
   </script>
 
       Larry Riley ranks in the 25th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Dorell Wright in 2010.</li>
-<li>Signed Jeremy Lin in 2010.</li>
-<li>Signed Nate Robinson in 2012.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Dorell Wright <span class="badge badge-pill badge-success" data-bpm-text="+3" data-vorp-text="+3.4">+3.4</span> in 2010.</li>
+<li>Signed Reggie Williams <span class="badge badge-pill badge-success" data-bpm-text="+1" data-vorp-text="+1.0">+1.0</span> in 2010.</li>
+<li>Signed Nate Robinson <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.7">+0.7</span> in 2012.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Chris Hunter in 2009.</li>
-<li>Signed Lou Amundson in 2010.</li>
-<li>Signed Anthony Tolliver in 2010.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Dorell Wright <span class="badge badge-pill badge-success" data-bpm-text="+4002" data-vorp-text="+4002.6">+4002</span> in 2010.</li>
+<li>Signed Jeremy Lin <span class="badge badge-pill badge-success" data-bpm-text="+627" data-vorp-text="+627.0">+627</span> in 2010.</li>
+<li>Signed Nate Robinson <span class="badge badge-pill badge-success" data-bpm-text="+476" data-vorp-text="+476.8">+476</span> in 2012.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Chris Hunter <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.4">-0.4</span> in 2009.</li>
+<li>Signed Lou Amundson <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.4">-0.4</span> in 2010.</li>
+<li>Signed Al Thornton <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.3">-0.3</span> in 2011.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Chris Hunter <span class="badge badge-pill badge-danger" data-bpm-text="-3210" data-vorp-text="-3210.3">-3210</span> in 2009.</li>
+<li>Signed Lou Amundson <span class="badge badge-pill badge-danger" data-bpm-text="-3109" data-vorp-text="-3109.5">-3109</span> in 2010.</li>
+<li>Signed Anthony Tolliver <span class="badge badge-pill badge-danger" data-bpm-text="-2276" data-vorp-text="-2276.8">-2276</span> in 2010.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -878,6 +922,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

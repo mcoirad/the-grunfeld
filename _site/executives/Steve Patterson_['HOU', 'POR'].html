@@ -134,16 +134,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -158,6 +166,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -291,6 +300,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -560,16 +571,27 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Steve Patterson ranks in the 60th percentile for drafting among executives in our database. That's basically average. It could worse though lol.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Robert Horry with 11th pick but was worth 3th pick.</li>
-<li>Drafted Žan Tabak with 51th pick but was worth 52th pick.</li>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Robert Horry <span class="badge badge-pill badge-success" data-bpm-text="+14" data-vorp-text="+14.6">+14.6</span> with 11th pick but was worth 3th pick. </li>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Joel Freeland with 30th pick but was worth 49th pick.</li>
-<li>Drafted John Turner with 20th pick but was worth 39th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Robert Horry <span class="badge badge-pill badge-success" data-bpm-text="+51431" data-vorp-text="+51431.1">+51431</span> with 11th pick but was worth 3th pick. </li>
+<li>Drafted Žan Tabak <span class="badge badge-pill badge-success" data-bpm-text="+4238" data-vorp-text="+4238.4">+4238</span> with 51th pick but was worth 46th pick. </li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted John Turner <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.6">-0.6</span> with 20th pick but was worth 39th pick.</li>
+<li>Drafted Joel Freeland <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.6">-0.6</span> with 30th pick but was worth 49th pick.</li>
+<li>Drafted Žan Tabak <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.3">-0.3</span> with 51th pick but was worth 52th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Joel Freeland <span class="badge badge-pill badge-danger" data-bpm-text="-3876" data-vorp-text="-3876.3">-3876</span> with 30th pick but was worth 42th pick.</li>
+<li>Drafted John Turner <span class="badge badge-pill badge-danger" data-bpm-text="-2725" data-vorp-text="-2725.5">-2725</span> with 20th pick but was worth 28th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -711,15 +733,25 @@ function updateTradeChart() {
   </script>
 
       Steve Patterson ranks in the 97th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Brandon Roy to POR.</li>
-<li>Lost Randy Foye to MIN.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+18" data-vorp-text="+18.1">+18.1</span></h5><ul id=vorp-toggle>
+<li>Added LaMarcus Aldridge <span class="badge badge-pill badge-success" data-bpm-text="+35374" data-vorp-text="+20.5">+20.5</span>, Demetris Nichols <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to POR.</li>
+<li>Lost Viktor Khryapa <span class="badge badge-pill badge-success" data-bpm-text="+951" data-vorp-text="+0.1">+0.1</span>, Tyrus Thomas <span class="badge badge-pill badge-danger" data-bpm-text="+408" data-vorp-text="-2.5">-2.5</span> to CHI.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Sergio Rodríguez to POR.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+48993" data-vorp-text="+48993.5">+48993</span></h5><ul id=bpm-toggle>
+<li>Added Brandon Roy <span class="badge badge-pill badge-success" data-bpm-text="+42349" data-vorp-text="+16.3">+42349</span> to POR.</li>
+<li>Lost Randy Foye <span class="badge badge-pill badge-success" data-bpm-text="+6644" data-vorp-text="-1.2">+6644</span> to MIN.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.1">-0.1</span></h5><ul id=vorp-toggle>
+<li>Added Jamaal Magloire <span class="badge badge-pill badge-danger" data-bpm-text="-7493" data-vorp-text="-1.0">-1.0</span> to POR.</li>
+<li>Lost Steve Blake <span class="badge badge-pill badge-success" data-bpm-text="+2448" data-vorp-text="+0.3">+0.3</span>, Ha Seung-Jin <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Brian Skinner <span class="badge badge-pill badge-success" data-bpm-text="+5508" data-vorp-text="+0.6">+0.6</span> to MIL.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-4986" data-vorp-text="-4986.8">-4986</span></h5><ul id=bpm-toggle>
+<li>Added Sergio Rodríguez <span class="badge badge-pill badge-danger" data-bpm-text="-4986" data-vorp-text="+0.1">-4986</span> to POR.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -860,17 +892,29 @@ function updateSigningChart() {
   </script>
 
       Steve Patterson ranks in the 23th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Ime Udoka in 2006.</li>
-<li>Signed Matt Bullard in 1990.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Matt Bullard <span class="badge badge-pill badge-success" data-bpm-text="+4" data-vorp-text="+4.1">+4.1</span> in 1990.</li>
+<li>Signed Ime Udoka <span class="badge badge-pill badge-success" data-bpm-text="+1" data-vorp-text="+1.2">+1.2</span> in 2006.</li>
+<li>Signed David Wood <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.1">+0.1</span> in 1990.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Dave Feitl in 1990.</li>
-<li>Signed Winston Garland in 1992.</li>
-<li>Signed Kennard Winchester in 1990.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Ime Udoka <span class="badge badge-pill badge-success" data-bpm-text="+428" data-vorp-text="+428.8">+428</span> in 2006.</li>
+<li>Signed Matt Bullard <span class="badge badge-pill badge-success" data-bpm-text="+375" data-vorp-text="+375.6">+375</span> in 1990.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Dave Feitl <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.5">-0.5</span> in 1990.</li>
+<li>Signed Kennard Winchester <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.3">-0.3</span> in 1990.</li>
+<li>Signed Gerald Henderson <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.1">-0.1</span> in 1991.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Dave Feitl <span class="badge badge-pill badge-danger" data-bpm-text="-2604" data-vorp-text="-2604.0">-2604</span> in 1990.</li>
+<li>Signed Winston Garland <span class="badge badge-pill badge-danger" data-bpm-text="-2510" data-vorp-text="-2510.0">-2510</span> in 1992.</li>
+<li>Signed Kennard Winchester <span class="badge badge-pill badge-danger" data-bpm-text="-2488" data-vorp-text="-2488.7">-2488</span> in 1990.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -882,6 +926,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

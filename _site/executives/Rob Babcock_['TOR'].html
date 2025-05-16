@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,16 +567,26 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Rob Babcock ranks in the 4th percentile for drafting among executives in our database. Babcock's draft picks average out to be worth the equivalent of 21 spots lower than they were picked due to their terrible drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Roko Ukić with 41th pick but was worth 52th pick.</li>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Rafael Araújo with 8th pick but was worth 57th pick.</li>
-<li>Drafted Charlie Villanueva with 7th pick but was worth 20th pick.</li>
-<li>Drafted Joey Graham with 16th pick but was worth 58th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Roko Ukić <span class="badge badge-pill badge-success" data-bpm-text="+3664" data-vorp-text="+3664.7">+3664</span> with 41th pick but was worth 34th pick. </li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Rafael Araújo <span class="badge badge-pill badge-danger" data-bpm-text="-17" data-vorp-text="-17.6">-17.6</span> with 8th pick but was worth 57th pick.</li>
+<li>Drafted Joey Graham <span class="badge badge-pill badge-danger" data-bpm-text="-9" data-vorp-text="-9.3">-9.3</span> with 16th pick but was worth 58th pick.</li>
+<li>Drafted Charlie Villanueva <span class="badge badge-pill badge-danger" data-bpm-text="-7" data-vorp-text="-8.0">-8.0</span> with 7th pick but was worth 20th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Rafael Araújo <span class="badge badge-pill badge-danger" data-bpm-text="-25789" data-vorp-text="-25789.8">-25789</span> with 8th pick but was worth 51th pick.</li>
+<li>Drafted Charlie Villanueva <span class="badge badge-pill badge-danger" data-bpm-text="-23112" data-vorp-text="-23112.8">-23112</span> with 7th pick but was worth 42th pick.</li>
+<li>Drafted Joey Graham <span class="badge badge-pill badge-danger" data-bpm-text="-22021" data-vorp-text="-22021.2">-22021</span> with 16th pick but was worth 58th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -707,16 +728,23 @@ function updateTradeChart() {
   </script>
 
       This executive has only made 3 trades and thus doesn't have a trade grade.
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Mike James to TOR.</li>
-<li>Lost Rafer Alston to HOU.</li>
+      
+    
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+2832" data-vorp-text="+2832.2">+2832</span></h5><ul id=bpm-toggle>
+<li>Added Mike James <span class="badge badge-pill badge-success" data-bpm-text="+5265" data-vorp-text="+2.9">+5265</span> to TOR.</li>
+<li>Lost Rafer Alston <span class="badge badge-pill badge-danger" data-bpm-text="-2432" data-vorp-text="-5.5">-2432</span> to HOU.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Alonzo Mourning, Aaron Williams, Eric Williams, Joey Graham, Renaldo Balkman to TOR.</li>
-<li>Lost Vince Carter to NJN.</li>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-22" data-vorp-text="-22.4">-22.4</span></h5><ul id=vorp-toggle>
+<li>Added Alonzo Mourning <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Aaron Williams <span class="badge badge-pill badge-danger" data-bpm-text="-2211" data-vorp-text="-0.4">-0.4</span>, Eric Williams <span class="badge badge-pill badge-danger" data-bpm-text="-3813" data-vorp-text="-0.5">-0.5</span>, Joey Graham <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Renaldo Balkman <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to TOR.</li>
+<li>Lost Vince Carter <span class="badge badge-pill badge-danger" data-bpm-text="-56724" data-vorp-text="-21.5">-21.5</span> to NJN.</li>
 </ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-62748" data-vorp-text="-62748.7">-62748</span></h5><ul id=bpm-toggle>
+<li>Added Alonzo Mourning <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Aaron Williams <span class="badge badge-pill badge-danger" data-bpm-text="-2211" data-vorp-text="-0.4">-2211</span>, Eric Williams <span class="badge badge-pill badge-danger" data-bpm-text="-3813" data-vorp-text="-0.5">-3813</span>, Joey Graham <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Renaldo Balkman <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to TOR.</li>
+<li>Lost Vince Carter <span class="badge badge-pill badge-danger" data-bpm-text="-56724" data-vorp-text="-21.5">-56724</span> to NJN.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -857,17 +885,28 @@ function updateSigningChart() {
   </script>
 
       Rob Babcock ranks in the 94th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed José Calderón in 2005.</li>
-<li>Signed Rafer Alston in 2004.</li>
-<li>Signed Omar Cook in 2005.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed José Calderón <span class="badge badge-pill badge-success" data-bpm-text="+14" data-vorp-text="+14.4">+14.4</span> in 2005.</li>
+<li>Signed Rafer Alston <span class="badge badge-pill badge-success" data-bpm-text="+2" data-vorp-text="+2.0">+2.0</span> in 2004.</li>
+<li>Signed Omar Cook <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.1">+0.1</span> in 2005.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Loren Woods in 2004.</li>
-<li>Signed Darrick Martin in 2005.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed José Calderón <span class="badge badge-pill badge-success" data-bpm-text="+27187" data-vorp-text="+27187.7">+27187</span> in 2005.</li>
+<li>Signed Rafer Alston <span class="badge badge-pill badge-success" data-bpm-text="+2445" data-vorp-text="+2445.3">+2445</span> in 2004.</li>
+<li>Signed Omar Cook <span class="badge badge-pill badge-success" data-bpm-text="+162" data-vorp-text="+162.8">+162</span> in 2005.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Loren Woods <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.2">-0.2</span> in 2004.</li>
+<li>Signed Darrick Martin <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.2">-0.2</span> in 2005.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Loren Woods <span class="badge badge-pill badge-danger" data-bpm-text="-2913" data-vorp-text="-2913.6">-2913</span> in 2004.</li>
+<li>Signed Darrick Martin <span class="badge badge-pill badge-danger" data-bpm-text="-2064" data-vorp-text="-2064.5">-2064</span> in 2005.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -879,6 +918,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

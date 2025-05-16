@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,10 +567,9 @@ function updateExecDraftPlayersChart() {
 </script>
 
       This executive hasn't drafted any players, and thus doesn't have a draft grade.
-      <h5>Some of their biggest wins:</h5>
       
-      <h5>Some of their biggest busts:</h5>
       
+
     </div>
   </div>
 </div>
@@ -701,15 +711,24 @@ function updateTradeChart() {
   </script>
 
       Jeff Peterson ranks in the 56th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Josh Okogie to CHA.</li>
-<li>Lost Nick Richards to PHO.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.4">+0.4</span></h5><ul id=vorp-toggle>
+<li>Added Josh Okogie <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to CHA.</li>
+<li>Lost Nick Richards <span class="badge badge-pill badge-success" data-bpm-text="+3264" data-vorp-text="+0.4">+0.4</span> to PHO.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Josh Green, Reggie Jackson to CHO.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+3264" data-vorp-text="+3264.0">+3264</span></h5><ul id=bpm-toggle>
+<li>Added Josh Okogie <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to CHA.</li>
+<li>Lost Nick Richards <span class="badge badge-pill badge-success" data-bpm-text="+3264" data-vorp-text="+0.4">+3264</span> to PHO.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.1">-1.1</span></h5><ul id=vorp-toggle>
+<li>Added Josh Green <span class="badge badge-pill badge-danger" data-bpm-text="-8302" data-vorp-text="-1.1">-1.1</span>, Reggie Jackson <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to CHO.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-8302" data-vorp-text="-8302.8">-8302</span></h5><ul id=bpm-toggle>
+<li>Added Josh Green <span class="badge badge-pill badge-danger" data-bpm-text="-8302" data-vorp-text="-1.1">-8302</span>, Reggie Jackson <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to CHO.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -850,10 +869,14 @@ function updateSigningChart() {
   </script>
 
       Jeff Peterson ranks in the 68th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
       
-      <h5>Their worst signings:</h5>
+    
+    
+    
       
+    
+    
+    
     </div>
   </div>
 </div>
@@ -865,6 +888,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

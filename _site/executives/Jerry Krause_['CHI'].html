@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,18 +567,31 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Jerry Krause ranks in the 18th percentile for drafting among executives in our database. Krause's draft picks average out to be worth the equivalent of 12 spots lower than they were picked due to their terrible drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Toni Kukoč with 29th pick but was worth 2th pick.</li>
-<li>Drafted Horace Grant with 10th pick but was worth 6th pick.</li>
-<li>Drafted Khalid El-Amin with 34th pick but was worth 30th pick.</li>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Toni Kukoč <span class="badge badge-pill badge-success" data-bpm-text="+27" data-vorp-text="+27.4">+27.4</span> with 29th pick but was worth 2th pick. </li>
+<li>Drafted Horace Grant <span class="badge badge-pill badge-success" data-bpm-text="+21" data-vorp-text="+21.8">+21.8</span> with 10th pick but was worth 6th pick. </li>
+<li>Drafted B.J. Armstrong <span class="badge badge-pill badge-success" data-bpm-text="+6" data-vorp-text="+6.2">+6.2</span> with 18th pick but was worth 12th pick. </li>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Scott May with 2th pick but was worth 15th pick.</li>
-<li>Drafted Eddy Curry with 4th pick but was worth 53th pick.</li>
-<li>Drafted Elton Brand with 1th pick but was worth 5th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Toni Kukoč <span class="badge badge-pill badge-success" data-bpm-text="+69991" data-vorp-text="+69991.8">+69991</span> with 29th pick but was worth 2th pick. </li>
+<li>Drafted Horace Grant <span class="badge badge-pill badge-success" data-bpm-text="+50866" data-vorp-text="+50866.8">+50866</span> with 10th pick but was worth 6th pick. </li>
+<li>Drafted Khalid El-Amin <span class="badge badge-pill badge-success" data-bpm-text="+5440" data-vorp-text="+5440.3">+5440</span> with 34th pick but was worth 23th pick. </li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Scott May <span class="badge badge-pill badge-danger" data-bpm-text="-38" data-vorp-text="-38.0">-38.0</span> with 2th pick but was worth 15th pick.</li>
+<li>Drafted Eddy Curry <span class="badge badge-pill badge-danger" data-bpm-text="-27" data-vorp-text="-27.8">-27.8</span> with 4th pick but was worth 53th pick.</li>
+<li>Drafted Stacey King <span class="badge badge-pill badge-danger" data-bpm-text="-27" data-vorp-text="-27.4">-27.4</span> with 6th pick but was worth 50th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Scott May <span class="badge badge-pill badge-danger" data-bpm-text="-81746" data-vorp-text="-81746.3">-81746</span> with 2th pick but was worth 61th pick.</li>
+<li>Drafted Eddy Curry <span class="badge badge-pill badge-danger" data-bpm-text="-75977" data-vorp-text="-75977.4">-75977</span> with 4th pick but was worth 54th pick.</li>
+<li>Drafted Elton Brand <span class="badge badge-pill badge-danger" data-bpm-text="-57493" data-vorp-text="-57493.0">-57493</span> with 1th pick but was worth 4th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -709,16 +733,26 @@ function updateTradeChart() {
   </script>
 
       Jerry Krause ranks in the 58th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Scottie Pippen, Jeff Sanders to CHI.</li>
-<li>Lost Olden Polynice, Sylvester Gray, B.J. Armstrong to SEA.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+52" data-vorp-text="+52.6">+52.6</span></h5><ul id=vorp-toggle>
+<li>Added Scottie Pippen <span class="badge badge-pill badge-success" data-bpm-text="+142216" data-vorp-text="+51.1">+51.1</span>, Jeff Sanders <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to CHI.</li>
+<li>Lost Olden Polynice <span class="badge badge-pill badge-success" data-bpm-text="+17015" data-vorp-text="+1.5">+1.5</span>, Sylvester Gray <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, B.J. Armstrong <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to SEA.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Tyson Chandler, Brian Skinner to CHI.</li>
-<li>Lost Elton Brand to LAC.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+159231" data-vorp-text="+159231.4">+159231</span></h5><ul id=bpm-toggle>
+<li>Added Scottie Pippen <span class="badge badge-pill badge-success" data-bpm-text="+142216" data-vorp-text="+51.1">+142216</span>, Jeff Sanders <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to CHI.</li>
+<li>Lost Olden Polynice <span class="badge badge-pill badge-success" data-bpm-text="+17015" data-vorp-text="+1.5">+17015</span>, Sylvester Gray <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, B.J. Armstrong <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to SEA.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-24" data-vorp-text="-24.8">-24.8</span></h5><ul id=vorp-toggle>
+<li>Added Tyson Chandler <span class="badge badge-pill badge-success" data-bpm-text="-4602" data-vorp-text="+3.0">+3.0</span>, Brian Skinner <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to CHI.</li>
+<li>Lost Elton Brand <span class="badge badge-pill badge-danger" data-bpm-text="-75436" data-vorp-text="-27.8">-27.8</span> to LAC.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-80038" data-vorp-text="-80038.8">-80038</span></h5><ul id=bpm-toggle>
+<li>Added Tyson Chandler <span class="badge badge-pill badge-danger" data-bpm-text="-4602" data-vorp-text="+3.0">-4602</span>, Brian Skinner <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to CHI.</li>
+<li>Lost Elton Brand <span class="badge badge-pill badge-danger" data-bpm-text="-75436" data-vorp-text="-27.8">-75436</span> to LAC.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -859,18 +893,30 @@ function updateSigningChart() {
   </script>
 
       Jerry Krause ranks in the 37th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Steve Kerr in 1993.</li>
-<li>Signed Ron Harper in 1994.</li>
-<li>Signed Donyell Marshall in 2002.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Steve Kerr <span class="badge badge-pill badge-success" data-bpm-text="+8" data-vorp-text="+8.9">+8.9</span> in 1993.</li>
+<li>Signed Ron Harper <span class="badge badge-pill badge-success" data-bpm-text="+8" data-vorp-text="+8.2">+8.2</span> in 1994.</li>
+<li>Signed Brad Miller <span class="badge badge-pill badge-success" data-bpm-text="+2" data-vorp-text="+2.9">+2.9</span> in 2000.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed John Paxson in 1985.</li>
-<li>Signed Bill Wennington in 1993.</li>
-<li>Signed Dickey Simpkins in 1998.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Steve Kerr <span class="badge badge-pill badge-success" data-bpm-text="+16994" data-vorp-text="+16994.6">+16994</span> in 1993.</li>
+<li>Signed Ron Harper <span class="badge badge-pill badge-success" data-bpm-text="+14723" data-vorp-text="+14723.0">+14723</span> in 1994.</li>
+<li>Signed Donyell Marshall <span class="badge badge-pill badge-success" data-bpm-text="+2887" data-vorp-text="+2887.4">+2887</span> in 2002.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Bill Wennington <span class="badge badge-pill badge-danger" data-bpm-text="-2" data-vorp-text="-2.3">-2.3</span> in 1993.</li>
+<li>Signed Dickey Simpkins <span class="badge badge-pill badge-danger" data-bpm-text="-2" data-vorp-text="-2.0">-2.0</span> in 1998.</li>
+<li>Signed Charles Davis <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.9">-0.9</span> in 1988.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed John Paxson <span class="badge badge-pill badge-danger" data-bpm-text="-19995" data-vorp-text="-19995.4">-19995</span> in 1985.</li>
+<li>Signed Bill Wennington <span class="badge badge-pill badge-danger" data-bpm-text="-19072" data-vorp-text="-19072.1">-19072</span> in 1993.</li>
+<li>Signed Dickey Simpkins <span class="badge badge-pill badge-danger" data-bpm-text="-14447" data-vorp-text="-14447.9">-14447</span> in 1998.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -882,6 +928,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,16 +567,25 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Zach Kleiman ranks in the 98th percentile for drafting among executives in our database. Kleiman's draft picks average out to be worth the equivalent of 9 spots higher than they were picked due to his good drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Vince Williams Jr. with 47th pick but was worth 17th pick.</li>
-<li>Drafted Gregory Jackson II with 45th pick but was worth 42th pick.</li>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Vince Williams Jr. <span class="badge badge-pill badge-success" data-bpm-text="+1" data-vorp-text="+1.0">+1.0</span> with 47th pick but was worth 17th pick. </li>
+<li>Drafted Gregory Jackson II <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.2">+0.2</span> with 45th pick but was worth 42th pick. </li>
+<li>Drafted Jaylen Wells <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.1">+0.1</span> with 39th pick but was worth 32th pick. </li>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Jaylen Wells with 39th pick but was worth 32th pick.</li>
-<li>Drafted Jaylen Wells with 39th pick but was worth 32th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Vince Williams Jr. <span class="badge badge-pill badge-success" data-bpm-text="+6860" data-vorp-text="+6860.4">+6860</span> with 47th pick but was worth 33th pick. </li>
+<li>Drafted Gregory Jackson II <span class="badge badge-pill badge-success" data-bpm-text="+525" data-vorp-text="+525.2">+525</span> with 45th pick but was worth 41th pick. </li>
 </ul>
+    
+      
+    
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Jaylen Wells <span class="badge badge-pill badge-danger" data-bpm-text="-2051" data-vorp-text="-2051.2">-2051</span> with 39th pick but was worth 47th pick.</li>
+<li>Drafted Jaylen Wells <span class="badge badge-pill badge-danger" data-bpm-text="-2051" data-vorp-text="-2051.2">-2051</span> with 39th pick but was worth 47th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -707,16 +727,28 @@ function updateTradeChart() {
   </script>
 
       Zach Kleiman ranks in the 79th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Brandon Clarke to MEM.</li>
-<li>Lost Darius Bazley, Bobi Klintman to OKC.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+1" data-vorp-text="+1.1">+1.1</span></h5><ul id=vorp-toggle>
+<li>Added Luke Kennard <span class="badge badge-pill badge-success" data-bpm-text="+1411" data-vorp-text="+1.1">+1.1</span> to MEM.</li>
+<li>Lost Cam Christie <span class="badge badge-pill badge-success" data-bpm-text="+147" data-vorp-text="+0.0">+0.0</span>, Juan Nunez <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to LAC.</li>
+<li>Lost Danny Green <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to HOU.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Grayson Allen, Darius Bazley, Jae Crowder, Kyle Korver, Walker Kessler to MEM.</li>
-<li>Lost Mike Conley to UTA.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+13367" data-vorp-text="+13367.8">+13367</span></h5><ul id=bpm-toggle>
+<li>Added Brandon Clarke <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to MEM.</li>
+<li>Lost Darius Bazley <span class="badge badge-pill badge-success" data-bpm-text="+13367" data-vorp-text="+0.7">+13367</span>, Bobi Klintman <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to OKC.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-7" data-vorp-text="-7.5">-7.5</span></h5><ul id=vorp-toggle>
+<li>Added Steven Adams <span class="badge badge-pill badge-success" data-bpm-text="+4677" data-vorp-text="+2.7">+2.7</span>, Eric Bledsoe <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Jared Butler <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Ziaire Williams <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Vince Williams Jr. <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to MEM.</li>
+<li>Lost Brandon Boston Jr. <span class="badge badge-pill badge-success" data-bpm-text="+2482" data-vorp-text="+0.1">+0.1</span>, Trey Murphy III <span class="badge badge-pill badge-danger" data-bpm-text="-9077" data-vorp-text="-5.7">-5.7</span>, Jonas Valančiūnas <span class="badge badge-pill badge-danger" data-bpm-text="-5778" data-vorp-text="-4.6">-4.6</span> to NOP.</li>
+<li>Lost Tyler Harvey <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to CHO.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-17155" data-vorp-text="-17155.7">-17155</span></h5><ul id=bpm-toggle>
+<li>Added Grayson Allen <span class="badge badge-pill badge-danger" data-bpm-text="-1185" data-vorp-text="+0.7">-1185</span>, Darius Bazley <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Jae Crowder <span class="badge badge-pill badge-danger" data-bpm-text="-1586" data-vorp-text="+0.3">-1586</span>, Kyle Korver <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Walker Kessler <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to MEM.</li>
+<li>Lost Mike Conley <span class="badge badge-pill badge-danger" data-bpm-text="-14384" data-vorp-text="-6.8">-14384</span> to UTA.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -857,18 +889,30 @@ function updateSigningChart() {
   </script>
 
       Zach Kleiman ranks in the 41th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Desmond Bane in 2020.</li>
-<li>Signed Brandon Clarke in 2019.</li>
-<li>Signed Jonas Valančiūnas in 2019.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Desmond Bane <span class="badge badge-pill badge-success" data-bpm-text="+10" data-vorp-text="+10.1">+10.1</span> in 2020.</li>
+<li>Signed Brandon Clarke <span class="badge badge-pill badge-success" data-bpm-text="+7" data-vorp-text="+7.3">+7.3</span> in 2019.</li>
+<li>Signed Jonas Valančiūnas <span class="badge badge-pill badge-success" data-bpm-text="+4" data-vorp-text="+4.2">+4.2</span> in 2019.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Dillon Brooks in 2020.</li>
-<li>Signed Ziaire Williams in 2021.</li>
-<li>Signed David Roddy in 2022.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Desmond Bane <span class="badge badge-pill badge-success" data-bpm-text="+21996" data-vorp-text="+21996.1">+21996</span> in 2020.</li>
+<li>Signed Brandon Clarke <span class="badge badge-pill badge-success" data-bpm-text="+15210" data-vorp-text="+15210.3">+15210</span> in 2019.</li>
+<li>Signed Jonas Valančiūnas <span class="badge badge-pill badge-success" data-bpm-text="+9693" data-vorp-text="+9693.0">+9693</span> in 2019.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Dillon Brooks <span class="badge badge-pill badge-danger" data-bpm-text="-3" data-vorp-text="-3.1">-3.1</span> in 2020.</li>
+<li>Signed Ziaire Williams <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.4">-1.4</span> in 2021.</li>
+<li>Signed David Roddy <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.4">-1.4</span> in 2022.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Dillon Brooks <span class="badge badge-pill badge-danger" data-bpm-text="-26275" data-vorp-text="-26275.7">-26275</span> in 2020.</li>
+<li>Signed Ziaire Williams <span class="badge badge-pill badge-danger" data-bpm-text="-11850" data-vorp-text="-11850.6">-11850</span> in 2021.</li>
+<li>Signed David Roddy <span class="badge badge-pill badge-danger" data-bpm-text="-10476" data-vorp-text="-10476.2">-10476</span> in 2022.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -880,6 +924,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

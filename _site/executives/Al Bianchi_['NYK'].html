@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,16 +567,27 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Al Bianchi ranks in the 39th percentile for drafting among executives in our database. Bianchi's draft picks average out to be worth the equivalent of 6 spots lower than they were picked due to their terrible drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Rod Strickland with 19th pick but was worth 1th pick.</li>
-<li>Drafted Brian Quinnett with 50th pick but was worth 44th pick.</li>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Rod Strickland <span class="badge badge-pill badge-success" data-bpm-text="+32" data-vorp-text="+32.9">+32.9</span> with 19th pick but was worth 1th pick. </li>
+<li>Drafted Brian Quinnett <span class="badge badge-pill badge-success" data-bpm-text="+2" data-vorp-text="+2.1">+2.1</span> with 50th pick but was worth 44th pick. </li>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Jerrod Mustaf with 17th pick but was worth 41th pick.</li>
-<li>Drafted Greg Butler with 37th pick but was worth 61th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Rod Strickland <span class="badge badge-pill badge-success" data-bpm-text="+77358" data-vorp-text="+77358.2">+77358</span> with 19th pick but was worth 1th pick. </li>
+<li>Drafted Brian Quinnett <span class="badge badge-pill badge-success" data-bpm-text="+23793" data-vorp-text="+23793.4">+23793</span> with 50th pick but was worth 39th pick. </li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Jerrod Mustaf <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.8">-1.8</span> with 17th pick but was worth 41th pick.</li>
+<li>Drafted Greg Butler <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.6">-0.6</span> with 37th pick but was worth 61th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Jerrod Mustaf <span class="badge badge-pill badge-danger" data-bpm-text="-6262" data-vorp-text="-6262.2">-6262</span> with 17th pick but was worth 29th pick.</li>
+<li>Drafted Greg Butler <span class="badge badge-pill badge-danger" data-bpm-text="-1644" data-vorp-text="-1644.0">-1644</span> with 37th pick but was worth 44th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -707,16 +729,26 @@ function updateTradeChart() {
   </script>
 
       Al Bianchi ranks in the 56th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Charles Oakley, Rod Strickland, Phil Stinnie to NYK.</li>
-<li>Lost Bill Cartwright, Will Perdue, Derrick Lewis to CHI.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+20" data-vorp-text="+20.2">+20.2</span></h5><ul id=vorp-toggle>
+<li>Added Charles Oakley <span class="badge badge-pill badge-success" data-bpm-text="+11201" data-vorp-text="+14.7">+14.7</span>, Rod Strickland <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Phil Stinnie <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to NYK.</li>
+<li>Lost Bill Cartwright <span class="badge badge-pill badge-success" data-bpm-text="+35849" data-vorp-text="+3.8">+3.8</span>, Will Perdue <span class="badge badge-pill badge-success" data-bpm-text="+20862" data-vorp-text="+1.7">+1.7</span>, Derrick Lewis <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to CHI.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Sidney Green to NYK.</li>
-<li>Lost Ron Moore, Fennis Dembo to DET.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+67914" data-vorp-text="+67914.1">+67914</span></h5><ul id=bpm-toggle>
+<li>Added Charles Oakley <span class="badge badge-pill badge-success" data-bpm-text="+11201" data-vorp-text="+14.7">+11201</span>, Rod Strickland <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Phil Stinnie <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to NYK.</li>
+<li>Lost Bill Cartwright <span class="badge badge-pill badge-success" data-bpm-text="+35849" data-vorp-text="+3.8">+35849</span>, Will Perdue <span class="badge badge-pill badge-success" data-bpm-text="+20862" data-vorp-text="+1.7">+20862</span>, Derrick Lewis <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to CHI.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-2" data-vorp-text="-2.8">-2.8</span></h5><ul id=vorp-toggle>
+<li>Added Maurice Cheeks <span class="badge badge-pill badge-success" data-bpm-text="+5200" data-vorp-text="+2.7">+2.7</span> to NYK.</li>
+<li>Lost Rod Strickland <span class="badge badge-pill badge-danger" data-bpm-text="-11254" data-vorp-text="-5.5">-5.5</span> to SAS.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-8998" data-vorp-text="-8998.2">-8998</span></h5><ul id=bpm-toggle>
+<li>Added Sidney Green <span class="badge badge-pill badge-danger" data-bpm-text="-10132" data-vorp-text="-0.8">-10132</span> to NYK.</li>
+<li>Lost Ron Moore <span class="badge badge-pill badge-success" data-bpm-text="+335" data-vorp-text="+0.1">+335</span>, Fennis Dembo <span class="badge badge-pill badge-success" data-bpm-text="+799" data-vorp-text="+0.2">+799</span> to DET.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -857,17 +889,28 @@ function updateSigningChart() {
   </script>
 
       Al Bianchi ranks in the 90th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed John Starks in 1990.</li>
-<li>Signed Carey Scurry in 1988.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed John Starks <span class="badge badge-pill badge-success" data-bpm-text="+16" data-vorp-text="+16.7">+16.7</span> in 1990.</li>
+<li>Signed Johnny Newman <span class="badge badge-pill badge-success" data-bpm-text="+2" data-vorp-text="+2.4">+2.4</span> in 1987.</li>
+<li>Signed Sedric Toney <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.1">+0.1</span> in 1988.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Eddie Lee Wilkins in 1988.</li>
-<li>Signed Johnny Newman in 1987.</li>
-<li>Signed Billy Donovan in 1987.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed John Starks <span class="badge badge-pill badge-success" data-bpm-text="+31653" data-vorp-text="+31653.8">+31653</span> in 1990.</li>
+<li>Signed Carey Scurry <span class="badge badge-pill badge-success" data-bpm-text="+50" data-vorp-text="+50.4">+50</span> in 1988.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Eddie Lee Wilkins <span class="badge badge-pill badge-danger" data-bpm-text="-2" data-vorp-text="-2.7">-2.7</span> in 1988.</li>
+<li>Signed Billy Donovan <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.2">-0.2</span> in 1987.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Eddie Lee Wilkins <span class="badge badge-pill badge-danger" data-bpm-text="-15204" data-vorp-text="-15204.0">-15204</span> in 1988.</li>
+<li>Signed Johnny Newman <span class="badge badge-pill badge-danger" data-bpm-text="-2954" data-vorp-text="-2954.2">-2954</span> in 1987.</li>
+<li>Signed Billy Donovan <span class="badge badge-pill badge-danger" data-bpm-text="-1346" data-vorp-text="-1346.8">-1346</span> in 1987.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -879,6 +922,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

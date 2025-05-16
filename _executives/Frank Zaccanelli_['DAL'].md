@@ -26,11 +26,12 @@ is_active: false
 name: Frank Zaccanelli
 signing_description: This executive has only made one signing and thus doesn't have
   a signing grade.
-signing_lose_list: '<ul>
-
-  <li>Signed Oliver Miller in 1996.</li>
-
-  </ul>'
+signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul id=vorp-toggle>\n\
+  <li>Signed Oliver Miller <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  0\" data-vorp-text=\"-0.1\">-0.1</span> in 1996.</li>\n</ul>\n    <h5 id=\"bpm-toggle\"\
+  >Their worst signings: </h5><ul id=bpm-toggle>\n<li>Signed Oliver Miller <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-2090\" data-vorp-text=\"-2090.0\"\
+  >-2090</span> in 1996.</li>\n</ul>\n    "
 signing_num_players: 1
 signing_overall_percentile_bpm: null
 signing_overall_percentile_vorp: null
@@ -46,7 +47,7 @@ signing_total_grade_vorp: F
 signing_total_percentile_bpm: 73
 signing_total_percentile_vorp: 17
 signing_total_vorp: 0
-signing_win_list: null
+signing_win_list: "\n    \n    \n    "
 start_year: 1996
 team:
 - Dallas Mavericks
@@ -54,13 +55,20 @@ team_shortcode:
 - DAL
 trade_description: This executive has only made one trade and thus doesn't have a
   trade grade.
-trade_lose_list: '<ul>
-
-  <li>Added Sam Cassell, Michael Finley, A.C. Green, Greg Buckner to DAL.</li>
-
-  <li>Lost Tony Dumas, Jason Kidd, Loren Meyer to PHO.</li>
-
-  </ul>'
+trade_lose_list: "\n    \n    <h5 id=\"bpm-toggle\">Their biggest L: <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-16872\" data-vorp-text=\"-16872.4\"\
+  >-16872</span></h5><ul id=bpm-toggle>\n<li>Added Sam Cassell <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-159\" data-vorp-text=\"+0.2\">-159</span>,\
+  \ Michael Finley <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +39994\" data-vorp-text=\"+22.6\">+39994</span>, A.C. Green <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-8268\" data-vorp-text=\"+0.8\">-8268</span>,\
+  \ Greg Buckner <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-3949\"\
+  \ data-vorp-text=\"+1.0\">-3949</span> to DAL.</li>\n<li>Lost Tony Dumas <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+545\" data-vorp-text=\"+0.1\"\
+  >+545</span>, Jason Kidd <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -48402\" data-vorp-text=\"-18.3\">-48402</span>, Loren Meyer <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+3367\" data-vorp-text=\"+0.6\">+3367</span>\
+  \ to PHO.</li>\n</ul>\n    "
 trade_num: 7
 trade_overall_percentile_bpm: null
 trade_overall_percentile_vorp: null
@@ -76,5 +84,18 @@ trade_total_grade_vorp: B+
 trade_total_percentile_bpm: 30
 trade_total_percentile_vorp: 77
 trade_total_vorp: 7
-trade_win_list: null
+trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+7\" data-vorp-text=\"+7.0\">+7.0</span></h5><ul\
+  \ id=vorp-toggle>\n<li>Added Sam Cassell <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"-159\" data-vorp-text=\"+0.2\">+0.2</span>, Michael Finley <span\
+  \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+39994\" data-vorp-text=\"\
+  +22.6\">+22.6</span>, A.C. Green <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"-8268\" data-vorp-text=\"+0.8\">+0.8</span>, Greg Buckner <span\
+  \ class=\"badge badge-pill badge-success\" data-bpm-text=\"-3949\" data-vorp-text=\"\
+  +1.0\">+1.0</span> to DAL.</li>\n<li>Lost Tony Dumas <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+545\" data-vorp-text=\"+0.1\">+0.1</span>, Jason\
+  \ Kidd <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-48402\" data-vorp-text=\"\
+  -18.3\">-18.3</span>, Loren Meyer <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+3367\" data-vorp-text=\"+0.6\">+0.6</span> to PHO.</li>\n</ul>\n\
+  \    \n    "
 ---

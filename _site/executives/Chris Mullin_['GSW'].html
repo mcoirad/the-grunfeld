@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,15 +567,26 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Chris Mullin ranks in the 33th percentile for drafting among executives in our database. Mullin's draft picks average out to be worth the equivalent of 8 spots lower than they were picked due to their terrible drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Monta Ellis <span class="badge badge-pill badge-success" data-bpm-text="+12" data-vorp-text="+12.4">+12.4</span> with 40th pick but was worth 8th pick. </li>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Marco Belinelli with 18th pick but was worth 18th pick.</li>
-<li>Drafted Ike Diogu with 9th pick but was worth 54th pick.</li>
-<li>Drafted Andris Biedriņš with 11th pick but was worth 19th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Ike Diogu <span class="badge badge-pill badge-danger" data-bpm-text="-13" data-vorp-text="-13.0">-13.0</span> with 9th pick but was worth 54th pick.</li>
+<li>Drafted Anthony Randolph <span class="badge badge-pill badge-danger" data-bpm-text="-7" data-vorp-text="-7.2">-7.2</span> with 14th pick but was worth 27th pick.</li>
+<li>Drafted Andris Biedriņš <span class="badge badge-pill badge-danger" data-bpm-text="-5" data-vorp-text="-5.8">-5.8</span> with 11th pick but was worth 19th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Marco Belinelli <span class="badge badge-pill badge-danger" data-bpm-text="-25412" data-vorp-text="-25412.4">-25412</span> with 18th pick but was worth 51th pick.</li>
+<li>Drafted Ike Diogu <span class="badge badge-pill badge-danger" data-bpm-text="-15324" data-vorp-text="-15324.0">-15324</span> with 9th pick but was worth 43th pick.</li>
+<li>Drafted Andris Biedriņš <span class="badge badge-pill badge-danger" data-bpm-text="-12804" data-vorp-text="-12804.0">-12804</span> with 11th pick but was worth 43th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -706,16 +728,26 @@ function updateTradeChart() {
   </script>
 
       Chris Mullin ranks in the 2th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Baron Davis to GSW.</li>
-<li>Lost Speedy Claxton, Dale Davis to NOH.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+11" data-vorp-text="+11.2">+11.2</span></h5><ul id=vorp-toggle>
+<li>Added Baron Davis <span class="badge badge-pill badge-success" data-bpm-text="+27985" data-vorp-text="+11.3">+11.3</span> to GSW.</li>
+<li>Lost Speedy Claxton <span class="badge badge-pill badge-danger" data-bpm-text="+146" data-vorp-text="-0.1">-0.1</span>, Dale Davis <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to NOH.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Al Harrington, Stephen Jackson, Šarūnas Jasikevičius, Josh Powell to GSW.</li>
-<li>Lost Ike Diogu, Mike Dunleavy, Keith McLeod, Troy Murphy to IND.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+28131" data-vorp-text="+28131.0">+28131</span></h5><ul id=bpm-toggle>
+<li>Added Baron Davis <span class="badge badge-pill badge-success" data-bpm-text="+27985" data-vorp-text="+11.3">+27985</span> to GSW.</li>
+<li>Lost Speedy Claxton <span class="badge badge-pill badge-success" data-bpm-text="+146" data-vorp-text="-0.1">+146</span>, Dale Davis <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to NOH.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-8" data-vorp-text="-8.9">-8.9</span></h5><ul id=vorp-toggle>
+<li>Added Al Harrington <span class="badge badge-pill badge-success" data-bpm-text="-350" data-vorp-text="+1.8">+1.8</span>, Stephen Jackson <span class="badge badge-pill badge-success" data-bpm-text="-2050" data-vorp-text="+2.9">+2.9</span>, Šarūnas Jasikevičius <span class="badge badge-pill badge-danger" data-bpm-text="-1112" data-vorp-text="-0.1">-0.1</span>, Josh Powell <span class="badge badge-pill badge-danger" data-bpm-text="-1184" data-vorp-text="-0.2">-0.2</span> to GSW.</li>
+<li>Lost Ike Diogu <span class="badge badge-pill badge-success" data-bpm-text="+3450" data-vorp-text="+0.4">+0.4</span>, Mike Dunleavy <span class="badge badge-pill badge-danger" data-bpm-text="-5723" data-vorp-text="-5.5">-5.5</span>, Keith McLeod <span class="badge badge-pill badge-success" data-bpm-text="+1728" data-vorp-text="+0.3">+0.3</span>, Troy Murphy <span class="badge badge-pill badge-danger" data-bpm-text="-17385" data-vorp-text="-8.5">-8.5</span> to IND.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-22627" data-vorp-text="-22627.5">-22627</span></h5><ul id=bpm-toggle>
+<li>Added Al Harrington <span class="badge badge-pill badge-danger" data-bpm-text="-350" data-vorp-text="+1.8">-350</span>, Stephen Jackson <span class="badge badge-pill badge-danger" data-bpm-text="-2050" data-vorp-text="+2.9">-2050</span>, Šarūnas Jasikevičius <span class="badge badge-pill badge-danger" data-bpm-text="-1112" data-vorp-text="-0.1">-1112</span>, Josh Powell <span class="badge badge-pill badge-danger" data-bpm-text="-1184" data-vorp-text="-0.2">-1184</span> to GSW.</li>
+<li>Lost Ike Diogu <span class="badge badge-pill badge-success" data-bpm-text="+3450" data-vorp-text="+0.4">+3450</span>, Mike Dunleavy <span class="badge badge-pill badge-danger" data-bpm-text="-5723" data-vorp-text="-5.5">-5723</span>, Keith McLeod <span class="badge badge-pill badge-success" data-bpm-text="+1728" data-vorp-text="+0.3">+1728</span>, Troy Murphy <span class="badge badge-pill badge-danger" data-bpm-text="-17385" data-vorp-text="-8.5">-17385</span> to IND.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -856,18 +888,30 @@ function updateSigningChart() {
   </script>
 
       Chris Mullin ranks in the 73th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Ronny Turiaf in 2008.</li>
-<li>Signed Matt Barnes in 2006.</li>
-<li>Signed Dajuan Wagner in 2006.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Derek Fisher <span class="badge badge-pill badge-success" data-bpm-text="+2" data-vorp-text="+2.1">+2.1</span> in 2004.</li>
+<li>Signed Matt Barnes <span class="badge badge-pill badge-success" data-bpm-text="+2" data-vorp-text="+2.0">+2.0</span> in 2006.</li>
+<li>Signed Ronny Turiaf <span class="badge badge-pill badge-success" data-bpm-text="+1" data-vorp-text="+1.9">+1.9</span> in 2008.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Kelenna Azubuike in 2007.</li>
-<li>Signed C.J. Watson in 2008.</li>
-<li>Signed Corey Maggette in 2008.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Ronny Turiaf <span class="badge badge-pill badge-success" data-bpm-text="+2122" data-vorp-text="+2122.4">+2122</span> in 2008.</li>
+<li>Signed Matt Barnes <span class="badge badge-pill badge-success" data-bpm-text="+1061" data-vorp-text="+1061.9">+1061</span> in 2006.</li>
+<li>Signed Dajuan Wagner <span class="badge badge-pill badge-success" data-bpm-text="+29" data-vorp-text="+29.4">+29</span> in 2006.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed DeMarcus Nelson <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.2">-0.2</span> in 2008.</li>
+<li>Signed Aaron Miles <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.1">-0.1</span> in 2005.</li>
+<li>Signed Renaldo Major <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.1">-0.1</span> in 2007.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Kelenna Azubuike <span class="badge badge-pill badge-danger" data-bpm-text="-2690" data-vorp-text="-2690.1">-2690</span> in 2007.</li>
+<li>Signed C.J. Watson <span class="badge badge-pill badge-danger" data-bpm-text="-2687" data-vorp-text="-2687.1">-2687</span> in 2008.</li>
+<li>Signed Corey Maggette <span class="badge badge-pill badge-danger" data-bpm-text="-2551" data-vorp-text="-2551.7">-2551</span> in 2008.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -879,6 +923,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

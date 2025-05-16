@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,10 +567,9 @@ function updateExecDraftPlayersChart() {
 </script>
 
       This executive hasn't drafted any players, and thus doesn't have a draft grade.
-      <h5>Some of their biggest wins:</h5>
       
-      <h5>Some of their biggest busts:</h5>
       
+
     </div>
   </div>
 </div>
@@ -701,16 +711,25 @@ function updateTradeChart() {
   </script>
 
       This executive has only made 3 trades and thus doesn't have a trade grade.
-      <h5>Their biggest win:</h5>
-      <ul>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.3">+0.3</span></h5><ul id=vorp-toggle>
+<li>Added Eric Paschall <span class="badge badge-pill badge-success" data-bpm-text="-368" data-vorp-text="+0.3">+0.3</span> to UTA.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+1371" data-vorp-text="+1371.3">+1371</span></h5><ul id=bpm-toggle>
 <li>Didn't receive any players or picks.</li>
-<li>Lost Derrick Favors to OKC.</li>
+<li>Lost Derrick Favors <span class="badge badge-pill badge-success" data-bpm-text="+1371" data-vorp-text="+0.0">+1371</span> to OKC.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Jared Butler, Jabari Walker to UTA.</li>
-<li>Lost Santi Aldama to MEM.</li>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-3" data-vorp-text="-3.6">-3.6</span></h5><ul id=vorp-toggle>
+<li>Added Jared Butler <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Jabari Walker <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to UTA.</li>
+<li>Lost Santi Aldama <span class="badge badge-pill badge-danger" data-bpm-text="-3598" data-vorp-text="-3.6">-3.6</span> to MEM.</li>
 </ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-3598" data-vorp-text="-3598.2">-3598</span></h5><ul id=bpm-toggle>
+<li>Added Jared Butler <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Jabari Walker <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to UTA.</li>
+<li>Lost Santi Aldama <span class="badge badge-pill badge-danger" data-bpm-text="-3598" data-vorp-text="-3.6">-3598</span> to MEM.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -851,18 +870,29 @@ function updateSigningChart() {
   </script>
 
       Justin Zanik ranks in the 88th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Mike Conley in 2021.</li>
-<li>Signed Hassan Whiteside in 2021.</li>
-<li>Signed Jarrell Brantley in 2021.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Mike Conley <span class="badge badge-pill badge-success" data-bpm-text="+3" data-vorp-text="+3.4">+3.4</span> in 2021.</li>
+<li>Signed Hassan Whiteside <span class="badge badge-pill badge-success" data-bpm-text="+1" data-vorp-text="+1.2">+1.2</span> in 2021.</li>
+<li>Signed Trent Forrest <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.2">+0.2</span> in 2021.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Rudy Gay in 2021.</li>
-<li>Signed Trent Forrest in 2021.</li>
-<li>Signed Jared Butler in 2021.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Mike Conley <span class="badge badge-pill badge-success" data-bpm-text="+6635" data-vorp-text="+6635.0">+6635</span> in 2021.</li>
+<li>Signed Hassan Whiteside <span class="badge badge-pill badge-success" data-bpm-text="+2440" data-vorp-text="+2440.2">+2440</span> in 2021.</li>
+<li>Signed Jarrell Brantley <span class="badge badge-pill badge-success" data-bpm-text="+136" data-vorp-text="+136.5">+136</span> in 2021.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Rudy Gay <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.1">-0.1</span> in 2021.</li>
+<li>Signed Malik Fitts <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.1">-0.1</span> in 2021.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Rudy Gay <span class="badge badge-pill badge-danger" data-bpm-text="-4302" data-vorp-text="-4302.0">-4302</span> in 2021.</li>
+<li>Signed Trent Forrest <span class="badge badge-pill badge-danger" data-bpm-text="-765" data-vorp-text="-765.0">-765</span> in 2021.</li>
+<li>Signed Jared Butler <span class="badge badge-pill badge-danger" data-bpm-text="-576" data-vorp-text="-576.0">-576</span> in 2021.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -874,6 +904,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

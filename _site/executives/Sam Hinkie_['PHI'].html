@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,16 +567,28 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Sam Hinkie ranks in the 55th percentile for drafting among executives in our database. Hinkie's draft picks average out to be worth the equivalent of 1 spot lower than they were picked due to their terrible drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Joel Embiid with 3th pick but was worth 2th pick.</li>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Joel Embiid <span class="badge badge-pill badge-success" data-bpm-text="+15" data-vorp-text="+15.2">+15.2</span> with 3th pick but was worth 2th pick. </li>
+<li>Drafted Jerami Grant <span class="badge badge-pill badge-success" data-bpm-text="+8" data-vorp-text="+8.0">+8.0</span> with 39th pick but was worth 12th pick. </li>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Jahlil Okafor with 3th pick but was worth 37th pick.</li>
-<li>Drafted Michael Carter-Williams with 11th pick but was worth 19th pick.</li>
-<li>Drafted Jerami Grant with 39th pick but was worth 12th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Joel Embiid <span class="badge badge-pill badge-success" data-bpm-text="+71563" data-vorp-text="+71563.5">+71563</span> with 3th pick but was worth 2th pick. </li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Jahlil Okafor <span class="badge badge-pill badge-danger" data-bpm-text="-17" data-vorp-text="-17.9">-17.9</span> with 3th pick but was worth 37th pick.</li>
+<li>Drafted Michael Carter-Williams <span class="badge badge-pill badge-danger" data-bpm-text="-5" data-vorp-text="-5.3">-5.3</span> with 11th pick but was worth 19th pick.</li>
+<li>Drafted K.J. McDaniels <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.4">-0.4</span> with 32th pick but was worth 46th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Jahlil Okafor <span class="badge badge-pill badge-danger" data-bpm-text="-37074" data-vorp-text="-37074.4">-37074</span> with 3th pick but was worth 52th pick.</li>
+<li>Drafted Michael Carter-Williams <span class="badge badge-pill badge-danger" data-bpm-text="-14455" data-vorp-text="-14455.4">-14455</span> with 11th pick but was worth 49th pick.</li>
+<li>Drafted Jerami Grant <span class="badge badge-pill badge-danger" data-bpm-text="-4169" data-vorp-text="-4169.4">-4169</span> with 39th pick but was worth 49th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -707,16 +730,26 @@ function updateTradeChart() {
   </script>
 
       Sam Hinkie ranks in the 18th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Danny Granger, Luka Mitrović to PHI.</li>
-<li>Lost Lavoy Allen, Evan Turner to IND.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.2">+0.2</span></h5><ul id=vorp-toggle>
+<li>Added Pierre Jackson <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to PHI.</li>
+<li>Lost Russ Smith <span class="badge badge-pill badge-success" data-bpm-text="+730" data-vorp-text="+0.2">+0.2</span> to NOP.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Carl Landry, Nik Stauskas, Jason Thompson, Jayson Tatum, Romeo Langford to PHI.</li>
-<li>Lost Artūras Gudaitis, Luka Mitrović, De'Aaron Fox to SAC.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+5579" data-vorp-text="+5579.7">+5579</span></h5><ul id=bpm-toggle>
+<li>Added Danny Granger <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Luka Mitrović <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to PHI.</li>
+<li>Lost Lavoy Allen <span class="badge badge-pill badge-success" data-bpm-text="+4095" data-vorp-text="-0.9">+4095</span>, Evan Turner <span class="badge badge-pill badge-success" data-bpm-text="+1484" data-vorp-text="+0.1">+1484</span> to IND.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-13" data-vorp-text="-13.5">-13.5</span></h5><ul id=vorp-toggle>
+<li>Added Carl Landry <span class="badge badge-pill badge-success" data-bpm-text="+682" data-vorp-text="+0.5">+0.5</span>, Nik Stauskas <span class="badge badge-pill badge-danger" data-bpm-text="-13266" data-vorp-text="-1.3">-1.3</span>, Jason Thompson <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Jayson Tatum <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Romeo Langford <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to PHI.</li>
+<li>Lost Artūras Gudaitis <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Luka Mitrović <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, De'Aaron Fox <span class="badge badge-pill badge-danger" data-bpm-text="-15927" data-vorp-text="-12.7">-12.7</span> to SAC.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-28511" data-vorp-text="-28511.1">-28511</span></h5><ul id=bpm-toggle>
+<li>Added Carl Landry <span class="badge badge-pill badge-success" data-bpm-text="+682" data-vorp-text="+0.5">+682</span>, Nik Stauskas <span class="badge badge-pill badge-danger" data-bpm-text="-13266" data-vorp-text="-1.3">-13266</span>, Jason Thompson <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Jayson Tatum <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Romeo Langford <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to PHI.</li>
+<li>Lost Artūras Gudaitis <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Luka Mitrović <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, De'Aaron Fox <span class="badge badge-pill badge-danger" data-bpm-text="-15927" data-vorp-text="-12.7">-15927</span> to SAC.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -857,16 +890,28 @@ function updateSigningChart() {
   </script>
 
       Sam Hinkie ranks in the 6th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Robert Covington in 2014.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Robert Covington <span class="badge badge-pill badge-success" data-bpm-text="+5" data-vorp-text="+5.9">+5.9</span> in 2014.</li>
+<li>Signed T.J. McConnell <span class="badge badge-pill badge-success" data-bpm-text="+2" data-vorp-text="+2.1">+2.1</span> in 2015.</li>
+<li>Signed Christian Wood <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.1">+0.1</span> in 2016.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Hollis Thompson in 2013.</li>
-<li>Signed JaKarr Sampson in 2014.</li>
-<li>Signed Elliot Williams in 2013.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Robert Covington <span class="badge badge-pill badge-success" data-bpm-text="+5020" data-vorp-text="+5020.1">+5020</span> in 2014.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed JaKarr Sampson <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.4">-1.4</span> in 2014.</li>
+<li>Signed Hollis Thompson <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.2">-1.2</span> in 2013.</li>
+<li>Signed Elliot Williams <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.1">-1.1</span> in 2013.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Hollis Thompson <span class="badge badge-pill badge-danger" data-bpm-text="-17441" data-vorp-text="-17441.2">-17441</span> in 2013.</li>
+<li>Signed JaKarr Sampson <span class="badge badge-pill badge-danger" data-bpm-text="-9379" data-vorp-text="-9379.9">-9379</span> in 2014.</li>
+<li>Signed Elliot Williams <span class="badge badge-pill badge-danger" data-bpm-text="-6479" data-vorp-text="-6479.2">-6479</span> in 2013.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -878,6 +923,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

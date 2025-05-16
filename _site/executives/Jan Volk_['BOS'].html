@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,17 +567,29 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Jan Volk ranks in the 91th percentile for drafting among executives in our database. Volk's draft picks average out to be worth the equivalent of 7 spots higher than they were picked due to his good drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Reggie Lewis with 22th pick but was worth 9th pick.</li>
-<li>Drafted Dino Radja with 40th pick but was worth 16th pick.</li>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Reggie Lewis <span class="badge badge-pill badge-success" data-bpm-text="+12" data-vorp-text="+12.3">+12.3</span> with 22th pick but was worth 9th pick. </li>
+<li>Drafted Brian Shaw <span class="badge badge-pill badge-success" data-bpm-text="+4" data-vorp-text="+4.6">+4.6</span> with 24th pick but was worth 16th pick. </li>
+<li>Drafted Brad Lohaus <span class="badge badge-pill badge-success" data-bpm-text="+3" data-vorp-text="+3.5">+3.5</span> with 45th pick but was worth 17th pick. </li>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Brian Shaw with 24th pick but was worth 16th pick.</li>
-<li>Drafted Brad Lohaus with 45th pick but was worth 17th pick.</li>
-<li>Drafted Sam Vincent with 20th pick but was worth 23th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Reggie Lewis <span class="badge badge-pill badge-success" data-bpm-text="+20546" data-vorp-text="+20546.4">+20546</span> with 22th pick but was worth 8th pick. </li>
+<li>Drafted Dino Radja <span class="badge badge-pill badge-success" data-bpm-text="+2795" data-vorp-text="+2795.1">+2795</span> with 40th pick but was worth 31th pick. </li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Michael Smith <span class="badge badge-pill badge-danger" data-bpm-text="-5" data-vorp-text="-5.8">-5.8</span> with 13th pick but was worth 40th pick.</li>
+<li>Drafted Sam Vincent <span class="badge badge-pill badge-danger" data-bpm-text="-2" data-vorp-text="-2.3">-2.3</span> with 20th pick but was worth 23th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Brian Shaw <span class="badge badge-pill badge-danger" data-bpm-text="-21666" data-vorp-text="-21666.0">-21666</span> with 24th pick but was worth 61th pick.</li>
+<li>Drafted Brad Lohaus <span class="badge badge-pill badge-danger" data-bpm-text="-7264" data-vorp-text="-7264.6">-7264</span> with 45th pick but was worth 61th pick.</li>
+<li>Drafted Sam Vincent <span class="badge badge-pill badge-danger" data-bpm-text="-6021" data-vorp-text="-6021.6">-6021</span> with 20th pick but was worth 61th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -708,16 +731,26 @@ function updateTradeChart() {
   </script>
 
       Jan Volk ranks in the 17th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Bill Walton to BOS.</li>
-<li>Lost Cedric Maxwell, Arvydas Sabonis to LAC.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+1" data-vorp-text="+1.0">+1.0</span></h5><ul id=vorp-toggle>
+<li>Added Joe Kleine <span class="badge badge-pill badge-danger" data-bpm-text="-15090" data-vorp-text="-1.3">-1.3</span>, Ed Pinckney <span class="badge badge-pill badge-success" data-bpm-text="+8412" data-vorp-text="+5.4">+5.4</span> to BOS.</li>
+<li>Lost Danny Ainge <span class="badge badge-pill badge-danger" data-bpm-text="-5775" data-vorp-text="-3.3">-3.3</span>, Brad Lohaus <span class="badge badge-pill badge-success" data-bpm-text="+1856" data-vorp-text="+0.2">+0.2</span> to SAC.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Joe Kleine, Ed Pinckney to BOS.</li>
-<li>Lost Danny Ainge, Brad Lohaus to SAC.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+5200" data-vorp-text="+5200.8">+5200</span></h5><ul id=bpm-toggle>
+<li>Added Bill Walton <span class="badge badge-pill badge-success" data-bpm-text="+4178" data-vorp-text="+1.9">+4178</span> to BOS.</li>
+<li>Lost Cedric Maxwell <span class="badge badge-pill badge-success" data-bpm-text="+1022" data-vorp-text="-1.6">+1022</span>, Arvydas Sabonis <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to LAC.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-3" data-vorp-text="-3.2">-3.2</span></h5><ul id=vorp-toggle>
+<li>Added Len Bias <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to BOS.</li>
+<li>Lost Gerald Henderson <span class="badge badge-pill badge-danger" data-bpm-text="-2404" data-vorp-text="-3.2">-3.2</span> to SEA.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-10597" data-vorp-text="-10597.5">-10597</span></h5><ul id=bpm-toggle>
+<li>Added Joe Kleine <span class="badge badge-pill badge-danger" data-bpm-text="-15090" data-vorp-text="-1.3">-15090</span>, Ed Pinckney <span class="badge badge-pill badge-success" data-bpm-text="+8412" data-vorp-text="+5.4">+8412</span> to BOS.</li>
+<li>Lost Danny Ainge <span class="badge badge-pill badge-danger" data-bpm-text="-5775" data-vorp-text="-3.3">-5775</span>, Brad Lohaus <span class="badge badge-pill badge-success" data-bpm-text="+1856" data-vorp-text="+0.2">+1856</span> to SAC.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -858,17 +891,29 @@ function updateSigningChart() {
   </script>
 
       Jan Volk ranks in the 7th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Kevin Gamble in 1988.</li>
-<li>Signed Brian Shaw in 1990.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Kevin Gamble <span class="badge badge-pill badge-success" data-bpm-text="+6" data-vorp-text="+6.9">+6.9</span> in 1988.</li>
+<li>Signed Brian Shaw <span class="badge badge-pill badge-success" data-bpm-text="+2" data-vorp-text="+2.5">+2.5</span> in 1990.</li>
+<li>Signed Ray Williams <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.1">+0.1</span> in 1985.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Mark Acres in 1987.</li>
-<li>Signed Darren Daye in 1986.</li>
-<li>Signed David Thirdkill in 1985.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Kevin Gamble <span class="badge badge-pill badge-success" data-bpm-text="+5010" data-vorp-text="+5010.8">+5010</span> in 1988.</li>
+<li>Signed Brian Shaw <span class="badge badge-pill badge-success" data-bpm-text="+3441" data-vorp-text="+3441.6">+3441</span> in 1990.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed David Thirdkill <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.3">-0.3</span> in 1985.</li>
+<li>Signed Conner Henry <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.2">-0.2</span> in 1987.</li>
+<li>Signed Mark Acres <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.2">-0.2</span> in 1988.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Mark Acres <span class="badge badge-pill badge-danger" data-bpm-text="-3222" data-vorp-text="-3222.8">-3222</span> in 1987.</li>
+<li>Signed Darren Daye <span class="badge badge-pill badge-danger" data-bpm-text="-2506" data-vorp-text="-2506.4">-2506</span> in 1986.</li>
+<li>Signed David Thirdkill <span class="badge badge-pill badge-danger" data-bpm-text="-2184" data-vorp-text="-2184.3">-2184</span> in 1985.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -880,6 +925,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

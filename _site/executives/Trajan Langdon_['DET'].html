@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,14 +567,23 @@ function updateExecDraftPlayersChart() {
 </script>
 
       This executive has only drafted 2 players and thus doesn't have a draft grade.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Ron Holland II with 5th pick but was worth 45th pick.</li>
-<li>Drafted Ron Holland II with 5th pick but was worth 45th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Ron Holland II <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.7">-0.7</span> with 5th pick but was worth 45th pick.</li>
+<li>Drafted Ron Holland II <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.7">-0.7</span> with 5th pick but was worth 45th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Ron Holland II <span class="badge badge-pill badge-danger" data-bpm-text="-3798" data-vorp-text="-3798.0">-3798</span> with 5th pick but was worth 45th pick.</li>
+<li>Drafted Ron Holland II <span class="badge badge-pill badge-danger" data-bpm-text="-3798" data-vorp-text="-3798.0">-3798</span> with 5th pick but was worth 45th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -705,16 +725,26 @@ function updateTradeChart() {
   </script>
 
       This executive has only made 4 trades and thus doesn't have a trade grade.
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Dennis Schroder, Lindy Waters III to DET.</li>
-<li>Lost K.J. Martin to UTA.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.4">+0.4</span></h5><ul id=vorp-toggle>
+<li>Added Dennis Schroder <span class="badge badge-pill badge-success" data-bpm-text="-1233" data-vorp-text="+0.0">+0.0</span>, Lindy Waters III <span class="badge badge-pill badge-success" data-bpm-text="-70" data-vorp-text="+0.0">+0.0</span> to DET.</li>
+<li>Lost K.J. Martin <span class="badge badge-pill badge-success" data-bpm-text="+2419" data-vorp-text="+0.4">+0.4</span> to UTA.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Tim Hardaway to DET.</li>
-<li>Lost Quentin Grimes to DAL.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+1115" data-vorp-text="+1115.7">+1115</span></h5><ul id=bpm-toggle>
+<li>Added Dennis Schroder <span class="badge badge-pill badge-danger" data-bpm-text="-1233" data-vorp-text="+0.0">-1233</span>, Lindy Waters III <span class="badge badge-pill badge-danger" data-bpm-text="-70" data-vorp-text="+0.0">-70</span> to DET.</li>
+<li>Lost K.J. Martin <span class="badge badge-pill badge-success" data-bpm-text="+2419" data-vorp-text="+0.4">+2419</span> to UTA.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.5">-0.5</span></h5><ul id=vorp-toggle>
+<li>Added Tim Hardaway <span class="badge badge-pill badge-success" data-bpm-text="-4176" data-vorp-text="+0.0">+0.0</span> to DET.</li>
+<li>Lost Quentin Grimes <span class="badge badge-pill badge-danger" data-bpm-text="+321" data-vorp-text="-0.5">-0.5</span> to DAL.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-3855" data-vorp-text="-3855.0">-3855</span></h5><ul id=bpm-toggle>
+<li>Added Tim Hardaway <span class="badge badge-pill badge-danger" data-bpm-text="-4176" data-vorp-text="+0.0">-4176</span> to DET.</li>
+<li>Lost Quentin Grimes <span class="badge badge-pill badge-success" data-bpm-text="+321" data-vorp-text="-0.5">+321</span> to DAL.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -855,18 +885,29 @@ function updateSigningChart() {
   </script>
 
       Trajan Langdon ranks in the 82th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Malik Beasley in 2024.</li>
-<li>Signed Paul Reed in 2024.</li>
-<li>Signed Alondes Williams in 2024.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Malik Beasley <span class="badge badge-pill badge-success" data-bpm-text="+1" data-vorp-text="+1.5">+1.5</span> in 2024.</li>
+<li>Signed Tobias Harris <span class="badge badge-pill badge-success" data-bpm-text="+1" data-vorp-text="+1.1">+1.1</span> in 2024.</li>
+<li>Signed Paul Reed <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.5">+0.5</span> in 2024.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Simone Fontecchio in 2024.</li>
-<li>Signed Cole Swider in 2024.</li>
-<li>Signed Daniss Jenkins in 2024.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Malik Beasley <span class="badge badge-pill badge-success" data-bpm-text="+1547" data-vorp-text="+1547.0">+1547</span> in 2024.</li>
+<li>Signed Paul Reed <span class="badge badge-pill badge-success" data-bpm-text="+1218" data-vorp-text="+1218.0">+1218</span> in 2024.</li>
+<li>Signed Alondes Williams <span class="badge badge-pill badge-success" data-bpm-text="+176" data-vorp-text="+176.4">+176</span> in 2024.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Simone Fontecchio <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.3">-0.3</span> in 2024.</li>
+<li>Signed Cole Swider <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.1">-0.1</span> in 2024.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Simone Fontecchio <span class="badge badge-pill badge-danger" data-bpm-text="-3500" data-vorp-text="-3500.3">-3500</span> in 2024.</li>
+<li>Signed Cole Swider <span class="badge badge-pill badge-danger" data-bpm-text="-265" data-vorp-text="-265.2">-265</span> in 2024.</li>
+<li>Signed Daniss Jenkins <span class="badge badge-pill badge-danger" data-bpm-text="-199" data-vorp-text="-199.2">-199</span> in 2024.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -878,6 +919,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

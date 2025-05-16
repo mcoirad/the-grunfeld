@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,15 +567,25 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Dennis Lindsey ranks in the 55th percentile for drafting among executives in our database. Lindsey's draft picks average out to be worth the equivalent of 1 spot lower than they were picked due to their terrible drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Grayson Allen with 21th pick but was worth 14th pick.</li>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Grayson Allen <span class="badge badge-pill badge-success" data-bpm-text="+2" data-vorp-text="+2.5">+2.5</span> with 21th pick but was worth 14th pick. </li>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Dante Exum with 5th pick but was worth 56th pick.</li>
-<li>Drafted Trey Lyles with 12th pick but was worth 19th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Grayson Allen <span class="badge badge-pill badge-success" data-bpm-text="+102" data-vorp-text="+102.4">+102</span> with 21th pick but was worth 18th pick. </li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Dante Exum <span class="badge badge-pill badge-danger" data-bpm-text="-15" data-vorp-text="-15.7">-15.7</span> with 5th pick but was worth 56th pick.</li>
+<li>Drafted Trey Lyles <span class="badge badge-pill badge-danger" data-bpm-text="-3" data-vorp-text="-3.2">-3.2</span> with 12th pick but was worth 19th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Dante Exum <span class="badge badge-pill badge-danger" data-bpm-text="-39552" data-vorp-text="-39552.0">-39552</span> with 5th pick but was worth 55th pick.</li>
+<li>Drafted Trey Lyles <span class="badge badge-pill badge-danger" data-bpm-text="-12906" data-vorp-text="-12906.0">-12906</span> with 12th pick but was worth 53th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -706,16 +727,26 @@ function updateTradeChart() {
   </script>
 
       Dennis Lindsey ranks in the 87th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Mike Conley to UTA.</li>
-<li>Lost Grayson Allen, Darius Bazley, Jae Crowder, Kyle Korver, Walker Kessler to MEM.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+5" data-vorp-text="+5.8">+5.8</span></h5><ul id=vorp-toggle>
+<li>Added Mike Conley <span class="badge badge-pill badge-success" data-bpm-text="+14384" data-vorp-text="+6.8">+6.8</span> to UTA.</li>
+<li>Lost Grayson Allen <span class="badge badge-pill badge-danger" data-bpm-text="+1185" data-vorp-text="-0.7">-0.7</span>, Darius Bazley <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Jae Crowder <span class="badge badge-pill badge-danger" data-bpm-text="+1586" data-vorp-text="-0.3">-0.3</span>, Kyle Korver <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Walker Kessler <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to MEM.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Thomas Bryant, Grant Jerrett, Kendrick Perkins, Tibor Pleiß, Josh Okogie to UTA.</li>
-<li>Lost Enes Kanter, Steve Novak to OKC.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+17155" data-vorp-text="+17155.7">+17155</span></h5><ul id=bpm-toggle>
+<li>Added Mike Conley <span class="badge badge-pill badge-success" data-bpm-text="+14384" data-vorp-text="+6.8">+14384</span> to UTA.</li>
+<li>Lost Grayson Allen <span class="badge badge-pill badge-success" data-bpm-text="+1185" data-vorp-text="-0.7">+1185</span>, Darius Bazley <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Jae Crowder <span class="badge badge-pill badge-success" data-bpm-text="+1586" data-vorp-text="-0.3">+1586</span>, Kyle Korver <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Walker Kessler <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to MEM.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-5" data-vorp-text="-5.7">-5.7</span></h5><ul id=vorp-toggle>
+<li>Added Trey Burke <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to UTA.</li>
+<li>Lost Gorgui Dieng <span class="badge badge-pill badge-danger" data-bpm-text="-1735" data-vorp-text="-5.9">-5.9</span>, Shabazz Muhammad <span class="badge badge-pill badge-success" data-bpm-text="+10318" data-vorp-text="+0.2">+0.2</span> to MIN.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-5822" data-vorp-text="-5822.1">-5822</span></h5><ul id=bpm-toggle>
+<li>Added Thomas Bryant <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Grant Jerrett <span class="badge badge-pill badge-danger" data-bpm-text="-41" data-vorp-text="+0.0">-41</span>, Kendrick Perkins <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Tibor Pleiß <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Josh Okogie <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to UTA.</li>
+<li>Lost Enes Kanter <span class="badge badge-pill badge-danger" data-bpm-text="-6289" data-vorp-text="-3.6">-6289</span>, Steve Novak <span class="badge badge-pill badge-success" data-bpm-text="+508" data-vorp-text="+0.1">+508</span> to OKC.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -856,18 +887,30 @@ function updateSigningChart() {
   </script>
 
       Dennis Lindsey ranks in the 84th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Rudy Gobert in 2016.</li>
-<li>Signed Gordon Hayward in 2014.</li>
-<li>Signed Donovan Mitchell in 2017.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Rudy Gobert <span class="badge badge-pill badge-success" data-bpm-text="+22" data-vorp-text="+22.4">+22.4</span> in 2016.</li>
+<li>Signed Donovan Mitchell <span class="badge badge-pill badge-success" data-bpm-text="+13" data-vorp-text="+13.1">+13.1</span> in 2017.</li>
+<li>Signed Gordon Hayward <span class="badge badge-pill badge-success" data-bpm-text="+11" data-vorp-text="+11.8">+11.8</span> in 2014.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Jordan Clarkson in 2020.</li>
-<li>Signed Trey Burke in 2013.</li>
-<li>Signed Raul Neto in 2015.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Rudy Gobert <span class="badge badge-pill badge-success" data-bpm-text="+61030" data-vorp-text="+61030.9">+61030</span> in 2016.</li>
+<li>Signed Gordon Hayward <span class="badge badge-pill badge-success" data-bpm-text="+30573" data-vorp-text="+30573.8">+30573</span> in 2014.</li>
+<li>Signed Donovan Mitchell <span class="badge badge-pill badge-success" data-bpm-text="+28393" data-vorp-text="+28393.7">+28393</span> in 2017.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed John Lucas III <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.6">-0.6</span> in 2013.</li>
+<li>Signed Elijah Millsap <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.4">-0.4</span> in 2015.</li>
+<li>Signed Tibor Pleiß <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.2">-0.2</span> in 2015.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Jordan Clarkson <span class="badge badge-pill badge-danger" data-bpm-text="-10534" data-vorp-text="-10534.6">-10534</span> in 2020.</li>
+<li>Signed Trey Burke <span class="badge badge-pill badge-danger" data-bpm-text="-9767" data-vorp-text="-9767.4">-9767</span> in 2013.</li>
+<li>Signed Raul Neto <span class="badge badge-pill badge-danger" data-bpm-text="-3729" data-vorp-text="-3729.8">-3729</span> in 2015.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -879,6 +922,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

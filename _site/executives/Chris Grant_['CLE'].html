@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,16 +567,27 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Chris Grant ranks in the 5th percentile for drafting among executives in our database. Grant's draft picks average out to be worth the equivalent of 19 spots lower than they were picked due to their terrible drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Jae Crowder with 34th pick but was worth 7th pick.</li>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Jae Crowder <span class="badge badge-pill badge-success" data-bpm-text="+11" data-vorp-text="+11.0">+11.0</span> with 34th pick but was worth 7th pick. </li>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Anthony Bennett with 1th pick but was worth 59th pick.</li>
-<li>Drafted Tristan Thompson with 4th pick but was worth 23th pick.</li>
-<li>Drafted Dion Waiters with 4th pick but was worth 46th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Jae Crowder <span class="badge badge-pill badge-success" data-bpm-text="+6346" data-vorp-text="+6346.8">+6346</span> with 34th pick but was worth 10th pick. </li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Anthony Bennett <span class="badge badge-pill badge-danger" data-bpm-text="-63" data-vorp-text="-63.7">-63.7</span> with 1th pick but was worth 59th pick.</li>
+<li>Drafted Tristan Thompson <span class="badge badge-pill badge-danger" data-bpm-text="-30" data-vorp-text="-30.3">-30.3</span> with 4th pick but was worth 23th pick.</li>
+<li>Drafted Dion Waiters <span class="badge badge-pill badge-danger" data-bpm-text="-24" data-vorp-text="-24.4">-24.4</span> with 4th pick but was worth 46th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Anthony Bennett <span class="badge badge-pill badge-danger" data-bpm-text="-198311" data-vorp-text="-198311.8">-198311</span> with 1th pick but was worth 44th pick.</li>
+<li>Drafted Tristan Thompson <span class="badge badge-pill badge-danger" data-bpm-text="-104202" data-vorp-text="-104202.4">-104202</span> with 4th pick but was worth 59th pick.</li>
+<li>Drafted Dion Waiters <span class="badge badge-pill badge-danger" data-bpm-text="-66193" data-vorp-text="-66193.5">-66193</span> with 4th pick but was worth 59th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -707,16 +729,26 @@ function updateTradeChart() {
   </script>
 
       Chris Grant ranks in the 9th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Luol Deng to CLE.</li>
-<li>Lost Andrew Bynum, Sir'Dominic Pointer, Paul Zipser, Jordan Bell to CHI.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+1" data-vorp-text="+1.7">+1.7</span></h5><ul id=vorp-toggle>
+<li>Added Luol Deng <span class="badge badge-pill badge-success" data-bpm-text="-1217" data-vorp-text="+0.4">+0.4</span> to CLE.</li>
+<li>Lost Andrew Bynum <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Sir'Dominic Pointer <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Paul Zipser <span class="badge badge-pill badge-success" data-bpm-text="+8735" data-vorp-text="+1.3">+1.3</span>, Jordan Bell <span class="badge badge-pill badge-success" data-bpm-text="-5" data-vorp-text="+0.0">+0.0</span> to CHI.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Milan Mačvan, Jae Crowder, Nemanja Nedović, Timothé Luwawu-Cabarrot to CLE.</li>
-<li>Lost LeBron James to MIA.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+7512" data-vorp-text="+7512.5">+7512</span></h5><ul id=bpm-toggle>
+<li>Added Luol Deng <span class="badge badge-pill badge-danger" data-bpm-text="-1217" data-vorp-text="+0.4">-1217</span> to CLE.</li>
+<li>Lost Andrew Bynum <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Sir'Dominic Pointer <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Paul Zipser <span class="badge badge-pill badge-success" data-bpm-text="+8735" data-vorp-text="+1.3">+8735</span>, Jordan Bell <span class="badge badge-pill badge-danger" data-bpm-text="-5" data-vorp-text="+0.0">-5</span> to CHI.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-33" data-vorp-text="-33.2">-33.2</span></h5><ul id=vorp-toggle>
+<li>Added Milan Mačvan <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Jae Crowder <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Nemanja Nedović <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Timothé Luwawu-Cabarrot <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to CLE.</li>
+<li>Lost LeBron James <span class="badge badge-pill badge-danger" data-bpm-text="-109362" data-vorp-text="-33.2">-33.2</span> to MIA.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-109362" data-vorp-text="-109362.2">-109362</span></h5><ul id=bpm-toggle>
+<li>Added Milan Mačvan <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Jae Crowder <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Nemanja Nedović <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Timothé Luwawu-Cabarrot <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to CLE.</li>
+<li>Lost LeBron James <span class="badge badge-pill badge-danger" data-bpm-text="-109362" data-vorp-text="-33.2">-109362</span> to MIA.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -857,17 +889,28 @@ function updateSigningChart() {
   </script>
 
       Chris Grant ranks in the 3th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed C.J. Miles in 2012.</li>
-<li>Signed Ben Uzoh in 2012.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed C.J. Miles <span class="badge badge-pill badge-success" data-bpm-text="+2" data-vorp-text="+2.2">+2.2</span> in 2012.</li>
+<li>Signed Shaun Livingston <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.5">+0.5</span> in 2012.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Alonzo Gee in 2010.</li>
-<li>Signed Samardo Samuels in 2010.</li>
-<li>Signed Jarrett Jack in 2013.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed C.J. Miles <span class="badge badge-pill badge-success" data-bpm-text="+3862" data-vorp-text="+3862.0">+3862</span> in 2012.</li>
+<li>Signed Ben Uzoh <span class="badge badge-pill badge-success" data-bpm-text="+76" data-vorp-text="+76.7">+76</span> in 2012.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Samardo Samuels <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.6">-1.6</span> in 2010.</li>
+<li>Signed Joey Graham <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.6">-0.6</span> in 2010.</li>
+<li>Signed Donald Sloan <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.6">-0.6</span> in 2012.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Alonzo Gee <span class="badge badge-pill badge-danger" data-bpm-text="-14564" data-vorp-text="-14564.3">-14564</span> in 2010.</li>
+<li>Signed Samardo Samuels <span class="badge badge-pill badge-danger" data-bpm-text="-9653" data-vorp-text="-9653.5">-9653</span> in 2010.</li>
+<li>Signed Jarrett Jack <span class="badge badge-pill badge-danger" data-bpm-text="-4729" data-vorp-text="-4729.2">-4729</span> in 2013.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -879,6 +922,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

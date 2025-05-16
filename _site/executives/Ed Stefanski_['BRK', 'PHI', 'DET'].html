@@ -138,16 +138,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -162,6 +170,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -295,6 +304,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -564,16 +575,28 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Ed Stefanski ranks in the 9th percentile for drafting among executives in our database. Stefanski's draft picks average out to be worth the equivalent of 15 spots lower than they were picked due to their terrible drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Jrue Holiday with 17th pick but was worth 4th pick.</li>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Jrue Holiday <span class="badge badge-pill badge-success" data-bpm-text="+24" data-vorp-text="+24.6">+24.6</span> with 17th pick but was worth 4th pick. </li>
+<li>Drafted Bruce Brown <span class="badge badge-pill badge-success" data-bpm-text="+1" data-vorp-text="+1.6">+1.6</span> with 42th pick but was worth 24th pick. </li>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Evan Turner with 2th pick but was worth 23th pick.</li>
-<li>Drafted Marreese Speights with 16th pick but was worth 54th pick.</li>
-<li>Drafted Antoine Wright with 15th pick but was worth 58th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Jrue Holiday <span class="badge badge-pill badge-success" data-bpm-text="+54656" data-vorp-text="+54656.0">+54656</span> with 17th pick but was worth 4th pick. </li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Evan Turner <span class="badge badge-pill badge-danger" data-bpm-text="-23" data-vorp-text="-23.6">-23.6</span> with 2th pick but was worth 23th pick.</li>
+<li>Drafted Antoine Wright <span class="badge badge-pill badge-danger" data-bpm-text="-10" data-vorp-text="-10.4">-10.4</span> with 15th pick but was worth 58th pick.</li>
+<li>Drafted Marreese Speights <span class="badge badge-pill badge-danger" data-bpm-text="-6" data-vorp-text="-6.5">-6.5</span> with 16th pick but was worth 54th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Evan Turner <span class="badge badge-pill badge-danger" data-bpm-text="-85675" data-vorp-text="-85675.8">-85675</span> with 2th pick but was worth 59th pick.</li>
+<li>Drafted Marreese Speights <span class="badge badge-pill badge-danger" data-bpm-text="-23408" data-vorp-text="-23408.0">-23408</span> with 16th pick but was worth 57th pick.</li>
+<li>Drafted Antoine Wright <span class="badge badge-pill badge-danger" data-bpm-text="-21141" data-vorp-text="-21141.8">-21141</span> with 15th pick but was worth 55th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -715,16 +738,26 @@ function updateTradeChart() {
   </script>
 
       Ed Stefanski ranks in the 23th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Vince Carter to BRK.</li>
-<li>Lost Alonzo Mourning, Aaron Williams, Eric Williams, Joey Graham, Renaldo Balkman to TOR.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+24" data-vorp-text="+24.1">+24.1</span></h5><ul id=vorp-toggle>
+<li>Added Vince Carter <span class="badge badge-pill badge-success" data-bpm-text="+56724" data-vorp-text="+21.5">+21.5</span> to BRK.</li>
+<li>Lost Alonzo Mourning <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Aaron Williams <span class="badge badge-pill badge-success" data-bpm-text="+2211" data-vorp-text="+0.4">+0.4</span>, Eric Williams <span class="badge badge-pill badge-success" data-bpm-text="+3813" data-vorp-text="+0.5">+0.5</span>, Joey Graham <span class="badge badge-pill badge-success" data-bpm-text="+16058" data-vorp-text="+1.7">+1.7</span>, Renaldo Balkman <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to TOR.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Clifford Robinson to BRK.</li>
-<li>Lost Chris Taft, Stéphane Lasme to GSW.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+78807" data-vorp-text="+78807.6">+78807</span></h5><ul id=bpm-toggle>
+<li>Added Vince Carter <span class="badge badge-pill badge-success" data-bpm-text="+56724" data-vorp-text="+21.5">+56724</span> to BRK.</li>
+<li>Lost Alonzo Mourning <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Aaron Williams <span class="badge badge-pill badge-success" data-bpm-text="+2211" data-vorp-text="+0.4">+2211</span>, Eric Williams <span class="badge badge-pill badge-success" data-bpm-text="+3813" data-vorp-text="+0.5">+3813</span>, Joey Graham <span class="badge badge-pill badge-success" data-bpm-text="+16058" data-vorp-text="+1.7">+16058</span>, Renaldo Balkman <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to TOR.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-5" data-vorp-text="-5.8">-5.8</span></h5><ul id=vorp-toggle>
+<li>Added Joey Graham <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Renaldo Balkman <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Marcus Williams <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to BRK.</li>
+<li>Lost Kenyon Martin <span class="badge badge-pill badge-danger" data-bpm-text="-620" data-vorp-text="-5.8">-5.8</span> to DEN.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-9091" data-vorp-text="-9091.5">-9091</span></h5><ul id=bpm-toggle>
+<li>Added Clifford Robinson <span class="badge badge-pill badge-danger" data-bpm-text="-9192" data-vorp-text="-0.5">-9192</span> to BRK.</li>
+<li>Lost Chris Taft <span class="badge badge-pill badge-success" data-bpm-text="+100" data-vorp-text="+0.0">+100</span>, Stéphane Lasme <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to GSW.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -865,18 +898,30 @@ function updateSigningChart() {
   </script>
 
       Ed Stefanski ranks in the 16th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Derrick Rose in 2019.</li>
-<li>Signed Donyell Marshall in 2008.</li>
-<li>Signed Donnell Harvey in 2005.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Elton Brand <span class="badge badge-pill badge-success" data-bpm-text="+4" data-vorp-text="+4.0">+4.0</span> in 2008.</li>
+<li>Signed Derrick Rose <span class="badge badge-pill badge-success" data-bpm-text="+1" data-vorp-text="+1.6">+1.6</span> in 2019.</li>
+<li>Signed Wayne Ellington <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.9">+0.9</span> in 2019.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Jacque Vaughn in 2004.</li>
-<li>Signed Rodney Buford in 2004.</li>
-<li>Signed Royal Ivey in 2008.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Derrick Rose <span class="badge badge-pill badge-success" data-bpm-text="+3060" data-vorp-text="+3060.8">+3060</span> in 2019.</li>
+<li>Signed Donyell Marshall <span class="badge badge-pill badge-success" data-bpm-text="+1228" data-vorp-text="+1228.5">+1228</span> in 2008.</li>
+<li>Signed Donnell Harvey <span class="badge badge-pill badge-success" data-bpm-text="+208" data-vorp-text="+208.0">+208</span> in 2005.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Jacque Vaughn <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.4">-1.4</span> in 2004.</li>
+<li>Signed Rodney Buford <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.5">-0.5</span> in 2004.</li>
+<li>Signed Jamaal Magloire <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.5">-0.5</span> in 2007.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Jacque Vaughn <span class="badge badge-pill badge-danger" data-bpm-text="-10558" data-vorp-text="-10558.4">-10558</span> in 2004.</li>
+<li>Signed Rodney Buford <span class="badge badge-pill badge-danger" data-bpm-text="-4595" data-vorp-text="-4595.5">-4595</span> in 2004.</li>
+<li>Signed Royal Ivey <span class="badge badge-pill badge-danger" data-bpm-text="-3777" data-vorp-text="-3777.8">-3777</span> in 2008.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -888,6 +933,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

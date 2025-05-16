@@ -134,16 +134,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -158,6 +166,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -291,6 +300,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -560,18 +571,30 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Billy King ranks in the 96th percentile for drafting among executives in our database. King's draft picks average out to be worth the equivalent of 9 spots higher than they were picked due to his good drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Andre Iguodala with 9th pick but was worth 1th pick.</li>
-<li>Drafted Alvin Jones with 57th pick but was worth 39th pick.</li>
-<li>Drafted Lou Williams with 45th pick but was worth 3th pick.</li>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Andre Iguodala <span class="badge badge-pill badge-success" data-bpm-text="+26" data-vorp-text="+26.6">+26.6</span> with 9th pick but was worth 1th pick. </li>
+<li>Drafted Lou Williams <span class="badge badge-pill badge-success" data-bpm-text="+23" data-vorp-text="+23.3">+23.3</span> with 45th pick but was worth 3th pick. </li>
+<li>Drafted Thaddeus Young <span class="badge badge-pill badge-success" data-bpm-text="+15" data-vorp-text="+15.7">+15.7</span> with 12th pick but was worth 6th pick. </li>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Samuel Dalembert with 26th pick but was worth 15th pick.</li>
-<li>Drafted Larry Hughes with 8th pick but was worth 10th pick.</li>
-<li>Drafted Chris McCullough with 29th pick but was worth 47th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Andre Iguodala <span class="badge badge-pill badge-success" data-bpm-text="+71912" data-vorp-text="+71912.7">+71912</span> with 9th pick but was worth 1th pick. </li>
+<li>Drafted Alvin Jones <span class="badge badge-pill badge-success" data-bpm-text="+54307" data-vorp-text="+54307.6">+54307</span> with 57th pick but was worth 28th pick. </li>
+<li>Drafted Lou Williams <span class="badge badge-pill badge-success" data-bpm-text="+46648" data-vorp-text="+46648.9">+46648</span> with 45th pick but was worth 3th pick. </li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Larry Hughes <span class="badge badge-pill badge-danger" data-bpm-text="-2" data-vorp-text="-2.2">-2.2</span> with 8th pick but was worth 10th pick.</li>
+<li>Drafted Chris McCullough <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.1">-0.1</span> with 29th pick but was worth 47th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Samuel Dalembert <span class="badge badge-pill badge-danger" data-bpm-text="-22735" data-vorp-text="-22735.6">-22735</span> with 26th pick but was worth 50th pick.</li>
+<li>Drafted Larry Hughes <span class="badge badge-pill badge-danger" data-bpm-text="-12418" data-vorp-text="-12418.3">-12418</span> with 8th pick but was worth 25th pick.</li>
+<li>Drafted Chris McCullough <span class="badge badge-pill badge-danger" data-bpm-text="-1330" data-vorp-text="-1330.0">-1330</span> with 29th pick but was worth 36th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -713,16 +736,25 @@ function updateTradeChart() {
   </script>
 
       Billy King ranks in the 56th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Roshown McLeod, Dikembe Mutombo to PHI.</li>
-<li>Lost Toni Kukoč, Nazr Mohammed, Theo Ratliff, Pepe Sánchez to ATL.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+4" data-vorp-text="+4.7">+4.7</span></h5><ul id=vorp-toggle>
+<li>Added Kyle Korver <span class="badge badge-pill badge-success" data-bpm-text="+627" data-vorp-text="+4.7">+4.7</span> to PHI.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Gerald Wallace to BRK.</li>
-<li>Lost Mehmet Okur, Shawne Williams, Damian Lillard to POR.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+18423" data-vorp-text="+18423.7">+18423</span></h5><ul id=bpm-toggle>
+<li>Added Roshown McLeod <span class="badge badge-pill badge-danger" data-bpm-text="-141" data-vorp-text="+0.0">-141</span>, Dikembe Mutombo <span class="badge badge-pill badge-success" data-bpm-text="+4047" data-vorp-text="+3.0">+4047</span> to PHI.</li>
+<li>Lost Toni Kukoč <span class="badge badge-pill badge-danger" data-bpm-text="-2966" data-vorp-text="-1.9">-2966</span>, Nazr Mohammed <span class="badge badge-pill badge-success" data-bpm-text="+13867" data-vorp-text="+1.4">+13867</span>, Theo Ratliff <span class="badge badge-pill badge-success" data-bpm-text="+3187" data-vorp-text="-1.3">+3187</span>, Pepe Sánchez <span class="badge badge-pill badge-success" data-bpm-text="+428" data-vorp-text="+0.1">+428</span> to ATL.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-46" data-vorp-text="-46.9">-46.9</span></h5><ul id=vorp-toggle>
+<li>Added Gerald Wallace <span class="badge badge-pill badge-success" data-bpm-text="+2198" data-vorp-text="+1.8">+1.8</span> to BRK.</li>
+<li>Lost Mehmet Okur <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Shawne Williams <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Damian Lillard <span class="badge badge-pill badge-danger" data-bpm-text="-136722" data-vorp-text="-48.7">-48.7</span> to POR.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-134524" data-vorp-text="-134524.4">-134524</span></h5><ul id=bpm-toggle>
+<li>Added Gerald Wallace <span class="badge badge-pill badge-success" data-bpm-text="+2198" data-vorp-text="+1.8">+2198</span> to BRK.</li>
+<li>Lost Mehmet Okur <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Shawne Williams <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Damian Lillard <span class="badge badge-pill badge-danger" data-bpm-text="-136722" data-vorp-text="-48.7">-136722</span> to POR.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -863,18 +895,30 @@ function updateSigningChart() {
   </script>
 
       Billy King ranks in the 40th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Brook Lopez in 2015.</li>
-<li>Signed George Lynch in 1999.</li>
-<li>Signed Andray Blatche in 2012.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Brook Lopez <span class="badge badge-pill badge-success" data-bpm-text="+4" data-vorp-text="+4.5">+4.5</span> in 2015.</li>
+<li>Signed George Lynch <span class="badge badge-pill badge-success" data-bpm-text="+4" data-vorp-text="+4.4">+4.4</span> in 1999.</li>
+<li>Signed Andray Blatche <span class="badge badge-pill badge-success" data-bpm-text="+1" data-vorp-text="+1.6">+1.6</span> in 2012.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Bojan Bogdanović in 2014.</li>
-<li>Signed Matt Geiger in 1999.</li>
-<li>Signed Stephen Graham in 2010.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Brook Lopez <span class="badge badge-pill badge-success" data-bpm-text="+8304" data-vorp-text="+8304.7">+8304</span> in 2015.</li>
+<li>Signed George Lynch <span class="badge badge-pill badge-success" data-bpm-text="+4529" data-vorp-text="+4529.5">+4529</span> in 1999.</li>
+<li>Signed Andray Blatche <span class="badge badge-pill badge-success" data-bpm-text="+3421" data-vorp-text="+3421.0">+3421</span> in 2012.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Stephen Graham <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.2">-1.2</span> in 2010.</li>
+<li>Signed Bojan Bogdanović <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.9">-0.9</span> in 2014.</li>
+<li>Signed Shawne Williams <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.6">-0.6</span> in 2011.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Bojan Bogdanović <span class="badge badge-pill badge-danger" data-bpm-text="-14407" data-vorp-text="-14407.5">-14407</span> in 2014.</li>
+<li>Signed Matt Geiger <span class="badge badge-pill badge-danger" data-bpm-text="-7145" data-vorp-text="-7145.8">-7145</span> in 1999.</li>
+<li>Signed Stephen Graham <span class="badge badge-pill badge-danger" data-bpm-text="-6521" data-vorp-text="-6521.2">-6521</span> in 2010.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -886,6 +930,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

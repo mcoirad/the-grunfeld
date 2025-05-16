@@ -1,6 +1,6 @@
 ---
 bpm_rank: 52
-draft_bust_list: null
+draft_bust_list: "\n    \n    \n    "
 draft_description: This executive has only drafted 2 players and thus doesn't have
   a draft grade.
 draft_num_players: 2
@@ -17,9 +17,9 @@ draft_total_grade_vorp: F
 draft_total_percentile_bpm: 16
 draft_total_percentile_vorp: 16
 draft_total_vorp: 0
-draft_win_list: '<ul>
-
-  </ul>'
+draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
+  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n</ul>\n\
+  \    "
 end_year: 1990
 final_bpm: 11270
 final_vorp: -54
@@ -28,7 +28,7 @@ is_active: false
 name: Bob Ferry
 signing_description: 'Bob Ferry ranks in the 68th percentile for free agency signings
   among executives in our database. '
-signing_lose_list: null
+signing_lose_list: "\n    \n    \n    "
 signing_num_players: 49
 signing_overall_percentile_bpm: 89
 signing_overall_percentile_vorp: 45
@@ -44,7 +44,7 @@ signing_total_grade_vorp: D-
 signing_total_percentile_bpm: 80
 signing_total_percentile_vorp: 22
 signing_total_vorp: 0
-signing_win_list: null
+signing_win_list: "\n    \n    \n    "
 start_year: 1973
 team:
 - Washington Wizards
@@ -52,13 +52,24 @@ team_shortcode:
 - WAS
 trade_description: 'Bob Ferry ranks in the 11th percentile for trading among executives
   in our database. '
-trade_lose_list: '<ul>
-
-  <li>Added Tom Henderson, Greg Ballard to WAS.</li>
-
-  <li>Lost Truck Robinson, Tree Rollins to ATL.</li>
-
-  </ul>'
+trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-20\" data-vorp-text=\"-20.5\">-20.5</span></h5><ul\
+  \ id=vorp-toggle>\n<li>Added Tom Henderson <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0.0</span>, Greg Ballard <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0.0</span>\
+  \ to WAS.</li>\n<li>Lost Truck Robinson <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-2318\" data-vorp-text=\"-1.3\">-1.3</span>, Tree Rollins <span\
+  \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-34073\" data-vorp-text=\"\
+  -19.2\">-19.2</span> to ATL.</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ L: <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-36391\" data-vorp-text=\"\
+  -36391.7\">-36391</span></h5><ul id=bpm-toggle>\n<li>Added Tom Henderson <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span>,\
+  \ Greg Ballard <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+0\"\
+  \ data-vorp-text=\"+0.0\">+0</span> to WAS.</li>\n<li>Lost Truck Robinson <span\
+  \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-2318\" data-vorp-text=\"\
+  -1.3\">-2318</span>, Tree Rollins <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-34073\" data-vorp-text=\"-19.2\">-34073</span> to ATL.</li>\n\
+  </ul>\n    "
 trade_num: 98
 trade_overall_percentile_bpm: 80
 trade_overall_percentile_vorp: 8
@@ -74,11 +85,19 @@ trade_total_grade_vorp: F
 trade_total_percentile_bpm: 66
 trade_total_percentile_vorp: 5
 trade_total_vorp: -54
-trade_win_list: '<ul>
-
-  <li>Added Gus Williams to WAS.</li>
-
-  <li>Lost Tim McCormick, Ricky Sobers to SEA.</li>
-
-  </ul>'
+trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.9\">+0.9</span></h5><ul\
+  \ id=vorp-toggle>\n<li>Added John Lucas <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0.0</span> to WAS.</li>\n<li>Lost\
+  \ Derek Smith <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+1062\"\
+  \ data-vorp-text=\"+0.3\">+0.3</span>, Steve Burtt <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+3135\" data-vorp-text=\"+0.6\">+0.6</span> to\
+  \ GSW.</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest win: <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+12036\" data-vorp-text=\"+12036.6\"\
+  >+12036</span></h5><ul id=bpm-toggle>\n<li>Added Gus Williams <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span>\
+  \ to WAS.</li>\n<li>Lost Tim McCormick <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+4860\" data-vorp-text=\"-0.4\">+4860</span>, Ricky Sobers <span\
+  \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+7175\" data-vorp-text=\"\
+  +0.4\">+7175</span> to SEA.</li>\n</ul>\n    "
 ---

@@ -64,16 +64,24 @@ layout: default
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -88,6 +96,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -221,6 +230,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -244,10 +255,9 @@ updateTexts();
     <div class="row"><div class="col-md-12" style="height: 40vh; min-height: 350px;"><canvas id="executive_draft_players_chart"></canvas></div></div>
     {% include executive_draft_players_chart.html exec_name=page.name exec_href=page.href %}
       {{ executive.draft_description}}
-      <h5>Some of their biggest wins:</h5>
       {{ executive.draft_win_list}}
-      <h5>Some of their biggest busts:</h5>
       {{ executive.draft_bust_list}}
+
     </div>
   </div>
 </div>
@@ -268,9 +278,7 @@ updateTexts();
     </div>
     {% include executive_trade_chart.html exec_name=page.name exec_href=page.href %}
       {{ executive.trade_description}}
-      <h5>Their biggest win:</h5>
       {{ executive.trade_win_list}}
-      <h5>Their biggest L:</h5>
       {{ executive.trade_lose_list}}
     </div>
   </div>
@@ -291,9 +299,7 @@ updateTexts();
     </div>
     {% include executive_signing_chart.html exec_name=page.name exec_href=page.href %}
       {{ executive.signing_description}}
-      <h5>Their best signings:</h5>
       {{ executive.signing_win_list}}
-      <h5>Their worst signings:</h5>
       {{ executive.signing_lose_list}}
     </div>
   </div>
@@ -318,3 +324,6 @@ updateTexts();
   {% endfor %}
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>

@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,15 +567,26 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Rob Pelinka ranks in the 71th percentile for drafting among executives in our database. Pelinka's draft picks average out to be worth the equivalent of 1 spot higher than they were picked due to his good drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Dalton Knecht <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.1">+0.1</span> with 17th pick but was worth 9th pick. </li>
+<li>Drafted Dalton Knecht <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.1">+0.1</span> with 17th pick but was worth 9th pick. </li>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Max Christie with 35th pick but was worth 46th pick.</li>
-<li>Drafted Jalen Hood-Schifino with 17th pick but was worth 48th pick.</li>
-<li>Drafted Dalton Knecht with 17th pick but was worth 9th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Jalen Hood-Schifino <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.9">-0.9</span> with 17th pick but was worth 48th pick.</li>
+<li>Drafted Max Christie <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.7">-0.7</span> with 35th pick but was worth 46th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Max Christie <span class="badge badge-pill badge-danger" data-bpm-text="-6615" data-vorp-text="-6615.5">-6615</span> with 35th pick but was worth 48th pick.</li>
+<li>Drafted Jalen Hood-Schifino <span class="badge badge-pill badge-danger" data-bpm-text="-3282" data-vorp-text="-3282.8">-3282</span> with 17th pick but was worth 37th pick.</li>
+<li>Drafted Dalton Knecht <span class="badge badge-pill badge-danger" data-bpm-text="-2480" data-vorp-text="-2480.4">-2480</span> with 17th pick but was worth 41th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -706,16 +728,28 @@ function updateTradeChart() {
   </script>
 
       Rob Pelinka ranks in the 14th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Dorian Finney-Smith, Shake Milton to LAL.</li>
-<li>Lost Maxwell Lewis, D'Angelo Russell, future 2nd round pick, future 2nd round pick, future 2nd round pick to BRK.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+1" data-vorp-text="+1.2">+1.2</span></h5><ul id=vorp-toggle>
+<li>Added D'Angelo Russell <span class="badge badge-pill badge-success" data-bpm-text="+1262" data-vorp-text="+0.6">+0.6</span>, Malik Beasley <span class="badge badge-pill badge-danger" data-bpm-text="-1800" data-vorp-text="-0.1">-0.1</span>, Jarred Vanderbilt <span class="badge badge-pill badge-success" data-bpm-text="-1422" data-vorp-text="+0.5">+0.5</span> to LAL.</li>
+<li>Lost Damian Jones <span class="badge badge-pill badge-success" data-bpm-text="+451" data-vorp-text="+0.0">+0.0</span>, Juan Toscano-Anderson <span class="badge badge-pill badge-success" data-bpm-text="+1440" data-vorp-text="+0.2">+0.2</span>, Russell Westbrook <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to UTA.</li>
+<li>Lost Bobi Klintman <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to MIN.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Dennis Schroder to LAL.</li>
-<li>Lost Danny Green, Jaden McDaniels to OKC.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+12928" data-vorp-text="+12928.9">+12928</span></h5><ul id=bpm-toggle>
+<li>Added Dorian Finney-Smith <span class="badge badge-pill badge-danger" data-bpm-text="-2176" data-vorp-text="+0.1">-2176</span>, Shake Milton <span class="badge badge-pill badge-danger" data-bpm-text="-1043" data-vorp-text="-0.1">-1043</span> to LAL.</li>
+<li>Lost Maxwell Lewis <span class="badge badge-pill badge-success" data-bpm-text="+987" data-vorp-text="+0.1">+987</span>, D'Angelo Russell <span class="badge badge-pill badge-danger" data-bpm-text="-717" data-vorp-text="-0.5">-717</span>, future 2nd round pick <span class="badge badge-pill badge-success" data-bpm-text="+5292" data-vorp-text="-1.4">+5292</span>, future 2nd round pick <span class="badge badge-pill badge-success" data-bpm-text="+5292" data-vorp-text="-1.4">+5292</span>, future 2nd round pick <span class="badge badge-pill badge-success" data-bpm-text="+5292" data-vorp-text="-1.4">+5292</span> to BRK.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-9" data-vorp-text="-9.5">-9.5</span></h5><ul id=vorp-toggle>
+<li>Added Anthony Davis <span class="badge badge-pill badge-success" data-bpm-text="+17048" data-vorp-text="+5.4">+5.4</span> to LAL.</li>
+<li>Lost Isaac Bonga <span class="badge badge-pill badge-success" data-bpm-text="+6005" data-vorp-text="+0.7">+0.7</span>, Jemerrio Jones <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Moritz Wagner <span class="badge badge-pill badge-danger" data-bpm-text="+1958" data-vorp-text="-0.1">-0.1</span>, Kennedy Chandler <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to WAS.</li>
+<li>Lost Lonzo Ball <span class="badge badge-pill badge-danger" data-bpm-text="-4184" data-vorp-text="-2.9">-2.9</span>, Josh Hart <span class="badge badge-pill badge-danger" data-bpm-text="+1345" data-vorp-text="-1.9">-1.9</span>, De'Andre Hunter <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Brandon Ingram <span class="badge badge-pill badge-danger" data-bpm-text="-17720" data-vorp-text="-9.8">-9.8</span>, Dyson Daniels <span class="badge badge-pill badge-danger" data-bpm-text="+1060" data-vorp-text="-0.9">-0.9</span> to NOP.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-2151" data-vorp-text="-2151.6">-2151</span></h5><ul id=bpm-toggle>
+<li>Added Dennis Schroder <span class="badge badge-pill badge-danger" data-bpm-text="-2151" data-vorp-text="+0.4">-2151</span> to LAL.</li>
+<li>Lost Danny Green <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Jaden McDaniels <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to OKC.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -856,18 +890,30 @@ function updateSigningChart() {
   </script>
 
       Rob Pelinka ranks in the 55th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Anthony Davis in 2020.</li>
-<li>Signed LeBron James in 2024.</li>
-<li>Signed Austin Reaves in 2023.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Anthony Davis <span class="badge badge-pill badge-success" data-bpm-text="+15" data-vorp-text="+15.8">+15.8</span> in 2020.</li>
+<li>Signed LeBron James <span class="badge badge-pill badge-success" data-bpm-text="+4" data-vorp-text="+4.6">+4.6</span> in 2024.</li>
+<li>Signed Austin Reaves <span class="badge badge-pill badge-success" data-bpm-text="+4" data-vorp-text="+4.1">+4.1</span> in 2023.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Avery Bradley in 2019.</li>
-<li>Signed Gabe Vincent in 2023.</li>
-<li>Signed Taurean Prince in 2023.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Anthony Davis <span class="badge badge-pill badge-success" data-bpm-text="+45174" data-vorp-text="+45174.0">+45174</span> in 2020.</li>
+<li>Signed LeBron James <span class="badge badge-pill badge-success" data-bpm-text="+13563" data-vorp-text="+13563.2">+13563</span> in 2024.</li>
+<li>Signed Austin Reaves <span class="badge badge-pill badge-success" data-bpm-text="+5833" data-vorp-text="+5833.9">+5833</span> in 2023.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Gabe Vincent <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.0">-1.0</span> in 2023.</li>
+<li>Signed Avery Bradley <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.8">-0.8</span> in 2019.</li>
+<li>Signed Max Christie <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.5">-0.5</span> in 2022.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Avery Bradley <span class="badge badge-pill badge-danger" data-bpm-text="-8026" data-vorp-text="-8026.6">-8026</span> in 2019.</li>
+<li>Signed Gabe Vincent <span class="badge badge-pill badge-danger" data-bpm-text="-7290" data-vorp-text="-7290.4">-7290</span> in 2023.</li>
+<li>Signed Taurean Prince <span class="badge badge-pill badge-danger" data-bpm-text="-5902" data-vorp-text="-5902.4">-5902</span> in 2023.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -879,6 +925,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

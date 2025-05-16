@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,18 +567,31 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Kevin O'Connor ranks in the 59th percentile for drafting among executives in our database. O'Connor's draft picks average out to be worth the equivalent of 1 spot lower than they were picked due to their terrible drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Paul Millsap with 47th pick but was worth 3th pick.</li>
-<li>Drafted Gordon Hayward with 9th pick but was worth 3th pick.</li>
-<li>Drafted Ronnie Brewer with 14th pick but was worth 9th pick.</li>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Paul Millsap <span class="badge badge-pill badge-success" data-bpm-text="+30" data-vorp-text="+30.4">+30.4</span> with 47th pick but was worth 3th pick. </li>
+<li>Drafted Gordon Hayward <span class="badge badge-pill badge-success" data-bpm-text="+15" data-vorp-text="+15.6">+15.6</span> with 9th pick but was worth 3th pick. </li>
+<li>Drafted Mo Williams <span class="badge badge-pill badge-success" data-bpm-text="+10" data-vorp-text="+10.5">+10.5</span> with 47th pick but was worth 11th pick. </li>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Enes Kanter with 3th pick but was worth 11th pick.</li>
-<li>Drafted DeShawn Stevenson with 23th pick but was worth 57th pick.</li>
-<li>Drafted Sasha Pavlović with 19th pick but was worth 57th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Paul Millsap <span class="badge badge-pill badge-success" data-bpm-text="+67464" data-vorp-text="+67464.6">+67464</span> with 47th pick but was worth 3th pick. </li>
+<li>Drafted Gordon Hayward <span class="badge badge-pill badge-success" data-bpm-text="+38294" data-vorp-text="+38294.5">+38294</span> with 9th pick but was worth 4th pick. </li>
+<li>Drafted Ronnie Brewer <span class="badge badge-pill badge-success" data-bpm-text="+18462" data-vorp-text="+18462.4">+18462</span> with 14th pick but was worth 7th pick. </li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Enes Kanter <span class="badge badge-pill badge-danger" data-bpm-text="-36" data-vorp-text="-36.1">-36.1</span> with 3th pick but was worth 11th pick.</li>
+<li>Drafted Kris Humphries <span class="badge badge-pill badge-danger" data-bpm-text="-7" data-vorp-text="-7.5">-7.5</span> with 14th pick but was worth 23th pick.</li>
+<li>Drafted Kirk Snyder <span class="badge badge-pill badge-danger" data-bpm-text="-6" data-vorp-text="-6.7">-6.7</span> with 16th pick but was worth 24th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Enes Kanter <span class="badge badge-pill badge-danger" data-bpm-text="-122565" data-vorp-text="-122565.6">-122565</span> with 3th pick but was worth 31th pick.</li>
+<li>Drafted DeShawn Stevenson <span class="badge badge-pill badge-danger" data-bpm-text="-47422" data-vorp-text="-47422.8">-47422</span> with 23th pick but was worth 58th pick.</li>
+<li>Drafted Sasha Pavlović <span class="badge badge-pill badge-danger" data-bpm-text="-30219" data-vorp-text="-30219.2">-30219</span> with 19th pick but was worth 53th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -709,16 +733,26 @@ function updateTradeChart() {
   </script>
 
       Kevin O'Connor ranks in the 96th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Al Jefferson to UTA.</li>
-<li>Lost Kosta Koufos, Donatas Motiejūnas, Terrence Jones to MIN.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+8" data-vorp-text="+8.0">+8.0</span></h5><ul id=vorp-toggle>
+<li>Added Al Jefferson <span class="badge badge-pill badge-success" data-bpm-text="+15628" data-vorp-text="+7.7">+7.7</span> to UTA.</li>
+<li>Lost Kosta Koufos <span class="badge badge-pill badge-success" data-bpm-text="+1982" data-vorp-text="+0.3">+0.3</span>, Donatas Motiejūnas <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Terrence Jones <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to MIN.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Kyrylo Fesenko to UTA.</li>
-<li>Lost Herbert Hill to PHI.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+17611" data-vorp-text="+17611.1">+17611</span></h5><ul id=bpm-toggle>
+<li>Added Al Jefferson <span class="badge badge-pill badge-success" data-bpm-text="+15628" data-vorp-text="+7.7">+15628</span> to UTA.</li>
+<li>Lost Kosta Koufos <span class="badge badge-pill badge-success" data-bpm-text="+1982" data-vorp-text="+0.3">+1982</span>, Donatas Motiejūnas <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Terrence Jones <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to MIN.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-4" data-vorp-text="-4.8">-4.8</span></h5><ul id=vorp-toggle>
+<li>Added Mario Austin <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to UTA.</li>
+<li>Lost Carlos Boozer <span class="badge badge-pill badge-danger" data-bpm-text="-2390" data-vorp-text="-4.8">-4.8</span>, Malcolm Lee <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to CHI.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-6486" data-vorp-text="-6486.2">-6486</span></h5><ul id=bpm-toggle>
+<li>Added Kyrylo Fesenko <span class="badge badge-pill badge-danger" data-bpm-text="-6486" data-vorp-text="-1.2">-6486</span> to UTA.</li>
+<li>Lost Herbert Hill <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to PHI.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -859,18 +893,30 @@ function updateSigningChart() {
   </script>
 
       Kevin O'Connor ranks in the 8th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Carlos Boozer in 2004.</li>
-<li>Signed Mehmet Okur in 2004.</li>
-<li>Signed DeMarre Carroll in 2012.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Carlos Boozer <span class="badge badge-pill badge-success" data-bpm-text="+14" data-vorp-text="+14.5">+14.5</span> in 2004.</li>
+<li>Signed Mehmet Okur <span class="badge badge-pill badge-success" data-bpm-text="+12" data-vorp-text="+12.9">+12.9</span> in 2004.</li>
+<li>Signed Matt Harpring <span class="badge badge-pill badge-success" data-bpm-text="+5" data-vorp-text="+5.0">+5.0</span> in 2002.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Olden Polynice in 1999.</li>
-<li>Signed John Starks in 2000.</li>
-<li>Signed Keith McLeod in 2004.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Carlos Boozer <span class="badge badge-pill badge-success" data-bpm-text="+32681" data-vorp-text="+32681.1">+32681</span> in 2004.</li>
+<li>Signed Mehmet Okur <span class="badge badge-pill badge-success" data-bpm-text="+20828" data-vorp-text="+20828.6">+20828</span> in 2004.</li>
+<li>Signed DeMarre Carroll <span class="badge badge-pill badge-success" data-bpm-text="+594" data-vorp-text="+594.1">+594</span> in 2012.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed John Amaechi <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.6">-1.6</span> in 2001.</li>
+<li>Signed John Starks <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.3">-1.3</span> in 2000.</li>
+<li>Signed Olden Polynice <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.2">-1.2</span> in 1999.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Olden Polynice <span class="badge badge-pill badge-danger" data-bpm-text="-11407" data-vorp-text="-11407.3">-11407</span> in 1999.</li>
+<li>Signed John Starks <span class="badge badge-pill badge-danger" data-bpm-text="-11064" data-vorp-text="-11064.8">-11064</span> in 2000.</li>
+<li>Signed Keith McLeod <span class="badge badge-pill badge-danger" data-bpm-text="-9137" data-vorp-text="-9137.2">-9137</span> in 2004.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -882,6 +928,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

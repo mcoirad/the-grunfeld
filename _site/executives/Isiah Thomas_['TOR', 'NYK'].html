@@ -134,16 +134,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -158,6 +166,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -291,6 +300,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -560,18 +571,31 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Isiah Thomas ranks in the 81th percentile for drafting among executives in our database. Thomas's draft picks average out to be worth the equivalent of 3 spots higher than they were picked due to his good drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Tracy McGrady with 9th pick but was worth 2th pick.</li>
-<li>Drafted David Lee with 30th pick but was worth 4th pick.</li>
-<li>Drafted Trevor Ariza with 43th pick but was worth 5th pick.</li>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Tracy McGrady <span class="badge badge-pill badge-success" data-bpm-text="+46" data-vorp-text="+46.1">+46.1</span> with 9th pick but was worth 2th pick. </li>
+<li>Drafted Trevor Ariza <span class="badge badge-pill badge-success" data-bpm-text="+22" data-vorp-text="+22.0">+22.0</span> with 43th pick but was worth 5th pick. </li>
+<li>Drafted David Lee <span class="badge badge-pill badge-success" data-bpm-text="+19" data-vorp-text="+19.0">+19.0</span> with 30th pick but was worth 4th pick. </li>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Marcus Camby with 2th pick but was worth 5th pick.</li>
-<li>Drafted Wilson Chandler with 23th pick but was worth 16th pick.</li>
-<li>Drafted Channing Frye with 8th pick but was worth 15th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Tracy McGrady <span class="badge badge-pill badge-success" data-bpm-text="+159421" data-vorp-text="+159421.6">+159421</span> with 9th pick but was worth 2th pick. </li>
+<li>Drafted David Lee <span class="badge badge-pill badge-success" data-bpm-text="+28618" data-vorp-text="+28618.0">+28618</span> with 30th pick but was worth 5th pick. </li>
+<li>Drafted Trevor Ariza <span class="badge badge-pill badge-success" data-bpm-text="+24230" data-vorp-text="+24230.2">+24230</span> with 43th pick but was worth 7th pick. </li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Marcus Camby <span class="badge badge-pill badge-danger" data-bpm-text="-26" data-vorp-text="-26.3">-26.3</span> with 2th pick but was worth 5th pick.</li>
+<li>Drafted Channing Frye <span class="badge badge-pill badge-danger" data-bpm-text="-4" data-vorp-text="-4.4">-4.4</span> with 8th pick but was worth 15th pick.</li>
+<li>Drafted Mardy Collins <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.7">-1.7</span> with 29th pick but was worth 57th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Marcus Camby <span class="badge badge-pill badge-danger" data-bpm-text="-68424" data-vorp-text="-68424.4">-68424</span> with 2th pick but was worth 5th pick.</li>
+<li>Drafted Wilson Chandler <span class="badge badge-pill badge-danger" data-bpm-text="-26373" data-vorp-text="-26373.1">-26373</span> with 23th pick but was worth 53th pick.</li>
+<li>Drafted Channing Frye <span class="badge badge-pill badge-danger" data-bpm-text="-16185" data-vorp-text="-16185.2">-16185</span> with 8th pick but was worth 41th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -713,16 +737,26 @@ function updateTradeChart() {
   </script>
 
       Isiah Thomas ranks in the 56th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Anfernee Hardaway, Stephon Marbury, Cezary Trybański to NYK.</li>
-<li>Lost Howard Eisley, Maciej Lampe, Antonio McDyess, Milos Vujanic, Charlie Ward, Kirk Snyder, Gordon Hayward to PHO.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+10" data-vorp-text="+10.8">+10.8</span></h5><ul id=vorp-toggle>
+<li>Added Anfernee Hardaway <span class="badge badge-pill badge-danger" data-bpm-text="-6408" data-vorp-text="-0.5">-0.5</span>, Stephon Marbury <span class="badge badge-pill badge-success" data-bpm-text="+20399" data-vorp-text="+10.5">+10.5</span>, Cezary Trybański <span class="badge badge-pill badge-success" data-bpm-text="-77" data-vorp-text="+0.0">+0.0</span> to NYK.</li>
+<li>Lost Howard Eisley <span class="badge badge-pill badge-success" data-bpm-text="+2253" data-vorp-text="+0.2">+0.2</span>, Maciej Lampe <span class="badge badge-pill badge-success" data-bpm-text="+2348" data-vorp-text="+0.5">+0.5</span>, Antonio McDyess <span class="badge badge-pill badge-success" data-bpm-text="+1366" data-vorp-text="+0.1">+0.1</span>, Milos Vujanic <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Charlie Ward <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Kirk Snyder <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Gordon Hayward <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to PHO.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Eddy Curry, Antonio Davis, Wilson Chandler to NYK.</li>
-<li>Lost Jermaine Jackson, Mike Sweetney, Tim Thomas, LaMarcus Aldridge, Joakim Noah, Kyrylo Fesenko, Jon Brockman to CHI.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+19882" data-vorp-text="+19882.0">+19882</span></h5><ul id=bpm-toggle>
+<li>Added Anfernee Hardaway <span class="badge badge-pill badge-danger" data-bpm-text="-6408" data-vorp-text="-0.5">-6408</span>, Stephon Marbury <span class="badge badge-pill badge-success" data-bpm-text="+20399" data-vorp-text="+10.5">+20399</span>, Cezary Trybański <span class="badge badge-pill badge-danger" data-bpm-text="-77" data-vorp-text="+0.0">-77</span> to NYK.</li>
+<li>Lost Howard Eisley <span class="badge badge-pill badge-success" data-bpm-text="+2253" data-vorp-text="+0.2">+2253</span>, Maciej Lampe <span class="badge badge-pill badge-success" data-bpm-text="+2348" data-vorp-text="+0.5">+2348</span>, Antonio McDyess <span class="badge badge-pill badge-success" data-bpm-text="+1366" data-vorp-text="+0.1">+1366</span>, Milos Vujanic <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Charlie Ward <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Kirk Snyder <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Gordon Hayward <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to PHO.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-20" data-vorp-text="-20.1">-20.1</span></h5><ul id=vorp-toggle>
+<li>Added Eddy Curry <span class="badge badge-pill badge-danger" data-bpm-text="-14624" data-vorp-text="-0.5">-0.5</span>, Antonio Davis <span class="badge badge-pill badge-danger" data-bpm-text="-3070" data-vorp-text="-0.4">-0.4</span>, Wilson Chandler <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to NYK.</li>
+<li>Lost Jermaine Jackson <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Mike Sweetney <span class="badge badge-pill badge-success" data-bpm-text="+5269" data-vorp-text="+0.6">+0.6</span>, Tim Thomas <span class="badge badge-pill badge-success" data-bpm-text="+575" data-vorp-text="+0.0">+0.0</span>, LaMarcus Aldridge <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Joakim Noah <span class="badge badge-pill badge-danger" data-bpm-text="-45379" data-vorp-text="-19.8">-19.8</span>, Kyrylo Fesenko <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Jon Brockman <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to CHI.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-57230" data-vorp-text="-57230.3">-57230</span></h5><ul id=bpm-toggle>
+<li>Added Eddy Curry <span class="badge badge-pill badge-danger" data-bpm-text="-14624" data-vorp-text="-0.5">-14624</span>, Antonio Davis <span class="badge badge-pill badge-danger" data-bpm-text="-3070" data-vorp-text="-0.4">-3070</span>, Wilson Chandler <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to NYK.</li>
+<li>Lost Jermaine Jackson <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Mike Sweetney <span class="badge badge-pill badge-success" data-bpm-text="+5269" data-vorp-text="+0.6">+5269</span>, Tim Thomas <span class="badge badge-pill badge-success" data-bpm-text="+575" data-vorp-text="+0.0">+575</span>, LaMarcus Aldridge <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Joakim Noah <span class="badge badge-pill badge-danger" data-bpm-text="-45379" data-vorp-text="-19.8">-45379</span>, Kyrylo Fesenko <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Jon Brockman <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to CHI.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -863,16 +897,28 @@ function updateSigningChart() {
   </script>
 
       Isiah Thomas ranks in the 5th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Walt Williams in 1996.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Walt Williams <span class="badge badge-pill badge-success" data-bpm-text="+2" data-vorp-text="+2.1">+2.1</span> in 1996.</li>
+<li>Signed Tracy Murray <span class="badge badge-pill badge-success" data-bpm-text="+1" data-vorp-text="+1.4">+1.4</span> in 1995.</li>
+<li>Signed Alvin Robertson <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.8">+0.8</span> in 1995.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Jared Jeffries in 2006.</li>
-<li>Signed Reggie Slater in 1997.</li>
-<li>Signed Jerome James in 2005.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Walt Williams <span class="badge badge-pill badge-success" data-bpm-text="+1154" data-vorp-text="+1154.0">+1154</span> in 1996.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Reggie Slater <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.5">-1.5</span> in 1997.</li>
+<li>Signed Jerome James <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.3">-1.3</span> in 2005.</li>
+<li>Signed Vin Baker <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.6">-0.6</span> in 2004.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Jared Jeffries <span class="badge badge-pill badge-danger" data-bpm-text="-14638" data-vorp-text="-14638.8">-14638</span> in 2006.</li>
+<li>Signed Reggie Slater <span class="badge badge-pill badge-danger" data-bpm-text="-10214" data-vorp-text="-10214.7">-10214</span> in 1997.</li>
+<li>Signed Jerome James <span class="badge badge-pill badge-danger" data-bpm-text="-6177" data-vorp-text="-6177.5">-6177</span> in 2005.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -884,6 +930,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

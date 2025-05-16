@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,10 +567,9 @@ function updateExecDraftPlayersChart() {
 </script>
 
       This executive hasn't drafted any players, and thus doesn't have a draft grade.
-      <h5>Some of their biggest wins:</h5>
       
-      <h5>Some of their biggest busts:</h5>
       
+
     </div>
   </div>
 </div>
@@ -701,13 +711,20 @@ function updateTradeChart() {
   </script>
 
       This executive has only made one trade and thus doesn't have a trade grade.
-      <h5>Their biggest win:</h5>
       
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Sam Cassell, Michael Finley, A.C. Green, Greg Buckner to DAL.</li>
-<li>Lost Tony Dumas, Jason Kidd, Loren Meyer to PHO.</li>
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+7" data-vorp-text="+7.0">+7.0</span></h5><ul id=vorp-toggle>
+<li>Added Sam Cassell <span class="badge badge-pill badge-success" data-bpm-text="-159" data-vorp-text="+0.2">+0.2</span>, Michael Finley <span class="badge badge-pill badge-success" data-bpm-text="+39994" data-vorp-text="+22.6">+22.6</span>, A.C. Green <span class="badge badge-pill badge-success" data-bpm-text="-8268" data-vorp-text="+0.8">+0.8</span>, Greg Buckner <span class="badge badge-pill badge-success" data-bpm-text="-3949" data-vorp-text="+1.0">+1.0</span> to DAL.</li>
+<li>Lost Tony Dumas <span class="badge badge-pill badge-success" data-bpm-text="+545" data-vorp-text="+0.1">+0.1</span>, Jason Kidd <span class="badge badge-pill badge-danger" data-bpm-text="-48402" data-vorp-text="-18.3">-18.3</span>, Loren Meyer <span class="badge badge-pill badge-success" data-bpm-text="+3367" data-vorp-text="+0.6">+0.6</span> to PHO.</li>
 </ul>
+    
+    
+      
+    
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-16872" data-vorp-text="-16872.4">-16872</span></h5><ul id=bpm-toggle>
+<li>Added Sam Cassell <span class="badge badge-pill badge-danger" data-bpm-text="-159" data-vorp-text="+0.2">-159</span>, Michael Finley <span class="badge badge-pill badge-success" data-bpm-text="+39994" data-vorp-text="+22.6">+39994</span>, A.C. Green <span class="badge badge-pill badge-danger" data-bpm-text="-8268" data-vorp-text="+0.8">-8268</span>, Greg Buckner <span class="badge badge-pill badge-danger" data-bpm-text="-3949" data-vorp-text="+1.0">-3949</span> to DAL.</li>
+<li>Lost Tony Dumas <span class="badge badge-pill badge-success" data-bpm-text="+545" data-vorp-text="+0.1">+545</span>, Jason Kidd <span class="badge badge-pill badge-danger" data-bpm-text="-48402" data-vorp-text="-18.3">-48402</span>, Loren Meyer <span class="badge badge-pill badge-success" data-bpm-text="+3367" data-vorp-text="+0.6">+3367</span> to PHO.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -848,12 +865,18 @@ function updateSigningChart() {
   </script>
 
       This executive has only made one signing and thus doesn't have a signing grade.
-      <h5>Their best signings:</h5>
       
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Oliver Miller in 1996.</li>
+    
+    
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Oliver Miller <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.1">-0.1</span> in 1996.</li>
 </ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Oliver Miller <span class="badge badge-pill badge-danger" data-bpm-text="-2090" data-vorp-text="-2090.0">-2090</span> in 1996.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -865,6 +888,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

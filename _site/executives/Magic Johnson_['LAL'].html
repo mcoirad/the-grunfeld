@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,15 +567,25 @@ function updateExecDraftPlayersChart() {
 </script>
 
       This executive has only drafted 3 players and thus doesn't have a draft grade.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Moritz Wagner with 25th pick but was worth 17th pick.</li>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Moritz Wagner <span class="badge badge-pill badge-success" data-bpm-text="+2" data-vorp-text="+2.6">+2.6</span> with 25th pick but was worth 17th pick. </li>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Lonzo Ball with 2th pick but was worth 12th pick.</li>
-<li>Drafted Sviatoslav Mykhailiuk with 47th pick but was worth 53th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Moritz Wagner <span class="badge badge-pill badge-success" data-bpm-text="+1752" data-vorp-text="+1752.9">+1752</span> with 25th pick but was worth 13th pick. </li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Lonzo Ball <span class="badge badge-pill badge-danger" data-bpm-text="-18" data-vorp-text="-18.5">-18.5</span> with 2th pick but was worth 12th pick.</li>
+<li>Drafted Sviatoslav Mykhailiuk <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.6">-0.6</span> with 47th pick but was worth 53th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Lonzo Ball <span class="badge badge-pill badge-danger" data-bpm-text="-54886" data-vorp-text="-54886.5">-54886</span> with 2th pick but was worth 10th pick.</li>
+<li>Drafted Sviatoslav Mykhailiuk <span class="badge badge-pill badge-danger" data-bpm-text="-3106" data-vorp-text="-3106.6">-3106</span> with 47th pick but was worth 52th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -706,16 +727,26 @@ function updateTradeChart() {
   </script>
 
       Magic Johnson ranks in the 17th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Reggie Bullock to LAL.</li>
-<li>Lost Sviatoslav Mykhailiuk, Luka Garza to DET.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.1">+0.1</span></h5><ul id=vorp-toggle>
+<li>Added Tyler Ennis <span class="badge badge-pill badge-success" data-bpm-text="-313" data-vorp-text="+0.1">+0.1</span>, Brad Newley <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to LAL.</li>
+<li>Lost Marcelo Huertas <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to HOU.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Mike Muscala to LAL.</li>
-<li>Lost Michael Beasley, Ivica Zubac to LAC.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+3374" data-vorp-text="+3374.4">+3374</span></h5><ul id=bpm-toggle>
+<li>Added Reggie Bullock <span class="badge badge-pill badge-danger" data-bpm-text="-1152" data-vorp-text="+0.0">-1152</span> to LAL.</li>
+<li>Lost Sviatoslav Mykhailiuk <span class="badge badge-pill badge-success" data-bpm-text="+3554" data-vorp-text="+0.0">+3554</span>, Luka Garza <span class="badge badge-pill badge-success" data-bpm-text="+972" data-vorp-text="+0.1">+972</span> to DET.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-9" data-vorp-text="-9.2">-9.2</span></h5><ul id=vorp-toggle>
+<li>Added Mike Muscala <span class="badge badge-pill badge-success" data-bpm-text="+185" data-vorp-text="+0.2">+0.2</span> to LAL.</li>
+<li>Lost Michael Beasley <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Ivica Zubac <span class="badge badge-pill badge-danger" data-bpm-text="-13371" data-vorp-text="-9.4">-9.4</span> to LAC.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-13186" data-vorp-text="-13186.1">-13186</span></h5><ul id=bpm-toggle>
+<li>Added Mike Muscala <span class="badge badge-pill badge-success" data-bpm-text="+185" data-vorp-text="+0.2">+185</span> to LAL.</li>
+<li>Lost Michael Beasley <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Ivica Zubac <span class="badge badge-pill badge-danger" data-bpm-text="-13371" data-vorp-text="-9.4">-13371</span> to LAC.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -856,18 +887,30 @@ function updateSigningChart() {
   </script>
 
       Magic Johnson ranks in the 90th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed LeBron James in 2018.</li>
-<li>Signed JaVale McGee in 2018.</li>
-<li>Signed Thomas Bryant in 2017.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed LeBron James <span class="badge badge-pill badge-success" data-bpm-text="+33" data-vorp-text="+33.9">+33.9</span> in 2018.</li>
+<li>Signed JaVale McGee <span class="badge badge-pill badge-success" data-bpm-text="+2" data-vorp-text="+2.4">+2.4</span> in 2018.</li>
+<li>Signed Kentavious Caldwell-Pope <span class="badge badge-pill badge-success" data-bpm-text="+2" data-vorp-text="+2.0">+2.0</span> in 2018.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Kyle Kuzma in 2017.</li>
-<li>Signed Rajon Rondo in 2018.</li>
-<li>Signed Kentavious Caldwell-Pope in 2018.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed LeBron James <span class="badge badge-pill badge-success" data-bpm-text="+104938" data-vorp-text="+104938.2">+104938</span> in 2018.</li>
+<li>Signed JaVale McGee <span class="badge badge-pill badge-success" data-bpm-text="+4034" data-vorp-text="+4034.4">+4034</span> in 2018.</li>
+<li>Signed Thomas Bryant <span class="badge badge-pill badge-success" data-bpm-text="+1777" data-vorp-text="+1777.2">+1777</span> in 2017.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Andrew Bogut <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.1">-0.1</span> in 2017.</li>
+<li>Signed Vander Blue <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.1">-0.1</span> in 2017.</li>
+<li>Signed Travis Wear <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.1">-0.1</span> in 2018.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Kyle Kuzma <span class="badge badge-pill badge-danger" data-bpm-text="-9669" data-vorp-text="-9669.5">-9669</span> in 2017.</li>
+<li>Signed Rajon Rondo <span class="badge badge-pill badge-danger" data-bpm-text="-4731" data-vorp-text="-4731.6">-4731</span> in 2018.</li>
+<li>Signed Kentavious Caldwell-Pope <span class="badge badge-pill badge-danger" data-bpm-text="-3378" data-vorp-text="-3378.1">-3378</span> in 2018.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -879,6 +922,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

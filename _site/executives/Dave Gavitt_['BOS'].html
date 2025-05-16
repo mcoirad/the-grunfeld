@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,13 +567,21 @@ function updateExecDraftPlayersChart() {
 </script>
 
       This executive has only drafted 3 players and thus doesn't have a draft grade.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Dee Brown with 19th pick but was worth 5th pick.</li>
-<li>Drafted Rick Fox with 24th pick but was worth 9th pick.</li>
-</ul>
-      <h5>Some of their biggest busts:</h5>
       
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Rick Fox <span class="badge badge-pill badge-success" data-bpm-text="+11" data-vorp-text="+11.7">+11.7</span> with 24th pick but was worth 9th pick. </li>
+<li>Drafted Dee Brown <span class="badge badge-pill badge-success" data-bpm-text="+11" data-vorp-text="+11.5">+11.5</span> with 19th pick but was worth 5th pick. </li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Dee Brown <span class="badge badge-pill badge-success" data-bpm-text="+15791" data-vorp-text="+15791.0">+15791</span> with 19th pick but was worth 4th pick. </li>
+<li>Drafted Rick Fox <span class="badge badge-pill badge-success" data-bpm-text="+1193" data-vorp-text="+1193.5">+1193</span> with 24th pick but was worth 16th pick. </li>
+</ul>
+    
+      
+    
+    
+    
+
     </div>
   </div>
 </div>
@@ -704,13 +723,23 @@ function updateTradeChart() {
   </script>
 
       This executive has only made 2 trades and thus doesn't have a trade grade.
-      <h5>Their biggest win:</h5>
       
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Sherman Douglas to BOS.</li>
-<li>Lost Brian Shaw to MIA.</li>
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.6">+0.6</span></h5><ul id=vorp-toggle>
+<li>Added Sherman Douglas <span class="badge badge-pill badge-success" data-bpm-text="-6141" data-vorp-text="+2.3">+2.3</span> to BOS.</li>
+<li>Lost Brian Shaw <span class="badge badge-pill badge-danger" data-bpm-text="+1984" data-vorp-text="-1.7">-1.7</span> to MIA.</li>
 </ul>
+    
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.5">-1.5</span></h5><ul id=vorp-toggle>
+<li>Added Alaa Abdelnaby <span class="badge badge-pill badge-danger" data-bpm-text="-5784" data-vorp-text="-0.8">-0.8</span> to BOS.</li>
+<li>Lost Jon Barry <span class="badge badge-pill badge-danger" data-bpm-text="+1879" data-vorp-text="-0.7">-0.7</span>, Eric Snow <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to MIL.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-4156" data-vorp-text="-4156.9">-4156</span></h5><ul id=bpm-toggle>
+<li>Added Sherman Douglas <span class="badge badge-pill badge-danger" data-bpm-text="-6141" data-vorp-text="+2.3">-6141</span> to BOS.</li>
+<li>Lost Brian Shaw <span class="badge badge-pill badge-success" data-bpm-text="+1984" data-vorp-text="-1.7">+1984</span> to MIA.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -851,18 +880,30 @@ function updateSigningChart() {
   </script>
 
       Dave Gavitt ranks in the 45th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Derek Smith in 1990.</li>
-<li>Signed Tony Harris in 1994.</li>
-<li>Signed Kenny Battle in 1992.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Xavier McDaniel <span class="badge badge-pill badge-success" data-bpm-text="+1" data-vorp-text="+1.1">+1.1</span> in 1992.</li>
+<li>Signed Kevin Pritchard <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.1">+0.1</span> in 1991.</li>
+<li>Signed Lorenzo Williams <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.1">+0.1</span> in 1993.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Xavier McDaniel in 1992.</li>
-<li>Signed Jimmy Oliver in 1993.</li>
-<li>Signed Stojko Vranković in 1990.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Derek Smith <span class="badge badge-pill badge-success" data-bpm-text="+33" data-vorp-text="+33.6">+33</span> in 1990.</li>
+<li>Signed Tony Harris <span class="badge badge-pill badge-success" data-bpm-text="+24" data-vorp-text="+24.6">+24</span> in 1994.</li>
+<li>Signed Kenny Battle <span class="badge badge-pill badge-success" data-bpm-text="+9" data-vorp-text="+9.2">+9</span> in 1992.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Stojko Vranković <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.3">-0.3</span> in 1990.</li>
+<li>Signed Jimmy Oliver <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.3">-0.3</span> in 1993.</li>
+<li>Signed John Bagley <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.2">-0.2</span> in 1992.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Xavier McDaniel <span class="badge badge-pill badge-danger" data-bpm-text="-7058" data-vorp-text="-7058.3">-7058</span> in 1992.</li>
+<li>Signed Jimmy Oliver <span class="badge badge-pill badge-danger" data-bpm-text="-2322" data-vorp-text="-2322.0">-2322</span> in 1993.</li>
+<li>Signed Stojko Vranković <span class="badge badge-pill badge-danger" data-bpm-text="-1789" data-vorp-text="-1789.6">-1789</span> in 1990.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -874,6 +915,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

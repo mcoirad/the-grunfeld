@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,17 +567,28 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Monte McNair ranks in the 46th percentile for drafting among executives in our database. McNair's draft picks average out to be worth the equivalent of 4 spots lower than they were picked due to their terrible drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Tyrese Haliburton with 12th pick but was worth 1th pick.</li>
-<li>Drafted Jahmi'us Ramsey with 43th pick but was worth 42th pick.</li>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Tyrese Haliburton <span class="badge badge-pill badge-success" data-bpm-text="+15" data-vorp-text="+16.0">+16.0</span> with 12th pick but was worth 1th pick. </li>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Davion Mitchell with 9th pick but was worth 60th pick.</li>
-<li>Drafted Keegan Murray with 4th pick but was worth 10th pick.</li>
-<li>Drafted Devin Carter with 13th pick but was worth 31th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Tyrese Haliburton <span class="badge badge-pill badge-success" data-bpm-text="+52246" data-vorp-text="+52246.8">+52246</span> with 12th pick but was worth 1th pick. </li>
+<li>Drafted Jahmi'us Ramsey <span class="badge badge-pill badge-success" data-bpm-text="+5933" data-vorp-text="+5933.6">+5933</span> with 43th pick but was worth 30th pick. </li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Davion Mitchell <span class="badge badge-pill badge-danger" data-bpm-text="-5" data-vorp-text="-5.2">-5.2</span> with 9th pick but was worth 60th pick.</li>
+<li>Drafted Keegan Murray <span class="badge badge-pill badge-danger" data-bpm-text="-2" data-vorp-text="-2.5">-2.5</span> with 4th pick but was worth 10th pick.</li>
+<li>Drafted Devin Carter <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.1">-0.1</span> with 13th pick but was worth 31th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Davion Mitchell <span class="badge badge-pill badge-danger" data-bpm-text="-24342" data-vorp-text="-24342.1">-24342</span> with 9th pick but was worth 60th pick.</li>
+<li>Drafted Keegan Murray <span class="badge badge-pill badge-danger" data-bpm-text="-13786" data-vorp-text="-13786.8">-13786</span> with 4th pick but was worth 44th pick.</li>
+<li>Drafted Devin Carter <span class="badge badge-pill badge-danger" data-bpm-text="-1157" data-vorp-text="-1157.4">-1157</span> with 13th pick but was worth 32th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -708,17 +730,29 @@ function updateTradeChart() {
   </script>
 
       Monte McNair ranks in the 84th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Jalen McDaniels to SAC.</li>
-<li>Lost Davion Mitchell, Jamal Shead, Sasha Vezenkov, future 2nd round pick to TOR.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+17" data-vorp-text="+17.6">+17.6</span></h5><ul id=vorp-toggle>
+<li>Added Zach LaVine <span class="badge badge-pill badge-success" data-bpm-text="-661" data-vorp-text="+0.4">+0.4</span>, future 2nd round pick <span class="badge badge-pill badge-danger" data-bpm-text="-5292" data-vorp-text="-0.3">-0.3</span>, Sidy Cissoko <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, future 1st round pick <span class="badge badge-pill badge-success" data-bpm-text="+1729" data-vorp-text="+6.1">+6.1</span>, future 2nd round pick <span class="badge badge-pill badge-danger" data-bpm-text="-5292" data-vorp-text="-0.3">-0.3</span>, future 1st round pick <span class="badge badge-pill badge-success" data-bpm-text="+1729" data-vorp-text="+6.1">+6.1</span>, future 2nd round pick <span class="badge badge-pill badge-danger" data-bpm-text="-5292" data-vorp-text="-0.3">-0.3</span>, future 1st round pick <span class="badge badge-pill badge-success" data-bpm-text="+1729" data-vorp-text="+6.1">+6.1</span> to SAC.</li>
+<li>Lost De'Aaron Fox <span class="badge badge-pill badge-success" data-bpm-text="+1156" data-vorp-text="+0.0">+0.0</span>, Jordan McLaughlin <span class="badge badge-pill badge-danger" data-bpm-text="-624" data-vorp-text="-0.2">-0.2</span> to SAS.</li>
+<li>Lost Kevin Huerter <span class="badge badge-pill badge-success" data-bpm-text="+1319" data-vorp-text="+0.0">+0.0</span> to CHI.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Zach LaVine, future 2nd round pick, Sidy Cissoko, future 1st round pick, future 2nd round pick, future 1st round pick, future 2nd round pick, future 1st round pick to SAC.</li>
-<li>Lost De'Aaron Fox, Jordan McLaughlin to SAS.</li>
-<li>Lost Kevin Huerter to CHI.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+15245" data-vorp-text="+15245.3">+15245</span></h5><ul id=bpm-toggle>
+<li>Added Jalen McDaniels <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to SAC.</li>
+<li>Lost Davion Mitchell <span class="badge badge-pill badge-success" data-bpm-text="+4644" data-vorp-text="+0.6">+4644</span>, Jamal Shead <span class="badge badge-pill badge-success" data-bpm-text="+5308" data-vorp-text="+0.6">+5308</span>, Sasha Vezenkov <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, future 2nd round pick <span class="badge badge-pill badge-success" data-bpm-text="+5292" data-vorp-text="+0.3">+5292</span> to TOR.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-5" data-vorp-text="-5.3">-5.3</span></h5><ul id=vorp-toggle>
+<li>Added DeMar DeRozan <span class="badge badge-pill badge-success" data-bpm-text="+270" data-vorp-text="+1.4">+1.4</span> to SAC.</li>
+<li>Lost Harrison Barnes <span class="badge badge-pill badge-danger" data-bpm-text="-218" data-vorp-text="-1.1">-1.1</span>, future 1st round pick <span class="badge badge-pill badge-danger" data-bpm-text="-1729" data-vorp-text="-6.1">-6.1</span> to SAS.</li>
+<li>Lost Chris Duarte <span class="badge badge-pill badge-danger" data-bpm-text="-88" data-vorp-text="-0.1">-0.1</span>, future 2nd round pick <span class="badge badge-pill badge-success" data-bpm-text="+5292" data-vorp-text="+0.3">+0.3</span>, future 2nd round pick <span class="badge badge-pill badge-success" data-bpm-text="+5292" data-vorp-text="+0.3">+0.3</span> to CHI.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-9499" data-vorp-text="-9499.6">-9499</span></h5><ul id=bpm-toggle>
+<li>Added Zach LaVine <span class="badge badge-pill badge-danger" data-bpm-text="-661" data-vorp-text="+0.4">-661</span>, future 2nd round pick <span class="badge badge-pill badge-danger" data-bpm-text="-5292" data-vorp-text="-0.3">-5292</span>, Sidy Cissoko <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, future 1st round pick <span class="badge badge-pill badge-success" data-bpm-text="+1729" data-vorp-text="+6.1">+1729</span>, future 2nd round pick <span class="badge badge-pill badge-danger" data-bpm-text="-5292" data-vorp-text="-0.3">-5292</span>, future 1st round pick <span class="badge badge-pill badge-success" data-bpm-text="+1729" data-vorp-text="+6.1">+1729</span>, future 2nd round pick <span class="badge badge-pill badge-danger" data-bpm-text="-5292" data-vorp-text="-0.3">-5292</span>, future 1st round pick <span class="badge badge-pill badge-success" data-bpm-text="+1729" data-vorp-text="+6.1">+1729</span> to SAC.</li>
+<li>Lost De'Aaron Fox <span class="badge badge-pill badge-success" data-bpm-text="+1156" data-vorp-text="+0.0">+1156</span>, Jordan McLaughlin <span class="badge badge-pill badge-danger" data-bpm-text="-624" data-vorp-text="-0.2">-624</span> to SAS.</li>
+<li>Lost Kevin Huerter <span class="badge badge-pill badge-success" data-bpm-text="+1319" data-vorp-text="+0.0">+1319</span> to CHI.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -859,18 +893,30 @@ function updateSigningChart() {
   </script>
 
       Monte McNair ranks in the 68th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Keon Ellis in 2023.</li>
-<li>Signed Malik Monk in 2022.</li>
-<li>Signed Damian Jones in 2021.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Keon Ellis <span class="badge badge-pill badge-success" data-bpm-text="+2" data-vorp-text="+2.7">+2.7</span> in 2023.</li>
+<li>Signed Malik Monk <span class="badge badge-pill badge-success" data-bpm-text="+2" data-vorp-text="+2.2">+2.2</span> in 2022.</li>
+<li>Signed Trey Lyles <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.7">+0.7</span> in 2023.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Chimezie Metu in 2020.</li>
-<li>Signed Maurice Harkless in 2021.</li>
-<li>Signed Alex Len in 2021.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Keon Ellis <span class="badge badge-pill badge-success" data-bpm-text="+4947" data-vorp-text="+4947.6">+4947</span> in 2023.</li>
+<li>Signed Malik Monk <span class="badge badge-pill badge-success" data-bpm-text="+1638" data-vorp-text="+1638.9">+1638</span> in 2022.</li>
+<li>Signed Damian Jones <span class="badge badge-pill badge-success" data-bpm-text="+100" data-vorp-text="+100.5">+100</span> in 2021.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Maurice Harkless <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.3">-0.3</span> in 2021.</li>
+<li>Signed DaQuan Jeffries <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.2">-0.2</span> in 2020.</li>
+<li>Signed Glenn Robinson <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.2">-0.2</span> in 2020.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Chimezie Metu <span class="badge badge-pill badge-danger" data-bpm-text="-3744" data-vorp-text="-3744.2">-3744</span> in 2020.</li>
+<li>Signed Maurice Harkless <span class="badge badge-pill badge-danger" data-bpm-text="-2847" data-vorp-text="-2847.9">-2847</span> in 2021.</li>
+<li>Signed Alex Len <span class="badge badge-pill badge-danger" data-bpm-text="-2441" data-vorp-text="-2442.0">-2441</span> in 2021.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -882,6 +928,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

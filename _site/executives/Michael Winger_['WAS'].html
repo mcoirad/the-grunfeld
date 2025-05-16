@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,12 +567,19 @@ function updateExecDraftPlayersChart() {
 </script>
 
       This executive has only drafted 2 players and thus doesn't have a draft grade.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Tristan Vukcevic with 42th pick but was worth 16th pick.</li>
-</ul>
-      <h5>Some of their biggest busts:</h5>
       
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Tristan Vukcevic <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.5">+0.5</span> with 42th pick but was worth 16th pick. </li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Tristan Vukcevic <span class="badge badge-pill badge-success" data-bpm-text="+4261" data-vorp-text="+4261.8">+4261</span> with 42th pick but was worth 18th pick. </li>
+</ul>
+    
+      
+    
+    
+    
+
     </div>
   </div>
 </div>
@@ -703,16 +721,26 @@ function updateTradeChart() {
   </script>
 
       Michael Winger ranks in the 23th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Reggie Jackson, future 1st round pick to WAS.</li>
-<li>Lost Jared Butler, future 2nd round pick, future 2nd round pick, future 2nd round pick, future 2nd round pick to PHI.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+7" data-vorp-text="+7.1">+7.1</span></h5><ul id=vorp-toggle>
+<li>Added Malcolm Brogdon <span class="badge badge-pill badge-success" data-bpm-text="-902" data-vorp-text="+0.1">+0.1</span>, Carlton Carrington <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, future 2nd round pick <span class="badge badge-pill badge-success" data-bpm-text="-2496" data-vorp-text="+1.0">+1.0</span>, future 1st round pick <span class="badge badge-pill badge-success" data-bpm-text="+4525" data-vorp-text="+7.3">+7.3</span>, future 2nd round pick <span class="badge badge-pill badge-success" data-bpm-text="-2496" data-vorp-text="+1.0">+1.0</span> to WAS.</li>
+<li>Lost Deni Avdija <span class="badge badge-pill badge-danger" data-bpm-text="-4322" data-vorp-text="-2.2">-2.2</span> to POR.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Danilo Gallinari, Mike Muscala, Julian Phillips, Tyus Jones to WAS.</li>
-<li>Lost Kristaps Porzingis to BOS.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+16079" data-vorp-text="+16079.0">+16079</span></h5><ul id=bpm-toggle>
+<li>Added Reggie Jackson <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, future 1st round pick <span class="badge badge-pill badge-success" data-bpm-text="+4525" data-vorp-text="+7.3">+4525</span> to WAS.</li>
+<li>Lost Jared Butler <span class="badge badge-pill badge-success" data-bpm-text="+1567" data-vorp-text="+0.1">+1567</span>, future 2nd round pick <span class="badge badge-pill badge-success" data-bpm-text="+2496" data-vorp-text="-1.0">+2496</span>, future 2nd round pick <span class="badge badge-pill badge-success" data-bpm-text="+2496" data-vorp-text="-1.0">+2496</span>, future 2nd round pick <span class="badge badge-pill badge-success" data-bpm-text="+2496" data-vorp-text="-1.0">+2496</span>, future 2nd round pick <span class="badge badge-pill badge-success" data-bpm-text="+2496" data-vorp-text="-1.0">+2496</span> to PHI.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-4" data-vorp-text="-4.3">-4.3</span></h5><ul id=vorp-toggle>
+<li>Added Danilo Gallinari <span class="badge badge-pill badge-danger" data-bpm-text="-1001" data-vorp-text="-0.1">-0.1</span>, Mike Muscala <span class="badge badge-pill badge-danger" data-bpm-text="-2095" data-vorp-text="-0.4">-0.4</span>, Julian Phillips <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Tyus Jones <span class="badge badge-pill badge-success" data-bpm-text="+1353" data-vorp-text="+1.3">+1.3</span> to WAS.</li>
+<li>Lost Kristaps Porzingis <span class="badge badge-pill badge-danger" data-bpm-text="-14459" data-vorp-text="-5.1">-5.1</span> to BOS.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-16203" data-vorp-text="-16203.3">-16203</span></h5><ul id=bpm-toggle>
+<li>Added Danilo Gallinari <span class="badge badge-pill badge-danger" data-bpm-text="-1001" data-vorp-text="-0.1">-1001</span>, Mike Muscala <span class="badge badge-pill badge-danger" data-bpm-text="-2095" data-vorp-text="-0.4">-2095</span>, Julian Phillips <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Tyus Jones <span class="badge badge-pill badge-success" data-bpm-text="+1353" data-vorp-text="+1.3">+1353</span> to WAS.</li>
+<li>Lost Kristaps Porzingis <span class="badge badge-pill badge-danger" data-bpm-text="-14459" data-vorp-text="-5.1">-14459</span> to BOS.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -853,18 +881,30 @@ function updateSigningChart() {
   </script>
 
       Michael Winger ranks in the 27th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Jared Butler in 2024.</li>
-<li>Signed Hamidou Diallo in 2024.</li>
-<li>Signed Jalen McDaniels in 2025.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Justin Champagnie <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.4">+0.4</span> in 2024.</li>
+<li>Signed Jared Butler <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.3">+0.3</span> in 2024.</li>
+<li>Signed Tristan Vukcevic <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.1">+0.1</span> in 2024.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Bilal Coulibaly in 2023.</li>
-<li>Signed Carlton Carrington in 2024.</li>
-<li>Signed Kyshawn George in 2024.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Jared Butler <span class="badge badge-pill badge-success" data-bpm-text="+325" data-vorp-text="+325.8">+325</span> in 2024.</li>
+<li>Signed Hamidou Diallo <span class="badge badge-pill badge-success" data-bpm-text="+93" data-vorp-text="+93.5">+93</span> in 2024.</li>
+<li>Signed Jalen McDaniels <span class="badge badge-pill badge-success" data-bpm-text="+38" data-vorp-text="+38.5">+38</span> in 2025.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Bilal Coulibaly <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.7">-1.7</span> in 2023.</li>
+<li>Signed Carlton Carrington <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.6">-1.6</span> in 2024.</li>
+<li>Signed Kyshawn George <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.0">-1.0</span> in 2024.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Bilal Coulibaly <span class="badge badge-pill badge-danger" data-bpm-text="-14410" data-vorp-text="-14410.6">-14410</span> in 2023.</li>
+<li>Signed Carlton Carrington <span class="badge badge-pill badge-danger" data-bpm-text="-11195" data-vorp-text="-11195.4">-11195</span> in 2024.</li>
+<li>Signed Kyshawn George <span class="badge badge-pill badge-danger" data-bpm-text="-7228" data-vorp-text="-7228.3">-7228</span> in 2024.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -876,6 +916,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,10 +567,9 @@ function updateExecDraftPlayersChart() {
 </script>
 
       This executive hasn't drafted any players, and thus doesn't have a draft grade.
-      <h5>Some of their biggest wins:</h5>
       
-      <h5>Some of their biggest busts:</h5>
       
+
     </div>
   </div>
 </div>
@@ -701,12 +711,18 @@ function updateTradeChart() {
   </script>
 
       This executive has only made one trade and thus doesn't have a trade grade.
-      <h5>Their biggest win:</h5>
       
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Charles Jenkins to PHI.</li>
+    
+    
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.1">-0.1</span></h5><ul id=vorp-toggle>
+<li>Added Charles Jenkins <span class="badge badge-pill badge-danger" data-bpm-text="-600" data-vorp-text="-0.1">-0.1</span> to PHI.</li>
 </ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-600" data-vorp-text="-600.0">-600</span></h5><ul id=bpm-toggle>
+<li>Added Charles Jenkins <span class="badge badge-pill badge-danger" data-bpm-text="-600" data-vorp-text="-0.1">-600</span> to PHI.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -847,14 +863,22 @@ function updateSigningChart() {
   </script>
 
       Tony DiLeo ranks in the 0th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
       
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Damien Wilkins in 2012.</li>
-<li>Signed Maalik Wayns in 2013.</li>
-<li>Signed Jeremy Pargo in 2013.</li>
+    
+    
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Maalik Wayns <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.4">-0.4</span> in 2013.</li>
+<li>Signed Damien Wilkins <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.1">-0.1</span> in 2012.</li>
+<li>Signed Jeremy Pargo <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.1">-0.1</span> in 2013.</li>
 </ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Damien Wilkins <span class="badge badge-pill badge-danger" data-bpm-text="-2409" data-vorp-text="-2409.0">-2409</span> in 2012.</li>
+<li>Signed Maalik Wayns <span class="badge badge-pill badge-danger" data-bpm-text="-2046" data-vorp-text="-2046.0">-2046</span> in 2013.</li>
+<li>Signed Jeremy Pargo <span class="badge badge-pill badge-danger" data-bpm-text="-915" data-vorp-text="-915.2">-915</span> in 2013.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -866,6 +890,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

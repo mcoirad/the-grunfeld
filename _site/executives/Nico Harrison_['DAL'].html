@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,10 +567,9 @@ function updateExecDraftPlayersChart() {
 </script>
 
       This executive hasn't drafted any players, and thus doesn't have a draft grade.
-      <h5>Some of their biggest wins:</h5>
       
-      <h5>Some of their biggest busts:</h5>
       
+
     </div>
   </div>
 </div>
@@ -701,16 +711,26 @@ function updateTradeChart() {
   </script>
 
       Nico Harrison ranks in the 37th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Kyrie Irving, Markieff Morris to DAL.</li>
-<li>Lost Spencer Dinwiddie, Dorian Finney-Smith to BRK.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+6" data-vorp-text="+6.2">+6.2</span></h5><ul id=vorp-toggle>
+<li>Added Max Christie <span class="badge badge-pill badge-danger" data-bpm-text="-2892" data-vorp-text="-0.3">-0.3</span>, Anthony Davis <span class="badge badge-pill badge-success" data-bpm-text="+47" data-vorp-text="+0.1">+0.1</span>, future 1st round pick <span class="badge badge-pill badge-success" data-bpm-text="+4525" data-vorp-text="+7.3">+7.3</span>, future 2nd round pick <span class="badge badge-pill badge-success" data-bpm-text="-2496" data-vorp-text="+1.0">+1.0</span> to DAL.</li>
+<li>Lost Luka Doncic <span class="badge badge-pill badge-danger" data-bpm-text="-6003" data-vorp-text="-2.0">-2.0</span>, Maxi Kleber <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Markieff Morris <span class="badge badge-pill badge-success" data-bpm-text="+664" data-vorp-text="+0.1">+0.1</span> to LAL.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Davis Bertans, Spencer Dinwiddie to DAL.</li>
-<li>Lost Kristaps Porzingis, Yannick Nzosa to WAS.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+11601" data-vorp-text="+11601.2">+11601</span></h5><ul id=bpm-toggle>
+<li>Added Kyrie Irving <span class="badge badge-pill badge-success" data-bpm-text="+3738" data-vorp-text="+1.3">+3738</span>, Markieff Morris <span class="badge badge-pill badge-danger" data-bpm-text="-406" data-vorp-text="-0.1">-406</span> to DAL.</li>
+<li>Lost Spencer Dinwiddie <span class="badge badge-pill badge-success" data-bpm-text="+1732" data-vorp-text="-0.8">+1732</span>, Dorian Finney-Smith <span class="badge badge-pill badge-success" data-bpm-text="+6535" data-vorp-text="+0.0">+6535</span> to BRK.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-2" data-vorp-text="-2.4">-2.4</span></h5><ul id=vorp-toggle>
+<li>Added Dereck Lively II <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to DAL.</li>
+<li>Lost Davis Bertans <span class="badge badge-pill badge-danger" data-bpm-text="-364" data-vorp-text="-0.1">-0.1</span>, Cason Wallace <span class="badge badge-pill badge-danger" data-bpm-text="-2045" data-vorp-text="-2.3">-2.3</span> to OKC.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-12048" data-vorp-text="-12048.1">-12048</span></h5><ul id=bpm-toggle>
+<li>Added Davis Bertans <span class="badge badge-pill badge-danger" data-bpm-text="-774" data-vorp-text="+0.2">-774</span>, Spencer Dinwiddie <span class="badge badge-pill badge-success" data-bpm-text="+572" data-vorp-text="+2.4">+572</span> to DAL.</li>
+<li>Lost Kristaps Porzingis <span class="badge badge-pill badge-danger" data-bpm-text="-11846" data-vorp-text="-4.3">-11846</span>, Yannick Nzosa <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to WAS.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -851,18 +871,30 @@ function updateSigningChart() {
   </script>
 
       Nico Harrison ranks in the 42th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Kyrie Irving in 2023.</li>
-<li>Signed Dereck Lively II in 2023.</li>
-<li>Signed Kai Jones in 2025.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Kyrie Irving <span class="badge badge-pill badge-success" data-bpm-text="+6" data-vorp-text="+6.1">+6.1</span> in 2023.</li>
+<li>Signed Dereck Lively II <span class="badge badge-pill badge-success" data-bpm-text="+1" data-vorp-text="+1.9">+1.9</span> in 2023.</li>
+<li>Signed Dwight Powell <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.7">+0.7</span> in 2023.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Tim Hardaway Jr. in 2021.</li>
-<li>Signed Jaden Hardy in 2022.</li>
-<li>Signed Reggie Bullock in 2021.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Kyrie Irving <span class="badge badge-pill badge-success" data-bpm-text="+16080" data-vorp-text="+16080.6">+16080</span> in 2023.</li>
+<li>Signed Dereck Lively II <span class="badge badge-pill badge-success" data-bpm-text="+3418" data-vorp-text="+3418.0">+3418</span> in 2023.</li>
+<li>Signed Kai Jones <span class="badge badge-pill badge-success" data-bpm-text="+1193" data-vorp-text="+1193.4">+1193</span> in 2025.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Jaden Hardy <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.1">-1.1</span> in 2022.</li>
+<li>Signed Frank Ntilikina <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.7">-0.7</span> in 2021.</li>
+<li>Signed A.J. Lawson <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.3">-0.3</span> in 2022.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Tim Hardaway Jr. <span class="badge badge-pill badge-danger" data-bpm-text="-10270" data-vorp-text="-10270.6">-10270</span> in 2021.</li>
+<li>Signed Jaden Hardy <span class="badge badge-pill badge-danger" data-bpm-text="-9666" data-vorp-text="-9666.9">-9666</span> in 2022.</li>
+<li>Signed Reggie Bullock <span class="badge badge-pill badge-danger" data-bpm-text="-8809" data-vorp-text="-8809.2">-8809</span> in 2021.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -874,6 +906,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

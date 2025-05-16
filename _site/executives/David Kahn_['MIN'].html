@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,16 +567,28 @@ function updateExecDraftPlayersChart() {
 </script>
 
       David Kahn ranks in the 14th percentile for drafting among executives in our database. Kahn's draft picks average out to be worth the equivalent of 14 spots lower than they were picked due to their terrible drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Robbie Hummel with 58th pick but was worth 46th pick.</li>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Wayne Ellington <span class="badge badge-pill badge-success" data-bpm-text="+1" data-vorp-text="+1.4">+1.4</span> with 28th pick but was worth 24th pick. </li>
+<li>Drafted Robbie Hummel <span class="badge badge-pill badge-success" data-bpm-text="+1" data-vorp-text="+1.2">+1.2</span> with 58th pick but was worth 46th pick. </li>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Derrick Williams with 2th pick but was worth 26th pick.</li>
-<li>Drafted Wesley Johnson with 4th pick but was worth 20th pick.</li>
-<li>Drafted Jonny Flynn with 6th pick but was worth 60th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Robbie Hummel <span class="badge badge-pill badge-success" data-bpm-text="+20492" data-vorp-text="+20492.5">+20492</span> with 58th pick but was worth 34th pick. </li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Derrick Williams <span class="badge badge-pill badge-danger" data-bpm-text="-49" data-vorp-text="-49.1">-49.1</span> with 2th pick but was worth 26th pick.</li>
+<li>Drafted Jonny Flynn <span class="badge badge-pill badge-danger" data-bpm-text="-22" data-vorp-text="-22.1">-22.1</span> with 6th pick but was worth 60th pick.</li>
+<li>Drafted Wesley Johnson <span class="badge badge-pill badge-danger" data-bpm-text="-20" data-vorp-text="-20.4">-20.4</span> with 4th pick but was worth 20th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Derrick Williams <span class="badge badge-pill badge-danger" data-bpm-text="-158132" data-vorp-text="-158132.4">-158132</span> with 2th pick but was worth 47th pick.</li>
+<li>Drafted Wesley Johnson <span class="badge badge-pill badge-danger" data-bpm-text="-62601" data-vorp-text="-62601.6">-62601</span> with 4th pick but was worth 57th pick.</li>
+<li>Drafted Jonny Flynn <span class="badge badge-pill badge-danger" data-bpm-text="-47934" data-vorp-text="-47934.4">-47934</span> with 6th pick but was worth 55th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -707,16 +730,26 @@ function updateTradeChart() {
   </script>
 
       David Kahn ranks in the 26th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Bojan Bogdanović to MIN.</li>
-<li>Lost Norris Cole to MIA.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+3" data-vorp-text="+3.5">+3.5</span></h5><ul id=vorp-toggle>
+<li>Added Bojan Bogdanović <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to MIN.</li>
+<li>Lost Norris Cole <span class="badge badge-pill badge-success" data-bpm-text="+25416" data-vorp-text="+3.5">+3.5</span> to MIA.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Luke Babbitt to MIN.</li>
-<li>Lost Ty Lawson to DEN.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+25416" data-vorp-text="+25416.4">+25416</span></h5><ul id=bpm-toggle>
+<li>Added Bojan Bogdanović <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to MIN.</li>
+<li>Lost Norris Cole <span class="badge badge-pill badge-success" data-bpm-text="+25416" data-vorp-text="+3.5">+25416</span> to MIA.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-13" data-vorp-text="-13.8">-13.8</span></h5><ul id=vorp-toggle>
+<li>Added Luke Babbitt <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to MIN.</li>
+<li>Lost Ty Lawson <span class="badge badge-pill badge-danger" data-bpm-text="-28662" data-vorp-text="-13.8">-13.8</span> to DEN.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-28662" data-vorp-text="-28662.5">-28662</span></h5><ul id=bpm-toggle>
+<li>Added Luke Babbitt <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to MIN.</li>
+<li>Lost Ty Lawson <span class="badge badge-pill badge-danger" data-bpm-text="-28662" data-vorp-text="-13.8">-28662</span> to DEN.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -857,18 +890,30 @@ function updateSigningChart() {
   </script>
 
       David Kahn ranks in the 35th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Andrei Kirilenko in 2012.</li>
-<li>Signed Chris Johnson in 2013.</li>
-<li>Signed Jason Hart in 2009.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Andrei Kirilenko <span class="badge badge-pill badge-success" data-bpm-text="+2" data-vorp-text="+2.9">+2.9</span> in 2012.</li>
+<li>Signed Luke Ridnour <span class="badge badge-pill badge-success" data-bpm-text="+2" data-vorp-text="+2.6">+2.6</span> in 2010.</li>
+<li>Signed J.J. Barea <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.6">+0.6</span> in 2011.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed J.J. Barea in 2011.</li>
-<li>Signed Ryan Hollins in 2009.</li>
-<li>Signed Sasha Pavlović in 2009.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Andrei Kirilenko <span class="badge badge-pill badge-success" data-bpm-text="+7119" data-vorp-text="+7119.0">+7119</span> in 2012.</li>
+<li>Signed Chris Johnson <span class="badge badge-pill badge-success" data-bpm-text="+454" data-vorp-text="+454.4">+454</span> in 2013.</li>
+<li>Signed Jason Hart <span class="badge badge-pill badge-success" data-bpm-text="+19" data-vorp-text="+19.0">+19</span> in 2009.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Sasha Pavlović <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.9">-0.9</span> in 2009.</li>
+<li>Signed Ryan Hollins <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.8">-0.8</span> in 2009.</li>
+<li>Signed Ramon Sessions <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.4">-0.4</span> in 2009.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed J.J. Barea <span class="badge badge-pill badge-danger" data-bpm-text="-6031" data-vorp-text="-6031.5">-6031</span> in 2011.</li>
+<li>Signed Ryan Hollins <span class="badge badge-pill badge-danger" data-bpm-text="-5625" data-vorp-text="-5625.8">-5625</span> in 2009.</li>
+<li>Signed Sasha Pavlović <span class="badge badge-pill badge-danger" data-bpm-text="-5437" data-vorp-text="-5437.4">-5437</span> in 2009.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -880,6 +925,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

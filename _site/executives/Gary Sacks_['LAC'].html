@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,10 +567,9 @@ function updateExecDraftPlayersChart() {
 </script>
 
       This executive hasn't drafted any players, and thus doesn't have a draft grade.
-      <h5>Some of their biggest wins:</h5>
       
-      <h5>Some of their biggest busts:</h5>
       
+
     </div>
   </div>
 </div>
@@ -701,16 +711,23 @@ function updateTradeChart() {
   </script>
 
       This executive has only made 3 trades and thus doesn't have a trade grade.
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Cheick Diallo to LAC.</li>
-<li>Lost Reggie Evans, Marcus Paige to BRK.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.3">+0.3</span></h5><ul id=vorp-toggle>
+<li>Added Cheick Diallo <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to LAC.</li>
+<li>Lost Reggie Evans <span class="badge badge-pill badge-success" data-bpm-text="+5777" data-vorp-text="+0.3">+0.3</span>, Marcus Paige <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to BRK.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Willie Green to LAC.</li>
-<li>Lost Sofoklis Schortsanitis to ATL.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+5777" data-vorp-text="+5777.8">+5777</span></h5><ul id=bpm-toggle>
+<li>Added Cheick Diallo <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to LAC.</li>
+<li>Lost Reggie Evans <span class="badge badge-pill badge-success" data-bpm-text="+5777" data-vorp-text="+0.3">+5777</span>, Marcus Paige <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to BRK.</li>
 </ul>
+    
+      
+    
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-3731" data-vorp-text="-3731.2">-3731</span></h5><ul id=bpm-toggle>
+<li>Added Willie Green <span class="badge badge-pill badge-danger" data-bpm-text="-3731" data-vorp-text="+0.0">-3731</span> to LAC.</li>
+<li>Lost Sofoklis Schortsanitis <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to ATL.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -851,17 +868,28 @@ function updateSigningChart() {
   </script>
 
       Gary Sacks ranks in the 86th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Matt Barnes in 2012.</li>
-<li>Signed Maalik Wayns in 2013.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Jamal Crawford <span class="badge badge-pill badge-success" data-bpm-text="+5" data-vorp-text="+5.1">+5.1</span> in 2012.</li>
+<li>Signed Matt Barnes <span class="badge badge-pill badge-success" data-bpm-text="+3" data-vorp-text="+3.8">+3.8</span> in 2012.</li>
+<li>Signed Ronny Turiaf <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.1">+0.1</span> in 2012.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Ryan Hollins in 2012.</li>
-<li>Signed Grant Hill in 2012.</li>
-<li>Signed Ronny Turiaf in 2012.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Matt Barnes <span class="badge badge-pill badge-success" data-bpm-text="+2676" data-vorp-text="+2676.1">+2676</span> in 2012.</li>
+<li>Signed Maalik Wayns <span class="badge badge-pill badge-success" data-bpm-text="+76" data-vorp-text="+76.5">+76</span> in 2013.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Grant Hill <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.4">-0.4</span> in 2012.</li>
+<li>Signed Ryan Hollins <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.3">-0.3</span> in 2012.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Ryan Hollins <span class="badge badge-pill badge-danger" data-bpm-text="-3501" data-vorp-text="-3501.5">-3501</span> in 2012.</li>
+<li>Signed Grant Hill <span class="badge badge-pill badge-danger" data-bpm-text="-2447" data-vorp-text="-2447.2">-2447</span> in 2012.</li>
+<li>Signed Ronny Turiaf <span class="badge badge-pill badge-danger" data-bpm-text="-1191" data-vorp-text="-1191.7">-1191</span> in 2012.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -873,6 +901,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

@@ -138,16 +138,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -162,6 +170,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -295,6 +304,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -564,15 +575,25 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Dave Twardzik ranks in the 6th percentile for drafting among executives in our database. Twardzik's draft picks average out to be worth the equivalent of 17 spots lower than they were picked due to their terrible drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Joe Smith with 1th pick but was worth 15th pick.</li>
-<li>Drafted Andrew DeClercq with 34th pick but was worth 55th pick.</li>
-<li>Drafted Todd Fuller with 11th pick but was worth 55th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Joe Smith <span class="badge badge-pill badge-danger" data-bpm-text="-93" data-vorp-text="-93.9">-93.9</span> with 1th pick but was worth 15th pick.</li>
+<li>Drafted Todd Fuller <span class="badge badge-pill badge-danger" data-bpm-text="-17" data-vorp-text="-17.9">-17.9</span> with 11th pick but was worth 55th pick.</li>
+<li>Drafted Andrew DeClercq <span class="badge badge-pill badge-danger" data-bpm-text="-2" data-vorp-text="-2.3">-2.3</span> with 34th pick but was worth 55th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Joe Smith <span class="badge badge-pill badge-danger" data-bpm-text="-322873" data-vorp-text="-322873.8">-322873</span> with 1th pick but was worth 57th pick.</li>
+<li>Drafted Andrew DeClercq <span class="badge badge-pill badge-danger" data-bpm-text="-24380" data-vorp-text="-24380.3">-24380</span> with 34th pick but was worth 53th pick.</li>
+<li>Drafted Todd Fuller <span class="badge badge-pill badge-danger" data-bpm-text="-22459" data-vorp-text="-22459.2">-22459</span> with 11th pick but was worth 47th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -714,16 +735,26 @@ function updateTradeChart() {
   </script>
 
       Dave Twardzik ranks in the 37th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Sidney Green, Scott Burrell, Ronnie Henderson to CHA.</li>
-<li>Lost J.R. Reid to SAS.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+1" data-vorp-text="+1.6">+1.6</span></h5><ul id=vorp-toggle>
+<li>Added B.J. Armstrong <span class="badge badge-pill badge-success" data-bpm-text="+1348" data-vorp-text="+2.0">+2.0</span> to GSW.</li>
+<li>Lost Victor Alexander <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Martin Lewis <span class="badge badge-pill badge-success" data-bpm-text="+1202" data-vorp-text="+0.2">+0.2</span>, Michael McDonald <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Carlos Rogers <span class="badge badge-pill badge-danger" data-bpm-text="+2262" data-vorp-text="-0.8">-0.8</span>, Dwayne Whitfield <span class="badge badge-pill badge-success" data-bpm-text="+878" data-vorp-text="+0.2">+0.2</span> to TOR.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Bimbo Coles, Kevin Willis to GSW.</li>
-<li>Lost Chris Gatling, Tim Hardaway to MIA.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+12631" data-vorp-text="+12631.2">+12631</span></h5><ul id=bpm-toggle>
+<li>Added Sidney Green <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Scott Burrell <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Ronnie Henderson <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to CHA.</li>
+<li>Lost J.R. Reid <span class="badge badge-pill badge-success" data-bpm-text="+12631" data-vorp-text="+0.5">+12631</span> to SAS.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-22" data-vorp-text="-22.4">-22.4</span></h5><ul id=vorp-toggle>
+<li>Added Bimbo Coles <span class="badge badge-pill badge-danger" data-bpm-text="-10365" data-vorp-text="-0.3">-0.3</span>, Kevin Willis <span class="badge badge-pill badge-danger" data-bpm-text="-5523" data-vorp-text="-1.0">-1.0</span> to GSW.</li>
+<li>Lost Chris Gatling <span class="badge badge-pill badge-danger" data-bpm-text="+586" data-vorp-text="-0.6">-0.6</span>, Tim Hardaway <span class="badge badge-pill badge-danger" data-bpm-text="-54520" data-vorp-text="-20.5">-20.5</span> to MIA.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-69823" data-vorp-text="-69823.3">-69823</span></h5><ul id=bpm-toggle>
+<li>Added Bimbo Coles <span class="badge badge-pill badge-danger" data-bpm-text="-10365" data-vorp-text="-0.3">-10365</span>, Kevin Willis <span class="badge badge-pill badge-danger" data-bpm-text="-5523" data-vorp-text="-1.0">-5523</span> to GSW.</li>
+<li>Lost Chris Gatling <span class="badge badge-pill badge-success" data-bpm-text="+586" data-vorp-text="-0.6">+586</span>, Tim Hardaway <span class="badge badge-pill badge-danger" data-bpm-text="-54520" data-vorp-text="-20.5">-54520</span> to MIA.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -864,17 +895,29 @@ function updateSigningChart() {
   </script>
 
       Dave Twardzik ranks in the 71th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Mark Price in 1996.</li>
-<li>Signed Jon Barry in 1995.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Mark Price <span class="badge badge-pill badge-success" data-bpm-text="+1" data-vorp-text="+1.5">+1.5</span> in 1996.</li>
+<li>Signed Jon Barry <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.9">+0.9</span> in 1995.</li>
+<li>Signed Keyon Dooling <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.6">+0.6</span> in 2005.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Keyon Dooling in 2005.</li>
-<li>Signed Ray Owes in 1996.</li>
-<li>Signed Jerome Kersey in 1995.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Mark Price <span class="badge badge-pill badge-success" data-bpm-text="+2251" data-vorp-text="+2251.2">+2251</span> in 1996.</li>
+<li>Signed Jon Barry <span class="badge badge-pill badge-success" data-bpm-text="+1993" data-vorp-text="+1993.6">+1993</span> in 1995.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Ray Owes <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.4">-0.4</span> in 1996.</li>
+<li>Signed Lou Roe <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.3">-0.3</span> in 1996.</li>
+<li>Signed Melvin Booker <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.1">-0.1</span> in 1997.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Keyon Dooling <span class="badge badge-pill badge-danger" data-bpm-text="-5735" data-vorp-text="-5735.8">-5735</span> in 2005.</li>
+<li>Signed Ray Owes <span class="badge badge-pill badge-danger" data-bpm-text="-2841" data-vorp-text="-2841.6">-2841</span> in 1996.</li>
+<li>Signed Jerome Kersey <span class="badge badge-pill badge-danger" data-bpm-text="-1458" data-vorp-text="-1458.0">-1458</span> in 1995.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -886,6 +929,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

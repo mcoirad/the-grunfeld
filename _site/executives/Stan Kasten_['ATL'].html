@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,17 +567,30 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Stan Kasten ranks in the 78th percentile for drafting among executives in our database. Kasten's draft picks average out to be worth the equivalent of 3 spots higher than they were picked due to his good drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Doc Rivers with 31th pick but was worth 3th pick.</li>
-<li>Drafted Alexander Volkov with 134th pick but was worth 20th pick.</li>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Doc Rivers <span class="badge badge-pill badge-success" data-bpm-text="+30" data-vorp-text="+30.4">+30.4</span> with 31th pick but was worth 3th pick. </li>
+<li>Drafted Alexander Volkov <span class="badge badge-pill badge-success" data-bpm-text="+1" data-vorp-text="+1.7">+1.7</span> with 134th pick but was worth 20th pick. </li>
+<li>Drafted John Battle <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.1">+0.1</span> with 84th pick but was worth 27th pick. </li>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Kevin Willis with 11th pick but was worth 61th pick.</li>
-<li>Drafted Jon Koncak with 5th pick but was worth 21th pick.</li>
-<li>Drafted Al Wood with 4th pick but was worth 19th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Doc Rivers <span class="badge badge-pill badge-success" data-bpm-text="+73057" data-vorp-text="+73057.7">+73057</span> with 31th pick but was worth 2th pick. </li>
+<li>Drafted Alexander Volkov <span class="badge badge-pill badge-success" data-bpm-text="+5488" data-vorp-text="+5488.9">+5488</span> with 134th pick but was worth 14th pick. </li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Jon Koncak <span class="badge badge-pill badge-danger" data-bpm-text="-29" data-vorp-text="-29.1">-29.1</span> with 5th pick but was worth 21th pick.</li>
+<li>Drafted Al Wood <span class="badge badge-pill badge-danger" data-bpm-text="-20" data-vorp-text="-20.1">-20.1</span> with 4th pick but was worth 19th pick.</li>
+<li>Drafted Kevin Willis <span class="badge badge-pill badge-danger" data-bpm-text="-12" data-vorp-text="-12.0">-12.0</span> with 11th pick but was worth 61th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Kevin Willis <span class="badge badge-pill badge-danger" data-bpm-text="-80561" data-vorp-text="-80561.2">-80561</span> with 11th pick but was worth 61th pick.</li>
+<li>Drafted Jon Koncak <span class="badge badge-pill badge-danger" data-bpm-text="-80165" data-vorp-text="-80165.4">-80165</span> with 5th pick but was worth 61th pick.</li>
+<li>Drafted Al Wood <span class="badge badge-pill badge-danger" data-bpm-text="-43451" data-vorp-text="-43451.2">-43451</span> with 4th pick but was worth 61th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -708,16 +732,26 @@ function updateTradeChart() {
   </script>
 
       Stan Kasten ranks in the 62th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Dominique Wilkins to ATL.</li>
-<li>Lost John Drew, Freeman Williams to UTA.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+46" data-vorp-text="+46.4">+46.4</span></h5><ul id=vorp-toggle>
+<li>Added Dominique Wilkins <span class="badge badge-pill badge-success" data-bpm-text="+121789" data-vorp-text="+47.2">+47.2</span> to ATL.</li>
+<li>Lost John Drew <span class="badge badge-pill badge-danger" data-bpm-text="+2336" data-vorp-text="-1.2">-1.2</span>, Freeman Williams <span class="badge badge-pill badge-success" data-bpm-text="+1533" data-vorp-text="+0.4">+0.4</span> to UTA.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Wes Matthews to ATL.</li>
-<li>Lost Don Collins to WSB.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+125658" data-vorp-text="+125658.2">+125658</span></h5><ul id=bpm-toggle>
+<li>Added Dominique Wilkins <span class="badge badge-pill badge-success" data-bpm-text="+121789" data-vorp-text="+47.2">+121789</span> to ATL.</li>
+<li>Lost John Drew <span class="badge badge-pill badge-success" data-bpm-text="+2336" data-vorp-text="-1.2">+2336</span>, Freeman Williams <span class="badge badge-pill badge-success" data-bpm-text="+1533" data-vorp-text="+0.4">+1533</span> to UTA.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-7" data-vorp-text="-7.2">-7.2</span></h5><ul id=vorp-toggle>
+<li>Added Al Wood <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Clyde Bradshaw <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to ATL.</li>
+<li>Lost Orlando Woolridge <span class="badge badge-pill badge-danger" data-bpm-text="-7130" data-vorp-text="-7.2">-7.2</span>, Ricky Frazier <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to CHI.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-8796" data-vorp-text="-8796.1">-8796</span></h5><ul id=bpm-toggle>
+<li>Added Wes Matthews <span class="badge badge-pill badge-danger" data-bpm-text="-3937" data-vorp-text="+0.7">-3937</span> to ATL.</li>
+<li>Lost Don Collins <span class="badge badge-pill badge-danger" data-bpm-text="-4858" data-vorp-text="-3.2">-4858</span> to WSB.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -858,18 +892,30 @@ function updateSigningChart() {
   </script>
 
       Stan Kasten ranks in the 75th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Spud Webb in 1985.</li>
-<li>Signed Moses Malone in 1988.</li>
-<li>Signed Mike Glenn in 1981.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Spud Webb <span class="badge badge-pill badge-success" data-bpm-text="+7" data-vorp-text="+7.0">+7.0</span> in 1985.</li>
+<li>Signed Moses Malone <span class="badge badge-pill badge-success" data-bpm-text="+5" data-vorp-text="+5.0">+5.0</span> in 1988.</li>
+<li>Signed Mike Glenn <span class="badge badge-pill badge-success" data-bpm-text="+3" data-vorp-text="+3.1">+3.1</span> in 1981.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Duane Ferrell in 1988.</li>
-<li>Signed Sam Pellom in 1979.</li>
-<li>Signed Scott Hastings in 1985.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Spud Webb <span class="badge badge-pill badge-success" data-bpm-text="+8726" data-vorp-text="+8726.8">+8726</span> in 1985.</li>
+<li>Signed Moses Malone <span class="badge badge-pill badge-success" data-bpm-text="+5044" data-vorp-text="+5044.9">+5044</span> in 1988.</li>
+<li>Signed Mike Glenn <span class="badge badge-pill badge-success" data-bpm-text="+2572" data-vorp-text="+2572.4">+2572</span> in 1981.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed John Brown <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.4">-0.4</span> in 1980.</li>
+<li>Signed Art Collins <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.4">-0.4</span> in 1981.</li>
+<li>Signed Tom Burleson <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.3">-0.3</span> in 1980.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Duane Ferrell <span class="badge badge-pill badge-danger" data-bpm-text="-9623" data-vorp-text="-9623.7">-9623</span> in 1988.</li>
+<li>Signed Sam Pellom <span class="badge badge-pill badge-danger" data-bpm-text="-5146" data-vorp-text="-5146.0">-5146</span> in 1979.</li>
+<li>Signed Scott Hastings <span class="badge badge-pill badge-danger" data-bpm-text="-3223" data-vorp-text="-3223.2">-3223</span> in 1985.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -881,6 +927,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,15 +567,25 @@ function updateExecDraftPlayersChart() {
 </script>
 
       This executive has only drafted 3 players and thus doesn't have a draft grade.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Mitchell Robinson with 36th pick but was worth 8th pick.</li>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Mitchell Robinson <span class="badge badge-pill badge-success" data-bpm-text="+8" data-vorp-text="+8.5">+8.5</span> with 36th pick but was worth 8th pick. </li>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted RJ Barrett with 3th pick but was worth 21th pick.</li>
-<li>Drafted Kevin Knox with 9th pick but was worth 60th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Mitchell Robinson <span class="badge badge-pill badge-success" data-bpm-text="+21235" data-vorp-text="+21235.7">+21235</span> with 36th pick but was worth 6th pick. </li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Kevin Knox <span class="badge badge-pill badge-danger" data-bpm-text="-11" data-vorp-text="-11.7">-11.7</span> with 9th pick but was worth 60th pick.</li>
+<li>Drafted RJ Barrett <span class="badge badge-pill badge-danger" data-bpm-text="-7" data-vorp-text="-7.3">-7.3</span> with 3th pick but was worth 21th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted RJ Barrett <span class="badge badge-pill badge-danger" data-bpm-text="-37124" data-vorp-text="-37124.6">-37124</span> with 3th pick but was worth 59th pick.</li>
+<li>Drafted Kevin Knox <span class="badge badge-pill badge-danger" data-bpm-text="-35141" data-vorp-text="-35141.5">-35141</span> with 9th pick but was worth 60th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -706,17 +727,27 @@ function updateTradeChart() {
   </script>
 
       Steve Mills ranks in the 21th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Enes Kanter, Doug McDermott, Mitchell Robinson to NYK.</li>
-<li>Lost Carmelo Anthony to OKC.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+2" data-vorp-text="+2.7">+2.7</span></h5><ul id=vorp-toggle>
+<li>Added Enes Kanter <span class="badge badge-pill badge-success" data-bpm-text="+5041" data-vorp-text="+2.7">+2.7</span>, Doug McDermott <span class="badge badge-pill badge-success" data-bpm-text="-2461" data-vorp-text="+0.0">+0.0</span>, Mitchell Robinson <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to NYK.</li>
+<li>Lost Carmelo Anthony <span class="badge badge-pill badge-success" data-bpm-text="+4751" data-vorp-text="+0.0">+0.0</span> to OKC.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Emmanuel Mudiay to NYK.</li>
-<li>Lost Justin Jackson to DEN.</li>
-<li>Lost Doug McDermott to DAL.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+7331" data-vorp-text="+7331.9">+7331</span></h5><ul id=bpm-toggle>
+<li>Added Enes Kanter <span class="badge badge-pill badge-success" data-bpm-text="+5041" data-vorp-text="+2.7">+5041</span>, Doug McDermott <span class="badge badge-pill badge-danger" data-bpm-text="-2461" data-vorp-text="+0.0">-2461</span>, Mitchell Robinson <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to NYK.</li>
+<li>Lost Carmelo Anthony <span class="badge badge-pill badge-success" data-bpm-text="+4751" data-vorp-text="+0.0">+4751</span> to OKC.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-6" data-vorp-text="-6.8">-6.8</span></h5><ul id=vorp-toggle>
+<li>Added DeAndre Jordan <span class="badge badge-pill badge-success" data-bpm-text="+1676" data-vorp-text="+0.7">+0.7</span>, Wesley Matthews <span class="badge badge-pill badge-danger" data-bpm-text="-356" data-vorp-text="-0.1">-0.1</span>, Dennis Smith Jr. <span class="badge badge-pill badge-danger" data-bpm-text="-4402" data-vorp-text="-0.6">-0.6</span>, Keon Johnson <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Kyshawn George <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to NYK.</li>
+<li>Lost Trey Burke <span class="badge badge-pill badge-danger" data-bpm-text="+3283" data-vorp-text="-0.1">-0.1</span>, Tim Hardaway Jr. <span class="badge badge-pill badge-danger" data-bpm-text="+11471" data-vorp-text="-2.2">-2.2</span>, Courtney Lee <span class="badge badge-pill badge-success" data-bpm-text="+1171" data-vorp-text="+0.0">+0.0</span>, Kristaps Porziņģis <span class="badge badge-pill badge-danger" data-bpm-text="-9372" data-vorp-text="-4.5">-4.5</span> to DAL.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-3932" data-vorp-text="-3932.2">-3932</span></h5><ul id=bpm-toggle>
+<li>Added Emmanuel Mudiay <span class="badge badge-pill badge-danger" data-bpm-text="-5481" data-vorp-text="-0.3">-5481</span> to NYK.</li>
+<li>Lost Justin Jackson <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to DEN.</li>
+<li>Lost Doug McDermott <span class="badge badge-pill badge-success" data-bpm-text="+1549" data-vorp-text="+0.1">+1549</span> to DAL.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -857,18 +888,30 @@ function updateSigningChart() {
   </script>
 
       Steve Mills ranks in the 78th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Julius Randle in 2019.</li>
-<li>Signed Luke Kornet in 2018.</li>
-<li>Signed Trey Burke in 2018.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Julius Randle <span class="badge badge-pill badge-success" data-bpm-text="+11" data-vorp-text="+11.9">+11.9</span> in 2019.</li>
+<li>Signed Trey Burke <span class="badge badge-pill badge-success" data-bpm-text="+1" data-vorp-text="+1.1">+1.1</span> in 2018.</li>
+<li>Signed Marcus Morris <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.9">+0.9</span> in 2019.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Frank Ntilikina in 2017.</li>
-<li>Signed Damyean Dotson in 2017.</li>
-<li>Signed Allonzo Trier in 2018.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Julius Randle <span class="badge badge-pill badge-success" data-bpm-text="+24006" data-vorp-text="+24006.5">+24006</span> in 2019.</li>
+<li>Signed Luke Kornet <span class="badge badge-pill badge-success" data-bpm-text="+1568" data-vorp-text="+1568.0">+1568</span> in 2018.</li>
+<li>Signed Trey Burke <span class="badge badge-pill badge-success" data-bpm-text="+1549" data-vorp-text="+1549.1">+1549</span> in 2018.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Frank Ntilikina <span class="badge badge-pill badge-danger" data-bpm-text="-2" data-vorp-text="-2.6">-2.6</span> in 2017.</li>
+<li>Signed Mario Hezonja <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.5">-0.5</span> in 2018.</li>
+<li>Signed Jarrett Jack <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.3">-0.3</span> in 2017.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Frank Ntilikina <span class="badge badge-pill badge-danger" data-bpm-text="-18299" data-vorp-text="-18299.8">-18299</span> in 2017.</li>
+<li>Signed Damyean Dotson <span class="badge badge-pill badge-danger" data-bpm-text="-7573" data-vorp-text="-7573.9">-7573</span> in 2017.</li>
+<li>Signed Allonzo Trier <span class="badge badge-pill badge-danger" data-bpm-text="-4639" data-vorp-text="-4639.3">-4639</span> in 2018.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -880,6 +923,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

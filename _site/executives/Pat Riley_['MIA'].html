@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,17 +567,30 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Pat Riley ranks in the 68th percentile for drafting among executives in our database. Riley's draft picks average out to be worth the equivalent of 1 spot higher than they were picked due to his good drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Bam Adebayo with 14th pick but was worth 3th pick.</li>
-<li>Drafted Tyler Herro with 13th pick but was worth 4th pick.</li>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Bam Adebayo <span class="badge badge-pill badge-success" data-bpm-text="+14" data-vorp-text="+14.5">+14.5</span> with 14th pick but was worth 3th pick. </li>
+<li>Drafted Josh Richardson <span class="badge badge-pill badge-success" data-bpm-text="+5" data-vorp-text="+5.5">+5.5</span> with 40th pick but was worth 14th pick. </li>
+<li>Drafted Tyler Herro <span class="badge badge-pill badge-success" data-bpm-text="+5" data-vorp-text="+5.5">+5.5</span> with 13th pick but was worth 4th pick. </li>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Justise Winslow with 10th pick but was worth 50th pick.</li>
-<li>Drafted Precious Achiuwa with 20th pick but was worth 45th pick.</li>
-<li>Drafted Josh Richardson with 40th pick but was worth 14th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Bam Adebayo <span class="badge badge-pill badge-success" data-bpm-text="+40414" data-vorp-text="+40414.2">+40414</span> with 14th pick but was worth 3th pick. </li>
+<li>Drafted Tyler Herro <span class="badge badge-pill badge-success" data-bpm-text="+8234" data-vorp-text="+8234.1">+8234</span> with 13th pick but was worth 7th pick. </li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Justise Winslow <span class="badge badge-pill badge-danger" data-bpm-text="-9" data-vorp-text="-9.6">-9.6</span> with 10th pick but was worth 50th pick.</li>
+<li>Drafted Precious Achiuwa <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.9">-0.9</span> with 20th pick but was worth 45th pick.</li>
+<li>Drafted Dexter Pittman <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.5">-0.5</span> with 32th pick but was worth 54th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Justise Winslow <span class="badge badge-pill badge-danger" data-bpm-text="-22826" data-vorp-text="-22826.2">-22826</span> with 10th pick but was worth 56th pick.</li>
+<li>Drafted Precious Achiuwa <span class="badge badge-pill badge-danger" data-bpm-text="-14039" data-vorp-text="-14039.5">-14039</span> with 20th pick but was worth 54th pick.</li>
+<li>Drafted Josh Richardson <span class="badge badge-pill badge-danger" data-bpm-text="-5451" data-vorp-text="-5451.7">-5451</span> with 40th pick but was worth 51th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -708,16 +732,26 @@ function updateTradeChart() {
   </script>
 
       Pat Riley ranks in the 66th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added LeBron James to MIA.</li>
-<li>Lost Milan Mačvan, Jae Crowder, Nemanja Nedović, Timothé Luwawu-Cabarrot to CLE.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+33" data-vorp-text="+33.5">+33.5</span></h5><ul id=vorp-toggle>
+<li>Added LeBron James <span class="badge badge-pill badge-success" data-bpm-text="+109362" data-vorp-text="+33.2">+33.2</span> to MIA.</li>
+<li>Lost Milan Mačvan <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Jae Crowder <span class="badge badge-pill badge-success" data-bpm-text="+4038" data-vorp-text="+0.3">+0.3</span>, Nemanja Nedović <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Timothé Luwawu-Cabarrot <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to CLE.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Norris Cole to MIA.</li>
-<li>Lost Bojan Bogdanović to MIN.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+113400" data-vorp-text="+113400.2">+113400</span></h5><ul id=bpm-toggle>
+<li>Added LeBron James <span class="badge badge-pill badge-success" data-bpm-text="+109362" data-vorp-text="+33.2">+109362</span> to MIA.</li>
+<li>Lost Milan Mačvan <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Jae Crowder <span class="badge badge-pill badge-success" data-bpm-text="+4038" data-vorp-text="+0.3">+4038</span>, Nemanja Nedović <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Timothé Luwawu-Cabarrot <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to CLE.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-3" data-vorp-text="-3.5">-3.5</span></h5><ul id=vorp-toggle>
+<li>Added Norris Cole <span class="badge badge-pill badge-danger" data-bpm-text="-25416" data-vorp-text="-3.5">-3.5</span> to MIA.</li>
+<li>Lost Bojan Bogdanović <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to MIN.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-25416" data-vorp-text="-25416.4">-25416</span></h5><ul id=bpm-toggle>
+<li>Added Norris Cole <span class="badge badge-pill badge-danger" data-bpm-text="-25416" data-vorp-text="-3.5">-25416</span> to MIA.</li>
+<li>Lost Bojan Bogdanović <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to MIN.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -858,18 +892,30 @@ function updateSigningChart() {
   </script>
 
       Pat Riley ranks in the 81th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Dwyane Wade in 2010.</li>
-<li>Signed Hassan Whiteside in 2014.</li>
-<li>Signed Hassan Whiteside in 2016.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Dwyane Wade <span class="badge badge-pill badge-success" data-bpm-text="+18" data-vorp-text="+18.2">+18.2</span> in 2010.</li>
+<li>Signed Goran Dragić <span class="badge badge-pill badge-success" data-bpm-text="+6" data-vorp-text="+6.3">+6.3</span> in 2015.</li>
+<li>Signed Hassan Whiteside <span class="badge badge-pill badge-success" data-bpm-text="+5" data-vorp-text="+5.6">+5.6</span> in 2016.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Duncan Robinson in 2021.</li>
-<li>Signed Gabe Vincent in 2021.</li>
-<li>Signed Rodney McGruder in 2016.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Dwyane Wade <span class="badge badge-pill badge-success" data-bpm-text="+51276" data-vorp-text="+51276.3">+51276</span> in 2010.</li>
+<li>Signed Hassan Whiteside <span class="badge badge-pill badge-success" data-bpm-text="+13394" data-vorp-text="+13394.7">+13394</span> in 2014.</li>
+<li>Signed Hassan Whiteside <span class="badge badge-pill badge-success" data-bpm-text="+11166" data-vorp-text="+11166.1">+11166</span> in 2016.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed KZ Okpala <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.7">-0.7</span> in 2019.</li>
+<li>Signed Gabe Vincent <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.6">-0.6</span> in 2020.</li>
+<li>Signed Juwan Howard <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.5">-0.5</span> in 2010.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Duncan Robinson <span class="badge badge-pill badge-danger" data-bpm-text="-9539" data-vorp-text="-9539.9">-9539</span> in 2021.</li>
+<li>Signed Gabe Vincent <span class="badge badge-pill badge-danger" data-bpm-text="-8205" data-vorp-text="-8205.2">-8205</span> in 2021.</li>
+<li>Signed Rodney McGruder <span class="badge badge-pill badge-danger" data-bpm-text="-7719" data-vorp-text="-7719.0">-7719</span> in 2016.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -881,6 +927,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

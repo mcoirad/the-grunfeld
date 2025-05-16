@@ -1,14 +1,20 @@
 ---
 bpm_rank: 133
-draft_bust_list: '<ul>
-
-  <li>Drafted Hasheem Thabeet with 2th pick but was worth 51th pick.</li>
-
-  <li>Drafted Jaren Jackson Jr. with 4th pick but was worth 6th pick.</li>
-
-  <li>Drafted Xavier Henry with 12th pick but was worth 58th pick.</li>
-
-  </ul>'
+draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
+  <li>Drafted Hasheem Thabeet <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -75\" data-vorp-text=\"-75.1\">-75.1</span> with 2th pick but was worth 51th pick.</li>\n\
+  <li>Drafted Kedrick Brown <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -14\" data-vorp-text=\"-14.1\">-14.1</span> with 11th pick but was worth 20th pick.</li>\n\
+  <li>Drafted Xavier Henry <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -7\" data-vorp-text=\"-7.1\">-7.1</span> with 12th pick but was worth 58th pick.</li>\n\
+  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
+  <li>Drafted Hasheem Thabeet <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -233701\" data-vorp-text=\"-233701.4\">-233701</span> with 2th pick but was worth\
+  \ 43th pick.</li>\n<li>Drafted Jaren Jackson Jr. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-22276\" data-vorp-text=\"-22276.9\">-22276</span>\
+  \ with 4th pick but was worth 9th pick.</li>\n<li>Drafted Xavier Henry <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-12782\" data-vorp-text=\"-12782.0\"\
+  >-12782</span> with 12th pick but was worth 55th pick.</li>\n</ul>\n    "
 draft_description: Chris Wallace ranks in the 16th percentile for drafting among executives
   in our database. Wallace's draft picks average out to be worth the equivalent of
   13 spots lower than they were picked due to their terrible drafting.
@@ -26,13 +32,20 @@ draft_total_grade_vorp: B+
 draft_total_percentile_bpm: 77
 draft_total_percentile_vorp: 77
 draft_total_vorp: 34
-draft_win_list: '<ul>
-
-  <li>Drafted Josh Selby with 49th pick but was worth 52th pick.</li>
-
-  <li>Drafted DeMarre Carroll with 27th pick but was worth 16th pick.</li>
-
-  </ul>'
+draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
+  <li>Drafted DeMarre Carroll <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +5\" data-vorp-text=\"+5.6\">+5.6</span> with 27th pick but was worth 16th pick.\
+  \ </li>\n<li>Drafted Mike Conley <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+4\" data-vorp-text=\"+4.2\">+4.2</span> with 4th pick but was\
+  \ worth 3th pick. </li>\n<li>Drafted Greivis Vásquez <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+1\" data-vorp-text=\"+1.8\">+1.8</span> with\
+  \ 28th pick but was worth 18th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
+  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Josh Selby <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+13132\" data-vorp-text=\"+13132.8\"\
+  >+13132</span> with 49th pick but was worth 33th pick. </li>\n<li>Drafted DeMarre\
+  \ Carroll <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+259\"\
+  \ data-vorp-text=\"+259.2\">+259</span> with 27th pick but was worth 21th pick.\
+  \ </li>\n</ul>\n    "
 end_year: 2019
 final_bpm: -85779
 final_vorp: 54
@@ -41,15 +54,19 @@ is_active: false
 name: Chris Wallace
 signing_description: 'Chris Wallace ranks in the 36th percentile for free agency signings
   among executives in our database. '
-signing_lose_list: '<ul>
-
-  <li>Signed Dillon Brooks in 2017.</li>
-
-  <li>Signed Darko Miličić in 2007.</li>
-
-  <li>Signed Andrew Harrison in 2016.</li>
-
-  </ul>'
+signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul id=vorp-toggle>\n\
+  <li>Signed Dillon Brooks <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -4\" data-vorp-text=\"-4.7\">-4.7</span> in 2017.</li>\n<li>Signed Darko Miličić\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"\
+  -0.8\">-0.8</span> in 2007.</li>\n<li>Signed Kobi Simmons <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.8\">-0.8</span> in 2017.</li>\n\
+  </ul>\n    <h5 id=\"bpm-toggle\">Their worst signings: </h5><ul id=bpm-toggle>\n\
+  <li>Signed Dillon Brooks <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -37754\" data-vorp-text=\"-37754.7\">-37754</span> in 2017.</li>\n<li>Signed Darko\
+  \ Miličić <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-8387\"\
+  \ data-vorp-text=\"-8387.4\">-8387</span> in 2007.</li>\n<li>Signed Andrew Harrison\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-7077\" data-vorp-text=\"\
+  -7077.6\">-7077</span> in 2016.</li>\n</ul>\n    "
 signing_num_players: 141
 signing_overall_percentile_bpm: 41
 signing_overall_percentile_vorp: 56
@@ -65,15 +82,19 @@ signing_total_grade_vorp: B+
 signing_total_percentile_bpm: 9
 signing_total_percentile_vorp: 76
 signing_total_vorp: 22
-signing_win_list: '<ul>
-
-  <li>Signed Mike Conley in 2010.</li>
-
-  <li>Signed Marc Gasol in 2015.</li>
-
-  <li>Signed Mike Conley in 2016.</li>
-
-  </ul>'
+signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
+  <li>Signed Mike Conley <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +17\" data-vorp-text=\"+17.8\">+17.8</span> in 2010.</li>\n<li>Signed Marc Gasol\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+11\" data-vorp-text=\"\
+  +11.3\">+11.3</span> in 2015.</li>\n<li>Signed Mike Conley <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+9\" data-vorp-text=\"+9.2\">+9.2</span> in 2016.</li>\n\
+  </ul>\n    <h5 id=\"bpm-toggle\">Their best signings: </h5><ul id=bpm-toggle>\n\
+  <li>Signed Mike Conley <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +42154\" data-vorp-text=\"+42154.0\">+42154</span> in 2010.</li>\n<li>Signed Marc\
+  \ Gasol <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+27465\"\
+  \ data-vorp-text=\"+27465.9\">+27465</span> in 2015.</li>\n<li>Signed Mike Conley\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+26779\" data-vorp-text=\"\
+  +26779.5\">+26779</span> in 2016.</li>\n</ul>\n    "
 start_year: 2014
 team:
 - Boston Celtics
@@ -83,13 +104,35 @@ team_shortcode:
 - MEM
 trade_description: 'Chris Wallace ranks in the 74th percentile for trading among executives
   in our database. '
-trade_lose_list: '<ul>
-
-  <li>Added Greg Buckner, Marko Jarić, O.J. Mayo, Antoine Walker to MEM.</li>
-
-  <li>Lost Brian Cardinal, Jason Collins, Kevin Love, Mike Miller to MIN.</li>
-
-  </ul>'
+trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-15\" data-vorp-text=\"-15.6\">-15.6</span></h5><ul\
+  \ id=vorp-toggle>\n<li>Added Greg Buckner <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-3512\" data-vorp-text=\"-0.4\">-0.4</span>, Marko Jarić <span\
+  \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-2601\" data-vorp-text=\"\
+  -0.4\">-0.4</span>, O.J. Mayo <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  -3760\" data-vorp-text=\"+4.2\">+4.2</span>, Antoine Walker <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0.0</span>\
+  \ to MEM.</li>\n<li>Lost Brian Cardinal <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+3356\" data-vorp-text=\"+0.3\">+0.3</span>, Jason Collins <span\
+  \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+3038\" data-vorp-text=\"\
+  +0.6\">+0.6</span>, Kevin Love <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -48101\" data-vorp-text=\"-18.1\">-18.1</span>, Mike Miller <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-2591\" data-vorp-text=\"-1.8\">-1.8</span>\
+  \ to MIN.</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest L: <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-54172\" data-vorp-text=\"-54172.0\"\
+  >-54172</span></h5><ul id=bpm-toggle>\n<li>Added Greg Buckner <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-3512\" data-vorp-text=\"-0.4\">-3512</span>,\
+  \ Marko Jarić <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-2601\"\
+  \ data-vorp-text=\"-0.4\">-2601</span>, O.J. Mayo <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-3760\" data-vorp-text=\"+4.2\">-3760</span>, Antoine\
+  \ Walker <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"\
+  +0.0\">+0</span> to MEM.</li>\n<li>Lost Brian Cardinal <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+3356\" data-vorp-text=\"+0.3\">+3356</span>,\
+  \ Jason Collins <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +3038\" data-vorp-text=\"+0.6\">+3038</span>, Kevin Love <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-48101\" data-vorp-text=\"-18.1\">-48101</span>,\
+  \ Mike Miller <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-2591\"\
+  \ data-vorp-text=\"-1.8\">-2591</span> to MIN.</li>\n</ul>\n    "
 trade_num: 146
 trade_overall_percentile_bpm: 33
 trade_overall_percentile_vorp: 64
@@ -105,11 +148,22 @@ trade_total_grade_vorp: C+
 trade_total_percentile_bpm: 24
 trade_total_percentile_vorp: 54
 trade_total_vorp: -1
-trade_win_list: '<ul>
-
-  <li>Added Tony Delk, Rodney Rogers to BOS.</li>
-
-  <li>Lost Randy Brown, Joe Johnson, Milt Palacio, Casey Jacobsen to PHO.</li>
-
-  </ul>'
+trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+12\" data-vorp-text=\"+12.4\">+12.4</span></h5><ul\
+  \ id=vorp-toggle>\n<li>Added Zach Randolph <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+13017\" data-vorp-text=\"+12.4\">+12.4</span> to MEM.</li>\n\
+  <li>Lost Quentin Richardson <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +0\" data-vorp-text=\"+0.0\">+0.0</span> to LAC.</li>\n</ul>\n    <h5 id=\"bpm-toggle\"\
+  >Their biggest win: <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +16357\" data-vorp-text=\"+16357.7\">+16357</span></h5><ul id=bpm-toggle>\n<li>Added\
+  \ Tony Delk <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+1091\"\
+  \ data-vorp-text=\"+1.4\">+1091</span>, Rodney Rogers <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+250\" data-vorp-text=\"+0.4\">+250</span> to\
+  \ BOS.</li>\n<li>Lost Randy Brown <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+838\" data-vorp-text=\"+0.1\">+838</span>, Joe Johnson <span\
+  \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+5484\" data-vorp-text=\"\
+  -3.6\">+5484</span>, Milt Palacio <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+1305\" data-vorp-text=\"+0.2\">+1305</span>, Casey Jacobsen <span\
+  \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+7387\" data-vorp-text=\"\
+  +0.0\">+7387</span> to PHO.</li>\n</ul>\n    "
 ---

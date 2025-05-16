@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,15 +567,25 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Rob Hennigan ranks in the 22th percentile for drafting among executives in our database. Hennigan's draft picks average out to be worth the equivalent of 10 spots lower than they were picked due to their terrible drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Kyle O'Quinn with 49th pick but was worth 11th pick.</li>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Kyle O'Quinn <span class="badge badge-pill badge-success" data-bpm-text="+5" data-vorp-text="+5.6">+5.6</span> with 49th pick but was worth 11th pick. </li>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Mario Hezonja with 5th pick but was worth 56th pick.</li>
-<li>Drafted Andrew Nicholson with 19th pick but was worth 58th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Kyle O'Quinn <span class="badge badge-pill badge-success" data-bpm-text="+17257" data-vorp-text="+17257.8">+17257</span> with 49th pick but was worth 8th pick. </li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Mario Hezonja <span class="badge badge-pill badge-danger" data-bpm-text="-13" data-vorp-text="-13.6">-13.6</span> with 5th pick but was worth 56th pick.</li>
+<li>Drafted Andrew Nicholson <span class="badge badge-pill badge-danger" data-bpm-text="-2" data-vorp-text="-2.6">-2.6</span> with 19th pick but was worth 58th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Mario Hezonja <span class="badge badge-pill badge-danger" data-bpm-text="-38332" data-vorp-text="-38332.1">-38332</span> with 5th pick but was worth 55th pick.</li>
+<li>Drafted Andrew Nicholson <span class="badge badge-pill badge-danger" data-bpm-text="-13814" data-vorp-text="-13814.4">-13814</span> with 19th pick but was worth 52th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -706,17 +727,28 @@ function updateTradeChart() {
   </script>
 
       Rob Hennigan ranks in the 17th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Arron Afflalo, Al Harrington, Romero Osby, Dario Šarić, Christian Eyenga, Josh McRoberts, Wesley Iwundu, Maurice Harkless, Nikola Vučević, Landry Shamet to ORL.</li>
-<li>Lost Jason Richardson to PHI.</li>
-<li>Lost Earl Clark, Chris Duhon, Dwight Howard to LAL.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+17" data-vorp-text="+17.2">+17.2</span></h5><ul id=vorp-toggle>
+<li>Added Arron Afflalo <span class="badge badge-pill badge-success" data-bpm-text="-10883" data-vorp-text="+0.0">+0.0</span>, Al Harrington <span class="badge badge-pill badge-danger" data-bpm-text="-535" data-vorp-text="-0.1">-0.1</span>, Romero Osby <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Dario Šarić <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Christian Eyenga <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Josh McRoberts <span class="badge badge-pill badge-success" data-bpm-text="-1301" data-vorp-text="+0.0">+0.0</span>, Wesley Iwundu <span class="badge badge-pill badge-danger" data-bpm-text="-10809" data-vorp-text="-1.2">-1.2</span>, Maurice Harkless <span class="badge badge-pill badge-success" data-bpm-text="-5772" data-vorp-text="+0.9">+0.9</span>, Nikola Vučević <span class="badge badge-pill badge-success" data-bpm-text="+46428" data-vorp-text="+21.2">+21.2</span>, Landry Shamet <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to ORL.</li>
+<li>Lost Jason Richardson <span class="badge badge-pill badge-danger" data-bpm-text="+1008" data-vorp-text="-0.5">-0.5</span> to PHI.</li>
+<li>Lost Earl Clark <span class="badge badge-pill badge-danger" data-bpm-text="+954" data-vorp-text="-0.4">-0.4</span>, Chris Duhon <span class="badge badge-pill badge-success" data-bpm-text="+2378" data-vorp-text="+0.2">+0.2</span>, Dwight Howard <span class="badge badge-pill badge-danger" data-bpm-text="-1700" data-vorp-text="-2.9">-2.9</span> to LAL.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Terrence Ross, Anžejs Pasečņiks to ORL.</li>
-<li>Lost Serge Ibaka to TOR.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+19766" data-vorp-text="+19766.2">+19766</span></h5><ul id=bpm-toggle>
+<li>Added Arron Afflalo <span class="badge badge-pill badge-danger" data-bpm-text="-10883" data-vorp-text="+0.0">-10883</span>, Al Harrington <span class="badge badge-pill badge-danger" data-bpm-text="-535" data-vorp-text="-0.1">-535</span>, Romero Osby <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Dario Šarić <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Christian Eyenga <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Josh McRoberts <span class="badge badge-pill badge-danger" data-bpm-text="-1301" data-vorp-text="+0.0">-1301</span>, Wesley Iwundu <span class="badge badge-pill badge-danger" data-bpm-text="-10809" data-vorp-text="-1.2">-10809</span>, Maurice Harkless <span class="badge badge-pill badge-danger" data-bpm-text="-5772" data-vorp-text="+0.9">-5772</span>, Nikola Vučević <span class="badge badge-pill badge-success" data-bpm-text="+46428" data-vorp-text="+21.2">+46428</span>, Landry Shamet <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to ORL.</li>
+<li>Lost Jason Richardson <span class="badge badge-pill badge-success" data-bpm-text="+1008" data-vorp-text="-0.5">+1008</span> to PHI.</li>
+<li>Lost Earl Clark <span class="badge badge-pill badge-success" data-bpm-text="+954" data-vorp-text="-0.4">+954</span>, Chris Duhon <span class="badge badge-pill badge-success" data-bpm-text="+2378" data-vorp-text="+0.2">+2378</span>, Dwight Howard <span class="badge badge-pill badge-danger" data-bpm-text="-1700" data-vorp-text="-2.9">-1700</span> to LAL.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-6" data-vorp-text="-6.0">-6.0</span></h5><ul id=vorp-toggle>
+<li>Added Ersan İlyasova <span class="badge badge-pill badge-success" data-bpm-text="-1072" data-vorp-text="+0.0">+0.0</span>, Brandon Jennings <span class="badge badge-pill badge-success" data-bpm-text="-361" data-vorp-text="+0.1">+0.1</span> to ORL.</li>
+<li>Lost Tobias Harris <span class="badge badge-pill badge-danger" data-bpm-text="-9563" data-vorp-text="-6.1">-6.1</span> to DET.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-13180" data-vorp-text="-13180.9">-13180</span></h5><ul id=bpm-toggle>
+<li>Added Terrence Ross <span class="badge badge-pill badge-danger" data-bpm-text="-13907" data-vorp-text="+1.1">-13907</span>, Anžejs Pasečņiks <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to ORL.</li>
+<li>Lost Serge Ibaka <span class="badge badge-pill badge-success" data-bpm-text="+726" data-vorp-text="-3.1">+726</span> to TOR.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -857,16 +889,28 @@ function updateSigningChart() {
   </script>
 
       Rob Hennigan ranks in the 16th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Tobias Harris in 2015.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Elfrid Payton <span class="badge badge-pill badge-success" data-bpm-text="+3" data-vorp-text="+3.6">+3.6</span> in 2014.</li>
+<li>Signed Evan Fournier <span class="badge badge-pill badge-success" data-bpm-text="+3" data-vorp-text="+3.1">+3.1</span> in 2016.</li>
+<li>Signed D.J. Augustin <span class="badge badge-pill badge-success" data-bpm-text="+2" data-vorp-text="+2.0">+2.0</span> in 2016.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Bismack Biyombo in 2016.</li>
-<li>Signed Evan Fournier in 2016.</li>
-<li>Signed E'Twaun Moore in 2012.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Tobias Harris <span class="badge badge-pill badge-success" data-bpm-text="+966" data-vorp-text="+966.0">+966</span> in 2015.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Bismack Biyombo <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.8">-0.8</span> in 2016.</li>
+<li>Signed C.J. Watson <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.6">-0.6</span> in 2015.</li>
+<li>Signed Jeff Green <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.6">-0.6</span> in 2016.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Bismack Biyombo <span class="badge badge-pill badge-danger" data-bpm-text="-9325" data-vorp-text="-9325.6">-9325</span> in 2016.</li>
+<li>Signed Evan Fournier <span class="badge badge-pill badge-danger" data-bpm-text="-6719" data-vorp-text="-6719.7">-6719</span> in 2016.</li>
+<li>Signed E'Twaun Moore <span class="badge badge-pill badge-danger" data-bpm-text="-6278" data-vorp-text="-6278.2">-6278</span> in 2012.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -878,6 +922,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

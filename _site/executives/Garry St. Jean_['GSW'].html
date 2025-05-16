@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,17 +567,26 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Garry St. Jean ranks in the 88th percentile for drafting among executives in our database. St.'s draft picks average out to be worth the equivalent of 6 spots higher than they were picked due to his good drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Gilbert Arenas with 31th pick but was worth 7th pick.</li>
-<li>Drafted Chris Porter with 55th pick but was worth 43th pick.</li>
-<li>Drafted Troy Murphy with 14th pick but was worth 12th pick.</li>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Gilbert Arenas <span class="badge badge-pill badge-success" data-bpm-text="+22" data-vorp-text="+22.3">+22.3</span> with 31th pick but was worth 7th pick. </li>
+<li>Drafted Troy Murphy <span class="badge badge-pill badge-success" data-bpm-text="+3" data-vorp-text="+3.5">+3.5</span> with 14th pick but was worth 12th pick. </li>
+<li>Drafted Chris Porter <span class="badge badge-pill badge-success" data-bpm-text="+2" data-vorp-text="+2.3">+2.3</span> with 55th pick but was worth 43th pick. </li>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Mickaël Piétrus with 11th pick but was worth 18th pick.</li>
-<li>Drafted Jason Richardson with 5th pick but was worth 5th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Gilbert Arenas <span class="badge badge-pill badge-success" data-bpm-text="+51929" data-vorp-text="+51929.0">+51929</span> with 31th pick but was worth 3th pick. </li>
+<li>Drafted Chris Porter <span class="badge badge-pill badge-success" data-bpm-text="+28994" data-vorp-text="+28994.7">+28994</span> with 55th pick but was worth 31th pick. </li>
+<li>Drafted Troy Murphy <span class="badge badge-pill badge-success" data-bpm-text="+1992" data-vorp-text="+1992.1">+1992</span> with 14th pick but was worth 12th pick. </li>
 </ul>
+    
+      
+    
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Mickaël Piétrus <span class="badge badge-pill badge-danger" data-bpm-text="-10755" data-vorp-text="-10755.0">-10755</span> with 11th pick but was worth 43th pick.</li>
+<li>Drafted Jason Richardson <span class="badge badge-pill badge-danger" data-bpm-text="-7017" data-vorp-text="-7017.7">-7017</span> with 5th pick but was worth 6th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -708,16 +728,26 @@ function updateTradeChart() {
   </script>
 
       Garry St. Jean ranks in the 4th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Jim Jackson, Clarence Weatherspoon to GSW.</li>
-<li>Lost Brian Shaw, Joe Smith to PHI.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+2" data-vorp-text="+2.0">+2.0</span></h5><ul id=vorp-toggle>
+<li>Added Bob Sura <span class="badge badge-pill badge-success" data-bpm-text="-3500" data-vorp-text="+1.4">+1.4</span>, Vinny Del Negro <span class="badge badge-pill badge-danger" data-bpm-text="-2296" data-vorp-text="-0.4">-0.4</span> to GSW.</li>
+<li>Lost Jason Caffey <span class="badge badge-pill badge-success" data-bpm-text="+9149" data-vorp-text="+1.0">+1.0</span>, Billy Owens <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to MIL.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Antawn Jamison to GSW.</li>
-<li>Lost Vince Carter to TOR.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+4511" data-vorp-text="+4511.9">+4511</span></h5><ul id=bpm-toggle>
+<li>Added Jim Jackson <span class="badge badge-pill badge-danger" data-bpm-text="-2138" data-vorp-text="+0.1">-2138</span>, Clarence Weatherspoon <span class="badge badge-pill badge-success" data-bpm-text="+103" data-vorp-text="+0.6">+103</span> to GSW.</li>
+<li>Lost Brian Shaw <span class="badge badge-pill badge-success" data-bpm-text="+1255" data-vorp-text="+0.1">+1255</span>, Joe Smith <span class="badge badge-pill badge-success" data-bpm-text="+5292" data-vorp-text="+0.3">+5292</span> to PHI.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-19" data-vorp-text="-19.2">-19.2</span></h5><ul id=vorp-toggle>
+<li>Added Antawn Jamison <span class="badge badge-pill badge-success" data-bpm-text="+3090" data-vorp-text="+6.9">+6.9</span> to GSW.</li>
+<li>Lost Vince Carter <span class="badge badge-pill badge-danger" data-bpm-text="-73299" data-vorp-text="-26.1">-26.1</span> to TOR.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-70208" data-vorp-text="-70208.9">-70208</span></h5><ul id=bpm-toggle>
+<li>Added Antawn Jamison <span class="badge badge-pill badge-success" data-bpm-text="+3090" data-vorp-text="+6.9">+3090</span> to GSW.</li>
+<li>Lost Vince Carter <span class="badge badge-pill badge-danger" data-bpm-text="-73299" data-vorp-text="-26.1">-73299</span> to TOR.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -858,18 +888,30 @@ function updateSigningChart() {
   </script>
 
       Garry St. Jean ranks in the 31th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Brian Cardinal in 2003.</li>
-<li>Signed Speedy Claxton in 2003.</li>
-<li>Signed Earl Boykins in 2002.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Brian Cardinal <span class="badge badge-pill badge-success" data-bpm-text="+2" data-vorp-text="+2.2">+2.2</span> in 2003.</li>
+<li>Signed Speedy Claxton <span class="badge badge-pill badge-success" data-bpm-text="+2" data-vorp-text="+2.1">+2.1</span> in 2003.</li>
+<li>Signed Earl Boykins <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.9">+0.9</span> in 2002.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Calbert Cheaney in 2003.</li>
-<li>Signed Sam Jacobson in 2000.</li>
-<li>Signed Bill Curley in 2000.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Brian Cardinal <span class="badge badge-pill badge-success" data-bpm-text="+5228" data-vorp-text="+5228.8">+5228</span> in 2003.</li>
+<li>Signed Speedy Claxton <span class="badge badge-pill badge-success" data-bpm-text="+2204" data-vorp-text="+2204.8">+2204</span> in 2003.</li>
+<li>Signed Earl Boykins <span class="badge badge-pill badge-success" data-bpm-text="+792" data-vorp-text="+792.6">+792</span> in 2002.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Calbert Cheaney <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.9">-0.9</span> in 2003.</li>
+<li>Signed Bill Curley <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.4">-0.4</span> in 2000.</li>
+<li>Signed Chris Garner <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.4">-0.4</span> in 2001.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Calbert Cheaney <span class="badge badge-pill badge-danger" data-bpm-text="-10708" data-vorp-text="-10708.5">-10708</span> in 2003.</li>
+<li>Signed Sam Jacobson <span class="badge badge-pill badge-danger" data-bpm-text="-2585" data-vorp-text="-2585.7">-2585</span> in 2000.</li>
+<li>Signed Bill Curley <span class="badge badge-pill badge-danger" data-bpm-text="-2315" data-vorp-text="-2315.1">-2315</span> in 2000.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -881,6 +923,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

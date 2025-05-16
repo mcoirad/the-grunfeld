@@ -138,16 +138,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -162,6 +170,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -295,6 +304,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -564,18 +575,31 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Ernie Grunfeld ranks in the 47th percentile for drafting among executives in our database. Grunfeld's draft picks average out to be worth the equivalent of 4 spots lower than they were picked due to their terrible drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Michael Redd with 43th pick but was worth 1th pick.</li>
-<li>Drafted Charlie Ward with 26th pick but was worth 6th pick.</li>
-<li>Drafted Greg Anthony with 12th pick but was worth 7th pick.</li>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Michael Redd <span class="badge badge-pill badge-success" data-bpm-text="+22" data-vorp-text="+22.1">+22.1</span> with 43th pick but was worth 1th pick. </li>
+<li>Drafted Charlie Ward <span class="badge badge-pill badge-success" data-bpm-text="+14" data-vorp-text="+14.5">+14.5</span> with 26th pick but was worth 6th pick. </li>
+<li>Drafted Greg Anthony <span class="badge badge-pill badge-success" data-bpm-text="+5" data-vorp-text="+5.8">+5.8</span> with 12th pick but was worth 7th pick. </li>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted John Wall with 1th pick but was worth 2th pick.</li>
-<li>Drafted Jan Veselý with 6th pick but was worth 49th pick.</li>
-<li>Drafted Nick Young with 16th pick but was worth 51th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Michael Redd <span class="badge badge-pill badge-success" data-bpm-text="+55990" data-vorp-text="+55990.0">+55990</span> with 43th pick but was worth 1th pick. </li>
+<li>Drafted Charlie Ward <span class="badge badge-pill badge-success" data-bpm-text="+31931" data-vorp-text="+31931.0">+31931</span> with 26th pick but was worth 4th pick. </li>
+<li>Drafted Greg Anthony <span class="badge badge-pill badge-success" data-bpm-text="+20605" data-vorp-text="+20605.0">+20605</span> with 12th pick but was worth 7th pick. </li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Jan Veselý <span class="badge badge-pill badge-danger" data-bpm-text="-23" data-vorp-text="-23.3">-23.3</span> with 6th pick but was worth 49th pick.</li>
+<li>Drafted John Wall <span class="badge badge-pill badge-danger" data-bpm-text="-20" data-vorp-text="-20.0">-20.0</span> with 1th pick but was worth 2th pick.</li>
+<li>Drafted T.J. Ford <span class="badge badge-pill badge-danger" data-bpm-text="-8" data-vorp-text="-8.7">-8.7</span> with 8th pick but was worth 16th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted John Wall <span class="badge badge-pill badge-danger" data-bpm-text="-63215" data-vorp-text="-63215.6">-63215</span> with 1th pick but was worth 2th pick.</li>
+<li>Drafted Jan Veselý <span class="badge badge-pill badge-danger" data-bpm-text="-39105" data-vorp-text="-39105.2">-39105</span> with 6th pick but was worth 39th pick.</li>
+<li>Drafted Nick Young <span class="badge badge-pill badge-danger" data-bpm-text="-36121" data-vorp-text="-36121.8">-36121</span> with 16th pick but was worth 59th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -717,16 +741,26 @@ function updateTradeChart() {
   </script>
 
       Ernie Grunfeld ranks in the 57th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Marcus Camby to NYK.</li>
-<li>Lost Sean Marks, Charles Oakley to TOR.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+9" data-vorp-text="+9.0">+9.0</span></h5><ul id=vorp-toggle>
+<li>Added Chucky Atkins <span class="badge badge-pill badge-success" data-bpm-text="-883" data-vorp-text="+0.0">+0.0</span>, Caron Butler <span class="badge badge-pill badge-success" data-bpm-text="+13256" data-vorp-text="+9.2">+9.2</span> to WAS.</li>
+<li>Lost Kwame Brown <span class="badge badge-pill badge-danger" data-bpm-text="+6251" data-vorp-text="-0.2">-0.2</span>, Laron Profit <span class="badge badge-pill badge-success" data-bpm-text="+502" data-vorp-text="+0.0">+0.0</span> to LAL.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Desmond Mason, Gary Payton to MIL.</li>
-<li>Lost Ray Allen, Ronald Murray, Kevin Ollie, Luke Ridnour to SEA.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+27307" data-vorp-text="+27307.8">+27307</span></h5><ul id=bpm-toggle>
+<li>Added Marcus Camby <span class="badge badge-pill badge-success" data-bpm-text="+14170" data-vorp-text="+6.5">+14170</span> to NYK.</li>
+<li>Lost Sean Marks <span class="badge badge-pill badge-success" data-bpm-text="+322" data-vorp-text="+0.0">+322</span>, Charles Oakley <span class="badge badge-pill badge-success" data-bpm-text="+12814" data-vorp-text="-0.2">+12814</span> to TOR.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-18" data-vorp-text="-18.7">-18.7</span></h5><ul id=vorp-toggle>
+<li>Added Desmond Mason <span class="badge badge-pill badge-success" data-bpm-text="-10359" data-vorp-text="+1.5">+1.5</span>, Gary Payton <span class="badge badge-pill badge-success" data-bpm-text="+1410" data-vorp-text="+0.9">+0.9</span> to MIL.</li>
+<li>Lost Ray Allen <span class="badge badge-pill badge-danger" data-bpm-text="-50577" data-vorp-text="-18.7">-18.7</span>, Ronald Murray <span class="badge badge-pill badge-success" data-bpm-text="+11620" data-vorp-text="+1.0">+1.0</span>, Kevin Ollie <span class="badge badge-pill badge-danger" data-bpm-text="-154" data-vorp-text="-0.4">-0.4</span>, Luke Ridnour <span class="badge badge-pill badge-danger" data-bpm-text="+7324" data-vorp-text="-3.0">-3.0</span> to SEA.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-40736" data-vorp-text="-40736.1">-40736</span></h5><ul id=bpm-toggle>
+<li>Added Desmond Mason <span class="badge badge-pill badge-danger" data-bpm-text="-10359" data-vorp-text="+1.5">-10359</span>, Gary Payton <span class="badge badge-pill badge-success" data-bpm-text="+1410" data-vorp-text="+0.9">+1410</span> to MIL.</li>
+<li>Lost Ray Allen <span class="badge badge-pill badge-danger" data-bpm-text="-50577" data-vorp-text="-18.7">-50577</span>, Ronald Murray <span class="badge badge-pill badge-success" data-bpm-text="+11620" data-vorp-text="+1.0">+11620</span>, Kevin Ollie <span class="badge badge-pill badge-danger" data-bpm-text="-154" data-vorp-text="-0.4">-154</span>, Luke Ridnour <span class="badge badge-pill badge-success" data-bpm-text="+7324" data-vorp-text="-3.0">+7324</span> to SEA.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -867,18 +901,30 @@ function updateSigningChart() {
   </script>
 
       Ernie Grunfeld ranks in the 56th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Gilbert Arenas in 2003.</li>
-<li>Signed Anthony Mason in 1991.</li>
-<li>Signed Otto Porter in 2017.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Gilbert Arenas <span class="badge badge-pill badge-success" data-bpm-text="+19" data-vorp-text="+19.4">+19.4</span> in 2003.</li>
+<li>Signed Allan Houston <span class="badge badge-pill badge-success" data-bpm-text="+12" data-vorp-text="+12.7">+12.7</span> in 1996.</li>
+<li>Signed Anthony Mason <span class="badge badge-pill badge-success" data-bpm-text="+8" data-vorp-text="+8.8">+8.8</span> in 1991.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Kelly Oubre Jr. in 2015.</li>
-<li>Signed DeShawn Stevenson in 2006.</li>
-<li>Signed Ian Mahinmi in 2016.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Gilbert Arenas <span class="badge badge-pill badge-success" data-bpm-text="+48535" data-vorp-text="+48535.3">+48535</span> in 2003.</li>
+<li>Signed Anthony Mason <span class="badge badge-pill badge-success" data-bpm-text="+9461" data-vorp-text="+9461.2">+9461</span> in 1991.</li>
+<li>Signed Otto Porter <span class="badge badge-pill badge-success" data-bpm-text="+8869" data-vorp-text="+8869.3">+8869</span> in 2017.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Kelly Oubre Jr. <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.9">-0.9</span> in 2015.</li>
+<li>Signed Ian Mahinmi <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.9">-0.9</span> in 2016.</li>
+<li>Signed Herb Williams <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.6">-0.6</span> in 1992.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Kelly Oubre Jr. <span class="badge badge-pill badge-danger" data-bpm-text="-14313" data-vorp-text="-14313.8">-14313</span> in 2015.</li>
+<li>Signed DeShawn Stevenson <span class="badge badge-pill badge-danger" data-bpm-text="-10901" data-vorp-text="-10901.7">-10901</span> in 2006.</li>
+<li>Signed Ian Mahinmi <span class="badge badge-pill badge-danger" data-bpm-text="-9490" data-vorp-text="-9490.6">-9490</span> in 2016.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -890,6 +936,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

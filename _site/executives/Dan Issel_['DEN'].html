@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,16 +567,27 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Dan Issel ranks in the 86th percentile for drafting among executives in our database. Issel's draft picks average out to be worth the equivalent of 4 spots higher than they were picked due to his good drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted James Posey with 18th pick but was worth 11th pick.</li>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted James Posey <span class="badge badge-pill badge-success" data-bpm-text="+11" data-vorp-text="+11.6">+11.6</span> with 18th pick but was worth 11th pick. </li>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Raef LaFrentz with 3th pick but was worth 11th pick.</li>
-<li>Drafted Francisco Elson with 41th pick but was worth 54th pick.</li>
-<li>Drafted Chris Herren with 33th pick but was worth 50th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted James Posey <span class="badge badge-pill badge-success" data-bpm-text="+6978" data-vorp-text="+6978.0">+6978</span> with 18th pick but was worth 13th pick. </li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Raef LaFrentz <span class="badge badge-pill badge-danger" data-bpm-text="-48" data-vorp-text="-48.1">-48.1</span> with 3th pick but was worth 11th pick.</li>
+<li>Drafted Francisco Elson <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.2">-1.2</span> with 41th pick but was worth 54th pick.</li>
+<li>Drafted Chris Herren <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.6">-0.6</span> with 33th pick but was worth 50th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Raef LaFrentz <span class="badge badge-pill badge-danger" data-bpm-text="-128919" data-vorp-text="-128919.5">-128919</span> with 3th pick but was worth 8th pick.</li>
+<li>Drafted Francisco Elson <span class="badge badge-pill badge-danger" data-bpm-text="-13547" data-vorp-text="-13547.1">-13547</span> with 41th pick but was worth 55th pick.</li>
+<li>Drafted Chris Herren <span class="badge badge-pill badge-danger" data-bpm-text="-2759" data-vorp-text="-2759.3">-2759</span> with 33th pick but was worth 40th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -707,17 +729,28 @@ function updateTradeChart() {
   </script>
 
       Dan Issel ranks in the 12th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Chauncey Billups, Tyson Wheeler to DEN.</li>
-<li>Lost Jonathan Bender to TOR.</li>
-<li>Lost Dean Garrett, Bobby Jackson to MIN.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+8" data-vorp-text="+8.7">+8.7</span></h5><ul id=vorp-toggle>
+<li>Added Chauncey Billups <span class="badge badge-pill badge-success" data-bpm-text="+21545" data-vorp-text="+9.9">+9.9</span>, Tyson Wheeler <span class="badge badge-pill badge-success" data-bpm-text="+153" data-vorp-text="+0.0">+0.0</span> to DEN.</li>
+<li>Lost Jonathan Bender <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to TOR.</li>
+<li>Lost Dean Garrett <span class="badge badge-pill badge-danger" data-bpm-text="+4081" data-vorp-text="-0.2">-0.2</span>, Bobby Jackson <span class="badge badge-pill badge-danger" data-bpm-text="+66" data-vorp-text="-1.0">-1.0</span> to MIN.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Calbert Cheaney, Robert Pack to DEN.</li>
-<li>Lost Chris Herren, Bryant Stith to BOS.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+25845" data-vorp-text="+25845.7">+25845</span></h5><ul id=bpm-toggle>
+<li>Added Chauncey Billups <span class="badge badge-pill badge-success" data-bpm-text="+21545" data-vorp-text="+9.9">+21545</span>, Tyson Wheeler <span class="badge badge-pill badge-success" data-bpm-text="+153" data-vorp-text="+0.0">+153</span> to DEN.</li>
+<li>Lost Jonathan Bender <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to TOR.</li>
+<li>Lost Dean Garrett <span class="badge badge-pill badge-success" data-bpm-text="+4081" data-vorp-text="-0.2">+4081</span>, Bobby Jackson <span class="badge badge-pill badge-success" data-bpm-text="+66" data-vorp-text="-1.0">+66</span> to MIN.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.8">-1.8</span></h5><ul id=vorp-toggle>
+<li>Added Garth Joseph <span class="badge badge-pill badge-danger" data-bpm-text="-268" data-vorp-text="-0.1">-0.1</span>, Aleksandar Radojević <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Kevin Willis <span class="badge badge-pill badge-danger" data-bpm-text="-3706" data-vorp-text="-0.4">-0.4</span>, Ousmane Cisse <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to DEN.</li>
+<li>Lost Keon Clark <span class="badge badge-pill badge-danger" data-bpm-text="+561" data-vorp-text="-1.4">-1.4</span>, Tracy Murray <span class="badge badge-pill badge-danger" data-bpm-text="+1404" data-vorp-text="-0.1">-0.1</span>, Mamadou N'Diaye <span class="badge badge-pill badge-success" data-bpm-text="+1367" data-vorp-text="+0.2">+0.2</span> to TOR.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-3705" data-vorp-text="-3705.3">-3705</span></h5><ul id=bpm-toggle>
+<li>Added Calbert Cheaney <span class="badge badge-pill badge-danger" data-bpm-text="-6565" data-vorp-text="-0.7">-6565</span>, Robert Pack <span class="badge badge-pill badge-danger" data-bpm-text="-2016" data-vorp-text="+0.1">-2016</span> to DEN.</li>
+<li>Lost Chris Herren <span class="badge badge-pill badge-success" data-bpm-text="+2121" data-vorp-text="+0.3">+2121</span>, Bryant Stith <span class="badge badge-pill badge-success" data-bpm-text="+2754" data-vorp-text="-0.6">+2754</span> to BOS.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -858,17 +891,29 @@ function updateSigningChart() {
   </script>
 
       Dan Issel ranks in the 21th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Antonio McDyess in 1999.</li>
-<li>Signed Avery Johnson in 2001.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Antonio McDyess <span class="badge badge-pill badge-success" data-bpm-text="+5" data-vorp-text="+5.9">+5.9</span> in 1999.</li>
+<li>Signed George McCloud <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.9">+0.9</span> in 1999.</li>
+<li>Signed Avery Johnson <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.8">+0.8</span> in 2001.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed George McCloud in 1999.</li>
-<li>Signed Cory Alexander in 1999.</li>
-<li>Signed Carl Herrera in 1999.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Antonio McDyess <span class="badge badge-pill badge-success" data-bpm-text="+8461" data-vorp-text="+8461.2">+8461</span> in 1999.</li>
+<li>Signed Avery Johnson <span class="badge badge-pill badge-success" data-bpm-text="+600" data-vorp-text="+600.0">+600</span> in 2001.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Cory Alexander <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.3">-0.3</span> in 1999.</li>
+<li>Signed Loren Meyer <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.3">-0.3</span> in 1999.</li>
+<li>Signed Carl Herrera <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.2">-0.2</span> in 1999.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed George McCloud <span class="badge badge-pill badge-danger" data-bpm-text="-8469" data-vorp-text="-8469.6">-8469</span> in 1999.</li>
+<li>Signed Cory Alexander <span class="badge badge-pill badge-danger" data-bpm-text="-3434" data-vorp-text="-3434.8">-3434</span> in 1999.</li>
+<li>Signed Carl Herrera <span class="badge badge-pill badge-danger" data-bpm-text="-1431" data-vorp-text="-1431.0">-1431</span> in 1999.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -880,6 +925,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

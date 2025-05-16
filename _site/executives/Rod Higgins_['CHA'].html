@@ -130,16 +130,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -154,6 +162,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -287,6 +296,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -556,17 +567,29 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Rod Higgins ranks in the 34th percentile for drafting among executives in our database. Higgins's draft picks average out to be worth the equivalent of 7 spots lower than they were picked due to their terrible drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Jared Dudley with 22th pick but was worth 7th pick.</li>
-<li>Drafted Derrick Brown with 40th pick but was worth 32th pick.</li>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Jared Dudley <span class="badge badge-pill badge-success" data-bpm-text="+9" data-vorp-text="+9.8">+9.8</span> with 22th pick but was worth 7th pick. </li>
+<li>Drafted Derrick Brown <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.4">+0.4</span> with 40th pick but was worth 32th pick. </li>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Gerald Henderson with 12th pick but was worth 30th pick.</li>
-<li>Drafted D.J. Augustin with 9th pick but was worth 14th pick.</li>
-<li>Drafted Alexis Ajinça with 20th pick but was worth 56th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Jared Dudley <span class="badge badge-pill badge-success" data-bpm-text="+4023" data-vorp-text="+4023.4">+4023</span> with 22th pick but was worth 10th pick. </li>
+<li>Drafted Derrick Brown <span class="badge badge-pill badge-success" data-bpm-text="+2020" data-vorp-text="+2020.4">+2020</span> with 40th pick but was worth 33th pick. </li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Gerald Henderson <span class="badge badge-pill badge-danger" data-bpm-text="-11" data-vorp-text="-11.5">-11.5</span> with 12th pick but was worth 30th pick.</li>
+<li>Drafted D.J. Augustin <span class="badge badge-pill badge-danger" data-bpm-text="-8" data-vorp-text="-8.3">-8.3</span> with 9th pick but was worth 14th pick.</li>
+<li>Drafted Alexis Ajinça <span class="badge badge-pill badge-danger" data-bpm-text="-3" data-vorp-text="-3.0">-3.0</span> with 20th pick but was worth 56th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Gerald Henderson <span class="badge badge-pill badge-danger" data-bpm-text="-35353" data-vorp-text="-35353.7">-35353</span> with 12th pick but was worth 59th pick.</li>
+<li>Drafted D.J. Augustin <span class="badge badge-pill badge-danger" data-bpm-text="-32764" data-vorp-text="-32764.7">-32764</span> with 9th pick but was worth 49th pick.</li>
+<li>Drafted Alexis Ajinça <span class="badge badge-pill badge-danger" data-bpm-text="-10934" data-vorp-text="-10934.0">-10934</span> with 20th pick but was worth 42th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -708,16 +731,26 @@ function updateTradeChart() {
   </script>
 
       Rod Higgins ranks in the 4th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Jermareo Davidson, Jason Richardson to CHA.</li>
-<li>Lost Brandan Wright to GSW.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+3" data-vorp-text="+3.5">+3.5</span></h5><ul id=vorp-toggle>
+<li>Added Jermareo Davidson <span class="badge badge-pill badge-danger" data-bpm-text="-1674" data-vorp-text="-0.3">-0.3</span>, Jason Richardson <span class="badge badge-pill badge-success" data-bpm-text="+10085" data-vorp-text="+4.4">+4.4</span> to CHA.</li>
+<li>Lost Brandan Wright <span class="badge badge-pill badge-danger" data-bpm-text="+374" data-vorp-text="-0.6">-0.6</span> to GSW.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Matt Carroll, Erick Dampier, Eduardo Nájera to CHA.</li>
-<li>Lost Alexis Ajinça, Tyson Chandler to DAL.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+8785" data-vorp-text="+8785.0">+8785</span></h5><ul id=bpm-toggle>
+<li>Added Jermareo Davidson <span class="badge badge-pill badge-danger" data-bpm-text="-1674" data-vorp-text="-0.3">-1674</span>, Jason Richardson <span class="badge badge-pill badge-success" data-bpm-text="+10085" data-vorp-text="+4.4">+10085</span> to CHA.</li>
+<li>Lost Brandan Wright <span class="badge badge-pill badge-success" data-bpm-text="+374" data-vorp-text="-0.6">+374</span> to GSW.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-6" data-vorp-text="-6.7">-6.7</span></h5><ul id=vorp-toggle>
+<li>Added Raja Bell <span class="badge badge-pill badge-success" data-bpm-text="-1210" data-vorp-text="+0.6">+0.6</span>, Boris Diaw <span class="badge badge-pill badge-success" data-bpm-text="+4465" data-vorp-text="+5.5">+5.5</span>, Sean Singletary <span class="badge badge-pill badge-danger" data-bpm-text="-1086" data-vorp-text="-0.2">-0.2</span> to CHA.</li>
+<li>Lost Jared Dudley <span class="badge badge-pill badge-danger" data-bpm-text="-9118" data-vorp-text="-8.0">-8.0</span>, Jason Richardson <span class="badge badge-pill badge-danger" data-bpm-text="-7880" data-vorp-text="-4.6">-4.6</span>, Gani Lawal <span class="badge badge-pill badge-success" data-bpm-text="+30" data-vorp-text="+0.0">+0.0</span> to PHO.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-16978" data-vorp-text="-16978.6">-16978</span></h5><ul id=bpm-toggle>
+<li>Added Matt Carroll <span class="badge badge-pill badge-danger" data-bpm-text="-6041" data-vorp-text="-0.9">-6041</span>, Erick Dampier <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Eduardo Nájera <span class="badge badge-pill badge-danger" data-bpm-text="-2122" data-vorp-text="-0.3">-2122</span> to CHA.</li>
+<li>Lost Alexis Ajinça <span class="badge badge-pill badge-success" data-bpm-text="+217" data-vorp-text="+0.0">+217</span>, Tyson Chandler <span class="badge badge-pill badge-danger" data-bpm-text="-9032" data-vorp-text="-4.5">-9032</span> to DAL.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -858,14 +891,26 @@ function updateSigningChart() {
   </script>
 
       Rod Higgins ranks in the 14th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
       
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Kwame Brown in 2010.</li>
-<li>Signed Earl Boykins in 2008.</li>
-<li>Signed Dominic McGuire in 2011.</li>
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Shaun Livingston <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.7">+0.7</span> in 2010.</li>
+<li>Signed Anthony Tolliver <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.6">+0.6</span> in 2009.</li>
+<li>Signed Shannon Brown <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.1">+0.1</span> in 2008.</li>
 </ul>
+    
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Earl Boykins <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.4">-0.4</span> in 2008.</li>
+<li>Signed Kwame Brown <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.3">-0.3</span> in 2010.</li>
+<li>Signed Dominic McGuire <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.2">-0.2</span> in 2011.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Kwame Brown <span class="badge badge-pill badge-danger" data-bpm-text="-4799" data-vorp-text="-4799.2">-4799</span> in 2010.</li>
+<li>Signed Earl Boykins <span class="badge badge-pill badge-danger" data-bpm-text="-2769" data-vorp-text="-2769.6">-2769</span> in 2008.</li>
+<li>Signed Dominic McGuire <span class="badge badge-pill badge-danger" data-bpm-text="-2204" data-vorp-text="-2204.0">-2204</span> in 2011.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -877,6 +922,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

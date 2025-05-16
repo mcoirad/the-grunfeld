@@ -138,16 +138,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -162,6 +170,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -295,6 +304,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -564,18 +575,31 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Don Nelson ranks in the 65th percentile for drafting among executives in our database. That's basically average. It could worse though lol.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Tim Hardaway with 14th pick but was worth 1th pick.</li>
-<li>Drafted Sidney Moncrief with 5th pick but was worth 2th pick.</li>
-<li>Drafted Paul Pressey with 20th pick but was worth 4th pick.</li>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Tim Hardaway <span class="badge badge-pill badge-success" data-bpm-text="+34" data-vorp-text="+34.7">+34.7</span> with 14th pick but was worth 1th pick. </li>
+<li>Drafted Paul Pressey <span class="badge badge-pill badge-success" data-bpm-text="+21" data-vorp-text="+21.3">+21.3</span> with 20th pick but was worth 4th pick. </li>
+<li>Drafted Latrell Sprewell <span class="badge badge-pill badge-success" data-bpm-text="+20" data-vorp-text="+20.4">+20.4</span> with 24th pick but was worth 4th pick. </li>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Kent Benson with 1th pick but was worth 15th pick.</li>
-<li>Drafted Tyrone Hill with 11th pick but was worth 17th pick.</li>
-<li>Drafted Pat Cummings with 59th pick but was worth 61th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Tim Hardaway <span class="badge badge-pill badge-success" data-bpm-text="+94940" data-vorp-text="+94940.6">+94940</span> with 14th pick but was worth 1th pick. </li>
+<li>Drafted Sidney Moncrief <span class="badge badge-pill badge-success" data-bpm-text="+63073" data-vorp-text="+63073.4">+63073</span> with 5th pick but was worth 2th pick. </li>
+<li>Drafted Paul Pressey <span class="badge badge-pill badge-success" data-bpm-text="+51113" data-vorp-text="+51113.4">+51113</span> with 20th pick but was worth 4th pick. </li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Kent Benson <span class="badge badge-pill badge-danger" data-bpm-text="-28" data-vorp-text="-28.2">-28.2</span> with 1th pick but was worth 15th pick.</li>
+<li>Drafted Ernie Grunfeld <span class="badge badge-pill badge-danger" data-bpm-text="-7" data-vorp-text="-7.2">-7.2</span> with 11th pick but was worth 20th pick.</li>
+<li>Drafted Tyrone Hill <span class="badge badge-pill badge-danger" data-bpm-text="-3" data-vorp-text="-3.7">-3.7</span> with 11th pick but was worth 17th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Kent Benson <span class="badge badge-pill badge-danger" data-bpm-text="-75046" data-vorp-text="-75046.4">-75046</span> with 1th pick but was worth 12th pick.</li>
+<li>Drafted Tyrone Hill <span class="badge badge-pill badge-danger" data-bpm-text="-42537" data-vorp-text="-42537.2">-42537</span> with 11th pick but was worth 51th pick.</li>
+<li>Drafted Pat Cummings <span class="badge badge-pill badge-danger" data-bpm-text="-36290" data-vorp-text="-36290.0">-36290</span> with 59th pick but was worth 61th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -717,16 +741,26 @@ function updateTradeChart() {
   </script>
 
       Don Nelson ranks in the 42th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Pat Garrity, Dirk Nowitzki to DAL.</li>
-<li>Lost Robert Traylor to MIL.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+84" data-vorp-text="+84.3">+84.3</span></h5><ul id=vorp-toggle>
+<li>Added Pat Garrity <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Dirk Nowitzki <span class="badge badge-pill badge-success" data-bpm-text="+232573" data-vorp-text="+85.0">+85.0</span> to DAL.</li>
+<li>Lost Robert Traylor <span class="badge badge-pill badge-danger" data-bpm-text="-36" data-vorp-text="-0.7">-0.7</span> to MIL.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Alton Lister to GSW.</li>
-<li>Lost Gary Payton to SEA.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+232536" data-vorp-text="+232536.8">+232536</span></h5><ul id=bpm-toggle>
+<li>Added Pat Garrity <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Dirk Nowitzki <span class="badge badge-pill badge-success" data-bpm-text="+232573" data-vorp-text="+85.0">+232573</span> to DAL.</li>
+<li>Lost Robert Traylor <span class="badge badge-pill badge-danger" data-bpm-text="-36" data-vorp-text="-0.7">-36</span> to MIL.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-57" data-vorp-text="-57.6">-57.6</span></h5><ul id=vorp-toggle>
+<li>Added Alton Lister <span class="badge badge-pill badge-danger" data-bpm-text="-6701" data-vorp-text="-0.6">-0.6</span> to GSW.</li>
+<li>Lost Gary Payton <span class="badge badge-pill badge-danger" data-bpm-text="-152331" data-vorp-text="-57.0">-57.0</span> to SEA.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-159032" data-vorp-text="-159032.9">-159032</span></h5><ul id=bpm-toggle>
+<li>Added Alton Lister <span class="badge badge-pill badge-danger" data-bpm-text="-6701" data-vorp-text="-0.6">-6701</span> to GSW.</li>
+<li>Lost Gary Payton <span class="badge badge-pill badge-danger" data-bpm-text="-152331" data-vorp-text="-57.0">-152331</span> to SEA.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -867,18 +901,30 @@ function updateSigningChart() {
   </script>
 
       Don Nelson ranks in the 35th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed John Lucas in 1987.</li>
-<li>Signed Marquis Daniels in 2003.</li>
-<li>Signed Keith Jennings in 1992.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed John Lucas <span class="badge badge-pill badge-success" data-bpm-text="+3" data-vorp-text="+3.8">+3.8</span> in 1987.</li>
+<li>Signed Šarūnas Marčiulionis <span class="badge badge-pill badge-success" data-bpm-text="+3" data-vorp-text="+3.7">+3.7</span> in 1989.</li>
+<li>Signed Marquis Daniels <span class="badge badge-pill badge-success" data-bpm-text="+3" data-vorp-text="+3.1">+3.1</span> in 2003.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Paul Mokeski in 1983.</li>
-<li>Signed Hubert Davis in 1997.</li>
-<li>Signed Tom Tolbert in 1989.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed John Lucas <span class="badge badge-pill badge-success" data-bpm-text="+8556" data-vorp-text="+8556.6">+8556</span> in 1987.</li>
+<li>Signed Marquis Daniels <span class="badge badge-pill badge-success" data-bpm-text="+4119" data-vorp-text="+4119.9">+4119</span> in 2003.</li>
+<li>Signed Keith Jennings <span class="badge badge-pill badge-success" data-bpm-text="+4084" data-vorp-text="+4084.6">+4084</span> in 1992.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Paul Mokeski <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.7">-1.7</span> in 1983.</li>
+<li>Signed Tom Tolbert <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.2">-1.2</span> in 1989.</li>
+<li>Signed Uwe Blab <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.6">-0.6</span> in 1989.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Paul Mokeski <span class="badge badge-pill badge-danger" data-bpm-text="-18397" data-vorp-text="-18397.2">-18397</span> in 1983.</li>
+<li>Signed Hubert Davis <span class="badge badge-pill badge-danger" data-bpm-text="-13840" data-vorp-text="-13840.9">-13840</span> in 1997.</li>
+<li>Signed Tom Tolbert <span class="badge badge-pill badge-danger" data-bpm-text="-10940" data-vorp-text="-10940.3">-10940</span> in 1989.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -890,6 +936,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

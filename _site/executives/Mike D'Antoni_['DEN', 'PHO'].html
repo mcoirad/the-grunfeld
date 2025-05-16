@@ -134,16 +134,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -158,6 +166,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -291,6 +300,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -560,10 +571,9 @@ function updateExecDraftPlayersChart() {
 </script>
 
       This executive hasn't drafted any players, and thus doesn't have a draft grade.
-      <h5>Some of their biggest wins:</h5>
       
-      <h5>Some of their biggest busts:</h5>
       
+
     </div>
   </div>
 </div>
@@ -705,16 +715,23 @@ function updateTradeChart() {
   </script>
 
       This executive has only made 2 trades and thus doesn't have a trade grade.
-      <h5>Their biggest win:</h5>
-      <ul>
+      
+    
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+4986" data-vorp-text="+4986.8">+4986</span></h5><ul id=bpm-toggle>
 <li>Didn't receive any players or picks.</li>
-<li>Lost Sergio Rodríguez to POR.</li>
+<li>Lost Sergio Rodríguez <span class="badge badge-pill badge-success" data-bpm-text="+4986" data-vorp-text="-0.1">+4986</span> to POR.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Rudy Fernández to PHO.</li>
-<li>Lost Brian Grant, Rajon Rondo to BOS.</li>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-19" data-vorp-text="-19.1">-19.1</span></h5><ul id=vorp-toggle>
+<li>Added Rudy Fernández <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to PHO.</li>
+<li>Lost Brian Grant <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span>, Rajon Rondo <span class="badge badge-pill badge-danger" data-bpm-text="-40961" data-vorp-text="-19.1">-19.1</span> to BOS.</li>
 </ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-40961" data-vorp-text="-40961.1">-40961</span></h5><ul id=bpm-toggle>
+<li>Added Rudy Fernández <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span> to PHO.</li>
+<li>Lost Brian Grant <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0</span>, Rajon Rondo <span class="badge badge-pill badge-danger" data-bpm-text="-40961" data-vorp-text="-19.1">-40961</span> to BOS.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -855,16 +872,26 @@ function updateSigningChart() {
   </script>
 
       Mike D'Antoni ranks in the 68th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Jalen Rose in 2006.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Cory Alexander <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.4">+0.4</span> in 1998.</li>
+<li>Signed Jalen Rose <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.2">+0.2</span> in 2006.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Marcus Banks in 2006.</li>
-<li>Signed Cory Alexander in 1998.</li>
-<li>Signed Jumaine Jones in 2006.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Jalen Rose <span class="badge badge-pill badge-success" data-bpm-text="+295" data-vorp-text="+295.2">+295</span> in 2006.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Marcus Banks <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.3">-0.3</span> in 2006.</li>
+<li>Signed Jumaine Jones <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.2">-0.2</span> in 2006.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Marcus Banks <span class="badge badge-pill badge-danger" data-bpm-text="-2678" data-vorp-text="-2678.8">-2678</span> in 2006.</li>
+<li>Signed Cory Alexander <span class="badge badge-pill badge-danger" data-bpm-text="-2239" data-vorp-text="-2239.3">-2239</span> in 1998.</li>
+<li>Signed Jumaine Jones <span class="badge badge-pill badge-danger" data-bpm-text="-1035" data-vorp-text="-1035.0">-1035</span> in 2006.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -876,6 +903,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

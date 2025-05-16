@@ -134,16 +134,24 @@
                 </h3>
         </div>
         <div class="col-md-9">
-    <div class="row">
-    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
           <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
           <canvas id="executiveTenure"></canvas></div></div></div>
         </div>
-      </div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
 
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
   
   
 let myChart = null;
@@ -158,6 +166,7 @@ document.getElementById("toggle-stat").addEventListener("click", () => {
     updateExecDraftPlayersChart();
     updateSigningChart();
     updateTradeChart();
+    toggleStatElements(currentStat); 
 
 });
 
@@ -291,6 +300,8 @@ function updateTexts() {
 updateTexts();
   
 </script>
+<br>
+<br>
 <hr>
 <hr>
 
@@ -560,18 +571,31 @@ function updateExecDraftPlayersChart() {
 </script>
 
       Bernie Bickerstaff ranks in the 25th percentile for drafting among executives in our database. Bickerstaff's draft picks average out to be worth the equivalent of 10 spots lower than they were picked due to their terrible drafting.
-      <h5>Some of their biggest wins:</h5>
-      <ul>
-<li>Drafted Dikembe Mutombo with 4th pick but was worth 1th pick.</li>
-<li>Drafted Robert Werdann with 46th pick but was worth 41th pick.</li>
-<li>Drafted Bernard Robinson with 45th pick but was worth 33th pick.</li>
+      
+    <h5 id="vorp-toggle">Their biggest wins: </h5><ul id=vorp-toggle>
+<li>Drafted Dikembe Mutombo <span class="badge badge-pill badge-success" data-bpm-text="+11" data-vorp-text="+11.9">+11.9</span> with 4th pick but was worth 1th pick. </li>
+<li>Drafted Robert Werdann <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.4">+0.4</span> with 46th pick but was worth 41th pick. </li>
+<li>Drafted Bernard Robinson <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.3">+0.3</span> with 45th pick but was worth 33th pick. </li>
 </ul>
-      <h5>Some of their biggest busts:</h5>
-      <ul>
-<li>Drafted Emeka Okafor with 2th pick but was worth 17th pick.</li>
-<li>Drafted Adam Morrison with 3th pick but was worth 59th pick.</li>
-<li>Drafted Raymond Felton with 5th pick but was worth 11th pick.</li>
+    <h5 id="bpm-toggle">Their biggest wins: </h5><ul id=bpm-toggle>
+<li>Drafted Dikembe Mutombo <span class="badge badge-pill badge-success" data-bpm-text="+26329" data-vorp-text="+26329.5">+26329</span> with 4th pick but was worth 2th pick. </li>
+<li>Drafted Robert Werdann <span class="badge badge-pill badge-success" data-bpm-text="+12344" data-vorp-text="+12344.1">+12344</span> with 46th pick but was worth 27th pick. </li>
+<li>Drafted Bernard Robinson <span class="badge badge-pill badge-success" data-bpm-text="+1848" data-vorp-text="+1848.1">+1848</span> with 45th pick but was worth 40th pick. </li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest busts: </h5><ul id=vorp-toggle>
+<li>Drafted Adam Morrison <span class="badge badge-pill badge-danger" data-bpm-text="-32" data-vorp-text="-32.3">-32.3</span> with 3th pick but was worth 59th pick.</li>
+<li>Drafted Emeka Okafor <span class="badge badge-pill badge-danger" data-bpm-text="-32" data-vorp-text="-32.2">-32.2</span> with 2th pick but was worth 17th pick.</li>
+<li>Drafted LaPhonso Ellis <span class="badge badge-pill badge-danger" data-bpm-text="-16" data-vorp-text="-16.1">-16.1</span> with 5th pick but was worth 17th pick.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest busts: </h5><ul id=bpm-toggle>
+<li>Drafted Emeka Okafor <span class="badge badge-pill badge-danger" data-bpm-text="-86401" data-vorp-text="-86401.3">-86401</span> with 2th pick but was worth 52th pick.</li>
+<li>Drafted Adam Morrison <span class="badge badge-pill badge-danger" data-bpm-text="-74336" data-vorp-text="-74336.2">-74336</span> with 3th pick but was worth 55th pick.</li>
+<li>Drafted Raymond Felton <span class="badge badge-pill badge-danger" data-bpm-text="-44019" data-vorp-text="-44019.7">-44019</span> with 5th pick but was worth 51th pick.</li>
+</ul>
+    
+
     </div>
   </div>
 </div>
@@ -713,16 +737,26 @@ function updateTradeChart() {
   </script>
 
       Bernie Bickerstaff ranks in the 73th percentile for trading among executives in our database. 
-      <h5>Their biggest win:</h5>
-      <ul>
-<li>Added Jared Dudley to CHA.</li>
-<li>Lost Sasha Pavlović to CLE.</li>
+      
+    <h5 id="vorp-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+2" data-vorp-text="+2.5">+2.5</span></h5><ul id=vorp-toggle>
+<li>Added Robert Pack <span class="badge badge-pill badge-success" data-bpm-text="-418" data-vorp-text="+2.4">+2.4</span> to DEN.</li>
+<li>Lost Kevin Thompson <span class="badge badge-pill badge-success" data-bpm-text="+469" data-vorp-text="+0.1">+0.1</span> to POR.</li>
 </ul>
-      <h5>Their biggest L:</h5>
-      <ul>
-<li>Added Jeff McInnis to CHA.</li>
-<li>Lost Bernard Robinson to NJN.</li>
+    <h5 id="bpm-toggle">Their biggest win: <span class="badge badge-pill badge-success" data-bpm-text="+14839" data-vorp-text="+14839.7">+14839</span></h5><ul id=bpm-toggle>
+<li>Added Jared Dudley <span class="badge badge-pill badge-danger" data-bpm-text="-1139" data-vorp-text="+0.6">-1139</span> to CHA.</li>
+<li>Lost Sasha Pavlović <span class="badge badge-pill badge-success" data-bpm-text="+15979" data-vorp-text="+1.2">+15979</span> to CLE.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-5" data-vorp-text="-5.9">-5.9</span></h5><ul id=vorp-toggle>
+<li>Added Mark Jackson <span class="badge badge-pill badge-success" data-bpm-text="+1400" data-vorp-text="+1.4">+1.4</span>, Ricky Pierce <span class="badge badge-pill badge-success" data-bpm-text="-1320" data-vorp-text="+0.0">+0.0</span>, Efthimis Rentzias <span class="badge badge-pill badge-success" data-bpm-text="+0" data-vorp-text="+0.0">+0.0</span> to DEN.</li>
+<li>Lost Jalen Rose <span class="badge badge-pill badge-danger" data-bpm-text="-7894" data-vorp-text="-7.8">-7.8</span>, Reggie Williams <span class="badge badge-pill badge-success" data-bpm-text="+333" data-vorp-text="+0.1">+0.1</span>, Erick Dampier <span class="badge badge-pill badge-success" data-bpm-text="+3892" data-vorp-text="+0.4">+0.4</span> to IND.</li>
+</ul>
+    <h5 id="bpm-toggle">Their biggest L: <span class="badge badge-pill badge-danger" data-bpm-text="-11345" data-vorp-text="-11345.9">-11345</span></h5><ul id=bpm-toggle>
+<li>Added Jeff McInnis <span class="badge badge-pill badge-danger" data-bpm-text="-11194" data-vorp-text="-1.8">-11194</span> to CHA.</li>
+<li>Lost Bernard Robinson <span class="badge badge-pill badge-danger" data-bpm-text="-151" data-vorp-text="-0.1">-151</span> to NJN.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -863,18 +897,30 @@ function updateSigningChart() {
   </script>
 
       Bernie Bickerstaff ranks in the 14th percentile for free agency signings among executives in our database. 
-      <h5>Their best signings:</h5>
-      <ul>
-<li>Signed Reggie Williams in 1991.</li>
-<li>Signed Brevin Knight in 2004.</li>
-<li>Signed Jason Hart in 2004.</li>
+      
+    <h5 id="vorp-toggle">Their best signings: </h5><ul id=vorp-toggle>
+<li>Signed Reggie Williams <span class="badge badge-pill badge-success" data-bpm-text="+10" data-vorp-text="+10.3">+10.3</span> in 1991.</li>
+<li>Signed Brevin Knight <span class="badge badge-pill badge-success" data-bpm-text="+4" data-vorp-text="+4.1">+4.1</span> in 2004.</li>
+<li>Signed Dale Ellis <span class="badge badge-pill badge-success" data-bpm-text="+1" data-vorp-text="+1.9">+1.9</span> in 1994.</li>
 </ul>
-      <h5>Their worst signings:</h5>
-      <ul>
-<li>Signed Tom Hammonds in 1993.</li>
-<li>Signed Joe Wolf in 1990.</li>
-<li>Signed Matt Carroll in 2005.</li>
+    <h5 id="bpm-toggle">Their best signings: </h5><ul id=bpm-toggle>
+<li>Signed Reggie Williams <span class="badge badge-pill badge-success" data-bpm-text="+15940" data-vorp-text="+15940.4">+15940</span> in 1991.</li>
+<li>Signed Brevin Knight <span class="badge badge-pill badge-success" data-bpm-text="+5517" data-vorp-text="+5517.6">+5517</span> in 2004.</li>
+<li>Signed Jason Hart <span class="badge badge-pill badge-success" data-bpm-text="+2264" data-vorp-text="+2264.4">+2264</span> in 2004.</li>
 </ul>
+    
+      
+    <h5 id="vorp-toggle">Their worst signings: </h5><ul id=vorp-toggle>
+<li>Signed Joe Wolf <span class="badge badge-pill badge-danger" data-bpm-text="-2" data-vorp-text="-2.3">-2.3</span> in 1990.</li>
+<li>Signed Tom Hammonds <span class="badge badge-pill badge-danger" data-bpm-text="-1" data-vorp-text="-1.6">-1.6</span> in 1993.</li>
+<li>Signed Gary Plummer <span class="badge badge-pill badge-danger" data-bpm-text="0" data-vorp-text="-0.7">-0.7</span> in 1992.</li>
+</ul>
+    <h5 id="bpm-toggle">Their worst signings: </h5><ul id=bpm-toggle>
+<li>Signed Tom Hammonds <span class="badge badge-pill badge-danger" data-bpm-text="-16984" data-vorp-text="-16984.6">-16984</span> in 1993.</li>
+<li>Signed Joe Wolf <span class="badge badge-pill badge-danger" data-bpm-text="-15733" data-vorp-text="-15733.9">-15733</span> in 1990.</li>
+<li>Signed Matt Carroll <span class="badge badge-pill badge-danger" data-bpm-text="-12831" data-vorp-text="-12831.9">-12831</span> in 2005.</li>
+</ul>
+    
     </div>
   </div>
 </div>
@@ -886,6 +932,9 @@ function updateSigningChart() {
   
 </table>
 </div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
 
   <!-- Footer -->
 

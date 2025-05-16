@@ -26,7 +26,7 @@ is_active: false
 name: Jim Stack
 signing_description: This executive hasn't signed any players, and thus doesn't have
   a signing grade.
-signing_lose_list: null
+signing_lose_list: "\n    \n    \n    "
 signing_num_players: 0
 signing_overall_percentile_bpm: null
 signing_overall_percentile_vorp: null
@@ -42,7 +42,7 @@ signing_total_grade_vorp: D-
 signing_total_percentile_bpm: 79
 signing_total_percentile_vorp: 21
 signing_total_vorp: 0
-signing_win_list: null
+signing_win_list: "\n    \n    \n    "
 start_year: 2008
 team:
 - Minnesota Timberwolves
@@ -50,13 +50,24 @@ team_shortcode:
 - MIN
 trade_description: This executive has only made one trade and thus doesn't have a
   trade grade.
-trade_lose_list: '<ul>
-
-  <li>Added Bobby Brown, Shelden Williams to MIN.</li>
-
-  <li>Lost Calvin Booth, Rashad McCants to SAC.</li>
-
-  </ul>'
+trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.3\">-0.3</span></h5><ul\
+  \ id=vorp-toggle>\n<li>Added Bobby Brown <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"-563\" data-vorp-text=\"+0.0\">+0.0</span>, Shelden Williams <span\
+  \ class=\"badge badge-pill badge-success\" data-bpm-text=\"-351\" data-vorp-text=\"\
+  +0.0\">+0.0</span> to MIN.</li>\n<li>Lost Calvin Booth <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+280\" data-vorp-text=\"+0.0\">+0.0</span>, Rashad\
+  \ McCants <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-279\" data-vorp-text=\"\
+  -0.3\">-0.3</span> to SAC.</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ L: <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-913\" data-vorp-text=\"\
+  -913.6\">-913</span></h5><ul id=bpm-toggle>\n<li>Added Bobby Brown <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-563\" data-vorp-text=\"+0.0\">-563</span>,\
+  \ Shelden Williams <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -351\" data-vorp-text=\"+0.0\">-351</span> to MIN.</li>\n<li>Lost Calvin Booth <span\
+  \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+280\" data-vorp-text=\"\
+  +0.0\">+280</span>, Rashad McCants <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-279\" data-vorp-text=\"-0.3\">-279</span> to SAC.</li>\n</ul>\n\
+  \    "
 trade_num: 4
 trade_overall_percentile_bpm: null
 trade_overall_percentile_vorp: null
@@ -72,5 +83,5 @@ trade_total_grade_vorp: C+
 trade_total_percentile_bpm: 45
 trade_total_percentile_vorp: 56
 trade_total_vorp: 0
-trade_win_list: null
+trade_win_list: "\n    \n    \n    "
 ---

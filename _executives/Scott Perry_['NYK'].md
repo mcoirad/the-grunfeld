@@ -26,7 +26,7 @@ is_active: false
 name: Scott Perry
 signing_description: This executive hasn't signed any players, and thus doesn't have
   a signing grade.
-signing_lose_list: null
+signing_lose_list: "\n    \n    \n    "
 signing_num_players: 0
 signing_overall_percentile_bpm: null
 signing_overall_percentile_vorp: null
@@ -42,7 +42,7 @@ signing_total_grade_vorp: D-
 signing_total_percentile_bpm: 79
 signing_total_percentile_vorp: 21
 signing_total_vorp: 0
-signing_win_list: null
+signing_win_list: "\n    \n    \n    "
 start_year: 2020
 team:
 - New York Knicks
@@ -50,7 +50,17 @@ team_shortcode:
 - NYK
 trade_description: This executive has only made one trade and thus doesn't have a
   trade grade.
-trade_lose_list: null
+trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-1\" data-vorp-text=\"-1.2\">-1.2</span></h5><ul\
+  \ id=vorp-toggle>\n<li>Added Maurice Harkless <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-1001\" data-vorp-text=\"-0.1\">-0.1</span>, Udoka Azubuike <span\
+  \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"\
+  +0.0\">+0.0</span>, Jeremiah Robinson-Earl <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0.0</span>, Issuf Sanon <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0.0</span>\
+  \ to NYK.</li>\n<li>Lost Marcus Morris <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"+6864\" data-vorp-text=\"-1.1\">-1.1</span> to LAC.</li>\n</ul>\n\
+  \    \n    "
 trade_num: 5
 trade_overall_percentile_bpm: null
 trade_overall_percentile_vorp: null
@@ -66,12 +76,15 @@ trade_total_grade_vorp: C+
 trade_total_percentile_bpm: 55
 trade_total_percentile_vorp: 55
 trade_total_vorp: -1
-trade_win_list: '<ul>
-
-  <li>Added Maurice Harkless, Udoka Azubuike, Jeremiah Robinson-Earl, Issuf Sanon
-  to NYK.</li>
-
-  <li>Lost Marcus Morris to LAC.</li>
-
-  </ul>'
+trade_win_list: "\n    \n    <h5 id=\"bpm-toggle\">Their biggest win: <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+5863\" data-vorp-text=\"+5863.9\"\
+  >+5863</span></h5><ul id=bpm-toggle>\n<li>Added Maurice Harkless <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-1001\" data-vorp-text=\"-0.1\"\
+  >-1001</span>, Udoka Azubuike <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +0\" data-vorp-text=\"+0.0\">+0</span>, Jeremiah Robinson-Earl <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span>,\
+  \ Issuf Sanon <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+0\"\
+  \ data-vorp-text=\"+0.0\">+0</span> to NYK.</li>\n<li>Lost Marcus Morris <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+6864\" data-vorp-text=\"-1.1\"\
+  >+6864</span> to LAC.</li>\n</ul>\n    "
 ---
