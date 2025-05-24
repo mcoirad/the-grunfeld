@@ -1,24 +1,28 @@
 ---
 bpm_rank: 152
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Richard Hamilton <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -19\" data-vorp-text=\"-19.9\">-19.9</span> with 7th pick but was worth 14th pick.</li>\n\
-  <li>Drafted Jared Jeffries <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -5\" data-vorp-text=\"-5.8\">-5.8</span> with 11th pick but was worth 52th pick.</li>\n\
-  <li>Drafted Jahidi White <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -1\" data-vorp-text=\"-1.3\">-1.3</span> with 43th pick but was worth 54th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Richard Hamilton <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -66960\" data-vorp-text=\"-66960.7\">-66960</span> with 7th pick but was worth 41th\
-  \ pick.</li>\n<li>Drafted Jared Jeffries <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-32589\" data-vorp-text=\"-32589.6\">-32589</span> with 11th pick\
-  \ but was worth 57th pick.</li>\n<li>Drafted Juan Dixon <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-17850\" data-vorp-text=\"-17850.2\">-17850</span>\
-  \ with 17th pick but was worth 46th pick.</li>\n</ul>\n    "
+  <li>Drafted Richard Hamilton with 7th pick but was worth 14th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-19\" data-vorp-text=\"-19.9\">-19.9</span>\
+  \ (expectation difference)</li>\n<li>Drafted Jared Jeffries with 11th pick but was\
+  \ worth 52th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -5\" data-vorp-text=\"-5.8\">-5.8</span> (expectation difference)</li>\n<li>Drafted\
+  \ Jahidi White with 43th pick but was worth 54th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-1\" data-vorp-text=\"-1.3\">-1.3</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Richard Hamilton with 7th pick but was worth 41th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-66960\" data-vorp-text=\"\
+  -66960.7\">-66960</span> (expectation difference)</li>\n<li>Drafted Jared Jeffries\
+  \ with 11th pick but was worth 57th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-32589\" data-vorp-text=\"-32589.6\">-32589</span> (expectation\
+  \ difference)</li>\n<li>Drafted Juan Dixon with 17th pick but was worth 46th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-17850\" data-vorp-text=\"\
+  -17850.2\">-17850</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Wes Unseld ranks in the 23th percentile for drafting among executives
   in our database. Unseld's draft picks average out to be worth the equivalent of
   10 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 6
+draft_overall_grade_bpm: F
+draft_overall_grade_vorp: F
 draft_overall_percentile_vorp: 14
 draft_rating_bpm: -18
 draft_rating_grade_bpm: F
@@ -33,10 +37,10 @@ draft_total_percentile_bpm: 4
 draft_total_percentile_vorp: 4
 draft_total_vorp: -2
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Calvin Booth <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +0\" data-vorp-text=\"+0.3\">+0.3</span> with 35th pick but was worth 23th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  </ul>\n    "
+  <li>Drafted Calvin Booth with 35th pick but was worth 23th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.3\">+0.3</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ wins: </h5><ul id=bpm-toggle>\n</ul>\n    "
 end_year: 2003
 final_bpm: -157550
 final_vorp: -34
@@ -59,6 +63,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ Ham <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-2540\" data-vorp-text=\"\
   -2540.0\">-2540</span> in 1997.</li>\n</ul>\n    "
 signing_num_players: 31
+signing_overall_grade_bpm: A-
+signing_overall_grade_vorp: B-
 signing_overall_percentile_bpm: 82
 signing_overall_percentile_vorp: 65
 signing_rating_bpm: 0
@@ -109,6 +115,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-59311\" data-vorp-text=\"\
   -22.3\">-59311</span> to SAC.</li>\n</ul>\n    "
 trade_num: 24
+trade_overall_grade_bpm: F
+trade_overall_grade_vorp: F
 trade_overall_percentile_bpm: 5
 trade_overall_percentile_vorp: 5
 trade_rating_bpm: -1

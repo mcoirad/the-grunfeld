@@ -1,24 +1,28 @@
 ---
 bpm_rank: 153
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Anthony Bennett <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -63\" data-vorp-text=\"-63.7\">-63.7</span> with 1th pick but was worth 59th pick.</li>\n\
-  <li>Drafted Tristan Thompson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -30\" data-vorp-text=\"-30.3\">-30.3</span> with 4th pick but was worth 23th pick.</li>\n\
-  <li>Drafted Dion Waiters <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -24\" data-vorp-text=\"-24.4\">-24.4</span> with 4th pick but was worth 46th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Anthony Bennett <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -198311\" data-vorp-text=\"-198311.8\">-198311</span> with 1th pick but was worth\
-  \ 44th pick.</li>\n<li>Drafted Tristan Thompson <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-104202\" data-vorp-text=\"-104202.4\">-104202</span> with 4th\
-  \ pick but was worth 59th pick.</li>\n<li>Drafted Dion Waiters <span class=\"badge\
-  \ badge-pill badge-danger\" data-bpm-text=\"-66193\" data-vorp-text=\"-66193.5\"\
-  >-66193</span> with 4th pick but was worth 59th pick.</li>\n</ul>\n    "
+  <li>Drafted Anthony Bennett with 1th pick but was worth 59th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-63\" data-vorp-text=\"-63.7\">-63.7</span>\
+  \ (expectation difference)</li>\n<li>Drafted Tristan Thompson with 4th pick but\
+  \ was worth 23th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -30\" data-vorp-text=\"-30.3\">-30.3</span> (expectation difference)</li>\n<li>Drafted\
+  \ Dion Waiters with 4th pick but was worth 46th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-24\" data-vorp-text=\"-24.4\">-24.4</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Anthony Bennett with 1th pick but was worth 44th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-198311\" data-vorp-text=\"\
+  -198311.8\">-198311</span> (expectation difference)</li>\n<li>Drafted Tristan Thompson\
+  \ with 4th pick but was worth 59th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-104202\" data-vorp-text=\"-104202.4\">-104202</span> (expectation\
+  \ difference)</li>\n<li>Drafted Dion Waiters with 4th pick but was worth 59th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-66193\" data-vorp-text=\"\
+  -66193.5\">-66193</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Chris Grant ranks in the 5th percentile for drafting among executives
   in our database. Grant's draft picks average out to be worth the equivalent of 19
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 8
+draft_overall_grade_bpm: D+
+draft_overall_grade_vorp: D+
 draft_overall_percentile_vorp: 34
 draft_rating_bpm: -18
 draft_rating_grade_bpm: F
@@ -33,12 +37,13 @@ draft_total_percentile_bpm: 63
 draft_total_percentile_vorp: 63
 draft_total_vorp: 18
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Jae Crowder <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +11\" data-vorp-text=\"+11.0\">+11.0</span> with 34th pick but was worth 7th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Jae Crowder <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +6346\" data-vorp-text=\"+6346.8\">+6346</span> with 34th pick but was worth 10th\
-  \ pick. </li>\n</ul>\n    "
+  <li>Drafted Jae Crowder with 34th pick but was worth 7th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+11\" data-vorp-text=\"+11.0\">+11.0</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ wins: </h5><ul id=bpm-toggle>\n<li>Drafted Jae Crowder with 34th pick but was\
+  \ worth 10th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +6346\" data-vorp-text=\"+6346.8\">+6346</span> (expectation difference)</li>\n\
+  </ul>\n    "
 end_year: 2014
 final_bpm: -165712
 final_vorp: -19
@@ -61,6 +66,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-4729\" data-vorp-text=\"\
   -4729.2\">-4729</span> in 2013.</li>\n</ul>\n    "
 signing_num_players: 21
+signing_overall_grade_bpm: F
+signing_overall_grade_vorp: F
 signing_overall_percentile_bpm: 17
 signing_overall_percentile_vorp: 4
 signing_rating_bpm: -1
@@ -114,6 +121,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ data-bpm-text=\"-109362\" data-vorp-text=\"-33.2\">-109362</span> to MIA.</li>\n\
   </ul>\n    "
 trade_num: 50
+trade_overall_grade_bpm: F
+trade_overall_grade_vorp: F
 trade_overall_percentile_bpm: 6
 trade_overall_percentile_vorp: 12
 trade_rating_bpm: 0

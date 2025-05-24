@@ -1,15 +1,18 @@
 ---
 bpm_rank: 157
 draft_bust_list: "\n    \n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
-  \ id=bpm-toggle>\n<li>Drafted Mickaël Piétrus <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-10755\" data-vorp-text=\"-10755.0\">-10755</span> with 11th pick\
-  \ but was worth 43th pick.</li>\n<li>Drafted Jason Richardson <span class=\"badge\
-  \ badge-pill badge-danger\" data-bpm-text=\"-7017\" data-vorp-text=\"-7017.7\">-7017</span>\
-  \ with 5th pick but was worth 6th pick.</li>\n</ul>\n    "
+  \ id=bpm-toggle>\n<li>Drafted Mickaël Piétrus with 11th pick but was worth 43th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-10755\" data-vorp-text=\"\
+  -10755.0\">-10755</span> (expectation difference)</li>\n<li>Drafted Jason Richardson\
+  \ with 5th pick but was worth 6th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-7017\" data-vorp-text=\"-7017.7\">-7017</span> (expectation difference)</li>\n\
+  </ul>\n    "
 draft_description: Garry St. Jean ranks in the 88th percentile for drafting among
   executives in our database. St.'s draft picks average out to be worth the equivalent
   of 6 spots higher than they were picked due to his good drafting.
 draft_num_players: 7
+draft_overall_grade_bpm: A-
+draft_overall_grade_vorp: B+
 draft_overall_percentile_vorp: 77
 draft_rating_bpm: 6
 draft_rating_grade_bpm: A+
@@ -24,21 +27,22 @@ draft_total_percentile_bpm: 66
 draft_total_percentile_vorp: 66
 draft_total_vorp: 23
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Gilbert Arenas <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +22\" data-vorp-text=\"+22.3\">+22.3</span> with 31th pick but was worth 7th pick.\
-  \ </li>\n<li>Drafted Troy Murphy <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+3\" data-vorp-text=\"+3.5\">+3.5</span> with 14th pick but was\
-  \ worth 12th pick. </li>\n<li>Drafted Chris Porter <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+2\" data-vorp-text=\"+2.3\">+2.3</span> with\
-  \ 55th pick but was worth 43th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Gilbert Arenas <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+51929\" data-vorp-text=\"+51929.0\"\
-  >+51929</span> with 31th pick but was worth 3th pick. </li>\n<li>Drafted Chris Porter\
-  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+28994\" data-vorp-text=\"\
-  +28994.7\">+28994</span> with 55th pick but was worth 31th pick. </li>\n<li>Drafted\
-  \ Troy Murphy <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+1992\"\
-  \ data-vorp-text=\"+1992.1\">+1992</span> with 14th pick but was worth 12th pick.\
-  \ </li>\n</ul>\n    "
+  <li>Drafted Gilbert Arenas with 31th pick but was worth 7th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+22\" data-vorp-text=\"+22.3\"\
+  >+22.3</span> (expectation difference)</li>\n<li>Drafted Troy Murphy with 14th pick\
+  \ but was worth 12th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +3\" data-vorp-text=\"+3.5\">+3.5</span> (expectation difference)</li>\n<li>Drafted\
+  \ Chris Porter with 55th pick but was worth 43th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+2\" data-vorp-text=\"+2.3\">+2.3</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Gilbert Arenas with 31th pick but was worth 3th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+51929\" data-vorp-text=\"\
+  +51929.0\">+51929</span> (expectation difference)</li>\n<li>Drafted Chris Porter\
+  \ with 55th pick but was worth 31th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+28994\" data-vorp-text=\"+28994.7\">+28994</span> (expectation\
+  \ difference)</li>\n<li>Drafted Troy Murphy with 14th pick but was worth 12th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+1992\" data-vorp-text=\"\
+  +1992.1\">+1992</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 2004
 final_bpm: -213311
 final_vorp: -28
@@ -61,6 +65,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-2315\" data-vorp-text=\"\
   -2315.1\">-2315</span> in 2000.</li>\n</ul>\n    "
 signing_num_players: 51
+signing_overall_grade_bpm: C
+signing_overall_grade_vorp: D
 signing_overall_percentile_bpm: 49
 signing_overall_percentile_vorp: 31
 signing_rating_bpm: 0
@@ -108,6 +114,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-73299\" data-vorp-text=\"\
   -26.1\">-73299</span> to TOR.</li>\n</ul>\n    "
 trade_num: 74
+trade_overall_grade_bpm: F
+trade_overall_grade_vorp: F
 trade_overall_percentile_bpm: 4
 trade_overall_percentile_vorp: 5
 trade_rating_bpm: -1

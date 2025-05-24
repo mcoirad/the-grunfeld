@@ -1,24 +1,28 @@
 ---
 bpm_rank: 50
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted James Wiseman <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -13\" data-vorp-text=\"-13.7\">-13.7</span> with 2th pick but was worth 56th pick.</li>\n\
-  <li>Drafted Jonathan Kuminga <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -3\" data-vorp-text=\"-3.8\">-3.8</span> with 7th pick but was worth 14th pick.</li>\n\
-  <li>Drafted Harrison Barnes <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -1\" data-vorp-text=\"-1.8\">-1.8</span> with 7th pick but was worth 8th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted James Wiseman <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -33463\" data-vorp-text=\"-33463.2\">-33463</span> with 2th pick but was worth 48th\
-  \ pick.</li>\n<li>Drafted Harrison Barnes <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-31960\" data-vorp-text=\"-31960.8\">-31960</span> with 7th pick\
-  \ but was worth 58th pick.</li>\n<li>Drafted Jordan Poole <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-17614\" data-vorp-text=\"-17614.8\">-17614</span>\
-  \ with 28th pick but was worth 58th pick.</li>\n</ul>\n    "
+  <li>Drafted James Wiseman with 2th pick but was worth 56th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-13\" data-vorp-text=\"-13.7\">-13.7</span>\
+  \ (expectation difference)</li>\n<li>Drafted Jonathan Kuminga with 7th pick but\
+  \ was worth 14th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -3\" data-vorp-text=\"-3.8\">-3.8</span> (expectation difference)</li>\n<li>Drafted\
+  \ Harrison Barnes with 7th pick but was worth 8th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-1\" data-vorp-text=\"-1.8\">-1.8</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted James Wiseman with 2th pick but was worth 48th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-33463\" data-vorp-text=\"\
+  -33463.2\">-33463</span> (expectation difference)</li>\n<li>Drafted Harrison Barnes\
+  \ with 7th pick but was worth 58th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-31960\" data-vorp-text=\"-31960.8\">-31960</span> (expectation\
+  \ difference)</li>\n<li>Drafted Jordan Poole with 28th pick but was worth 58th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-17614\" data-vorp-text=\"\
+  -17614.8\">-17614</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Bob Myers ranks in the 77th percentile for drafting among executives
   in our database. Myers's draft picks average out to be worth the equivalent of 2
   spots higher than they were picked due to his good drafting.
 draft_num_players: 15
+draft_overall_grade_bpm: B
+draft_overall_grade_vorp: B+
 draft_overall_percentile_vorp: 78
 draft_rating_bpm: -5
 draft_rating_grade_bpm: B-
@@ -33,21 +37,22 @@ draft_total_percentile_bpm: 78
 draft_total_percentile_vorp: 78
 draft_total_vorp: 37
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Draymond Green <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +27\" data-vorp-text=\"+27.7\">+27.7</span> with 35th pick but was worth 3th pick.\
-  \ </li>\n<li>Drafted Kevon Looney <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+6\" data-vorp-text=\"+6.2\">+6.2</span> with 30th pick but was\
-  \ worth 12th pick. </li>\n<li>Drafted Gui Santos <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+1\" data-vorp-text=\"+1.6\">+1.6</span> with\
-  \ 55th pick but was worth 19th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Draymond Green <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+62524\" data-vorp-text=\"+62524.6\"\
-  >+62524</span> with 35th pick but was worth 3th pick. </li>\n<li>Drafted Gui Santos\
-  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+13261\" data-vorp-text=\"\
-  +13261.6\">+13261</span> with 55th pick but was worth 26th pick. </li>\n<li>Drafted\
-  \ Nico Mannion <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+9496\"\
-  \ data-vorp-text=\"+9496.5\">+9496</span> with 48th pick but was worth 28th pick.\
-  \ </li>\n</ul>\n    "
+  <li>Drafted Draymond Green with 35th pick but was worth 3th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+27\" data-vorp-text=\"+27.7\"\
+  >+27.7</span> (expectation difference)</li>\n<li>Drafted Kevon Looney with 30th\
+  \ pick but was worth 12th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +6\" data-vorp-text=\"+6.2\">+6.2</span> (expectation difference)</li>\n<li>Drafted\
+  \ Gui Santos with 55th pick but was worth 19th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+1\" data-vorp-text=\"+1.6\">+1.6</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Draymond Green with 35th pick but was worth 3th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+62524\" data-vorp-text=\"\
+  +62524.6\">+62524</span> (expectation difference)</li>\n<li>Drafted Gui Santos with\
+  \ 55th pick but was worth 26th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+13261\" data-vorp-text=\"+13261.6\">+13261</span> (expectation\
+  \ difference)</li>\n<li>Drafted Nico Mannion with 48th pick but was worth 28th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+9496\" data-vorp-text=\"\
+  +9496.5\">+9496</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 2023
 final_bpm: 11979
 final_vorp: 69
@@ -70,6 +75,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-5569\" data-vorp-text=\"-5569.1\">-5569</span>\
   \ in 2019.</li>\n</ul>\n    "
 signing_num_players: 149
+signing_overall_grade_bpm: B+
+signing_overall_grade_vorp: A
 signing_overall_percentile_bpm: 77
 signing_overall_percentile_vorp: 90
 signing_rating_bpm: 0
@@ -123,6 +130,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-32889\" data-vorp-text=\"\
   -10.7\">-32889</span> to BRK.</li>\n</ul>\n    "
 trade_num: 79
+trade_overall_grade_bpm: B
+trade_overall_grade_vorp: D+
 trade_overall_percentile_bpm: 68
 trade_overall_percentile_vorp: 39
 trade_rating_bpm: 0

@@ -1,24 +1,28 @@
 ---
 bpm_rank: 26
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Kira Lewis Jr. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -3\" data-vorp-text=\"-3.5\">-3.5</span> with 13th pick but was worth 52th pick.</li>\n\
-  <li>Drafted Jordan Hawkins <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -1\" data-vorp-text=\"-1.6\">-1.6</span> with 14th pick but was worth 53th pick.</li>\n\
-  <li>Drafted Yves Missi <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.5\">-0.5</span> with 21th pick but was worth 48th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Jordan Hawkins <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -10244\" data-vorp-text=\"-10244.1\">-10244</span> with 14th pick but was worth\
-  \ 53th pick.</li>\n<li>Drafted Kira Lewis Jr. <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-6245\" data-vorp-text=\"-6245.2\">-6245</span> with 13th pick\
-  \ but was worth 40th pick.</li>\n<li>Drafted Yves Missi <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-5470\" data-vorp-text=\"-5470.8\">-5470</span>\
-  \ with 21th pick but was worth 51th pick.</li>\n</ul>\n    "
+  <li>Drafted Kira Lewis Jr. with 13th pick but was worth 52th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-3\" data-vorp-text=\"-3.5\">-3.5</span>\
+  \ (expectation difference)</li>\n<li>Drafted Jordan Hawkins with 14th pick but was\
+  \ worth 53th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -1\" data-vorp-text=\"-1.6\">-1.6</span> (expectation difference)</li>\n<li>Drafted\
+  \ Yves Missi with 21th pick but was worth 48th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.5\">-0.5</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Jordan Hawkins with 14th pick but was worth 53th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-10244\" data-vorp-text=\"\
+  -10244.1\">-10244</span> (expectation difference)</li>\n<li>Drafted Kira Lewis Jr.\
+  \ with 13th pick but was worth 40th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-6245\" data-vorp-text=\"-6245.2\">-6245</span> (expectation difference)</li>\n\
+  <li>Drafted Yves Missi with 21th pick but was worth 51th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-5470\" data-vorp-text=\"-5470.8\">-5470</span>\
+  \ (expectation difference)</li>\n</ul>\n    "
 draft_description: David Griffin ranks in the 52th percentile for drafting among executives
   in our database. Griffin's draft picks average out to be worth the equivalent of
   3 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 9
+draft_overall_grade_bpm: C+
+draft_overall_grade_vorp: C+
 draft_overall_percentile_vorp: 55
 draft_rating_bpm: -7
 draft_rating_grade_bpm: C+
@@ -33,18 +37,20 @@ draft_total_percentile_bpm: 57
 draft_total_percentile_vorp: 57
 draft_total_vorp: 13
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Joe Harris <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +4\" data-vorp-text=\"+4.1\">+4.1</span> with 33th pick but was worth 17th pick.\
-  \ </li>\n<li>Drafted Herb Jones <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +3\" data-vorp-text=\"+3.0\">+3.0</span> with 35th pick but was worth 10th pick.\
-  \ </li>\n<li>Drafted Karlo Matkovic <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+1\" data-vorp-text=\"+1.2\">+1.2</span> with 52th pick but was\
-  \ worth 27th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
-  \ id=bpm-toggle>\n<li>Drafted Karlo Matkovic <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+10808\" data-vorp-text=\"+10808.3\">+10808</span> with 52th pick\
-  \ but was worth 27th pick. </li>\n<li>Drafted Herb Jones <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+168\" data-vorp-text=\"+168.5\">+168</span> with\
-  \ 35th pick but was worth 34th pick. </li>\n</ul>\n    "
+  <li>Drafted Joe Harris with 33th pick but was worth 17th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+4\" data-vorp-text=\"+4.1\">+4.1</span>\
+  \ (expectation difference)</li>\n<li>Drafted Herb Jones with 35th pick but was worth\
+  \ 10th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+3\"\
+  \ data-vorp-text=\"+3.0\">+3.0</span> (expectation difference)</li>\n<li>Drafted\
+  \ Karlo Matkovic with 52th pick but was worth 27th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+1\" data-vorp-text=\"+1.2\">+1.2</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Karlo Matkovic with 52th pick but was worth 27th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+10808\" data-vorp-text=\"\
+  +10808.3\">+10808</span> (expectation difference)</li>\n<li>Drafted Herb Jones with\
+  \ 35th pick but was worth 34th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+168\" data-vorp-text=\"+168.5\">+168</span> (expectation difference)</li>\n\
+  </ul>\n    "
 end_year: 2026
 final_bpm: 100239
 final_vorp: 57
@@ -68,6 +74,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ Dellavedova <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-8920\"\
   \ data-vorp-text=\"-8920.3\">-8920</span> in 2016.</li>\n</ul>\n    "
 signing_num_players: 150
+signing_overall_grade_bpm: B+
+signing_overall_grade_vorp: B
 signing_overall_percentile_bpm: 76
 signing_overall_percentile_vorp: 72
 signing_rating_bpm: 0
@@ -131,6 +139,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ data-bpm-text=\"-62222\" data-vorp-text=\"-21.2\">-62222</span> to LAL.</li>\n\
   </ul>\n    "
 trade_num: 160
+trade_overall_grade_bpm: A-
+trade_overall_grade_vorp: C+
 trade_overall_percentile_bpm: 81
 trade_overall_percentile_vorp: 56
 trade_rating_bpm: 0

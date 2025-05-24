@@ -4,6 +4,8 @@ draft_bust_list: "\n    \n    \n    "
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
 draft_num_players: 1
+draft_overall_grade_bpm: null
+draft_overall_grade_vorp: null
 draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
@@ -40,6 +42,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ data-bpm-text=\"-1260\" data-vorp-text=\"-1260.0\">-1260</span> in 1997.</li>\n\
   </ul>\n    "
 signing_num_players: 23
+signing_overall_grade_bpm: A-
+signing_overall_grade_vorp: D
 signing_overall_percentile_bpm: 81
 signing_overall_percentile_vorp: 32
 signing_rating_bpm: 0
@@ -89,6 +93,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-45467\" data-vorp-text=\"\
   -21.9\">-45467</span> to SEA.</li>\n</ul>\n    "
 trade_num: 69
+trade_overall_grade_bpm: F
+trade_overall_grade_vorp: F
 trade_overall_percentile_bpm: 11
 trade_overall_percentile_vorp: 6
 trade_rating_bpm: 0

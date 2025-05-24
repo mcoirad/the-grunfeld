@@ -4,6 +4,8 @@ draft_bust_list: "\n    \n    \n    "
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
+draft_overall_grade_bpm: null
+draft_overall_grade_vorp: null
 draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
@@ -18,16 +20,18 @@ draft_total_percentile_bpm: 59
 draft_total_percentile_vorp: 59
 draft_total_vorp: 16
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Rick Fox <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +11\" data-vorp-text=\"+11.7\">+11.7</span> with 24th pick but was worth 9th pick.\
-  \ </li>\n<li>Drafted Dee Brown <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +11\" data-vorp-text=\"+11.5\">+11.5</span> with 19th pick but was worth 5th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Dee Brown <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +15791\" data-vorp-text=\"+15791.0\">+15791</span> with 19th pick but was worth\
-  \ 4th pick. </li>\n<li>Drafted Rick Fox <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+1193\" data-vorp-text=\"+1193.5\">+1193</span> with 24th pick\
-  \ but was worth 16th pick. </li>\n</ul>\n    "
+  <li>Drafted Rick Fox with 24th pick but was worth 9th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+11\" data-vorp-text=\"+11.7\">+11.7</span>\
+  \ (expectation difference)</li>\n<li>Drafted Dee Brown with 19th pick but was worth\
+  \ 5th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+11\"\
+  \ data-vorp-text=\"+11.5\">+11.5</span> (expectation difference)</li>\n</ul>\n \
+  \   <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted\
+  \ Dee Brown with 19th pick but was worth 4th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+15791\" data-vorp-text=\"+15791.0\">+15791</span>\
+  \ (expectation difference)</li>\n<li>Drafted Rick Fox with 24th pick but was worth\
+  \ 16th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+1193\"\
+  \ data-vorp-text=\"+1193.5\">+1193</span> (expectation difference)</li>\n</ul>\n\
+  \    "
 end_year: 1994
 final_bpm: -14250
 final_vorp: 15
@@ -50,6 +54,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   badge badge-pill badge-danger\" data-bpm-text=\"-1789\" data-vorp-text=\"-1789.6\"\
   >-1789</span> in 1990.</li>\n</ul>\n    "
 signing_num_players: 31
+signing_overall_grade_bpm: C
+signing_overall_grade_vorp: D+
 signing_overall_percentile_bpm: 50
 signing_overall_percentile_vorp: 35
 signing_rating_bpm: 0
@@ -98,6 +104,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ Brian Shaw <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+1984\"\
   \ data-vorp-text=\"-1.7\">+1984</span> to MIA.</li>\n</ul>\n    "
 trade_num: 5
+trade_overall_grade_bpm: null
+trade_overall_grade_vorp: null
 trade_overall_percentile_bpm: null
 trade_overall_percentile_vorp: null
 trade_rating_bpm: null

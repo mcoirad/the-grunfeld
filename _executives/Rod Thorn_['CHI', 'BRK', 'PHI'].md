@@ -1,24 +1,28 @@
 ---
 bpm_rank: 11
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Dave Greenwood <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -25\" data-vorp-text=\"-25.7\">-25.7</span> with 2th pick but was worth 13th pick.</li>\n\
-  <li>Drafted Sidney Green <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -24\" data-vorp-text=\"-24.9\">-24.9</span> with 5th pick but was worth 61th pick.</li>\n\
-  <li>Drafted Quintin Dailey <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -16\" data-vorp-text=\"-16.3\">-16.3</span> with 7th pick but was worth 23th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Dave Greenwood <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -102014\" data-vorp-text=\"-102014.0\">-102014</span> with 2th pick but was worth\
-  \ 61th pick.</li>\n<li>Drafted Sidney Green <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-66512\" data-vorp-text=\"-66512.0\">-66512</span> with 5th pick\
-  \ but was worth 61th pick.</li>\n<li>Drafted Kenyon Martin <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-41915\" data-vorp-text=\"-41915.4\">-41915</span>\
-  \ with 1th pick but was worth 4th pick.</li>\n</ul>\n    "
+  <li>Drafted Dave Greenwood with 2th pick but was worth 13th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-25\" data-vorp-text=\"-25.7\">-25.7</span>\
+  \ (expectation difference)</li>\n<li>Drafted Sidney Green with 5th pick but was\
+  \ worth 61th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -24\" data-vorp-text=\"-24.9\">-24.9</span> (expectation difference)</li>\n<li>Drafted\
+  \ Quintin Dailey with 7th pick but was worth 23th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-16\" data-vorp-text=\"-16.3\">-16.3</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Dave Greenwood with 2th pick but was worth 61th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-102014\" data-vorp-text=\"\
+  -102014.0\">-102014</span> (expectation difference)</li>\n<li>Drafted Sidney Green\
+  \ with 5th pick but was worth 61th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-66512\" data-vorp-text=\"-66512.0\">-66512</span> (expectation\
+  \ difference)</li>\n<li>Drafted Kenyon Martin with 1th pick but was worth 4th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-41915\" data-vorp-text=\"\
+  -41915.4\">-41915</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Rod Thorn ranks in the 45th percentile for drafting among executives
   in our database. Thorn's draft picks average out to be worth the equivalent of 4
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 20
+draft_overall_grade_bpm: B
+draft_overall_grade_vorp: B
 draft_overall_percentile_vorp: 71
 draft_rating_bpm: -11
 draft_rating_grade_bpm: C-
@@ -33,21 +37,22 @@ draft_total_percentile_bpm: 96
 draft_total_percentile_vorp: 96
 draft_total_vorp: 134
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Michael Jordan <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +35\" data-vorp-text=\"+35.6\">+35.6</span> with 3th pick but was worth 1th pick.\
-  \ </li>\n<li>Drafted Nikola Vučević <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+25\" data-vorp-text=\"+25.0\">+25.0</span> with 16th pick but\
-  \ was worth 4th pick. </li>\n<li>Drafted Reggie Theus <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+11\" data-vorp-text=\"+11.2\">+11.2</span> with\
-  \ 9th pick but was worth 5th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Michael Jordan <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+137388\" data-vorp-text=\"+137388.2\"\
-  >+137388</span> with 3th pick but was worth 1th pick. </li>\n<li>Drafted Nikola\
-  \ Vučević <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+64056\"\
-  \ data-vorp-text=\"+64056.3\">+64056</span> with 16th pick but was worth 5th pick.\
-  \ </li>\n<li>Drafted Tamar Slay <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +21205\" data-vorp-text=\"+21205.5\">+21205</span> with 54th pick but was worth\
-  \ 23th pick. </li>\n</ul>\n    "
+  <li>Drafted Michael Jordan with 3th pick but was worth 1th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+35\" data-vorp-text=\"+35.6\"\
+  >+35.6</span> (expectation difference)</li>\n<li>Drafted Nikola Vučević with 16th\
+  \ pick but was worth 4th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +25\" data-vorp-text=\"+25.0\">+25.0</span> (expectation difference)</li>\n<li>Drafted\
+  \ Reggie Theus with 9th pick but was worth 5th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+11\" data-vorp-text=\"+11.2\">+11.2</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Michael Jordan with 3th pick but was worth 1th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+137388\" data-vorp-text=\"\
+  +137388.2\">+137388</span> (expectation difference)</li>\n<li>Drafted Nikola Vučević\
+  \ with 16th pick but was worth 5th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+64056\" data-vorp-text=\"+64056.3\">+64056</span> (expectation\
+  \ difference)</li>\n<li>Drafted Tamar Slay with 54th pick but was worth 23th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+21205\" data-vorp-text=\"\
+  +21205.5\">+21205</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 2012
 final_bpm: 188498
 final_vorp: 134
@@ -71,6 +76,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-8253\" data-vorp-text=\"-8253.0\">-8253</span>\
   \ in 2010.</li>\n</ul>\n    "
 signing_num_players: 67
+signing_overall_grade_bpm: F
+signing_overall_grade_vorp: C-
 signing_overall_percentile_bpm: 8
 signing_overall_percentile_vorp: 40
 signing_rating_bpm: -1
@@ -132,6 +139,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ Andre Iguodala <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
   -7225\" data-vorp-text=\"-3.3\">-7225</span> to DEN.</li>\n</ul>\n    "
 trade_num: 122
+trade_overall_grade_bpm: C
+trade_overall_grade_vorp: B-
 trade_overall_percentile_bpm: 47
 trade_overall_percentile_vorp: 65
 trade_rating_bpm: 0

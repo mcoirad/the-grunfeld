@@ -5,6 +5,8 @@ draft_description: Bob Whitsitt ranks in the 95th percentile for drafting among 
   in our database. Whitsitt's draft picks average out to be worth the equivalent of
   8 spots higher than they were picked due to his good drafting.
 draft_num_players: 7
+draft_overall_grade_bpm: B
+draft_overall_grade_vorp: B
 draft_overall_percentile_vorp: 69
 draft_rating_bpm: 9
 draft_rating_grade_bpm: S
@@ -19,21 +21,23 @@ draft_total_percentile_bpm: 43
 draft_total_percentile_vorp: 43
 draft_total_vorp: 3
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Zach Randolph <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +16\" data-vorp-text=\"+16.0\">+16.0</span> with 19th pick but was worth 9th pick.\
-  \ </li>\n<li>Drafted Jermaine O'Neal <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+12\" data-vorp-text=\"+12.6\">+12.6</span> with 17th pick but\
-  \ was worth 11th pick. </li>\n<li>Drafted Alvin Williams <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+6\" data-vorp-text=\"+6.2\">+6.2</span> with\
-  \ 48th pick but was worth 13th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Ruben Boumtje-Boumtje <span\
-  \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+22320\" data-vorp-text=\"\
-  +22320.2\">+22320</span> with 50th pick but was worth 30th pick. </li>\n<li>Drafted\
-  \ Alvin Williams <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +12265\" data-vorp-text=\"+12265.6\">+12265</span> with 48th pick but was worth\
-  \ 38th pick. </li>\n<li>Drafted Jermaine O'Neal <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+8209\" data-vorp-text=\"+8209.2\">+8209</span> with 17th pick\
-  \ but was worth 11th pick. </li>\n</ul>\n    "
+  <li>Drafted Zach Randolph with 19th pick but was worth 9th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+16\" data-vorp-text=\"+16.0\"\
+  >+16.0</span> (expectation difference)</li>\n<li>Drafted Jermaine O'Neal with 17th\
+  \ pick but was worth 11th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +12\" data-vorp-text=\"+12.6\">+12.6</span> (expectation difference)</li>\n<li>Drafted\
+  \ Alvin Williams with 48th pick but was worth 13th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+6\" data-vorp-text=\"+6.2\">+6.2</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Ruben Boumtje-Boumtje with 50th pick but was worth\
+  \ 30th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+22320\"\
+  \ data-vorp-text=\"+22320.2\">+22320</span> (expectation difference)</li>\n<li>Drafted\
+  \ Alvin Williams with 48th pick but was worth 38th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+12265\" data-vorp-text=\"+12265.6\">+12265</span>\
+  \ (expectation difference)</li>\n<li>Drafted Jermaine O'Neal with 17th pick but\
+  \ was worth 11th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +8209\" data-vorp-text=\"+8209.2\">+8209</span> (expectation difference)</li>\n\
+  </ul>\n    "
 end_year: 2003
 final_bpm: -40057
 final_vorp: -47
@@ -56,6 +60,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-1862\" data-vorp-text=\"\
   -1862.0\">-1862</span> in 1994.</li>\n</ul>\n    "
 signing_num_players: 78
+signing_overall_grade_bpm: A+
+signing_overall_grade_vorp: A
 signing_overall_percentile_bpm: 93
 signing_overall_percentile_vorp: 88
 signing_rating_bpm: 0
@@ -114,6 +120,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ badge-pill badge-success\" data-bpm-text=\"+1856\" data-vorp-text=\"+0.4\">+1856</span>\
   \ to CHI.</li>\n</ul>\n    "
 trade_num: 158
+trade_overall_grade_bpm: C
+trade_overall_grade_vorp: F
 trade_overall_percentile_bpm: 53
 trade_overall_percentile_vorp: 16
 trade_rating_bpm: 0

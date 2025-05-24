@@ -4,6 +4,8 @@ draft_bust_list: "\n    \n    \n    "
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
+draft_overall_grade_bpm: null
+draft_overall_grade_vorp: null
 draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
@@ -18,12 +20,13 @@ draft_total_percentile_bpm: 45
 draft_total_percentile_vorp: 45
 draft_total_vorp: 4
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Kristaps Porziņģis <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +5\" data-vorp-text=\"+5.1\">+5.1</span> with 4th pick but was worth 2th pick. </li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted\
-  \ Kristaps Porziņģis <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +16132\" data-vorp-text=\"+16132.3\">+16132</span> with 4th pick but was worth 2th\
-  \ pick. </li>\n</ul>\n    "
+  <li>Drafted Kristaps Porziņģis with 4th pick but was worth 2th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+5\" data-vorp-text=\"+5.1\">+5.1</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ wins: </h5><ul id=bpm-toggle>\n<li>Drafted Kristaps Porziņģis with 4th pick but\
+  \ was worth 2th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +16132\" data-vorp-text=\"+16132.3\">+16132</span> (expectation difference)</li>\n\
+  </ul>\n    "
 end_year: 2017
 final_bpm: -54733
 final_vorp: 6
@@ -46,6 +49,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-6783\" data-vorp-text=\"\
   -6783.0\">-6783</span> in 2014.</li>\n</ul>\n    "
 signing_num_players: 52
+signing_overall_grade_bpm: D+
+signing_overall_grade_vorp: D+
 signing_overall_percentile_bpm: 39
 signing_overall_percentile_vorp: 34
 signing_rating_bpm: 0
@@ -111,6 +116,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ data-bpm-text=\"+3900\" data-vorp-text=\"-0.2\">+3900</span> to DAL.</li>\n</ul>\n\
   \    "
 trade_num: 41
+trade_overall_grade_bpm: D+
+trade_overall_grade_vorp: C
 trade_overall_percentile_bpm: 35
 trade_overall_percentile_vorp: 50
 trade_rating_bpm: 0

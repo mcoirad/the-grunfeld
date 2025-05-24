@@ -1,24 +1,29 @@
 ---
 bpm_rank: 126
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Rafael Araújo <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -17\" data-vorp-text=\"-17.6\">-17.6</span> with 8th pick but was worth 57th pick.</li>\n\
-  <li>Drafted Joey Graham <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -9\" data-vorp-text=\"-9.3\">-9.3</span> with 16th pick but was worth 58th pick.</li>\n\
-  <li>Drafted Charlie Villanueva <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -7\" data-vorp-text=\"-8.0\">-8.0</span> with 7th pick but was worth 20th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Rafael Araújo <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -25789\" data-vorp-text=\"-25789.8\">-25789</span> with 8th pick but was worth 51th\
-  \ pick.</li>\n<li>Drafted Charlie Villanueva <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-23112\" data-vorp-text=\"-23112.8\">-23112</span> with 7th pick\
-  \ but was worth 42th pick.</li>\n<li>Drafted Joey Graham <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-22021\" data-vorp-text=\"-22021.2\">-22021</span>\
-  \ with 16th pick but was worth 58th pick.</li>\n</ul>\n    "
+  <li>Drafted Rafael Araújo with 8th pick but was worth 57th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-17\" data-vorp-text=\"-17.6\">-17.6</span>\
+  \ (expectation difference)</li>\n<li>Drafted Joey Graham with 16th pick but was\
+  \ worth 58th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -9\" data-vorp-text=\"-9.3\">-9.3</span> (expectation difference)</li>\n<li>Drafted\
+  \ Charlie Villanueva with 7th pick but was worth 20th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-7\" data-vorp-text=\"-8.0\">-8.0</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ busts: </h5><ul id=bpm-toggle>\n<li>Drafted Rafael Araújo with 8th pick but was\
+  \ worth 51th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -25789\" data-vorp-text=\"-25789.8\">-25789</span> (expectation difference)</li>\n\
+  <li>Drafted Charlie Villanueva with 7th pick but was worth 42th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-23112\" data-vorp-text=\"-23112.8\"\
+  >-23112</span> (expectation difference)</li>\n<li>Drafted Joey Graham with 16th\
+  \ pick but was worth 58th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -22021\" data-vorp-text=\"-22021.2\">-22021</span> (expectation difference)</li>\n\
+  </ul>\n    "
 draft_description: Rob Babcock ranks in the 4th percentile for drafting among executives
   in our database. Babcock's draft picks average out to be worth the equivalent of
   21 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
+draft_overall_grade_bpm: F
+draft_overall_grade_vorp: F-
 draft_overall_percentile_vorp: 3
 draft_rating_bpm: -16
 draft_rating_grade_bpm: F
@@ -34,9 +39,9 @@ draft_total_percentile_vorp: 1
 draft_total_vorp: -4
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
   </ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted\
-  \ Roko Ukić <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+3664\"\
-  \ data-vorp-text=\"+3664.7\">+3664</span> with 41th pick but was worth 34th pick.\
-  \ </li>\n</ul>\n    "
+  \ Roko Ukić with 41th pick but was worth 34th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+3664\" data-vorp-text=\"+3664.7\">+3664</span>\
+  \ (expectation difference)</li>\n</ul>\n    "
 end_year: 2006
 final_bpm: -72826
 final_vorp: -13
@@ -56,6 +61,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ data-bpm-text=\"-2064\" data-vorp-text=\"-2064.5\">-2064</span> in 2005.</li>\n\
   </ul>\n    "
 signing_num_players: 5
+signing_overall_grade_bpm: A+
+signing_overall_grade_vorp: A-
 signing_overall_percentile_bpm: 97
 signing_overall_percentile_vorp: 82
 signing_rating_bpm: 0
@@ -115,6 +122,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ badge-danger\" data-bpm-text=\"-56724\" data-vorp-text=\"-21.5\">-56724</span>\
   \ to NJN.</li>\n</ul>\n    "
 trade_num: 11
+trade_overall_grade_bpm: null
+trade_overall_grade_vorp: null
 trade_overall_percentile_bpm: null
 trade_overall_percentile_vorp: null
 trade_rating_bpm: null

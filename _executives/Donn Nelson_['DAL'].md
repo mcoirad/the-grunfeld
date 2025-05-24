@@ -1,24 +1,28 @@
 ---
 bpm_rank: 17
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Dennis Smith Jr. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -9\" data-vorp-text=\"-9.4\">-9.4</span> with 9th pick but was worth 40th pick.</li>\n\
-  <li>Drafted Josh Green <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -3\" data-vorp-text=\"-3.5\">-3.5</span> with 18th pick but was worth 58th pick.</li>\n\
-  <li>Drafted Maurice Ager <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.9\">-0.9</span> with 28th pick but was worth 52th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Dennis Smith Jr. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -25579\" data-vorp-text=\"-25579.4\">-25579</span> with 9th pick but was worth 54th\
-  \ pick.</li>\n<li>Drafted Josh Green <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-18186\" data-vorp-text=\"-18186.4\">-18186</span> with 18th pick\
-  \ but was worth 58th pick.</li>\n<li>Drafted Maurice Ager <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-3302\" data-vorp-text=\"-3302.0\">-3302</span>\
-  \ with 28th pick but was worth 36th pick.</li>\n</ul>\n    "
+  <li>Drafted Dennis Smith Jr. with 9th pick but was worth 40th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-9\" data-vorp-text=\"-9.4\">-9.4</span>\
+  \ (expectation difference)</li>\n<li>Drafted Josh Green with 18th pick but was worth\
+  \ 58th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-3\"\
+  \ data-vorp-text=\"-3.5\">-3.5</span> (expectation difference)</li>\n<li>Drafted\
+  \ Maurice Ager with 28th pick but was worth 52th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.9\">-0.9</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Dennis Smith Jr. with 9th pick but was worth 54th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-25579\" data-vorp-text=\"\
+  -25579.4\">-25579</span> (expectation difference)</li>\n<li>Drafted Josh Green with\
+  \ 18th pick but was worth 58th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-18186\" data-vorp-text=\"-18186.4\">-18186</span> (expectation\
+  \ difference)</li>\n<li>Drafted Maurice Ager with 28th pick but was worth 36th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-3302\" data-vorp-text=\"\
+  -3302.0\">-3302</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Donn Nelson ranks in the 35th percentile for drafting among executives
   in our database. Nelson's draft picks average out to be worth the equivalent of
   7 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 8
+draft_overall_grade_bpm: C+
+draft_overall_grade_vorp: D+
 draft_overall_percentile_vorp: 39
 draft_rating_bpm: -4
 draft_rating_grade_bpm: B-
@@ -34,9 +38,9 @@ draft_total_percentile_vorp: 42
 draft_total_vorp: 3
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
   </ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted\
-  \ A.J. Hammons <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+7837\"\
-  \ data-vorp-text=\"+7837.0\">+7837</span> with 46th pick but was worth 28th pick.\
-  \ </li>\n</ul>\n    "
+  \ A.J. Hammons with 46th pick but was worth 28th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+7837\" data-vorp-text=\"+7837.0\">+7837</span>\
+  \ (expectation difference)</li>\n</ul>\n    "
 end_year: 2021
 final_bpm: 133941
 final_vorp: 102
@@ -59,6 +63,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-7111\" data-vorp-text=\"\
   -7111.5\">-7111</span> in 2006.</li>\n</ul>\n    "
 signing_num_players: 178
+signing_overall_grade_bpm: B+
+signing_overall_grade_vorp: A
 signing_overall_percentile_bpm: 79
 signing_overall_percentile_vorp: 91
 signing_rating_bpm: 0
@@ -109,6 +115,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+10109\" data-vorp-text=\"\
   +1.0\">+10109</span> to ATL.</li>\n</ul>\n    "
 trade_num: 194
+trade_overall_grade_bpm: A
+trade_overall_grade_vorp: C+
 trade_overall_percentile_bpm: 88
 trade_overall_percentile_vorp: 57
 trade_rating_bpm: 0

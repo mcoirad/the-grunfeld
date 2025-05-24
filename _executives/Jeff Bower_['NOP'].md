@@ -4,6 +4,8 @@ draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
   a draft grade.
 draft_num_players: 0
+draft_overall_grade_bpm: null
+draft_overall_grade_vorp: null
 draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
@@ -33,6 +35,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   badge badge-pill badge-danger\" data-bpm-text=\"-278\" data-vorp-text=\"-278.1\"\
   >-278</span> in 2007.</li>\n</ul>\n    "
 signing_num_players: 14
+signing_overall_grade_bpm: A-
+signing_overall_grade_vorp: D
 signing_overall_percentile_bpm: 85
 signing_overall_percentile_vorp: 31
 signing_rating_bpm: 0
@@ -75,6 +79,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ Leunen <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"\
   +0.0\">+0</span> to HOU.</li>\n</ul>\n    "
 trade_num: 51
+trade_overall_grade_bpm: A-
+trade_overall_grade_vorp: B+
 trade_overall_percentile_bpm: 83
 trade_overall_percentile_vorp: 78
 trade_rating_bpm: 0

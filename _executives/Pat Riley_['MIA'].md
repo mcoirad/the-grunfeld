@@ -1,24 +1,28 @@
 ---
 bpm_rank: 12
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Justise Winslow <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -9\" data-vorp-text=\"-9.6\">-9.6</span> with 10th pick but was worth 50th pick.</li>\n\
-  <li>Drafted Precious Achiuwa <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.9\">-0.9</span> with 20th pick but was worth 45th pick.</li>\n\
-  <li>Drafted Dexter Pittman <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.5\">-0.5</span> with 32th pick but was worth 54th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Justise Winslow <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -22826\" data-vorp-text=\"-22826.2\">-22826</span> with 10th pick but was worth\
-  \ 56th pick.</li>\n<li>Drafted Precious Achiuwa <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-14039\" data-vorp-text=\"-14039.5\">-14039</span> with 20th pick\
-  \ but was worth 54th pick.</li>\n<li>Drafted Josh Richardson <span class=\"badge\
-  \ badge-pill badge-danger\" data-bpm-text=\"-5451\" data-vorp-text=\"-5451.7\">-5451</span>\
-  \ with 40th pick but was worth 51th pick.</li>\n</ul>\n    "
+  <li>Drafted Justise Winslow with 10th pick but was worth 50th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-9\" data-vorp-text=\"-9.6\">-9.6</span>\
+  \ (expectation difference)</li>\n<li>Drafted Precious Achiuwa with 20th pick but\
+  \ was worth 45th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  0\" data-vorp-text=\"-0.9\">-0.9</span> (expectation difference)</li>\n<li>Drafted\
+  \ Dexter Pittman with 32th pick but was worth 54th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.5\">-0.5</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Justise Winslow with 10th pick but was worth 56th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-22826\" data-vorp-text=\"\
+  -22826.2\">-22826</span> (expectation difference)</li>\n<li>Drafted Precious Achiuwa\
+  \ with 20th pick but was worth 54th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-14039\" data-vorp-text=\"-14039.5\">-14039</span> (expectation\
+  \ difference)</li>\n<li>Drafted Josh Richardson with 40th pick but was worth 51th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-5451\" data-vorp-text=\"\
+  -5451.7\">-5451</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Pat Riley ranks in the 68th percentile for drafting among executives
   in our database. Riley's draft picks average out to be worth the equivalent of 1
   spot higher than they were picked due to his good drafting.
 draft_num_players: 11
+draft_overall_grade_bpm: B-
+draft_overall_grade_vorp: B
 draft_overall_percentile_vorp: 72
 draft_rating_bpm: -8
 draft_rating_grade_bpm: C
@@ -33,18 +37,20 @@ draft_total_percentile_bpm: 75
 draft_total_percentile_vorp: 75
 draft_total_vorp: 34
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Bam Adebayo <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +14\" data-vorp-text=\"+14.5\">+14.5</span> with 14th pick but was worth 3th pick.\
-  \ </li>\n<li>Drafted Josh Richardson <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+5\" data-vorp-text=\"+5.5\">+5.5</span> with 40th pick but was\
-  \ worth 14th pick. </li>\n<li>Drafted Tyler Herro <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+5\" data-vorp-text=\"+5.5\">+5.5</span> with\
-  \ 13th pick but was worth 4th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Bam Adebayo <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+40414\" data-vorp-text=\"+40414.2\"\
-  >+40414</span> with 14th pick but was worth 3th pick. </li>\n<li>Drafted Tyler Herro\
-  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+8234\" data-vorp-text=\"\
-  +8234.1\">+8234</span> with 13th pick but was worth 7th pick. </li>\n</ul>\n    "
+  <li>Drafted Bam Adebayo with 14th pick but was worth 3th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+14\" data-vorp-text=\"+14.5\">+14.5</span>\
+  \ (expectation difference)</li>\n<li>Drafted Josh Richardson with 40th pick but\
+  \ was worth 14th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +5\" data-vorp-text=\"+5.5\">+5.5</span> (expectation difference)</li>\n<li>Drafted\
+  \ Tyler Herro with 13th pick but was worth 4th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+5\" data-vorp-text=\"+5.5\">+5.5</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Bam Adebayo with 14th pick but was worth 3th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+40414\" data-vorp-text=\"\
+  +40414.2\">+40414</span> (expectation difference)</li>\n<li>Drafted Tyler Herro\
+  \ with 13th pick but was worth 7th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+8234\" data-vorp-text=\"+8234.1\">+8234</span> (expectation difference)</li>\n\
+  </ul>\n    "
 end_year: 2026
 final_bpm: 187559
 final_vorp: 168
@@ -67,6 +73,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   badge badge-pill badge-danger\" data-bpm-text=\"-7719\" data-vorp-text=\"-7719.0\"\
   >-7719</span> in 2016.</li>\n</ul>\n    "
 signing_num_players: 221
+signing_overall_grade_bpm: B-
+signing_overall_grade_vorp: A
 signing_overall_percentile_bpm: 62
 signing_overall_percentile_vorp: 89
 signing_rating_bpm: 0
@@ -114,6 +122,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"\
   +0.0\">+0</span> to MIN.</li>\n</ul>\n    "
 trade_num: 128
+trade_overall_grade_bpm: B
+trade_overall_grade_vorp: A-
 trade_overall_percentile_bpm: 68
 trade_overall_percentile_vorp: 82
 trade_rating_bpm: 0

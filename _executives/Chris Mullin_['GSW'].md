@@ -1,24 +1,28 @@
 ---
 bpm_rank: 94
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Ike Diogu <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -13\" data-vorp-text=\"-13.0\">-13.0</span> with 9th pick but was worth 54th pick.</li>\n\
-  <li>Drafted Anthony Randolph <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -7\" data-vorp-text=\"-7.2\">-7.2</span> with 14th pick but was worth 27th pick.</li>\n\
-  <li>Drafted Andris Biedriņš <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -5\" data-vorp-text=\"-5.8\">-5.8</span> with 11th pick but was worth 19th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Marco Belinelli <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -25412\" data-vorp-text=\"-25412.4\">-25412</span> with 18th pick but was worth\
-  \ 51th pick.</li>\n<li>Drafted Ike Diogu <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-15324\" data-vorp-text=\"-15324.0\">-15324</span> with 9th pick\
-  \ but was worth 43th pick.</li>\n<li>Drafted Andris Biedriņš <span class=\"badge\
-  \ badge-pill badge-danger\" data-bpm-text=\"-12804\" data-vorp-text=\"-12804.0\"\
-  >-12804</span> with 11th pick but was worth 43th pick.</li>\n</ul>\n    "
+  <li>Drafted Ike Diogu with 9th pick but was worth 54th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-13\" data-vorp-text=\"-13.0\">-13.0</span>\
+  \ (expectation difference)</li>\n<li>Drafted Anthony Randolph with 14th pick but\
+  \ was worth 27th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -7\" data-vorp-text=\"-7.2\">-7.2</span> (expectation difference)</li>\n<li>Drafted\
+  \ Andris Biedriņš with 11th pick but was worth 19th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-5\" data-vorp-text=\"-5.8\">-5.8</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Marco Belinelli with 18th pick but was worth 51th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-25412\" data-vorp-text=\"\
+  -25412.4\">-25412</span> (expectation difference)</li>\n<li>Drafted Ike Diogu with\
+  \ 9th pick but was worth 43th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-15324\" data-vorp-text=\"-15324.0\">-15324</span> (expectation\
+  \ difference)</li>\n<li>Drafted Andris Biedriņš with 11th pick but was worth 43th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-12804\" data-vorp-text=\"\
+  -12804.0\">-12804</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Chris Mullin ranks in the 33th percentile for drafting among executives
   in our database. Mullin's draft picks average out to be worth the equivalent of
   8 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 9
+draft_overall_grade_bpm: C-
+draft_overall_grade_vorp: C-
 draft_overall_percentile_vorp: 44
 draft_rating_bpm: -13
 draft_rating_grade_bpm: D+
@@ -33,10 +37,10 @@ draft_total_percentile_bpm: 54
 draft_total_percentile_vorp: 54
 draft_total_vorp: 11
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Monta Ellis <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +12\" data-vorp-text=\"+12.4\">+12.4</span> with 40th pick but was worth 8th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  </ul>\n    "
+  <li>Drafted Monta Ellis with 40th pick but was worth 8th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+12\" data-vorp-text=\"+12.4\">+12.4</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ wins: </h5><ul id=bpm-toggle>\n</ul>\n    "
 end_year: 2009
 final_bpm: -24048
 final_vorp: 12
@@ -59,6 +63,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-2551\" data-vorp-text=\"-2551.7\">-2551</span>\
   \ in 2008.</li>\n</ul>\n    "
 signing_num_players: 24
+signing_overall_grade_bpm: C-
+signing_overall_grade_vorp: B-
 signing_overall_percentile_bpm: 47
 signing_overall_percentile_vorp: 66
 signing_rating_bpm: 0
@@ -124,6 +130,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ badge-danger\" data-bpm-text=\"-17385\" data-vorp-text=\"-8.5\">-17385</span>\
   \ to IND.</li>\n</ul>\n    "
 trade_num: 46
+trade_overall_grade_bpm: C-
+trade_overall_grade_vorp: F
 trade_overall_percentile_bpm: 44
 trade_overall_percentile_vorp: 19
 trade_rating_bpm: 0

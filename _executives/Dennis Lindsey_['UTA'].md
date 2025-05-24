@@ -1,20 +1,24 @@
 ---
 bpm_rank: 14
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Dante Exum <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -15\" data-vorp-text=\"-15.7\">-15.7</span> with 5th pick but was worth 56th pick.</li>\n\
-  <li>Drafted Trey Lyles <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -3\" data-vorp-text=\"-3.2\">-3.2</span> with 12th pick but was worth 19th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Dante Exum <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -39552\" data-vorp-text=\"-39552.0\">-39552</span> with 5th pick but was worth 55th\
-  \ pick.</li>\n<li>Drafted Trey Lyles <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-12906\" data-vorp-text=\"-12906.0\">-12906</span> with 12th pick\
-  \ but was worth 53th pick.</li>\n</ul>\n    "
+  <li>Drafted Dante Exum with 5th pick but was worth 56th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-15\" data-vorp-text=\"-15.7\">-15.7</span>\
+  \ (expectation difference)</li>\n<li>Drafted Trey Lyles with 12th pick but was worth\
+  \ 19th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-3\"\
+  \ data-vorp-text=\"-3.2\">-3.2</span> (expectation difference)</li>\n</ul>\n   \
+  \ <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n<li>Drafted\
+  \ Dante Exum with 5th pick but was worth 55th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-39552\" data-vorp-text=\"-39552.0\">-39552</span>\
+  \ (expectation difference)</li>\n<li>Drafted Trey Lyles with 12th pick but was worth\
+  \ 53th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-12906\"\
+  \ data-vorp-text=\"-12906.0\">-12906</span> (expectation difference)</li>\n</ul>\n\
+  \    "
 draft_description: Dennis Lindsey ranks in the 55th percentile for drafting among
   executives in our database. Lindsey's draft picks average out to be worth the equivalent
   of 1 spot lower than they were picked due to their terrible drafting.
 draft_num_players: 10
+draft_overall_grade_bpm: C+
+draft_overall_grade_vorp: C-
 draft_overall_percentile_vorp: 47
 draft_rating_bpm: -3
 draft_rating_grade_bpm: B
@@ -29,12 +33,13 @@ draft_total_percentile_bpm: 37
 draft_total_percentile_vorp: 37
 draft_total_vorp: 1
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Grayson Allen <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +2\" data-vorp-text=\"+2.5\">+2.5</span> with 21th pick but was worth 14th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Grayson Allen <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +102\" data-vorp-text=\"+102.4\">+102</span> with 21th pick but was worth 18th pick.\
-  \ </li>\n</ul>\n    "
+  <li>Drafted Grayson Allen with 21th pick but was worth 14th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+2\" data-vorp-text=\"+2.5\">+2.5</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ wins: </h5><ul id=bpm-toggle>\n<li>Drafted Grayson Allen with 21th pick but was\
+  \ worth 18th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +102\" data-vorp-text=\"+102.4\">+102</span> (expectation difference)</li>\n</ul>\n\
+  \    "
 end_year: 2021
 final_bpm: 166769
 final_vorp: 89
@@ -57,6 +62,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-danger\" data-bpm-text=\"-3729\" data-vorp-text=\"-3729.8\">-3729</span>\
   \ in 2015.</li>\n</ul>\n    "
 signing_num_players: 108
+signing_overall_grade_bpm: A
+signing_overall_grade_vorp: A
 signing_overall_percentile_bpm: 92
 signing_overall_percentile_vorp: 91
 signing_rating_bpm: 0
@@ -112,6 +119,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ Novak <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+508\" data-vorp-text=\"\
   +0.1\">+508</span> to OKC.</li>\n</ul>\n    "
 trade_num: 97
+trade_overall_grade_bpm: B+
+trade_overall_grade_vorp: B+
 trade_overall_percentile_bpm: 78
 trade_overall_percentile_vorp: 75
 trade_rating_bpm: 0

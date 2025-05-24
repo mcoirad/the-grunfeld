@@ -1,24 +1,28 @@
 ---
 bpm_rank: 41
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Raef LaFrentz <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -48\" data-vorp-text=\"-48.1\">-48.1</span> with 3th pick but was worth 11th pick.</li>\n\
-  <li>Drafted Francisco Elson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -1\" data-vorp-text=\"-1.2\">-1.2</span> with 41th pick but was worth 54th pick.</li>\n\
-  <li>Drafted Chris Herren <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.6\">-0.6</span> with 33th pick but was worth 50th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Raef LaFrentz <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -128919\" data-vorp-text=\"-128919.5\">-128919</span> with 3th pick but was worth\
-  \ 8th pick.</li>\n<li>Drafted Francisco Elson <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-13547\" data-vorp-text=\"-13547.1\">-13547</span> with 41th pick\
-  \ but was worth 55th pick.</li>\n<li>Drafted Chris Herren <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-2759\" data-vorp-text=\"-2759.3\">-2759</span>\
-  \ with 33th pick but was worth 40th pick.</li>\n</ul>\n    "
+  <li>Drafted Raef LaFrentz with 3th pick but was worth 11th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-48\" data-vorp-text=\"-48.1\">-48.1</span>\
+  \ (expectation difference)</li>\n<li>Drafted Francisco Elson with 41th pick but\
+  \ was worth 54th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -1\" data-vorp-text=\"-1.2\">-1.2</span> (expectation difference)</li>\n<li>Drafted\
+  \ Chris Herren with 33th pick but was worth 50th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.6\">-0.6</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Raef LaFrentz with 3th pick but was worth 8th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-128919\" data-vorp-text=\"\
+  -128919.5\">-128919</span> (expectation difference)</li>\n<li>Drafted Francisco\
+  \ Elson with 41th pick but was worth 55th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-13547\" data-vorp-text=\"-13547.1\">-13547</span> (expectation\
+  \ difference)</li>\n<li>Drafted Chris Herren with 33th pick but was worth 40th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-2759\" data-vorp-text=\"\
+  -2759.3\">-2759</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Dan Issel ranks in the 86th percentile for drafting among executives
   in our database. Issel's draft picks average out to be worth the equivalent of 4
   spots higher than they were picked due to his good drafting.
 draft_num_players: 6
+draft_overall_grade_bpm: B+
+draft_overall_grade_vorp: B
 draft_overall_percentile_vorp: 70
 draft_rating_bpm: 6
 draft_rating_grade_bpm: A+
@@ -33,12 +37,13 @@ draft_total_percentile_bpm: 53
 draft_total_percentile_vorp: 53
 draft_total_vorp: 10
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted James Posey <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +11\" data-vorp-text=\"+11.6\">+11.6</span> with 18th pick but was worth 11th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted James Posey <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +6978\" data-vorp-text=\"+6978.0\">+6978</span> with 18th pick but was worth 13th\
-  \ pick. </li>\n</ul>\n    "
+  <li>Drafted James Posey with 18th pick but was worth 11th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+11\" data-vorp-text=\"+11.6\">+11.6</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ wins: </h5><ul id=bpm-toggle>\n<li>Drafted James Posey with 18th pick but was\
+  \ worth 13th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +6978\" data-vorp-text=\"+6978.0\">+6978</span> (expectation difference)</li>\n\
+  </ul>\n    "
 end_year: 2001
 final_bpm: 33489
 final_vorp: 30
@@ -61,6 +66,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-1431\" data-vorp-text=\"-1431.0\">-1431</span>\
   \ in 1999.</li>\n</ul>\n    "
 signing_num_players: 13
+signing_overall_grade_bpm: D+
+signing_overall_grade_vorp: D+
 signing_overall_percentile_bpm: 38
 signing_overall_percentile_vorp: 33
 signing_rating_bpm: -1
@@ -116,6 +123,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+2754\" data-vorp-text=\"\
   -0.6\">+2754</span> to BOS.</li>\n</ul>\n    "
 trade_num: 44
+trade_overall_grade_bpm: B
+trade_overall_grade_vorp: C
 trade_overall_percentile_bpm: 72
 trade_overall_percentile_vorp: 48
 trade_rating_bpm: 0

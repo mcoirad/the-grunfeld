@@ -4,6 +4,8 @@ draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
   a draft grade.
 draft_num_players: 0
+draft_overall_grade_bpm: null
+draft_overall_grade_vorp: null
 draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
@@ -28,6 +30,8 @@ signing_description: This executive hasn't signed any players, and thus doesn't 
   a signing grade.
 signing_lose_list: "\n    \n    \n    "
 signing_num_players: 0
+signing_overall_grade_bpm: null
+signing_overall_grade_vorp: null
 signing_overall_percentile_bpm: null
 signing_overall_percentile_vorp: null
 signing_rating_bpm: null
@@ -62,6 +66,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ data-bpm-text=\"+6864\" data-vorp-text=\"-1.1\">-1.1</span> to LAC.</li>\n</ul>\n\
   \    \n    "
 trade_num: 5
+trade_overall_grade_bpm: null
+trade_overall_grade_vorp: null
 trade_overall_percentile_bpm: null
 trade_overall_percentile_vorp: null
 trade_rating_bpm: null

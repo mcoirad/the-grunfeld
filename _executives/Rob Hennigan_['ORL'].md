@@ -1,20 +1,24 @@
 ---
 bpm_rank: 142
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Mario Hezonja <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -13\" data-vorp-text=\"-13.6\">-13.6</span> with 5th pick but was worth 56th pick.</li>\n\
-  <li>Drafted Andrew Nicholson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -2\" data-vorp-text=\"-2.6\">-2.6</span> with 19th pick but was worth 58th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Mario Hezonja <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -38332\" data-vorp-text=\"-38332.1\">-38332</span> with 5th pick but was worth 55th\
-  \ pick.</li>\n<li>Drafted Andrew Nicholson <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-13814\" data-vorp-text=\"-13814.4\">-13814</span> with 19th pick\
-  \ but was worth 52th pick.</li>\n</ul>\n    "
+  <li>Drafted Mario Hezonja with 5th pick but was worth 56th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-13\" data-vorp-text=\"-13.6\">-13.6</span>\
+  \ (expectation difference)</li>\n<li>Drafted Andrew Nicholson with 19th pick but\
+  \ was worth 58th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -2\" data-vorp-text=\"-2.6\">-2.6</span> (expectation difference)</li>\n</ul>\n\
+  \    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n<li>Drafted\
+  \ Mario Hezonja with 5th pick but was worth 55th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-38332\" data-vorp-text=\"-38332.1\">-38332</span>\
+  \ (expectation difference)</li>\n<li>Drafted Andrew Nicholson with 19th pick but\
+  \ was worth 52th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -13814\" data-vorp-text=\"-13814.4\">-13814</span> (expectation difference)</li>\n\
+  </ul>\n    "
 draft_description: Rob Hennigan ranks in the 22th percentile for drafting among executives
   in our database. Hennigan's draft picks average out to be worth the equivalent of
   10 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 6
+draft_overall_grade_bpm: C+
+draft_overall_grade_vorp: D+
 draft_overall_percentile_vorp: 37
 draft_rating_bpm: -6
 draft_rating_grade_bpm: B-
@@ -29,12 +33,13 @@ draft_total_percentile_bpm: 51
 draft_total_percentile_vorp: 51
 draft_total_vorp: 9
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Kyle O'Quinn <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +5\" data-vorp-text=\"+5.6\">+5.6</span> with 49th pick but was worth 11th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Kyle O'Quinn <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +17257\" data-vorp-text=\"+17257.8\">+17257</span> with 49th pick but was worth\
-  \ 8th pick. </li>\n</ul>\n    "
+  <li>Drafted Kyle O'Quinn with 49th pick but was worth 11th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+5\" data-vorp-text=\"+5.6\">+5.6</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ wins: </h5><ul id=bpm-toggle>\n<li>Drafted Kyle O'Quinn with 49th pick but was\
+  \ worth 8th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +17257\" data-vorp-text=\"+17257.8\">+17257</span> (expectation difference)</li>\n\
+  </ul>\n    "
 end_year: 2017
 final_bpm: -105165
 final_vorp: 12
@@ -57,6 +62,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-6278\" data-vorp-text=\"-6278.2\">-6278</span>\
   \ in 2012.</li>\n</ul>\n    "
 signing_num_players: 42
+signing_overall_grade_bpm: D-
+signing_overall_grade_vorp: D
 signing_overall_percentile_bpm: 22
 signing_overall_percentile_vorp: 30
 signing_rating_bpm: -1
@@ -103,6 +110,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+726\" data-vorp-text=\"\
   -3.1\">+726</span> to TOR.</li>\n</ul>\n    "
 trade_num: 62
+trade_overall_grade_bpm: D-
+trade_overall_grade_vorp: D+
 trade_overall_percentile_bpm: 20
 trade_overall_percentile_vorp: 35
 trade_rating_bpm: 0

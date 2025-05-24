@@ -1,24 +1,29 @@
 ---
 bpm_rank: 121
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Evan Turner <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -23\" data-vorp-text=\"-23.6\">-23.6</span> with 2th pick but was worth 23th pick.</li>\n\
-  <li>Drafted Antoine Wright <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -10\" data-vorp-text=\"-10.4\">-10.4</span> with 15th pick but was worth 58th pick.</li>\n\
-  <li>Drafted Marreese Speights <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -6\" data-vorp-text=\"-6.5\">-6.5</span> with 16th pick but was worth 54th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Evan Turner <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -85675\" data-vorp-text=\"-85675.8\">-85675</span> with 2th pick but was worth 59th\
-  \ pick.</li>\n<li>Drafted Marreese Speights <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-23408\" data-vorp-text=\"-23408.0\">-23408</span> with 16th pick\
-  \ but was worth 57th pick.</li>\n<li>Drafted Antoine Wright <span class=\"badge\
-  \ badge-pill badge-danger\" data-bpm-text=\"-21141\" data-vorp-text=\"-21141.8\"\
-  >-21141</span> with 15th pick but was worth 55th pick.</li>\n</ul>\n    "
+  <li>Drafted Evan Turner with 2th pick but was worth 23th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-23\" data-vorp-text=\"-23.6\">-23.6</span>\
+  \ (expectation difference)</li>\n<li>Drafted Antoine Wright with 15th pick but was\
+  \ worth 58th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -10\" data-vorp-text=\"-10.4\">-10.4</span> (expectation difference)</li>\n<li>Drafted\
+  \ Marreese Speights with 16th pick but was worth 54th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-6\" data-vorp-text=\"-6.5\">-6.5</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ busts: </h5><ul id=bpm-toggle>\n<li>Drafted Evan Turner with 2th pick but was\
+  \ worth 59th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -85675\" data-vorp-text=\"-85675.8\">-85675</span> (expectation difference)</li>\n\
+  <li>Drafted Marreese Speights with 16th pick but was worth 57th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-23408\" data-vorp-text=\"-23408.0\"\
+  >-23408</span> (expectation difference)</li>\n<li>Drafted Antoine Wright with 15th\
+  \ pick but was worth 55th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -21141\" data-vorp-text=\"-21141.8\">-21141</span> (expectation difference)</li>\n\
+  </ul>\n    "
 draft_description: Ed Stefanski ranks in the 9th percentile for drafting among executives
   in our database. Stefanski's draft picks average out to be worth the equivalent
   of 15 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 11
+draft_overall_grade_bpm: F
+draft_overall_grade_vorp: F
 draft_overall_percentile_vorp: 13
 draft_rating_bpm: -18
 draft_rating_grade_bpm: F
@@ -33,14 +38,15 @@ draft_total_percentile_bpm: 16
 draft_total_percentile_vorp: 16
 draft_total_vorp: 0
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Jrue Holiday <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +24\" data-vorp-text=\"+24.6\">+24.6</span> with 17th pick but was worth 4th pick.\
-  \ </li>\n<li>Drafted Bruce Brown <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+1\" data-vorp-text=\"+1.6\">+1.6</span> with 42th pick but was\
-  \ worth 24th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
-  \ id=bpm-toggle>\n<li>Drafted Jrue Holiday <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+54656\" data-vorp-text=\"+54656.0\">+54656</span> with 17th pick\
-  \ but was worth 4th pick. </li>\n</ul>\n    "
+  <li>Drafted Jrue Holiday with 17th pick but was worth 4th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+24\" data-vorp-text=\"+24.6\">+24.6</span>\
+  \ (expectation difference)</li>\n<li>Drafted Bruce Brown with 42th pick but was\
+  \ worth 24th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +1\" data-vorp-text=\"+1.6\">+1.6</span> (expectation difference)</li>\n</ul>\n\
+  \    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted\
+  \ Jrue Holiday with 17th pick but was worth 4th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+54656\" data-vorp-text=\"+54656.0\">+54656</span>\
+  \ (expectation difference)</li>\n</ul>\n    "
 end_year: 2020
 final_bpm: -57455
 final_vorp: 25
@@ -63,6 +69,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ Ivey <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-3777\" data-vorp-text=\"\
   -3777.8\">-3777</span> in 2008.</li>\n</ul>\n    "
 signing_num_players: 66
+signing_overall_grade_bpm: D
+signing_overall_grade_vorp: D-
 signing_overall_percentile_bpm: 32
 signing_overall_percentile_vorp: 25
 signing_rating_bpm: 0
@@ -119,6 +127,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to GSW.</li>\n</ul>\n \
   \   "
 trade_num: 66
+trade_overall_grade_bpm: C
+trade_overall_grade_vorp: C+
 trade_overall_percentile_bpm: 52
 trade_overall_percentile_vorp: 56
 trade_rating_bpm: 0

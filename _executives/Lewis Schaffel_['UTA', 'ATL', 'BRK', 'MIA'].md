@@ -1,24 +1,28 @@
 ---
 bpm_rank: 146
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Rony Seikaly <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -10\" data-vorp-text=\"-10.6\">-10.6</span> with 9th pick but was worth 25th pick.</li>\n\
-  <li>Drafted Harold Miner <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -9\" data-vorp-text=\"-9.1\">-9.1</span> with 12th pick but was worth 48th pick.</li>\n\
-  <li>Drafted Jeff Turner <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -8\" data-vorp-text=\"-8.4\">-8.4</span> with 17th pick but was worth 61th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Rony Seikaly <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -53616\" data-vorp-text=\"-53616.1\">-53616</span> with 9th pick but was worth 61th\
-  \ pick.</li>\n<li>Drafted Jeff Turner <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-50598\" data-vorp-text=\"-50598.0\">-50598</span> with 17th pick\
-  \ but was worth 61th pick.</li>\n<li>Drafted Glen Rice <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-19363\" data-vorp-text=\"-19363.8\">-19363</span>\
-  \ with 4th pick but was worth 6th pick.</li>\n</ul>\n    "
+  <li>Drafted Rony Seikaly with 9th pick but was worth 25th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-10\" data-vorp-text=\"-10.6\">-10.6</span>\
+  \ (expectation difference)</li>\n<li>Drafted Harold Miner with 12th pick but was\
+  \ worth 48th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -9\" data-vorp-text=\"-9.1\">-9.1</span> (expectation difference)</li>\n<li>Drafted\
+  \ Jeff Turner with 17th pick but was worth 61th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-8\" data-vorp-text=\"-8.4\">-8.4</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Rony Seikaly with 9th pick but was worth 61th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-53616\" data-vorp-text=\"\
+  -53616.1\">-53616</span> (expectation difference)</li>\n<li>Drafted Jeff Turner\
+  \ with 17th pick but was worth 61th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-50598\" data-vorp-text=\"-50598.0\">-50598</span> (expectation\
+  \ difference)</li>\n<li>Drafted Glen Rice with 4th pick but was worth 6th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-19363\" data-vorp-text=\"\
+  -19363.8\">-19363</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Lewis Schaffel ranks in the 90th percentile for drafting among
   executives in our database. Schaffel's draft picks average out to be worth the equivalent
   of 7 spots higher than they were picked due to his good drafting.
 draft_num_players: 19
+draft_overall_grade_bpm: B
+draft_overall_grade_vorp: A-
 draft_overall_percentile_vorp: 80
 draft_rating_bpm: -2
 draft_rating_grade_bpm: B+
@@ -33,21 +37,23 @@ draft_total_percentile_bpm: 70
 draft_total_percentile_vorp: 70
 draft_total_vorp: 30
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Grant Long <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +10\" data-vorp-text=\"+10.2\">+10.2</span> with 33th pick but was worth 11th pick.\
-  \ </li>\n<li>Drafted Sherman Douglas <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+9\" data-vorp-text=\"+9.2\">+9.2</span> with 28th pick but was\
-  \ worth 11th pick. </li>\n<li>Drafted Steve Smith <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+2\" data-vorp-text=\"+2.7\">+2.7</span> with\
-  \ 5th pick but was worth 3th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Rickey Williams <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+10049\" data-vorp-text=\"+10049.0\"\
-  >+10049</span> with 190th pick but was worth 61th pick. </li>\n<li>Drafted Scott\
-  \ Haffner <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+7494\"\
-  \ data-vorp-text=\"+7494.1\">+7494</span> with 45th pick but was worth 32th pick.\
-  \ </li>\n<li>Drafted Steve Smith <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+4438\" data-vorp-text=\"+4438.0\">+4438</span> with 5th pick\
-  \ but was worth 3th pick. </li>\n</ul>\n    "
+  <li>Drafted Grant Long with 33th pick but was worth 11th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+10\" data-vorp-text=\"+10.2\">+10.2</span>\
+  \ (expectation difference)</li>\n<li>Drafted Sherman Douglas with 28th pick but\
+  \ was worth 11th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +9\" data-vorp-text=\"+9.2\">+9.2</span> (expectation difference)</li>\n<li>Drafted\
+  \ Steve Smith with 5th pick but was worth 3th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+2\" data-vorp-text=\"+2.7\">+2.7</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Rickey Williams with 190th pick but was worth 61th\
+  \ pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+10049\"\
+  \ data-vorp-text=\"+10049.0\">+10049</span> (expectation difference)</li>\n<li>Drafted\
+  \ Scott Haffner with 45th pick but was worth 32th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+7494\" data-vorp-text=\"+7494.1\">+7494</span>\
+  \ (expectation difference)</li>\n<li>Drafted Steve Smith with 5th pick but was worth\
+  \ 3th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+4438\"\
+  \ data-vorp-text=\"+4438.0\">+4438</span> (expectation difference)</li>\n</ul>\n\
+  \    "
 end_year: 1995
 final_bpm: -125108
 final_vorp: 2
@@ -70,6 +76,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-6887\" data-vorp-text=\"-6887.0\">-6887</span>\
   \ in 1988.</li>\n</ul>\n    "
 signing_num_players: 51
+signing_overall_grade_bpm: D-
+signing_overall_grade_vorp: F
 signing_overall_percentile_bpm: 26
 signing_overall_percentile_vorp: 17
 signing_rating_bpm: -1
@@ -131,6 +139,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ Joe Vogel <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+0\"\
   \ data-vorp-text=\"+0.0\">+0</span> to ATL.</li>\n</ul>\n    "
 trade_num: 63
+trade_overall_grade_bpm: C-
+trade_overall_grade_vorp: F
 trade_overall_percentile_bpm: 41
 trade_overall_percentile_vorp: 14
 trade_rating_bpm: 0

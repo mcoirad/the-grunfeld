@@ -1,15 +1,18 @@
 ---
 bpm_rank: 49
 draft_bust_list: "\n    \n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
-  \ id=bpm-toggle>\n<li>Drafted Jaylen Wells <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-2051\" data-vorp-text=\"-2051.2\">-2051</span> with 39th pick\
-  \ but was worth 47th pick.</li>\n<li>Drafted Jaylen Wells <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-2051\" data-vorp-text=\"-2051.2\">-2051</span>\
-  \ with 39th pick but was worth 47th pick.</li>\n</ul>\n    "
+  \ id=bpm-toggle>\n<li>Drafted Jaylen Wells with 39th pick but was worth 47th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-2051\" data-vorp-text=\"\
+  -2051.2\">-2051</span> (expectation difference)</li>\n<li>Drafted Jaylen Wells with\
+  \ 39th pick but was worth 47th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-2051\" data-vorp-text=\"-2051.2\">-2051</span> (expectation difference)</li>\n\
+  </ul>\n    "
 draft_description: Zach Kleiman ranks in the 98th percentile for drafting among executives
   in our database. Kleiman's draft picks average out to be worth the equivalent of
   9 spots higher than they were picked due to his good drafting.
 draft_num_players: 5
+draft_overall_grade_bpm: B
+draft_overall_grade_vorp: B+
 draft_overall_percentile_vorp: 78
 draft_rating_bpm: 0
 draft_rating_grade_bpm: A-
@@ -24,19 +27,20 @@ draft_total_percentile_bpm: 57
 draft_total_percentile_vorp: 57
 draft_total_vorp: 13
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Vince Williams Jr. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +1\" data-vorp-text=\"+1.0\">+1.0</span> with 47th pick but was worth 17th pick.\
-  \ </li>\n<li>Drafted Gregory Jackson II <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+0\" data-vorp-text=\"+0.2\">+0.2</span> with 45th pick but was\
-  \ worth 42th pick. </li>\n<li>Drafted Jaylen Wells <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.1\">+0.1</span> with\
-  \ 39th pick but was worth 32th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Vince Williams Jr. <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+6860\" data-vorp-text=\"+6860.4\"\
-  >+6860</span> with 47th pick but was worth 33th pick. </li>\n<li>Drafted Gregory\
-  \ Jackson II <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+525\"\
-  \ data-vorp-text=\"+525.2\">+525</span> with 45th pick but was worth 41th pick.\
-  \ </li>\n</ul>\n    "
+  <li>Drafted Vince Williams Jr. with 47th pick but was worth 17th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+1\" data-vorp-text=\"+1.0\">+1.0</span>\
+  \ (expectation difference)</li>\n<li>Drafted Gregory Jackson II with 45th pick but\
+  \ was worth 42th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +0\" data-vorp-text=\"+0.2\">+0.2</span> (expectation difference)</li>\n<li>Drafted\
+  \ Jaylen Wells with 39th pick but was worth 32th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.1\">+0.1</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Vince Williams Jr. with 47th pick but was worth 33th\
+  \ pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+6860\" data-vorp-text=\"\
+  +6860.4\">+6860</span> (expectation difference)</li>\n<li>Drafted Gregory Jackson\
+  \ II with 45th pick but was worth 41th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+525\" data-vorp-text=\"+525.2\">+525</span> (expectation difference)</li>\n\
+  </ul>\n    "
 end_year: 2026
 final_bpm: 12356
 final_vorp: 19
@@ -59,6 +63,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-10476\" data-vorp-text=\"\
   -10476.2\">-10476</span> in 2022.</li>\n</ul>\n    "
 signing_num_players: 85
+signing_overall_grade_bpm: A-
+signing_overall_grade_vorp: B-
 signing_overall_percentile_bpm: 83
 signing_overall_percentile_vorp: 64
 signing_rating_bpm: 0
@@ -122,6 +128,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ Mike Conley <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-14384\"\
   \ data-vorp-text=\"-6.8\">-14384</span> to UTA.</li>\n</ul>\n    "
 trade_num: 109
+trade_overall_grade_bpm: C
+trade_overall_grade_vorp: C
 trade_overall_percentile_bpm: 48
 trade_overall_percentile_vorp: 49
 trade_rating_bpm: 0

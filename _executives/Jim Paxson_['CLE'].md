@@ -1,24 +1,28 @@
 ---
 bpm_rank: 9
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted DeSagana Diop <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -19\" data-vorp-text=\"-19.2\">-19.2</span> with 8th pick but was worth 21th pick.</li>\n\
-  <li>Drafted Dajuan Wagner <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -17\" data-vorp-text=\"-17.3\">-17.3</span> with 6th pick but was worth 54th pick.</li>\n\
-  <li>Drafted Trajan Langdon <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -13\" data-vorp-text=\"-13.3\">-13.3</span> with 11th pick but was worth 21th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted DeSagana Diop <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -33660\" data-vorp-text=\"-33660.1\">-33660</span> with 8th pick but was worth 48th\
-  \ pick.</li>\n<li>Drafted Jason Kapono <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-21245\" data-vorp-text=\"-21245.8\">-21245</span> with 31th pick\
-  \ but was worth 49th pick.</li>\n<li>Drafted Dajuan Wagner <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-18991\" data-vorp-text=\"-18991.8\">-18991</span>\
-  \ with 6th pick but was worth 41th pick.</li>\n</ul>\n    "
+  <li>Drafted DeSagana Diop with 8th pick but was worth 21th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-19\" data-vorp-text=\"-19.2\">-19.2</span>\
+  \ (expectation difference)</li>\n<li>Drafted Dajuan Wagner with 6th pick but was\
+  \ worth 54th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -17\" data-vorp-text=\"-17.3\">-17.3</span> (expectation difference)</li>\n<li>Drafted\
+  \ Trajan Langdon with 11th pick but was worth 21th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-13\" data-vorp-text=\"-13.3\">-13.3</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted DeSagana Diop with 8th pick but was worth 48th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-33660\" data-vorp-text=\"\
+  -33660.1\">-33660</span> (expectation difference)</li>\n<li>Drafted Jason Kapono\
+  \ with 31th pick but was worth 49th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-21245\" data-vorp-text=\"-21245.8\">-21245</span> (expectation\
+  \ difference)</li>\n<li>Drafted Dajuan Wagner with 6th pick but was worth 41th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-18991\" data-vorp-text=\"\
+  -18991.8\">-18991</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Jim Paxson ranks in the 33th percentile for drafting among executives
   in our database. Paxson's draft picks average out to be worth the equivalent of
   8 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 11
+draft_overall_grade_bpm: B-
+draft_overall_grade_vorp: B-
 draft_overall_percentile_vorp: 63
 draft_rating_bpm: -11
 draft_rating_grade_bpm: D+
@@ -33,14 +37,15 @@ draft_total_percentile_bpm: 93
 draft_total_percentile_vorp: 93
 draft_total_vorp: 100
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Carlos Boozer <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +23\" data-vorp-text=\"+23.3\">+23.3</span> with 35th pick but was worth 1th pick.\
-  \ </li>\n<li>Drafted Andre Miller <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+2\" data-vorp-text=\"+2.0\">+2.0</span> with 8th pick but was\
-  \ worth 6th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
-  \ id=bpm-toggle>\n<li>Drafted Carlos Boozer <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+43914\" data-vorp-text=\"+43914.6\">+43914</span> with 35th pick\
-  \ but was worth 2th pick. </li>\n</ul>\n    "
+  <li>Drafted Carlos Boozer with 35th pick but was worth 1th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+23\" data-vorp-text=\"+23.3\"\
+  >+23.3</span> (expectation difference)</li>\n<li>Drafted Andre Miller with 8th pick\
+  \ but was worth 6th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +2\" data-vorp-text=\"+2.0\">+2.0</span> (expectation difference)</li>\n</ul>\n\
+  \    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted\
+  \ Carlos Boozer with 35th pick but was worth 2th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+43914\" data-vorp-text=\"+43914.6\">+43914</span>\
+  \ (expectation difference)</li>\n</ul>\n    "
 end_year: 2005
 final_bpm: 202110
 final_vorp: 98
@@ -63,6 +68,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-5992\" data-vorp-text=\"-5992.0\">-5992</span>\
   \ in 1999.</li>\n</ul>\n    "
 signing_num_players: 37
+signing_overall_grade_bpm: C
+signing_overall_grade_vorp: F
 signing_overall_percentile_bpm: 52
 signing_overall_percentile_vorp: 4
 signing_rating_bpm: 0
@@ -108,6 +115,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-16\" data-vorp-text=\"\
   -3.2\">-16</span> to CHI.</li>\n</ul>\n    "
 trade_num: 69
+trade_overall_grade_bpm: F
+trade_overall_grade_vorp: D+
 trade_overall_percentile_bpm: 14
 trade_overall_percentile_vorp: 35
 trade_rating_bpm: 0

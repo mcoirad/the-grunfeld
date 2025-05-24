@@ -1,24 +1,28 @@
 ---
 bpm_rank: 141
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Jonathan Isaac <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -8\" data-vorp-text=\"-8.5\">-8.5</span> with 6th pick but was worth 16th pick.</li>\n\
-  <li>Drafted Mohamed Bamba <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -5\" data-vorp-text=\"-5.6\">-5.6</span> with 6th pick but was worth 20th pick.</li>\n\
-  <li>Drafted Jalen Suggs <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -5\" data-vorp-text=\"-5.3\">-5.3</span> with 5th pick but was worth 15th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Mohamed Bamba <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -17056\" data-vorp-text=\"-17056.2\">-17056</span> with 6th pick but was worth 18th\
-  \ pick.</li>\n<li>Drafted Jalen Suggs <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-15050\" data-vorp-text=\"-15050.8\">-15050</span> with 5th pick\
-  \ but was worth 45th pick.</li>\n<li>Drafted Wesley Iwundu <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-12696\" data-vorp-text=\"-12696.9\">-12696</span>\
-  \ with 33th pick but was worth 52th pick.</li>\n</ul>\n    "
+  <li>Drafted Jonathan Isaac with 6th pick but was worth 16th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-8\" data-vorp-text=\"-8.5\">-8.5</span>\
+  \ (expectation difference)</li>\n<li>Drafted Mohamed Bamba with 6th pick but was\
+  \ worth 20th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -5\" data-vorp-text=\"-5.6\">-5.6</span> (expectation difference)</li>\n<li>Drafted\
+  \ Jalen Suggs with 5th pick but was worth 15th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-5\" data-vorp-text=\"-5.3\">-5.3</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Mohamed Bamba with 6th pick but was worth 18th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-17056\" data-vorp-text=\"\
+  -17056.2\">-17056</span> (expectation difference)</li>\n<li>Drafted Jalen Suggs\
+  \ with 5th pick but was worth 45th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-15050\" data-vorp-text=\"-15050.8\">-15050</span> (expectation\
+  \ difference)</li>\n<li>Drafted Wesley Iwundu with 33th pick but was worth 52th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-12696\" data-vorp-text=\"\
+  -12696.9\">-12696</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Jeff Weltman ranks in the 12th percentile for drafting among executives
   in our database. Weltman's draft picks average out to be worth the equivalent of
   14 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 14
+draft_overall_grade_bpm: D+
+draft_overall_grade_vorp: D+
 draft_overall_percentile_vorp: 38
 draft_rating_bpm: -18
 draft_rating_grade_bpm: F
@@ -33,14 +37,15 @@ draft_total_percentile_bpm: 64
 draft_total_percentile_vorp: 64
 draft_total_vorp: 21
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Franz Wagner <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +2\" data-vorp-text=\"+3.0\">+3.0</span> with 8th pick but was worth 5th pick. </li>\n\
-  <li>Drafted Cole Anthony <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +0\" data-vorp-text=\"+0.4\">+0.4</span> with 15th pick but was worth 12th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Franz Wagner <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +3183\" data-vorp-text=\"+3183.4\">+3183</span> with 8th pick but was worth 6th\
-  \ pick. </li>\n</ul>\n    "
+  <li>Drafted Franz Wagner with 8th pick but was worth 5th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+2\" data-vorp-text=\"+3.0\">+3.0</span>\
+  \ (expectation difference)</li>\n<li>Drafted Cole Anthony with 15th pick but was\
+  \ worth 12th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +0\" data-vorp-text=\"+0.4\">+0.4</span> (expectation difference)</li>\n</ul>\n\
+  \    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted\
+  \ Franz Wagner with 8th pick but was worth 6th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+3183\" data-vorp-text=\"+3183.4\">+3183</span>\
+  \ (expectation difference)</li>\n</ul>\n    "
 end_year: 2026
 final_bpm: -105155
 final_vorp: 10
@@ -63,6 +68,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ Bacon <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-9450\" data-vorp-text=\"\
   -9450.3\">-9450</span> in 2020.</li>\n</ul>\n    "
 signing_num_players: 114
+signing_overall_grade_bpm: C-
+signing_overall_grade_vorp: D+
 signing_overall_percentile_bpm: 43
 signing_overall_percentile_vorp: 40
 signing_rating_bpm: 0
@@ -115,6 +122,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   +0.0\">+25</span>, Aaron Gordon <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
   -6858\" data-vorp-text=\"-6.2\">-6858</span> to DEN.</li>\n</ul>\n    "
 trade_num: 50
+trade_overall_grade_bpm: C+
+trade_overall_grade_vorp: C+
 trade_overall_percentile_bpm: 59
 trade_overall_percentile_vorp: 55
 trade_rating_bpm: 0

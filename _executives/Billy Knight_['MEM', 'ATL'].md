@@ -1,24 +1,28 @@
 ---
 bpm_rank: 137
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Shelden Williams <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -23\" data-vorp-text=\"-23.9\">-23.9</span> with 5th pick but was worth 55th pick.</li>\n\
-  <li>Drafted Stromile Swift <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -18\" data-vorp-text=\"-18.7\">-18.7</span> with 2th pick but was worth 14th pick.</li>\n\
-  <li>Drafted Marvin Williams <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -16\" data-vorp-text=\"-16.0\">-16.0</span> with 2th pick but was worth 9th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Marvin Williams <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -66907\" data-vorp-text=\"-66907.1\">-66907</span> with 2th pick but was worth 48th\
-  \ pick.</li>\n<li>Drafted Shelden Williams <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-51043\" data-vorp-text=\"-51043.2\">-51043</span> with 5th pick\
-  \ but was worth 56th pick.</li>\n<li>Drafted Stromile Swift <span class=\"badge\
-  \ badge-pill badge-danger\" data-bpm-text=\"-41311\" data-vorp-text=\"-41311.9\"\
-  >-41311</span> with 2th pick but was worth 48th pick.</li>\n</ul>\n    "
+  <li>Drafted Shelden Williams with 5th pick but was worth 55th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-23\" data-vorp-text=\"-23.9\">-23.9</span>\
+  \ (expectation difference)</li>\n<li>Drafted Stromile Swift with 2th pick but was\
+  \ worth 14th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -18\" data-vorp-text=\"-18.7\">-18.7</span> (expectation difference)</li>\n<li>Drafted\
+  \ Marvin Williams with 2th pick but was worth 9th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-16\" data-vorp-text=\"-16.0\">-16.0</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Marvin Williams with 2th pick but was worth 48th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-66907\" data-vorp-text=\"\
+  -66907.1\">-66907</span> (expectation difference)</li>\n<li>Drafted Shelden Williams\
+  \ with 5th pick but was worth 56th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-51043\" data-vorp-text=\"-51043.2\">-51043</span> (expectation\
+  \ difference)</li>\n<li>Drafted Stromile Swift with 2th pick but was worth 48th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-41311\" data-vorp-text=\"\
+  -41311.9\">-41311</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Billy Knight ranks in the 27th percentile for drafting among executives
   in our database. Knight's draft picks average out to be worth the equivalent of
   9 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 17
+draft_overall_grade_bpm: B-
+draft_overall_grade_vorp: C+
 draft_overall_percentile_vorp: 58
 draft_rating_bpm: -10
 draft_rating_grade_bpm: C-
@@ -33,20 +37,22 @@ draft_total_percentile_bpm: 88
 draft_total_percentile_vorp: 88
 draft_total_vorp: 65
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Josh Smith <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +20\" data-vorp-text=\"+20.4\">+20.4</span> with 17th pick but was worth 3th pick.\
-  \ </li>\n<li>Drafted Boris Diaw <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +13\" data-vorp-text=\"+13.0\">+13.0</span> with 21th pick but was worth 7th pick.\
-  \ </li>\n<li>Drafted Jamaal Tinsley <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+7\" data-vorp-text=\"+7.1\">+7.1</span> with 27th pick but was\
-  \ worth 14th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
-  \ id=bpm-toggle>\n<li>Drafted Josh Smith <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+49300\" data-vorp-text=\"+49300.0\">+49300</span> with 17th pick\
-  \ but was worth 3th pick. </li>\n<li>Drafted Shane Battier <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+15917\" data-vorp-text=\"+15917.6\">+15917</span>\
-  \ with 6th pick but was worth 2th pick. </li>\n<li>Drafted Al Horford <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+15133\" data-vorp-text=\"+15133.3\"\
-  >+15133</span> with 3th pick but was worth 2th pick. </li>\n</ul>\n    "
+  <li>Drafted Josh Smith with 17th pick but was worth 3th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+20\" data-vorp-text=\"+20.4\">+20.4</span>\
+  \ (expectation difference)</li>\n<li>Drafted Boris Diaw with 21th pick but was worth\
+  \ 7th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+13\"\
+  \ data-vorp-text=\"+13.0\">+13.0</span> (expectation difference)</li>\n<li>Drafted\
+  \ Jamaal Tinsley with 27th pick but was worth 14th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+7\" data-vorp-text=\"+7.1\">+7.1</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Josh Smith with 17th pick but was worth 3th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+49300\" data-vorp-text=\"\
+  +49300.0\">+49300</span> (expectation difference)</li>\n<li>Drafted Shane Battier\
+  \ with 6th pick but was worth 2th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+15917\" data-vorp-text=\"+15917.6\">+15917</span> (expectation\
+  \ difference)</li>\n<li>Drafted Al Horford with 3th pick but was worth 2th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+15133\" data-vorp-text=\"\
+  +15133.3\">+15133</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 2008
 final_bpm: -99794
 final_vorp: 35
@@ -69,6 +75,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-7429\" data-vorp-text=\"\
   -7429.8\">-7429</span> in 2001.</li>\n</ul>\n    "
 signing_num_players: 47
+signing_overall_grade_bpm: F
+signing_overall_grade_vorp: F-
 signing_overall_percentile_bpm: 17
 signing_overall_percentile_vorp: 2
 signing_rating_bpm: -1
@@ -119,6 +127,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   -0.2\">+1684</span>, Jason Terry <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
   -52677\" data-vorp-text=\"-23.4\">-52677</span> to DAL.</li>\n</ul>\n    "
 trade_num: 68
+trade_overall_grade_bpm: D-
+trade_overall_grade_vorp: F
 trade_overall_percentile_bpm: 27
 trade_overall_percentile_vorp: 15
 trade_rating_bpm: 0

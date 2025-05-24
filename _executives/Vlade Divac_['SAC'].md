@@ -1,24 +1,28 @@
 ---
 bpm_rank: 110
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Marvin Bagley III <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -28\" data-vorp-text=\"-28.5\">-28.5</span> with 2th pick but was worth 26th pick.</li>\n\
-  <li>Drafted De'Aaron Fox <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -2\" data-vorp-text=\"-2.3\">-2.3</span> with 5th pick but was worth 6th pick.</li>\n\
-  <li>Drafted Frank Mason III <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.3\">-0.3</span> with 34th pick but was worth 43th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Marvin Bagley III <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -94458\" data-vorp-text=\"-94458.9\">-94458</span> with 2th pick but was worth 47th\
-  \ pick.</li>\n<li>Drafted De'Aaron Fox <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-16849\" data-vorp-text=\"-16849.4\">-16849</span> with 5th pick\
-  \ but was worth 7th pick.</li>\n<li>Drafted Frank Mason III <span class=\"badge\
-  \ badge-pill badge-danger\" data-bpm-text=\"-1616\" data-vorp-text=\"-1616.6\">-1616</span>\
-  \ with 34th pick but was worth 39th pick.</li>\n</ul>\n    "
+  <li>Drafted Marvin Bagley III with 2th pick but was worth 26th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-28\" data-vorp-text=\"-28.5\">-28.5</span>\
+  \ (expectation difference)</li>\n<li>Drafted De'Aaron Fox with 5th pick but was\
+  \ worth 6th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -2\" data-vorp-text=\"-2.3\">-2.3</span> (expectation difference)</li>\n<li>Drafted\
+  \ Frank Mason III with 34th pick but was worth 43th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.3\">-0.3</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Marvin Bagley III with 2th pick but was worth 47th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-94458\" data-vorp-text=\"\
+  -94458.9\">-94458</span> (expectation difference)</li>\n<li>Drafted De'Aaron Fox\
+  \ with 5th pick but was worth 7th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-16849\" data-vorp-text=\"-16849.4\">-16849</span> (expectation\
+  \ difference)</li>\n<li>Drafted Frank Mason III with 34th pick but was worth 39th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-1616\" data-vorp-text=\"\
+  -1616.6\">-1616</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Vlade Divac ranks in the 29th percentile for drafting among executives
   in our database. Divac's draft picks average out to be worth the equivalent of 9
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
+draft_overall_grade_bpm: C-
+draft_overall_grade_vorp: C-
 draft_overall_percentile_vorp: 44
 draft_rating_bpm: -14
 draft_rating_grade_bpm: D
@@ -34,9 +38,9 @@ draft_total_percentile_vorp: 59
 draft_total_vorp: 16
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
   </ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted\
-  \ Justin James <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+5600\"\
-  \ data-vorp-text=\"+5600.6\">+5600</span> with 40th pick but was worth 28th pick.\
-  \ </li>\n</ul>\n    "
+  \ Justin James with 40th pick but was worth 28th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+5600\" data-vorp-text=\"+5600.6\">+5600</span>\
+  \ (expectation difference)</li>\n</ul>\n    "
 end_year: 2020
 final_bpm: -48080
 final_vorp: 33
@@ -59,6 +63,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ Jackson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-7328\"\
   \ data-vorp-text=\"-7328.7\">-7328</span> in 2017.</li>\n</ul>\n    "
 signing_num_players: 71
+signing_overall_grade_bpm: F
+signing_overall_grade_vorp: B+
 signing_overall_percentile_bpm: 19
 signing_overall_percentile_vorp: 77
 signing_rating_bpm: -1
@@ -113,6 +119,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ Cousins <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-11320\"\
   \ data-vorp-text=\"-4.0\">-11320</span> to NOP.</li>\n</ul>\n    "
 trade_num: 65
+trade_overall_grade_bpm: B
+trade_overall_grade_vorp: B+
 trade_overall_percentile_bpm: 73
 trade_overall_percentile_vorp: 74
 trade_rating_bpm: 0

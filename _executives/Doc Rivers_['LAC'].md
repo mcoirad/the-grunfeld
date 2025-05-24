@@ -4,6 +4,8 @@ draft_bust_list: "\n    \n    \n    "
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
+draft_overall_grade_bpm: null
+draft_overall_grade_vorp: null
 draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
@@ -18,10 +20,10 @@ draft_total_percentile_bpm: 34
 draft_total_percentile_vorp: 34
 draft_total_vorp: 0
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Reggie Bullock <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +2\" data-vorp-text=\"+2.3\">+2.3</span> with 25th pick but was worth 16th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  </ul>\n    "
+  <li>Drafted Reggie Bullock with 25th pick but was worth 16th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+2\" data-vorp-text=\"+2.3\">+2.3</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ wins: </h5><ul id=bpm-toggle>\n</ul>\n    "
 end_year: 2017
 final_bpm: 46922
 final_vorp: 47
@@ -44,6 +46,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-5364\" data-vorp-text=\"-5364.2\">-5364</span>\
   \ in 2015.</li>\n</ul>\n    "
 signing_num_players: 56
+signing_overall_grade_bpm: B
+signing_overall_grade_vorp: B+
 signing_overall_percentile_bpm: 69
 signing_overall_percentile_vorp: 79
 signing_rating_bpm: 0
@@ -100,6 +104,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   badge badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span>\
   \ to MIL.</li>\n</ul>\n    "
 trade_num: 52
+trade_overall_grade_bpm: D+
+trade_overall_grade_vorp: C
 trade_overall_percentile_bpm: 40
 trade_overall_percentile_vorp: 50
 trade_rating_bpm: 0

@@ -1,22 +1,26 @@
 ---
 bpm_rank: 147
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Austin Rivers <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -11\" data-vorp-text=\"-11.4\">-11.4</span> with 10th pick but was worth 60th pick.</li>\n\
-  <li>Drafted Anthony Davis <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.3\">-0.3</span> with 1th pick but was worth 2th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Austin Rivers <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -54275\" data-vorp-text=\"-54275.9\">-54275</span> with 10th pick but was worth\
-  \ 60th pick.</li>\n<li>Drafted Buddy Hield <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-9930\" data-vorp-text=\"-9930.0\">-9930</span> with 6th pick\
-  \ but was worth 9th pick.</li>\n<li>Drafted Darius Miller <span class=\"badge badge-pill\
+  <li>Drafted Austin Rivers with 10th pick but was worth 60th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-11\" data-vorp-text=\"-11.4\">-11.4</span>\
+  \ (expectation difference)</li>\n<li>Drafted Anthony Davis with 1th pick but was\
+  \ worth 2th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  0\" data-vorp-text=\"-0.3\">-0.3</span> (expectation difference)</li>\n</ul>\n \
+  \   <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n<li>Drafted\
+  \ Austin Rivers with 10th pick but was worth 60th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-54275\" data-vorp-text=\"-54275.9\">-54275</span>\
+  \ (expectation difference)</li>\n<li>Drafted Buddy Hield with 6th pick but was worth\
+  \ 9th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-9930\"\
+  \ data-vorp-text=\"-9930.0\">-9930</span> (expectation difference)</li>\n<li>Drafted\
+  \ Darius Miller with 46th pick but was worth 50th pick. <span class=\"badge badge-pill\
   \ badge-danger\" data-bpm-text=\"-1532\" data-vorp-text=\"-1532.9\">-1532</span>\
-  \ with 46th pick but was worth 50th pick.</li>\n</ul>\n    "
+  \ (expectation difference)</li>\n</ul>\n    "
 draft_description: Dell Demps ranks in the 15th percentile for drafting among executives
   in our database. Demps's draft picks average out to be worth the equivalent of 13
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 4
+draft_overall_grade_bpm: C
+draft_overall_grade_vorp: C-
 draft_overall_percentile_vorp: 42
 draft_rating_bpm: -14
 draft_rating_grade_bpm: D-
@@ -55,6 +59,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   badge badge-pill badge-danger\" data-bpm-text=\"-9760\" data-vorp-text=\"-9760.9\"\
   >-9760</span> in 2017.</li>\n</ul>\n    "
 signing_num_players: 137
+signing_overall_grade_bpm: D
+signing_overall_grade_vorp: D+
 signing_overall_percentile_bpm: 32
 signing_overall_percentile_vorp: 35
 signing_rating_bpm: 0
@@ -113,6 +119,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ Artūras Gudaitis <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
   +0\" data-vorp-text=\"+0.0\">+0</span> to LAC.</li>\n</ul>\n    "
 trade_num: 126
+trade_overall_grade_bpm: D+
+trade_overall_grade_vorp: D-
 trade_overall_percentile_bpm: 35
 trade_overall_percentile_vorp: 23
 trade_rating_bpm: 0

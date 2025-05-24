@@ -1,24 +1,28 @@
 ---
 bpm_rank: 124
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Mike Sweetney <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -10\" data-vorp-text=\"-10.7\">-10.7</span> with 9th pick but was worth 49th pick.</li>\n\
-  <li>Drafted Jacque Vaughn <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -4\" data-vorp-text=\"-4.5\">-4.5</span> with 27th pick but was worth 56th pick.</li>\n\
-  <li>Drafted Luther Wright <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -3\" data-vorp-text=\"-3.1\">-3.1</span> with 18th pick but was worth 43th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Jacque Vaughn <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -41889\" data-vorp-text=\"-41889.2\">-41889</span> with 27th pick but was worth\
-  \ 56th pick.</li>\n<li>Drafted Blue Edwards <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-28822\" data-vorp-text=\"-28822.2\">-28822</span> with 21th pick\
-  \ but was worth 50th pick.</li>\n<li>Drafted Mike Sweetney <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-15537\" data-vorp-text=\"-15537.0\">-15537</span>\
-  \ with 9th pick but was worth 42th pick.</li>\n</ul>\n    "
+  <li>Drafted Mike Sweetney with 9th pick but was worth 49th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-10\" data-vorp-text=\"-10.7\">-10.7</span>\
+  \ (expectation difference)</li>\n<li>Drafted Jacque Vaughn with 27th pick but was\
+  \ worth 56th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -4\" data-vorp-text=\"-4.5\">-4.5</span> (expectation difference)</li>\n<li>Drafted\
+  \ Luther Wright with 18th pick but was worth 43th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-3\" data-vorp-text=\"-3.1\">-3.1</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Jacque Vaughn with 27th pick but was worth 56th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-41889\" data-vorp-text=\"\
+  -41889.2\">-41889</span> (expectation difference)</li>\n<li>Drafted Blue Edwards\
+  \ with 21th pick but was worth 50th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-28822\" data-vorp-text=\"-28822.2\">-28822</span> (expectation\
+  \ difference)</li>\n<li>Drafted Mike Sweetney with 9th pick but was worth 42th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-15537\" data-vorp-text=\"\
+  -15537.0\">-15537</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Scott Layden ranks in the 82th percentile for drafting among executives
   in our database. Layden's draft picks average out to be worth the equivalent of
   4 spots higher than they were picked due to his good drafting.
 draft_num_players: 12
+draft_overall_grade_bpm: B
+draft_overall_grade_vorp: B
 draft_overall_percentile_vorp: 71
 draft_rating_bpm: 0
 draft_rating_grade_bpm: B+
@@ -33,21 +37,23 @@ draft_total_percentile_bpm: 60
 draft_total_percentile_vorp: 60
 draft_total_vorp: 16
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Bryon Russell <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +12\" data-vorp-text=\"+12.2\">+12.2</span> with 45th pick but was worth 7th pick.\
-  \ </li>\n<li>Drafted Greg Ostertag <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+5\" data-vorp-text=\"+5.1\">+5.1</span> with 28th pick but was\
-  \ worth 14th pick. </li>\n<li>Drafted Shandon Anderson <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+4\" data-vorp-text=\"+4.1\">+4.1</span> with\
-  \ 54th pick but was worth 17th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Bryon Russell <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+21792\" data-vorp-text=\"+21792.0\"\
-  >+21792</span> with 45th pick but was worth 5th pick. </li>\n<li>Drafted Jamie Watson\
-  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+11851\" data-vorp-text=\"\
-  +11851.2\">+11851</span> with 47th pick but was worth 25th pick. </li>\n<li>Drafted\
-  \ Shandon Anderson <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +10474\" data-vorp-text=\"+10474.1\">+10474</span> with 54th pick but was worth\
-  \ 51th pick. </li>\n</ul>\n    "
+  <li>Drafted Bryon Russell with 45th pick but was worth 7th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+12\" data-vorp-text=\"+12.2\"\
+  >+12.2</span> (expectation difference)</li>\n<li>Drafted Greg Ostertag with 28th\
+  \ pick but was worth 14th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +5\" data-vorp-text=\"+5.1\">+5.1</span> (expectation difference)</li>\n<li>Drafted\
+  \ Shandon Anderson with 54th pick but was worth 17th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+4\" data-vorp-text=\"+4.1\">+4.1</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Bryon Russell with 45th pick but was worth 5th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+21792\" data-vorp-text=\"\
+  +21792.0\">+21792</span> (expectation difference)</li>\n<li>Drafted Jamie Watson\
+  \ with 47th pick but was worth 25th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+11851\" data-vorp-text=\"+11851.2\">+11851</span> (expectation\
+  \ difference)</li>\n<li>Drafted Shandon Anderson with 54th pick but was worth 51th\
+  \ pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+10474\"\
+  \ data-vorp-text=\"+10474.1\">+10474</span> (expectation difference)</li>\n</ul>\n\
+  \    "
 end_year: 2019
 final_bpm: -70280
 final_vorp: 39
@@ -70,6 +76,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ Carr <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-16589\" data-vorp-text=\"\
   -16589.4\">-16589</span> in 1994.</li>\n</ul>\n    "
 signing_num_players: 72
+signing_overall_grade_bpm: F
+signing_overall_grade_vorp: F
 signing_overall_percentile_bpm: 17
 signing_overall_percentile_vorp: 7
 signing_rating_bpm: -1
@@ -133,6 +141,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to DEN.</li>\n</ul>\n \
   \   "
 trade_num: 75
+trade_overall_grade_bpm: B+
+trade_overall_grade_vorp: A
 trade_overall_percentile_bpm: 77
 trade_overall_percentile_vorp: 91
 trade_rating_bpm: 0

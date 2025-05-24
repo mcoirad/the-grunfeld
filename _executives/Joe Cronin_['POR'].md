@@ -1,24 +1,28 @@
 ---
 bpm_rank: 144
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Scoot Henderson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -4\" data-vorp-text=\"-4.1\">-4.1</span> with 3th pick but was worth 56th pick.</li>\n\
-  <li>Drafted Shaedon Sharpe <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -3\" data-vorp-text=\"-3.0\">-3.0</span> with 7th pick but was worth 41th pick.</li>\n\
-  <li>Drafted Kris Murray <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.8\">-0.8</span> with 23th pick but was worth 48th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Scoot Henderson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -18290\" data-vorp-text=\"-18290.0\">-18290</span> with 3th pick but was worth 56th\
-  \ pick.</li>\n<li>Drafted Shaedon Sharpe <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-14640\" data-vorp-text=\"-14640.6\">-14640</span> with 7th pick\
-  \ but was worth 51th pick.</li>\n<li>Drafted Kris Murray <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-6954\" data-vorp-text=\"-6954.8\">-6954</span>\
-  \ with 23th pick but was worth 50th pick.</li>\n</ul>\n    "
+  <li>Drafted Scoot Henderson with 3th pick but was worth 56th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-4\" data-vorp-text=\"-4.1\">-4.1</span>\
+  \ (expectation difference)</li>\n<li>Drafted Shaedon Sharpe with 7th pick but was\
+  \ worth 41th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -3\" data-vorp-text=\"-3.0\">-3.0</span> (expectation difference)</li>\n<li>Drafted\
+  \ Kris Murray with 23th pick but was worth 48th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.8\">-0.8</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Scoot Henderson with 3th pick but was worth 56th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-18290\" data-vorp-text=\"\
+  -18290.0\">-18290</span> (expectation difference)</li>\n<li>Drafted Shaedon Sharpe\
+  \ with 7th pick but was worth 51th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-14640\" data-vorp-text=\"-14640.6\">-14640</span> (expectation\
+  \ difference)</li>\n<li>Drafted Kris Murray with 23th pick but was worth 50th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-6954\" data-vorp-text=\"\
+  -6954.8\">-6954</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Joe Cronin ranks in the 10th percentile for drafting among executives
   in our database. Cronin's draft picks average out to be worth the equivalent of
   15 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 7
+draft_overall_grade_bpm: F
+draft_overall_grade_vorp: F
 draft_overall_percentile_vorp: 5
 draft_rating_bpm: -21
 draft_rating_grade_bpm: F
@@ -33,12 +37,13 @@ draft_total_percentile_bpm: 1
 draft_total_percentile_vorp: 1
 draft_total_vorp: -4
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Jabari Walker <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +1\" data-vorp-text=\"+1.1\">+1.1</span> with 57th pick but was worth 50th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Jabari Walker <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +8087\" data-vorp-text=\"+8087.7\">+8087</span> with 57th pick but was worth 47th\
-  \ pick. </li>\n</ul>\n    "
+  <li>Drafted Jabari Walker with 57th pick but was worth 50th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+1\" data-vorp-text=\"+1.1\">+1.1</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ wins: </h5><ul id=bpm-toggle>\n<li>Drafted Jabari Walker with 57th pick but was\
+  \ worth 47th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +8087\" data-vorp-text=\"+8087.7\">+8087</span> (expectation difference)</li>\n\
+  </ul>\n    "
 end_year: 2026
 final_bpm: -119236
 final_vorp: -25
@@ -62,6 +67,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   badge badge-pill badge-danger\" data-bpm-text=\"-2300\" data-vorp-text=\"-2300.9\"\
   >-2300</span> in 2022.</li>\n</ul>\n    "
 signing_num_players: 55
+signing_overall_grade_bpm: C-
+signing_overall_grade_vorp: C-
 signing_overall_percentile_bpm: 47
 signing_overall_percentile_vorp: 44
 signing_rating_bpm: 0
@@ -123,6 +130,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   <li>Lost Damian Lillard <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
   -13787\" data-vorp-text=\"-5.9\">-13787</span> to MIL.</li>\n</ul>\n    "
 trade_num: 55
+trade_overall_grade_bpm: F
+trade_overall_grade_vorp: F
 trade_overall_percentile_bpm: 10
 trade_overall_percentile_vorp: 14
 trade_rating_bpm: -1

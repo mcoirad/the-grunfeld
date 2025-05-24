@@ -1,24 +1,28 @@
 ---
 bpm_rank: 111
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Adam Keefe <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -10\" data-vorp-text=\"-10.1\">-10.1</span> with 10th pick but was worth 22th pick.</li>\n\
-  <li>Drafted DerMarr Johnson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -7\" data-vorp-text=\"-7.9\">-7.9</span> with 6th pick but was worth 17th pick.</li>\n\
-  <li>Drafted Doug Edwards <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -5\" data-vorp-text=\"-5.2\">-5.2</span> with 15th pick but was worth 46th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Alan Henderson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -24804\" data-vorp-text=\"-24804.0\">-24804</span> with 16th pick but was worth\
-  \ 52th pick.</li>\n<li>Drafted Adam Keefe <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-20237\" data-vorp-text=\"-20237.0\">-20237</span> with 10th pick\
-  \ but was worth 44th pick.</li>\n<li>Drafted Jerome Lane <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-11574\" data-vorp-text=\"-11574.0\">-11574</span>\
-  \ with 23th pick but was worth 57th pick.</li>\n</ul>\n    "
+  <li>Drafted Adam Keefe with 10th pick but was worth 22th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-10\" data-vorp-text=\"-10.1\">-10.1</span>\
+  \ (expectation difference)</li>\n<li>Drafted DerMarr Johnson with 6th pick but was\
+  \ worth 17th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -7\" data-vorp-text=\"-7.9\">-7.9</span> (expectation difference)</li>\n<li>Drafted\
+  \ Doug Edwards with 15th pick but was worth 46th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-5\" data-vorp-text=\"-5.2\">-5.2</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Alan Henderson with 16th pick but was worth 52th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-24804\" data-vorp-text=\"\
+  -24804.0\">-24804</span> (expectation difference)</li>\n<li>Drafted Adam Keefe with\
+  \ 10th pick but was worth 44th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-20237\" data-vorp-text=\"-20237.0\">-20237</span> (expectation\
+  \ difference)</li>\n<li>Drafted Jerome Lane with 23th pick but was worth 57th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-11574\" data-vorp-text=\"\
+  -11574.0\">-11574</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Pete Babcock ranks in the 20th percentile for drafting among executives
   in our database. Babcock's draft picks average out to be worth the equivalent of
   12 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 19
+draft_overall_grade_bpm: D+
+draft_overall_grade_vorp: D+
 draft_overall_percentile_vorp: 38
 draft_rating_bpm: -15
 draft_rating_grade_bpm: D-
@@ -33,19 +37,20 @@ draft_total_percentile_bpm: 55
 draft_total_percentile_vorp: 55
 draft_total_vorp: 12
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Jason Terry <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +14\" data-vorp-text=\"+14.7\">+14.7</span> with 10th pick but was worth 4th pick.\
-  \ </li>\n<li>Drafted Chris Crawford <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+0\" data-vorp-text=\"+0.8\">+0.8</span> with 51th pick but was\
-  \ worth 45th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
-  \ id=bpm-toggle>\n<li>Drafted Jason Terry <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+25323\" data-vorp-text=\"+25323.0\">+25323</span> with 10th pick\
-  \ but was worth 6th pick. </li>\n<li>Drafted Chris Crawford <span class=\"badge\
-  \ badge-pill badge-success\" data-bpm-text=\"+12967\" data-vorp-text=\"+12967.0\"\
-  >+12967</span> with 51th pick but was worth 43th pick. </li>\n<li>Drafted Trevor\
-  \ Wilson <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+7031\"\
-  \ data-vorp-text=\"+7031.8\">+7031</span> with 36th pick but was worth 23th pick.\
-  \ </li>\n</ul>\n    "
+  <li>Drafted Jason Terry with 10th pick but was worth 4th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+14\" data-vorp-text=\"+14.7\">+14.7</span>\
+  \ (expectation difference)</li>\n<li>Drafted Chris Crawford with 51th pick but was\
+  \ worth 45th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +0\" data-vorp-text=\"+0.8\">+0.8</span> (expectation difference)</li>\n</ul>\n\
+  \    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted\
+  \ Jason Terry with 10th pick but was worth 6th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+25323\" data-vorp-text=\"+25323.0\">+25323</span>\
+  \ (expectation difference)</li>\n<li>Drafted Chris Crawford with 51th pick but was\
+  \ worth 43th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +12967\" data-vorp-text=\"+12967.0\">+12967</span> (expectation difference)</li>\n\
+  <li>Drafted Trevor Wilson with 36th pick but was worth 23th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+7031\" data-vorp-text=\"+7031.8\"\
+  >+7031</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 2003
 final_bpm: -49127
 final_vorp: 49
@@ -68,6 +73,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-8585\" data-vorp-text=\"\
   -8585.9\">-8585</span> in 1990.</li>\n</ul>\n    "
 signing_num_players: 125
+signing_overall_grade_bpm: F
+signing_overall_grade_vorp: C+
 signing_overall_percentile_bpm: 18
 signing_overall_percentile_vorp: 57
 signing_rating_bpm: -1
@@ -120,6 +127,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-29906\" data-vorp-text=\"\
   -14.4\">-29906</span> to NYK.</li>\n</ul>\n    "
 trade_num: 122
+trade_overall_grade_bpm: B+
+trade_overall_grade_vorp: B-
 trade_overall_percentile_bpm: 79
 trade_overall_percentile_vorp: 62
 trade_rating_bpm: 0

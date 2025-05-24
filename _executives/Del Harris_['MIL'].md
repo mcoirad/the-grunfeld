@@ -1,24 +1,28 @@
 ---
 bpm_rank: 89
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Jeff Grayer <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -9\" data-vorp-text=\"-9.2\">-9.2</span> with 13th pick but was worth 61th pick.</li>\n\
-  <li>Drafted Tito Horford <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.7\">-0.7</span> with 39th pick but was worth 61th pick.</li>\n\
-  <li>Drafted Frank Kornet <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.6\">-0.6</span> with 30th pick but was worth 43th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Jeff Grayer <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -20692\" data-vorp-text=\"-20692.5\">-20692</span> with 13th pick but was worth\
-  \ 61th pick.</li>\n<li>Drafted Tito Horford <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-1782\" data-vorp-text=\"-1782.4\">-1782</span> with 39th pick\
-  \ but was worth 46th pick.</li>\n<li>Drafted Frank Kornet <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-778\" data-vorp-text=\"-778.4\">-778</span> with\
-  \ 30th pick but was worth 34th pick.</li>\n</ul>\n    "
+  <li>Drafted Jeff Grayer with 13th pick but was worth 61th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-9\" data-vorp-text=\"-9.2\">-9.2</span>\
+  \ (expectation difference)</li>\n<li>Drafted Tito Horford with 39th pick but was\
+  \ worth 61th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  0\" data-vorp-text=\"-0.7\">-0.7</span> (expectation difference)</li>\n<li>Drafted\
+  \ Frank Kornet with 30th pick but was worth 43th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.6\">-0.6</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Jeff Grayer with 13th pick but was worth 61th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-20692\" data-vorp-text=\"\
+  -20692.5\">-20692</span> (expectation difference)</li>\n<li>Drafted Tito Horford\
+  \ with 39th pick but was worth 46th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-1782\" data-vorp-text=\"-1782.4\">-1782</span> (expectation difference)</li>\n\
+  <li>Drafted Frank Kornet with 30th pick but was worth 34th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-778\" data-vorp-text=\"-778.4\"\
+  >-778</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Del Harris ranks in the 11th percentile for drafting among executives
   in our database. Harris's draft picks average out to be worth the equivalent of
   15 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 4
+draft_overall_grade_bpm: D-
+draft_overall_grade_vorp: F
 draft_overall_percentile_vorp: 9
 draft_rating_bpm: -9
 draft_rating_grade_bpm: C-
@@ -33,12 +37,13 @@ draft_total_percentile_bpm: 6
 draft_total_percentile_vorp: 6
 draft_total_vorp: -2
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Steve Henson <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +1\" data-vorp-text=\"+1.3\">+1.3</span> with 44th pick but was worth 20th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Steve Henson <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +13843\" data-vorp-text=\"+13843.2\">+13843</span> with 44th pick but was worth\
-  \ 21th pick. </li>\n</ul>\n    "
+  <li>Drafted Steve Henson with 44th pick but was worth 20th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+1\" data-vorp-text=\"+1.3\">+1.3</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ wins: </h5><ul id=bpm-toggle>\n<li>Drafted Steve Henson with 44th pick but was\
+  \ worth 21th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +13843\" data-vorp-text=\"+13843.2\">+13843</span> (expectation difference)</li>\n\
+  </ul>\n    "
 end_year: 1992
 final_bpm: -21869
 final_vorp: 13
@@ -61,6 +66,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-1250\" data-vorp-text=\"-1250.5\">-1250</span>\
   \ in 1989.</li>\n</ul>\n    "
 signing_num_players: 25
+signing_overall_grade_bpm: C-
+signing_overall_grade_vorp: F
 signing_overall_percentile_bpm: 43
 signing_overall_percentile_vorp: 19
 signing_rating_bpm: -1
@@ -108,6 +115,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to SAS.</li>\n</ul>\n \
   \   "
 trade_num: 37
+trade_overall_grade_bpm: C-
+trade_overall_grade_vorp: A-
 trade_overall_percentile_bpm: 47
 trade_overall_percentile_vorp: 85
 trade_rating_bpm: 0

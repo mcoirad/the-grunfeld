@@ -1,20 +1,24 @@
 ---
 bpm_rank: 28
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Ron Mercer <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -13\" data-vorp-text=\"-13.0\">-13.0</span> with 6th pick but was worth 53th pick.</li>\n\
-  <li>Drafted Jérôme Moïso <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -3\" data-vorp-text=\"-3.5\">-3.5</span> with 11th pick but was worth 37th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Ron Mercer <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -41681\" data-vorp-text=\"-41681.4\">-41681</span> with 6th pick but was worth 54th\
-  \ pick.</li>\n<li>Drafted Jérôme Moïso <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-4036\" data-vorp-text=\"-4036.8\">-4036</span> with 11th pick\
-  \ but was worth 29th pick.</li>\n</ul>\n    "
+  <li>Drafted Ron Mercer with 6th pick but was worth 53th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-13\" data-vorp-text=\"-13.0\">-13.0</span>\
+  \ (expectation difference)</li>\n<li>Drafted Jérôme Moïso with 11th pick but was\
+  \ worth 37th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -3\" data-vorp-text=\"-3.5\">-3.5</span> (expectation difference)</li>\n</ul>\n\
+  \    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n<li>Drafted\
+  \ Ron Mercer with 6th pick but was worth 54th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-41681\" data-vorp-text=\"-41681.4\">-41681</span>\
+  \ (expectation difference)</li>\n<li>Drafted Jérôme Moïso with 11th pick but was\
+  \ worth 29th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -4036\" data-vorp-text=\"-4036.8\">-4036</span> (expectation difference)</li>\n\
+  </ul>\n    "
 draft_description: Rick Pitino ranks in the 7th percentile for drafting among executives
   in our database. Pitino's draft picks average out to be worth the equivalent of
   16 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 4
+draft_overall_grade_bpm: C+
+draft_overall_grade_vorp: C-
 draft_overall_percentile_vorp: 47
 draft_rating_bpm: -14
 draft_rating_grade_bpm: D-
@@ -29,12 +33,13 @@ draft_total_percentile_bpm: 86
 draft_total_percentile_vorp: 86
 draft_total_vorp: 64
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Paul Pierce <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +54\" data-vorp-text=\"+54.8\">+54.8</span> with 10th pick but was worth 2th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Paul Pierce <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +166729\" data-vorp-text=\"+166729.4\">+166729</span> with 10th pick but was worth\
-  \ 2th pick. </li>\n</ul>\n    "
+  <li>Drafted Paul Pierce with 10th pick but was worth 2th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+54\" data-vorp-text=\"+54.8\">+54.8</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ wins: </h5><ul id=bpm-toggle>\n<li>Drafted Paul Pierce with 10th pick but was\
+  \ worth 2th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +166729\" data-vorp-text=\"+166729.4\">+166729</span> (expectation difference)</li>\n\
+  </ul>\n    "
 end_year: 2001
 final_bpm: 85876
 final_vorp: 59
@@ -57,6 +62,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-4509\" data-vorp-text=\"\
   -4509.1\">-4509</span> in 1997.</li>\n</ul>\n    "
 signing_num_players: 25
+signing_overall_grade_bpm: D-
+signing_overall_grade_vorp: F
 signing_overall_percentile_bpm: 23
 signing_overall_percentile_vorp: 18
 signing_rating_bpm: -1
@@ -105,6 +112,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ Andre Miller <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-23740\"\
   \ data-vorp-text=\"-10.0\">-23740</span> to CLE.</li>\n</ul>\n    "
 trade_num: 47
+trade_overall_grade_bpm: C
+trade_overall_grade_vorp: B
 trade_overall_percentile_bpm: 50
 trade_overall_percentile_vorp: 71
 trade_rating_bpm: 0

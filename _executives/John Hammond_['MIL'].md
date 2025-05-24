@@ -1,24 +1,28 @@
 ---
 bpm_rank: 19
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Jabari Parker <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -29\" data-vorp-text=\"-29.7\">-29.7</span> with 2th pick but was worth 21th pick.</li>\n\
-  <li>Drafted Joe Alexander <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -18\" data-vorp-text=\"-18.5\">-18.5</span> with 8th pick but was worth 50th pick.</li>\n\
-  <li>Drafted Thon Maker <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -9\" data-vorp-text=\"-9.9\">-9.9</span> with 10th pick but was worth 35th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Jabari Parker <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -106236\" data-vorp-text=\"-106236.3\">-106236</span> with 2th pick but was worth\
-  \ 41th pick.</li>\n<li>Drafted Joe Alexander <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-29146\" data-vorp-text=\"-29146.8\">-29146</span> with 8th pick\
-  \ but was worth 31th pick.</li>\n<li>Drafted Luc Mbah a Moute <span class=\"badge\
-  \ badge-pill badge-danger\" data-bpm-text=\"-18654\" data-vorp-text=\"-18654.2\"\
-  >-18654</span> with 37th pick but was worth 59th pick.</li>\n</ul>\n    "
+  <li>Drafted Jabari Parker with 2th pick but was worth 21th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-29\" data-vorp-text=\"-29.7\">-29.7</span>\
+  \ (expectation difference)</li>\n<li>Drafted Joe Alexander with 8th pick but was\
+  \ worth 50th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -18\" data-vorp-text=\"-18.5\">-18.5</span> (expectation difference)</li>\n<li>Drafted\
+  \ Thon Maker with 10th pick but was worth 35th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-9\" data-vorp-text=\"-9.9\">-9.9</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Jabari Parker with 2th pick but was worth 41th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-106236\" data-vorp-text=\"\
+  -106236.3\">-106236</span> (expectation difference)</li>\n<li>Drafted Joe Alexander\
+  \ with 8th pick but was worth 31th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-29146\" data-vorp-text=\"-29146.8\">-29146</span> (expectation\
+  \ difference)</li>\n<li>Drafted Luc Mbah a Moute with 37th pick but was worth 59th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-18654\" data-vorp-text=\"\
+  -18654.2\">-18654</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: John Hammond ranks in the 42th percentile for drafting among executives
   in our database. Hammond's draft picks average out to be worth the equivalent of
   5 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 16
+draft_overall_grade_bpm: B
+draft_overall_grade_vorp: B-
 draft_overall_percentile_vorp: 66
 draft_rating_bpm: -9
 draft_rating_grade_bpm: C-
@@ -33,21 +37,23 @@ draft_total_percentile_bpm: 90
 draft_total_percentile_vorp: 90
 draft_total_vorp: 77
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Giannis Antetokounmpo <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+59\" data-vorp-text=\"+59.4\">+59.4</span> with 15th pick but\
-  \ was worth 1th pick. </li>\n<li>Drafted Malcolm Brogdon <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+11\" data-vorp-text=\"+11.3\">+11.3</span> with\
-  \ 36th pick but was worth 7th pick. </li>\n<li>Drafted Jodie Meeks <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+4\" data-vorp-text=\"+4.2\">+4.2</span>\
-  \ with 41th pick but was worth 19th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\"\
-  >Their biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Giannis Antetokounmpo\
-  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+189167\" data-vorp-text=\"\
-  +189167.8\">+189167</span> with 15th pick but was worth 1th pick. </li>\n<li>Drafted\
-  \ Malcolm Brogdon <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +20585\" data-vorp-text=\"+20585.7\">+20585</span> with 36th pick but was worth\
-  \ 5th pick. </li>\n<li>Drafted Doron Lamb <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+3080\" data-vorp-text=\"+3080.8\">+3080</span> with 42th pick\
-  \ but was worth 40th pick. </li>\n</ul>\n    "
+  <li>Drafted Giannis Antetokounmpo with 15th pick but was worth 1th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+59\" data-vorp-text=\"+59.4\"\
+  >+59.4</span> (expectation difference)</li>\n<li>Drafted Malcolm Brogdon with 36th\
+  \ pick but was worth 7th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +11\" data-vorp-text=\"+11.3\">+11.3</span> (expectation difference)</li>\n<li>Drafted\
+  \ Jodie Meeks with 41th pick but was worth 19th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+4\" data-vorp-text=\"+4.2\">+4.2</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Giannis Antetokounmpo with 15th pick but was worth\
+  \ 1th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+189167\"\
+  \ data-vorp-text=\"+189167.8\">+189167</span> (expectation difference)</li>\n<li>Drafted\
+  \ Malcolm Brogdon with 36th pick but was worth 5th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+20585\" data-vorp-text=\"+20585.7\">+20585</span>\
+  \ (expectation difference)</li>\n<li>Drafted Doron Lamb with 42th pick but was worth\
+  \ 40th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+3080\"\
+  \ data-vorp-text=\"+3080.8\">+3080</span> (expectation difference)</li>\n</ul>\n\
+  \    "
 end_year: 2017
 final_bpm: 120607
 final_vorp: 76
@@ -70,6 +76,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ Teletović <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-4241\"\
   \ data-vorp-text=\"-4241.8\">-4241</span> in 2016.</li>\n</ul>\n    "
 signing_num_players: 68
+signing_overall_grade_bpm: C+
+signing_overall_grade_vorp: B+
 signing_overall_percentile_bpm: 56
 signing_overall_percentile_vorp: 74
 signing_rating_bpm: 0
@@ -124,6 +132,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to GSW.</li>\n</ul>\n \
   \   "
 trade_num: 132
+trade_overall_grade_bpm: C
+trade_overall_grade_vorp: C-
 trade_overall_percentile_bpm: 49
 trade_overall_percentile_vorp: 42
 trade_rating_bpm: 0

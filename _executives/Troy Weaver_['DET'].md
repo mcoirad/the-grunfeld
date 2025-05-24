@@ -1,24 +1,28 @@
 ---
 bpm_rank: 135
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Killian Hayes <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -8\" data-vorp-text=\"-8.4\">-8.4</span> with 7th pick but was worth 60th pick.</li>\n\
-  <li>Drafted Jaden Ivey <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -4\" data-vorp-text=\"-4.9\">-4.9</span> with 5th pick but was worth 49th pick.</li>\n\
-  <li>Drafted Cade Cunningham <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -4\" data-vorp-text=\"-4.5\">-4.5</span> with 1th pick but was worth 7th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Killian Hayes <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -29845\" data-vorp-text=\"-29845.4\">-29845</span> with 7th pick but was worth 60th\
-  \ pick.</li>\n<li>Drafted Jaden Ivey <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-19564\" data-vorp-text=\"-19564.2\">-19564</span> with 5th pick\
-  \ but was worth 54th pick.</li>\n<li>Drafted Cade Cunningham <span class=\"badge\
-  \ badge-pill badge-danger\" data-bpm-text=\"-14858\" data-vorp-text=\"-14858.7\"\
-  >-14858</span> with 1th pick but was worth 7th pick.</li>\n</ul>\n    "
+  <li>Drafted Killian Hayes with 7th pick but was worth 60th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-8\" data-vorp-text=\"-8.4\">-8.4</span>\
+  \ (expectation difference)</li>\n<li>Drafted Jaden Ivey with 5th pick but was worth\
+  \ 49th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-4\"\
+  \ data-vorp-text=\"-4.9\">-4.9</span> (expectation difference)</li>\n<li>Drafted\
+  \ Cade Cunningham with 1th pick but was worth 7th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-4\" data-vorp-text=\"-4.5\">-4.5</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Killian Hayes with 7th pick but was worth 60th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-29845\" data-vorp-text=\"\
+  -29845.4\">-29845</span> (expectation difference)</li>\n<li>Drafted Jaden Ivey with\
+  \ 5th pick but was worth 54th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-19564\" data-vorp-text=\"-19564.2\">-19564</span> (expectation\
+  \ difference)</li>\n<li>Drafted Cade Cunningham with 1th pick but was worth 7th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-14858\" data-vorp-text=\"\
+  -14858.7\">-14858</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Troy Weaver ranks in the 8th percentile for drafting among executives
   in our database. Weaver's draft picks average out to be worth the equivalent of
   16 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 6
+draft_overall_grade_bpm: D-
+draft_overall_grade_vorp: D-
 draft_overall_percentile_vorp: 25
 draft_rating_bpm: -18
 draft_rating_grade_bpm: F
@@ -58,6 +62,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-5200\" data-vorp-text=\"\
   -5200.5\">-5200</span> in 2021.</li>\n</ul>\n    "
 signing_num_players: 76
+signing_overall_grade_bpm: D
+signing_overall_grade_vorp: C
 signing_overall_percentile_bpm: 27
 signing_overall_percentile_vorp: 52
 signing_rating_bpm: -1
@@ -119,6 +125,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"\
   +0.0\">+0</span> to HOU.</li>\n</ul>\n    "
 trade_num: 85
+trade_overall_grade_bpm: D+
+trade_overall_grade_vorp: D-
 trade_overall_percentile_bpm: 38
 trade_overall_percentile_vorp: 23
 trade_rating_bpm: 0

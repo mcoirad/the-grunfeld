@@ -1,24 +1,28 @@
 ---
 bpm_rank: 132
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Sean Elliott <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -22\" data-vorp-text=\"-22.8\">-22.8</span> with 3th pick but was worth 9th pick.</li>\n\
-  <li>Drafted Alfredrick Hughes <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -12\" data-vorp-text=\"-12.3\">-12.3</span> with 14th pick but was worth 61th pick.</li>\n\
-  <li>Drafted Tony Massenburg <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -6\" data-vorp-text=\"-6.6\">-6.6</span> with 43th pick but was worth 54th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Sean Elliott <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -72927\" data-vorp-text=\"-72927.0\">-72927</span> with 3th pick but was worth 9th\
-  \ pick.</li>\n<li>Drafted Greg Anderson <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-42120\" data-vorp-text=\"-42120.0\">-42120</span> with 23th pick\
-  \ but was worth 61th pick.</li>\n<li>Drafted Tony Massenburg <span class=\"badge\
-  \ badge-pill badge-danger\" data-bpm-text=\"-37981\" data-vorp-text=\"-37981.2\"\
-  >-37981</span> with 43th pick but was worth 54th pick.</li>\n</ul>\n    "
+  <li>Drafted Sean Elliott with 3th pick but was worth 9th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-22\" data-vorp-text=\"-22.8\">-22.8</span>\
+  \ (expectation difference)</li>\n<li>Drafted Alfredrick Hughes with 14th pick but\
+  \ was worth 61th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -12\" data-vorp-text=\"-12.3\">-12.3</span> (expectation difference)</li>\n<li>Drafted\
+  \ Tony Massenburg with 43th pick but was worth 54th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-6\" data-vorp-text=\"-6.6\">-6.6</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Sean Elliott with 3th pick but was worth 9th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-72927\" data-vorp-text=\"\
+  -72927.0\">-72927</span> (expectation difference)</li>\n<li>Drafted Greg Anderson\
+  \ with 23th pick but was worth 61th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-42120\" data-vorp-text=\"-42120.0\">-42120</span> (expectation\
+  \ difference)</li>\n<li>Drafted Tony Massenburg with 43th pick but was worth 54th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-37981\" data-vorp-text=\"\
+  -37981.2\">-37981</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Bob Bass ranks in the 40th percentile for drafting among executives
   in our database. Bass's draft picks average out to be worth the equivalent of 6
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 31
+draft_overall_grade_bpm: B-
+draft_overall_grade_vorp: B
 draft_overall_percentile_vorp: 68
 draft_rating_bpm: -13
 draft_rating_grade_bpm: D
@@ -33,20 +37,22 @@ draft_total_percentile_bpm: 96
 draft_total_percentile_vorp: 96
 draft_total_vorp: 122
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Tyrone Corbin <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +12\" data-vorp-text=\"+12.0\">+12.0</span> with 35th pick but was worth 13th pick.\
-  \ </li>\n<li>Drafted Alvin Robertson <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+9\" data-vorp-text=\"+9.0\">+9.0</span> with 7th pick but was\
-  \ worth 6th pick. </li>\n<li>Drafted Gene Banks <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+8\" data-vorp-text=\"+8.5\">+8.5</span> with 28th pick but was\
-  \ worth 11th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
-  \ id=bpm-toggle>\n<li>Drafted Alvin Robertson <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+44458\" data-vorp-text=\"+44458.9\">+44458</span> with 7th pick\
-  \ but was worth 5th pick. </li>\n<li>Drafted Sean Higgins <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+39639\" data-vorp-text=\"+39639.7\">+39639</span>\
-  \ with 54th pick but was worth 41th pick. </li>\n<li>Drafted Greg Sutton <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+13869\" data-vorp-text=\"+13869.4\"\
-  >+13869</span> with 49th pick but was worth 40th pick. </li>\n</ul>\n    "
+  <li>Drafted Tyrone Corbin with 35th pick but was worth 13th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+12\" data-vorp-text=\"+12.0\"\
+  >+12.0</span> (expectation difference)</li>\n<li>Drafted Alvin Robertson with 7th\
+  \ pick but was worth 6th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +9\" data-vorp-text=\"+9.0\">+9.0</span> (expectation difference)</li>\n<li>Drafted\
+  \ Gene Banks with 28th pick but was worth 11th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+8\" data-vorp-text=\"+8.5\">+8.5</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Alvin Robertson with 7th pick but was worth 5th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+44458\" data-vorp-text=\"\
+  +44458.9\">+44458</span> (expectation difference)</li>\n<li>Drafted Sean Higgins\
+  \ with 54th pick but was worth 41th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+39639\" data-vorp-text=\"+39639.7\">+39639</span> (expectation\
+  \ difference)</li>\n<li>Drafted Greg Sutton with 49th pick but was worth 40th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+13869\" data-vorp-text=\"\
+  +13869.4\">+13869</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 2004
 final_bpm: -83952
 final_vorp: -7
@@ -69,6 +75,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-3540\" data-vorp-text=\"-3540.0\">-3540</span>\
   \ in 1989.</li>\n</ul>\n    "
 signing_num_players: 141
+signing_overall_grade_bpm: B-
+signing_overall_grade_vorp: B-
 signing_overall_percentile_bpm: 66
 signing_overall_percentile_vorp: 66
 signing_rating_bpm: 0
@@ -120,6 +128,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   badge badge-pill badge-danger\" data-bpm-text=\"-221552\" data-vorp-text=\"-80.1\"\
   >-221552</span> to LAL.</li>\n</ul>\n    "
 trade_num: 203
+trade_overall_grade_bpm: F
+trade_overall_grade_vorp: F
 trade_overall_percentile_bpm: 12
 trade_overall_percentile_vorp: 16
 trade_rating_bpm: 0

@@ -1,24 +1,28 @@
 ---
 bpm_rank: 160
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Michael Doleac <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -13\" data-vorp-text=\"-13.3\">-13.3</span> with 12th pick but was worth 57th pick.</li>\n\
-  <li>Drafted Reece Gaines <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -6\" data-vorp-text=\"-6.0\">-6.0</span> with 15th pick but was worth 49th pick.</li>\n\
-  <li>Drafted Steven Hunter <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -5\" data-vorp-text=\"-5.1\">-5.1</span> with 15th pick but was worth 45th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Michael Doleac <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -32660\" data-vorp-text=\"-32660.3\">-32660</span> with 12th pick but was worth\
-  \ 55th pick.</li>\n<li>Drafted Keyon Dooling <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-28268\" data-vorp-text=\"-28268.0\">-28268</span> with 10th pick\
-  \ but was worth 54th pick.</li>\n<li>Drafted Zaza Pachulia <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-23613\" data-vorp-text=\"-23613.0\">-23613</span>\
-  \ with 42th pick but was worth 55th pick.</li>\n</ul>\n    "
+  <li>Drafted Michael Doleac with 12th pick but was worth 57th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-13\" data-vorp-text=\"-13.3\">-13.3</span>\
+  \ (expectation difference)</li>\n<li>Drafted Reece Gaines with 15th pick but was\
+  \ worth 49th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -6\" data-vorp-text=\"-6.0\">-6.0</span> (expectation difference)</li>\n<li>Drafted\
+  \ Steven Hunter with 15th pick but was worth 45th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-5\" data-vorp-text=\"-5.1\">-5.1</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Michael Doleac with 12th pick but was worth 55th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-32660\" data-vorp-text=\"\
+  -32660.3\">-32660</span> (expectation difference)</li>\n<li>Drafted Keyon Dooling\
+  \ with 10th pick but was worth 54th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-28268\" data-vorp-text=\"-28268.0\">-28268</span> (expectation\
+  \ difference)</li>\n<li>Drafted Zaza Pachulia with 42th pick but was worth 55th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-23613\" data-vorp-text=\"\
+  -23613.0\">-23613</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: John Gabriel ranks in the 22th percentile for drafting among executives
   in our database. Gabriel's draft picks average out to be worth the equivalent of
   11 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 12
+draft_overall_grade_bpm: D
+draft_overall_grade_vorp: D
 draft_overall_percentile_vorp: 29
 draft_rating_bpm: -14
 draft_rating_grade_bpm: D-
@@ -33,10 +37,10 @@ draft_total_percentile_bpm: 35
 draft_total_percentile_vorp: 35
 draft_total_vorp: 1
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Zaza Pachulia <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +3\" data-vorp-text=\"+3.0\">+3.0</span> with 42th pick but was worth 20th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  </ul>\n    "
+  <li>Drafted Zaza Pachulia with 42th pick but was worth 20th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+3\" data-vorp-text=\"+3.0\">+3.0</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ wins: </h5><ul id=bpm-toggle>\n</ul>\n    "
 end_year: 2004
 final_bpm: -237188
 final_vorp: -72
@@ -59,6 +63,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-9096\" data-vorp-text=\"\
   -9096.9\">-9096</span> in 1996.</li>\n</ul>\n    "
 signing_num_players: 60
+signing_overall_grade_bpm: F
+signing_overall_grade_vorp: F
 signing_overall_percentile_bpm: 11
 signing_overall_percentile_vorp: 17
 signing_rating_bpm: -1
@@ -112,6 +118,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-110307\" data-vorp-text=\"\
   -38.4\">-110307</span> to UTA.</li>\n</ul>\n    "
 trade_num: 128
+trade_overall_grade_bpm: C-
+trade_overall_grade_vorp: D
 trade_overall_percentile_bpm: 46
 trade_overall_percentile_vorp: 32
 trade_rating_bpm: 0

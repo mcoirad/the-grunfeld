@@ -4,6 +4,8 @@ draft_bust_list: "\n    \n    \n    "
 draft_description: This executive has only drafted 2 players and thus doesn't have
   a draft grade.
 draft_num_players: 2
+draft_overall_grade_bpm: null
+draft_overall_grade_vorp: null
 draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
@@ -40,6 +42,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   <li>Signed David Vanterpool <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
   -1520\" data-vorp-text=\"-1520.7\">-1520</span> in 2001.</li>\n</ul>\n    "
 signing_num_players: 5
+signing_overall_grade_bpm: A-
+signing_overall_grade_vorp: B
 signing_overall_percentile_bpm: 86
 signing_overall_percentile_vorp: 69
 signing_rating_bpm: 0
@@ -88,6 +92,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ Hodge <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"\
   +0.0\">+0</span> to ORL.</li>\n</ul>\n    "
 trade_num: 24
+trade_overall_grade_bpm: D-
+trade_overall_grade_vorp: A
 trade_overall_percentile_bpm: 20
 trade_overall_percentile_vorp: 89
 trade_rating_bpm: 0

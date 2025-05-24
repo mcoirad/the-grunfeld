@@ -1,24 +1,29 @@
 ---
 bpm_rank: 165
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Michael Olowokandi <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -93\" data-vorp-text=\"-93.3\">-93.3</span> with 1th pick but was worth 58th pick.</li>\n\
-  <li>Drafted Lorenzen Wright <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -29\" data-vorp-text=\"-29.2\">-29.2</span> with 7th pick but was worth 56th pick.</li>\n\
-  <li>Drafted Reggie Williams <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -28\" data-vorp-text=\"-28.5\">-28.5</span> with 4th pick but was worth 11th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Michael Olowokandi <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -291549\" data-vorp-text=\"-291549.4\">-291549</span> with 1th pick but was worth\
-  \ 58th pick.</li>\n<li>Drafted Lorenzen Wright <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-99426\" data-vorp-text=\"-99426.4\">-99426</span> with 7th pick\
-  \ but was worth 58th pick.</li>\n<li>Drafted Reggie Williams <span class=\"badge\
-  \ badge-pill badge-danger\" data-bpm-text=\"-94535\" data-vorp-text=\"-94535.3\"\
-  >-94535</span> with 4th pick but was worth 10th pick.</li>\n</ul>\n    "
+  <li>Drafted Michael Olowokandi with 1th pick but was worth 58th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-93\" data-vorp-text=\"-93.3\">-93.3</span>\
+  \ (expectation difference)</li>\n<li>Drafted Lorenzen Wright with 7th pick but was\
+  \ worth 56th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -29\" data-vorp-text=\"-29.2\">-29.2</span> (expectation difference)</li>\n<li>Drafted\
+  \ Reggie Williams with 4th pick but was worth 11th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-28\" data-vorp-text=\"-28.5\">-28.5</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Michael Olowokandi with 1th pick but was worth 58th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-291549\"\
+  \ data-vorp-text=\"-291549.4\">-291549</span> (expectation difference)</li>\n<li>Drafted\
+  \ Lorenzen Wright with 7th pick but was worth 58th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-99426\" data-vorp-text=\"-99426.4\">-99426</span>\
+  \ (expectation difference)</li>\n<li>Drafted Reggie Williams with 4th pick but was\
+  \ worth 10th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -94535\" data-vorp-text=\"-94535.3\">-94535</span> (expectation difference)</li>\n\
+  </ul>\n    "
 draft_description: Elgin Baylor ranks in the 30th percentile for drafting among executives
   in our database. Baylor's draft picks average out to be worth the equivalent of
   8 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 41
+draft_overall_grade_bpm: C
+draft_overall_grade_vorp: C
 draft_overall_percentile_vorp: 53
 draft_rating_bpm: -15
 draft_rating_grade_bpm: D-
@@ -33,20 +38,22 @@ draft_total_percentile_bpm: 76
 draft_total_percentile_vorp: 76
 draft_total_vorp: 34
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted DeAndre Jordan <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +22\" data-vorp-text=\"+22.2\">+22.2</span> with 35th pick but was worth 5th pick.\
-  \ </li>\n<li>Drafted Ken Norman <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +4\" data-vorp-text=\"+4.0\">+4.0</span> with 19th pick but was worth 14th pick.\
-  \ </li>\n<li>Drafted Tom Garrick <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+0\" data-vorp-text=\"+0.7\">+0.7</span> with 45th pick but was\
-  \ worth 24th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
-  \ id=bpm-toggle>\n<li>Drafted DeAndre Jordan <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+35086\" data-vorp-text=\"+35086.8\">+35086</span> with 35th pick\
-  \ but was worth 6th pick. </li>\n<li>Drafted Rob Lock <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+5894\" data-vorp-text=\"+5894.4\">+5894</span>\
-  \ with 51th pick but was worth 37th pick. </li>\n<li>Drafted Paul Davis <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+576\" data-vorp-text=\"+576.6\"\
-  >+576</span> with 34th pick but was worth 33th pick. </li>\n</ul>\n    "
+  <li>Drafted DeAndre Jordan with 35th pick but was worth 5th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+22\" data-vorp-text=\"+22.2\"\
+  >+22.2</span> (expectation difference)</li>\n<li>Drafted Ken Norman with 19th pick\
+  \ but was worth 14th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +4\" data-vorp-text=\"+4.0\">+4.0</span> (expectation difference)</li>\n<li>Drafted\
+  \ Tom Garrick with 45th pick but was worth 24th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.7\">+0.7</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted DeAndre Jordan with 35th pick but was worth 6th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+35086\" data-vorp-text=\"\
+  +35086.8\">+35086</span> (expectation difference)</li>\n<li>Drafted Rob Lock with\
+  \ 51th pick but was worth 37th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+5894\" data-vorp-text=\"+5894.4\">+5894</span> (expectation difference)</li>\n\
+  <li>Drafted Paul Davis with 34th pick but was worth 33th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+576\" data-vorp-text=\"+576.6\">+576</span>\
+  \ (expectation difference)</li>\n</ul>\n    "
 end_year: 2008
 final_bpm: -381890
 final_vorp: 43
@@ -69,6 +76,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-8443\" data-vorp-text=\"\
   -8443.5\">-8443</span> in 2000.</li>\n</ul>\n    "
 signing_num_players: 151
+signing_overall_grade_bpm: F
+signing_overall_grade_vorp: D
 signing_overall_percentile_bpm: 6
 signing_overall_percentile_vorp: 32
 signing_rating_bpm: -1
@@ -122,6 +131,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"\
   +0.0\">+0</span> to IND.</li>\n</ul>\n    "
 trade_num: 138
+trade_overall_grade_bpm: C+
+trade_overall_grade_vorp: C
 trade_overall_percentile_bpm: 57
 trade_overall_percentile_vorp: 53
 trade_rating_bpm: 0

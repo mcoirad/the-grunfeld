@@ -1,23 +1,27 @@
 ---
 bpm_rank: 114
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Ben McLemore <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -15\" data-vorp-text=\"-15.9\">-15.9</span> with 7th pick but was worth 60th pick.</li>\n\
-  <li>Drafted Nik Stauskas <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -10\" data-vorp-text=\"-10.7\">-10.7</span> with 8th pick but was worth 58th pick.</li>\n\
-  <li>Drafted Ray McCallum <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.4\">-0.4</span> with 36th pick but was worth 52th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Ben McLemore <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -50228\" data-vorp-text=\"-50228.3\">-50228</span> with 7th pick but was worth 60th\
-  \ pick.</li>\n<li>Drafted Nik Stauskas <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-26425\" data-vorp-text=\"-26425.8\">-26425</span> with 8th pick\
-  \ but was worth 57th pick.</li>\n<li>Drafted Ray McCallum <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-3205\" data-vorp-text=\"-3205.8\">-3205</span>\
-  \ with 36th pick but was worth 41th pick.</li>\n</ul>\n    "
+  <li>Drafted Ben McLemore with 7th pick but was worth 60th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-15\" data-vorp-text=\"-15.9\">-15.9</span>\
+  \ (expectation difference)</li>\n<li>Drafted Nik Stauskas with 8th pick but was\
+  \ worth 58th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -10\" data-vorp-text=\"-10.7\">-10.7</span> (expectation difference)</li>\n<li>Drafted\
+  \ Ray McCallum with 36th pick but was worth 52th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.4\">-0.4</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Ben McLemore with 7th pick but was worth 60th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-50228\" data-vorp-text=\"\
+  -50228.3\">-50228</span> (expectation difference)</li>\n<li>Drafted Nik Stauskas\
+  \ with 8th pick but was worth 57th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-26425\" data-vorp-text=\"-26425.8\">-26425</span> (expectation\
+  \ difference)</li>\n<li>Drafted Ray McCallum with 36th pick but was worth 41th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-3205\" data-vorp-text=\"\
+  -3205.8\">-3205</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
+draft_overall_grade_bpm: null
+draft_overall_grade_vorp: null
 draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
@@ -57,6 +61,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-1977\" data-vorp-text=\"\
   -1977.0\">-1977</span> in 2014.</li>\n</ul>\n    "
 signing_num_players: 21
+signing_overall_grade_bpm: C
+signing_overall_grade_vorp: C-
 signing_overall_percentile_bpm: 53
 signing_overall_percentile_vorp: 41
 signing_rating_bpm: 0
@@ -107,6 +113,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-5745\" data-vorp-text=\"\
   -4.4\">-5745</span> to NOP.</li>\n</ul>\n    "
 trade_num: 34
+trade_overall_grade_bpm: D-
+trade_overall_grade_vorp: D-
 trade_overall_percentile_bpm: 27
 trade_overall_percentile_vorp: 23
 trade_rating_bpm: 0

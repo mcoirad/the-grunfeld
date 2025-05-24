@@ -1,23 +1,27 @@
 ---
 bpm_rank: 115
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Tyler Hansbrough <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -11\" data-vorp-text=\"-11.8\">-11.8</span> with 13th pick but was worth 39th pick.</li>\n\
-  <li>Drafted Shawne Williams <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -1\" data-vorp-text=\"-1.8\">-1.8</span> with 17th pick but was worth 44th pick.</li>\n\
-  <li>Drafted David Harrison <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -1\" data-vorp-text=\"-1.7\">-1.7</span> with 29th pick but was worth 56th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Tyler Hansbrough <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -24813\" data-vorp-text=\"-24813.0\">-24813</span> with 13th pick but was worth\
-  \ 54th pick.</li>\n<li>Drafted Solomon Hill <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-20140\" data-vorp-text=\"-20140.0\">-20140</span> with 23th pick\
-  \ but was worth 54th pick.</li>\n<li>Drafted Lance Stephenson <span class=\"badge\
-  \ badge-pill badge-danger\" data-bpm-text=\"-14001\" data-vorp-text=\"-14001.8\"\
-  >-14001</span> with 40th pick but was worth 56th pick.</li>\n</ul>\n    "
+  <li>Drafted Tyler Hansbrough with 13th pick but was worth 39th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-11\" data-vorp-text=\"-11.8\">-11.8</span>\
+  \ (expectation difference)</li>\n<li>Drafted Shawne Williams with 17th pick but\
+  \ was worth 44th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -1\" data-vorp-text=\"-1.8\">-1.8</span> (expectation difference)</li>\n<li>Drafted\
+  \ David Harrison with 29th pick but was worth 56th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-1\" data-vorp-text=\"-1.7\">-1.7</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Tyler Hansbrough with 13th pick but was worth 54th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-24813\" data-vorp-text=\"\
+  -24813.0\">-24813</span> (expectation difference)</li>\n<li>Drafted Solomon Hill\
+  \ with 23th pick but was worth 54th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-20140\" data-vorp-text=\"-20140.0\">-20140</span> (expectation\
+  \ difference)</li>\n<li>Drafted Lance Stephenson with 40th pick but was worth 56th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-14001\" data-vorp-text=\"\
+  -14001.8\">-14001</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Larry Bird ranks in the 63th percentile for drafting among executives
   in our database. That's basically average. It could worse though lol.
 draft_num_players: 12
+draft_overall_grade_bpm: B-
+draft_overall_grade_vorp: B+
 draft_overall_percentile_vorp: 74
 draft_rating_bpm: -11
 draft_rating_grade_bpm: D+
@@ -32,21 +36,22 @@ draft_total_percentile_bpm: 84
 draft_total_percentile_vorp: 84
 draft_total_vorp: 55
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Paul George <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +37\" data-vorp-text=\"+37.6\">+37.6</span> with 10th pick but was worth 1th pick.\
-  \ </li>\n<li>Drafted Danny Granger <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+11\" data-vorp-text=\"+11.2\">+11.2</span> with 17th pick but\
-  \ was worth 5th pick. </li>\n<li>Drafted Myles Turner <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+5\" data-vorp-text=\"+5.3\">+5.3</span> with\
-  \ 11th pick but was worth 4th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Paul George <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+110545\" data-vorp-text=\"+110545.8\"\
-  >+110545</span> with 10th pick but was worth 1th pick. </li>\n<li>Drafted Danny\
-  \ Granger <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+33276\"\
-  \ data-vorp-text=\"+33276.6\">+33276</span> with 17th pick but was worth 4th pick.\
-  \ </li>\n<li>Drafted Myles Turner <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+11091\" data-vorp-text=\"+11091.8\">+11091</span> with 11th pick\
-  \ but was worth 7th pick. </li>\n</ul>\n    "
+  <li>Drafted Paul George with 10th pick but was worth 1th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+37\" data-vorp-text=\"+37.6\">+37.6</span>\
+  \ (expectation difference)</li>\n<li>Drafted Danny Granger with 17th pick but was\
+  \ worth 5th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +11\" data-vorp-text=\"+11.2\">+11.2</span> (expectation difference)</li>\n<li>Drafted\
+  \ Myles Turner with 11th pick but was worth 4th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+5\" data-vorp-text=\"+5.3\">+5.3</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Paul George with 10th pick but was worth 1th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+110545\" data-vorp-text=\"\
+  +110545.8\">+110545</span> (expectation difference)</li>\n<li>Drafted Danny Granger\
+  \ with 17th pick but was worth 4th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+33276\" data-vorp-text=\"+33276.6\">+33276</span> (expectation\
+  \ difference)</li>\n<li>Drafted Myles Turner with 11th pick but was worth 7th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+11091\" data-vorp-text=\"\
+  +11091.8\">+11091</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 2017
 final_bpm: -50452
 final_vorp: 67
@@ -69,6 +74,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-5340\" data-vorp-text=\"\
   -5340.6\">-5340</span> in 2009.</li>\n</ul>\n    "
 signing_num_players: 69
+signing_overall_grade_bpm: D+
+signing_overall_grade_vorp: B+
 signing_overall_percentile_bpm: 40
 signing_overall_percentile_vorp: 75
 signing_rating_bpm: 0
@@ -122,6 +129,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"\
   +0.0\">+0</span> to SAS.</li>\n</ul>\n    "
 trade_num: 88
+trade_overall_grade_bpm: F
+trade_overall_grade_vorp: C+
 trade_overall_percentile_bpm: 20
 trade_overall_percentile_vorp: 59
 trade_rating_bpm: 0

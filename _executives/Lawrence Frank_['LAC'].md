@@ -1,20 +1,23 @@
 ---
 bpm_rank: 57
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Jerome Robinson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -6\" data-vorp-text=\"-6.5\">-6.5</span> with 13th pick but was worth 59th pick.</li>\n\
-  <li>Drafted Kobe Brown <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.1\">-0.1</span> with 30th pick but was worth 35th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Jerome Robinson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -9298\" data-vorp-text=\"-9298.2\">-9298</span> with 13th pick but was worth 44th\
-  \ pick.</li>\n<li>Drafted Kobe Brown <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-169\" data-vorp-text=\"-169.2\">-169</span> with 30th pick but\
-  \ was worth 31th pick.</li>\n</ul>\n    "
+  <li>Drafted Jerome Robinson with 13th pick but was worth 59th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-6\" data-vorp-text=\"-6.5\">-6.5</span>\
+  \ (expectation difference)</li>\n<li>Drafted Kobe Brown with 30th pick but was worth\
+  \ 35th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"\
+  -0.1\">-0.1</span> (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\"\
+  >Their biggest busts: </h5><ul id=bpm-toggle>\n<li>Drafted Jerome Robinson with\
+  \ 13th pick but was worth 44th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-9298\" data-vorp-text=\"-9298.2\">-9298</span> (expectation difference)</li>\n\
+  <li>Drafted Kobe Brown with 30th pick but was worth 31th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-169\" data-vorp-text=\"-169.2\">-169</span>\
+  \ (expectation difference)</li>\n</ul>\n    "
 draft_description: Lawrence Frank ranks in the 97th percentile for drafting among
   executives in our database. Frank's draft picks average out to be worth the equivalent
   of 9 spots higher than they were picked due to his good drafting.
 draft_num_players: 6
+draft_overall_grade_bpm: B
+draft_overall_grade_vorp: B
 draft_overall_percentile_vorp: 69
 draft_rating_bpm: 7
 draft_rating_grade_bpm: A+
@@ -29,16 +32,18 @@ draft_total_percentile_bpm: 41
 draft_total_percentile_vorp: 41
 draft_total_vorp: 2
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Terance Mann <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +3\" data-vorp-text=\"+3.3\">+3.3</span> with 48th pick but was worth 11th pick.\
-  \ </li>\n<li>Drafted Jordan Miller <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+0\" data-vorp-text=\"+0.7\">+0.7</span> with 48th pick but was\
-  \ worth 28th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
-  \ id=bpm-toggle>\n<li>Drafted Jordan Miller <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+5194\" data-vorp-text=\"+5194.3\">+5194</span> with 48th pick\
-  \ but was worth 24th pick. </li>\n<li>Drafted Terance Mann <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+3879\" data-vorp-text=\"+3879.2\">+3879</span>\
-  \ with 48th pick but was worth 40th pick. </li>\n</ul>\n    "
+  <li>Drafted Terance Mann with 48th pick but was worth 11th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+3\" data-vorp-text=\"+3.3\">+3.3</span>\
+  \ (expectation difference)</li>\n<li>Drafted Jordan Miller with 48th pick but was\
+  \ worth 28th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +0\" data-vorp-text=\"+0.7\">+0.7</span> (expectation difference)</li>\n</ul>\n\
+  \    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted\
+  \ Jordan Miller with 48th pick but was worth 24th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+5194\" data-vorp-text=\"+5194.3\">+5194</span>\
+  \ (expectation difference)</li>\n<li>Drafted Terance Mann with 48th pick but was\
+  \ worth 40th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +3879\" data-vorp-text=\"+3879.2\">+3879</span> (expectation difference)</li>\n\
+  </ul>\n    "
 end_year: 2026
 final_bpm: 2461
 final_vorp: 25
@@ -61,6 +66,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ Bradley <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-6729\"\
   \ data-vorp-text=\"-6729.8\">-6729</span> in 2018.</li>\n</ul>\n    "
 signing_num_players: 103
+signing_overall_grade_bpm: A
+signing_overall_grade_vorp: A+
 signing_overall_percentile_bpm: 93
 signing_overall_percentile_vorp: 95
 signing_rating_bpm: 0
@@ -123,6 +130,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ badge-success\" data-bpm-text=\"+2028\" data-vorp-text=\"+0.3\">+2028</span> to\
   \ OKC.</li>\n</ul>\n    "
 trade_num: 130
+trade_overall_grade_bpm: D+
+trade_overall_grade_vorp: C
 trade_overall_percentile_bpm: 38
 trade_overall_percentile_vorp: 52
 trade_rating_bpm: 0

@@ -1,17 +1,20 @@
 ---
 bpm_rank: 150
 draft_bust_list: "\n    \n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
-  \ id=bpm-toggle>\n<li>Drafted Tim Hardaway Jr. <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-26344\" data-vorp-text=\"-26344.8\">-26344</span> with 24th pick\
-  \ but was worth 58th pick.</li>\n<li>Drafted Michael Bradley <span class=\"badge\
-  \ badge-pill badge-danger\" data-bpm-text=\"-8064\" data-vorp-text=\"-8064.0\">-8064</span>\
-  \ with 17th pick but was worth 46th pick.</li>\n<li>Drafted Morris Peterson <span\
-  \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-6550\" data-vorp-text=\"\
-  -6550.8\">-6550</span> with 21th pick but was worth 35th pick.</li>\n</ul>\n    "
+  \ id=bpm-toggle>\n<li>Drafted Tim Hardaway Jr. with 24th pick but was worth 58th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-26344\" data-vorp-text=\"\
+  -26344.8\">-26344</span> (expectation difference)</li>\n<li>Drafted Michael Bradley\
+  \ with 17th pick but was worth 46th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-8064\" data-vorp-text=\"-8064.0\">-8064</span> (expectation difference)</li>\n\
+  <li>Drafted Morris Peterson with 21th pick but was worth 35th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-6550\" data-vorp-text=\"-6550.8\"\
+  >-6550</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Glen Grunwald ranks in the 32th percentile for drafting among executives
   in our database. Grunwald's draft picks average out to be worth the equivalent of
   8 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
+draft_overall_grade_bpm: D+
+draft_overall_grade_vorp: C
 draft_overall_percentile_vorp: 50
 draft_rating_bpm: -19
 draft_rating_grade_bpm: F
@@ -26,14 +29,15 @@ draft_total_percentile_bpm: 68
 draft_total_percentile_vorp: 68
 draft_total_vorp: 27
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Morris Peterson <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +7\" data-vorp-text=\"+7.6\">+7.6</span> with 21th pick but was worth 7th pick.\
-  \ </li>\n<li>Drafted Tim Hardaway Jr. <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+3\" data-vorp-text=\"+3.7\">+3.7</span> with 24th pick but was\
-  \ worth 12th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
-  \ id=bpm-toggle>\n<li>Drafted Chris Bosh <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+4110\" data-vorp-text=\"+4110.2\">+4110</span> with 4th pick\
-  \ but was worth 3th pick. </li>\n</ul>\n    "
+  <li>Drafted Morris Peterson with 21th pick but was worth 7th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+7\" data-vorp-text=\"+7.6\">+7.6</span>\
+  \ (expectation difference)</li>\n<li>Drafted Tim Hardaway Jr. with 24th pick but\
+  \ was worth 12th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +3\" data-vorp-text=\"+3.7\">+3.7</span> (expectation difference)</li>\n</ul>\n\
+  \    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted\
+  \ Chris Bosh with 4th pick but was worth 3th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+4110\" data-vorp-text=\"+4110.2\">+4110</span>\
+  \ (expectation difference)</li>\n</ul>\n    "
 end_year: 2013
 final_bpm: -131828
 final_vorp: -3
@@ -56,6 +60,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-5194\" data-vorp-text=\"\
   -5194.6\">-5194</span> in 2002.</li>\n</ul>\n    "
 signing_num_players: 68
+signing_overall_grade_bpm: D
+signing_overall_grade_vorp: B-
 signing_overall_percentile_bpm: 32
 signing_overall_percentile_vorp: 62
 signing_rating_bpm: -1
@@ -107,6 +113,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   badge badge-pill badge-danger\" data-bpm-text=\"-89547\" data-vorp-text=\"-28.4\"\
   >-89547</span> to ORL.</li>\n</ul>\n    "
 trade_num: 127
+trade_overall_grade_bpm: D-
+trade_overall_grade_vorp: F
 trade_overall_percentile_bpm: 24
 trade_overall_percentile_vorp: 16
 trade_rating_bpm: 0

@@ -1,24 +1,28 @@
 ---
 bpm_rank: 47
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Stanley Johnson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -11\" data-vorp-text=\"-11.9\">-11.9</span> with 8th pick but was worth 58th pick.</li>\n\
-  <li>Drafted Luke Kennard <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -1\" data-vorp-text=\"-1.3\">-1.3</span> with 12th pick but was worth 14th pick.</li>\n\
-  <li>Drafted Darrun Hilliard <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.6\">-0.6</span> with 38th pick but was worth 53th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Stanley Johnson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -35220\" data-vorp-text=\"-35220.3\">-35220</span> with 8th pick but was worth 59th\
-  \ pick.</li>\n<li>Drafted Luke Kennard <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-5910\" data-vorp-text=\"-5910.0\">-5910</span> with 12th pick\
-  \ but was worth 19th pick.</li>\n<li>Drafted Henry Ellenson <span class=\"badge\
-  \ badge-pill badge-danger\" data-bpm-text=\"-2847\" data-vorp-text=\"-2847.7\">-2847</span>\
-  \ with 18th pick but was worth 35th pick.</li>\n</ul>\n    "
+  <li>Drafted Stanley Johnson with 8th pick but was worth 58th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-11\" data-vorp-text=\"-11.9\">-11.9</span>\
+  \ (expectation difference)</li>\n<li>Drafted Luke Kennard with 12th pick but was\
+  \ worth 14th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -1\" data-vorp-text=\"-1.3\">-1.3</span> (expectation difference)</li>\n<li>Drafted\
+  \ Darrun Hilliard with 38th pick but was worth 53th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.6\">-0.6</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Stanley Johnson with 8th pick but was worth 59th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-35220\" data-vorp-text=\"\
+  -35220.3\">-35220</span> (expectation difference)</li>\n<li>Drafted Luke Kennard\
+  \ with 12th pick but was worth 19th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-5910\" data-vorp-text=\"-5910.0\">-5910</span> (expectation difference)</li>\n\
+  <li>Drafted Henry Ellenson with 18th pick but was worth 35th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-2847\" data-vorp-text=\"-2847.7\"\
+  >-2847</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Stan Van Gundy ranks in the 28th percentile for drafting among
   executives in our database. Van's draft picks average out to be worth the equivalent
   of 9 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 6
+draft_overall_grade_bpm: D+
+draft_overall_grade_vorp: D-
 draft_overall_percentile_vorp: 20
 draft_rating_bpm: -6
 draft_rating_grade_bpm: C+
@@ -33,12 +37,13 @@ draft_total_percentile_bpm: 12
 draft_total_percentile_vorp: 12
 draft_total_vorp: -1
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Spencer Dinwiddie <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +8\" data-vorp-text=\"+8.3\">+8.3</span> with 38th pick but was worth 10th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Spencer Dinwiddie <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +3480\" data-vorp-text=\"+3480.7\">+3480</span> with 38th pick but was worth 26th\
-  \ pick. </li>\n</ul>\n    "
+  <li>Drafted Spencer Dinwiddie with 38th pick but was worth 10th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+8\" data-vorp-text=\"+8.3\">+8.3</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ wins: </h5><ul id=bpm-toggle>\n<li>Drafted Spencer Dinwiddie with 38th pick but\
+  \ was worth 26th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +3480\" data-vorp-text=\"+3480.7\">+3480</span> (expectation difference)</li>\n\
+  </ul>\n    "
 end_year: 2018
 final_bpm: 16776
 final_vorp: 34
@@ -61,6 +66,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-danger\" data-bpm-text=\"-1915\" data-vorp-text=\"-1915.5\">-1915</span>\
   \ in 2016.</li>\n</ul>\n    "
 signing_num_players: 46
+signing_overall_grade_bpm: A
+signing_overall_grade_vorp: A
 signing_overall_percentile_bpm: 90
 signing_overall_percentile_vorp: 87
 signing_rating_bpm: 0
@@ -111,6 +118,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ badge-success\" data-bpm-text=\"+2026\" data-vorp-text=\"-1.3\">+2026</span> to\
   \ BOS.</li>\n</ul>\n    "
 trade_num: 47
+trade_overall_grade_bpm: B+
+trade_overall_grade_vorp: B+
 trade_overall_percentile_bpm: 78
 trade_overall_percentile_vorp: 76
 trade_rating_bpm: 0

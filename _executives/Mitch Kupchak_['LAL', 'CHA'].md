@@ -1,24 +1,28 @@
 ---
 bpm_rank: 162
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Brandon Ingram <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -11\" data-vorp-text=\"-11.0\">-11.0</span> with 2th pick but was worth 11th pick.</li>\n\
-  <li>Drafted D'Angelo Russell <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -5\" data-vorp-text=\"-5.7\">-5.7</span> with 2th pick but was worth 5th pick.</li>\n\
-  <li>Drafted Andrew Bynum <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -1\" data-vorp-text=\"-1.5\">-1.5</span> with 10th pick but was worth 12th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Brandon Ingram <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -37642\" data-vorp-text=\"-37642.4\">-37642</span> with 2th pick but was worth 11th\
-  \ pick.</li>\n<li>Drafted D'Angelo Russell <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-30349\" data-vorp-text=\"-30349.2\">-30349</span> with 2th pick\
-  \ but was worth 8th pick.</li>\n<li>Drafted Brian Cook <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-8959\" data-vorp-text=\"-8959.8\">-8959</span>\
-  \ with 24th pick but was worth 40th pick.</li>\n</ul>\n    "
+  <li>Drafted Brandon Ingram with 2th pick but was worth 11th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-11\" data-vorp-text=\"-11.0\">-11.0</span>\
+  \ (expectation difference)</li>\n<li>Drafted D'Angelo Russell with 2th pick but\
+  \ was worth 5th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -5\" data-vorp-text=\"-5.7\">-5.7</span> (expectation difference)</li>\n<li>Drafted\
+  \ Andrew Bynum with 10th pick but was worth 12th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-1\" data-vorp-text=\"-1.5\">-1.5</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Brandon Ingram with 2th pick but was worth 11th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-37642\" data-vorp-text=\"\
+  -37642.4\">-37642</span> (expectation difference)</li>\n<li>Drafted D'Angelo Russell\
+  \ with 2th pick but was worth 8th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-30349\" data-vorp-text=\"-30349.2\">-30349</span> (expectation\
+  \ difference)</li>\n<li>Drafted Brian Cook with 24th pick but was worth 40th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-8959\" data-vorp-text=\"\
+  -8959.8\">-8959</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Mitch Kupchak ranks in the 80th percentile for drafting among executives
   in our database. Kupchak's draft picks average out to be worth the equivalent of
   3 spots higher than they were picked due to his good drafting.
 draft_num_players: 23
+draft_overall_grade_bpm: B+
+draft_overall_grade_vorp: B
 draft_overall_percentile_vorp: 73
 draft_rating_bpm: 5
 draft_rating_grade_bpm: A
@@ -33,21 +37,23 @@ draft_total_percentile_bpm: 65
 draft_total_percentile_vorp: 65
 draft_total_vorp: 21
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Marc Gasol <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +36\" data-vorp-text=\"+36.9\">+36.9</span> with 48th pick but was worth 4th pick.\
-  \ </li>\n<li>Drafted Patrick Beverley <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+12\" data-vorp-text=\"+12.1\">+12.1</span> with 42th pick but\
-  \ was worth 12th pick. </li>\n<li>Drafted Larry Nance Jr. <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+10\" data-vorp-text=\"+10.2\">+10.2</span> with\
-  \ 27th pick but was worth 8th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Marc Gasol <span class=\"badge\
-  \ badge-pill badge-success\" data-bpm-text=\"+105155\" data-vorp-text=\"+105155.7\"\
-  >+105155</span> with 48th pick but was worth 3th pick. </li>\n<li>Drafted Robert\
-  \ Sacre <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+41279\"\
-  \ data-vorp-text=\"+41279.8\">+41279</span> with 60th pick but was worth 48th pick.\
-  \ </li>\n<li>Drafted Derrick Caracter <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+26122\" data-vorp-text=\"+26122.5\">+26122</span> with 58th pick\
-  \ but was worth 34th pick. </li>\n</ul>\n    "
+  <li>Drafted Marc Gasol with 48th pick but was worth 4th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+36\" data-vorp-text=\"+36.9\">+36.9</span>\
+  \ (expectation difference)</li>\n<li>Drafted Patrick Beverley with 42th pick but\
+  \ was worth 12th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +12\" data-vorp-text=\"+12.1\">+12.1</span> (expectation difference)</li>\n<li>Drafted\
+  \ Larry Nance Jr. with 27th pick but was worth 8th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+10\" data-vorp-text=\"+10.2\">+10.2</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Marc Gasol with 48th pick but was worth 3th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+105155\" data-vorp-text=\"\
+  +105155.7\">+105155</span> (expectation difference)</li>\n<li>Drafted Robert Sacre\
+  \ with 60th pick but was worth 48th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+41279\" data-vorp-text=\"+41279.8\">+41279</span> (expectation\
+  \ difference)</li>\n<li>Drafted Derrick Caracter with 58th pick but was worth 34th\
+  \ pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+26122\"\
+  \ data-vorp-text=\"+26122.5\">+26122</span> (expectation difference)</li>\n</ul>\n\
+  \    "
 end_year: 2024
 final_bpm: -265025
 final_vorp: 12
@@ -70,6 +76,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-8159\" data-vorp-text=\"\
   -8159.5\">-8159</span> in 2008.</li>\n</ul>\n    "
 signing_num_players: 174
+signing_overall_grade_bpm: D+
+signing_overall_grade_vorp: B+
 signing_overall_percentile_bpm: 36
 signing_overall_percentile_vorp: 73
 signing_rating_bpm: 0
@@ -130,6 +138,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   >-1016</span>, Rajon Rondo <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
   -40961\" data-vorp-text=\"-19.1\">-40961</span> to BOS.</li>\n</ul>\n    "
 trade_num: 174
+trade_overall_grade_bpm: D
+trade_overall_grade_vorp: D
 trade_overall_percentile_bpm: 27
 trade_overall_percentile_vorp: 30
 trade_rating_bpm: 0

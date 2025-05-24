@@ -1,24 +1,28 @@
 ---
 bpm_rank: 51
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted D.J. Wilson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -3\" data-vorp-text=\"-3.1\">-3.1</span> with 17th pick but was worth 40th pick.</li>\n\
-  <li>Drafted MarJon Beauchamp <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.8\">-0.8</span> with 24th pick but was worth 46th pick.</li>\n\
-  <li>Drafted Jordan Nwora <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.3\">-0.3</span> with 45th pick but was worth 53th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted MarJon Beauchamp <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -5006\" data-vorp-text=\"-5006.4\">-5006</span> with 24th pick but was worth 40th\
-  \ pick.</li>\n<li>Drafted D.J. Wilson <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-4750\" data-vorp-text=\"-4750.6\">-4750</span> with 17th pick\
-  \ but was worth 38th pick.</li>\n<li>Drafted Jordan Nwora <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.0\">0</span> with 45th\
-  \ pick but was worth 45th pick.</li>\n</ul>\n    "
+  <li>Drafted D.J. Wilson with 17th pick but was worth 40th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-3\" data-vorp-text=\"-3.1\">-3.1</span>\
+  \ (expectation difference)</li>\n<li>Drafted MarJon Beauchamp with 24th pick but\
+  \ was worth 46th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  0\" data-vorp-text=\"-0.8\">-0.8</span> (expectation difference)</li>\n<li>Drafted\
+  \ Jordan Nwora with 45th pick but was worth 53th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.3\">-0.3</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted MarJon Beauchamp with 24th pick but was worth 40th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-5006\" data-vorp-text=\"\
+  -5006.4\">-5006</span> (expectation difference)</li>\n<li>Drafted D.J. Wilson with\
+  \ 17th pick but was worth 38th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-4750\" data-vorp-text=\"-4750.6\">-4750</span> (expectation difference)</li>\n\
+  <li>Drafted Jordan Nwora with 45th pick but was worth 45th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.0\">0</span>\
+  \ (expectation difference)</li>\n</ul>\n    "
 draft_description: Jon Horst ranks in the 44th percentile for drafting among executives
   in our database. Horst's draft picks average out to be worth the equivalent of 5
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 10
+draft_overall_grade_bpm: C+
+draft_overall_grade_vorp: D+
 draft_overall_percentile_vorp: 39
 draft_rating_bpm: -2
 draft_rating_grade_bpm: B+
@@ -33,12 +37,13 @@ draft_total_percentile_bpm: 35
 draft_total_percentile_vorp: 35
 draft_total_vorp: 1
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Chris Livingston <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +1\" data-vorp-text=\"+1.8\">+1.8</span> with 58th pick but was worth 35th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Chris Livingston <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +13090\" data-vorp-text=\"+13090.0\">+13090</span> with 58th pick but was worth\
-  \ 26th pick. </li>\n</ul>\n    "
+  <li>Drafted Chris Livingston with 58th pick but was worth 35th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+1\" data-vorp-text=\"+1.8\">+1.8</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ wins: </h5><ul id=bpm-toggle>\n<li>Drafted Chris Livingston with 58th pick but\
+  \ was worth 26th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +13090\" data-vorp-text=\"+13090.0\">+13090</span> (expectation difference)</li>\n\
+  </ul>\n    "
 end_year: 2026
 final_bpm: 11733
 final_vorp: 50
@@ -61,6 +66,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ Nwora <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-5159\" data-vorp-text=\"\
   -5159.9\">-5159</span> in 2020.</li>\n</ul>\n    "
 signing_num_players: 142
+signing_overall_grade_bpm: C-
+signing_overall_grade_vorp: A-
 signing_overall_percentile_bpm: 47
 signing_overall_percentile_vorp: 80
 signing_rating_bpm: 0
@@ -110,6 +117,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   <li>Lost Malcolm Brogdon <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
   -9825\" data-vorp-text=\"-4.9\">-9825</span> to IND.</li>\n</ul>\n    "
 trade_num: 83
+trade_overall_grade_bpm: B+
+trade_overall_grade_vorp: B+
 trade_overall_percentile_bpm: 77
 trade_overall_percentile_vorp: 78
 trade_rating_bpm: 0

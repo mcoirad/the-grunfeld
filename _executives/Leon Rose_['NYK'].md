@@ -4,6 +4,8 @@ draft_bust_list: "\n    \n    \n    "
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
+draft_overall_grade_bpm: null
+draft_overall_grade_vorp: null
 draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
@@ -18,12 +20,13 @@ draft_total_percentile_bpm: 40
 draft_total_percentile_vorp: 40
 draft_total_vorp: 2
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Jericho Sims <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +1\" data-vorp-text=\"+1.8\">+1.8</span> with 58th pick but was worth 29th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Jericho Sims <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +10859\" data-vorp-text=\"+10859.6\">+10859</span> with 58th pick but was worth\
-  \ 38th pick. </li>\n</ul>\n    "
+  <li>Drafted Jericho Sims with 58th pick but was worth 29th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+1\" data-vorp-text=\"+1.8\">+1.8</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ wins: </h5><ul id=bpm-toggle>\n<li>Drafted Jericho Sims with 58th pick but was\
+  \ worth 38th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +10859\" data-vorp-text=\"+10859.6\">+10859</span> (expectation difference)</li>\n\
+  </ul>\n    "
 end_year: 2026
 final_bpm: 70052
 final_vorp: -13
@@ -46,6 +49,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-2260\" data-vorp-text=\"\
   -2260.5\">-2260</span> in 2024.</li>\n</ul>\n    "
 signing_num_players: 106
+signing_overall_grade_bpm: A
+signing_overall_grade_vorp: A-
 signing_overall_percentile_bpm: 92
 signing_overall_percentile_vorp: 83
 signing_rating_bpm: 0
@@ -129,6 +134,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ data-bpm-text=\"-4525\" data-vorp-text=\"-7.3\">-4525</span> to BRK.</li>\n</ul>\n\
   \    "
 trade_num: 119
+trade_overall_grade_bpm: B
+trade_overall_grade_vorp: C
 trade_overall_percentile_bpm: 68
 trade_overall_percentile_vorp: 49
 trade_rating_bpm: 0

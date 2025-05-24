@@ -1,24 +1,28 @@
 ---
 bpm_rank: 133
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Hasheem Thabeet <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -75\" data-vorp-text=\"-75.1\">-75.1</span> with 2th pick but was worth 51th pick.</li>\n\
-  <li>Drafted Kedrick Brown <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -14\" data-vorp-text=\"-14.1\">-14.1</span> with 11th pick but was worth 20th pick.</li>\n\
-  <li>Drafted Xavier Henry <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -7\" data-vorp-text=\"-7.1\">-7.1</span> with 12th pick but was worth 58th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Hasheem Thabeet <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -233701\" data-vorp-text=\"-233701.4\">-233701</span> with 2th pick but was worth\
-  \ 43th pick.</li>\n<li>Drafted Jaren Jackson Jr. <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-22276\" data-vorp-text=\"-22276.9\">-22276</span>\
-  \ with 4th pick but was worth 9th pick.</li>\n<li>Drafted Xavier Henry <span class=\"\
-  badge badge-pill badge-danger\" data-bpm-text=\"-12782\" data-vorp-text=\"-12782.0\"\
-  >-12782</span> with 12th pick but was worth 55th pick.</li>\n</ul>\n    "
+  <li>Drafted Hasheem Thabeet with 2th pick but was worth 51th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-75\" data-vorp-text=\"-75.1\">-75.1</span>\
+  \ (expectation difference)</li>\n<li>Drafted Kedrick Brown with 11th pick but was\
+  \ worth 20th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -14\" data-vorp-text=\"-14.1\">-14.1</span> (expectation difference)</li>\n<li>Drafted\
+  \ Xavier Henry with 12th pick but was worth 58th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-7\" data-vorp-text=\"-7.1\">-7.1</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Hasheem Thabeet with 2th pick but was worth 43th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-233701\" data-vorp-text=\"\
+  -233701.4\">-233701</span> (expectation difference)</li>\n<li>Drafted Jaren Jackson\
+  \ Jr. with 4th pick but was worth 9th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-22276\" data-vorp-text=\"-22276.9\">-22276</span> (expectation\
+  \ difference)</li>\n<li>Drafted Xavier Henry with 12th pick but was worth 55th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-12782\" data-vorp-text=\"\
+  -12782.0\">-12782</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Chris Wallace ranks in the 16th percentile for drafting among executives
   in our database. Wallace's draft picks average out to be worth the equivalent of
   13 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 16
+draft_overall_grade_bpm: C+
+draft_overall_grade_vorp: C-
 draft_overall_percentile_vorp: 47
 draft_rating_bpm: -12
 draft_rating_grade_bpm: D+
@@ -33,19 +37,20 @@ draft_total_percentile_bpm: 77
 draft_total_percentile_vorp: 77
 draft_total_vorp: 34
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted DeMarre Carroll <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +5\" data-vorp-text=\"+5.6\">+5.6</span> with 27th pick but was worth 16th pick.\
-  \ </li>\n<li>Drafted Mike Conley <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+4\" data-vorp-text=\"+4.2\">+4.2</span> with 4th pick but was\
-  \ worth 3th pick. </li>\n<li>Drafted Greivis Vásquez <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+1\" data-vorp-text=\"+1.8\">+1.8</span> with\
-  \ 28th pick but was worth 18th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Josh Selby <span class=\"badge\
-  \ badge-pill badge-success\" data-bpm-text=\"+13132\" data-vorp-text=\"+13132.8\"\
-  >+13132</span> with 49th pick but was worth 33th pick. </li>\n<li>Drafted DeMarre\
-  \ Carroll <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+259\"\
-  \ data-vorp-text=\"+259.2\">+259</span> with 27th pick but was worth 21th pick.\
-  \ </li>\n</ul>\n    "
+  <li>Drafted DeMarre Carroll with 27th pick but was worth 16th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+5\" data-vorp-text=\"+5.6\">+5.6</span>\
+  \ (expectation difference)</li>\n<li>Drafted Mike Conley with 4th pick but was worth\
+  \ 3th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+4\"\
+  \ data-vorp-text=\"+4.2\">+4.2</span> (expectation difference)</li>\n<li>Drafted\
+  \ Greivis Vásquez with 28th pick but was worth 18th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+1\" data-vorp-text=\"+1.8\">+1.8</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Josh Selby with 49th pick but was worth 33th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+13132\" data-vorp-text=\"\
+  +13132.8\">+13132</span> (expectation difference)</li>\n<li>Drafted DeMarre Carroll\
+  \ with 27th pick but was worth 21th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+259\" data-vorp-text=\"+259.2\">+259</span> (expectation difference)</li>\n\
+  </ul>\n    "
 end_year: 2019
 final_bpm: -85779
 final_vorp: 54
@@ -68,6 +73,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-7077\" data-vorp-text=\"\
   -7077.6\">-7077</span> in 2016.</li>\n</ul>\n    "
 signing_num_players: 141
+signing_overall_grade_bpm: C-
+signing_overall_grade_vorp: C+
 signing_overall_percentile_bpm: 41
 signing_overall_percentile_vorp: 56
 signing_rating_bpm: 0
@@ -134,6 +141,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ Mike Miller <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-2591\"\
   \ data-vorp-text=\"-1.8\">-2591</span> to MIN.</li>\n</ul>\n    "
 trade_num: 146
+trade_overall_grade_bpm: D
+trade_overall_grade_vorp: B-
 trade_overall_percentile_bpm: 33
 trade_overall_percentile_vorp: 64
 trade_rating_bpm: 0

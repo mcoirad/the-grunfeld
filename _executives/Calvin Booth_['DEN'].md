@@ -4,6 +4,8 @@ draft_bust_list: "\n    \n    \n    "
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
 draft_num_players: 1
+draft_overall_grade_bpm: null
+draft_overall_grade_vorp: null
 draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
@@ -18,10 +20,10 @@ draft_total_percentile_bpm: 38
 draft_total_percentile_vorp: 38
 draft_total_vorp: 1
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Christian Braun <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +1\" data-vorp-text=\"+1.5\">+1.5</span> with 21th pick but was worth 11th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  </ul>\n    "
+  <li>Drafted Christian Braun with 21th pick but was worth 11th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+1\" data-vorp-text=\"+1.5\">+1.5</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ wins: </h5><ul id=bpm-toggle>\n</ul>\n    "
 end_year: 2026
 final_bpm: -35628
 final_vorp: -5
@@ -44,6 +46,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-5814\" data-vorp-text=\"-5814.4\">-5814</span>\
   \ in 2023.</li>\n</ul>\n    "
 signing_num_players: 30
+signing_overall_grade_bpm: D-
+signing_overall_grade_vorp: F
 signing_overall_percentile_bpm: 20
 signing_overall_percentile_vorp: 15
 signing_rating_bpm: -1
@@ -99,6 +103,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ data-bpm-text=\"-847\" data-vorp-text=\"-1.1\">-847</span> to WAS.</li>\n</ul>\n\
   \    "
 trade_num: 30
+trade_overall_grade_bpm: C-
+trade_overall_grade_vorp: D
 trade_overall_percentile_bpm: 46
 trade_overall_percentile_vorp: 27
 trade_rating_bpm: 0

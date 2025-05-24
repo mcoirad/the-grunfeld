@@ -1,19 +1,23 @@
 ---
 bpm_rank: 37
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Lonzo Ball <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -18\" data-vorp-text=\"-18.5\">-18.5</span> with 2th pick but was worth 12th pick.</li>\n\
-  <li>Drafted Sviatoslav Mykhailiuk <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"0\" data-vorp-text=\"-0.6\">-0.6</span> with 47th pick but was\
-  \ worth 53th pick.</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
-  \ id=bpm-toggle>\n<li>Drafted Lonzo Ball <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-54886\" data-vorp-text=\"-54886.5\">-54886</span> with 2th pick\
-  \ but was worth 10th pick.</li>\n<li>Drafted Sviatoslav Mykhailiuk <span class=\"\
-  badge badge-pill badge-danger\" data-bpm-text=\"-3106\" data-vorp-text=\"-3106.6\"\
-  >-3106</span> with 47th pick but was worth 52th pick.</li>\n</ul>\n    "
+  <li>Drafted Lonzo Ball with 2th pick but was worth 12th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-18\" data-vorp-text=\"-18.5\">-18.5</span>\
+  \ (expectation difference)</li>\n<li>Drafted Sviatoslav Mykhailiuk with 47th pick\
+  \ but was worth 53th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  0\" data-vorp-text=\"-0.6\">-0.6</span> (expectation difference)</li>\n</ul>\n \
+  \   <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n<li>Drafted\
+  \ Lonzo Ball with 2th pick but was worth 10th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-54886\" data-vorp-text=\"-54886.5\">-54886</span>\
+  \ (expectation difference)</li>\n<li>Drafted Sviatoslav Mykhailiuk with 47th pick\
+  \ but was worth 52th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -3106\" data-vorp-text=\"-3106.6\">-3106</span> (expectation difference)</li>\n\
+  </ul>\n    "
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
+draft_overall_grade_bpm: null
+draft_overall_grade_vorp: null
 draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
@@ -28,12 +32,13 @@ draft_total_percentile_bpm: 37
 draft_total_percentile_vorp: 37
 draft_total_vorp: 1
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Moritz Wagner <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +2\" data-vorp-text=\"+2.6\">+2.6</span> with 25th pick but was worth 17th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Moritz Wagner <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +1752\" data-vorp-text=\"+1752.9\">+1752</span> with 25th pick but was worth 13th\
-  \ pick. </li>\n</ul>\n    "
+  <li>Drafted Moritz Wagner with 25th pick but was worth 17th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+2\" data-vorp-text=\"+2.6\">+2.6</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ wins: </h5><ul id=bpm-toggle>\n<li>Drafted Moritz Wagner with 25th pick but was\
+  \ worth 13th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +1752\" data-vorp-text=\"+1752.9\">+1752</span> (expectation difference)</li>\n\
+  </ul>\n    "
 end_year: 2019
 final_bpm: 47930
 final_vorp: 26
@@ -56,6 +61,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-3378\" data-vorp-text=\"\
   -3378.1\">-3378</span> in 2018.</li>\n</ul>\n    "
 signing_num_players: 39
+signing_overall_grade_bpm: A-
+signing_overall_grade_vorp: A
 signing_overall_percentile_bpm: 87
 signing_overall_percentile_vorp: 91
 signing_rating_bpm: 0
@@ -106,6 +113,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   badge badge-pill badge-danger\" data-bpm-text=\"-13371\" data-vorp-text=\"-9.4\"\
   >-13371</span> to LAC.</li>\n</ul>\n    "
 trade_num: 26
+trade_overall_grade_bpm: F
+trade_overall_grade_vorp: D-
 trade_overall_percentile_bpm: 12
 trade_overall_percentile_vorp: 22
 trade_rating_bpm: -1

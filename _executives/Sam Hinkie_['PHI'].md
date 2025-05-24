@@ -1,25 +1,28 @@
 ---
 bpm_rank: 128
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Jahlil Okafor <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -17\" data-vorp-text=\"-17.9\">-17.9</span> with 3th pick but was worth 37th pick.</li>\n\
-  <li>Drafted Michael Carter-Williams <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-5\" data-vorp-text=\"-5.3\">-5.3</span> with 11th pick but was\
-  \ worth 19th pick.</li>\n<li>Drafted K.J. McDaniels <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.4\">-0.4</span> with 32th\
-  \ pick but was worth 46th pick.</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
-  \ busts: </h5><ul id=bpm-toggle>\n<li>Drafted Jahlil Okafor <span class=\"badge\
-  \ badge-pill badge-danger\" data-bpm-text=\"-37074\" data-vorp-text=\"-37074.4\"\
-  >-37074</span> with 3th pick but was worth 52th pick.</li>\n<li>Drafted Michael\
-  \ Carter-Williams <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -14455\" data-vorp-text=\"-14455.4\">-14455</span> with 11th pick but was worth\
-  \ 49th pick.</li>\n<li>Drafted Jerami Grant <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-4169\" data-vorp-text=\"-4169.4\">-4169</span> with 39th pick\
-  \ but was worth 49th pick.</li>\n</ul>\n    "
+  <li>Drafted Jahlil Okafor with 3th pick but was worth 37th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-17\" data-vorp-text=\"-17.9\">-17.9</span>\
+  \ (expectation difference)</li>\n<li>Drafted Michael Carter-Williams with 11th pick\
+  \ but was worth 19th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -5\" data-vorp-text=\"-5.3\">-5.3</span> (expectation difference)</li>\n<li>Drafted\
+  \ K.J. McDaniels with 32th pick but was worth 46th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.4\">-0.4</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Jahlil Okafor with 3th pick but was worth 52th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-37074\" data-vorp-text=\"\
+  -37074.4\">-37074</span> (expectation difference)</li>\n<li>Drafted Michael Carter-Williams\
+  \ with 11th pick but was worth 49th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-14455\" data-vorp-text=\"-14455.4\">-14455</span> (expectation\
+  \ difference)</li>\n<li>Drafted Jerami Grant with 39th pick but was worth 49th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-4169\" data-vorp-text=\"\
+  -4169.4\">-4169</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Sam Hinkie ranks in the 55th percentile for drafting among executives
   in our database. Hinkie's draft picks average out to be worth the equivalent of
   1 spot lower than they were picked due to their terrible drafting.
 draft_num_players: 6
+draft_overall_grade_bpm: C
+draft_overall_grade_vorp: B-
 draft_overall_percentile_vorp: 65
 draft_rating_bpm: -13
 draft_rating_grade_bpm: D
@@ -34,14 +37,15 @@ draft_total_percentile_bpm: 74
 draft_total_percentile_vorp: 74
 draft_total_vorp: 34
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Joel Embiid <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +15\" data-vorp-text=\"+15.2\">+15.2</span> with 3th pick but was worth 2th pick.\
-  \ </li>\n<li>Drafted Jerami Grant <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+8\" data-vorp-text=\"+8.0\">+8.0</span> with 39th pick but was\
-  \ worth 12th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
-  \ id=bpm-toggle>\n<li>Drafted Joel Embiid <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+71563\" data-vorp-text=\"+71563.5\">+71563</span> with 3th pick\
-  \ but was worth 2th pick. </li>\n</ul>\n    "
+  <li>Drafted Joel Embiid with 3th pick but was worth 2th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+15\" data-vorp-text=\"+15.2\">+15.2</span>\
+  \ (expectation difference)</li>\n<li>Drafted Jerami Grant with 39th pick but was\
+  \ worth 12th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +8\" data-vorp-text=\"+8.0\">+8.0</span> (expectation difference)</li>\n</ul>\n\
+  \    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted\
+  \ Joel Embiid with 3th pick but was worth 2th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+71563\" data-vorp-text=\"+71563.5\">+71563</span>\
+  \ (expectation difference)</li>\n</ul>\n    "
 end_year: 2016
 final_bpm: -76674
 final_vorp: 2
@@ -64,6 +68,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ Williams <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-6479\"\
   \ data-vorp-text=\"-6479.2\">-6479</span> in 2013.</li>\n</ul>\n    "
 signing_num_players: 50
+signing_overall_grade_bpm: D-
+signing_overall_grade_vorp: F
 signing_overall_percentile_bpm: 25
 signing_overall_percentile_vorp: 17
 signing_rating_bpm: -1
@@ -125,6 +131,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ Fox <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-15927\" data-vorp-text=\"\
   -12.7\">-15927</span> to SAC.</li>\n</ul>\n    "
 trade_num: 88
+trade_overall_grade_bpm: D
+trade_overall_grade_vorp: F
 trade_overall_percentile_bpm: 31
 trade_overall_percentile_vorp: 17
 trade_rating_bpm: 0

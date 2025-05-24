@@ -4,6 +4,8 @@ draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
   a draft grade.
 draft_num_players: 0
+draft_overall_grade_bpm: null
+draft_overall_grade_vorp: null
 draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
@@ -28,6 +30,8 @@ signing_description: 'Jeff Peterson ranks in the 68th percentile for free agency
   among executives in our database. '
 signing_lose_list: "\n    \n    \n    "
 signing_num_players: 16
+signing_overall_grade_bpm: A
+signing_overall_grade_vorp: C-
 signing_overall_percentile_bpm: 89
 signing_overall_percentile_vorp: 45
 signing_rating_bpm: 0
@@ -62,6 +66,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   >-8302</span>, Reggie Jackson <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
   +0\" data-vorp-text=\"+0.0\">+0</span> to CHO.</li>\n</ul>\n    "
 trade_num: 12
+trade_overall_grade_bpm: C-
+trade_overall_grade_vorp: C+
 trade_overall_percentile_bpm: 45
 trade_overall_percentile_vorp: 55
 trade_rating_bpm: 0

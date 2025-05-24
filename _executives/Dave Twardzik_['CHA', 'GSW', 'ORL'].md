@@ -1,24 +1,28 @@
 ---
 bpm_rank: 127
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Joe Smith <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -93\" data-vorp-text=\"-93.9\">-93.9</span> with 1th pick but was worth 15th pick.</li>\n\
-  <li>Drafted Todd Fuller <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -17\" data-vorp-text=\"-17.9\">-17.9</span> with 11th pick but was worth 55th pick.</li>\n\
-  <li>Drafted Andrew DeClercq <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -2\" data-vorp-text=\"-2.3\">-2.3</span> with 34th pick but was worth 55th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Joe Smith <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -322873\" data-vorp-text=\"-322873.8\">-322873</span> with 1th pick but was worth\
-  \ 57th pick.</li>\n<li>Drafted Andrew DeClercq <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-24380\" data-vorp-text=\"-24380.3\">-24380</span> with 34th pick\
-  \ but was worth 53th pick.</li>\n<li>Drafted Todd Fuller <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-22459\" data-vorp-text=\"-22459.2\">-22459</span>\
-  \ with 11th pick but was worth 47th pick.</li>\n</ul>\n    "
+  <li>Drafted Joe Smith with 1th pick but was worth 15th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-93\" data-vorp-text=\"-93.9\">-93.9</span>\
+  \ (expectation difference)</li>\n<li>Drafted Todd Fuller with 11th pick but was\
+  \ worth 55th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -17\" data-vorp-text=\"-17.9\">-17.9</span> (expectation difference)</li>\n<li>Drafted\
+  \ Andrew DeClercq with 34th pick but was worth 55th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-2\" data-vorp-text=\"-2.3\">-2.3</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Joe Smith with 1th pick but was worth 57th pick. <span\
+  \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-322873\" data-vorp-text=\"\
+  -322873.8\">-322873</span> (expectation difference)</li>\n<li>Drafted Andrew DeClercq\
+  \ with 34th pick but was worth 53th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-24380\" data-vorp-text=\"-24380.3\">-24380</span> (expectation\
+  \ difference)</li>\n<li>Drafted Todd Fuller with 11th pick but was worth 47th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-22459\" data-vorp-text=\"\
+  -22459.2\">-22459</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Dave Twardzik ranks in the 6th percentile for drafting among executives
   in our database. Twardzik's draft picks average out to be worth the equivalent of
   17 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 4
+draft_overall_grade_bpm: F
+draft_overall_grade_vorp: F
 draft_overall_percentile_vorp: 8
 draft_rating_bpm: -25
 draft_rating_grade_bpm: F
@@ -57,6 +61,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-1458\" data-vorp-text=\"-1458.0\">-1458</span>\
   \ in 1995.</li>\n</ul>\n    "
 signing_num_players: 41
+signing_overall_grade_bpm: B+
+signing_overall_grade_vorp: C
 signing_overall_percentile_bpm: 74
 signing_overall_percentile_vorp: 52
 signing_rating_bpm: 0
@@ -112,6 +118,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-54520\" data-vorp-text=\"\
   -20.5\">-54520</span> to MIA.</li>\n</ul>\n    "
 trade_num: 52
+trade_overall_grade_bpm: C+
+trade_overall_grade_vorp: D-
 trade_overall_percentile_bpm: 54
 trade_overall_percentile_vorp: 26
 trade_rating_bpm: 0

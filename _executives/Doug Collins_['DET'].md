@@ -5,6 +5,8 @@ draft_description: Doug Collins ranks in the 76th percentile for drafting among 
   in our database. Collins's draft picks average out to be worth the equivalent of
   2 spots higher than they were picked due to his good drafting.
 draft_num_players: 7
+draft_overall_grade_bpm: B
+draft_overall_grade_vorp: B-
 draft_overall_percentile_vorp: 62
 draft_rating_bpm: 2
 draft_rating_grade_bpm: A
@@ -19,18 +21,20 @@ draft_total_percentile_bpm: 48
 draft_total_percentile_vorp: 48
 draft_total_vorp: 6
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Jerome Williams <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +7\" data-vorp-text=\"+7.4\">+7.4</span> with 26th pick but was worth 14th pick.\
-  \ </li>\n<li>Drafted Don Reid <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +4\" data-vorp-text=\"+4.1\">+4.1</span> with 58th pick but was worth 38th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Don Reid <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +29756\" data-vorp-text=\"+29756.0\">+29756</span> with 58th pick but was worth\
-  \ 46th pick. </li>\n<li>Drafted Jerome Williams <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+4421\" data-vorp-text=\"+4421.9\">+4421</span> with 26th pick\
-  \ but was worth 12th pick. </li>\n<li>Drafted Lou Roe <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+1145\" data-vorp-text=\"+1145.1\">+1145</span>\
-  \ with 30th pick but was worth 28th pick. </li>\n</ul>\n    "
+  <li>Drafted Jerome Williams with 26th pick but was worth 14th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+7\" data-vorp-text=\"+7.4\">+7.4</span>\
+  \ (expectation difference)</li>\n<li>Drafted Don Reid with 58th pick but was worth\
+  \ 38th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+4\"\
+  \ data-vorp-text=\"+4.1\">+4.1</span> (expectation difference)</li>\n</ul>\n   \
+  \ <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted\
+  \ Don Reid with 58th pick but was worth 46th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+29756\" data-vorp-text=\"+29756.0\">+29756</span>\
+  \ (expectation difference)</li>\n<li>Drafted Jerome Williams with 26th pick but\
+  \ was worth 12th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +4421\" data-vorp-text=\"+4421.9\">+4421</span> (expectation difference)</li>\n\
+  <li>Drafted Lou Roe with 30th pick but was worth 28th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+1145\" data-vorp-text=\"+1145.1\"\
+  >+1145</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 1998
 final_bpm: -33567
 final_vorp: 0
@@ -51,6 +55,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   <li>Signed Bison Dele <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
   -1177\" data-vorp-text=\"-1177.0\">-1177</span> in 1997.</li>\n</ul>\n    "
 signing_num_players: 10
+signing_overall_grade_bpm: D-
+signing_overall_grade_vorp: C+
 signing_overall_percentile_bpm: 20
 signing_overall_percentile_vorp: 54
 signing_rating_bpm: -1
@@ -106,6 +112,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to PHI.</li>\n</ul>\n \
   \   "
 trade_num: 27
+trade_overall_grade_bpm: D+
+trade_overall_grade_vorp: C
 trade_overall_percentile_bpm: 34
 trade_overall_percentile_vorp: 52
 trade_rating_bpm: 0

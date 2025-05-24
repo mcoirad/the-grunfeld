@@ -1,24 +1,28 @@
 ---
 bpm_rank: 21
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Emmanuel Mudiay <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -13\" data-vorp-text=\"-13.3\">-13.3</span> with 7th pick but was worth 60th pick.</li>\n\
-  <li>Drafted Juan Hernangómez <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.9\">-0.9</span> with 15th pick but was worth 21th pick.</li>\n\
-  <li>Drafted Zeke Nnaji <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.8\">-0.8</span> with 22th pick but was worth 45th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Emmanuel Mudiay <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -37761\" data-vorp-text=\"-37761.6\">-37761</span> with 7th pick but was worth 58th\
-  \ pick.</li>\n<li>Drafted Malik Beasley <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-12297\" data-vorp-text=\"-12297.1\">-12297</span> with 19th pick\
-  \ but was worth 54th pick.</li>\n<li>Drafted Juan Hernangómez <span class=\"badge\
-  \ badge-pill badge-danger\" data-bpm-text=\"-10011\" data-vorp-text=\"-10011.1\"\
-  >-10011</span> with 15th pick but was worth 50th pick.</li>\n</ul>\n    "
+  <li>Drafted Emmanuel Mudiay with 7th pick but was worth 60th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-13\" data-vorp-text=\"-13.3\">-13.3</span>\
+  \ (expectation difference)</li>\n<li>Drafted Juan Hernangómez with 15th pick but\
+  \ was worth 21th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  0\" data-vorp-text=\"-0.9\">-0.9</span> (expectation difference)</li>\n<li>Drafted\
+  \ Zeke Nnaji with 22th pick but was worth 45th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.8\">-0.8</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Emmanuel Mudiay with 7th pick but was worth 58th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-37761\" data-vorp-text=\"\
+  -37761.6\">-37761</span> (expectation difference)</li>\n<li>Drafted Malik Beasley\
+  \ with 19th pick but was worth 54th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-12297\" data-vorp-text=\"-12297.1\">-12297</span> (expectation\
+  \ difference)</li>\n<li>Drafted Juan Hernangómez with 15th pick but was worth 50th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-10011\" data-vorp-text=\"\
+  -10011.1\">-10011</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Tim Connelly ranks in the 92th percentile for drafting among executives
   in our database. Connelly's draft picks average out to be worth the equivalent of
   8 spots higher than they were picked due to his good drafting.
 draft_num_players: 14
+draft_overall_grade_bpm: A
+draft_overall_grade_vorp: A
 draft_overall_percentile_vorp: 92
 draft_rating_bpm: 4
 draft_rating_grade_bpm: A
@@ -33,21 +37,22 @@ draft_total_percentile_bpm: 92
 draft_total_percentile_vorp: 92
 draft_total_vorp: 95
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Nikola Jokić <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +73\" data-vorp-text=\"+73.6\">+73.6</span> with 41th pick but was worth 1th pick.\
-  \ </li>\n<li>Drafted Monte Morris <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+6\" data-vorp-text=\"+6.5\">+6.5</span> with 51th pick but was\
-  \ worth 13th pick. </li>\n<li>Drafted Malik Beasley <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+3\" data-vorp-text=\"+3.5\">+3.5</span> with\
-  \ 19th pick but was worth 13th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Nikola Jokić <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+250412\" data-vorp-text=\"+250412.7\"\
-  >+250412</span> with 41th pick but was worth 1th pick. </li>\n<li>Drafted Monte\
-  \ Morris <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+16919\"\
-  \ data-vorp-text=\"+16919.8\">+16919</span> with 51th pick but was worth 15th pick.\
-  \ </li>\n<li>Drafted Vlatko Čančar <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+8125\" data-vorp-text=\"+8125.5\">+8125</span> with 49th pick\
-  \ but was worth 36th pick. </li>\n</ul>\n    "
+  <li>Drafted Nikola Jokić with 41th pick but was worth 1th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+73\" data-vorp-text=\"+73.6\">+73.6</span>\
+  \ (expectation difference)</li>\n<li>Drafted Monte Morris with 51th pick but was\
+  \ worth 13th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +6\" data-vorp-text=\"+6.5\">+6.5</span> (expectation difference)</li>\n<li>Drafted\
+  \ Malik Beasley with 19th pick but was worth 13th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+3\" data-vorp-text=\"+3.5\">+3.5</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Nikola Jokić with 41th pick but was worth 1th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+250412\" data-vorp-text=\"\
+  +250412.7\">+250412</span> (expectation difference)</li>\n<li>Drafted Monte Morris\
+  \ with 51th pick but was worth 15th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+16919\" data-vorp-text=\"+16919.8\">+16919</span> (expectation\
+  \ difference)</li>\n<li>Drafted Vlatko Čančar with 49th pick but was worth 36th\
+  \ pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+8125\" data-vorp-text=\"\
+  +8125.5\">+8125</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 2026
 final_bpm: 117458
 final_vorp: 77
@@ -71,6 +76,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-6856\" data-vorp-text=\"-6856.0\">-6856</span>\
   \ in 2017.</li>\n</ul>\n    "
 signing_num_players: 141
+signing_overall_grade_bpm: D
+signing_overall_grade_vorp: B-
 signing_overall_percentile_bpm: 32
 signing_overall_percentile_vorp: 64
 signing_rating_bpm: 0
@@ -120,6 +127,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   badge badge-pill badge-danger\" data-bpm-text=\"-73173\" data-vorp-text=\"-27.7\"\
   >-73173</span> to UTA.</li>\n</ul>\n    "
 trade_num: 148
+trade_overall_grade_bpm: D-
+trade_overall_grade_vorp: D-
 trade_overall_percentile_bpm: 26
 trade_overall_percentile_vorp: 20
 trade_rating_bpm: 0

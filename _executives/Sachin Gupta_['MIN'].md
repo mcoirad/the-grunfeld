@@ -4,6 +4,8 @@ draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
   a draft grade.
 draft_num_players: 0
+draft_overall_grade_bpm: null
+draft_overall_grade_vorp: null
 draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
@@ -31,6 +33,8 @@ signing_lose_list: "\n    \n    <h5 id=\"bpm-toggle\">Their worst signings: </h5
   \ data-bpm-text=\"-17\" data-vorp-text=\"-17.4\">-17</span> in 2021.</li>\n</ul>\n\
   \    "
 signing_num_players: 5
+signing_overall_grade_bpm: A
+signing_overall_grade_vorp: C+
 signing_overall_percentile_bpm: 90
 signing_overall_percentile_vorp: 59
 signing_rating_bpm: 0
@@ -60,6 +64,8 @@ trade_description: This executive hasn't traded any players, and thus doesn't ha
   a trade grade.
 trade_lose_list: "\n    \n    \n    "
 trade_num: 0
+trade_overall_grade_bpm: null
+trade_overall_grade_vorp: null
 trade_overall_percentile_bpm: null
 trade_overall_percentile_vorp: null
 trade_rating_bpm: null

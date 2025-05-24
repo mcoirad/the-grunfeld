@@ -1,24 +1,28 @@
 ---
 bpm_rank: 131
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Gerald Henderson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -11\" data-vorp-text=\"-11.5\">-11.5</span> with 12th pick but was worth 30th pick.</li>\n\
-  <li>Drafted D.J. Augustin <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -8\" data-vorp-text=\"-8.3\">-8.3</span> with 9th pick but was worth 14th pick.</li>\n\
-  <li>Drafted Alexis Ajinça <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -3\" data-vorp-text=\"-3.0\">-3.0</span> with 20th pick but was worth 56th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Gerald Henderson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -35353\" data-vorp-text=\"-35353.7\">-35353</span> with 12th pick but was worth\
-  \ 59th pick.</li>\n<li>Drafted D.J. Augustin <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-32764\" data-vorp-text=\"-32764.7\">-32764</span> with 9th pick\
-  \ but was worth 49th pick.</li>\n<li>Drafted Alexis Ajinça <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-10934\" data-vorp-text=\"-10934.0\">-10934</span>\
-  \ with 20th pick but was worth 42th pick.</li>\n</ul>\n    "
+  <li>Drafted Gerald Henderson with 12th pick but was worth 30th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-11\" data-vorp-text=\"-11.5\">-11.5</span>\
+  \ (expectation difference)</li>\n<li>Drafted D.J. Augustin with 9th pick but was\
+  \ worth 14th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -8\" data-vorp-text=\"-8.3\">-8.3</span> (expectation difference)</li>\n<li>Drafted\
+  \ Alexis Ajinça with 20th pick but was worth 56th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-3\" data-vorp-text=\"-3.0\">-3.0</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Gerald Henderson with 12th pick but was worth 59th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-35353\" data-vorp-text=\"\
+  -35353.7\">-35353</span> (expectation difference)</li>\n<li>Drafted D.J. Augustin\
+  \ with 9th pick but was worth 49th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-32764\" data-vorp-text=\"-32764.7\">-32764</span> (expectation\
+  \ difference)</li>\n<li>Drafted Alexis Ajinça with 20th pick but was worth 42th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-10934\" data-vorp-text=\"\
+  -10934.0\">-10934</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Rod Higgins ranks in the 34th percentile for drafting among executives
   in our database. Higgins's draft picks average out to be worth the equivalent of
   7 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
+draft_overall_grade_bpm: D
+draft_overall_grade_vorp: C-
 draft_overall_percentile_vorp: 40
 draft_rating_bpm: -18
 draft_rating_grade_bpm: F
@@ -33,16 +37,18 @@ draft_total_percentile_bpm: 46
 draft_total_percentile_vorp: 46
 draft_total_vorp: 4
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Jared Dudley <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +9\" data-vorp-text=\"+9.8\">+9.8</span> with 22th pick but was worth 7th pick.\
-  \ </li>\n<li>Drafted Derrick Brown <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+0\" data-vorp-text=\"+0.4\">+0.4</span> with 40th pick but was\
-  \ worth 32th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
-  \ id=bpm-toggle>\n<li>Drafted Jared Dudley <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+4023\" data-vorp-text=\"+4023.4\">+4023</span> with 22th pick\
-  \ but was worth 10th pick. </li>\n<li>Drafted Derrick Brown <span class=\"badge\
-  \ badge-pill badge-success\" data-bpm-text=\"+2020\" data-vorp-text=\"+2020.4\"\
-  >+2020</span> with 40th pick but was worth 33th pick. </li>\n</ul>\n    "
+  <li>Drafted Jared Dudley with 22th pick but was worth 7th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+9\" data-vorp-text=\"+9.8\">+9.8</span>\
+  \ (expectation difference)</li>\n<li>Drafted Derrick Brown with 40th pick but was\
+  \ worth 32th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +0\" data-vorp-text=\"+0.4\">+0.4</span> (expectation difference)</li>\n</ul>\n\
+  \    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted\
+  \ Jared Dudley with 22th pick but was worth 10th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+4023\" data-vorp-text=\"+4023.4\">+4023</span>\
+  \ (expectation difference)</li>\n<li>Drafted Derrick Brown with 40th pick but was\
+  \ worth 33th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +2020\" data-vorp-text=\"+2020.4\">+2020</span> (expectation difference)</li>\n\
+  </ul>\n    "
 end_year: 2011
 final_bpm: -83723
 final_vorp: -9
@@ -65,6 +71,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ McGuire <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-2204\"\
   \ data-vorp-text=\"-2204.0\">-2204</span> in 2011.</li>\n</ul>\n    "
 signing_num_players: 21
+signing_overall_grade_bpm: D-
+signing_overall_grade_vorp: F
 signing_overall_percentile_bpm: 25
 signing_overall_percentile_vorp: 18
 signing_rating_bpm: -1
@@ -116,6 +124,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-9032\" data-vorp-text=\"\
   -4.5\">-9032</span> to DAL.</li>\n</ul>\n    "
 trade_num: 48
+trade_overall_grade_bpm: F
+trade_overall_grade_vorp: F
 trade_overall_percentile_bpm: 13
 trade_overall_percentile_vorp: 18
 trade_rating_bpm: 0

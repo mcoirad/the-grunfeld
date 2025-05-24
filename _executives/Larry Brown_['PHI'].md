@@ -4,6 +4,8 @@ draft_bust_list: "\n    \n    \n    "
 draft_description: This executive has only drafted 2 players and thus doesn't have
   a draft grade.
 draft_num_players: 2
+draft_overall_grade_bpm: null
+draft_overall_grade_vorp: null
 draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
@@ -39,6 +41,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ data-bpm-text=\"-1016\" data-vorp-text=\"-1016.5\">-1016</span> in 1998.</li>\n\
   </ul>\n    "
 signing_num_players: 4
+signing_overall_grade_bpm: null
+signing_overall_grade_vorp: null
 signing_overall_percentile_bpm: null
 signing_overall_percentile_vorp: null
 signing_rating_bpm: null
@@ -88,6 +92,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ Clarence Weatherspoon <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
   -103\" data-vorp-text=\"-0.6\">-103</span> to GSW.</li>\n</ul>\n    "
 trade_num: 27
+trade_overall_grade_bpm: A-
+trade_overall_grade_vorp: B-
 trade_overall_percentile_bpm: 80
 trade_overall_percentile_vorp: 63
 trade_rating_bpm: 1

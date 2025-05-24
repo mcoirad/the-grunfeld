@@ -1,21 +1,25 @@
 ---
 bpm_rank: 20
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted John Turner <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.6\">-0.6</span> with 20th pick but was worth 39th pick.</li>\n\
-  <li>Drafted Joel Freeland <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.6\">-0.6</span> with 30th pick but was worth 49th pick.</li>\n\
-  <li>Drafted Žan Tabak <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.3\">-0.3</span> with 51th pick but was worth 52th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Joel Freeland <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -3876\" data-vorp-text=\"-3876.3\">-3876</span> with 30th pick but was worth 42th\
-  \ pick.</li>\n<li>Drafted John Turner <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-2725\" data-vorp-text=\"-2725.5\">-2725</span> with 20th pick\
-  \ but was worth 28th pick.</li>\n</ul>\n    "
+  <li>Drafted John Turner with 20th pick but was worth 39th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.6\">-0.6</span>\
+  \ (expectation difference)</li>\n<li>Drafted Joel Freeland with 30th pick but was\
+  \ worth 49th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  0\" data-vorp-text=\"-0.6\">-0.6</span> (expectation difference)</li>\n<li>Drafted\
+  \ Žan Tabak with 51th pick but was worth 52th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.3\">-0.3</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Joel Freeland with 30th pick but was worth 42th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-3876\" data-vorp-text=\"\
+  -3876.3\">-3876</span> (expectation difference)</li>\n<li>Drafted John Turner with\
+  \ 20th pick but was worth 28th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-2725\" data-vorp-text=\"-2725.5\">-2725</span> (expectation difference)</li>\n\
+  </ul>\n    "
 draft_description: Steve Patterson ranks in the 60th percentile for drafting among
   executives in our database. That's basically average. It could worse though lol.
 draft_num_players: 6
+draft_overall_grade_bpm: B
+draft_overall_grade_vorp: C+
 draft_overall_percentile_vorp: 56
 draft_rating_bpm: 6
 draft_rating_grade_bpm: A+
@@ -30,14 +34,15 @@ draft_total_percentile_bpm: 52
 draft_total_percentile_vorp: 52
 draft_total_vorp: 9
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Robert Horry <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +14\" data-vorp-text=\"+14.6\">+14.6</span> with 11th pick but was worth 3th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Robert Horry <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +51431\" data-vorp-text=\"+51431.1\">+51431</span> with 11th pick but was worth\
-  \ 3th pick. </li>\n<li>Drafted Žan Tabak <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+4238\" data-vorp-text=\"+4238.4\">+4238</span> with 51th pick\
-  \ but was worth 46th pick. </li>\n</ul>\n    "
+  <li>Drafted Robert Horry with 11th pick but was worth 3th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+14\" data-vorp-text=\"+14.6\">+14.6</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ wins: </h5><ul id=bpm-toggle>\n<li>Drafted Robert Horry with 11th pick but was\
+  \ worth 3th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +51431\" data-vorp-text=\"+51431.1\">+51431</span> (expectation difference)</li>\n\
+  <li>Drafted Žan Tabak with 51th pick but was worth 46th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+4238\" data-vorp-text=\"+4238.4\"\
+  >+4238</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 2007
 final_bpm: 120463
 final_vorp: 76
@@ -60,6 +65,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ Winchester <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-2488\"\
   \ data-vorp-text=\"-2488.7\">-2488</span> in 1990.</li>\n</ul>\n    "
 signing_num_players: 22
+signing_overall_grade_bpm: C-
+signing_overall_grade_vorp: D
 signing_overall_percentile_bpm: 42
 signing_overall_percentile_vorp: 30
 signing_rating_bpm: -1
@@ -108,6 +115,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ Sergio Rodríguez <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
   -4986\" data-vorp-text=\"+0.1\">-4986</span> to POR.</li>\n</ul>\n    "
 trade_num: 48
+trade_overall_grade_bpm: A+
+trade_overall_grade_vorp: S
 trade_overall_percentile_bpm: 96
 trade_overall_percentile_vorp: 98
 trade_rating_bpm: 1

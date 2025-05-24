@@ -1,24 +1,28 @@
 ---
 bpm_rank: 106
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted J.J. Hickson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -3\" data-vorp-text=\"-3.0\">-3.0</span> with 19th pick but was worth 26th pick.</li>\n\
-  <li>Drafted Christian Eyenga <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -1\" data-vorp-text=\"-1.2\">-1.2</span> with 30th pick but was worth 53th pick.</li>\n\
-  <li>Drafted John Jenkins <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.1\">-0.1</span> with 23th pick but was worth 24th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Dennis Schröder <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -34536\" data-vorp-text=\"-34536.0\">-34536</span> with 17th pick but was worth\
-  \ 59th pick.</li>\n<li>Drafted J.J. Hickson <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-21465\" data-vorp-text=\"-21465.0\">-21465</span> with 19th pick\
-  \ but was worth 54th pick.</li>\n<li>Drafted Shannon Brown <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-9956\" data-vorp-text=\"-9956.1\">-9956</span>\
-  \ with 25th pick but was worth 50th pick.</li>\n</ul>\n    "
+  <li>Drafted J.J. Hickson with 19th pick but was worth 26th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-3\" data-vorp-text=\"-3.0\">-3.0</span>\
+  \ (expectation difference)</li>\n<li>Drafted Christian Eyenga with 30th pick but\
+  \ was worth 53th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -1\" data-vorp-text=\"-1.2\">-1.2</span> (expectation difference)</li>\n<li>Drafted\
+  \ John Jenkins with 23th pick but was worth 24th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.1\">-0.1</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Dennis Schröder with 17th pick but was worth 59th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-34536\" data-vorp-text=\"\
+  -34536.0\">-34536</span> (expectation difference)</li>\n<li>Drafted J.J. Hickson\
+  \ with 19th pick but was worth 54th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-21465\" data-vorp-text=\"-21465.0\">-21465</span> (expectation\
+  \ difference)</li>\n<li>Drafted Shannon Brown with 25th pick but was worth 50th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-9956\" data-vorp-text=\"\
+  -9956.1\">-9956</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Danny Ferry ranks in the 83th percentile for drafting among executives
   in our database. Ferry's draft picks average out to be worth the equivalent of 4
   spots higher than they were picked due to his good drafting.
 draft_num_players: 10
+draft_overall_grade_bpm: C-
+draft_overall_grade_vorp: B-
 draft_overall_percentile_vorp: 64
 draft_rating_bpm: -10
 draft_rating_grade_bpm: C-
@@ -33,14 +37,15 @@ draft_total_percentile_bpm: 44
 draft_total_percentile_vorp: 44
 draft_total_vorp: 3
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Daniel Gibson <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +2\" data-vorp-text=\"+2.6\">+2.6</span> with 42th pick but was worth 14th pick.\
-  \ </li>\n<li>Drafted Shannon Brown <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+1\" data-vorp-text=\"+1.0\">+1.0</span> with 25th pick but was\
-  \ worth 19th pick. </li>\n<li>Drafted Mike Scott <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.8\">+0.8</span> with\
-  \ 43th pick but was worth 21th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n</ul>\n    "
+  <li>Drafted Daniel Gibson with 42th pick but was worth 14th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+2\" data-vorp-text=\"+2.6\">+2.6</span>\
+  \ (expectation difference)</li>\n<li>Drafted Shannon Brown with 25th pick but was\
+  \ worth 19th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +1\" data-vorp-text=\"+1.0\">+1.0</span> (expectation difference)</li>\n<li>Drafted\
+  \ Mike Scott with 43th pick but was worth 21th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.8\">+0.8</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n</ul>\n    "
 end_year: 2019
 final_bpm: -40720
 final_vorp: 36
@@ -64,6 +69,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-5771\" data-vorp-text=\"-5771.0\">-5771</span>\
   \ in 2009.</li>\n</ul>\n    "
 signing_num_players: 50
+signing_overall_grade_bpm: D
+signing_overall_grade_vorp: B-
 signing_overall_percentile_bpm: 32
 signing_overall_percentile_vorp: 62
 signing_rating_bpm: -1
@@ -117,6 +124,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ data-bpm-text=\"-5241\" data-vorp-text=\"-2.3\">-5241</span> to TOR.</li>\n</ul>\n\
   \    "
 trade_num: 75
+trade_overall_grade_bpm: B-
+trade_overall_grade_vorp: B-
 trade_overall_percentile_bpm: 61
 trade_overall_percentile_vorp: 60
 trade_rating_bpm: 0

@@ -5,6 +5,8 @@ draft_description: Flip Saunders ranks in the 87th percentile for drafting among
   in our database. Saunders's draft picks average out to be worth the equivalent of
   5 spots higher than they were picked due to his good drafting.
 draft_num_players: 4
+draft_overall_grade_bpm: A-
+draft_overall_grade_vorp: A-
 draft_overall_percentile_vorp: 80
 draft_rating_bpm: 4
 draft_rating_grade_bpm: A
@@ -19,14 +21,15 @@ draft_total_percentile_bpm: 73
 draft_total_percentile_vorp: 73
 draft_total_vorp: 32
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Zach LaVine <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +6\" data-vorp-text=\"+6.8\">+6.8</span> with 13th pick but was worth 6th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Zach LaVine <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +15022\" data-vorp-text=\"+15022.7\">+15022</span> with 13th pick but was worth\
-  \ 6th pick. </li>\n<li>Drafted Lorenzo Brown <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+10452\" data-vorp-text=\"+10452.5\">+10452</span> with 52th pick\
-  \ but was worth 37th pick. </li>\n</ul>\n    "
+  <li>Drafted Zach LaVine with 13th pick but was worth 6th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+6\" data-vorp-text=\"+6.8\">+6.8</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ wins: </h5><ul id=bpm-toggle>\n<li>Drafted Zach LaVine with 13th pick but was\
+  \ worth 6th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +15022\" data-vorp-text=\"+15022.7\">+15022</span> (expectation difference)</li>\n\
+  <li>Drafted Lorenzo Brown with 52th pick but was worth 37th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+10452\" data-vorp-text=\"+10452.5\"\
+  >+10452</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 2015
 final_bpm: 28220
 final_vorp: 24
@@ -50,6 +53,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ Budinger <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-4192\"\
   \ data-vorp-text=\"-4192.3\">-4192</span> in 2013.</li>\n</ul>\n    "
 signing_num_players: 25
+signing_overall_grade_bpm: D+
+signing_overall_grade_vorp: C-
 signing_overall_percentile_bpm: 34
 signing_overall_percentile_vorp: 44
 signing_rating_bpm: -1
@@ -109,6 +114,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ Kevin Love <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-37338\"\
   \ data-vorp-text=\"-16.5\">-37338</span> to CLE.</li>\n</ul>\n    "
 trade_num: 37
+trade_overall_grade_bpm: B-
+trade_overall_grade_vorp: D+
 trade_overall_percentile_bpm: 63
 trade_overall_percentile_vorp: 34
 trade_rating_bpm: 0

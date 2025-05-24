@@ -1,24 +1,28 @@
 ---
 bpm_rank: 120
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Deandre Ayton <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -29\" data-vorp-text=\"-29.5\">-29.5</span> with 1th pick but was worth 6th pick.</li>\n\
-  <li>Drafted Josh Jackson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -20\" data-vorp-text=\"-20.8\">-20.8</span> with 4th pick but was worth 57th pick.</li>\n\
-  <li>Drafted Dragan Bender <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -14\" data-vorp-text=\"-14.5\">-14.5</span> with 4th pick but was worth 59th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Deandre Ayton <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -109593\" data-vorp-text=\"-109593.6\">-109593</span> with 1th pick but was worth\
-  \ 10th pick.</li>\n<li>Drafted Josh Jackson <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-63978\" data-vorp-text=\"-63978.8\">-63978</span> with 4th pick\
-  \ but was worth 59th pick.</li>\n<li>Drafted Alex Len <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-44889\" data-vorp-text=\"-44889.0\">-44889</span>\
-  \ with 5th pick but was worth 55th pick.</li>\n</ul>\n    "
+  <li>Drafted Deandre Ayton with 1th pick but was worth 6th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-29\" data-vorp-text=\"-29.5\">-29.5</span>\
+  \ (expectation difference)</li>\n<li>Drafted Josh Jackson with 4th pick but was\
+  \ worth 57th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -20\" data-vorp-text=\"-20.8\">-20.8</span> (expectation difference)</li>\n<li>Drafted\
+  \ Dragan Bender with 4th pick but was worth 59th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-14\" data-vorp-text=\"-14.5\">-14.5</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Deandre Ayton with 1th pick but was worth 10th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-109593\" data-vorp-text=\"\
+  -109593.6\">-109593</span> (expectation difference)</li>\n<li>Drafted Josh Jackson\
+  \ with 4th pick but was worth 59th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-63978\" data-vorp-text=\"-63978.8\">-63978</span> (expectation\
+  \ difference)</li>\n<li>Drafted Alex Len with 5th pick but was worth 55th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-44889\" data-vorp-text=\"\
+  -44889.0\">-44889</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Ryan McDonough ranks in the 11th percentile for drafting among
   executives in our database. McDonough's draft picks average out to be worth the
   equivalent of 15 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 12
+draft_overall_grade_bpm: C-
+draft_overall_grade_vorp: D+
 draft_overall_percentile_vorp: 37
 draft_rating_bpm: -14
 draft_rating_grade_bpm: D-
@@ -33,12 +37,13 @@ draft_total_percentile_bpm: 63
 draft_total_percentile_vorp: 63
 draft_total_vorp: 20
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Devin Booker <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +11\" data-vorp-text=\"+11.9\">+11.9</span> with 13th pick but was worth 3th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Devin Booker <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +24949\" data-vorp-text=\"+24949.0\">+24949</span> with 13th pick but was worth\
-  \ 4th pick. </li>\n</ul>\n    "
+  <li>Drafted Devin Booker with 13th pick but was worth 3th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+11\" data-vorp-text=\"+11.9\">+11.9</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ wins: </h5><ul id=bpm-toggle>\n<li>Drafted Devin Booker with 13th pick but was\
+  \ worth 4th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +24949\" data-vorp-text=\"+24949.0\">+24949</span> (expectation difference)</li>\n\
+  </ul>\n    "
 end_year: 2018
 final_bpm: -56981
 final_vorp: 9
@@ -61,6 +66,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-3411\" data-vorp-text=\"-3411.2\">-3411</span>\
   \ in 2015.</li>\n</ul>\n    "
 signing_num_players: 76
+signing_overall_grade_bpm: C-
+signing_overall_grade_vorp: B
 signing_overall_percentile_bpm: 42
 signing_overall_percentile_vorp: 71
 signing_rating_bpm: -1
@@ -111,6 +118,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-31088\" data-vorp-text=\"\
   -10.7\">-31088</span> to BOS.</li>\n</ul>\n    "
 trade_num: 81
+trade_overall_grade_bpm: C
+trade_overall_grade_vorp: F
 trade_overall_percentile_bpm: 51
 trade_overall_percentile_vorp: 18
 trade_rating_bpm: 0

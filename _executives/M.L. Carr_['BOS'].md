@@ -1,24 +1,28 @@
 ---
 bpm_rank: 107
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Eric Montross <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -17\" data-vorp-text=\"-17.5\">-17.5</span> with 9th pick but was worth 54th pick.</li>\n\
-  <li>Drafted Antoine Walker <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -12\" data-vorp-text=\"-12.7\">-12.7</span> with 6th pick but was worth 9th pick.</li>\n\
-  <li>Drafted Eric Williams <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -6\" data-vorp-text=\"-6.6\">-6.6</span> with 14th pick but was worth 53th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Antoine Walker <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -47944\" data-vorp-text=\"-47944.5\">-47944</span> with 6th pick but was worth 10th\
-  \ pick.</li>\n<li>Drafted Eric Montross <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-39842\" data-vorp-text=\"-39842.2\">-39842</span> with 9th pick\
-  \ but was worth 53th pick.</li>\n<li>Drafted Eric Williams <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-37754\" data-vorp-text=\"-37754.4\">-37754</span>\
-  \ with 14th pick but was worth 56th pick.</li>\n</ul>\n    "
+  <li>Drafted Eric Montross with 9th pick but was worth 54th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-17\" data-vorp-text=\"-17.5\">-17.5</span>\
+  \ (expectation difference)</li>\n<li>Drafted Antoine Walker with 6th pick but was\
+  \ worth 9th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -12\" data-vorp-text=\"-12.7\">-12.7</span> (expectation difference)</li>\n<li>Drafted\
+  \ Eric Williams with 14th pick but was worth 53th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-6\" data-vorp-text=\"-6.6\">-6.6</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Antoine Walker with 6th pick but was worth 10th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-47944\" data-vorp-text=\"\
+  -47944.5\">-47944</span> (expectation difference)</li>\n<li>Drafted Eric Montross\
+  \ with 9th pick but was worth 53th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-39842\" data-vorp-text=\"-39842.2\">-39842</span> (expectation\
+  \ difference)</li>\n<li>Drafted Eric Williams with 14th pick but was worth 56th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-37754\" data-vorp-text=\"\
+  -37754.4\">-37754</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: M.L. Carr ranks in the 1th percentile for drafting among executives
   in our database. Carr's draft picks average out to be worth the equivalent of 21
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
+draft_overall_grade_bpm: D+
+draft_overall_grade_vorp: D
 draft_overall_percentile_vorp: 29
 draft_rating_bpm: -16
 draft_rating_grade_bpm: F
@@ -34,11 +38,12 @@ draft_total_percentile_vorp: 55
 draft_total_vorp: 12
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
   </ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted\
-  \ Steve Hamer <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+2851\"\
-  \ data-vorp-text=\"+2851.0\">+2851</span> with 38th pick but was worth 32th pick.\
-  \ </li>\n<li>Drafted Junior Burrough <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+381\" data-vorp-text=\"+381.5\">+381</span> with 33th pick but\
-  \ was worth 31th pick. </li>\n</ul>\n    "
+  \ Steve Hamer with 38th pick but was worth 32th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+2851\" data-vorp-text=\"+2851.0\">+2851</span>\
+  \ (expectation difference)</li>\n<li>Drafted Junior Burrough with 33th pick but\
+  \ was worth 31th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +381\" data-vorp-text=\"+381.5\">+381</span> (expectation difference)</li>\n</ul>\n\
+  \    "
 end_year: 1997
 final_bpm: -42264
 final_vorp: 24
@@ -61,6 +66,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-5003\" data-vorp-text=\"\
   -5003.4\">-5003</span> in 1996.</li>\n</ul>\n    "
 signing_num_players: 26
+signing_overall_grade_bpm: B-
+signing_overall_grade_vorp: C-
 signing_overall_percentile_bpm: 61
 signing_overall_percentile_vorp: 46
 signing_rating_bpm: 0
@@ -111,6 +118,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ badge-success\" data-bpm-text=\"+1513\" data-vorp-text=\"-1.9\">+1513</span> to\
   \ MIL.</li>\n</ul>\n    "
 trade_num: 14
+trade_overall_grade_bpm: null
+trade_overall_grade_vorp: null
 trade_overall_percentile_bpm: null
 trade_overall_percentile_vorp: null
 trade_rating_bpm: null

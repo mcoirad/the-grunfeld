@@ -4,6 +4,8 @@ draft_bust_list: "\n    \n    \n    "
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
 draft_num_players: 1
+draft_overall_grade_bpm: null
+draft_overall_grade_vorp: null
 draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
@@ -40,6 +42,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   <li>Signed Norvel Pelle <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
   -1206\" data-vorp-text=\"-1206.4\">-1206</span> in 2018.</li>\n</ul>\n    "
 signing_num_players: 8
+signing_overall_grade_bpm: C+
+signing_overall_grade_vorp: B-
 signing_overall_percentile_bpm: 54
 signing_overall_percentile_vorp: 63
 signing_rating_bpm: 0
@@ -87,6 +91,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   <li>Lost Mikal Bridges <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
   -12121\" data-vorp-text=\"-9.1\">-12121</span> to PHO.</li>\n</ul>\n    "
 trade_num: 18
+trade_overall_grade_bpm: D
+trade_overall_grade_vorp: B-
 trade_overall_percentile_bpm: 31
 trade_overall_percentile_vorp: 63
 trade_rating_bpm: 0

@@ -4,6 +4,8 @@ draft_bust_list: "\n    \n    \n    "
 draft_description: Bob Weinhauer ranks in the 62th percentile for drafting among executives
   in our database. That's basically average. It could worse though lol.
 draft_num_players: 4
+draft_overall_grade_bpm: C-
+draft_overall_grade_vorp: D
 draft_overall_percentile_vorp: 33
 draft_rating_bpm: 2
 draft_rating_grade_bpm: A-
@@ -18,16 +20,18 @@ draft_total_percentile_bpm: 3
 draft_total_percentile_vorp: 3
 draft_total_vorp: -2
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Rafer Alston <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +9\" data-vorp-text=\"+9.8\">+9.8</span> with 39th pick but was worth 12th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Rafer Alston <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +9805\" data-vorp-text=\"+9805.5\">+9805</span> with 39th pick but was worth 14th\
-  \ pick. </li>\n<li>Drafted Jerald Honeycutt <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+4169\" data-vorp-text=\"+4169.7\">+4169</span> with 39th pick\
-  \ but was worth 30th pick. </li>\n<li>Drafted Randy Livingston <span class=\"badge\
-  \ badge-pill badge-success\" data-bpm-text=\"+316\" data-vorp-text=\"+316.2\">+316</span>\
-  \ with 42th pick but was worth 41th pick. </li>\n</ul>\n    "
+  <li>Drafted Rafer Alston with 39th pick but was worth 12th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+9\" data-vorp-text=\"+9.8\">+9.8</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ wins: </h5><ul id=bpm-toggle>\n<li>Drafted Rafer Alston with 39th pick but was\
+  \ worth 14th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +9805\" data-vorp-text=\"+9805.5\">+9805</span> (expectation difference)</li>\n\
+  <li>Drafted Jerald Honeycutt with 39th pick but was worth 30th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+4169\" data-vorp-text=\"+4169.7\"\
+  >+4169</span> (expectation difference)</li>\n<li>Drafted Randy Livingston with 42th\
+  \ pick but was worth 41th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +316\" data-vorp-text=\"+316.2\">+316</span> (expectation difference)</li>\n</ul>\n\
+  \    "
 end_year: 1999
 final_bpm: -196638
 final_vorp: -52
@@ -51,6 +55,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-5871\" data-vorp-text=\"-5871.9\">-5871</span>\
   \ in 1995.</li>\n</ul>\n    "
 signing_num_players: 38
+signing_overall_grade_bpm: F
+signing_overall_grade_vorp: D
 signing_overall_percentile_bpm: 20
 signing_overall_percentile_vorp: 32
 signing_rating_bpm: -1
@@ -103,6 +109,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   badge badge-pill badge-danger\" data-bpm-text=\"-232573\" data-vorp-text=\"-85.0\"\
   >-232573</span> to DAL.</li>\n</ul>\n    "
 trade_num: 45
+trade_overall_grade_bpm: D
+trade_overall_grade_vorp: C
 trade_overall_percentile_bpm: 29
 trade_overall_percentile_vorp: 52
 trade_rating_bpm: 0

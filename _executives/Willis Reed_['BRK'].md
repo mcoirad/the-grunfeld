@@ -1,24 +1,28 @@
 ---
 bpm_rank: 145
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Derrick Coleman <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -40\" data-vorp-text=\"-40.2\">-40.2</span> with 1th pick but was worth 3th pick.</li>\n\
-  <li>Drafted Ed O'Bannon <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -10\" data-vorp-text=\"-10.1\">-10.1</span> with 9th pick but was worth 48th pick.</li>\n\
-  <li>Drafted Kenny Anderson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -8\" data-vorp-text=\"-8.4\">-8.4</span> with 2th pick but was worth 5th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Derrick Coleman <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -119221\" data-vorp-text=\"-119221.9\">-119221</span> with 1th pick but was worth\
-  \ 3th pick.</li>\n<li>Drafted Kenny Anderson <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-26329\" data-vorp-text=\"-26329.5\">-26329</span> with 2th pick\
-  \ but was worth 4th pick.</li>\n<li>Drafted Rex Walters <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-9204\" data-vorp-text=\"-9204.0\">-9204</span>\
-  \ with 16th pick but was worth 42th pick.</li>\n</ul>\n    "
+  <li>Drafted Derrick Coleman with 1th pick but was worth 3th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-40\" data-vorp-text=\"-40.2\">-40.2</span>\
+  \ (expectation difference)</li>\n<li>Drafted Ed O'Bannon with 9th pick but was worth\
+  \ 48th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-10\"\
+  \ data-vorp-text=\"-10.1\">-10.1</span> (expectation difference)</li>\n<li>Drafted\
+  \ Kenny Anderson with 2th pick but was worth 5th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-8\" data-vorp-text=\"-8.4\">-8.4</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Derrick Coleman with 1th pick but was worth 3th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-119221\" data-vorp-text=\"\
+  -119221.9\">-119221</span> (expectation difference)</li>\n<li>Drafted Kenny Anderson\
+  \ with 2th pick but was worth 4th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-26329\" data-vorp-text=\"-26329.5\">-26329</span> (expectation\
+  \ difference)</li>\n<li>Drafted Rex Walters with 16th pick but was worth 42th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-9204\" data-vorp-text=\"\
+  -9204.0\">-9204</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Willis Reed ranks in the 17th percentile for drafting among executives
   in our database. Reed's draft picks average out to be worth the equivalent of 13
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 7
+draft_overall_grade_bpm: C
+draft_overall_grade_vorp: C-
 draft_overall_percentile_vorp: 42
 draft_rating_bpm: -11
 draft_rating_grade_bpm: D+
@@ -33,12 +37,13 @@ draft_total_percentile_bpm: 67
 draft_total_percentile_vorp: 67
 draft_total_vorp: 25
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted P.J. Brown <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +17\" data-vorp-text=\"+17.4\">+17.4</span> with 29th pick but was worth 7th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted P.J. Brown <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +1958\" data-vorp-text=\"+1958.4\">+1958</span> with 29th pick but was worth 14th\
-  \ pick. </li>\n</ul>\n    "
+  <li>Drafted P.J. Brown with 29th pick but was worth 7th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+17\" data-vorp-text=\"+17.4\">+17.4</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ wins: </h5><ul id=bpm-toggle>\n<li>Drafted P.J. Brown with 29th pick but was worth\
+  \ 14th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+1958\"\
+  \ data-vorp-text=\"+1958.4\">+1958</span> (expectation difference)</li>\n</ul>\n\
+  \    "
 end_year: 1996
 final_bpm: -121622
 final_vorp: -1
@@ -61,6 +66,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-6570\" data-vorp-text=\"\
   -6570.6\">-6570</span> in 1993.</li>\n</ul>\n    "
 signing_num_players: 30
+signing_overall_grade_bpm: D-
+signing_overall_grade_vorp: D-
 signing_overall_percentile_bpm: 25
 signing_overall_percentile_vorp: 26
 signing_rating_bpm: -1
@@ -111,6 +118,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span>\
   \ to ATL.</li>\n</ul>\n    "
 trade_num: 37
+trade_overall_grade_bpm: F
+trade_overall_grade_vorp: D+
 trade_overall_percentile_bpm: 7
 trade_overall_percentile_vorp: 37
 trade_rating_bpm: -1

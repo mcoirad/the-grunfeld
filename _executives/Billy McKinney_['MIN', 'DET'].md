@@ -1,22 +1,26 @@
 ---
 bpm_rank: 134
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Felton Spencer <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -17\" data-vorp-text=\"-17.1\">-17.1</span> with 6th pick but was worth 52th pick.</li>\n\
-  <li>Drafted Doug West <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -3\" data-vorp-text=\"-3.7\">-3.7</span> with 38th pick but was worth 53th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Felton Spencer <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -56478\" data-vorp-text=\"-56478.0\">-56478</span> with 6th pick but was worth 53th\
-  \ pick.</li>\n<li>Drafted Doug West <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-44310\" data-vorp-text=\"-44310.0\">-44310</span> with 38th pick\
-  \ but was worth 54th pick.</li>\n<li>Drafted Lindsey Hunter <span class=\"badge\
-  \ badge-pill badge-danger\" data-bpm-text=\"-9301\" data-vorp-text=\"-9301.2\">-9301</span>\
-  \ with 10th pick but was worth 43th pick.</li>\n</ul>\n    "
+  <li>Drafted Felton Spencer with 6th pick but was worth 52th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-17\" data-vorp-text=\"-17.1\">-17.1</span>\
+  \ (expectation difference)</li>\n<li>Drafted Doug West with 38th pick but was worth\
+  \ 53th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-3\"\
+  \ data-vorp-text=\"-3.7\">-3.7</span> (expectation difference)</li>\n</ul>\n   \
+  \ <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n<li>Drafted\
+  \ Felton Spencer with 6th pick but was worth 53th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-56478\" data-vorp-text=\"-56478.0\">-56478</span>\
+  \ (expectation difference)</li>\n<li>Drafted Doug West with 38th pick but was worth\
+  \ 54th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-44310\"\
+  \ data-vorp-text=\"-44310.0\">-44310</span> (expectation difference)</li>\n<li>Drafted\
+  \ Lindsey Hunter with 10th pick but was worth 43th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-9301\" data-vorp-text=\"-9301.2\">-9301</span>\
+  \ (expectation difference)</li>\n</ul>\n    "
 draft_description: Billy McKinney ranks in the 37th percentile for drafting among
   executives in our database. McKinney's draft picks average out to be worth the equivalent
   of 6 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 8
+draft_overall_grade_bpm: B-
+draft_overall_grade_vorp: C+
 draft_overall_percentile_vorp: 59
 draft_rating_bpm: -11
 draft_rating_grade_bpm: C-
@@ -31,20 +35,22 @@ draft_total_percentile_bpm: 80
 draft_total_percentile_vorp: 80
 draft_total_vorp: 42
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Allan Houston <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +7\" data-vorp-text=\"+7.7\">+7.7</span> with 11th pick but was worth 5th pick.\
-  \ </li>\n<li>Drafted Grant Hill <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +1\" data-vorp-text=\"+1.3\">+1.3</span> with 3th pick but was worth 2th pick. </li>\n\
-  <li>Drafted Lindsey Hunter <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +0\" data-vorp-text=\"+0.5\">+0.5</span> with 10th pick but was worth 9th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Allan Houston <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +2831\" data-vorp-text=\"+2831.1\">+2831</span> with 11th pick but was worth 8th\
-  \ pick. </li>\n<li>Drafted Grant Hill <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+2716\" data-vorp-text=\"+2716.2\">+2716</span> with 3th pick\
-  \ but was worth 2th pick. </li>\n<li>Drafted Gary Leonard <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+2660\" data-vorp-text=\"+2660.9\">+2660</span>\
-  \ with 34th pick but was worth 23th pick. </li>\n</ul>\n    "
+  <li>Drafted Allan Houston with 11th pick but was worth 5th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+7\" data-vorp-text=\"+7.7\">+7.7</span>\
+  \ (expectation difference)</li>\n<li>Drafted Grant Hill with 3th pick but was worth\
+  \ 2th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+1\"\
+  \ data-vorp-text=\"+1.3\">+1.3</span> (expectation difference)</li>\n<li>Drafted\
+  \ Lindsey Hunter with 10th pick but was worth 9th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.5\">+0.5</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Allan Houston with 11th pick but was worth 8th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+2831\" data-vorp-text=\"\
+  +2831.1\">+2831</span> (expectation difference)</li>\n<li>Drafted Grant Hill with\
+  \ 3th pick but was worth 2th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+2716\" data-vorp-text=\"+2716.2\">+2716</span> (expectation difference)</li>\n\
+  <li>Drafted Gary Leonard with 34th pick but was worth 23th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+2660\" data-vorp-text=\"+2660.9\"\
+  >+2660</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 1995
 final_bpm: -87831
 final_vorp: 36
@@ -67,6 +73,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-5712\" data-vorp-text=\"\
   -5712.0\">-5712</span> in 1989.</li>\n</ul>\n    "
 signing_num_players: 35
+signing_overall_grade_bpm: F
+signing_overall_grade_vorp: D+
 signing_overall_percentile_bpm: 12
 signing_overall_percentile_vorp: 35
 signing_rating_bpm: -1
@@ -119,6 +127,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to MIL.</li>\n</ul>\n \
   \   "
 trade_num: 50
+trade_overall_grade_bpm: F
+trade_overall_grade_vorp: D-
 trade_overall_percentile_bpm: 18
 trade_overall_percentile_vorp: 20
 trade_rating_bpm: 0

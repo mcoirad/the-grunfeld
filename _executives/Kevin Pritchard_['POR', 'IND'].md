@@ -1,24 +1,28 @@
 ---
 bpm_rank: 36
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Bennedict Mathurin <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -5\" data-vorp-text=\"-5.2\">-5.2</span> with 6th pick but was worth 56th pick.</li>\n\
-  <li>Drafted Victor Claver <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -3\" data-vorp-text=\"-3.3\">-3.3</span> with 22th pick but was worth 51th pick.</li>\n\
-  <li>Drafted Chris Duarte <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -2\" data-vorp-text=\"-2.3\">-2.3</span> with 13th pick but was worth 51th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Bennedict Mathurin <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -24012\" data-vorp-text=\"-24012.3\">-24012</span> with 6th pick but was worth 58th\
-  \ pick.</li>\n<li>Drafted Dante Cunningham <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-21967\" data-vorp-text=\"-21967.3\">-21967</span> with 33th pick\
-  \ but was worth 60th pick.</li>\n<li>Drafted Aaron Holiday <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-13730\" data-vorp-text=\"-13730.2\">-13730</span>\
-  \ with 23th pick but was worth 54th pick.</li>\n</ul>\n    "
+  <li>Drafted Bennedict Mathurin with 6th pick but was worth 56th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-5\" data-vorp-text=\"-5.2\">-5.2</span>\
+  \ (expectation difference)</li>\n<li>Drafted Victor Claver with 22th pick but was\
+  \ worth 51th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -3\" data-vorp-text=\"-3.3\">-3.3</span> (expectation difference)</li>\n<li>Drafted\
+  \ Chris Duarte with 13th pick but was worth 51th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-2\" data-vorp-text=\"-2.3\">-2.3</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Bennedict Mathurin with 6th pick but was worth 58th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-24012\" data-vorp-text=\"\
+  -24012.3\">-24012</span> (expectation difference)</li>\n<li>Drafted Dante Cunningham\
+  \ with 33th pick but was worth 60th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-21967\" data-vorp-text=\"-21967.3\">-21967</span> (expectation\
+  \ difference)</li>\n<li>Drafted Aaron Holiday with 23th pick but was worth 54th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-13730\" data-vorp-text=\"\
+  -13730.2\">-13730</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Kevin Pritchard ranks in the 51th percentile for drafting among
   executives in our database. Pritchard's draft picks average out to be worth the
   equivalent of 3 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 21
+draft_overall_grade_bpm: D+
+draft_overall_grade_vorp: D-
 draft_overall_percentile_vorp: 26
 draft_rating_bpm: -2
 draft_rating_grade_bpm: B+
@@ -33,21 +37,23 @@ draft_total_percentile_bpm: 0
 draft_total_percentile_vorp: 0
 draft_total_vorp: -4
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Patty Mills <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +9\" data-vorp-text=\"+9.3\">+9.3</span> with 55th pick but was worth 15th pick.\
-  \ </li>\n<li>Drafted Goga Bitadze <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+2\" data-vorp-text=\"+2.1\">+2.1</span> with 18th pick but was\
-  \ worth 10th pick. </li>\n<li>Drafted Dante Cunningham <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+1\" data-vorp-text=\"+1.1\">+1.1</span> with\
-  \ 33th pick but was worth 27th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Cassius Stanley <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+12751\" data-vorp-text=\"+12751.6\"\
-  >+12751</span> with 54th pick but was worth 31th pick. </li>\n<li>Drafted Patty\
-  \ Mills <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+11288\"\
-  \ data-vorp-text=\"+11288.8\">+11288</span> with 55th pick but was worth 34th pick.\
-  \ </li>\n<li>Drafted Goga Bitadze <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+4419\" data-vorp-text=\"+4419.9\">+4419</span> with 18th pick\
-  \ but was worth 10th pick. </li>\n</ul>\n    "
+  <li>Drafted Patty Mills with 55th pick but was worth 15th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+9\" data-vorp-text=\"+9.3\">+9.3</span>\
+  \ (expectation difference)</li>\n<li>Drafted Goga Bitadze with 18th pick but was\
+  \ worth 10th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +2\" data-vorp-text=\"+2.1\">+2.1</span> (expectation difference)</li>\n<li>Drafted\
+  \ Dante Cunningham with 33th pick but was worth 27th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+1\" data-vorp-text=\"+1.1\">+1.1</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Cassius Stanley with 54th pick but was worth 31th\
+  \ pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+12751\"\
+  \ data-vorp-text=\"+12751.6\">+12751</span> (expectation difference)</li>\n<li>Drafted\
+  \ Patty Mills with 55th pick but was worth 34th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+11288\" data-vorp-text=\"+11288.8\">+11288</span>\
+  \ (expectation difference)</li>\n<li>Drafted Goga Bitadze with 18th pick but was\
+  \ worth 10th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +4419\" data-vorp-text=\"+4419.9\">+4419</span> (expectation difference)</li>\n\
+  </ul>\n    "
 end_year: 2026
 final_bpm: 50343
 final_vorp: 68
@@ -70,6 +76,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-4590\" data-vorp-text=\"-4590.2\">-4590</span>\
   \ in 2020.</li>\n</ul>\n    "
 signing_num_players: 122
+signing_overall_grade_bpm: B
+signing_overall_grade_vorp: B
 signing_overall_percentile_bpm: 72
 signing_overall_percentile_vorp: 72
 signing_rating_bpm: 0
@@ -130,6 +138,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ Malcolm Brogdon <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
   -4883\" data-vorp-text=\"-2.1\">-4883</span> to BOS.</li>\n</ul>\n    "
 trade_num: 135
+trade_overall_grade_bpm: A-
+trade_overall_grade_vorp: A-
 trade_overall_percentile_bpm: 83
 trade_overall_percentile_vorp: 82
 trade_rating_bpm: 0

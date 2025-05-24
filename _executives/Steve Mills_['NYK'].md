@@ -1,19 +1,23 @@
 ---
 bpm_rank: 116
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Kevin Knox <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -11\" data-vorp-text=\"-11.7\">-11.7</span> with 9th pick but was worth 60th pick.</li>\n\
-  <li>Drafted RJ Barrett <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -7\" data-vorp-text=\"-7.3\">-7.3</span> with 3th pick but was worth 21th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted RJ Barrett <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -37124\" data-vorp-text=\"-37124.6\">-37124</span> with 3th pick but was worth 59th\
-  \ pick.</li>\n<li>Drafted Kevin Knox <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-35141\" data-vorp-text=\"-35141.5\">-35141</span> with 9th pick\
-  \ but was worth 60th pick.</li>\n</ul>\n    "
+  <li>Drafted Kevin Knox with 9th pick but was worth 60th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-11\" data-vorp-text=\"-11.7\">-11.7</span>\
+  \ (expectation difference)</li>\n<li>Drafted RJ Barrett with 3th pick but was worth\
+  \ 21th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-7\"\
+  \ data-vorp-text=\"-7.3\">-7.3</span> (expectation difference)</li>\n</ul>\n   \
+  \ <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n<li>Drafted\
+  \ RJ Barrett with 3th pick but was worth 59th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-37124\" data-vorp-text=\"-37124.6\">-37124</span>\
+  \ (expectation difference)</li>\n<li>Drafted Kevin Knox with 9th pick but was worth\
+  \ 60th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-35141\"\
+  \ data-vorp-text=\"-35141.5\">-35141</span> (expectation difference)</li>\n</ul>\n\
+  \    "
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
+draft_overall_grade_bpm: null
+draft_overall_grade_vorp: null
 draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
@@ -28,12 +32,13 @@ draft_total_percentile_bpm: 48
 draft_total_percentile_vorp: 48
 draft_total_vorp: 5
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Mitchell Robinson <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +8\" data-vorp-text=\"+8.5\">+8.5</span> with 36th pick but was worth 8th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Mitchell Robinson <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +21235\" data-vorp-text=\"+21235.7\">+21235</span> with 36th pick but was worth\
-  \ 6th pick. </li>\n</ul>\n    "
+  <li>Drafted Mitchell Robinson with 36th pick but was worth 8th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+8\" data-vorp-text=\"+8.5\">+8.5</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ wins: </h5><ul id=bpm-toggle>\n<li>Drafted Mitchell Robinson with 36th pick but\
+  \ was worth 6th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +21235\" data-vorp-text=\"+21235.7\">+21235</span> (expectation difference)</li>\n\
+  </ul>\n    "
 end_year: 2020
 final_bpm: -52353
 final_vorp: 15
@@ -56,6 +61,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-4639\" data-vorp-text=\"-4639.3\">-4639</span>\
   \ in 2018.</li>\n</ul>\n    "
 signing_num_players: 48
+signing_overall_grade_bpm: C+
+signing_overall_grade_vorp: B
 signing_overall_percentile_bpm: 56
 signing_overall_percentile_vorp: 72
 signing_rating_bpm: 0
@@ -115,6 +122,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ badge-success\" data-bpm-text=\"+1549\" data-vorp-text=\"+0.1\">+1549</span> to\
   \ DAL.</li>\n</ul>\n    "
 trade_num: 24
+trade_overall_grade_bpm: B
+trade_overall_grade_vorp: D+
 trade_overall_percentile_bpm: 68
 trade_overall_percentile_vorp: 33
 trade_rating_bpm: 0

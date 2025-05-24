@@ -1,24 +1,29 @@
 ---
 bpm_rank: 140
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Derrick Williams <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -49\" data-vorp-text=\"-49.1\">-49.1</span> with 2th pick but was worth 26th pick.</li>\n\
-  <li>Drafted Jonny Flynn <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -22\" data-vorp-text=\"-22.1\">-22.1</span> with 6th pick but was worth 60th pick.</li>\n\
-  <li>Drafted Wesley Johnson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -20\" data-vorp-text=\"-20.4\">-20.4</span> with 4th pick but was worth 20th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Derrick Williams <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -158132\" data-vorp-text=\"-158132.4\">-158132</span> with 2th pick but was worth\
-  \ 47th pick.</li>\n<li>Drafted Wesley Johnson <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-62601\" data-vorp-text=\"-62601.6\">-62601</span> with 4th pick\
-  \ but was worth 57th pick.</li>\n<li>Drafted Jonny Flynn <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-47934\" data-vorp-text=\"-47934.4\">-47934</span>\
-  \ with 6th pick but was worth 55th pick.</li>\n</ul>\n    "
+  <li>Drafted Derrick Williams with 2th pick but was worth 26th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-49\" data-vorp-text=\"-49.1\">-49.1</span>\
+  \ (expectation difference)</li>\n<li>Drafted Jonny Flynn with 6th pick but was worth\
+  \ 60th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-22\"\
+  \ data-vorp-text=\"-22.1\">-22.1</span> (expectation difference)</li>\n<li>Drafted\
+  \ Wesley Johnson with 4th pick but was worth 20th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-20\" data-vorp-text=\"-20.4\">-20.4</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Derrick Williams with 2th pick but was worth 47th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-158132\"\
+  \ data-vorp-text=\"-158132.4\">-158132</span> (expectation difference)</li>\n<li>Drafted\
+  \ Wesley Johnson with 4th pick but was worth 57th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-62601\" data-vorp-text=\"-62601.6\">-62601</span>\
+  \ (expectation difference)</li>\n<li>Drafted Jonny Flynn with 6th pick but was worth\
+  \ 55th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-47934\"\
+  \ data-vorp-text=\"-47934.4\">-47934</span> (expectation difference)</li>\n</ul>\n\
+  \    "
 draft_description: David Kahn ranks in the 14th percentile for drafting among executives
   in our database. Kahn's draft picks average out to be worth the equivalent of 14
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 6
+draft_overall_grade_bpm: D-
+draft_overall_grade_vorp: D
 draft_overall_percentile_vorp: 32
 draft_rating_bpm: -27
 draft_rating_grade_bpm: F-
@@ -33,14 +38,15 @@ draft_total_percentile_bpm: 49
 draft_total_percentile_vorp: 49
 draft_total_vorp: 6
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Wayne Ellington <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +1\" data-vorp-text=\"+1.4\">+1.4</span> with 28th pick but was worth 24th pick.\
-  \ </li>\n<li>Drafted Robbie Hummel <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+1\" data-vorp-text=\"+1.2\">+1.2</span> with 58th pick but was\
-  \ worth 46th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
-  \ id=bpm-toggle>\n<li>Drafted Robbie Hummel <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+20492\" data-vorp-text=\"+20492.5\">+20492</span> with 58th pick\
-  \ but was worth 34th pick. </li>\n</ul>\n    "
+  <li>Drafted Wayne Ellington with 28th pick but was worth 24th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+1\" data-vorp-text=\"+1.4\">+1.4</span>\
+  \ (expectation difference)</li>\n<li>Drafted Robbie Hummel with 58th pick but was\
+  \ worth 46th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +1\" data-vorp-text=\"+1.2\">+1.2</span> (expectation difference)</li>\n</ul>\n\
+  \    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted\
+  \ Robbie Hummel with 58th pick but was worth 34th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+20492\" data-vorp-text=\"+20492.5\">+20492</span>\
+  \ (expectation difference)</li>\n</ul>\n    "
 end_year: 2013
 final_bpm: -105060
 final_vorp: -27
@@ -63,6 +69,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ Pavlović <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-5437\"\
   \ data-vorp-text=\"-5437.4\">-5437</span> in 2009.</li>\n</ul>\n    "
 signing_num_players: 28
+signing_overall_grade_bpm: D+
+signing_overall_grade_vorp: D+
 signing_overall_percentile_bpm: 38
 signing_overall_percentile_vorp: 36
 signing_rating_bpm: 0
@@ -110,6 +118,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   badge badge-pill badge-danger\" data-bpm-text=\"-28662\" data-vorp-text=\"-13.8\"\
   >-28662</span> to DEN.</li>\n</ul>\n    "
 trade_num: 87
+trade_overall_grade_bpm: F
+trade_overall_grade_vorp: D-
 trade_overall_percentile_bpm: 20
 trade_overall_percentile_vorp: 20
 trade_rating_bpm: 0

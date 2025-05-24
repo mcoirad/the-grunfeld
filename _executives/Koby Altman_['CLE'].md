@@ -1,23 +1,27 @@
 ---
 bpm_rank: 85
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Isaac Okoro <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -8\" data-vorp-text=\"-8.6\">-8.6</span> with 5th pick but was worth 30th pick.</li>\n\
-  <li>Drafted Collin Sexton <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -6\" data-vorp-text=\"-6.6\">-6.6</span> with 8th pick but was worth 23th pick.</li>\n\
-  <li>Drafted Darius Garland <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.1\">-0.1</span> with 5th pick but was worth 6th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Isaac Okoro <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -30735\" data-vorp-text=\"-30735.1\">-30735</span> with 5th pick but was worth 57th\
-  \ pick.</li>\n<li>Drafted Collin Sexton <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-28690\" data-vorp-text=\"-28690.8\">-28690</span> with 8th pick\
-  \ but was worth 57th pick.</li>\n<li>Drafted Darius Garland <span class=\"badge\
-  \ badge-pill badge-danger\" data-bpm-text=\"-10421\" data-vorp-text=\"-10421.2\"\
-  >-10421</span> with 5th pick but was worth 9th pick.</li>\n</ul>\n    "
+  <li>Drafted Isaac Okoro with 5th pick but was worth 30th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-8\" data-vorp-text=\"-8.6\">-8.6</span>\
+  \ (expectation difference)</li>\n<li>Drafted Collin Sexton with 8th pick but was\
+  \ worth 23th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -6\" data-vorp-text=\"-6.6\">-6.6</span> (expectation difference)</li>\n<li>Drafted\
+  \ Darius Garland with 5th pick but was worth 6th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.1\">-0.1</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Isaac Okoro with 5th pick but was worth 57th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-30735\" data-vorp-text=\"\
+  -30735.1\">-30735</span> (expectation difference)</li>\n<li>Drafted Collin Sexton\
+  \ with 8th pick but was worth 57th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-28690\" data-vorp-text=\"-28690.8\">-28690</span> (expectation\
+  \ difference)</li>\n<li>Drafted Darius Garland with 5th pick but was worth 9th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-10421\" data-vorp-text=\"\
+  -10421.2\">-10421</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Koby Altman ranks in the 66th percentile for drafting among executives
   in our database. That's basically average. It could worse though lol.
 draft_num_players: 9
+draft_overall_grade_bpm: B-
+draft_overall_grade_vorp: B-
 draft_overall_percentile_vorp: 62
 draft_rating_bpm: -3
 draft_rating_grade_bpm: B
@@ -32,16 +36,18 @@ draft_total_percentile_bpm: 58
 draft_total_percentile_vorp: 58
 draft_total_vorp: 15
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Emoni Bates <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +0\" data-vorp-text=\"+0.6\">+0.6</span> with 49th pick but was worth 35th pick.\
-  \ </li>\n<li>Drafted Evan Mobley <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+0\" data-vorp-text=\"+0.6\">+0.6</span> with 3th pick but was\
-  \ worth 2th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
-  \ id=bpm-toggle>\n<li>Drafted Emoni Bates <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+5686\" data-vorp-text=\"+5686.1\">+5686</span> with 49th pick\
-  \ but was worth 25th pick. </li>\n<li>Drafted Evan Mobley <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+3924\" data-vorp-text=\"+3924.4\">+3924</span>\
-  \ with 3th pick but was worth 2th pick. </li>\n</ul>\n    "
+  <li>Drafted Emoni Bates with 49th pick but was worth 35th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.6\">+0.6</span>\
+  \ (expectation difference)</li>\n<li>Drafted Evan Mobley with 3th pick but was worth\
+  \ 2th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+0\"\
+  \ data-vorp-text=\"+0.6\">+0.6</span> (expectation difference)</li>\n</ul>\n   \
+  \ <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted\
+  \ Emoni Bates with 49th pick but was worth 25th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+5686\" data-vorp-text=\"+5686.1\">+5686</span>\
+  \ (expectation difference)</li>\n<li>Drafted Evan Mobley with 3th pick but was worth\
+  \ 2th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+3924\"\
+  \ data-vorp-text=\"+3924.4\">+3924</span> (expectation difference)</li>\n</ul>\n\
+  \    "
 end_year: 2026
 final_bpm: -17744
 final_vorp: 35
@@ -64,6 +70,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ Stevens <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-8175\"\
   \ data-vorp-text=\"-8175.3\">-8175</span> in 2020.</li>\n</ul>\n    "
 signing_num_players: 132
+signing_overall_grade_bpm: C
+signing_overall_grade_vorp: B-
 signing_overall_percentile_bpm: 50
 signing_overall_percentile_vorp: 62
 signing_rating_bpm: 0
@@ -122,6 +130,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-30037\" data-vorp-text=\"\
   -9.6\">-30037</span> to BOS.</li>\n</ul>\n    "
 trade_num: 103
+trade_overall_grade_bpm: B
+trade_overall_grade_vorp: C+
 trade_overall_percentile_bpm: 69
 trade_overall_percentile_vorp: 59
 trade_rating_bpm: 0

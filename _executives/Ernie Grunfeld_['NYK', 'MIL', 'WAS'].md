@@ -1,24 +1,28 @@
 ---
 bpm_rank: 112
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Jan Veselý <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -23\" data-vorp-text=\"-23.3\">-23.3</span> with 6th pick but was worth 49th pick.</li>\n\
-  <li>Drafted John Wall <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -20\" data-vorp-text=\"-20.0\">-20.0</span> with 1th pick but was worth 2th pick.</li>\n\
-  <li>Drafted T.J. Ford <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -8\" data-vorp-text=\"-8.7\">-8.7</span> with 8th pick but was worth 16th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted John Wall <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -63215\" data-vorp-text=\"-63215.6\">-63215</span> with 1th pick but was worth 2th\
-  \ pick.</li>\n<li>Drafted Jan Veselý <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-39105\" data-vorp-text=\"-39105.2\">-39105</span> with 6th pick\
-  \ but was worth 39th pick.</li>\n<li>Drafted Nick Young <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-36121\" data-vorp-text=\"-36121.8\">-36121</span>\
-  \ with 16th pick but was worth 59th pick.</li>\n</ul>\n    "
+  <li>Drafted Jan Veselý with 6th pick but was worth 49th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-23\" data-vorp-text=\"-23.3\">-23.3</span>\
+  \ (expectation difference)</li>\n<li>Drafted John Wall with 1th pick but was worth\
+  \ 2th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-20\"\
+  \ data-vorp-text=\"-20.0\">-20.0</span> (expectation difference)</li>\n<li>Drafted\
+  \ T.J. Ford with 8th pick but was worth 16th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-8\" data-vorp-text=\"-8.7\">-8.7</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted John Wall with 1th pick but was worth 2th pick. <span\
+  \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-63215\" data-vorp-text=\"\
+  -63215.6\">-63215</span> (expectation difference)</li>\n<li>Drafted Jan Veselý with\
+  \ 6th pick but was worth 39th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-39105\" data-vorp-text=\"-39105.2\">-39105</span> (expectation\
+  \ difference)</li>\n<li>Drafted Nick Young with 16th pick but was worth 59th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-36121\" data-vorp-text=\"\
+  -36121.8\">-36121</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Ernie Grunfeld ranks in the 47th percentile for drafting among
   executives in our database. Grunfeld's draft picks average out to be worth the equivalent
   of 4 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 28
+draft_overall_grade_bpm: B
+draft_overall_grade_vorp: B
 draft_overall_percentile_vorp: 71
 draft_rating_bpm: -10
 draft_rating_grade_bpm: C-
@@ -33,21 +37,22 @@ draft_total_percentile_bpm: 94
 draft_total_percentile_vorp: 94
 draft_total_vorp: 102
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Michael Redd <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +22\" data-vorp-text=\"+22.1\">+22.1</span> with 43th pick but was worth 1th pick.\
-  \ </li>\n<li>Drafted Charlie Ward <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+14\" data-vorp-text=\"+14.5\">+14.5</span> with 26th pick but\
-  \ was worth 6th pick. </li>\n<li>Drafted Greg Anthony <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+5\" data-vorp-text=\"+5.8\">+5.8</span> with\
-  \ 12th pick but was worth 7th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Michael Redd <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+55990\" data-vorp-text=\"+55990.0\"\
-  >+55990</span> with 43th pick but was worth 1th pick. </li>\n<li>Drafted Charlie\
-  \ Ward <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+31931\" data-vorp-text=\"\
-  +31931.0\">+31931</span> with 26th pick but was worth 4th pick. </li>\n<li>Drafted\
-  \ Greg Anthony <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+20605\"\
-  \ data-vorp-text=\"+20605.0\">+20605</span> with 12th pick but was worth 7th pick.\
-  \ </li>\n</ul>\n    "
+  <li>Drafted Michael Redd with 43th pick but was worth 1th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+22\" data-vorp-text=\"+22.1\">+22.1</span>\
+  \ (expectation difference)</li>\n<li>Drafted Charlie Ward with 26th pick but was\
+  \ worth 6th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +14\" data-vorp-text=\"+14.5\">+14.5</span> (expectation difference)</li>\n<li>Drafted\
+  \ Greg Anthony with 12th pick but was worth 7th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+5\" data-vorp-text=\"+5.8\">+5.8</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Michael Redd with 43th pick but was worth 1th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+55990\" data-vorp-text=\"\
+  +55990.0\">+55990</span> (expectation difference)</li>\n<li>Drafted Charlie Ward\
+  \ with 26th pick but was worth 4th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+31931\" data-vorp-text=\"+31931.0\">+31931</span> (expectation\
+  \ difference)</li>\n<li>Drafted Greg Anthony with 12th pick but was worth 7th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+20605\" data-vorp-text=\"\
+  +20605.0\">+20605</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 2019
 final_bpm: -49348
 final_vorp: 146
@@ -70,6 +75,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-9490\" data-vorp-text=\"\
   -9490.6\">-9490</span> in 2016.</li>\n</ul>\n    "
 signing_num_players: 181
+signing_overall_grade_bpm: D-
+signing_overall_grade_vorp: B+
 signing_overall_percentile_bpm: 25
 signing_overall_percentile_vorp: 76
 signing_rating_bpm: 0
@@ -133,6 +140,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ badge-success\" data-bpm-text=\"+7324\" data-vorp-text=\"-3.0\">+7324</span> to\
   \ SEA.</li>\n</ul>\n    "
 trade_num: 237
+trade_overall_grade_bpm: D
+trade_overall_grade_vorp: C-
 trade_overall_percentile_bpm: 30
 trade_overall_percentile_vorp: 45
 trade_rating_bpm: 0

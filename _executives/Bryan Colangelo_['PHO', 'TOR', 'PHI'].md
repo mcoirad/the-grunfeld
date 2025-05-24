@@ -1,24 +1,28 @@
 ---
 bpm_rank: 32
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Andrea Bargnani <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -41\" data-vorp-text=\"-41.8\">-41.8</span> with 1th pick but was worth 17th pick.</li>\n\
-  <li>Drafted Markelle Fultz <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -28\" data-vorp-text=\"-28.2\">-28.2</span> with 1th pick but was worth 19th pick.</li>\n\
-  <li>Drafted Ben Simmons <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -12\" data-vorp-text=\"-12.2\">-12.2</span> with 1th pick but was worth 3th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Andrea Bargnani <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -124325\" data-vorp-text=\"-124325.6\">-124325</span> with 1th pick but was worth\
-  \ 60th pick.</li>\n<li>Drafted Markelle Fultz <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-84050\" data-vorp-text=\"-84050.6\">-84050</span> with 1th pick\
-  \ but was worth 45th pick.</li>\n<li>Drafted Jonas Valančiūnas <span class=\"badge\
-  \ badge-pill badge-danger\" data-bpm-text=\"-40498\" data-vorp-text=\"-40498.3\"\
-  >-40498</span> with 5th pick but was worth 8th pick.</li>\n</ul>\n    "
+  <li>Drafted Andrea Bargnani with 1th pick but was worth 17th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-41\" data-vorp-text=\"-41.8\">-41.8</span>\
+  \ (expectation difference)</li>\n<li>Drafted Markelle Fultz with 1th pick but was\
+  \ worth 19th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -28\" data-vorp-text=\"-28.2\">-28.2</span> (expectation difference)</li>\n<li>Drafted\
+  \ Ben Simmons with 1th pick but was worth 3th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-12\" data-vorp-text=\"-12.2\">-12.2</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Andrea Bargnani with 1th pick but was worth 60th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-124325\" data-vorp-text=\"\
+  -124325.6\">-124325</span> (expectation difference)</li>\n<li>Drafted Markelle Fultz\
+  \ with 1th pick but was worth 45th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-84050\" data-vorp-text=\"-84050.6\">-84050</span> (expectation\
+  \ difference)</li>\n<li>Drafted Jonas Valančiūnas with 5th pick but was worth 8th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-40498\" data-vorp-text=\"\
+  -40498.3\">-40498</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Bryan Colangelo ranks in the 66th percentile for drafting among
   executives in our database. Colangelo's draft picks average out to be worth the
   equivalent of 1 spot higher than they were picked due to his good drafting.
 draft_num_players: 26
+draft_overall_grade_bpm: B+
+draft_overall_grade_vorp: A-
 draft_overall_percentile_vorp: 82
 draft_rating_bpm: -7
 draft_rating_grade_bpm: C
@@ -33,21 +37,23 @@ draft_total_percentile_bpm: 97
 draft_total_percentile_vorp: 97
 draft_total_vorp: 136
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Steve Nash <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +43\" data-vorp-text=\"+43.4\">+43.4</span> with 15th pick but was worth 4th pick.\
-  \ </li>\n<li>Drafted Shawn Marion <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+22\" data-vorp-text=\"+22.2\">+22.2</span> with 9th pick but\
-  \ was worth 2th pick. </li>\n<li>Drafted DeMar DeRozan <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+15\" data-vorp-text=\"+16.0\">+16.0</span> with\
-  \ 9th pick but was worth 5th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Steve Nash <span class=\"badge\
-  \ badge-pill badge-success\" data-bpm-text=\"+114207\" data-vorp-text=\"+114207.0\"\
-  >+114207</span> with 15th pick but was worth 4th pick. </li>\n<li>Drafted Shawn\
-  \ Marion <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+60671\"\
-  \ data-vorp-text=\"+60671.5\">+60671</span> with 9th pick but was worth 3th pick.\
-  \ </li>\n<li>Drafted Amar'e Stoudemire <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+34130\" data-vorp-text=\"+34130.2\">+34130</span> with 9th pick\
-  \ but was worth 3th pick. </li>\n</ul>\n    "
+  <li>Drafted Steve Nash with 15th pick but was worth 4th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+43\" data-vorp-text=\"+43.4\">+43.4</span>\
+  \ (expectation difference)</li>\n<li>Drafted Shawn Marion with 9th pick but was\
+  \ worth 2th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +22\" data-vorp-text=\"+22.2\">+22.2</span> (expectation difference)</li>\n<li>Drafted\
+  \ DeMar DeRozan with 9th pick but was worth 5th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+15\" data-vorp-text=\"+16.0\">+16.0</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Steve Nash with 15th pick but was worth 4th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+114207\" data-vorp-text=\"\
+  +114207.0\">+114207</span> (expectation difference)</li>\n<li>Drafted Shawn Marion\
+  \ with 9th pick but was worth 3th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+60671\" data-vorp-text=\"+60671.5\">+60671</span> (expectation\
+  \ difference)</li>\n<li>Drafted Amar'e Stoudemire with 9th pick but was worth 3th\
+  \ pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+34130\"\
+  \ data-vorp-text=\"+34130.2\">+34130</span> (expectation difference)</li>\n</ul>\n\
+  \    "
 end_year: 2018
 final_bpm: 69172
 final_vorp: 79
@@ -70,6 +76,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-8994\" data-vorp-text=\"-8994.8\">-8994</span>\
   \ in 2010.</li>\n</ul>\n    "
 signing_num_players: 152
+signing_overall_grade_bpm: B+
+signing_overall_grade_vorp: A
 signing_overall_percentile_bpm: 77
 signing_overall_percentile_vorp: 87
 signing_rating_bpm: 0
@@ -127,6 +135,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ badge-danger\" data-bpm-text=\"-90214\" data-vorp-text=\"-32.2\">-90214</span>\
   \ to NJN.</li>\n</ul>\n    "
 trade_num: 264
+trade_overall_grade_bpm: F
+trade_overall_grade_vorp: F
 trade_overall_percentile_bpm: 17
 trade_overall_percentile_vorp: 8
 trade_rating_bpm: 0

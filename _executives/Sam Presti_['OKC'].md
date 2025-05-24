@@ -1,24 +1,28 @@
 ---
 bpm_rank: 122
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Terrance Ferguson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -3\" data-vorp-text=\"-3.2\">-3.2</span> with 21th pick but was worth 56th pick.</li>\n\
-  <li>Drafted Mitch McGary <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -2\" data-vorp-text=\"-2.6\">-2.6</span> with 21th pick but was worth 36th pick.</li>\n\
-  <li>Drafted Cameron Payne <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -2\" data-vorp-text=\"-2.5\">-2.5</span> with 14th pick but was worth 19th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Terrance Ferguson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -16000\" data-vorp-text=\"-16000.0\">-16000</span> with 21th pick but was worth\
-  \ 55th pick.</li>\n<li>Drafted Tre Mann <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-12644\" data-vorp-text=\"-12644.8\">-12644</span> with 18th pick\
-  \ but was worth 55th pick.</li>\n<li>Drafted Cameron Payne <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-5013\" data-vorp-text=\"-5013.6\">-5013</span>\
-  \ with 14th pick but was worth 45th pick.</li>\n</ul>\n    "
+  <li>Drafted Terrance Ferguson with 21th pick but was worth 56th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-3\" data-vorp-text=\"-3.2\">-3.2</span>\
+  \ (expectation difference)</li>\n<li>Drafted Mitch McGary with 21th pick but was\
+  \ worth 36th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -2\" data-vorp-text=\"-2.6\">-2.6</span> (expectation difference)</li>\n<li>Drafted\
+  \ Cameron Payne with 14th pick but was worth 19th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-2\" data-vorp-text=\"-2.5\">-2.5</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Terrance Ferguson with 21th pick but was worth 55th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-16000\" data-vorp-text=\"\
+  -16000.0\">-16000</span> (expectation difference)</li>\n<li>Drafted Tre Mann with\
+  \ 18th pick but was worth 55th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-12644\" data-vorp-text=\"-12644.8\">-12644</span> (expectation\
+  \ difference)</li>\n<li>Drafted Cameron Payne with 14th pick but was worth 45th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-5013\" data-vorp-text=\"\
+  -5013.6\">-5013</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Sam Presti ranks in the 79th percentile for drafting among executives
   in our database. Presti's draft picks average out to be worth the equivalent of
   3 spots higher than they were picked due to his good drafting.
 draft_num_players: 22
+draft_overall_grade_bpm: A
+draft_overall_grade_vorp: A
 draft_overall_percentile_vorp: 89
 draft_rating_bpm: 2
 draft_rating_grade_bpm: A-
@@ -33,21 +37,23 @@ draft_total_percentile_bpm: 98
 draft_total_percentile_vorp: 98
 draft_total_vorp: 144
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted James Harden <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +51\" data-vorp-text=\"+51.4\">+51.4</span> with 3th pick but was worth 1th pick.\
-  \ </li>\n<li>Drafted Kevin Durant <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+43\" data-vorp-text=\"+43.4\">+43.4</span> with 2th pick but\
-  \ was worth 1th pick. </li>\n<li>Drafted Russell Westbrook <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+30\" data-vorp-text=\"+30.6\">+30.6</span> with\
-  \ 4th pick but was worth 1th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted James Harden <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+171608\" data-vorp-text=\"+171608.4\"\
-  >+171608</span> with 3th pick but was worth 1th pick. </li>\n<li>Drafted Kevin Durant\
-  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+159754\" data-vorp-text=\"\
-  +159754.6\">+159754</span> with 2th pick but was worth 1th pick. </li>\n<li>Drafted\
-  \ Russell Westbrook <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +104644\" data-vorp-text=\"+104644.2\">+104644</span> with 4th pick but was worth\
-  \ 1th pick. </li>\n</ul>\n    "
+  <li>Drafted James Harden with 3th pick but was worth 1th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+51\" data-vorp-text=\"+51.4\">+51.4</span>\
+  \ (expectation difference)</li>\n<li>Drafted Kevin Durant with 2th pick but was\
+  \ worth 1th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +43\" data-vorp-text=\"+43.4\">+43.4</span> (expectation difference)</li>\n<li>Drafted\
+  \ Russell Westbrook with 4th pick but was worth 1th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+30\" data-vorp-text=\"+30.6\">+30.6</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted James Harden with 3th pick but was worth 1th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+171608\" data-vorp-text=\"\
+  +171608.4\">+171608</span> (expectation difference)</li>\n<li>Drafted Kevin Durant\
+  \ with 2th pick but was worth 1th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+159754\" data-vorp-text=\"+159754.6\">+159754</span> (expectation\
+  \ difference)</li>\n<li>Drafted Russell Westbrook with 4th pick but was worth 1th\
+  \ pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+104644\"\
+  \ data-vorp-text=\"+104644.2\">+104644</span> (expectation difference)</li>\n</ul>\n\
+  \    "
 end_year: 2026
 final_bpm: -63878
 final_vorp: -7
@@ -70,6 +76,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ Dort <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-12264\" data-vorp-text=\"\
   -12264.0\">-12264</span> in 2019.</li>\n</ul>\n    "
 signing_num_players: 192
+signing_overall_grade_bpm: C-
+signing_overall_grade_vorp: B-
 signing_overall_percentile_bpm: 43
 signing_overall_percentile_vorp: 64
 signing_rating_bpm: 0
@@ -137,6 +145,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ Lazar Hayward <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
   +0\" data-vorp-text=\"+0.0\">+0</span> to HOU.</li>\n</ul>\n    "
 trade_num: 304
+trade_overall_grade_bpm: F
+trade_overall_grade_vorp: F
 trade_overall_percentile_bpm: 19
 trade_overall_percentile_vorp: 10
 trade_rating_bpm: 0

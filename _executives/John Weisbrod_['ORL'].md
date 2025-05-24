@@ -4,6 +4,8 @@ draft_bust_list: "\n    \n    \n    "
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
 draft_num_players: 1
+draft_overall_grade_bpm: null
+draft_overall_grade_vorp: null
 draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
@@ -40,6 +42,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ Andre Barrett <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-219\"\
   \ data-vorp-text=\"-219.7\">-219</span> in 2005.</li>\n</ul>\n    "
 signing_num_players: 8
+signing_overall_grade_bpm: B-
+signing_overall_grade_vorp: C-
 signing_overall_percentile_bpm: 65
 signing_overall_percentile_vorp: 45
 signing_rating_bpm: 0
@@ -95,6 +99,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-55999\" data-vorp-text=\"\
   -19.8\">-55999</span> to HOU.</li>\n</ul>\n    "
 trade_num: 21
+trade_overall_grade_bpm: D+
+trade_overall_grade_vorp: C-
 trade_overall_percentile_bpm: 37
 trade_overall_percentile_vorp: 43
 trade_rating_bpm: 0

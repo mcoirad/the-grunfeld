@@ -1,22 +1,26 @@
 ---
 bpm_rank: 156
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Larry Hughes <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -2\" data-vorp-text=\"-2.2\">-2.2</span> with 8th pick but was worth 10th pick.</li>\n\
-  <li>Drafted Chris McCullough <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.1\">-0.1</span> with 29th pick but was worth 47th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Samuel Dalembert <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -22735\" data-vorp-text=\"-22735.6\">-22735</span> with 26th pick but was worth\
-  \ 50th pick.</li>\n<li>Drafted Larry Hughes <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-12418\" data-vorp-text=\"-12418.3\">-12418</span> with 8th pick\
-  \ but was worth 25th pick.</li>\n<li>Drafted Chris McCullough <span class=\"badge\
-  \ badge-pill badge-danger\" data-bpm-text=\"-1330\" data-vorp-text=\"-1330.0\">-1330</span>\
-  \ with 29th pick but was worth 36th pick.</li>\n</ul>\n    "
+  <li>Drafted Larry Hughes with 8th pick but was worth 10th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-2\" data-vorp-text=\"-2.2\">-2.2</span>\
+  \ (expectation difference)</li>\n<li>Drafted Chris McCullough with 29th pick but\
+  \ was worth 47th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  0\" data-vorp-text=\"-0.1\">-0.1</span> (expectation difference)</li>\n</ul>\n \
+  \   <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n<li>Drafted\
+  \ Samuel Dalembert with 26th pick but was worth 50th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-22735\" data-vorp-text=\"-22735.6\">-22735</span>\
+  \ (expectation difference)</li>\n<li>Drafted Larry Hughes with 8th pick but was\
+  \ worth 25th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -12418\" data-vorp-text=\"-12418.3\">-12418</span> (expectation difference)</li>\n\
+  <li>Drafted Chris McCullough with 29th pick but was worth 36th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-1330\" data-vorp-text=\"-1330.0\"\
+  >-1330</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Billy King ranks in the 96th percentile for drafting among executives
   in our database. King's draft picks average out to be worth the equivalent of 9
   spots higher than they were picked due to his good drafting.
 draft_num_players: 13
+draft_overall_grade_bpm: A
+draft_overall_grade_vorp: A
 draft_overall_percentile_vorp: 90
 draft_rating_bpm: 8
 draft_rating_grade_bpm: S
@@ -31,21 +35,22 @@ draft_total_percentile_bpm: 84
 draft_total_percentile_vorp: 84
 draft_total_vorp: 53
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Andre Iguodala <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +26\" data-vorp-text=\"+26.6\">+26.6</span> with 9th pick but was worth 1th pick.\
-  \ </li>\n<li>Drafted Lou Williams <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+23\" data-vorp-text=\"+23.3\">+23.3</span> with 45th pick but\
-  \ was worth 3th pick. </li>\n<li>Drafted Thaddeus Young <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+15\" data-vorp-text=\"+15.7\">+15.7</span> with\
-  \ 12th pick but was worth 6th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Andre Iguodala <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+71912\" data-vorp-text=\"+71912.7\"\
-  >+71912</span> with 9th pick but was worth 1th pick. </li>\n<li>Drafted Alvin Jones\
-  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+54307\" data-vorp-text=\"\
-  +54307.6\">+54307</span> with 57th pick but was worth 28th pick. </li>\n<li>Drafted\
-  \ Lou Williams <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+46648\"\
-  \ data-vorp-text=\"+46648.9\">+46648</span> with 45th pick but was worth 3th pick.\
-  \ </li>\n</ul>\n    "
+  <li>Drafted Andre Iguodala with 9th pick but was worth 1th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+26\" data-vorp-text=\"+26.6\"\
+  >+26.6</span> (expectation difference)</li>\n<li>Drafted Lou Williams with 45th\
+  \ pick but was worth 3th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +23\" data-vorp-text=\"+23.3\">+23.3</span> (expectation difference)</li>\n<li>Drafted\
+  \ Thaddeus Young with 12th pick but was worth 6th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+15\" data-vorp-text=\"+15.7\">+15.7</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Andre Iguodala with 9th pick but was worth 1th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+71912\" data-vorp-text=\"\
+  +71912.7\">+71912</span> (expectation difference)</li>\n<li>Drafted Alvin Jones\
+  \ with 57th pick but was worth 28th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+54307\" data-vorp-text=\"+54307.6\">+54307</span> (expectation\
+  \ difference)</li>\n<li>Drafted Lou Williams with 45th pick but was worth 3th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+46648\" data-vorp-text=\"\
+  +46648.9\">+46648</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 2016
 final_bpm: -207084
 final_vorp: -16
@@ -68,6 +73,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ Graham <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-6521\" data-vorp-text=\"\
   -6521.2\">-6521</span> in 2010.</li>\n</ul>\n    "
 signing_num_players: 112
+signing_overall_grade_bpm: F
+signing_overall_grade_vorp: C
 signing_overall_percentile_bpm: 19
 signing_overall_percentile_vorp: 48
 signing_rating_bpm: -1
@@ -123,6 +130,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   badge badge-pill badge-danger\" data-bpm-text=\"-136722\" data-vorp-text=\"-48.7\"\
   >-136722</span> to POR.</li>\n</ul>\n    "
 trade_num: 207
+trade_overall_grade_bpm: F
+trade_overall_grade_vorp: D
 trade_overall_percentile_bpm: 17
 trade_overall_percentile_vorp: 30
 trade_rating_bpm: 0

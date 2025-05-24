@@ -1,24 +1,28 @@
 ---
 bpm_rank: 7
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Lonnie Walker <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -4\" data-vorp-text=\"-4.2\">-4.2</span> with 18th pick but was worth 58th pick.</li>\n\
-  <li>Drafted James Anderson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -2\" data-vorp-text=\"-2.0\">-2.0</span> with 20th pick but was worth 56th pick.</li>\n\
-  <li>Drafted Luka Šamanić <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -1\" data-vorp-text=\"-1.9\">-1.9</span> with 19th pick but was worth 53th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Cory Joseph <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -18792\" data-vorp-text=\"-18792.1\">-18792</span> with 29th pick but was worth\
-  \ 54th pick.</li>\n<li>Drafted Lonnie Walker <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-17562\" data-vorp-text=\"-17562.5\">-17562</span> with 18th pick\
-  \ but was worth 59th pick.</li>\n<li>Drafted Beno Udrih <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-16166\" data-vorp-text=\"-16166.5\">-16166</span>\
-  \ with 28th pick but was worth 54th pick.</li>\n</ul>\n    "
+  <li>Drafted Lonnie Walker with 18th pick but was worth 58th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-4\" data-vorp-text=\"-4.2\">-4.2</span>\
+  \ (expectation difference)</li>\n<li>Drafted James Anderson with 20th pick but was\
+  \ worth 56th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -2\" data-vorp-text=\"-2.0\">-2.0</span> (expectation difference)</li>\n<li>Drafted\
+  \ Luka Šamanić with 19th pick but was worth 53th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-1\" data-vorp-text=\"-1.9\">-1.9</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Cory Joseph with 29th pick but was worth 54th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-18792\" data-vorp-text=\"\
+  -18792.1\">-18792</span> (expectation difference)</li>\n<li>Drafted Lonnie Walker\
+  \ with 18th pick but was worth 59th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-17562\" data-vorp-text=\"-17562.5\">-17562</span> (expectation\
+  \ difference)</li>\n<li>Drafted Beno Udrih with 28th pick but was worth 54th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-16166\" data-vorp-text=\"\
+  -16166.5\">-16166</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: R.C. Buford ranks in the 88th percentile for drafting among executives
   in our database. Buford's draft picks average out to be worth the equivalent of
   5 spots higher than they were picked due to his good drafting.
 draft_num_players: 17
+draft_overall_grade_bpm: B+
+draft_overall_grade_vorp: A-
 draft_overall_percentile_vorp: 80
 draft_rating_bpm: -1
 draft_rating_grade_bpm: B+
@@ -33,21 +37,22 @@ draft_total_percentile_bpm: 73
 draft_total_percentile_vorp: 73
 draft_total_vorp: 31
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted George Hill <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +18\" data-vorp-text=\"+18.9\">+18.9</span> with 26th pick but was worth 7th pick.\
-  \ </li>\n<li>Drafted Derrick White <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+15\" data-vorp-text=\"+15.0\">+15.0</span> with 29th pick but\
-  \ was worth 5th pick. </li>\n<li>Drafted Kyle Anderson <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+14\" data-vorp-text=\"+14.5\">+14.5</span> with\
-  \ 30th pick but was worth 6th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Derrick White <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+31807\" data-vorp-text=\"+31807.0\"\
-  >+31807</span> with 29th pick but was worth 5th pick. </li>\n<li>Drafted Kyle Anderson\
-  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+28811\" data-vorp-text=\"\
-  +28811.6\">+28811</span> with 30th pick but was worth 4th pick. </li>\n<li>Drafted\
-  \ George Hill <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+27895\"\
-  \ data-vorp-text=\"+27895.1\">+27895</span> with 26th pick but was worth 7th pick.\
-  \ </li>\n</ul>\n    "
+  <li>Drafted George Hill with 26th pick but was worth 7th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+18\" data-vorp-text=\"+18.9\">+18.9</span>\
+  \ (expectation difference)</li>\n<li>Drafted Derrick White with 29th pick but was\
+  \ worth 5th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +15\" data-vorp-text=\"+15.0\">+15.0</span> (expectation difference)</li>\n<li>Drafted\
+  \ Kyle Anderson with 30th pick but was worth 6th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+14\" data-vorp-text=\"+14.5\">+14.5</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Derrick White with 29th pick but was worth 5th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+31807\" data-vorp-text=\"\
+  +31807.0\">+31807</span> (expectation difference)</li>\n<li>Drafted Kyle Anderson\
+  \ with 30th pick but was worth 4th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+28811\" data-vorp-text=\"+28811.6\">+28811</span> (expectation\
+  \ difference)</li>\n<li>Drafted George Hill with 26th pick but was worth 7th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+27895\" data-vorp-text=\"\
+  +27895.1\">+27895</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 2019
 final_bpm: 260709
 final_vorp: 173
@@ -70,6 +75,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-6241\" data-vorp-text=\"-6241.7\">-6241</span>\
   \ in 2016.</li>\n</ul>\n    "
 signing_num_players: 174
+signing_overall_grade_bpm: A
+signing_overall_grade_vorp: A+
 signing_overall_percentile_bpm: 92
 signing_overall_percentile_vorp: 96
 signing_rating_bpm: 0
@@ -120,6 +127,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ badge-danger\" data-bpm-text=\"-8209\" data-vorp-text=\"-7.2\">-8209</span> to\
   \ PHO.</li>\n</ul>\n    "
 trade_num: 77
+trade_overall_grade_bpm: A-
+trade_overall_grade_vorp: C-
 trade_overall_percentile_bpm: 83
 trade_overall_percentile_vorp: 42
 trade_rating_bpm: 0

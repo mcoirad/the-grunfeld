@@ -1,24 +1,28 @@
 ---
 bpm_rank: 130
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Džanan Musa <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.8\">-0.8</span> with 29th pick but was worth 50th pick.</li>\n\
-  <li>Drafted Rodions Kurucs <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.4\">-0.4</span> with 40th pick but was worth 50th pick.</li>\n\
-  <li>Drafted Noah Clowney <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.4\">-0.4</span> with 21th pick but was worth 42th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Cameron Thomas <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -7473\" data-vorp-text=\"-7473.0\">-7473</span> with 27th pick but was worth 51th\
-  \ pick.</li>\n<li>Drafted Noah Clowney <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-3411\" data-vorp-text=\"-3411.4\">-3411</span> with 21th pick\
-  \ but was worth 39th pick.</li>\n<li>Drafted Džanan Musa <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-1315\" data-vorp-text=\"-1315.3\">-1315</span>\
-  \ with 29th pick but was worth 32th pick.</li>\n</ul>\n    "
+  <li>Drafted Džanan Musa with 29th pick but was worth 50th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.8\">-0.8</span>\
+  \ (expectation difference)</li>\n<li>Drafted Rodions Kurucs with 40th pick but was\
+  \ worth 50th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  0\" data-vorp-text=\"-0.4\">-0.4</span> (expectation difference)</li>\n<li>Drafted\
+  \ Noah Clowney with 21th pick but was worth 42th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.4\">-0.4</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Cameron Thomas with 27th pick but was worth 51th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-7473\" data-vorp-text=\"\
+  -7473.0\">-7473</span> (expectation difference)</li>\n<li>Drafted Noah Clowney with\
+  \ 21th pick but was worth 39th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-3411\" data-vorp-text=\"-3411.4\">-3411</span> (expectation difference)</li>\n\
+  <li>Drafted Džanan Musa with 29th pick but was worth 32th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-1315\" data-vorp-text=\"-1315.3\">-1315</span>\
+  \ (expectation difference)</li>\n</ul>\n    "
 draft_description: Sean Marks ranks in the 70th percentile for drafting among executives
   in our database. Marks's draft picks average out to be worth the equivalent of 1
   spot higher than they were picked due to his good drafting.
 draft_num_players: 10
+draft_overall_grade_bpm: B
+draft_overall_grade_vorp: B-
 draft_overall_percentile_vorp: 60
 draft_rating_bpm: 4
 draft_rating_grade_bpm: A
@@ -33,18 +37,20 @@ draft_total_percentile_bpm: 50
 draft_total_percentile_vorp: 50
 draft_total_vorp: 9
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Jarrett Allen <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +16\" data-vorp-text=\"+16.8\">+16.8</span> with 22th pick but was worth 4th pick.\
-  \ </li>\n<li>Drafted Nicolas Claxton <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+6\" data-vorp-text=\"+6.9\">+6.9</span> with 31th pick but was\
-  \ worth 8th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
-  \ id=bpm-toggle>\n<li>Drafted Jarrett Allen <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+38490\" data-vorp-text=\"+38490.0\">+38490</span> with 22th pick\
-  \ but was worth 4th pick. </li>\n<li>Drafted Nicolas Claxton <span class=\"badge\
-  \ badge-pill badge-success\" data-bpm-text=\"+14031\" data-vorp-text=\"+14031.8\"\
-  >+14031</span> with 31th pick but was worth 6th pick. </li>\n<li>Drafted Rodions\
-  \ Kurucs <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+847\" data-vorp-text=\"\
-  +847.2\">+847</span> with 40th pick but was worth 39th pick. </li>\n</ul>\n    "
+  <li>Drafted Jarrett Allen with 22th pick but was worth 4th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+16\" data-vorp-text=\"+16.8\"\
+  >+16.8</span> (expectation difference)</li>\n<li>Drafted Nicolas Claxton with 31th\
+  \ pick but was worth 8th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +6\" data-vorp-text=\"+6.9\">+6.9</span> (expectation difference)</li>\n</ul>\n\
+  \    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted\
+  \ Jarrett Allen with 22th pick but was worth 4th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+38490\" data-vorp-text=\"+38490.0\">+38490</span>\
+  \ (expectation difference)</li>\n<li>Drafted Nicolas Claxton with 31th pick but\
+  \ was worth 6th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +14031\" data-vorp-text=\"+14031.8\">+14031</span> (expectation difference)</li>\n\
+  <li>Drafted Rodions Kurucs with 40th pick but was worth 39th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+847\" data-vorp-text=\"+847.2\"\
+  >+847</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 2026
 final_bpm: -82428
 final_vorp: 72
@@ -67,6 +73,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   <li>Signed Sean Kilpatrick <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
   -6439\" data-vorp-text=\"-6439.6\">-6439</span> in 2016.</li>\n</ul>\n    "
 signing_num_players: 161
+signing_overall_grade_bpm: C-
+signing_overall_grade_vorp: B+
 signing_overall_percentile_bpm: 42
 signing_overall_percentile_vorp: 76
 signing_rating_bpm: 0
@@ -125,6 +133,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ badge-success\" data-bpm-text=\"+2087\" data-vorp-text=\"+0.4\">+2087</span> to\
   \ DAL.</li>\n</ul>\n    "
 trade_num: 152
+trade_overall_grade_bpm: C
+trade_overall_grade_vorp: A-
 trade_overall_percentile_bpm: 52
 trade_overall_percentile_vorp: 82
 trade_rating_bpm: 0

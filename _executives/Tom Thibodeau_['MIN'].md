@@ -1,19 +1,23 @@
 ---
 bpm_rank: 80
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Kris Dunn <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -10\" data-vorp-text=\"-10.2\">-10.2</span> with 5th pick but was worth 14th pick.</li>\n\
-  <li>Drafted Josh Okogie <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -2\" data-vorp-text=\"-2.7\">-2.7</span> with 20th pick but was worth 28th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Kris Dunn <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -27972\" data-vorp-text=\"-27972.0\">-27972</span> with 5th pick but was worth 52th\
-  \ pick.</li>\n<li>Drafted Josh Okogie <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-14313\" data-vorp-text=\"-14313.6\">-14313</span> with 20th pick\
-  \ but was worth 55th pick.</li>\n</ul>\n    "
+  <li>Drafted Kris Dunn with 5th pick but was worth 14th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-10\" data-vorp-text=\"-10.2\">-10.2</span>\
+  \ (expectation difference)</li>\n<li>Drafted Josh Okogie with 20th pick but was\
+  \ worth 28th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -2\" data-vorp-text=\"-2.7\">-2.7</span> (expectation difference)</li>\n</ul>\n\
+  \    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n<li>Drafted\
+  \ Kris Dunn with 5th pick but was worth 52th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-27972\" data-vorp-text=\"-27972.0\">-27972</span>\
+  \ (expectation difference)</li>\n<li>Drafted Josh Okogie with 20th pick but was\
+  \ worth 55th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -14313\" data-vorp-text=\"-14313.6\">-14313</span> (expectation difference)</li>\n\
+  </ul>\n    "
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
+draft_overall_grade_bpm: null
+draft_overall_grade_vorp: null
 draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
@@ -28,12 +32,13 @@ draft_total_percentile_bpm: 7
 draft_total_percentile_vorp: 7
 draft_total_vorp: -2
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Keita Bates-Diop <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +0\" data-vorp-text=\"+0.7\">+0.7</span> with 48th pick but was worth 27th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Keita Bates-Diop <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +4156\" data-vorp-text=\"+4156.4\">+4156</span> with 48th pick but was worth 43th\
-  \ pick. </li>\n</ul>\n    "
+  <li>Drafted Keita Bates-Diop with 48th pick but was worth 27th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.7\">+0.7</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ wins: </h5><ul id=bpm-toggle>\n<li>Drafted Keita Bates-Diop with 48th pick but\
+  \ was worth 43th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +4156\" data-vorp-text=\"+4156.4\">+4156</span> (expectation difference)</li>\n\
+  </ul>\n    "
 end_year: 2019
 final_bpm: -13422
 final_vorp: 8
@@ -56,6 +61,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-2589\" data-vorp-text=\"\
   -2589.6\">-2589</span> in 2018.</li>\n</ul>\n    "
 signing_num_players: 35
+signing_overall_grade_bpm: A-
+signing_overall_grade_vorp: C
 signing_overall_percentile_bpm: 86
 signing_overall_percentile_vorp: 49
 signing_rating_bpm: 0
@@ -113,6 +120,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+42\" data-vorp-text=\"\
   +0.0\">+42</span> to PHI.</li>\n</ul>\n    "
 trade_num: 13
+trade_overall_grade_bpm: null
+trade_overall_grade_vorp: null
 trade_overall_percentile_bpm: null
 trade_overall_percentile_vorp: null
 trade_rating_bpm: null

@@ -1,15 +1,18 @@
 ---
 bpm_rank: 6
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Ekpe Udoh <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -14\" data-vorp-text=\"-14.5\">-14.5</span> with 6th pick but was worth 22th pick.</li>\n\
-  <li>Drafted Charles Jenkins <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.7\">-0.7</span> with 44th pick but was worth 54th pick.</li>\n\
-  </ul>\n    \n    "
+  <li>Drafted Ekpe Udoh with 6th pick but was worth 22th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-14\" data-vorp-text=\"-14.5\">-14.5</span>\
+  \ (expectation difference)</li>\n<li>Drafted Charles Jenkins with 44th pick but\
+  \ was worth 54th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  0\" data-vorp-text=\"-0.7\">-0.7</span> (expectation difference)</li>\n</ul>\n \
+  \   \n    "
 draft_description: Larry Riley ranks in the 44th percentile for drafting among executives
   in our database. Riley's draft picks average out to be worth the equivalent of 4
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 4
+draft_overall_grade_bpm: B
+draft_overall_grade_vorp: B
 draft_overall_percentile_vorp: 68
 draft_rating_bpm: -8
 draft_rating_grade_bpm: C
@@ -24,19 +27,20 @@ draft_total_percentile_bpm: 91
 draft_total_percentile_vorp: 91
 draft_total_vorp: 90
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Stephen Curry <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +60\" data-vorp-text=\"+60.4\">+60.4</span> with 7th pick but was worth 2th pick.\
-  \ </li>\n<li>Drafted Klay Thompson <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+9\" data-vorp-text=\"+9.7\">+9.7</span> with 11th pick but was\
-  \ worth 8th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
-  \ id=bpm-toggle>\n<li>Drafted Stephen Curry <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+204814\" data-vorp-text=\"+204814.3\">+204814</span> with 7th\
-  \ pick but was worth 2th pick. </li>\n<li>Drafted Charles Jenkins <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+2785\" data-vorp-text=\"+2785.0\"\
-  >+2785</span> with 44th pick but was worth 38th pick. </li>\n<li>Drafted Klay Thompson\
-  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+1555\" data-vorp-text=\"\
-  +1555.7\">+1555</span> with 11th pick but was worth 10th pick. </li>\n</ul>\n  \
-  \  "
+  <li>Drafted Stephen Curry with 7th pick but was worth 2th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+60\" data-vorp-text=\"+60.4\">+60.4</span>\
+  \ (expectation difference)</li>\n<li>Drafted Klay Thompson with 11th pick but was\
+  \ worth 8th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +9\" data-vorp-text=\"+9.7\">+9.7</span> (expectation difference)</li>\n</ul>\n\
+  \    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted\
+  \ Stephen Curry with 7th pick but was worth 2th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+204814\" data-vorp-text=\"+204814.3\">+204814</span>\
+  \ (expectation difference)</li>\n<li>Drafted Charles Jenkins with 44th pick but\
+  \ was worth 38th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +2785\" data-vorp-text=\"+2785.0\">+2785</span> (expectation difference)</li>\n\
+  <li>Drafted Klay Thompson with 11th pick but was worth 10th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+1555\" data-vorp-text=\"+1555.7\"\
+  >+1555</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 2012
 final_bpm: 290628
 final_vorp: 126
@@ -59,6 +63,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   badge badge-pill badge-danger\" data-bpm-text=\"-2276\" data-vorp-text=\"-2276.8\"\
   >-2276</span> in 2010.</li>\n</ul>\n    "
 signing_num_players: 22
+signing_overall_grade_bpm: D+
+signing_overall_grade_vorp: D
 signing_overall_percentile_bpm: 34
 signing_overall_percentile_vorp: 30
 signing_rating_bpm: -1
@@ -109,6 +115,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ badge-danger\" data-bpm-text=\"-3607\" data-vorp-text=\"-3.3\">-3607</span> to\
   \ ATL.</li>\n</ul>\n    "
 trade_num: 41
+trade_overall_grade_bpm: A-
+trade_overall_grade_vorp: B-
 trade_overall_percentile_bpm: 80
 trade_overall_percentile_vorp: 64
 trade_rating_bpm: 0

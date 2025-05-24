@@ -5,6 +5,8 @@ draft_description: Otis Smith ranks in the 85th percentile for drafting among ex
   in our database. Smith's draft picks average out to be worth the equivalent of 4
   spots higher than they were picked due to his good drafting.
 draft_num_players: 6
+draft_overall_grade_bpm: B
+draft_overall_grade_vorp: B
 draft_overall_percentile_vorp: 67
 draft_rating_bpm: 4
 draft_rating_grade_bpm: A
@@ -19,12 +21,13 @@ draft_total_percentile_bpm: 49
 draft_total_percentile_vorp: 49
 draft_total_vorp: 7
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted J.J. Redick <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +12\" data-vorp-text=\"+12.0\">+12.0</span> with 11th pick but was worth 7th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted J.J. Redick <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +14072\" data-vorp-text=\"+14072.0\">+14072</span> with 11th pick but was worth\
-  \ 8th pick. </li>\n</ul>\n    "
+  <li>Drafted J.J. Redick with 11th pick but was worth 7th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+12\" data-vorp-text=\"+12.0\">+12.0</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ wins: </h5><ul id=bpm-toggle>\n<li>Drafted J.J. Redick with 11th pick but was\
+  \ worth 8th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +14072\" data-vorp-text=\"+14072.0\">+14072</span> (expectation difference)</li>\n\
+  </ul>\n    "
 end_year: 2012
 final_bpm: 52979
 final_vorp: 30
@@ -47,6 +50,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ Richardson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-2818\"\
   \ data-vorp-text=\"-2818.1\">-2818</span> in 2010.</li>\n</ul>\n    "
 signing_num_players: 21
+signing_overall_grade_bpm: B-
+signing_overall_grade_vorp: B+
 signing_overall_percentile_bpm: 63
 signing_overall_percentile_vorp: 76
 signing_rating_bpm: 0
@@ -97,6 +102,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ badge-danger\" data-bpm-text=\"-4562\" data-vorp-text=\"-2.7\">-4562</span> to\
   \ LAL.</li>\n</ul>\n    "
 trade_num: 50
+trade_overall_grade_bpm: B
+trade_overall_grade_vorp: C+
 trade_overall_percentile_bpm: 70
 trade_overall_percentile_vorp: 57
 trade_rating_bpm: 0

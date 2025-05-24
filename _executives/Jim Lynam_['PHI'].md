@@ -1,22 +1,25 @@
 ---
 bpm_rank: 154
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Shawn Bradley <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -19\" data-vorp-text=\"-19.9\">-19.9</span> with 2th pick but was worth 10th pick.</li>\n\
-  <li>Drafted Clarence Weatherspoon <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-1\" data-vorp-text=\"-1.6\">-1.6</span> with 9th pick but was\
-  \ worth 10th pick.</li>\n<li>Drafted Alphonso Ford <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.2\">-0.2</span> with 32th\
-  \ pick but was worth 43th pick.</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
-  \ busts: </h5><ul id=bpm-toggle>\n<li>Drafted Shawn Bradley <span class=\"badge\
-  \ badge-pill badge-danger\" data-bpm-text=\"-63183\" data-vorp-text=\"-63183.7\"\
-  >-63183</span> with 2th pick but was worth 35th pick.</li>\n<li>Drafted Clarence\
-  \ Weatherspoon <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-17729\"\
-  \ data-vorp-text=\"-17729.8\">-17729</span> with 9th pick but was worth 37th pick.</li>\n\
-  </ul>\n    "
+  <li>Drafted Shawn Bradley with 2th pick but was worth 10th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-19\" data-vorp-text=\"-19.9\">-19.9</span>\
+  \ (expectation difference)</li>\n<li>Drafted Clarence Weatherspoon with 9th pick\
+  \ but was worth 10th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -1\" data-vorp-text=\"-1.6\">-1.6</span> (expectation difference)</li>\n<li>Drafted\
+  \ Alphonso Ford with 32th pick but was worth 43th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.2\">-0.2</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Shawn Bradley with 2th pick but was worth 35th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-63183\" data-vorp-text=\"\
+  -63183.7\">-63183</span> (expectation difference)</li>\n<li>Drafted Clarence Weatherspoon\
+  \ with 9th pick but was worth 37th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-17729\" data-vorp-text=\"-17729.8\">-17729</span> (expectation\
+  \ difference)</li>\n</ul>\n    "
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
+draft_overall_grade_bpm: null
+draft_overall_grade_vorp: null
 draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
@@ -32,9 +35,9 @@ draft_total_percentile_vorp: 47
 draft_total_vorp: 5
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
   </ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted\
-  \ Alphonso Ford <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +1052\" data-vorp-text=\"+1052.8\">+1052</span> with 32th pick but was worth 30th\
-  \ pick. </li>\n</ul>\n    "
+  \ Alphonso Ford with 32th pick but was worth 30th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+1052\" data-vorp-text=\"+1052.8\">+1052</span>\
+  \ (expectation difference)</li>\n</ul>\n    "
 end_year: 1994
 final_bpm: -176611
 final_vorp: -39
@@ -57,6 +60,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ Kidd <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-3712\" data-vorp-text=\"\
   -3712.8\">-3712</span> in 1993.</li>\n</ul>\n    "
 signing_num_players: 11
+signing_overall_grade_bpm: D-
+signing_overall_grade_vorp: F-
 signing_overall_percentile_bpm: 23
 signing_overall_percentile_vorp: 2
 signing_rating_bpm: -1
@@ -99,6 +104,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-64258\" data-vorp-text=\"\
   -21.4\">-64258</span> to PHO.</li>\n</ul>\n    "
 trade_num: 19
+trade_overall_grade_bpm: F
+trade_overall_grade_vorp: F
 trade_overall_percentile_bpm: 5
 trade_overall_percentile_vorp: 6
 trade_rating_bpm: -1

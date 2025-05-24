@@ -4,6 +4,8 @@ draft_bust_list: "\n    \n    \n    "
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
 draft_num_players: 1
+draft_overall_grade_bpm: null
+draft_overall_grade_vorp: null
 draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
@@ -30,6 +32,8 @@ signing_description: 'Wally Walker ranks in the 68th percentile for free agency 
   among executives in our database. '
 signing_lose_list: "\n    \n    \n    "
 signing_num_players: 44
+signing_overall_grade_bpm: A
+signing_overall_grade_vorp: C-
 signing_overall_percentile_bpm: 89
 signing_overall_percentile_vorp: 43
 signing_rating_bpm: 0
@@ -65,6 +69,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-2623\" data-vorp-text=\"\
   -4.1\">-2623</span> to CLE.</li>\n</ul>\n    "
 trade_num: 55
+trade_overall_grade_bpm: B-
+trade_overall_grade_vorp: D-
 trade_overall_percentile_bpm: 60
 trade_overall_percentile_vorp: 21
 trade_rating_bpm: 0

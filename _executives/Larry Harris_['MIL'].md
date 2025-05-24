@@ -1,20 +1,24 @@
 ---
 bpm_rank: 99
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Andrew Bogut <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -82\" data-vorp-text=\"-82.9\">-82.9</span> with 1th pick but was worth 6th pick.</li>\n\
-  <li>Drafted Yi Jianlian <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -24\" data-vorp-text=\"-24.2\">-24.2</span> with 6th pick but was worth 60th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Andrew Bogut <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -277178\" data-vorp-text=\"-277178.4\">-277178</span> with 1th pick but was worth\
-  \ 6th pick.</li>\n<li>Drafted Yi Jianlian <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-42469\" data-vorp-text=\"-42469.4\">-42469</span> with 6th pick\
-  \ but was worth 52th pick.</li>\n</ul>\n    "
+  <li>Drafted Andrew Bogut with 1th pick but was worth 6th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-82\" data-vorp-text=\"-82.9\">-82.9</span>\
+  \ (expectation difference)</li>\n<li>Drafted Yi Jianlian with 6th pick but was worth\
+  \ 60th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-24\"\
+  \ data-vorp-text=\"-24.2\">-24.2</span> (expectation difference)</li>\n</ul>\n \
+  \   <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n<li>Drafted\
+  \ Andrew Bogut with 1th pick but was worth 6th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-277178\" data-vorp-text=\"-277178.4\">-277178</span>\
+  \ (expectation difference)</li>\n<li>Drafted Yi Jianlian with 6th pick but was worth\
+  \ 52th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-42469\"\
+  \ data-vorp-text=\"-42469.4\">-42469</span> (expectation difference)</li>\n</ul>\n\
+  \    "
 draft_description: Larry Harris ranks in the 75th percentile for drafting among executives
   in our database. Harris's draft picks average out to be worth the equivalent of
   2 spots higher than they were picked due to his good drafting.
 draft_num_players: 5
+draft_overall_grade_bpm: B-
+draft_overall_grade_vorp: B
 draft_overall_percentile_vorp: 68
 draft_rating_bpm: -5
 draft_rating_grade_bpm: B-
@@ -29,14 +33,15 @@ draft_total_percentile_bpm: 61
 draft_total_percentile_vorp: 61
 draft_total_vorp: 17
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Ramon Sessions <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +6\" data-vorp-text=\"+6.7\">+6.7</span> with 56th pick but was worth 11th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Ramon Sessions <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +17800\" data-vorp-text=\"+17800.8\">+17800</span> with 56th pick but was worth\
-  \ 45th pick. </li>\n<li>Drafted David Noel <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+2856\" data-vorp-text=\"+2856.8\">+2856</span> with 39th pick\
-  \ but was worth 32th pick. </li>\n</ul>\n    "
+  <li>Drafted Ramon Sessions with 56th pick but was worth 11th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+6\" data-vorp-text=\"+6.7\">+6.7</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ wins: </h5><ul id=bpm-toggle>\n<li>Drafted Ramon Sessions with 56th pick but was\
+  \ worth 45th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +17800\" data-vorp-text=\"+17800.8\">+17800</span> (expectation difference)</li>\n\
+  <li>Drafted David Noel with 39th pick but was worth 32th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+2856\" data-vorp-text=\"+2856.8\"\
+  >+2856</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 2008
 final_bpm: -32548
 final_vorp: 27
@@ -59,6 +64,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   badge badge-pill badge-danger\" data-bpm-text=\"-4721\" data-vorp-text=\"-4721.5\"\
   >-4721</span> in 2003.</li>\n</ul>\n    "
 signing_num_players: 31
+signing_overall_grade_bpm: D-
+signing_overall_grade_vorp: C+
 signing_overall_percentile_bpm: 21
 signing_overall_percentile_vorp: 56
 signing_rating_bpm: -1
@@ -106,6 +113,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-5016\" data-vorp-text=\"\
   -3.0\">-5016</span> to TOR.</li>\n</ul>\n    "
 trade_num: 31
+trade_overall_grade_bpm: B-
+trade_overall_grade_vorp: A-
 trade_overall_percentile_bpm: 64
 trade_overall_percentile_vorp: 83
 trade_rating_bpm: 0

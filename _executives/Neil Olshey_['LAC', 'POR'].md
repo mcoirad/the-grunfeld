@@ -1,24 +1,28 @@
 ---
 bpm_rank: 24
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Al-Farouq Aminu <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -7\" data-vorp-text=\"-7.5\">-7.5</span> with 8th pick but was worth 10th pick.</li>\n\
-  <li>Drafted Meyers Leonard <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -4\" data-vorp-text=\"-4.0\">-4.0</span> with 11th pick but was worth 19th pick.</li>\n\
-  <li>Drafted Harry Giles <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -1\" data-vorp-text=\"-1.4\">-1.4</span> with 20th pick but was worth 40th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Al-Farouq Aminu <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -27900\" data-vorp-text=\"-27900.6\">-27900</span> with 8th pick but was worth 51th\
-  \ pick.</li>\n<li>Drafted Anfernee Simons <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-11032\" data-vorp-text=\"-11032.0\">-11032</span> with 24th pick\
-  \ but was worth 48th pick.</li>\n<li>Drafted Meyers Leonard <span class=\"badge\
-  \ badge-pill badge-danger\" data-bpm-text=\"-10908\" data-vorp-text=\"-10908.0\"\
-  >-10908</span> with 11th pick but was worth 47th pick.</li>\n</ul>\n    "
+  <li>Drafted Al-Farouq Aminu with 8th pick but was worth 10th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-7\" data-vorp-text=\"-7.5\">-7.5</span>\
+  \ (expectation difference)</li>\n<li>Drafted Meyers Leonard with 11th pick but was\
+  \ worth 19th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -4\" data-vorp-text=\"-4.0\">-4.0</span> (expectation difference)</li>\n<li>Drafted\
+  \ Harry Giles with 20th pick but was worth 40th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-1\" data-vorp-text=\"-1.4\">-1.4</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Al-Farouq Aminu with 8th pick but was worth 51th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-27900\" data-vorp-text=\"\
+  -27900.6\">-27900</span> (expectation difference)</li>\n<li>Drafted Anfernee Simons\
+  \ with 24th pick but was worth 48th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-11032\" data-vorp-text=\"-11032.0\">-11032</span> (expectation\
+  \ difference)</li>\n<li>Drafted Meyers Leonard with 11th pick but was worth 47th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-10908\" data-vorp-text=\"\
+  -10908.0\">-10908</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Neil Olshey ranks in the 57th percentile for drafting among executives
   in our database. Olshey's draft picks average out to be worth the equivalent of
   1 spot lower than they were picked due to their terrible drafting.
 draft_num_players: 14
+draft_overall_grade_bpm: B
+draft_overall_grade_vorp: B
 draft_overall_percentile_vorp: 72
 draft_rating_bpm: -7
 draft_rating_grade_bpm: C+
@@ -33,21 +37,22 @@ draft_total_percentile_bpm: 85
 draft_total_percentile_vorp: 85
 draft_total_vorp: 63
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Damian Lillard <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +37\" data-vorp-text=\"+37.9\">+37.9</span> with 6th pick but was worth 1th pick.\
-  \ </li>\n<li>Drafted CJ McCollum <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+13\" data-vorp-text=\"+13.1\">+13.1</span> with 10th pick but\
-  \ was worth 3th pick. </li>\n<li>Drafted Will Barton <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+7\" data-vorp-text=\"+7.1\">+7.1</span> with\
-  \ 40th pick but was worth 10th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Damian Lillard <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+130966\" data-vorp-text=\"+130966.0\"\
-  >+130966</span> with 6th pick but was worth 2th pick. </li>\n<li>Drafted CJ McCollum\
-  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+26282\" data-vorp-text=\"\
-  +26282.6\">+26282</span> with 10th pick but was worth 3th pick. </li>\n<li>Drafted\
-  \ CJ Elleby <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+2575\"\
-  \ data-vorp-text=\"+2575.8\">+2575</span> with 46th pick but was worth 42th pick.\
-  \ </li>\n</ul>\n    "
+  <li>Drafted Damian Lillard with 6th pick but was worth 1th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+37\" data-vorp-text=\"+37.9\"\
+  >+37.9</span> (expectation difference)</li>\n<li>Drafted CJ McCollum with 10th pick\
+  \ but was worth 3th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +13\" data-vorp-text=\"+13.1\">+13.1</span> (expectation difference)</li>\n<li>Drafted\
+  \ Will Barton with 40th pick but was worth 10th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+7\" data-vorp-text=\"+7.1\">+7.1</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Damian Lillard with 6th pick but was worth 2th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+130966\" data-vorp-text=\"\
+  +130966.0\">+130966</span> (expectation difference)</li>\n<li>Drafted CJ McCollum\
+  \ with 10th pick but was worth 3th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+26282\" data-vorp-text=\"+26282.6\">+26282</span> (expectation\
+  \ difference)</li>\n<li>Drafted CJ Elleby with 46th pick but was worth 42th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+2575\" data-vorp-text=\"\
+  +2575.8\">+2575</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 2021
 final_bpm: 106625
 final_vorp: 86
@@ -71,6 +76,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-6949\" data-vorp-text=\"\
   -6949.5\">-6949</span> in 2010.</li>\n</ul>\n    "
 signing_num_players: 95
+signing_overall_grade_bpm: D-
+signing_overall_grade_vorp: C+
 signing_overall_percentile_bpm: 25
 signing_overall_percentile_vorp: 55
 signing_rating_bpm: 0
@@ -126,6 +133,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-46063\" data-vorp-text=\"\
   -18.1\">-46063</span> to CLE.</li>\n</ul>\n    "
 trade_num: 118
+trade_overall_grade_bpm: B
+trade_overall_grade_vorp: A-
 trade_overall_percentile_bpm: 72
 trade_overall_percentile_vorp: 80
 trade_rating_bpm: 0

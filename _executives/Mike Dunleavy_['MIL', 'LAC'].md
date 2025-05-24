@@ -1,24 +1,28 @@
 ---
 bpm_rank: 29
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Glenn Robinson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -60\" data-vorp-text=\"-60.0\">-60.0</span> with 1th pick but was worth 7th pick.</li>\n\
-  <li>Drafted Blake Griffin <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -51\" data-vorp-text=\"-51.4\">-51.4</span> with 1th pick but was worth 3th pick.</li>\n\
-  <li>Drafted Todd Day <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -11\" data-vorp-text=\"-11.9\">-11.9</span> with 8th pick but was worth 19th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Glenn Robinson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -187887\" data-vorp-text=\"-187887.2\">-187887</span> with 1th pick but was worth\
-  \ 9th pick.</li>\n<li>Drafted Blake Griffin <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-171608\" data-vorp-text=\"-171608.4\">-171608</span> with 1th\
-  \ pick but was worth 3th pick.</li>\n<li>Drafted Vin Baker <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-33715\" data-vorp-text=\"-33715.5\">-33715</span>\
-  \ with 8th pick but was worth 53th pick.</li>\n</ul>\n    "
+  <li>Drafted Glenn Robinson with 1th pick but was worth 7th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-60\" data-vorp-text=\"-60.0\">-60.0</span>\
+  \ (expectation difference)</li>\n<li>Drafted Blake Griffin with 1th pick but was\
+  \ worth 3th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -51\" data-vorp-text=\"-51.4\">-51.4</span> (expectation difference)</li>\n<li>Drafted\
+  \ Todd Day with 8th pick but was worth 19th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-11\" data-vorp-text=\"-11.9\">-11.9</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Glenn Robinson with 1th pick but was worth 9th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-187887\" data-vorp-text=\"\
+  -187887.2\">-187887</span> (expectation difference)</li>\n<li>Drafted Blake Griffin\
+  \ with 1th pick but was worth 3th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-171608\" data-vorp-text=\"-171608.4\">-171608</span> (expectation\
+  \ difference)</li>\n<li>Drafted Vin Baker with 8th pick but was worth 53th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-33715\" data-vorp-text=\"\
+  -33715.5\">-33715</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Mike Dunleavy ranks in the 31th percentile for drafting among executives
   in our database. Dunleavy's draft picks average out to be worth the equivalent of
   8 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 7
+draft_overall_grade_bpm: C
+draft_overall_grade_vorp: C+
 draft_overall_percentile_vorp: 56
 draft_rating_bpm: -15
 draft_rating_grade_bpm: D-
@@ -57,6 +61,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-5839\" data-vorp-text=\"-5839.7\">-5839</span>\
   \ in 1993.</li>\n</ul>\n    "
 signing_num_players: 39
+signing_overall_grade_bpm: D+
+signing_overall_grade_vorp: F
 signing_overall_percentile_bpm: 35
 signing_overall_percentile_vorp: 14
 signing_rating_bpm: 0
@@ -106,6 +112,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-13017\" data-vorp-text=\"\
   -12.4\">-13017</span> to MEM.</li>\n</ul>\n    "
 trade_num: 82
+trade_overall_grade_bpm: B+
+trade_overall_grade_vorp: C+
 trade_overall_percentile_bpm: 76
 trade_overall_percentile_vorp: 56
 trade_rating_bpm: 0

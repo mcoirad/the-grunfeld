@@ -1,24 +1,28 @@
 ---
 bpm_rank: 96
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Thomas Robinson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -20\" data-vorp-text=\"-20.1\">-20.1</span> with 5th pick but was worth 58th pick.</li>\n\
-  <li>Drafted Tyreke Evans <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -18\" data-vorp-text=\"-18.0\">-18.0</span> with 4th pick but was worth 11th pick.</li>\n\
-  <li>Drafted Jason Thompson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -11\" data-vorp-text=\"-11.4\">-11.4</span> with 12th pick but was worth 60th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Tyreke Evans <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -40062\" data-vorp-text=\"-40062.4\">-40062</span> with 4th pick but was worth 8th\
-  \ pick.</li>\n<li>Drafted Thomas Robinson <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-38934\" data-vorp-text=\"-38934.0\">-38934</span> with 5th pick\
-  \ but was worth 53th pick.</li>\n<li>Drafted Jason Thompson <span class=\"badge\
-  \ badge-pill badge-danger\" data-bpm-text=\"-38529\" data-vorp-text=\"-38529.4\"\
-  >-38529</span> with 12th pick but was worth 60th pick.</li>\n</ul>\n    "
+  <li>Drafted Thomas Robinson with 5th pick but was worth 58th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-20\" data-vorp-text=\"-20.1\">-20.1</span>\
+  \ (expectation difference)</li>\n<li>Drafted Tyreke Evans with 4th pick but was\
+  \ worth 11th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -18\" data-vorp-text=\"-18.0\">-18.0</span> (expectation difference)</li>\n<li>Drafted\
+  \ Jason Thompson with 12th pick but was worth 60th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-11\" data-vorp-text=\"-11.4\">-11.4</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Tyreke Evans with 4th pick but was worth 8th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-40062\" data-vorp-text=\"\
+  -40062.4\">-40062</span> (expectation difference)</li>\n<li>Drafted Thomas Robinson\
+  \ with 5th pick but was worth 53th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-38934\" data-vorp-text=\"-38934.0\">-38934</span> (expectation\
+  \ difference)</li>\n<li>Drafted Jason Thompson with 12th pick but was worth 60th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-38529\" data-vorp-text=\"\
+  -38529.4\">-38529</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Geoff Petrie ranks in the 72th percentile for drafting among executives
   in our database. Petrie's draft picks average out to be worth the equivalent of
   1 spot higher than they were picked due to his good drafting.
 draft_num_players: 29
+draft_overall_grade_bpm: B+
+draft_overall_grade_vorp: B+
 draft_overall_percentile_vorp: 80
 draft_rating_bpm: -3
 draft_rating_grade_bpm: B
@@ -33,21 +37,23 @@ draft_total_percentile_bpm: 87
 draft_total_percentile_vorp: 87
 draft_total_vorp: 64
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Gerald Wallace <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +23\" data-vorp-text=\"+23.5\">+23.5</span> with 25th pick but was worth 6th pick.\
-  \ </li>\n<li>Drafted Isaiah Thomas <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+20\" data-vorp-text=\"+20.2\">+20.2</span> with 60th pick but\
-  \ was worth 9th pick. </li>\n<li>Drafted Hedo Türkoğlu <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+18\" data-vorp-text=\"+18.8\">+18.8</span> with\
-  \ 16th pick but was worth 3th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Isaiah Thomas <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+76693\" data-vorp-text=\"+76693.4\"\
-  >+76693</span> with 60th pick but was worth 6th pick. </li>\n<li>Drafted Peja Stojaković\
-  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+51235\" data-vorp-text=\"\
-  +51235.4\">+51235</span> with 14th pick but was worth 7th pick. </li>\n<li>Drafted\
-  \ Gerald Wallace <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +45576\" data-vorp-text=\"+45576.6\">+45576</span> with 25th pick but was worth\
-  \ 4th pick. </li>\n</ul>\n    "
+  <li>Drafted Gerald Wallace with 25th pick but was worth 6th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+23\" data-vorp-text=\"+23.5\"\
+  >+23.5</span> (expectation difference)</li>\n<li>Drafted Isaiah Thomas with 60th\
+  \ pick but was worth 9th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +20\" data-vorp-text=\"+20.2\">+20.2</span> (expectation difference)</li>\n<li>Drafted\
+  \ Hedo Türkoğlu with 16th pick but was worth 3th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+18\" data-vorp-text=\"+18.8\">+18.8</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Isaiah Thomas with 60th pick but was worth 6th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+76693\" data-vorp-text=\"\
+  +76693.4\">+76693</span> (expectation difference)</li>\n<li>Drafted Peja Stojaković\
+  \ with 14th pick but was worth 7th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+51235\" data-vorp-text=\"+51235.4\">+51235</span> (expectation\
+  \ difference)</li>\n<li>Drafted Gerald Wallace with 25th pick but was worth 4th\
+  \ pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+45576\"\
+  \ data-vorp-text=\"+45576.6\">+45576</span> (expectation difference)</li>\n</ul>\n\
+  \    "
 end_year: 2013
 final_bpm: -25546
 final_vorp: 137
@@ -70,6 +76,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-8633\" data-vorp-text=\"\
   -8633.4\">-8633</span> in 2007.</li>\n</ul>\n    "
 signing_num_players: 91
+signing_overall_grade_bpm: D-
+signing_overall_grade_vorp: C+
 signing_overall_percentile_bpm: 20
 signing_overall_percentile_vorp: 55
 signing_rating_bpm: -1
@@ -125,6 +133,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to HOU.</li>\n</ul>\n \
   \   "
 trade_num: 135
+trade_overall_grade_bpm: B
+trade_overall_grade_vorp: B+
 trade_overall_percentile_bpm: 73
 trade_overall_percentile_vorp: 80
 trade_rating_bpm: 0

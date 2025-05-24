@@ -1,23 +1,28 @@
 ---
 bpm_rank: 84
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Coby White <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -5\" data-vorp-text=\"-5.6\">-5.6</span> with 7th pick but was worth 17th pick.</li>\n\
-  <li>Drafted Wendell Carter Jr. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -4\" data-vorp-text=\"-4.2\">-4.2</span> with 7th pick but was worth 15th pick.</li>\n\
-  <li>Drafted Chandler Hutchison <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -3\" data-vorp-text=\"-3.1\">-3.1</span> with 22th pick but was worth 56th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Coby White <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -27083\" data-vorp-text=\"-27083.1\">-27083</span> with 7th pick but was worth 57th\
-  \ pick.</li>\n<li>Drafted Tony Snell <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-26184\" data-vorp-text=\"-26184.0\">-26184</span> with 20th pick\
-  \ but was worth 57th pick.</li>\n<li>Drafted Taj Gibson <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-20762\" data-vorp-text=\"-20762.1\">-20762</span>\
-  \ with 26th pick but was worth 57th pick.</li>\n</ul>\n    "
+  <li>Drafted Coby White with 7th pick but was worth 17th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-5\" data-vorp-text=\"-5.6\">-5.6</span>\
+  \ (expectation difference)</li>\n<li>Drafted Wendell Carter Jr. with 7th pick but\
+  \ was worth 15th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -4\" data-vorp-text=\"-4.2\">-4.2</span> (expectation difference)</li>\n<li>Drafted\
+  \ Chandler Hutchison with 22th pick but was worth 56th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-3\" data-vorp-text=\"-3.1\">-3.1</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ busts: </h5><ul id=bpm-toggle>\n<li>Drafted Coby White with 7th pick but was worth\
+  \ 57th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-27083\"\
+  \ data-vorp-text=\"-27083.1\">-27083</span> (expectation difference)</li>\n<li>Drafted\
+  \ Tony Snell with 20th pick but was worth 57th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-26184\" data-vorp-text=\"-26184.0\">-26184</span>\
+  \ (expectation difference)</li>\n<li>Drafted Taj Gibson with 26th pick but was worth\
+  \ 57th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-20762\"\
+  \ data-vorp-text=\"-20762.1\">-20762</span> (expectation difference)</li>\n</ul>\n\
+  \    "
 draft_description: Gar Forman ranks in the 64th percentile for drafting among executives
   in our database. That's basically average. It could worse though lol.
 draft_num_players: 15
+draft_overall_grade_bpm: B-
+draft_overall_grade_vorp: B-
 draft_overall_percentile_vorp: 65
 draft_rating_bpm: -6
 draft_rating_grade_bpm: C+
@@ -32,21 +37,22 @@ draft_total_percentile_bpm: 65
 draft_total_percentile_vorp: 65
 draft_total_vorp: 22
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Jimmy Butler <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +50\" data-vorp-text=\"+50.4\">+50.4</span> with 30th pick but was worth 1th pick.\
-  \ </li>\n<li>Drafted Taj Gibson <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +5\" data-vorp-text=\"+5.1\">+5.1</span> with 26th pick but was worth 17th pick.\
-  \ </li>\n<li>Drafted Bobby Portis <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+3\" data-vorp-text=\"+3.7\">+3.7</span> with 22th pick but was\
-  \ worth 13th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
-  \ id=bpm-toggle>\n<li>Drafted Jimmy Butler <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+145285\" data-vorp-text=\"+145285.0\">+145285</span> with 30th\
-  \ pick but was worth 2th pick. </li>\n<li>Drafted Cameron Bairstow <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+8674\" data-vorp-text=\"+8674.3\"\
-  >+8674</span> with 49th pick but was worth 22th pick. </li>\n<li>Drafted James Johnson\
-  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+6224\" data-vorp-text=\"\
-  +6224.4\">+6224</span> with 16th pick but was worth 14th pick. </li>\n</ul>\n  \
-  \  "
+  <li>Drafted Jimmy Butler with 30th pick but was worth 1th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+50\" data-vorp-text=\"+50.4\">+50.4</span>\
+  \ (expectation difference)</li>\n<li>Drafted Taj Gibson with 26th pick but was worth\
+  \ 17th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+5\"\
+  \ data-vorp-text=\"+5.1\">+5.1</span> (expectation difference)</li>\n<li>Drafted\
+  \ Bobby Portis with 22th pick but was worth 13th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+3\" data-vorp-text=\"+3.7\">+3.7</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Jimmy Butler with 30th pick but was worth 2th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+145285\" data-vorp-text=\"\
+  +145285.0\">+145285</span> (expectation difference)</li>\n<li>Drafted Cameron Bairstow\
+  \ with 49th pick but was worth 22th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+8674\" data-vorp-text=\"+8674.3\">+8674</span> (expectation difference)</li>\n\
+  <li>Drafted James Johnson with 16th pick but was worth 14th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+6224\" data-vorp-text=\"+6224.4\"\
+  >+6224</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 2020
 final_bpm: -17030
 final_vorp: 54
@@ -69,6 +75,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ Felício <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-8057\"\
   \ data-vorp-text=\"-8057.1\">-8057</span> in 2017.</li>\n</ul>\n    "
 signing_num_players: 110
+signing_overall_grade_bpm: B+
+signing_overall_grade_vorp: A-
 signing_overall_percentile_bpm: 76
 signing_overall_percentile_vorp: 85
 signing_rating_bpm: 0
@@ -119,6 +127,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   >-15042</span>, Justin Patton <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
   -12\" data-vorp-text=\"+0.0\">-12</span> to MIN.</li>\n</ul>\n    "
 trade_num: 112
+trade_overall_grade_bpm: B
+trade_overall_grade_vorp: C
 trade_overall_percentile_bpm: 68
 trade_overall_percentile_vorp: 47
 trade_rating_bpm: 0

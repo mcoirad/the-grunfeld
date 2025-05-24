@@ -1,24 +1,28 @@
 ---
 bpm_rank: 139
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Wally Szczerbiak <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -19\" data-vorp-text=\"-19.8\">-19.8</span> with 6th pick but was worth 12th pick.</li>\n\
-  <li>Drafted William Avery <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -14\" data-vorp-text=\"-14.3\">-14.3</span> with 14th pick but was worth 52th pick.</li>\n\
-  <li>Drafted Corey Brewer <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -9\" data-vorp-text=\"-9.0\">-9.0</span> with 7th pick but was worth 21th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Wally Szczerbiak <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -49014\" data-vorp-text=\"-49014.6\">-49014</span> with 6th pick but was worth 11th\
-  \ pick.</li>\n<li>Drafted Corey Brewer <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-46016\" data-vorp-text=\"-46016.3\">-46016</span> with 7th pick\
-  \ but was worth 57th pick.</li>\n<li>Drafted Rasho Nesterović <span class=\"badge\
-  \ badge-pill badge-danger\" data-bpm-text=\"-15803\" data-vorp-text=\"-15803.6\"\
-  >-15803</span> with 17th pick but was worth 48th pick.</li>\n</ul>\n    "
+  <li>Drafted Wally Szczerbiak with 6th pick but was worth 12th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-19\" data-vorp-text=\"-19.8\">-19.8</span>\
+  \ (expectation difference)</li>\n<li>Drafted William Avery with 14th pick but was\
+  \ worth 52th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -14\" data-vorp-text=\"-14.3\">-14.3</span> (expectation difference)</li>\n<li>Drafted\
+  \ Corey Brewer with 7th pick but was worth 21th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-9\" data-vorp-text=\"-9.0\">-9.0</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Wally Szczerbiak with 6th pick but was worth 11th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-49014\" data-vorp-text=\"\
+  -49014.6\">-49014</span> (expectation difference)</li>\n<li>Drafted Corey Brewer\
+  \ with 7th pick but was worth 57th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-46016\" data-vorp-text=\"-46016.3\">-46016</span> (expectation\
+  \ difference)</li>\n<li>Drafted Rasho Nesterović with 17th pick but was worth 48th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-15803\" data-vorp-text=\"\
+  -15803.6\">-15803</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Kevin McHale ranks in the 56th percentile for drafting among executives
   in our database. McHale's draft picks average out to be worth the equivalent of
   1 spot lower than they were picked due to their terrible drafting.
 draft_num_players: 18
+draft_overall_grade_bpm: A-
+draft_overall_grade_vorp: B+
 draft_overall_percentile_vorp: 74
 draft_rating_bpm: -3
 draft_rating_grade_bpm: B
@@ -33,21 +37,22 @@ draft_total_percentile_bpm: 90
 draft_total_percentile_vorp: 90
 draft_total_vorp: 87
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Kevin Garnett <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +79\" data-vorp-text=\"+79.5\">+79.5</span> with 5th pick but was worth 1th pick.\
-  \ </li>\n<li>Drafted Nikola Peković <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+2\" data-vorp-text=\"+2.2\">+2.2</span> with 31th pick but was\
-  \ worth 20th pick. </li>\n<li>Drafted Igor Rakočević <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+1\" data-vorp-text=\"+1.9\">+1.9</span> with\
-  \ 51th pick but was worth 34th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Kevin Garnett <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+270367\" data-vorp-text=\"+270367.2\"\
-  >+270367</span> with 5th pick but was worth 1th pick. </li>\n<li>Drafted Igor Rakočević\
-  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+20677\" data-vorp-text=\"\
-  +20677.9\">+20677</span> with 51th pick but was worth 21th pick. </li>\n<li>Drafted\
-  \ Jerome Allen <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+13725\"\
-  \ data-vorp-text=\"+13725.6\">+13725</span> with 49th pick but was worth 34th pick.\
-  \ </li>\n</ul>\n    "
+  <li>Drafted Kevin Garnett with 5th pick but was worth 1th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+79\" data-vorp-text=\"+79.5\">+79.5</span>\
+  \ (expectation difference)</li>\n<li>Drafted Nikola Peković with 31th pick but was\
+  \ worth 20th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +2\" data-vorp-text=\"+2.2\">+2.2</span> (expectation difference)</li>\n<li>Drafted\
+  \ Igor Rakočević with 51th pick but was worth 34th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+1\" data-vorp-text=\"+1.9\">+1.9</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Kevin Garnett with 5th pick but was worth 1th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+270367\" data-vorp-text=\"\
+  +270367.2\">+270367</span> (expectation difference)</li>\n<li>Drafted Igor Rakočević\
+  \ with 51th pick but was worth 21th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+20677\" data-vorp-text=\"+20677.9\">+20677</span> (expectation\
+  \ difference)</li>\n<li>Drafted Jerome Allen with 49th pick but was worth 34th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+13725\" data-vorp-text=\"\
+  +13725.6\">+13725</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 2008
 final_bpm: -101471
 final_vorp: 50
@@ -70,6 +75,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-14959\" data-vorp-text=\"\
   -14959.3\">-14959</span> in 2003.</li>\n</ul>\n    "
 signing_num_players: 64
+signing_overall_grade_bpm: F
+signing_overall_grade_vorp: C-
 signing_overall_percentile_bpm: 15
 signing_overall_percentile_vorp: 46
 signing_rating_bpm: -1
@@ -135,6 +142,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ data-bpm-text=\"-60106\" data-vorp-text=\"-21.4\">-60106</span> to BOS.</li>\n\
   </ul>\n    "
 trade_num: 102
+trade_overall_grade_bpm: F
+trade_overall_grade_vorp: D
 trade_overall_percentile_bpm: 14
 trade_overall_percentile_vorp: 32
 trade_rating_bpm: 0

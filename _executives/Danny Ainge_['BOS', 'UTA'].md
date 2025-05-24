@@ -1,24 +1,28 @@
 ---
 bpm_rank: 2
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Jeff Green <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -16\" data-vorp-text=\"-16.3\">-16.3</span> with 5th pick but was worth 15th pick.</li>\n\
-  <li>Drafted Marcus Smart <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -6\" data-vorp-text=\"-6.8\">-6.8</span> with 6th pick but was worth 13th pick.</li>\n\
-  <li>Drafted James Young <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -4\" data-vorp-text=\"-4.4\">-4.4</span> with 17th pick but was worth 42th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Jeff Green <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -93174\" data-vorp-text=\"-93174.8\">-93174</span> with 5th pick but was worth 60th\
-  \ pick.</li>\n<li>Drafted Avery Bradley <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-43562\" data-vorp-text=\"-43562.4\">-43562</span> with 19th pick\
-  \ but was worth 60th pick.</li>\n<li>Drafted Jaylen Brown <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-30190\" data-vorp-text=\"-30190.5\">-30190</span>\
-  \ with 3th pick but was worth 10th pick.</li>\n</ul>\n    "
+  <li>Drafted Jeff Green with 5th pick but was worth 15th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-16\" data-vorp-text=\"-16.3\">-16.3</span>\
+  \ (expectation difference)</li>\n<li>Drafted Marcus Smart with 6th pick but was\
+  \ worth 13th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -6\" data-vorp-text=\"-6.8\">-6.8</span> (expectation difference)</li>\n<li>Drafted\
+  \ James Young with 17th pick but was worth 42th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-4\" data-vorp-text=\"-4.4\">-4.4</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Jeff Green with 5th pick but was worth 60th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-93174\" data-vorp-text=\"\
+  -93174.8\">-93174</span> (expectation difference)</li>\n<li>Drafted Avery Bradley\
+  \ with 19th pick but was worth 60th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-43562\" data-vorp-text=\"-43562.4\">-43562</span> (expectation\
+  \ difference)</li>\n<li>Drafted Jaylen Brown with 3th pick but was worth 10th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-30190\" data-vorp-text=\"\
+  -30190.5\">-30190</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Danny Ainge ranks in the 53th percentile for drafting among executives
   in our database. Ainge's draft picks average out to be worth the equivalent of 2
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 48
+draft_overall_grade_bpm: B+
+draft_overall_grade_vorp: B
 draft_overall_percentile_vorp: 71
 draft_rating_bpm: -5
 draft_rating_grade_bpm: B-
@@ -33,20 +37,22 @@ draft_total_percentile_bpm: 88
 draft_total_percentile_vorp: 88
 draft_total_vorp: 67
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Al Jefferson <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +12\" data-vorp-text=\"+12.6\">+12.6</span> with 15th pick but was worth 6th pick.\
-  \ </li>\n<li>Drafted Tony Allen <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +10\" data-vorp-text=\"+10.4\">+10.4</span> with 25th pick but was worth 11th pick.\
-  \ </li>\n<li>Drafted Jayson Tatum <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+9\" data-vorp-text=\"+9.5\">+9.5</span> with 3th pick but was\
-  \ worth 1th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
-  \ id=bpm-toggle>\n<li>Drafted Semih Erden <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+35188\" data-vorp-text=\"+35188.6\">+35188</span> with 60th pick\
-  \ but was worth 32th pick. </li>\n<li>Drafted Jayson Tatum <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+33318\" data-vorp-text=\"+33318.0\">+33318</span>\
-  \ with 3th pick but was worth 1th pick. </li>\n<li>Drafted Al Jefferson <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+31558\" data-vorp-text=\"+31558.8\"\
-  >+31558</span> with 15th pick but was worth 4th pick. </li>\n</ul>\n    "
+  <li>Drafted Al Jefferson with 15th pick but was worth 6th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+12\" data-vorp-text=\"+12.6\">+12.6</span>\
+  \ (expectation difference)</li>\n<li>Drafted Tony Allen with 25th pick but was worth\
+  \ 11th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+10\"\
+  \ data-vorp-text=\"+10.4\">+10.4</span> (expectation difference)</li>\n<li>Drafted\
+  \ Jayson Tatum with 3th pick but was worth 1th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+9\" data-vorp-text=\"+9.5\">+9.5</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Semih Erden with 60th pick but was worth 32th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+35188\" data-vorp-text=\"\
+  +35188.6\">+35188</span> (expectation difference)</li>\n<li>Drafted Jayson Tatum\
+  \ with 3th pick but was worth 1th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+33318\" data-vorp-text=\"+33318.0\">+33318</span> (expectation\
+  \ difference)</li>\n<li>Drafted Al Jefferson with 15th pick but was worth 4th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+31558\" data-vorp-text=\"\
+  +31558.8\">+31558</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 2026
 final_bpm: 336675
 final_vorp: 190
@@ -69,6 +75,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ Jerebko <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-5308\"\
   \ data-vorp-text=\"-5308.8\">-5308</span> in 2015.</li>\n</ul>\n    "
 signing_num_players: 201
+signing_overall_grade_bpm: A
+signing_overall_grade_vorp: A
 signing_overall_percentile_bpm: 89
 signing_overall_percentile_vorp: 88
 signing_rating_bpm: 0
@@ -123,6 +131,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ data-bpm-text=\"-34620\" data-vorp-text=\"-12.1\">-34620</span> to CLE.</li>\n\
   </ul>\n    "
 trade_num: 306
+trade_overall_grade_bpm: A
+trade_overall_grade_vorp: A-
 trade_overall_percentile_bpm: 89
 trade_overall_percentile_vorp: 86
 trade_rating_bpm: 0

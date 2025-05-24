@@ -1,23 +1,27 @@
 ---
 bpm_rank: 104
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Eric Leckner <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -9\" data-vorp-text=\"-9.8\">-9.8</span> with 17th pick but was worth 61th pick.</li>\n\
-  <li>Drafted José Ortiz <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -5\" data-vorp-text=\"-5.1\">-5.1</span> with 15th pick but was worth 61th pick.</li>\n\
-  <li>Drafted Bart Kofoed <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.6\">-0.6</span> with 107th pick but was worth 61th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Eric Leckner <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -28874\" data-vorp-text=\"-28874.4\">-28874</span> with 17th pick but was worth\
-  \ 61th pick.</li>\n<li>Drafted Bart Kofoed <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-3580\" data-vorp-text=\"-3580.2\">-3580</span> with 107th pick\
-  \ but was worth 61th pick.</li>\n<li>Drafted José Ortiz <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-2502\" data-vorp-text=\"-2502.4\">-2502</span>\
-  \ with 15th pick but was worth 61th pick.</li>\n</ul>\n    "
+  <li>Drafted Eric Leckner with 17th pick but was worth 61th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-9\" data-vorp-text=\"-9.8\">-9.8</span>\
+  \ (expectation difference)</li>\n<li>Drafted José Ortiz with 15th pick but was worth\
+  \ 61th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-5\"\
+  \ data-vorp-text=\"-5.1\">-5.1</span> (expectation difference)</li>\n<li>Drafted\
+  \ Bart Kofoed with 107th pick but was worth 61th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.6\">-0.6</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Eric Leckner with 17th pick but was worth 61th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-28874\" data-vorp-text=\"\
+  -28874.4\">-28874</span> (expectation difference)</li>\n<li>Drafted Bart Kofoed\
+  \ with 107th pick but was worth 61th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-3580\" data-vorp-text=\"-3580.2\">-3580</span> (expectation difference)</li>\n\
+  <li>Drafted José Ortiz with 15th pick but was worth 61th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-2502\" data-vorp-text=\"-2502.4\">-2502</span>\
+  \ (expectation difference)</li>\n</ul>\n    "
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
 draft_num_players: 3
+draft_overall_grade_bpm: null
+draft_overall_grade_vorp: null
 draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
@@ -56,6 +60,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-2101\" data-vorp-text=\"-2101.2\">-2101</span>\
   \ in 1989.</li>\n</ul>\n    "
 signing_num_players: 8
+signing_overall_grade_bpm: D+
+signing_overall_grade_vorp: F
 signing_overall_percentile_bpm: 33
 signing_overall_percentile_vorp: 6
 signing_rating_bpm: -1
@@ -93,6 +99,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+5155\" data-vorp-text=\"\
   -1.7\">+5155</span> to CHH.</li>\n</ul>\n    "
 trade_num: 9
+trade_overall_grade_bpm: null
+trade_overall_grade_vorp: null
 trade_overall_percentile_bpm: null
 trade_overall_percentile_vorp: null
 trade_rating_bpm: null

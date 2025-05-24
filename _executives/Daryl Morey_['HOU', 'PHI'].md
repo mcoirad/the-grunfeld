@@ -1,24 +1,28 @@
 ---
 bpm_rank: 25
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Dillon Brooks <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -4\" data-vorp-text=\"-4.6\">-4.6</span> with 45th pick but was worth 60th pick.</li>\n\
-  <li>Drafted Isaiah Canaan <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.5\">-0.5</span> with 34th pick but was worth 55th pick.</li>\n\
-  <li>Drafted Jaden Springer <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.4\">-0.4</span> with 28th pick but was worth 43th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Dillon Brooks <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -41962\" data-vorp-text=\"-41962.6\">-41962</span> with 45th pick but was worth\
-  \ 60th pick.</li>\n<li>Drafted Marcus Morris <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-17836\" data-vorp-text=\"-17836.4\">-17836</span> with 14th pick\
-  \ but was worth 50th pick.</li>\n<li>Drafted Aaron Brooks <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-15916\" data-vorp-text=\"-15916.2\">-15916</span>\
-  \ with 26th pick but was worth 48th pick.</li>\n</ul>\n    "
+  <li>Drafted Dillon Brooks with 45th pick but was worth 60th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-4\" data-vorp-text=\"-4.6\">-4.6</span>\
+  \ (expectation difference)</li>\n<li>Drafted Isaiah Canaan with 34th pick but was\
+  \ worth 55th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  0\" data-vorp-text=\"-0.5\">-0.5</span> (expectation difference)</li>\n<li>Drafted\
+  \ Jaden Springer with 28th pick but was worth 43th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.4\">-0.4</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Dillon Brooks with 45th pick but was worth 60th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-41962\" data-vorp-text=\"\
+  -41962.6\">-41962</span> (expectation difference)</li>\n<li>Drafted Marcus Morris\
+  \ with 14th pick but was worth 50th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-17836\" data-vorp-text=\"-17836.4\">-17836</span> (expectation\
+  \ difference)</li>\n<li>Drafted Aaron Brooks with 26th pick but was worth 48th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-15916\" data-vorp-text=\"\
+  -15916.2\">-15916</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Daryl Morey ranks in the 94th percentile for drafting among executives
   in our database. Morey's draft picks average out to be worth the equivalent of 8
   spots higher than they were picked due to his good drafting.
 draft_num_players: 25
+draft_overall_grade_bpm: A-
+draft_overall_grade_vorp: A-
 draft_overall_percentile_vorp: 84
 draft_rating_bpm: 9
 draft_rating_grade_bpm: S
@@ -33,21 +37,23 @@ draft_total_percentile_bpm: 74
 draft_total_percentile_vorp: 74
 draft_total_vorp: 33
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Clint Capela <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +15\" data-vorp-text=\"+15.7\">+15.7</span> with 25th pick but was worth 4th pick.\
-  \ </li>\n<li>Drafted Chandler Parsons <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+10\" data-vorp-text=\"+10.2\">+10.2</span> with 38th pick but\
-  \ was worth 10th pick. </li>\n<li>Drafted Tyrese Maxey <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+8\" data-vorp-text=\"+8.1\">+8.1</span> with\
-  \ 21th pick but was worth 5th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Clint Capela <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+29547\" data-vorp-text=\"+29547.8\"\
-  >+29547</span> with 25th pick but was worth 3th pick. </li>\n<li>Drafted Paul Reed\
-  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+20886\" data-vorp-text=\"\
-  +20886.9\">+20886</span> with 58th pick but was worth 10th pick. </li>\n<li>Drafted\
-  \ Chandler Parsons <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +20573\" data-vorp-text=\"+20573.6\">+20573</span> with 38th pick but was worth\
-  \ 9th pick. </li>\n</ul>\n    "
+  <li>Drafted Clint Capela with 25th pick but was worth 4th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+15\" data-vorp-text=\"+15.7\">+15.7</span>\
+  \ (expectation difference)</li>\n<li>Drafted Chandler Parsons with 38th pick but\
+  \ was worth 10th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +10\" data-vorp-text=\"+10.2\">+10.2</span> (expectation difference)</li>\n<li>Drafted\
+  \ Tyrese Maxey with 21th pick but was worth 5th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+8\" data-vorp-text=\"+8.1\">+8.1</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Clint Capela with 25th pick but was worth 3th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+29547\" data-vorp-text=\"\
+  +29547.8\">+29547</span> (expectation difference)</li>\n<li>Drafted Paul Reed with\
+  \ 58th pick but was worth 10th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+20886\" data-vorp-text=\"+20886.9\">+20886</span> (expectation\
+  \ difference)</li>\n<li>Drafted Chandler Parsons with 38th pick but was worth 9th\
+  \ pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+20573\"\
+  \ data-vorp-text=\"+20573.6\">+20573</span> (expectation difference)</li>\n</ul>\n\
+  \    "
 end_year: 2026
 final_bpm: 102439
 final_vorp: 85
@@ -70,6 +76,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-7978\" data-vorp-text=\"\
   -7978.3\">-7978</span> in 2015.</li>\n</ul>\n    "
 signing_num_players: 261
+signing_overall_grade_bpm: B-
+signing_overall_grade_vorp: A
 signing_overall_percentile_bpm: 61
 signing_overall_percentile_vorp: 87
 signing_rating_bpm: 0
@@ -122,6 +130,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ data-bpm-text=\"-84192\" data-vorp-text=\"-31.9\">-84192</span> to TOR.</li>\n\
   </ul>\n    "
 trade_num: 301
+trade_overall_grade_bpm: A-
+trade_overall_grade_vorp: D+
 trade_overall_percentile_bpm: 82
 trade_overall_percentile_vorp: 33
 trade_rating_bpm: 0

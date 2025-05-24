@@ -1,24 +1,28 @@
 ---
 bpm_rank: 109
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Patrick Williams <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -9\" data-vorp-text=\"-9.6\">-9.6</span> with 4th pick but was worth 49th pick.</li>\n\
-  <li>Drafted Dalen Terry <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.5\">-0.5</span> with 18th pick but was worth 41th pick.</li>\n\
-  <li>Drafted Matas Buzelis <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.2\">-0.2</span> with 11th pick but was worth 38th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Patrick Williams <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -38586\" data-vorp-text=\"-38586.9\">-38586</span> with 4th pick but was worth 55th\
-  \ pick.</li>\n<li>Drafted Ayo Dosunmu <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-8891\" data-vorp-text=\"-8891.0\">-8891</span> with 38th pick\
-  \ but was worth 57th pick.</li>\n<li>Drafted Dalen Terry <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-5165\" data-vorp-text=\"-5165.6\">-5165</span>\
-  \ with 18th pick but was worth 39th pick.</li>\n</ul>\n    "
+  <li>Drafted Patrick Williams with 4th pick but was worth 49th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-9\" data-vorp-text=\"-9.6\">-9.6</span>\
+  \ (expectation difference)</li>\n<li>Drafted Dalen Terry with 18th pick but was\
+  \ worth 41th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  0\" data-vorp-text=\"-0.5\">-0.5</span> (expectation difference)</li>\n<li>Drafted\
+  \ Matas Buzelis with 11th pick but was worth 38th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.2\">-0.2</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Patrick Williams with 4th pick but was worth 55th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-38586\" data-vorp-text=\"\
+  -38586.9\">-38586</span> (expectation difference)</li>\n<li>Drafted Ayo Dosunmu\
+  \ with 38th pick but was worth 57th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-8891\" data-vorp-text=\"-8891.0\">-8891</span> (expectation difference)</li>\n\
+  <li>Drafted Dalen Terry with 18th pick but was worth 39th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-5165\" data-vorp-text=\"-5165.6\">-5165</span>\
+  \ (expectation difference)</li>\n</ul>\n    "
 draft_description: Artūras Karnišovas ranks in the 13th percentile for drafting among
   executives in our database. Karnišovas's draft picks average out to be worth the
   equivalent of 14 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
+draft_overall_grade_bpm: F
+draft_overall_grade_vorp: F
 draft_overall_percentile_vorp: 13
 draft_rating_bpm: -20
 draft_rating_grade_bpm: F
@@ -33,10 +37,10 @@ draft_total_percentile_bpm: 13
 draft_total_percentile_vorp: 13
 draft_total_vorp: -1
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Ayo Dosunmu <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +0\" data-vorp-text=\"+0.6\">+0.6</span> with 38th pick but was worth 23th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  </ul>\n    "
+  <li>Drafted Ayo Dosunmu with 38th pick but was worth 23th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.6\">+0.6</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ wins: </h5><ul id=bpm-toggle>\n</ul>\n    "
 end_year: 2026
 final_bpm: -46153
 final_vorp: 14
@@ -59,6 +63,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-4584\" data-vorp-text=\"\
   -4584.0\">-4584</span> in 2020.</li>\n</ul>\n    "
 signing_num_players: 72
+signing_overall_grade_bpm: C+
+signing_overall_grade_vorp: B-
 signing_overall_percentile_bpm: 58
 signing_overall_percentile_vorp: 63
 signing_rating_bpm: 0
@@ -118,6 +124,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ Luke Kornet <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-8889\"\
   \ data-vorp-text=\"-3.9\">-8889</span> to BOS.</li>\n</ul>\n    "
 trade_num: 36
+trade_overall_grade_bpm: B+
+trade_overall_grade_vorp: B-
 trade_overall_percentile_bpm: 75
 trade_overall_percentile_vorp: 64
 trade_rating_bpm: 0

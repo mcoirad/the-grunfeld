@@ -1,25 +1,29 @@
 ---
 bpm_rank: 48
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Michael Kidd-Gilchrist <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-53\" data-vorp-text=\"-53.6\">-53.6</span> with 2th pick but\
-  \ was worth 20th pick.</li>\n<li>Drafted Cody Zeller <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-11\" data-vorp-text=\"-11.2\">-11.2</span> with\
-  \ 4th pick but was worth 13th pick.</li>\n<li>Drafted Jeff Taylor <span class=\"\
-  badge badge-pill badge-danger\" data-bpm-text=\"-1\" data-vorp-text=\"-1.5\">-1.5</span>\
-  \ with 31th pick but was worth 57th pick.</li>\n</ul>\n    <h5 id=\"bpm-toggle\"\
-  >Their biggest busts: </h5><ul id=bpm-toggle>\n<li>Drafted Michael Kidd-Gilchrist\
-  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-169784\" data-vorp-text=\"\
-  -169784.8\">-169784</span> with 2th pick but was worth 56th pick.</li>\n<li>Drafted\
-  \ Cody Zeller <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-30837\"\
-  \ data-vorp-text=\"-30837.0\">-30837</span> with 4th pick but was worth 42th pick.</li>\n\
-  <li>Drafted Jeff Taylor <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -7134\" data-vorp-text=\"-7134.6\">-7134</span> with 31th pick but was worth 44th\
-  \ pick.</li>\n</ul>\n    "
+  <li>Drafted Michael Kidd-Gilchrist with 2th pick but was worth 20th pick. <span\
+  \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-53\" data-vorp-text=\"\
+  -53.6\">-53.6</span> (expectation difference)</li>\n<li>Drafted Cody Zeller with\
+  \ 4th pick but was worth 13th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-11\" data-vorp-text=\"-11.2\">-11.2</span> (expectation difference)</li>\n\
+  <li>Drafted Jeff Taylor with 31th pick but was worth 57th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-1\" data-vorp-text=\"-1.5\">-1.5</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ busts: </h5><ul id=bpm-toggle>\n<li>Drafted Michael Kidd-Gilchrist with 2th pick\
+  \ but was worth 56th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -169784\" data-vorp-text=\"-169784.8\">-169784</span> (expectation difference)</li>\n\
+  <li>Drafted Cody Zeller with 4th pick but was worth 42th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-30837\" data-vorp-text=\"-30837.0\"\
+  >-30837</span> (expectation difference)</li>\n<li>Drafted Jeff Taylor with 31th\
+  \ pick but was worth 44th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -7134\" data-vorp-text=\"-7134.6\">-7134</span> (expectation difference)</li>\n\
+  </ul>\n    "
 draft_description: Rich Cho ranks in the 19th percentile for drafting among executives
   in our database. Cho's draft picks average out to be worth the equivalent of 12
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 4
+draft_overall_grade_bpm: D-
+draft_overall_grade_vorp: D
 draft_overall_percentile_vorp: 32
 draft_rating_bpm: -25
 draft_rating_grade_bpm: F
@@ -34,12 +38,13 @@ draft_total_percentile_bpm: 45
 draft_total_percentile_vorp: 45
 draft_total_vorp: 4
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Kemba Walker <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +13\" data-vorp-text=\"+13.7\">+13.7</span> with 9th pick but was worth 5th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Kemba Walker <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +54897\" data-vorp-text=\"+54897.4\">+54897</span> with 9th pick but was worth 4th\
-  \ pick. </li>\n</ul>\n    "
+  <li>Drafted Kemba Walker with 9th pick but was worth 5th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+13\" data-vorp-text=\"+13.7\">+13.7</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ wins: </h5><ul id=bpm-toggle>\n<li>Drafted Kemba Walker with 9th pick but was\
+  \ worth 4th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +54897\" data-vorp-text=\"+54897.4\">+54897</span> (expectation difference)</li>\n\
+  </ul>\n    "
 end_year: 2018
 final_bpm: 15202
 final_vorp: 20
@@ -62,6 +67,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   badge badge-pill badge-danger\" data-bpm-text=\"-3691\" data-vorp-text=\"-3691.5\"\
   >-3691</span> in 2013.</li>\n</ul>\n    "
 signing_num_players: 77
+signing_overall_grade_bpm: B+
+signing_overall_grade_vorp: C+
 signing_overall_percentile_bpm: 77
 signing_overall_percentile_vorp: 60
 signing_rating_bpm: 0
@@ -120,6 +127,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+1419\" data-vorp-text=\"\
   -0.2\">+1419</span> to MIL.</li>\n</ul>\n    "
 trade_num: 76
+trade_overall_grade_bpm: A-
+trade_overall_grade_vorp: B+
 trade_overall_percentile_bpm: 84
 trade_overall_percentile_vorp: 74
 trade_rating_bpm: 0

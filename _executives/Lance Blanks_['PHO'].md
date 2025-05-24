@@ -1,19 +1,23 @@
 ---
 bpm_rank: 92
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Kendall Marshall <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -5\" data-vorp-text=\"-5.4\">-5.4</span> with 13th pick but was worth 53th pick.</li>\n\
-  <li>Drafted Markieff Morris <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -5\" data-vorp-text=\"-5.2\">-5.2</span> with 13th pick but was worth 20th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Markieff Morris <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -29399\" data-vorp-text=\"-29399.0\">-29399</span> with 13th pick but was worth\
-  \ 57th pick.</li>\n<li>Drafted Kendall Marshall <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-10790\" data-vorp-text=\"-10790.5\">-10790</span> with 13th pick\
-  \ but was worth 46th pick.</li>\n</ul>\n    "
+  <li>Drafted Kendall Marshall with 13th pick but was worth 53th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-5\" data-vorp-text=\"-5.4\">-5.4</span>\
+  \ (expectation difference)</li>\n<li>Drafted Markieff Morris with 13th pick but\
+  \ was worth 20th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -5\" data-vorp-text=\"-5.2\">-5.2</span> (expectation difference)</li>\n</ul>\n\
+  \    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n<li>Drafted\
+  \ Markieff Morris with 13th pick but was worth 57th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-29399\" data-vorp-text=\"-29399.0\">-29399</span>\
+  \ (expectation difference)</li>\n<li>Drafted Kendall Marshall with 13th pick but\
+  \ was worth 46th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -10790\" data-vorp-text=\"-10790.5\">-10790</span> (expectation difference)</li>\n\
+  </ul>\n    "
 draft_description: This executive has only drafted 2 players and thus doesn't have
   a draft grade.
 draft_num_players: 2
+draft_overall_grade_bpm: null
+draft_overall_grade_vorp: null
 draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
@@ -52,6 +56,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ Brown <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-3643\" data-vorp-text=\"\
   -3643.2\">-3643</span> in 2011.</li>\n</ul>\n    "
 signing_num_players: 18
+signing_overall_grade_bpm: D
+signing_overall_grade_vorp: C-
 signing_overall_percentile_bpm: 30
 signing_overall_percentile_vorp: 46
 signing_rating_bpm: -1
@@ -98,6 +104,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to HOU.</li>\n\
   </ul>\n    "
 trade_num: 28
+trade_overall_grade_bpm: C
+trade_overall_grade_vorp: B-
 trade_overall_percentile_bpm: 53
 trade_overall_percentile_vorp: 66
 trade_rating_bpm: 0

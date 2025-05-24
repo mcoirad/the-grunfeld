@@ -5,6 +5,8 @@ draft_description: Gregg Popovich ranks in the 100th percentile for drafting amo
   executives in our database. Popovich's draft picks average out to be worth the equivalent
   of 23 spots higher than they were picked due to his good drafting.
 draft_num_players: 5
+draft_overall_grade_bpm: S
+draft_overall_grade_vorp: S
 draft_overall_percentile_vorp: 100
 draft_rating_bpm: 19
 draft_rating_grade_bpm: S
@@ -19,19 +21,20 @@ draft_total_percentile_bpm: 100
 draft_total_percentile_vorp: 100
 draft_total_vorp: 169
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Manu Ginóbili <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +49\" data-vorp-text=\"+49.5\">+49.5</span> with 57th pick but was worth 2th pick.\
-  \ </li>\n<li>Drafted Tony Parker <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+30\" data-vorp-text=\"+30.1\">+30.1</span> with 28th pick but\
-  \ was worth 2th pick. </li>\n<li>Drafted Cory Alexander <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.4\">+0.4</span> with\
-  \ 29th pick but was worth 19th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Manu Ginóbili <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+156355\" data-vorp-text=\"+156355.0\"\
-  >+156355</span> with 57th pick but was worth 1th pick. </li>\n<li>Drafted Tony Parker\
-  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+43203\" data-vorp-text=\"\
-  +43203.1\">+43203</span> with 28th pick but was worth 5th pick. </li>\n</ul>\n \
-  \   "
+  <li>Drafted Manu Ginóbili with 57th pick but was worth 2th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+49\" data-vorp-text=\"+49.5\"\
+  >+49.5</span> (expectation difference)</li>\n<li>Drafted Tony Parker with 28th pick\
+  \ but was worth 2th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +30\" data-vorp-text=\"+30.1\">+30.1</span> (expectation difference)</li>\n<li>Drafted\
+  \ Cory Alexander with 29th pick but was worth 19th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.4\">+0.4</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Manu Ginóbili with 57th pick but was worth 1th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+156355\" data-vorp-text=\"\
+  +156355.0\">+156355</span> (expectation difference)</li>\n<li>Drafted Tony Parker\
+  \ with 28th pick but was worth 5th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+43203\" data-vorp-text=\"+43203.1\">+43203</span> (expectation\
+  \ difference)</li>\n</ul>\n    "
 end_year: 2002
 final_bpm: 422591
 final_vorp: 215
@@ -54,6 +57,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ Rose <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-10558\" data-vorp-text=\"\
   -10558.5\">-10558</span> in 1997.</li>\n</ul>\n    "
 signing_num_players: 59
+signing_overall_grade_bpm: C-
+signing_overall_grade_vorp: B+
 signing_overall_percentile_bpm: 45
 signing_overall_percentile_vorp: 79
 signing_rating_bpm: 0
@@ -107,6 +112,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   badge badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span>\
   \ to POR.</li>\n</ul>\n    "
 trade_num: 32
+trade_overall_grade_bpm: B+
+trade_overall_grade_vorp: A-
 trade_overall_percentile_bpm: 79
 trade_overall_percentile_vorp: 86
 trade_rating_bpm: 0

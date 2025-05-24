@@ -4,6 +4,8 @@ draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
   a draft grade.
 draft_num_players: 0
+draft_overall_grade_bpm: null
+draft_overall_grade_vorp: null
 draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
@@ -38,6 +40,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   <li>Signed Jumaine Jones <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
   -1035\" data-vorp-text=\"-1035.0\">-1035</span> in 2006.</li>\n</ul>\n    "
 signing_num_players: 6
+signing_overall_grade_bpm: D+
+signing_overall_grade_vorp: C-
 signing_overall_percentile_bpm: 38
 signing_overall_percentile_vorp: 46
 signing_rating_bpm: -1
@@ -85,6 +89,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   badge badge-pill badge-danger\" data-bpm-text=\"-40961\" data-vorp-text=\"-19.1\"\
   >-40961</span> to BOS.</li>\n</ul>\n    "
 trade_num: 4
+trade_overall_grade_bpm: null
+trade_overall_grade_vorp: null
 trade_overall_percentile_bpm: null
 trade_overall_percentile_vorp: null
 trade_rating_bpm: null

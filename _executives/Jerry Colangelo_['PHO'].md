@@ -1,24 +1,28 @@
 ---
 bpm_rank: 5
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Armen Gilliam <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -57\" data-vorp-text=\"-57.3\">-57.3</span> with 2th pick but was worth 12th pick.</li>\n\
-  <li>Drafted William Bedford <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -22\" data-vorp-text=\"-22.8\">-22.8</span> with 6th pick but was worth 61th pick.</li>\n\
-  <li>Drafted John Shumate <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -11\" data-vorp-text=\"-11.8\">-11.8</span> with 4th pick but was worth 14th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Armen Gilliam <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -186877\" data-vorp-text=\"-186877.6\">-186877</span> with 2th pick but was worth\
-  \ 61th pick.</li>\n<li>Drafted William Bedford <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-56131\" data-vorp-text=\"-56131.0\">-56131</span> with 6th pick\
-  \ but was worth 61th pick.</li>\n<li>Drafted Ricky Sobers <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-29889\" data-vorp-text=\"-29889.6\">-29889</span>\
-  \ with 16th pick but was worth 61th pick.</li>\n</ul>\n    "
+  <li>Drafted Armen Gilliam with 2th pick but was worth 12th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-57\" data-vorp-text=\"-57.3\">-57.3</span>\
+  \ (expectation difference)</li>\n<li>Drafted William Bedford with 6th pick but was\
+  \ worth 61th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -22\" data-vorp-text=\"-22.8\">-22.8</span> (expectation difference)</li>\n<li>Drafted\
+  \ John Shumate with 4th pick but was worth 14th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-11\" data-vorp-text=\"-11.8\">-11.8</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Armen Gilliam with 2th pick but was worth 61th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-186877\" data-vorp-text=\"\
+  -186877.6\">-186877</span> (expectation difference)</li>\n<li>Drafted William Bedford\
+  \ with 6th pick but was worth 61th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-56131\" data-vorp-text=\"-56131.0\">-56131</span> (expectation\
+  \ difference)</li>\n<li>Drafted Ricky Sobers with 16th pick but was worth 61th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-29889\" data-vorp-text=\"\
+  -29889.6\">-29889</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Jerry Colangelo ranks in the 93th percentile for drafting among
   executives in our database. Colangelo's draft picks average out to be worth the
   equivalent of 8 spots higher than they were picked due to his good drafting.
 draft_num_players: 52
+draft_overall_grade_bpm: A-
+draft_overall_grade_vorp: A+
 draft_overall_percentile_vorp: 96
 draft_rating_bpm: -3
 draft_rating_grade_bpm: B
@@ -33,21 +37,22 @@ draft_total_percentile_bpm: 99
 draft_total_percentile_vorp: 99
 draft_total_vorp: 154
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Jeff Hornacek <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +42\" data-vorp-text=\"+42.1\">+42.1</span> with 46th pick but was worth 1th pick.\
-  \ </li>\n<li>Drafted Larry Nance <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+41\" data-vorp-text=\"+41.8\">+41.8</span> with 20th pick but\
-  \ was worth 1th pick. </li>\n<li>Drafted Dan Majerle <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+23\" data-vorp-text=\"+23.6\">+23.6</span> with\
-  \ 14th pick but was worth 3th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Larry Nance <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+110509\" data-vorp-text=\"+110509.2\"\
-  >+110509</span> with 20th pick but was worth 1th pick. </li>\n<li>Drafted Jeff Hornacek\
-  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+98495\" data-vorp-text=\"\
-  +98495.6\">+98495</span> with 46th pick but was worth 1th pick. </li>\n<li>Drafted\
-  \ Dan Majerle <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+57391\"\
-  \ data-vorp-text=\"+57391.4\">+57391</span> with 14th pick but was worth 3th pick.\
-  \ </li>\n</ul>\n    "
+  <li>Drafted Jeff Hornacek with 46th pick but was worth 1th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+42\" data-vorp-text=\"+42.1\"\
+  >+42.1</span> (expectation difference)</li>\n<li>Drafted Larry Nance with 20th pick\
+  \ but was worth 1th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +41\" data-vorp-text=\"+41.8\">+41.8</span> (expectation difference)</li>\n<li>Drafted\
+  \ Dan Majerle with 14th pick but was worth 3th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+23\" data-vorp-text=\"+23.6\">+23.6</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Larry Nance with 20th pick but was worth 1th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+110509\" data-vorp-text=\"\
+  +110509.2\">+110509</span> (expectation difference)</li>\n<li>Drafted Jeff Hornacek\
+  \ with 46th pick but was worth 1th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+98495\" data-vorp-text=\"+98495.6\">+98495</span> (expectation\
+  \ difference)</li>\n<li>Drafted Dan Majerle with 14th pick but was worth 3th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+57391\" data-vorp-text=\"\
+  +57391.4\">+57391</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 1994
 final_bpm: 301413
 final_vorp: 198
@@ -70,6 +75,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-6885\" data-vorp-text=\"-6885.6\">-6885</span>\
   \ in 1984.</li>\n</ul>\n    "
 signing_num_players: 48
+signing_overall_grade_bpm: D+
+signing_overall_grade_vorp: C
 signing_overall_percentile_bpm: 34
 signing_overall_percentile_vorp: 47
 signing_rating_bpm: 0
@@ -120,6 +127,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   badge badge-pill badge-danger\" data-bpm-text=\"-14261\" data-vorp-text=\"-8.7\"\
   >-14261</span> to MIL.</li>\n</ul>\n    "
 trade_num: 199
+trade_overall_grade_bpm: B
+trade_overall_grade_vorp: B+
 trade_overall_percentile_bpm: 69
 trade_overall_percentile_vorp: 76
 trade_rating_bpm: 0

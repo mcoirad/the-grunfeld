@@ -1,22 +1,26 @@
 ---
 bpm_rank: 88
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Johan Petro <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -7\" data-vorp-text=\"-7.0\">-7.0</span> with 25th pick but was worth 60th pick.</li>\n\
-  <li>Drafted Nick Collison <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -5\" data-vorp-text=\"-5.5\">-5.5</span> with 12th pick but was worth 19th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Johan Petro <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -32531\" data-vorp-text=\"-32531.6\">-32531</span> with 25th pick but was worth\
-  \ 60th pick.</li>\n<li>Drafted Nick Collison <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-24183\" data-vorp-text=\"-24183.9\">-24183</span> with 12th pick\
-  \ but was worth 50th pick.</li>\n<li>Drafted Earl Watson <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-22064\" data-vorp-text=\"-22064.4\">-22064</span>\
-  \ with 40th pick but was worth 53th pick.</li>\n</ul>\n    "
+  <li>Drafted Johan Petro with 25th pick but was worth 60th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-7\" data-vorp-text=\"-7.0\">-7.0</span>\
+  \ (expectation difference)</li>\n<li>Drafted Nick Collison with 12th pick but was\
+  \ worth 19th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -5\" data-vorp-text=\"-5.5\">-5.5</span> (expectation difference)</li>\n</ul>\n\
+  \    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n<li>Drafted\
+  \ Johan Petro with 25th pick but was worth 60th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-32531\" data-vorp-text=\"-32531.6\">-32531</span>\
+  \ (expectation difference)</li>\n<li>Drafted Nick Collison with 12th pick but was\
+  \ worth 50th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -24183\" data-vorp-text=\"-24183.9\">-24183</span> (expectation difference)</li>\n\
+  <li>Drafted Earl Watson with 40th pick but was worth 53th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-22064\" data-vorp-text=\"-22064.4\"\
+  >-22064</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Rick Sund ranks in the 41th percentile for drafting among executives
   in our database. Sund's draft picks average out to be worth the equivalent of 6
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 8
+draft_overall_grade_bpm: C
+draft_overall_grade_vorp: C
 draft_overall_percentile_vorp: 48
 draft_rating_bpm: -9
 draft_rating_grade_bpm: C
@@ -31,14 +35,15 @@ draft_total_percentile_bpm: 54
 draft_total_percentile_vorp: 54
 draft_total_vorp: 12
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Jeff Teague <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +10\" data-vorp-text=\"+10.1\">+10.1</span> with 19th pick but was worth 7th pick.\
-  \ </li>\n<li>Drafted Earl Watson <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+3\" data-vorp-text=\"+3.0\">+3.0</span> with 40th pick but was\
-  \ worth 19th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
-  \ id=bpm-toggle>\n<li>Drafted Jeff Teague <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+13298\" data-vorp-text=\"+13298.4\">+13298</span> with 19th pick\
-  \ but was worth 10th pick. </li>\n</ul>\n    "
+  <li>Drafted Jeff Teague with 19th pick but was worth 7th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+10\" data-vorp-text=\"+10.1\">+10.1</span>\
+  \ (expectation difference)</li>\n<li>Drafted Earl Watson with 40th pick but was\
+  \ worth 19th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +3\" data-vorp-text=\"+3.0\">+3.0</span> (expectation difference)</li>\n</ul>\n\
+  \    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted\
+  \ Jeff Teague with 19th pick but was worth 10th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+13298\" data-vorp-text=\"+13298.4\">+13298</span>\
+  \ (expectation difference)</li>\n</ul>\n    "
 end_year: 2012
 final_bpm: -20758
 final_vorp: 10
@@ -61,6 +66,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-5737\" data-vorp-text=\"-5737.2\">-5737</span>\
   \ in 2009.</li>\n</ul>\n    "
 signing_num_players: 67
+signing_overall_grade_bpm: C-
+signing_overall_grade_vorp: D
 signing_overall_percentile_bpm: 40
 signing_overall_percentile_vorp: 32
 signing_rating_bpm: 0
@@ -114,6 +121,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   <li>Lost Bonzi Wells <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
   -8106\" data-vorp-text=\"-6.1\">-8106</span> to POR.</li>\n</ul>\n    "
 trade_num: 59
+trade_overall_grade_bpm: A
+trade_overall_grade_vorp: B+
 trade_overall_percentile_bpm: 90
 trade_overall_percentile_vorp: 74
 trade_rating_bpm: 1

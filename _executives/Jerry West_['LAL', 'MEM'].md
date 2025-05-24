@@ -1,24 +1,28 @@
 ---
 bpm_rank: 4
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted James Worthy <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -21\" data-vorp-text=\"-21.4\">-21.4</span> with 1th pick but was worth 3th pick.</li>\n\
-  <li>Drafted Drew Gooden <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -14\" data-vorp-text=\"-14.5\">-14.5</span> with 4th pick but was worth 11th pick.</li>\n\
-  <li>Drafted Hakim Warrick <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -4\" data-vorp-text=\"-4.7\">-4.7</span> with 19th pick but was worth 28th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted James Worthy <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -68771\" data-vorp-text=\"-68771.0\">-68771</span> with 1th pick but was worth 3th\
-  \ pick.</li>\n<li>Drafted Drew Gooden <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-49389\" data-vorp-text=\"-49389.4\">-49389</span> with 4th pick\
-  \ but was worth 54th pick.</li>\n<li>Drafted Derek Fisher <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-29269\" data-vorp-text=\"-29269.5\">-29269</span>\
-  \ with 24th pick but was worth 53th pick.</li>\n</ul>\n    "
+  <li>Drafted James Worthy with 1th pick but was worth 3th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-21\" data-vorp-text=\"-21.4\">-21.4</span>\
+  \ (expectation difference)</li>\n<li>Drafted Drew Gooden with 4th pick but was worth\
+  \ 11th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-14\"\
+  \ data-vorp-text=\"-14.5\">-14.5</span> (expectation difference)</li>\n<li>Drafted\
+  \ Hakim Warrick with 19th pick but was worth 28th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-4\" data-vorp-text=\"-4.7\">-4.7</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted James Worthy with 1th pick but was worth 3th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-68771\" data-vorp-text=\"\
+  -68771.0\">-68771</span> (expectation difference)</li>\n<li>Drafted Drew Gooden\
+  \ with 4th pick but was worth 54th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-49389\" data-vorp-text=\"-49389.4\">-49389</span> (expectation\
+  \ difference)</li>\n<li>Drafted Derek Fisher with 24th pick but was worth 53th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-29269\" data-vorp-text=\"\
+  -29269.5\">-29269</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Jerry West ranks in the 77th percentile for drafting among executives
   in our database. West's draft picks average out to be worth the equivalent of 2
   spots higher than they were picked due to his good drafting.
 draft_num_players: 24
+draft_overall_grade_bpm: B
+draft_overall_grade_vorp: A-
 draft_overall_percentile_vorp: 85
 draft_rating_bpm: -7
 draft_rating_grade_bpm: C+
@@ -33,21 +37,22 @@ draft_total_percentile_bpm: 91
 draft_total_percentile_vorp: 91
 draft_total_vorp: 95
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Kyle Lowry <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +43\" data-vorp-text=\"+43.3\">+43.3</span> with 24th pick but was worth 1th pick.\
-  \ </li>\n<li>Drafted Vlade Divac <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+36\" data-vorp-text=\"+36.3\">+36.3</span> with 26th pick but\
-  \ was worth 3th pick. </li>\n<li>Drafted Eddie Jones <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+34\" data-vorp-text=\"+34.4\">+34.4</span> with\
-  \ 10th pick but was worth 3th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Eddie Jones <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+101611\" data-vorp-text=\"+101611.8\"\
-  >+101611</span> with 10th pick but was worth 3th pick. </li>\n<li>Drafted Kyle Lowry\
-  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+99998\" data-vorp-text=\"\
-  +99998.8\">+99998</span> with 24th pick but was worth 1th pick. </li>\n<li>Drafted\
-  \ Vlade Divac <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+79660\"\
-  \ data-vorp-text=\"+79660.0\">+79660</span> with 26th pick but was worth 3th pick.\
-  \ </li>\n</ul>\n    "
+  <li>Drafted Kyle Lowry with 24th pick but was worth 1th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+43\" data-vorp-text=\"+43.3\">+43.3</span>\
+  \ (expectation difference)</li>\n<li>Drafted Vlade Divac with 26th pick but was\
+  \ worth 3th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +36\" data-vorp-text=\"+36.3\">+36.3</span> (expectation difference)</li>\n<li>Drafted\
+  \ Eddie Jones with 10th pick but was worth 3th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+34\" data-vorp-text=\"+34.4\">+34.4</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Eddie Jones with 10th pick but was worth 3th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+101611\" data-vorp-text=\"\
+  +101611.8\">+101611</span> (expectation difference)</li>\n<li>Drafted Kyle Lowry\
+  \ with 24th pick but was worth 1th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+99998\" data-vorp-text=\"+99998.8\">+99998</span> (expectation\
+  \ difference)</li>\n<li>Drafted Vlade Divac with 26th pick but was worth 3th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+79660\" data-vorp-text=\"\
+  +79660.0\">+79660</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 2007
 final_bpm: 302682
 final_vorp: 236
@@ -70,6 +75,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-5296\" data-vorp-text=\"\
   -5296.5\">-5296</span> in 1996.</li>\n</ul>\n    "
 signing_num_players: 99
+signing_overall_grade_bpm: B
+signing_overall_grade_vorp: B
 signing_overall_percentile_bpm: 72
 signing_overall_percentile_vorp: 68
 signing_rating_bpm: 0
@@ -122,6 +129,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-23425\" data-vorp-text=\"\
   -11.5\">-23425</span> to SEA.</li>\n</ul>\n    "
 trade_num: 130
+trade_overall_grade_bpm: B
+trade_overall_grade_vorp: B-
 trade_overall_percentile_bpm: 67
 trade_overall_percentile_vorp: 65
 trade_rating_bpm: 0

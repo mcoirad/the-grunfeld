@@ -1,24 +1,28 @@
 ---
 bpm_rank: 23
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Jon Koncak <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -29\" data-vorp-text=\"-29.1\">-29.1</span> with 5th pick but was worth 21th pick.</li>\n\
-  <li>Drafted Al Wood <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -20\" data-vorp-text=\"-20.1\">-20.1</span> with 4th pick but was worth 19th pick.</li>\n\
-  <li>Drafted Kevin Willis <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -12\" data-vorp-text=\"-12.0\">-12.0</span> with 11th pick but was worth 61th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Kevin Willis <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -80561\" data-vorp-text=\"-80561.2\">-80561</span> with 11th pick but was worth\
-  \ 61th pick.</li>\n<li>Drafted Jon Koncak <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-80165\" data-vorp-text=\"-80165.4\">-80165</span> with 5th pick\
-  \ but was worth 61th pick.</li>\n<li>Drafted Al Wood <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-43451\" data-vorp-text=\"-43451.2\">-43451</span>\
-  \ with 4th pick but was worth 61th pick.</li>\n</ul>\n    "
+  <li>Drafted Jon Koncak with 5th pick but was worth 21th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-29\" data-vorp-text=\"-29.1\">-29.1</span>\
+  \ (expectation difference)</li>\n<li>Drafted Al Wood with 4th pick but was worth\
+  \ 19th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-20\"\
+  \ data-vorp-text=\"-20.1\">-20.1</span> (expectation difference)</li>\n<li>Drafted\
+  \ Kevin Willis with 11th pick but was worth 61th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-12\" data-vorp-text=\"-12.0\">-12.0</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Kevin Willis with 11th pick but was worth 61th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-80561\" data-vorp-text=\"\
+  -80561.2\">-80561</span> (expectation difference)</li>\n<li>Drafted Jon Koncak with\
+  \ 5th pick but was worth 61th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-80165\" data-vorp-text=\"-80165.4\">-80165</span> (expectation\
+  \ difference)</li>\n<li>Drafted Al Wood with 4th pick but was worth 61th pick. <span\
+  \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-43451\" data-vorp-text=\"\
+  -43451.2\">-43451</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Stan Kasten ranks in the 78th percentile for drafting among executives
   in our database. Kasten's draft picks average out to be worth the equivalent of
   3 spots higher than they were picked due to his good drafting.
 draft_num_players: 17
+draft_overall_grade_bpm: B
+draft_overall_grade_vorp: B+
 draft_overall_percentile_vorp: 78
 draft_rating_bpm: -6
 draft_rating_grade_bpm: C+
@@ -33,19 +37,20 @@ draft_total_percentile_bpm: 76
 draft_total_percentile_vorp: 76
 draft_total_vorp: 34
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Doc Rivers <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +30\" data-vorp-text=\"+30.4\">+30.4</span> with 31th pick but was worth 3th pick.\
-  \ </li>\n<li>Drafted Alexander Volkov <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+1\" data-vorp-text=\"+1.7\">+1.7</span> with 134th pick but was\
-  \ worth 20th pick. </li>\n<li>Drafted John Battle <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.1\">+0.1</span> with\
-  \ 84th pick but was worth 27th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Doc Rivers <span class=\"badge\
-  \ badge-pill badge-success\" data-bpm-text=\"+73057\" data-vorp-text=\"+73057.7\"\
-  >+73057</span> with 31th pick but was worth 2th pick. </li>\n<li>Drafted Alexander\
-  \ Volkov <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+5488\"\
-  \ data-vorp-text=\"+5488.9\">+5488</span> with 134th pick but was worth 14th pick.\
-  \ </li>\n</ul>\n    "
+  <li>Drafted Doc Rivers with 31th pick but was worth 3th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+30\" data-vorp-text=\"+30.4\">+30.4</span>\
+  \ (expectation difference)</li>\n<li>Drafted Alexander Volkov with 134th pick but\
+  \ was worth 20th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +1\" data-vorp-text=\"+1.7\">+1.7</span> (expectation difference)</li>\n<li>Drafted\
+  \ John Battle with 84th pick but was worth 27th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.1\">+0.1</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Doc Rivers with 31th pick but was worth 2th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+73057\" data-vorp-text=\"\
+  +73057.7\">+73057</span> (expectation difference)</li>\n<li>Drafted Alexander Volkov\
+  \ with 134th pick but was worth 14th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+5488\" data-vorp-text=\"+5488.9\">+5488</span> (expectation difference)</li>\n\
+  </ul>\n    "
 end_year: 1990
 final_bpm: 109536
 final_vorp: 95
@@ -68,6 +73,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-3223\" data-vorp-text=\"-3223.2\">-3223</span>\
   \ in 1985.</li>\n</ul>\n    "
 signing_num_players: 39
+signing_overall_grade_bpm: C
+signing_overall_grade_vorp: B
 signing_overall_percentile_bpm: 47
 signing_overall_percentile_vorp: 71
 signing_rating_bpm: 0
@@ -118,6 +125,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-4858\" data-vorp-text=\"\
   -3.2\">-4858</span> to WSB.</li>\n</ul>\n    "
 trade_num: 79
+trade_overall_grade_bpm: A
+trade_overall_grade_vorp: B+
 trade_overall_percentile_bpm: 91
 trade_overall_percentile_vorp: 80
 trade_rating_bpm: 0

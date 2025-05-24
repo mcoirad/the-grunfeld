@@ -1,24 +1,28 @@
 ---
 bpm_rank: 13
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Bryce Drew <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -6\" data-vorp-text=\"-6.1\">-6.1</span> with 16th pick but was worth 48th pick.</li>\n\
-  <li>Drafted Michael Dickerson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -5\" data-vorp-text=\"-5.0\">-5.0</span> with 14th pick but was worth 22th pick.</li>\n\
-  <li>Drafted Yao Ming <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -2\" data-vorp-text=\"-2.4\">-2.4</span> with 1th pick but was worth 3th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Kenny Thomas <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -22497\" data-vorp-text=\"-22497.8\">-22497</span> with 22th pick but was worth\
-  \ 58th pick.</li>\n<li>Drafted Bryce Drew <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-11976\" data-vorp-text=\"-11976.4\">-11976</span> with 16th pick\
-  \ but was worth 47th pick.</li>\n<li>Drafted Michael Dickerson <span class=\"badge\
-  \ badge-pill badge-danger\" data-bpm-text=\"-9737\" data-vorp-text=\"-9737.0\">-9737</span>\
-  \ with 14th pick but was worth 38th pick.</li>\n</ul>\n    "
+  <li>Drafted Bryce Drew with 16th pick but was worth 48th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-6\" data-vorp-text=\"-6.1\">-6.1</span>\
+  \ (expectation difference)</li>\n<li>Drafted Michael Dickerson with 14th pick but\
+  \ was worth 22th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -5\" data-vorp-text=\"-5.0\">-5.0</span> (expectation difference)</li>\n<li>Drafted\
+  \ Yao Ming with 1th pick but was worth 3th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-2\" data-vorp-text=\"-2.4\">-2.4</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Kenny Thomas with 22th pick but was worth 58th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-22497\" data-vorp-text=\"\
+  -22497.8\">-22497</span> (expectation difference)</li>\n<li>Drafted Bryce Drew with\
+  \ 16th pick but was worth 47th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-11976\" data-vorp-text=\"-11976.4\">-11976</span> (expectation\
+  \ difference)</li>\n<li>Drafted Michael Dickerson with 14th pick but was worth 38th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-9737\" data-vorp-text=\"\
+  -9737.0\">-9737</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Carroll Dawson ranks in the 67th percentile for drafting among
   executives in our database. Dawson's draft picks average out to be worth the equivalent
   of 1 spot higher than they were picked due to his good drafting.
 draft_num_players: 10
+draft_overall_grade_bpm: B
+draft_overall_grade_vorp: B
 draft_overall_percentile_vorp: 73
 draft_rating_bpm: -6
 draft_rating_grade_bpm: C+
@@ -33,19 +37,20 @@ draft_total_percentile_bpm: 77
 draft_total_percentile_vorp: 77
 draft_total_vorp: 35
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Cuttino Mobley <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +13\" data-vorp-text=\"+13.3\">+13.3</span> with 41th pick but was worth 8th pick.\
-  \ </li>\n<li>Drafted Kenny Thomas <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+2\" data-vorp-text=\"+2.8\">+2.8</span> with 22th pick but was\
-  \ worth 16th pick. </li>\n<li>Drafted Luther Head <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.4\">+0.4</span> with\
-  \ 24th pick but was worth 23th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Cuttino Mobley <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+7600\" data-vorp-text=\"+7600.7\"\
-  >+7600</span> with 41th pick but was worth 29th pick. </li>\n<li>Drafted Luther\
-  \ Head <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+1299\" data-vorp-text=\"\
-  +1299.7\">+1299</span> with 24th pick but was worth 12th pick. </li>\n</ul>\n  \
-  \  "
+  <li>Drafted Cuttino Mobley with 41th pick but was worth 8th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+13\" data-vorp-text=\"+13.3\"\
+  >+13.3</span> (expectation difference)</li>\n<li>Drafted Kenny Thomas with 22th\
+  \ pick but was worth 16th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +2\" data-vorp-text=\"+2.8\">+2.8</span> (expectation difference)</li>\n<li>Drafted\
+  \ Luther Head with 24th pick but was worth 23th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.4\">+0.4</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Cuttino Mobley with 41th pick but was worth 29th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+7600\" data-vorp-text=\"\
+  +7600.7\">+7600</span> (expectation difference)</li>\n<li>Drafted Luther Head with\
+  \ 24th pick but was worth 12th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+1299\" data-vorp-text=\"+1299.7\">+1299</span> (expectation difference)</li>\n\
+  </ul>\n    "
 end_year: 2007
 final_bpm: 179951
 final_vorp: 86
@@ -68,6 +73,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-5016\" data-vorp-text=\"-5016.8\">-5016</span>\
   \ in 1996.</li>\n</ul>\n    "
 signing_num_players: 60
+signing_overall_grade_bpm: D
+signing_overall_grade_vorp: B-
 signing_overall_percentile_bpm: 32
 signing_overall_percentile_vorp: 63
 signing_rating_bpm: 0
@@ -125,6 +132,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ badge-danger\" data-bpm-text=\"-21239\" data-vorp-text=\"-9.8\">-21239</span>\
   \ to POR.</li>\n</ul>\n    "
 trade_num: 110
+trade_overall_grade_bpm: A+
+trade_overall_grade_vorp: A
 trade_overall_percentile_bpm: 96
 trade_overall_percentile_vorp: 93
 trade_rating_bpm: 0

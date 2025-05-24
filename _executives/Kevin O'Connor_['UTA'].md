@@ -1,25 +1,28 @@
 ---
 bpm_rank: 95
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Enes Kanter <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -36\" data-vorp-text=\"-36.1\">-36.1</span> with 3th pick but was worth 11th pick.</li>\n\
-  <li>Drafted Kris Humphries <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -7\" data-vorp-text=\"-7.5\">-7.5</span> with 14th pick but was worth 23th pick.</li>\n\
-  <li>Drafted Kirk Snyder <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -6\" data-vorp-text=\"-6.7\">-6.7</span> with 16th pick but was worth 24th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Enes Kanter <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -122565\" data-vorp-text=\"-122565.6\">-122565</span> with 3th pick but was worth\
-  \ 31th pick.</li>\n<li>Drafted DeShawn Stevenson <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-47422\" data-vorp-text=\"-47422.8\">-47422</span>\
-  \ with 23th pick but was worth 58th pick.</li>\n<li>Drafted Sasha Pavlović <span\
-  \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-30219\" data-vorp-text=\"\
-  -30219.2\">-30219</span> with 19th pick but was worth 53th pick.</li>\n</ul>\n \
-  \   "
+  <li>Drafted Enes Kanter with 3th pick but was worth 11th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-36\" data-vorp-text=\"-36.1\">-36.1</span>\
+  \ (expectation difference)</li>\n<li>Drafted Kris Humphries with 14th pick but was\
+  \ worth 23th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -7\" data-vorp-text=\"-7.5\">-7.5</span> (expectation difference)</li>\n<li>Drafted\
+  \ Kirk Snyder with 16th pick but was worth 24th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-6\" data-vorp-text=\"-6.7\">-6.7</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Enes Kanter with 3th pick but was worth 31th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-122565\" data-vorp-text=\"\
+  -122565.6\">-122565</span> (expectation difference)</li>\n<li>Drafted DeShawn Stevenson\
+  \ with 23th pick but was worth 58th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-47422\" data-vorp-text=\"-47422.8\">-47422</span> (expectation\
+  \ difference)</li>\n<li>Drafted Sasha Pavlović with 19th pick but was worth 53th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-30219\" data-vorp-text=\"\
+  -30219.2\">-30219</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Kevin O'Connor ranks in the 59th percentile for drafting among
   executives in our database. O'Connor's draft picks average out to be worth the equivalent
   of 1 spot lower than they were picked due to their terrible drafting.
 draft_num_players: 21
+draft_overall_grade_bpm: B+
+draft_overall_grade_vorp: B
 draft_overall_percentile_vorp: 71
 draft_rating_bpm: -5
 draft_rating_grade_bpm: B-
@@ -34,21 +37,22 @@ draft_total_percentile_bpm: 83
 draft_total_percentile_vorp: 83
 draft_total_vorp: 52
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Paul Millsap <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +30\" data-vorp-text=\"+30.4\">+30.4</span> with 47th pick but was worth 3th pick.\
-  \ </li>\n<li>Drafted Gordon Hayward <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+15\" data-vorp-text=\"+15.6\">+15.6</span> with 9th pick but\
-  \ was worth 3th pick. </li>\n<li>Drafted Mo Williams <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+10\" data-vorp-text=\"+10.5\">+10.5</span> with\
-  \ 47th pick but was worth 11th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Paul Millsap <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+67464\" data-vorp-text=\"+67464.6\"\
-  >+67464</span> with 47th pick but was worth 3th pick. </li>\n<li>Drafted Gordon\
-  \ Hayward <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+38294\"\
-  \ data-vorp-text=\"+38294.5\">+38294</span> with 9th pick but was worth 4th pick.\
-  \ </li>\n<li>Drafted Ronnie Brewer <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+18462\" data-vorp-text=\"+18462.4\">+18462</span> with 14th pick\
-  \ but was worth 7th pick. </li>\n</ul>\n    "
+  <li>Drafted Paul Millsap with 47th pick but was worth 3th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+30\" data-vorp-text=\"+30.4\">+30.4</span>\
+  \ (expectation difference)</li>\n<li>Drafted Gordon Hayward with 9th pick but was\
+  \ worth 3th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +15\" data-vorp-text=\"+15.6\">+15.6</span> (expectation difference)</li>\n<li>Drafted\
+  \ Mo Williams with 47th pick but was worth 11th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+10\" data-vorp-text=\"+10.5\">+10.5</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Paul Millsap with 47th pick but was worth 3th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+67464\" data-vorp-text=\"\
+  +67464.6\">+67464</span> (expectation difference)</li>\n<li>Drafted Gordon Hayward\
+  \ with 9th pick but was worth 4th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+38294\" data-vorp-text=\"+38294.5\">+38294</span> (expectation\
+  \ difference)</li>\n<li>Drafted Ronnie Brewer with 14th pick but was worth 7th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+18462\" data-vorp-text=\"\
+  +18462.4\">+18462</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 2012
 final_bpm: -25289
 final_vorp: 92
@@ -71,6 +75,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ McLeod <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-9137\" data-vorp-text=\"\
   -9137.2\">-9137</span> in 2004.</li>\n</ul>\n    "
 signing_num_players: 56
+signing_overall_grade_bpm: F
+signing_overall_grade_vorp: C-
 signing_overall_percentile_bpm: 9
 signing_overall_percentile_vorp: 44
 signing_rating_bpm: -1
@@ -119,6 +125,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ Herbert Hill <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+0\"\
   \ data-vorp-text=\"+0.0\">+0</span> to PHI.</li>\n</ul>\n    "
 trade_num: 82
+trade_overall_grade_bpm: B+
+trade_overall_grade_vorp: A
 trade_overall_percentile_bpm: 76
 trade_overall_percentile_vorp: 92
 trade_rating_bpm: 0

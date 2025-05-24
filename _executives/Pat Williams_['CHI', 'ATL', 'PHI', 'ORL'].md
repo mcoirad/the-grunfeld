@@ -1,24 +1,28 @@
 ---
 bpm_rank: 8
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Leon Wood <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -12\" data-vorp-text=\"-12.8\">-12.8</span> with 10th pick but was worth 18th pick.</li>\n\
-  <li>Drafted Darryl Dawkins <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -9\" data-vorp-text=\"-9.0\">-9.0</span> with 5th pick but was worth 9th pick.</li>\n\
-  <li>Drafted Bison Dele <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -6\" data-vorp-text=\"-6.4\">-6.4</span> with 10th pick but was worth 14th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Darryl Dawkins <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -35718\" data-vorp-text=\"-35718.6\">-35718</span> with 5th pick but was worth 61th\
-  \ pick.</li>\n<li>Drafted Terry Catledge <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-35206\" data-vorp-text=\"-35206.6\">-35206</span> with 21th pick\
-  \ but was worth 61th pick.</li>\n<li>Drafted Earl Cureton <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-33534\" data-vorp-text=\"-33534.0\">-33534</span>\
-  \ with 58th pick but was worth 61th pick.</li>\n</ul>\n    "
+  <li>Drafted Leon Wood with 10th pick but was worth 18th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-12\" data-vorp-text=\"-12.8\">-12.8</span>\
+  \ (expectation difference)</li>\n<li>Drafted Darryl Dawkins with 5th pick but was\
+  \ worth 9th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -9\" data-vorp-text=\"-9.0\">-9.0</span> (expectation difference)</li>\n<li>Drafted\
+  \ Bison Dele with 10th pick but was worth 14th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-6\" data-vorp-text=\"-6.4\">-6.4</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Darryl Dawkins with 5th pick but was worth 61th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-35718\" data-vorp-text=\"\
+  -35718.6\">-35718</span> (expectation difference)</li>\n<li>Drafted Terry Catledge\
+  \ with 21th pick but was worth 61th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-35206\" data-vorp-text=\"-35206.6\">-35206</span> (expectation\
+  \ difference)</li>\n<li>Drafted Earl Cureton with 58th pick but was worth 61th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-33534\" data-vorp-text=\"\
+  -33534.0\">-33534</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Pat Williams ranks in the 48th percentile for drafting among executives
   in our database. Williams's draft picks average out to be worth the equivalent of
   3 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 35
+draft_overall_grade_bpm: B-
+draft_overall_grade_vorp: B+
 draft_overall_percentile_vorp: 74
 draft_rating_bpm: -14
 draft_rating_grade_bpm: D-
@@ -33,21 +37,22 @@ draft_total_percentile_bpm: 99
 draft_total_percentile_vorp: 99
 draft_total_vorp: 148
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Charles Barkley <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +51\" data-vorp-text=\"+51.4\">+51.4</span> with 5th pick but was worth 3th pick.\
-  \ </li>\n<li>Drafted Maurice Cheeks <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+42\" data-vorp-text=\"+42.1\">+42.1</span> with 36th pick but\
-  \ was worth 2th pick. </li>\n<li>Drafted World B. Free <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+21\" data-vorp-text=\"+21.4\">+21.4</span> with\
-  \ 23th pick but was worth 3th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Charles Barkley <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+175773\" data-vorp-text=\"+175773.6\"\
-  >+175773</span> with 5th pick but was worth 3th pick. </li>\n<li>Drafted Maurice\
-  \ Cheeks <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+97566\"\
-  \ data-vorp-text=\"+97566.0\">+97566</span> with 36th pick but was worth 2th pick.\
-  \ </li>\n<li>Drafted Nick Anderson <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+46842\" data-vorp-text=\"+46842.4\">+46842</span> with 11th pick\
-  \ but was worth 4th pick. </li>\n</ul>\n    "
+  <li>Drafted Charles Barkley with 5th pick but was worth 3th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+51\" data-vorp-text=\"+51.4\"\
+  >+51.4</span> (expectation difference)</li>\n<li>Drafted Maurice Cheeks with 36th\
+  \ pick but was worth 2th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +42\" data-vorp-text=\"+42.1\">+42.1</span> (expectation difference)</li>\n<li>Drafted\
+  \ World B. Free with 23th pick but was worth 3th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+21\" data-vorp-text=\"+21.4\">+21.4</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Charles Barkley with 5th pick but was worth 3th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+175773\" data-vorp-text=\"\
+  +175773.6\">+175773</span> (expectation difference)</li>\n<li>Drafted Maurice Cheeks\
+  \ with 36th pick but was worth 2th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+97566\" data-vorp-text=\"+97566.0\">+97566</span> (expectation\
+  \ difference)</li>\n<li>Drafted Nick Anderson with 11th pick but was worth 4th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+46842\" data-vorp-text=\"\
+  +46842.4\">+46842</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 1996
 final_bpm: 254672
 final_vorp: 169
@@ -70,6 +75,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   badge badge-pill badge-danger\" data-bpm-text=\"-10713\" data-vorp-text=\"-10713.6\"\
   >-10713</span> in 1982.</li>\n</ul>\n    "
 signing_num_players: 63
+signing_overall_grade_bpm: D
+signing_overall_grade_vorp: C-
 signing_overall_percentile_bpm: 27
 signing_overall_percentile_vorp: 46
 signing_rating_bpm: 0
@@ -123,6 +130,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-43971\" data-vorp-text=\"\
   -21.2\">-43971</span> to CLE.</li>\n</ul>\n    "
 trade_num: 178
+trade_overall_grade_bpm: B
+trade_overall_grade_vorp: C+
 trade_overall_percentile_bpm: 69
 trade_overall_percentile_vorp: 56
 trade_rating_bpm: 0

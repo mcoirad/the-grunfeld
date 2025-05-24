@@ -1,24 +1,28 @@
 ---
 bpm_rank: 125
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Billy Owens <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -16\" data-vorp-text=\"-16.8\">-16.8</span> with 3th pick but was worth 11th pick.</li>\n\
-  <li>Drafted Bobby Hurley <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -15\" data-vorp-text=\"-15.3\">-15.3</span> with 7th pick but was worth 54th pick.</li>\n\
-  <li>Drafted Travis Mays <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -2\" data-vorp-text=\"-2.7\">-2.7</span> with 14th pick but was worth 34th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Billy Owens <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -43920\" data-vorp-text=\"-43920.8\">-43920</span> with 3th pick but was worth 31th\
-  \ pick.</li>\n<li>Drafted Bobby Hurley <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-27832\" data-vorp-text=\"-27832.4\">-27832</span> with 7th pick\
-  \ but was worth 50th pick.</li>\n<li>Drafted Duane Causwell <span class=\"badge\
-  \ badge-pill badge-danger\" data-bpm-text=\"-19896\" data-vorp-text=\"-19896.5\"\
-  >-19896</span> with 18th pick but was worth 45th pick.</li>\n</ul>\n    "
+  <li>Drafted Billy Owens with 3th pick but was worth 11th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-16\" data-vorp-text=\"-16.8\">-16.8</span>\
+  \ (expectation difference)</li>\n<li>Drafted Bobby Hurley with 7th pick but was\
+  \ worth 54th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -15\" data-vorp-text=\"-15.3\">-15.3</span> (expectation difference)</li>\n<li>Drafted\
+  \ Travis Mays with 14th pick but was worth 34th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-2\" data-vorp-text=\"-2.7\">-2.7</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Billy Owens with 3th pick but was worth 31th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-43920\" data-vorp-text=\"\
+  -43920.8\">-43920</span> (expectation difference)</li>\n<li>Drafted Bobby Hurley\
+  \ with 7th pick but was worth 50th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-27832\" data-vorp-text=\"-27832.4\">-27832</span> (expectation\
+  \ difference)</li>\n<li>Drafted Duane Causwell with 18th pick but was worth 45th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-19896\" data-vorp-text=\"\
+  -19896.5\">-19896</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Jerry Reynolds ranks in the 36th percentile for drafting among
   executives in our database. Reynolds's draft picks average out to be worth the equivalent
   of 7 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 11
+draft_overall_grade_bpm: C-
+draft_overall_grade_vorp: C-
 draft_overall_percentile_vorp: 44
 draft_rating_bpm: -14
 draft_rating_grade_bpm: D
@@ -33,16 +37,17 @@ draft_total_percentile_bpm: 51
 draft_total_percentile_vorp: 51
 draft_total_vorp: 9
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Mike Peplowski <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +2\" data-vorp-text=\"+2.1\">+2.1</span> with 52th pick but was worth 45th pick.\
-  \ </li>\n<li>Drafted Pete Chilcutt <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+0\" data-vorp-text=\"+0.3\">+0.3</span> with 27th pick but was\
-  \ worth 17th pick. </li>\n<li>Drafted Randy Brown <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.2\">+0.2</span> with\
-  \ 31th pick but was worth 18th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Mike Peplowski <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+21640\" data-vorp-text=\"+21640.0\"\
-  >+21640</span> with 52th pick but was worth 34th pick. </li>\n</ul>\n    "
+  <li>Drafted Mike Peplowski with 52th pick but was worth 45th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+2\" data-vorp-text=\"+2.1\">+2.1</span>\
+  \ (expectation difference)</li>\n<li>Drafted Pete Chilcutt with 27th pick but was\
+  \ worth 17th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +0\" data-vorp-text=\"+0.3\">+0.3</span> (expectation difference)</li>\n<li>Drafted\
+  \ Randy Brown with 31th pick but was worth 18th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.2\">+0.2</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Mike Peplowski with 52th pick but was worth 34th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+21640\" data-vorp-text=\"\
+  +21640.0\">+21640</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 1994
 final_bpm: -72655
 final_vorp: 17
@@ -66,6 +71,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   badge badge-pill badge-danger\" data-bpm-text=\"-2072\" data-vorp-text=\"-2072.5\"\
   >-2072</span> in 1993.</li>\n</ul>\n    "
 signing_num_players: 26
+signing_overall_grade_bpm: B-
+signing_overall_grade_vorp: C-
 signing_overall_percentile_bpm: 62
 signing_overall_percentile_vorp: 41
 signing_rating_bpm: 0
@@ -123,6 +130,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   +0.0\">+0</span>, Cal Bowdler <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
   +0\" data-vorp-text=\"+0.0\">+0</span> to DET.</li>\n</ul>\n    "
 trade_num: 48
+trade_overall_grade_bpm: D+
+trade_overall_grade_vorp: C+
 trade_overall_percentile_bpm: 40
 trade_overall_percentile_vorp: 55
 trade_rating_bpm: 0

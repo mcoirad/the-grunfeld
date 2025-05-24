@@ -1,23 +1,27 @@
 ---
 bpm_rank: 143
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Cam Reddish <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -5\" data-vorp-text=\"-5.0\">-5.0</span> with 10th pick but was worth 59th pick.</li>\n\
-  <li>Drafted Onyeka Okongwu <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -2\" data-vorp-text=\"-2.3\">-2.3</span> with 6th pick but was worth 9th pick.</li>\n\
-  <li>Drafted Tyler Dorsey <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.3\">-0.3</span> with 41th pick but was worth 46th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Cam Reddish <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -21899\" data-vorp-text=\"-21899.6\">-21899</span> with 10th pick but was worth\
-  \ 56th pick.</li>\n<li>Drafted Kevin Huerter <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-13566\" data-vorp-text=\"-13566.0\">-13566</span> with 19th pick\
-  \ but was worth 53th pick.</li>\n<li>Drafted Onyeka Okongwu <span class=\"badge\
-  \ badge-pill badge-danger\" data-bpm-text=\"-6494\" data-vorp-text=\"-6494.9\">-6494</span>\
-  \ with 6th pick but was worth 9th pick.</li>\n</ul>\n    "
+  <li>Drafted Cam Reddish with 10th pick but was worth 59th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-5\" data-vorp-text=\"-5.0\">-5.0</span>\
+  \ (expectation difference)</li>\n<li>Drafted Onyeka Okongwu with 6th pick but was\
+  \ worth 9th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -2\" data-vorp-text=\"-2.3\">-2.3</span> (expectation difference)</li>\n<li>Drafted\
+  \ Tyler Dorsey with 41th pick but was worth 46th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.3\">-0.3</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Cam Reddish with 10th pick but was worth 56th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-21899\" data-vorp-text=\"\
+  -21899.6\">-21899</span> (expectation difference)</li>\n<li>Drafted Kevin Huerter\
+  \ with 19th pick but was worth 53th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-13566\" data-vorp-text=\"-13566.0\">-13566</span> (expectation\
+  \ difference)</li>\n<li>Drafted Onyeka Okongwu with 6th pick but was worth 9th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-6494\" data-vorp-text=\"\
+  -6494.9\">-6494</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Travis Schlenk ranks in the 61th percentile for drafting among
   executives in our database. That's basically average. It could worse though lol.
 draft_num_players: 10
+draft_overall_grade_bpm: B-
+draft_overall_grade_vorp: B-
 draft_overall_percentile_vorp: 61
 draft_rating_bpm: -3
 draft_rating_grade_bpm: B
@@ -32,18 +36,20 @@ draft_total_percentile_bpm: 60
 draft_total_percentile_vorp: 60
 draft_total_vorp: 16
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted John Collins <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +7\" data-vorp-text=\"+8.0\">+8.0</span> with 19th pick but was worth 9th pick.\
-  \ </li>\n<li>Drafted Jalen Johnson <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+2\" data-vorp-text=\"+2.4\">+2.4</span> with 20th pick but was\
-  \ worth 9th pick. </li>\n<li>Drafted Kevin Huerter <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.4\">+0.4</span> with\
-  \ 19th pick but was worth 16th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted John Collins <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+9617\" data-vorp-text=\"+9617.3\"\
-  >+9617</span> with 19th pick but was worth 9th pick. </li>\n<li>Drafted Jalen Johnson\
-  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+4774\" data-vorp-text=\"\
-  +4774.8\">+4774</span> with 20th pick but was worth 8th pick. </li>\n</ul>\n    "
+  <li>Drafted John Collins with 19th pick but was worth 9th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+7\" data-vorp-text=\"+8.0\">+8.0</span>\
+  \ (expectation difference)</li>\n<li>Drafted Jalen Johnson with 20th pick but was\
+  \ worth 9th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +2\" data-vorp-text=\"+2.4\">+2.4</span> (expectation difference)</li>\n<li>Drafted\
+  \ Kevin Huerter with 19th pick but was worth 16th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.4\">+0.4</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted John Collins with 19th pick but was worth 9th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+9617\" data-vorp-text=\"\
+  +9617.3\">+9617</span> (expectation difference)</li>\n<li>Drafted Jalen Johnson\
+  \ with 20th pick but was worth 8th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+4774\" data-vorp-text=\"+4774.8\">+4774</span> (expectation difference)</li>\n\
+  </ul>\n    "
 end_year: 2022
 final_bpm: -107370
 final_vorp: 6
@@ -66,6 +72,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-3782\" data-vorp-text=\"-3782.5\">-3782</span>\
   \ in 2020.</li>\n</ul>\n    "
 signing_num_players: 89
+signing_overall_grade_bpm: B-
+signing_overall_grade_vorp: C+
 signing_overall_percentile_bpm: 66
 signing_overall_percentile_vorp: 55
 signing_rating_bpm: 0
@@ -116,6 +124,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ data-bpm-text=\"-113158\" data-vorp-text=\"-36.2\">-113158</span> to DAL.</li>\n\
   </ul>\n    "
 trade_num: 102
+trade_overall_grade_bpm: C-
+trade_overall_grade_vorp: D+
 trade_overall_percentile_bpm: 44
 trade_overall_percentile_vorp: 38
 trade_rating_bpm: 0

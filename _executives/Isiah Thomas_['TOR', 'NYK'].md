@@ -1,24 +1,28 @@
 ---
 bpm_rank: 148
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Marcus Camby <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -26\" data-vorp-text=\"-26.3\">-26.3</span> with 2th pick but was worth 5th pick.</li>\n\
-  <li>Drafted Channing Frye <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -4\" data-vorp-text=\"-4.4\">-4.4</span> with 8th pick but was worth 15th pick.</li>\n\
-  <li>Drafted Mardy Collins <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -1\" data-vorp-text=\"-1.7\">-1.7</span> with 29th pick but was worth 57th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Marcus Camby <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -68424\" data-vorp-text=\"-68424.4\">-68424</span> with 2th pick but was worth 5th\
-  \ pick.</li>\n<li>Drafted Wilson Chandler <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-26373\" data-vorp-text=\"-26373.1\">-26373</span> with 23th pick\
-  \ but was worth 53th pick.</li>\n<li>Drafted Channing Frye <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-16185\" data-vorp-text=\"-16185.2\">-16185</span>\
-  \ with 8th pick but was worth 41th pick.</li>\n</ul>\n    "
+  <li>Drafted Marcus Camby with 2th pick but was worth 5th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-26\" data-vorp-text=\"-26.3\">-26.3</span>\
+  \ (expectation difference)</li>\n<li>Drafted Channing Frye with 8th pick but was\
+  \ worth 15th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -4\" data-vorp-text=\"-4.4\">-4.4</span> (expectation difference)</li>\n<li>Drafted\
+  \ Mardy Collins with 29th pick but was worth 57th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-1\" data-vorp-text=\"-1.7\">-1.7</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Marcus Camby with 2th pick but was worth 5th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-68424\" data-vorp-text=\"\
+  -68424.4\">-68424</span> (expectation difference)</li>\n<li>Drafted Wilson Chandler\
+  \ with 23th pick but was worth 53th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-26373\" data-vorp-text=\"-26373.1\">-26373</span> (expectation\
+  \ difference)</li>\n<li>Drafted Channing Frye with 8th pick but was worth 41th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-16185\" data-vorp-text=\"\
+  -16185.2\">-16185</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Isiah Thomas ranks in the 81th percentile for drafting among executives
   in our database. Thomas's draft picks average out to be worth the equivalent of
   3 spots higher than they were picked due to his good drafting.
 draft_num_players: 10
+draft_overall_grade_bpm: B
+draft_overall_grade_vorp: B+
 draft_overall_percentile_vorp: 74
 draft_rating_bpm: -1
 draft_rating_grade_bpm: B+
@@ -33,21 +37,22 @@ draft_total_percentile_bpm: 66
 draft_total_percentile_vorp: 66
 draft_total_vorp: 23
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Tracy McGrady <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +46\" data-vorp-text=\"+46.1\">+46.1</span> with 9th pick but was worth 2th pick.\
-  \ </li>\n<li>Drafted Trevor Ariza <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+22\" data-vorp-text=\"+22.0\">+22.0</span> with 43th pick but\
-  \ was worth 5th pick. </li>\n<li>Drafted David Lee <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+19\" data-vorp-text=\"+19.0\">+19.0</span> with\
-  \ 30th pick but was worth 4th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Tracy McGrady <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+159421\" data-vorp-text=\"+159421.6\"\
-  >+159421</span> with 9th pick but was worth 2th pick. </li>\n<li>Drafted David Lee\
-  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+28618\" data-vorp-text=\"\
-  +28618.0\">+28618</span> with 30th pick but was worth 5th pick. </li>\n<li>Drafted\
-  \ Trevor Ariza <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+24230\"\
-  \ data-vorp-text=\"+24230.2\">+24230</span> with 43th pick but was worth 7th pick.\
-  \ </li>\n</ul>\n    "
+  <li>Drafted Tracy McGrady with 9th pick but was worth 2th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+46\" data-vorp-text=\"+46.1\">+46.1</span>\
+  \ (expectation difference)</li>\n<li>Drafted Trevor Ariza with 43th pick but was\
+  \ worth 5th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +22\" data-vorp-text=\"+22.0\">+22.0</span> (expectation difference)</li>\n<li>Drafted\
+  \ David Lee with 30th pick but was worth 4th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+19\" data-vorp-text=\"+19.0\">+19.0</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Tracy McGrady with 9th pick but was worth 2th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+159421\" data-vorp-text=\"\
+  +159421.6\">+159421</span> (expectation difference)</li>\n<li>Drafted David Lee\
+  \ with 30th pick but was worth 5th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+28618\" data-vorp-text=\"+28618.0\">+28618</span> (expectation\
+  \ difference)</li>\n<li>Drafted Trevor Ariza with 43th pick but was worth 7th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+24230\" data-vorp-text=\"\
+  +24230.2\">+24230</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 2008
 final_bpm: -131029
 final_vorp: 25
@@ -70,6 +75,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-6177\" data-vorp-text=\"\
   -6177.5\">-6177</span> in 2005.</li>\n</ul>\n    "
 signing_num_players: 37
+signing_overall_grade_bpm: F
+signing_overall_grade_vorp: F
 signing_overall_percentile_bpm: 11
 signing_overall_percentile_vorp: 6
 signing_rating_bpm: -1
@@ -139,6 +146,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   badge badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span>\
   \ to CHI.</li>\n</ul>\n    "
 trade_num: 87
+trade_overall_grade_bpm: F
+trade_overall_grade_vorp: B-
 trade_overall_percentile_bpm: 12
 trade_overall_percentile_vorp: 63
 trade_rating_bpm: 0

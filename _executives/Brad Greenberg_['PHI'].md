@@ -1,19 +1,23 @@
 ---
 bpm_rank: 27
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Allen Iverson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -30\" data-vorp-text=\"-30.5\">-30.5</span> with 1th pick but was worth 3th pick.</li>\n\
-  <li>Drafted Mark Hendrickson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.7\">-0.7</span> with 31th pick but was worth 47th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Allen Iverson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -103461\" data-vorp-text=\"-103461.4\">-103461</span> with 1th pick but was worth\
-  \ 3th pick.</li>\n<li>Drafted Mark Hendrickson <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-4208\" data-vorp-text=\"-4208.8\">-4208</span> with 31th pick\
-  \ but was worth 40th pick.</li>\n</ul>\n    "
+  <li>Drafted Allen Iverson with 1th pick but was worth 3th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-30\" data-vorp-text=\"-30.5\">-30.5</span>\
+  \ (expectation difference)</li>\n<li>Drafted Mark Hendrickson with 31th pick but\
+  \ was worth 47th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  0\" data-vorp-text=\"-0.7\">-0.7</span> (expectation difference)</li>\n</ul>\n \
+  \   <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n<li>Drafted\
+  \ Allen Iverson with 1th pick but was worth 3th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-103461\" data-vorp-text=\"-103461.4\">-103461</span>\
+  \ (expectation difference)</li>\n<li>Drafted Mark Hendrickson with 31th pick but\
+  \ was worth 40th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -4208\" data-vorp-text=\"-4208.8\">-4208</span> (expectation difference)</li>\n\
+  </ul>\n    "
 draft_description: This executive has only drafted 2 players and thus doesn't have
   a draft grade.
 draft_num_players: 2
+draft_overall_grade_bpm: null
+draft_overall_grade_vorp: null
 draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
@@ -52,6 +56,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-2932\" data-vorp-text=\"\
   -2932.0\">-2932</span> in 1996.</li>\n</ul>\n    "
 signing_num_players: 12
+signing_overall_grade_bpm: D-
+signing_overall_grade_vorp: F
 signing_overall_percentile_bpm: 25
 signing_overall_percentile_vorp: 7
 signing_rating_bpm: -1
@@ -80,6 +86,8 @@ trade_description: This executive hasn't traded any players, and thus doesn't ha
   a trade grade.
 trade_lose_list: "\n    \n    \n    "
 trade_num: 0
+trade_overall_grade_bpm: null
+trade_overall_grade_vorp: null
 trade_overall_percentile_bpm: null
 trade_overall_percentile_vorp: null
 trade_rating_bpm: null

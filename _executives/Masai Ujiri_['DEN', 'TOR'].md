@@ -1,24 +1,28 @@
 ---
 bpm_rank: 30
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Bruno Caboclo <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -2\" data-vorp-text=\"-2.9\">-2.9</span> with 20th pick but was worth 39th pick.</li>\n\
-  <li>Drafted Gradey Dick <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -1\" data-vorp-text=\"-1.8\">-1.8</span> with 13th pick but was worth 54th pick.</li>\n\
-  <li>Drafted Malachi Flynn <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.5\">-0.5</span> with 29th pick but was worth 49th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Evan Fournier <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -20547\" data-vorp-text=\"-20547.0\">-20547</span> with 20th pick but was worth\
-  \ 57th pick.</li>\n<li>Drafted Gradey Dick <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-11754\" data-vorp-text=\"-11754.2\">-11754</span> with 13th pick\
-  \ but was worth 54th pick.</li>\n<li>Drafted Malachi Flynn <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-6446\" data-vorp-text=\"-6446.6\">-6446</span>\
-  \ with 29th pick but was worth 44th pick.</li>\n</ul>\n    "
+  <li>Drafted Bruno Caboclo with 20th pick but was worth 39th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-2\" data-vorp-text=\"-2.9\">-2.9</span>\
+  \ (expectation difference)</li>\n<li>Drafted Gradey Dick with 13th pick but was\
+  \ worth 54th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -1\" data-vorp-text=\"-1.8\">-1.8</span> (expectation difference)</li>\n<li>Drafted\
+  \ Malachi Flynn with 29th pick but was worth 49th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.5\">-0.5</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Evan Fournier with 20th pick but was worth 57th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-20547\" data-vorp-text=\"\
+  -20547.0\">-20547</span> (expectation difference)</li>\n<li>Drafted Gradey Dick\
+  \ with 13th pick but was worth 54th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-11754\" data-vorp-text=\"-11754.2\">-11754</span> (expectation\
+  \ difference)</li>\n<li>Drafted Malachi Flynn with 29th pick but was worth 44th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-6446\" data-vorp-text=\"\
+  -6446.6\">-6446</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Masai Ujiri ranks in the 73th percentile for drafting among executives
   in our database. Ujiri's draft picks average out to be worth the equivalent of 1
   spot higher than they were picked due to his good drafting.
 draft_num_players: 20
+draft_overall_grade_bpm: A-
+draft_overall_grade_vorp: B+
 draft_overall_percentile_vorp: 76
 draft_rating_bpm: 1
 draft_rating_grade_bpm: A-
@@ -33,21 +37,22 @@ draft_total_percentile_bpm: 79
 draft_total_percentile_vorp: 79
 draft_total_vorp: 41
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Pascal Siakam <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +19\" data-vorp-text=\"+19.6\">+19.6</span> with 27th pick but was worth 2th pick.\
-  \ </li>\n<li>Drafted Delon Wright <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+8\" data-vorp-text=\"+8.1\">+8.1</span> with 20th pick but was\
-  \ worth 7th pick. </li>\n<li>Drafted Kenneth Faried <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+6\" data-vorp-text=\"+6.1\">+6.1</span> with\
-  \ 22th pick but was worth 13th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Pascal Siakam <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+40170\" data-vorp-text=\"+40170.4\"\
-  >+40170</span> with 27th pick but was worth 2th pick. </li>\n<li>Drafted Delon Wright\
-  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+21232\" data-vorp-text=\"\
-  +21232.5\">+21232</span> with 20th pick but was worth 5th pick. </li>\n<li>Drafted\
-  \ Jakob Pöltl <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+9930\"\
-  \ data-vorp-text=\"+9930.0\">+9930</span> with 9th pick but was worth 6th pick.\
-  \ </li>\n</ul>\n    "
+  <li>Drafted Pascal Siakam with 27th pick but was worth 2th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+19\" data-vorp-text=\"+19.6\"\
+  >+19.6</span> (expectation difference)</li>\n<li>Drafted Delon Wright with 20th\
+  \ pick but was worth 7th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +8\" data-vorp-text=\"+8.1\">+8.1</span> (expectation difference)</li>\n<li>Drafted\
+  \ Kenneth Faried with 22th pick but was worth 13th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+6\" data-vorp-text=\"+6.1\">+6.1</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Pascal Siakam with 27th pick but was worth 2th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+40170\" data-vorp-text=\"\
+  +40170.4\">+40170</span> (expectation difference)</li>\n<li>Drafted Delon Wright\
+  \ with 20th pick but was worth 5th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+21232\" data-vorp-text=\"+21232.5\">+21232</span> (expectation\
+  \ difference)</li>\n<li>Drafted Jakob Pöltl with 9th pick but was worth 6th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+9930\" data-vorp-text=\"\
+  +9930.0\">+9930</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 2026
 final_bpm: 72246
 final_vorp: 97
@@ -70,6 +75,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   badge badge-pill badge-danger\" data-bpm-text=\"-4842\" data-vorp-text=\"-4842.0\"\
   >-4842</span> in 2023.</li>\n</ul>\n    "
 signing_num_players: 178
+signing_overall_grade_bpm: A-
+signing_overall_grade_vorp: A
 signing_overall_percentile_bpm: 86
 signing_overall_percentile_vorp: 87
 signing_rating_bpm: 0
@@ -144,6 +151,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"\
   +0.0\">+0</span> to MIN.</li>\n</ul>\n    "
 trade_num: 142
+trade_overall_grade_bpm: B+
+trade_overall_grade_vorp: B
 trade_overall_percentile_bpm: 79
 trade_overall_percentile_vorp: 69
 trade_rating_bpm: 0

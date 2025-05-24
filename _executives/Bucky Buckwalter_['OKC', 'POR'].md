@@ -1,24 +1,28 @@
 ---
 bpm_rank: 39
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Mark Bryant <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -5\" data-vorp-text=\"-5.5\">-5.5</span> with 21th pick but was worth 61th pick.</li>\n\
-  <li>Drafted Ronnie Murphy <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -3\" data-vorp-text=\"-3.7\">-3.7</span> with 17th pick but was worth 61th pick.</li>\n\
-  <li>Drafted Alaa Abdelnaby <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -1\" data-vorp-text=\"-1.5\">-1.5</span> with 25th pick but was worth 46th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Mark Bryant <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -43132\" data-vorp-text=\"-43132.8\">-43132</span> with 21th pick but was worth\
-  \ 61th pick.</li>\n<li>Drafted Alaa Abdelnaby <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-5186\" data-vorp-text=\"-5186.2\">-5186</span> with 25th pick\
-  \ but was worth 35th pick.</li>\n<li>Drafted Dave Johnson <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-2243\" data-vorp-text=\"-2243.5\">-2243</span>\
-  \ with 26th pick but was worth 32th pick.</li>\n</ul>\n    "
+  <li>Drafted Mark Bryant with 21th pick but was worth 61th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-5\" data-vorp-text=\"-5.5\">-5.5</span>\
+  \ (expectation difference)</li>\n<li>Drafted Ronnie Murphy with 17th pick but was\
+  \ worth 61th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -3\" data-vorp-text=\"-3.7\">-3.7</span> (expectation difference)</li>\n<li>Drafted\
+  \ Alaa Abdelnaby with 25th pick but was worth 46th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-1\" data-vorp-text=\"-1.5\">-1.5</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Mark Bryant with 21th pick but was worth 61th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-43132\" data-vorp-text=\"\
+  -43132.8\">-43132</span> (expectation difference)</li>\n<li>Drafted Alaa Abdelnaby\
+  \ with 25th pick but was worth 35th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-5186\" data-vorp-text=\"-5186.2\">-5186</span> (expectation difference)</li>\n\
+  <li>Drafted Dave Johnson with 26th pick but was worth 32th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-2243\" data-vorp-text=\"-2243.5\"\
+  >-2243</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Bucky Buckwalter ranks in the 49th percentile for drafting among
   executives in our database. Buckwalter's draft picks average out to be worth the
   equivalent of 3 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 14
+draft_overall_grade_bpm: B+
+draft_overall_grade_vorp: B-
 draft_overall_percentile_vorp: 60
 draft_rating_bpm: 0
 draft_rating_grade_bpm: A-
@@ -33,19 +37,20 @@ draft_total_percentile_bpm: 71
 draft_total_percentile_vorp: 71
 draft_total_vorp: 31
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Clifford Robinson <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +26\" data-vorp-text=\"+26.9\">+26.9</span> with 36th pick but was worth 4th pick.\
-  \ </li>\n<li>Drafted Arvydas Sabonis <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+17\" data-vorp-text=\"+17.2\">+17.2</span> with 24th pick but\
-  \ was worth 7th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins:\
-  \ </h5><ul id=bpm-toggle>\n<li>Drafted Arvydas Sabonis <span class=\"badge badge-pill\
+  <li>Drafted Clifford Robinson with 36th pick but was worth 4th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+26\" data-vorp-text=\"+26.9\"\
+  >+26.9</span> (expectation difference)</li>\n<li>Drafted Arvydas Sabonis with 24th\
+  \ pick but was worth 7th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +17\" data-vorp-text=\"+17.2\">+17.2</span> (expectation difference)</li>\n</ul>\n\
+  \    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted\
+  \ Arvydas Sabonis with 24th pick but was worth 5th pick. <span class=\"badge badge-pill\
   \ badge-success\" data-bpm-text=\"+50050\" data-vorp-text=\"+50050.0\">+50050</span>\
-  \ with 24th pick but was worth 5th pick. </li>\n<li>Drafted Clifford Robinson <span\
-  \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+26321\" data-vorp-text=\"\
-  +26321.9\">+26321</span> with 36th pick but was worth 7th pick. </li>\n<li>Drafted\
-  \ Reggie Smith <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+1479\"\
-  \ data-vorp-text=\"+1479.6\">+1479</span> with 31th pick but was worth 29th pick.\
-  \ </li>\n</ul>\n    "
+  \ (expectation difference)</li>\n<li>Drafted Clifford Robinson with 36th pick but\
+  \ was worth 7th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +26321\" data-vorp-text=\"+26321.9\">+26321</span> (expectation difference)</li>\n\
+  <li>Drafted Reggie Smith with 31th pick but was worth 29th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+1479\" data-vorp-text=\"+1479.6\"\
+  >+1479</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 1992
 final_bpm: 45355
 final_vorp: 42
@@ -68,6 +73,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-2620\" data-vorp-text=\"-2620.2\">-2620</span>\
   \ in 1987.</li>\n</ul>\n    "
 signing_num_players: 26
+signing_overall_grade_bpm: B+
+signing_overall_grade_vorp: C+
 signing_overall_percentile_bpm: 79
 signing_overall_percentile_vorp: 56
 signing_rating_bpm: 0
@@ -117,6 +124,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+3589\" data-vorp-text=\"\
   -0.9\">+3589</span> to SAS.</li>\n</ul>\n    "
 trade_num: 39
+trade_overall_grade_bpm: B-
+trade_overall_grade_vorp: B-
 trade_overall_percentile_bpm: 61
 trade_overall_percentile_vorp: 60
 trade_rating_bpm: 0

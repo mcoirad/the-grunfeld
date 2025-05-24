@@ -4,6 +4,8 @@ draft_bust_list: "\n    \n    \n    "
 draft_description: This executive has only drafted 2 players and thus doesn't have
   a draft grade.
 draft_num_players: 2
+draft_overall_grade_bpm: null
+draft_overall_grade_vorp: null
 draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
@@ -30,6 +32,8 @@ signing_description: 'Bob Ferry ranks in the 68th percentile for free agency sig
   among executives in our database. '
 signing_lose_list: "\n    \n    \n    "
 signing_num_players: 49
+signing_overall_grade_bpm: A
+signing_overall_grade_vorp: C-
 signing_overall_percentile_bpm: 89
 signing_overall_percentile_vorp: 45
 signing_rating_bpm: 0
@@ -71,6 +75,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ data-bpm-text=\"-34073\" data-vorp-text=\"-19.2\">-34073</span> to ATL.</li>\n\
   </ul>\n    "
 trade_num: 98
+trade_overall_grade_bpm: A-
+trade_overall_grade_vorp: F
 trade_overall_percentile_bpm: 80
 trade_overall_percentile_vorp: 8
 trade_rating_bpm: 0

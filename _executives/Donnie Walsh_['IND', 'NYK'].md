@@ -1,24 +1,28 @@
 ---
 bpm_rank: 3
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Rik Smits <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -22\" data-vorp-text=\"-22.2\">-22.2</span> with 2th pick but was worth 10th pick.</li>\n\
-  <li>Drafted Chuck Person <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -18\" data-vorp-text=\"-18.0\">-18.0</span> with 4th pick but was worth 10th pick.</li>\n\
-  <li>Drafted George McCloud <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -14\" data-vorp-text=\"-14.1\">-14.1</span> with 7th pick but was worth 13th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Chuck Person <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -79536\" data-vorp-text=\"-79536.8\">-79536</span> with 4th pick but was worth 61th\
-  \ pick.</li>\n<li>Drafted Rik Smits <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-68688\" data-vorp-text=\"-68688.0\">-68688</span> with 2th pick\
-  \ but was worth 48th pick.</li>\n<li>Drafted Erick Dampier <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-40663\" data-vorp-text=\"-40663.2\">-40663</span>\
-  \ with 10th pick but was worth 54th pick.</li>\n</ul>\n    "
+  <li>Drafted Rik Smits with 2th pick but was worth 10th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-22\" data-vorp-text=\"-22.2\">-22.2</span>\
+  \ (expectation difference)</li>\n<li>Drafted Chuck Person with 4th pick but was\
+  \ worth 10th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -18\" data-vorp-text=\"-18.0\">-18.0</span> (expectation difference)</li>\n<li>Drafted\
+  \ George McCloud with 7th pick but was worth 13th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-14\" data-vorp-text=\"-14.1\">-14.1</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Chuck Person with 4th pick but was worth 61th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-79536\" data-vorp-text=\"\
+  -79536.8\">-79536</span> (expectation difference)</li>\n<li>Drafted Rik Smits with\
+  \ 2th pick but was worth 48th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-68688\" data-vorp-text=\"-68688.0\">-68688</span> (expectation\
+  \ difference)</li>\n<li>Drafted Erick Dampier with 10th pick but was worth 54th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-40663\" data-vorp-text=\"\
+  -40663.2\">-40663</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Donnie Walsh ranks in the 69th percentile for drafting among executives
   in our database. Walsh's draft picks average out to be worth the equivalent of 1
   spot higher than they were picked due to his good drafting.
 draft_num_players: 28
+draft_overall_grade_bpm: B-
+draft_overall_grade_vorp: A-
 draft_overall_percentile_vorp: 82
 draft_rating_bpm: -14
 draft_rating_grade_bpm: D
@@ -33,21 +37,22 @@ draft_total_percentile_bpm: 95
 draft_total_percentile_vorp: 95
 draft_total_vorp: 117
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Reggie Miller <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +57\" data-vorp-text=\"+57.1\">+57.1</span> with 11th pick but was worth 2th pick.\
-  \ </li>\n<li>Drafted Dale Davis <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +14\" data-vorp-text=\"+14.8\">+14.8</span> with 13th pick but was worth 6th pick.\
-  \ </li>\n<li>Drafted Fred Hoiberg <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+9\" data-vorp-text=\"+9.3\">+9.3</span> with 52th pick but was\
-  \ worth 11th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
-  \ id=bpm-toggle>\n<li>Drafted Reggie Miller <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+163764\" data-vorp-text=\"+163764.9\">+163764</span> with 11th\
-  \ pick but was worth 3th pick. </li>\n<li>Drafted Fred Hoiberg <span class=\"badge\
-  \ badge-pill badge-success\" data-bpm-text=\"+36777\" data-vorp-text=\"+36777.6\"\
-  >+36777</span> with 52th pick but was worth 5th pick. </li>\n<li>Drafted Mark Pope\
+  <li>Drafted Reggie Miller with 11th pick but was worth 2th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+57\" data-vorp-text=\"+57.1\"\
+  >+57.1</span> (expectation difference)</li>\n<li>Drafted Dale Davis with 13th pick\
+  \ but was worth 6th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +14\" data-vorp-text=\"+14.8\">+14.8</span> (expectation difference)</li>\n<li>Drafted\
+  \ Fred Hoiberg with 52th pick but was worth 11th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+9\" data-vorp-text=\"+9.3\">+9.3</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Reggie Miller with 11th pick but was worth 3th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+163764\" data-vorp-text=\"\
+  +163764.9\">+163764</span> (expectation difference)</li>\n<li>Drafted Fred Hoiberg\
+  \ with 52th pick but was worth 5th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+36777\" data-vorp-text=\"+36777.6\">+36777</span> (expectation\
+  \ difference)</li>\n<li>Drafted Mark Pope with 52th pick but was worth 42th pick.\
   \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+21122\" data-vorp-text=\"\
-  +21122.2\">+21122</span> with 52th pick but was worth 42th pick. </li>\n</ul>\n\
-  \    "
+  +21122.2\">+21122</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 2011
 final_bpm: 307200
 final_vorp: 187
@@ -71,6 +76,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-danger\" data-bpm-text=\"-3502\" data-vorp-text=\"-3502.8\">-3502</span>\
   \ in 1999.</li>\n</ul>\n    "
 signing_num_players: 84
+signing_overall_grade_bpm: D
+signing_overall_grade_vorp: C+
 signing_overall_percentile_bpm: 29
 signing_overall_percentile_vorp: 55
 signing_rating_bpm: -1
@@ -123,6 +130,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-37732\" data-vorp-text=\"\
   -16.9\">-37732</span> to SEA.</li>\n</ul>\n    "
 trade_num: 139
+trade_overall_grade_bpm: A
+trade_overall_grade_vorp: A+
 trade_overall_percentile_bpm: 89
 trade_overall_percentile_vorp: 96
 trade_rating_bpm: 0

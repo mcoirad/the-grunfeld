@@ -1,23 +1,27 @@
 ---
 bpm_rank: 16
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Kent Benson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -28\" data-vorp-text=\"-28.2\">-28.2</span> with 1th pick but was worth 15th pick.</li>\n\
-  <li>Drafted Ernie Grunfeld <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -7\" data-vorp-text=\"-7.2\">-7.2</span> with 11th pick but was worth 20th pick.</li>\n\
-  <li>Drafted Tyrone Hill <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -3\" data-vorp-text=\"-3.7\">-3.7</span> with 11th pick but was worth 17th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Kent Benson <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -75046\" data-vorp-text=\"-75046.4\">-75046</span> with 1th pick but was worth 12th\
-  \ pick.</li>\n<li>Drafted Tyrone Hill <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-42537\" data-vorp-text=\"-42537.2\">-42537</span> with 11th pick\
-  \ but was worth 51th pick.</li>\n<li>Drafted Pat Cummings <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-36290\" data-vorp-text=\"-36290.0\">-36290</span>\
-  \ with 59th pick but was worth 61th pick.</li>\n</ul>\n    "
+  <li>Drafted Kent Benson with 1th pick but was worth 15th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-28\" data-vorp-text=\"-28.2\">-28.2</span>\
+  \ (expectation difference)</li>\n<li>Drafted Ernie Grunfeld with 11th pick but was\
+  \ worth 20th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -7\" data-vorp-text=\"-7.2\">-7.2</span> (expectation difference)</li>\n<li>Drafted\
+  \ Tyrone Hill with 11th pick but was worth 17th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-3\" data-vorp-text=\"-3.7\">-3.7</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Kent Benson with 1th pick but was worth 12th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-75046\" data-vorp-text=\"\
+  -75046.4\">-75046</span> (expectation difference)</li>\n<li>Drafted Tyrone Hill\
+  \ with 11th pick but was worth 51th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-42537\" data-vorp-text=\"-42537.2\">-42537</span> (expectation\
+  \ difference)</li>\n<li>Drafted Pat Cummings with 59th pick but was worth 61th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-36290\" data-vorp-text=\"\
+  -36290.0\">-36290</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Don Nelson ranks in the 65th percentile for drafting among executives
   in our database. That's basically average. It could worse though lol.
 draft_num_players: 30
+draft_overall_grade_bpm: B
+draft_overall_grade_vorp: A-
 draft_overall_percentile_vorp: 81
 draft_rating_bpm: -9
 draft_rating_grade_bpm: C-
@@ -32,21 +36,22 @@ draft_total_percentile_bpm: 98
 draft_total_percentile_vorp: 98
 draft_total_vorp: 142
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Tim Hardaway <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +34\" data-vorp-text=\"+34.7\">+34.7</span> with 14th pick but was worth 1th pick.\
-  \ </li>\n<li>Drafted Paul Pressey <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+21\" data-vorp-text=\"+21.3\">+21.3</span> with 20th pick but\
-  \ was worth 4th pick. </li>\n<li>Drafted Latrell Sprewell <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+20\" data-vorp-text=\"+20.4\">+20.4</span> with\
-  \ 24th pick but was worth 4th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Tim Hardaway <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+94940\" data-vorp-text=\"+94940.6\"\
-  >+94940</span> with 14th pick but was worth 1th pick. </li>\n<li>Drafted Sidney\
-  \ Moncrief <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+63073\"\
-  \ data-vorp-text=\"+63073.4\">+63073</span> with 5th pick but was worth 2th pick.\
-  \ </li>\n<li>Drafted Paul Pressey <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+51113\" data-vorp-text=\"+51113.4\">+51113</span> with 20th pick\
-  \ but was worth 4th pick. </li>\n</ul>\n    "
+  <li>Drafted Tim Hardaway with 14th pick but was worth 1th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+34\" data-vorp-text=\"+34.7\">+34.7</span>\
+  \ (expectation difference)</li>\n<li>Drafted Paul Pressey with 20th pick but was\
+  \ worth 4th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +21\" data-vorp-text=\"+21.3\">+21.3</span> (expectation difference)</li>\n<li>Drafted\
+  \ Latrell Sprewell with 24th pick but was worth 4th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+20\" data-vorp-text=\"+20.4\">+20.4</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Tim Hardaway with 14th pick but was worth 1th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+94940\" data-vorp-text=\"\
+  +94940.6\">+94940</span> (expectation difference)</li>\n<li>Drafted Sidney Moncrief\
+  \ with 5th pick but was worth 2th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+63073\" data-vorp-text=\"+63073.4\">+63073</span> (expectation\
+  \ difference)</li>\n<li>Drafted Paul Pressey with 20th pick but was worth 4th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+51113\" data-vorp-text=\"\
+  +51113.4\">+51113</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 2005
 final_bpm: 142877
 final_vorp: 131
@@ -69,6 +74,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-10940\" data-vorp-text=\"-10940.3\"\
   >-10940</span> in 1989.</li>\n</ul>\n    "
 signing_num_players: 155
+signing_overall_grade_bpm: D-
+signing_overall_grade_vorp: C+
 signing_overall_percentile_bpm: 23
 signing_overall_percentile_vorp: 53
 signing_rating_bpm: 0
@@ -120,6 +127,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-152331\" data-vorp-text=\"\
   -57.0\">-152331</span> to SEA.</li>\n</ul>\n    "
 trade_num: 258
+trade_overall_grade_bpm: B-
+trade_overall_grade_vorp: D
 trade_overall_percentile_bpm: 60
 trade_overall_percentile_vorp: 31
 trade_rating_bpm: 0

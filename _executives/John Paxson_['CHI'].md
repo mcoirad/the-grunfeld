@@ -1,24 +1,28 @@
 ---
 bpm_rank: 46
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Derrick Rose <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -40\" data-vorp-text=\"-40.2\">-40.2</span> with 1th pick but was worth 8th pick.</li>\n\
-  <li>Drafted Ben Gordon <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -18\" data-vorp-text=\"-18.5\">-18.5</span> with 3th pick but was worth 14th pick.</li>\n\
-  <li>Drafted Kirk Hinrich <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -2\" data-vorp-text=\"-2.2\">-2.2</span> with 7th pick but was worth 8th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Derrick Rose <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -121758\" data-vorp-text=\"-121758.0\">-121758</span> with 1th pick but was worth\
-  \ 8th pick.</li>\n<li>Drafted Ben Gordon <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-55409\" data-vorp-text=\"-55409.8\">-55409</span> with 3th pick\
-  \ but was worth 47th pick.</li>\n<li>Drafted Chris Duhon <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-15850\" data-vorp-text=\"-15850.4\">-15850</span>\
-  \ with 38th pick but was worth 56th pick.</li>\n</ul>\n    "
+  <li>Drafted Derrick Rose with 1th pick but was worth 8th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-40\" data-vorp-text=\"-40.2\">-40.2</span>\
+  \ (expectation difference)</li>\n<li>Drafted Ben Gordon with 3th pick but was worth\
+  \ 14th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-18\"\
+  \ data-vorp-text=\"-18.5\">-18.5</span> (expectation difference)</li>\n<li>Drafted\
+  \ Kirk Hinrich with 7th pick but was worth 8th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-2\" data-vorp-text=\"-2.2\">-2.2</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Derrick Rose with 1th pick but was worth 8th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-121758\" data-vorp-text=\"\
+  -121758.0\">-121758</span> (expectation difference)</li>\n<li>Drafted Ben Gordon\
+  \ with 3th pick but was worth 47th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-55409\" data-vorp-text=\"-55409.8\">-55409</span> (expectation\
+  \ difference)</li>\n<li>Drafted Chris Duhon with 38th pick but was worth 56th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-15850\" data-vorp-text=\"\
+  -15850.4\">-15850</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: John Paxson ranks in the 58th percentile for drafting among executives
   in our database. Paxson's draft picks average out to be worth the equivalent of
   1 spot lower than they were picked due to their terrible drafting.
 draft_num_players: 6
+draft_overall_grade_bpm: B-
+draft_overall_grade_vorp: B
 draft_overall_percentile_vorp: 72
 draft_rating_bpm: -12
 draft_rating_grade_bpm: D+
@@ -33,16 +37,18 @@ draft_total_percentile_bpm: 85
 draft_total_percentile_vorp: 85
 draft_total_vorp: 60
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Joakim Noah <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +15\" data-vorp-text=\"+15.3\">+15.3</span> with 9th pick but was worth 5th pick.\
-  \ </li>\n<li>Drafted Chris Duhon <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+3\" data-vorp-text=\"+3.2\">+3.2</span> with 38th pick but was\
-  \ worth 21th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
-  \ id=bpm-toggle>\n<li>Drafted Joakim Noah <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+39121\" data-vorp-text=\"+39121.8\">+39121</span> with 9th pick\
-  \ but was worth 5th pick. </li>\n<li>Drafted Aaron Gray <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+2317\" data-vorp-text=\"+2317.5\">+2317</span>\
-  \ with 49th pick but was worth 46th pick. </li>\n</ul>\n    "
+  <li>Drafted Joakim Noah with 9th pick but was worth 5th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+15\" data-vorp-text=\"+15.3\">+15.3</span>\
+  \ (expectation difference)</li>\n<li>Drafted Chris Duhon with 38th pick but was\
+  \ worth 21th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +3\" data-vorp-text=\"+3.2\">+3.2</span> (expectation difference)</li>\n</ul>\n\
+  \    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted\
+  \ Joakim Noah with 9th pick but was worth 5th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+39121\" data-vorp-text=\"+39121.8\">+39121</span>\
+  \ (expectation difference)</li>\n<li>Drafted Aaron Gray with 49th pick but was worth\
+  \ 46th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+2317\"\
+  \ data-vorp-text=\"+2317.5\">+2317</span> (expectation difference)</li>\n</ul>\n\
+  \    "
 end_year: 2009
 final_bpm: 20001
 final_vorp: 40
@@ -65,6 +71,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-3950\" data-vorp-text=\"-3950.8\">-3950</span>\
   \ in 2003.</li>\n</ul>\n    "
 signing_num_players: 34
+signing_overall_grade_bpm: D-
+signing_overall_grade_vorp: D+
 signing_overall_percentile_bpm: 24
 signing_overall_percentile_vorp: 39
 signing_rating_bpm: -1
@@ -114,6 +122,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   badge badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span>\
   \ to POR.</li>\n</ul>\n    "
 trade_num: 74
+trade_overall_grade_bpm: F
+trade_overall_grade_vorp: D-
 trade_overall_percentile_bpm: 19
 trade_overall_percentile_vorp: 24
 trade_rating_bpm: 0

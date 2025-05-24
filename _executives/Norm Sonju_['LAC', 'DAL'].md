@@ -1,24 +1,28 @@
 ---
 bpm_rank: 164
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Sam Perkins <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -45\" data-vorp-text=\"-45.1\">-45.1</span> with 4th pick but was worth 5th pick.</li>\n\
-  <li>Drafted Randy White <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -22\" data-vorp-text=\"-22.1\">-22.1</span> with 8th pick but was worth 52th pick.</li>\n\
-  <li>Drafted Bill Garnett <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -21\" data-vorp-text=\"-21.2\">-21.2</span> with 4th pick but was worth 19th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Sam Perkins <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -159503\" data-vorp-text=\"-159503.6\">-159503</span> with 4th pick but was worth\
-  \ 6th pick.</li>\n<li>Drafted Mark Aguirre <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-68914\" data-vorp-text=\"-68914.2\">-68914</span> with 1th pick\
-  \ but was worth 3th pick.</li>\n<li>Drafted Bill Garnett <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-55321\" data-vorp-text=\"-55321.4\">-55321</span>\
-  \ with 4th pick but was worth 61th pick.</li>\n</ul>\n    "
+  <li>Drafted Sam Perkins with 4th pick but was worth 5th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-45\" data-vorp-text=\"-45.1\">-45.1</span>\
+  \ (expectation difference)</li>\n<li>Drafted Randy White with 8th pick but was worth\
+  \ 52th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-22\"\
+  \ data-vorp-text=\"-22.1\">-22.1</span> (expectation difference)</li>\n<li>Drafted\
+  \ Bill Garnett with 4th pick but was worth 19th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-21\" data-vorp-text=\"-21.2\">-21.2</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Sam Perkins with 4th pick but was worth 6th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-159503\" data-vorp-text=\"\
+  -159503.6\">-159503</span> (expectation difference)</li>\n<li>Drafted Mark Aguirre\
+  \ with 1th pick but was worth 3th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-68914\" data-vorp-text=\"-68914.2\">-68914</span> (expectation\
+  \ difference)</li>\n<li>Drafted Bill Garnett with 4th pick but was worth 61th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-55321\" data-vorp-text=\"\
+  -55321.4\">-55321</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Norm Sonju ranks in the 38th percentile for drafting among executives
   in our database. Sonju's draft picks average out to be worth the equivalent of 6
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 36
+draft_overall_grade_bpm: B-
+draft_overall_grade_vorp: B-
 draft_overall_percentile_vorp: 66
 draft_rating_bpm: -14
 draft_rating_grade_bpm: D
@@ -33,21 +37,23 @@ draft_total_percentile_bpm: 93
 draft_total_percentile_vorp: 93
 draft_total_vorp: 101
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Jason Kidd <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +29\" data-vorp-text=\"+29.9\">+29.9</span> with 2th pick but was worth 1th pick.\
-  \ </li>\n<li>Drafted Derek Harper <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+28\" data-vorp-text=\"+28.8\">+28.8</span> with 11th pick but\
-  \ was worth 2th pick. </li>\n<li>Drafted Detlef Schrempf <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+12\" data-vorp-text=\"+12.5\">+12.5</span> with\
-  \ 8th pick but was worth 5th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Jason Kidd <span class=\"badge\
-  \ badge-pill badge-success\" data-bpm-text=\"+86093\" data-vorp-text=\"+86093.8\"\
-  >+86093</span> with 2th pick but was worth 1th pick. </li>\n<li>Drafted Derek Harper\
-  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+68014\" data-vorp-text=\"\
-  +68014.8\">+68014</span> with 11th pick but was worth 3th pick. </li>\n<li>Drafted\
-  \ Detlef Schrempf <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +32363\" data-vorp-text=\"+32363.4\">+32363</span> with 8th pick but was worth 5th\
-  \ pick. </li>\n</ul>\n    "
+  <li>Drafted Jason Kidd with 2th pick but was worth 1th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+29\" data-vorp-text=\"+29.9\">+29.9</span>\
+  \ (expectation difference)</li>\n<li>Drafted Derek Harper with 11th pick but was\
+  \ worth 2th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +28\" data-vorp-text=\"+28.8\">+28.8</span> (expectation difference)</li>\n<li>Drafted\
+  \ Detlef Schrempf with 8th pick but was worth 5th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+12\" data-vorp-text=\"+12.5\">+12.5</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Jason Kidd with 2th pick but was worth 1th pick. <span\
+  \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+86093\" data-vorp-text=\"\
+  +86093.8\">+86093</span> (expectation difference)</li>\n<li>Drafted Derek Harper\
+  \ with 11th pick but was worth 3th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+68014\" data-vorp-text=\"+68014.8\">+68014</span> (expectation\
+  \ difference)</li>\n<li>Drafted Detlef Schrempf with 8th pick but was worth 5th\
+  \ pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+32363\"\
+  \ data-vorp-text=\"+32363.4\">+32363</span> (expectation difference)</li>\n</ul>\n\
+  \    "
 end_year: 1996
 final_bpm: -325728
 final_vorp: -39
@@ -70,6 +76,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   badge badge-pill badge-danger\" data-bpm-text=\"-11164\" data-vorp-text=\"-11164.1\"\
   >-11164</span> in 1994.</li>\n</ul>\n    "
 signing_num_players: 77
+signing_overall_grade_bpm: C-
+signing_overall_grade_vorp: C-
 signing_overall_percentile_bpm: 42
 signing_overall_percentile_vorp: 44
 signing_rating_bpm: 0
@@ -121,6 +129,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ data-bpm-text=\"-79180\" data-vorp-text=\"-29.1\">-79180</span> to CLE.</li>\n\
   </ul>\n    "
 trade_num: 123
+trade_overall_grade_bpm: D+
+trade_overall_grade_vorp: D
 trade_overall_percentile_bpm: 38
 trade_overall_percentile_vorp: 30
 trade_rating_bpm: 0

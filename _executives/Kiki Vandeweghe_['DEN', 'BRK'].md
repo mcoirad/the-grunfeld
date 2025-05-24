@@ -1,25 +1,29 @@
 ---
 bpm_rank: 81
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Nikoloz Tskitishvili <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -20\" data-vorp-text=\"-20.0\">-20.0</span> with 5th pick but was worth 56th pick.</li>\n\
-  <li>Drafted Terrence Williams <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -13\" data-vorp-text=\"-13.7\">-13.7</span> with 11th pick but was worth 53th pick.</li>\n\
-  <li>Drafted Chris Douglas-Roberts <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"0\" data-vorp-text=\"-0.2\">-0.2</span> with 40th pick but was\
-  \ worth 47th pick.</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
-  \ id=bpm-toggle>\n<li>Drafted Nikoloz Tskitishvili <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-21343\" data-vorp-text=\"-21343.4\">-21343</span>\
-  \ with 5th pick but was worth 43th pick.</li>\n<li>Drafted Terrence Williams <span\
-  \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-20563\" data-vorp-text=\"\
-  -20563.9\">-20563</span> with 11th pick but was worth 45th pick.</li>\n<li>Drafted\
-  \ Carmelo Anthony <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -4110\" data-vorp-text=\"-4110.2\">-4110</span> with 3th pick but was worth 4th\
-  \ pick.</li>\n</ul>\n    "
+  <li>Drafted Nikoloz Tskitishvili with 5th pick but was worth 56th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-20\" data-vorp-text=\"-20.0\">-20.0</span>\
+  \ (expectation difference)</li>\n<li>Drafted Terrence Williams with 11th pick but\
+  \ was worth 53th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -13\" data-vorp-text=\"-13.7\">-13.7</span> (expectation difference)</li>\n<li>Drafted\
+  \ Chris Douglas-Roberts with 40th pick but was worth 47th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.2\">-0.2</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ busts: </h5><ul id=bpm-toggle>\n<li>Drafted Nikoloz Tskitishvili with 5th pick\
+  \ but was worth 43th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -21343\" data-vorp-text=\"-21343.4\">-21343</span> (expectation difference)</li>\n\
+  <li>Drafted Terrence Williams with 11th pick but was worth 45th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-20563\" data-vorp-text=\"-20563.9\"\
+  >-20563</span> (expectation difference)</li>\n<li>Drafted Carmelo Anthony with 3th\
+  \ pick but was worth 4th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -4110\" data-vorp-text=\"-4110.2\">-4110</span> (expectation difference)</li>\n\
+  </ul>\n    "
 draft_description: Kiki Vandeweghe ranks in the 24th percentile for drafting among
   executives in our database. Vandeweghe's draft picks average out to be worth the
   equivalent of 10 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 9
+draft_overall_grade_bpm: C+
+draft_overall_grade_vorp: C-
 draft_overall_percentile_vorp: 47
 draft_rating_bpm: -7
 draft_rating_grade_bpm: C
@@ -34,21 +38,22 @@ draft_total_percentile_bpm: 68
 draft_total_percentile_vorp: 68
 draft_total_vorp: 29
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Brook Lopez <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +12\" data-vorp-text=\"+12.1\">+12.1</span> with 10th pick but was worth 4th pick.\
-  \ </li>\n<li>Drafted Ryan Anderson <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+10\" data-vorp-text=\"+10.8\">+10.8</span> with 21th pick but\
-  \ was worth 11th pick. </li>\n<li>Drafted Jameer Nelson <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+7\" data-vorp-text=\"+7.3\">+7.3</span> with\
-  \ 20th pick but was worth 10th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Brook Lopez <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+30777\" data-vorp-text=\"+30777.1\"\
-  >+30777</span> with 10th pick but was worth 4th pick. </li>\n<li>Drafted Ryan Anderson\
-  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+16769\" data-vorp-text=\"\
-  +16769.0\">+16769</span> with 21th pick but was worth 9th pick. </li>\n<li>Drafted\
-  \ Vincent Yarbrough <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +2247\" data-vorp-text=\"+2247.6\">+2247</span> with 33th pick but was worth 25th\
-  \ pick. </li>\n</ul>\n    "
+  <li>Drafted Brook Lopez with 10th pick but was worth 4th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+12\" data-vorp-text=\"+12.1\">+12.1</span>\
+  \ (expectation difference)</li>\n<li>Drafted Ryan Anderson with 21th pick but was\
+  \ worth 11th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +10\" data-vorp-text=\"+10.8\">+10.8</span> (expectation difference)</li>\n<li>Drafted\
+  \ Jameer Nelson with 20th pick but was worth 10th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+7\" data-vorp-text=\"+7.3\">+7.3</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Brook Lopez with 10th pick but was worth 4th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+30777\" data-vorp-text=\"\
+  +30777.1\">+30777</span> (expectation difference)</li>\n<li>Drafted Ryan Anderson\
+  \ with 21th pick but was worth 9th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+16769\" data-vorp-text=\"+16769.0\">+16769</span> (expectation\
+  \ difference)</li>\n<li>Drafted Vincent Yarbrough with 33th pick but was worth 25th\
+  \ pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+2247\" data-vorp-text=\"\
+  +2247.6\">+2247</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 2010
 final_bpm: -14237
 final_vorp: 58
@@ -71,6 +76,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   badge badge-pill badge-danger\" data-bpm-text=\"-4409\" data-vorp-text=\"-4409.6\"\
   >-4409</span> in 2001.</li>\n</ul>\n    "
 signing_num_players: 33
+signing_overall_grade_bpm: C+
+signing_overall_grade_vorp: C
 signing_overall_percentile_bpm: 58
 signing_overall_percentile_vorp: 52
 signing_rating_bpm: 0
@@ -124,6 +131,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ Vince Carter <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-5815\"\
   \ data-vorp-text=\"-2.9\">-5815</span> to ORL.</li>\n</ul>\n    "
 trade_num: 76
+trade_overall_grade_bpm: F
+trade_overall_grade_vorp: C-
 trade_overall_percentile_bpm: 19
 trade_overall_percentile_vorp: 42
 trade_rating_bpm: -1

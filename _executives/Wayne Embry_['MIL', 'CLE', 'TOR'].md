@@ -1,24 +1,28 @@
 ---
 bpm_rank: 158
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Vitaly Potapenko <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -16\" data-vorp-text=\"-16.1\">-16.1</span> with 12th pick but was worth 58th pick.</li>\n\
-  <li>Drafted Chris Dudley <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -4\" data-vorp-text=\"-4.2\">-4.2</span> with 75th pick but was worth 61th pick.</li>\n\
-  <li>Drafted Gary Brokaw <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -3\" data-vorp-text=\"-4.0\">-4.0</span> with 18th pick but was worth 34th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Vitaly Potapenko <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -50258\" data-vorp-text=\"-50258.5\">-50258</span> with 12th pick but was worth\
-  \ 56th pick.</li>\n<li>Drafted Chris Dudley <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-48963\" data-vorp-text=\"-48963.0\">-48963</span> with 75th pick\
-  \ but was worth 61th pick.</li>\n<li>Drafted Scott Lloyd <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-24243\" data-vorp-text=\"-24243.4\">-24243</span>\
-  \ with 24th pick but was worth 61th pick.</li>\n</ul>\n    "
+  <li>Drafted Vitaly Potapenko with 12th pick but was worth 58th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-16\" data-vorp-text=\"-16.1\">-16.1</span>\
+  \ (expectation difference)</li>\n<li>Drafted Chris Dudley with 75th pick but was\
+  \ worth 61th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -4\" data-vorp-text=\"-4.2\">-4.2</span> (expectation difference)</li>\n<li>Drafted\
+  \ Gary Brokaw with 18th pick but was worth 34th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-3\" data-vorp-text=\"-4.0\">-4.0</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Vitaly Potapenko with 12th pick but was worth 56th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-50258\" data-vorp-text=\"\
+  -50258.5\">-50258</span> (expectation difference)</li>\n<li>Drafted Chris Dudley\
+  \ with 75th pick but was worth 61th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-48963\" data-vorp-text=\"-48963.0\">-48963</span> (expectation\
+  \ difference)</li>\n<li>Drafted Scott Lloyd with 24th pick but was worth 61th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-24243\" data-vorp-text=\"\
+  -24243.4\">-24243</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Wayne Embry ranks in the 50th percentile for drafting among executives
   in our database. Embry's draft picks average out to be worth the equivalent of 3
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 28
+draft_overall_grade_bpm: B-
+draft_overall_grade_vorp: B-
 draft_overall_percentile_vorp: 66
 draft_rating_bpm: -7
 draft_rating_grade_bpm: C
@@ -33,21 +37,23 @@ draft_total_percentile_bpm: 81
 draft_total_percentile_vorp: 81
 draft_total_vorp: 45
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Terrell Brandon <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +22\" data-vorp-text=\"+22.5\">+22.5</span> with 11th pick but was worth 2th pick.\
-  \ </li>\n<li>Drafted Zydrunas Ilgauskas <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+9\" data-vorp-text=\"+9.9\">+9.9</span> with 20th pick but was\
-  \ worth 12th pick. </li>\n<li>Drafted Bob Sura <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+8\" data-vorp-text=\"+8.7\">+8.7</span> with 17th pick but was\
-  \ worth 9th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
-  \ id=bpm-toggle>\n<li>Drafted Terrell Brandon <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+77562\" data-vorp-text=\"+77562.0\">+77562</span> with 11th pick\
-  \ but was worth 1th pick. </li>\n<li>Drafted Derek Anderson <span class=\"badge\
-  \ badge-pill badge-success\" data-bpm-text=\"+17975\" data-vorp-text=\"+17975.0\"\
-  >+17975</span> with 13th pick but was worth 4th pick. </li>\n<li>Drafted Ryan Stack\
-  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+13524\" data-vorp-text=\"\
-  +13524.8\">+13524</span> with 48th pick but was worth 28th pick. </li>\n</ul>\n\
-  \    "
+  <li>Drafted Terrell Brandon with 11th pick but was worth 2th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+22\" data-vorp-text=\"+22.5\"\
+  >+22.5</span> (expectation difference)</li>\n<li>Drafted Zydrunas Ilgauskas with\
+  \ 20th pick but was worth 12th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+9\" data-vorp-text=\"+9.9\">+9.9</span> (expectation difference)</li>\n\
+  <li>Drafted Bob Sura with 17th pick but was worth 9th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+8\" data-vorp-text=\"+8.7\">+8.7</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ wins: </h5><ul id=bpm-toggle>\n<li>Drafted Terrell Brandon with 11th pick but\
+  \ was worth 1th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +77562\" data-vorp-text=\"+77562.0\">+77562</span> (expectation difference)</li>\n\
+  <li>Drafted Derek Anderson with 13th pick but was worth 4th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+17975\" data-vorp-text=\"+17975.0\"\
+  >+17975</span> (expectation difference)</li>\n<li>Drafted Ryan Stack with 48th pick\
+  \ but was worth 28th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +13524\" data-vorp-text=\"+13524.8\">+13524</span> (expectation difference)</li>\n\
+  </ul>\n    "
 end_year: 2006
 final_bpm: -214966
 final_vorp: 17
@@ -70,6 +76,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-5629\" data-vorp-text=\"-5629.0\">-5629</span>\
   \ in 1991.</li>\n</ul>\n    "
 signing_num_players: 66
+signing_overall_grade_bpm: D-
+signing_overall_grade_vorp: C-
 signing_overall_percentile_bpm: 21
 signing_overall_percentile_vorp: 43
 signing_rating_bpm: -1
@@ -133,6 +141,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-89200\" data-vorp-text=\"\
   -36.9\">-89200</span> to PHI.</li>\n</ul>\n    "
 trade_num: 117
+trade_overall_grade_bpm: F
+trade_overall_grade_vorp: C
 trade_overall_percentile_bpm: 19
 trade_overall_percentile_vorp: 50
 trade_rating_bpm: 0

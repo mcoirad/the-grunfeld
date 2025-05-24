@@ -1,24 +1,29 @@
 ---
 bpm_rank: 63
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Darko Miličić <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -63\" data-vorp-text=\"-63.7\">-63.7</span> with 2th pick but was worth 53th pick.</li>\n\
-  <li>Drafted Brandon Knight <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -15\" data-vorp-text=\"-15.9\">-15.9</span> with 8th pick but was worth 22th pick.</li>\n\
-  <li>Drafted Austin Daye <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -8\" data-vorp-text=\"-8.5\">-8.5</span> with 15th pick but was worth 39th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Darko Miličić <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -199596\" data-vorp-text=\"-199596.2\">-199596</span> with 2th pick but was worth\
-  \ 47th pick.</li>\n<li>Drafted Brandon Knight <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-44681\" data-vorp-text=\"-44681.2\">-44681</span> with 8th pick\
-  \ but was worth 55th pick.</li>\n<li>Drafted Kentavious Caldwell-Pope <span class=\"\
-  badge badge-pill badge-danger\" data-bpm-text=\"-34201\" data-vorp-text=\"-34201.4\"\
-  >-34201</span> with 8th pick but was worth 56th pick.</li>\n</ul>\n    "
+  <li>Drafted Darko Miličić with 2th pick but was worth 53th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-63\" data-vorp-text=\"-63.7\">-63.7</span>\
+  \ (expectation difference)</li>\n<li>Drafted Brandon Knight with 8th pick but was\
+  \ worth 22th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -15\" data-vorp-text=\"-15.9\">-15.9</span> (expectation difference)</li>\n<li>Drafted\
+  \ Austin Daye with 15th pick but was worth 39th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-8\" data-vorp-text=\"-8.5\">-8.5</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Darko Miličić with 2th pick but was worth 47th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-199596\" data-vorp-text=\"\
+  -199596.2\">-199596</span> (expectation difference)</li>\n<li>Drafted Brandon Knight\
+  \ with 8th pick but was worth 55th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-44681\" data-vorp-text=\"-44681.2\">-44681</span> (expectation\
+  \ difference)</li>\n<li>Drafted Kentavious Caldwell-Pope with 8th pick but was worth\
+  \ 56th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-34201\"\
+  \ data-vorp-text=\"-34201.4\">-34201</span> (expectation difference)</li>\n</ul>\n\
+  \    "
 draft_description: Joe Dumars ranks in the 74th percentile for drafting among executives
   in our database. Dumars's draft picks average out to be worth the equivalent of
   2 spots higher than they were picked due to his good drafting.
 draft_num_players: 26
+draft_overall_grade_bpm: A-
+draft_overall_grade_vorp: B+
 draft_overall_percentile_vorp: 78
 draft_rating_bpm: 0
 draft_rating_grade_bpm: B+
@@ -33,21 +38,22 @@ draft_total_percentile_bpm: 82
 draft_total_percentile_vorp: 82
 draft_total_vorp: 50
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Tayshaun Prince <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +18\" data-vorp-text=\"+18.0\">+18.0</span> with 23th pick but was worth 5th pick.\
-  \ </li>\n<li>Drafted Mehmet Okur <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+14\" data-vorp-text=\"+14.7\">+14.7</span> with 38th pick but\
-  \ was worth 11th pick. </li>\n<li>Drafted Andre Drummond <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+10\" data-vorp-text=\"+10.6\">+10.6</span> with\
-  \ 9th pick but was worth 5th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Mehmet Okur <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+24626\" data-vorp-text=\"+24626.1\"\
-  >+24626</span> with 38th pick but was worth 7th pick. </li>\n<li>Drafted Peyton\
-  \ Siva <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+22898\" data-vorp-text=\"\
-  +22898.8\">+22898</span> with 56th pick but was worth 30th pick. </li>\n<li>Drafted\
-  \ Andre Drummond <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +21439\" data-vorp-text=\"+21439.0\">+21439</span> with 9th pick but was worth 5th\
-  \ pick. </li>\n</ul>\n    "
+  <li>Drafted Tayshaun Prince with 23th pick but was worth 5th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+18\" data-vorp-text=\"+18.0\"\
+  >+18.0</span> (expectation difference)</li>\n<li>Drafted Mehmet Okur with 38th pick\
+  \ but was worth 11th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +14\" data-vorp-text=\"+14.7\">+14.7</span> (expectation difference)</li>\n<li>Drafted\
+  \ Andre Drummond with 9th pick but was worth 5th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+10\" data-vorp-text=\"+10.6\">+10.6</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Mehmet Okur with 38th pick but was worth 7th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+24626\" data-vorp-text=\"\
+  +24626.1\">+24626</span> (expectation difference)</li>\n<li>Drafted Peyton Siva\
+  \ with 56th pick but was worth 30th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+22898\" data-vorp-text=\"+22898.8\">+22898</span> (expectation\
+  \ difference)</li>\n<li>Drafted Andre Drummond with 9th pick but was worth 5th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+21439\" data-vorp-text=\"\
+  +21439.0\">+21439</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 2014
 final_bpm: -90
 final_vorp: 84
@@ -70,6 +76,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ Brown <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-6193\" data-vorp-text=\"\
   -6193.5\">-6193</span> in 2008.</li>\n</ul>\n    "
 signing_num_players: 54
+signing_overall_grade_bpm: C+
+signing_overall_grade_vorp: A-
 signing_overall_percentile_bpm: 53
 signing_overall_percentile_vorp: 84
 signing_rating_bpm: -1
@@ -123,6 +131,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   badge badge-pill badge-success\" data-bpm-text=\"+290\" data-vorp-text=\"+0.1\"\
   >+290</span> to DEN.</li>\n</ul>\n    "
 trade_num: 106
+trade_overall_grade_bpm: B
+trade_overall_grade_vorp: C+
 trade_overall_percentile_bpm: 69
 trade_overall_percentile_vorp: 53
 trade_rating_bpm: 0

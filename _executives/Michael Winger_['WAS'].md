@@ -4,6 +4,8 @@ draft_bust_list: "\n    \n    \n    "
 draft_description: This executive has only drafted 2 players and thus doesn't have
   a draft grade.
 draft_num_players: 2
+draft_overall_grade_bpm: null
+draft_overall_grade_vorp: null
 draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
@@ -18,12 +20,13 @@ draft_total_percentile_bpm: 15
 draft_total_percentile_vorp: 15
 draft_total_vorp: -1
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Tristan Vukcevic <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +0\" data-vorp-text=\"+0.5\">+0.5</span> with 42th pick but was worth 16th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Tristan Vukcevic <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +4261\" data-vorp-text=\"+4261.8\">+4261</span> with 42th pick but was worth 18th\
-  \ pick. </li>\n</ul>\n    "
+  <li>Drafted Tristan Vukcevic with 42th pick but was worth 16th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.5\">+0.5</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ wins: </h5><ul id=bpm-toggle>\n<li>Drafted Tristan Vukcevic with 42th pick but\
+  \ was worth 18th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +4261\" data-vorp-text=\"+4261.8\">+4261</span> (expectation difference)</li>\n\
+  </ul>\n    "
 end_year: 2026
 final_bpm: -80237
 final_vorp: -5
@@ -46,6 +49,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ George <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-7228\" data-vorp-text=\"\
   -7228.3\">-7228</span> in 2024.</li>\n</ul>\n    "
 signing_num_players: 25
+signing_overall_grade_bpm: C-
+signing_overall_grade_vorp: F
 signing_overall_percentile_bpm: 45
 signing_overall_percentile_vorp: 15
 signing_rating_bpm: 0
@@ -102,6 +107,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-14459\" data-vorp-text=\"\
   -5.1\">-14459</span> to BOS.</li>\n</ul>\n    "
 trade_num: 59
+trade_overall_grade_bpm: F
+trade_overall_grade_vorp: C-
 trade_overall_percentile_bpm: 19
 trade_overall_percentile_vorp: 41
 trade_rating_bpm: 0

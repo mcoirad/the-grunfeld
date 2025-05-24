@@ -1,24 +1,28 @@
 ---
 bpm_rank: 55
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Earl Clark <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -10\" data-vorp-text=\"-10.1\">-10.1</span> with 14th pick but was worth 56th pick.</li>\n\
-  <li>Drafted Robin Lopez <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -2\" data-vorp-text=\"-2.7\">-2.7</span> with 15th pick but was worth 18th pick.</li>\n\
-  <li>Drafted Alando Tucker <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.3\">-0.3</span> with 29th pick but was worth 46th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Robin Lopez <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -23030\" data-vorp-text=\"-23030.7\">-23030</span> with 15th pick but was worth\
-  \ 55th pick.</li>\n<li>Drafted Earl Clark <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-16388\" data-vorp-text=\"-16388.4\">-16388</span> with 14th pick\
-  \ but was worth 50th pick.</li>\n<li>Drafted Alando Tucker <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-1319\" data-vorp-text=\"-1319.6\">-1319</span>\
-  \ with 29th pick but was worth 35th pick.</li>\n</ul>\n    "
+  <li>Drafted Earl Clark with 14th pick but was worth 56th pick. <span class=\"badge\
+  \ badge-pill badge-danger\" data-bpm-text=\"-10\" data-vorp-text=\"-10.1\">-10.1</span>\
+  \ (expectation difference)</li>\n<li>Drafted Robin Lopez with 15th pick but was\
+  \ worth 18th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -2\" data-vorp-text=\"-2.7\">-2.7</span> (expectation difference)</li>\n<li>Drafted\
+  \ Alando Tucker with 29th pick but was worth 46th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.3\">-0.3</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Robin Lopez with 15th pick but was worth 55th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-23030\" data-vorp-text=\"\
+  -23030.7\">-23030</span> (expectation difference)</li>\n<li>Drafted Earl Clark with\
+  \ 14th pick but was worth 50th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-16388\" data-vorp-text=\"-16388.4\">-16388</span> (expectation\
+  \ difference)</li>\n<li>Drafted Alando Tucker with 29th pick but was worth 35th\
+  \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-1319\" data-vorp-text=\"\
+  -1319.6\">-1319</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Steve Kerr ranks in the 26th percentile for drafting among executives
   in our database. Kerr's draft picks average out to be worth the equivalent of 10
   spots lower than they were picked due to their terrible drafting.
 draft_num_players: 5
+draft_overall_grade_bpm: D
+draft_overall_grade_vorp: F
 draft_overall_percentile_vorp: 18
 draft_rating_bpm: -7
 draft_rating_grade_bpm: C+
@@ -33,12 +37,13 @@ draft_total_percentile_bpm: 9
 draft_total_percentile_vorp: 9
 draft_total_vorp: -1
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted D.J. Strawberry <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +3\" data-vorp-text=\"+3.0\">+3.0</span> with 59th pick but was worth 45th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted D.J. Strawberry <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +34609\" data-vorp-text=\"+34609.8\">+34609</span> with 59th pick but was worth\
-  \ 33th pick. </li>\n</ul>\n    "
+  <li>Drafted D.J. Strawberry with 59th pick but was worth 45th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+3\" data-vorp-text=\"+3.0\">+3.0</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ wins: </h5><ul id=bpm-toggle>\n<li>Drafted D.J. Strawberry with 59th pick but\
+  \ was worth 33th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +34609\" data-vorp-text=\"+34609.8\">+34609</span> (expectation difference)</li>\n\
+  </ul>\n    "
 end_year: 2010
 final_bpm: 6578
 final_vorp: 18
@@ -61,6 +66,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-1161\" data-vorp-text=\"\
   -1161.6\">-1161</span> in 2009.</li>\n</ul>\n    "
 signing_num_players: 14
+signing_overall_grade_bpm: B-
+signing_overall_grade_vorp: B
 signing_overall_percentile_bpm: 61
 signing_overall_percentile_vorp: 71
 signing_rating_bpm: 0
@@ -107,6 +114,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ badge-danger\" data-bpm-text=\"-1658\" data-vorp-text=\"-1.1\">-1658</span> to\
   \ POR.</li>\n</ul>\n    "
 trade_num: 28
+trade_overall_grade_bpm: B+
+trade_overall_grade_vorp: C
 trade_overall_percentile_bpm: 77
 trade_overall_percentile_vorp: 50
 trade_rating_bpm: 0

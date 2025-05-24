@@ -1,24 +1,28 @@
 ---
 bpm_rank: 119
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Rui Hachimura <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -5\" data-vorp-text=\"-5.1\">-5.1</span> with 9th pick but was worth 25th pick.</li>\n\
-  <li>Drafted Johnny Davis <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -3\" data-vorp-text=\"-3.1\">-3.1</span> with 10th pick but was worth 53th pick.</li>\n\
-  <li>Drafted Deni Avdija <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -1\" data-vorp-text=\"-1.9\">-1.9</span> with 9th pick but was worth 14th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Rui Hachimura <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -21563\" data-vorp-text=\"-21563.4\">-21563</span> with 9th pick but was worth 55th\
-  \ pick.</li>\n<li>Drafted Corey Kispert <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-17394\" data-vorp-text=\"-17394.9\">-17394</span> with 15th pick\
-  \ but was worth 59th pick.</li>\n<li>Drafted Deni Avdija <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-13134\" data-vorp-text=\"-13134.5\">-13134</span>\
-  \ with 9th pick but was worth 46th pick.</li>\n</ul>\n    "
+  <li>Drafted Rui Hachimura with 9th pick but was worth 25th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-5\" data-vorp-text=\"-5.1\">-5.1</span>\
+  \ (expectation difference)</li>\n<li>Drafted Johnny Davis with 10th pick but was\
+  \ worth 53th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  -3\" data-vorp-text=\"-3.1\">-3.1</span> (expectation difference)</li>\n<li>Drafted\
+  \ Deni Avdija with 9th pick but was worth 14th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"-1\" data-vorp-text=\"-1.9\">-1.9</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Rui Hachimura with 9th pick but was worth 55th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-21563\" data-vorp-text=\"\
+  -21563.4\">-21563</span> (expectation difference)</li>\n<li>Drafted Corey Kispert\
+  \ with 15th pick but was worth 59th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-17394\" data-vorp-text=\"-17394.9\">-17394</span> (expectation\
+  \ difference)</li>\n<li>Drafted Deni Avdija with 9th pick but was worth 46th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-13134\" data-vorp-text=\"\
+  -13134.5\">-13134</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Tommy Sheppard ranks in the 0th percentile for drafting among executives
   in our database. Sheppard's draft picks average out to be worth the equivalent of
   24 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 4
+draft_overall_grade_bpm: F-
+draft_overall_grade_vorp: F-
 draft_overall_percentile_vorp: 2
 draft_rating_bpm: -40
 draft_rating_grade_bpm: F-
@@ -57,6 +61,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-3978\" data-vorp-text=\"\
   -3978.8\">-3978</span> in 2021.</li>\n</ul>\n    "
 signing_num_players: 63
+signing_overall_grade_bpm: C-
+signing_overall_grade_vorp: C+
 signing_overall_percentile_bpm: 46
 signing_overall_percentile_vorp: 56
 signing_rating_bpm: 0
@@ -108,6 +114,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span>\
   \ to WAS.</li>\n</ul>\n    "
 trade_num: 57
+trade_overall_grade_bpm: B-
+trade_overall_grade_vorp: B
 trade_overall_percentile_bpm: 61
 trade_overall_percentile_vorp: 68
 trade_rating_bpm: 0

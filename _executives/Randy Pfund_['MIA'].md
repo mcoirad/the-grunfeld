@@ -1,24 +1,28 @@
 ---
 bpm_rank: 70
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Michael Beasley <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -35\" data-vorp-text=\"-35.4\">-35.4</span> with 2th pick but was worth 25th pick.</li>\n\
-  <li>Drafted Rodney Buford <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.8\">-0.8</span> with 53th pick but was worth 57th pick.</li>\n\
-  <li>Drafted Wayne Simien <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  0\" data-vorp-text=\"-0.7\">-0.7</span> with 29th pick but was worth 50th pick.</li>\n\
-  </ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Michael Beasley <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
-  -111651\" data-vorp-text=\"-111651.1\">-111651</span> with 2th pick but was worth\
-  \ 58th pick.</li>\n<li>Drafted Caron Butler <span class=\"badge badge-pill badge-danger\"\
-  \ data-bpm-text=\"-5666\" data-vorp-text=\"-5666.6\">-5666</span> with 10th pick\
-  \ but was worth 34th pick.</li>\n<li>Drafted Wayne Simien <span class=\"badge badge-pill\
-  \ badge-danger\" data-bpm-text=\"-990\" data-vorp-text=\"-990.6\">-990</span> with\
-  \ 29th pick but was worth 32th pick.</li>\n</ul>\n    "
+  <li>Drafted Michael Beasley with 2th pick but was worth 25th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-35\" data-vorp-text=\"-35.4\">-35.4</span>\
+  \ (expectation difference)</li>\n<li>Drafted Rodney Buford with 53th pick but was\
+  \ worth 57th pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
+  0\" data-vorp-text=\"-0.8\">-0.8</span> (expectation difference)</li>\n<li>Drafted\
+  \ Wayne Simien with 29th pick but was worth 50th pick. <span class=\"badge badge-pill\
+  \ badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.7\">-0.7</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Michael Beasley with 2th pick but was worth 58th pick.\
+  \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-111651\" data-vorp-text=\"\
+  -111651.1\">-111651</span> (expectation difference)</li>\n<li>Drafted Caron Butler\
+  \ with 10th pick but was worth 34th pick. <span class=\"badge badge-pill badge-danger\"\
+  \ data-bpm-text=\"-5666\" data-vorp-text=\"-5666.6\">-5666</span> (expectation difference)</li>\n\
+  <li>Drafted Wayne Simien with 29th pick but was worth 32th pick. <span class=\"\
+  badge badge-pill badge-danger\" data-bpm-text=\"-990\" data-vorp-text=\"-990.6\"\
+  >-990</span> (expectation difference)</li>\n</ul>\n    "
 draft_description: Randy Pfund ranks in the 84th percentile for drafting among executives
   in our database. Pfund's draft picks average out to be worth the equivalent of 4
   spots higher than they were picked due to his good drafting.
 draft_num_players: 13
+draft_overall_grade_bpm: A-
+draft_overall_grade_vorp: A-
 draft_overall_percentile_vorp: 86
 draft_rating_bpm: 1
 draft_rating_grade_bpm: A-
@@ -33,21 +37,22 @@ draft_total_percentile_bpm: 87
 draft_total_percentile_vorp: 87
 draft_total_vorp: 65
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Dwyane Wade <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +35\" data-vorp-text=\"+35.2\">+35.2</span> with 5th pick but was worth 2th pick.\
-  \ </li>\n<li>Drafted Eddie House <span class=\"badge badge-pill badge-success\"\
-  \ data-bpm-text=\"+6\" data-vorp-text=\"+6.4\">+6.4</span> with 37th pick but was\
-  \ worth 8th pick. </li>\n<li>Drafted Caron Butler <span class=\"badge badge-pill\
-  \ badge-success\" data-bpm-text=\"+6\" data-vorp-text=\"+6.2\">+6.2</span> with\
-  \ 10th pick but was worth 7th pick. </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their\
-  \ biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted Dwyane Wade <span class=\"\
-  badge badge-pill badge-success\" data-bpm-text=\"+129320\" data-vorp-text=\"+129320.2\"\
-  >+129320</span> with 5th pick but was worth 2th pick. </li>\n<li>Drafted Ken Johnson\
-  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+17223\" data-vorp-text=\"\
-  +17223.6\">+17223</span> with 49th pick but was worth 25th pick. </li>\n<li>Drafted\
-  \ Eddie House <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+8314\"\
-  \ data-vorp-text=\"+8314.0\">+8314</span> with 37th pick but was worth 9th pick.\
-  \ </li>\n</ul>\n    "
+  <li>Drafted Dwyane Wade with 5th pick but was worth 2th pick. <span class=\"badge\
+  \ badge-pill badge-success\" data-bpm-text=\"+35\" data-vorp-text=\"+35.2\">+35.2</span>\
+  \ (expectation difference)</li>\n<li>Drafted Eddie House with 37th pick but was\
+  \ worth 8th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +6\" data-vorp-text=\"+6.4\">+6.4</span> (expectation difference)</li>\n<li>Drafted\
+  \ Caron Butler with 10th pick but was worth 7th pick. <span class=\"badge badge-pill\
+  \ badge-success\" data-bpm-text=\"+6\" data-vorp-text=\"+6.2\">+6.2</span> (expectation\
+  \ difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul\
+  \ id=bpm-toggle>\n<li>Drafted Dwyane Wade with 5th pick but was worth 2th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+129320\" data-vorp-text=\"\
+  +129320.2\">+129320</span> (expectation difference)</li>\n<li>Drafted Ken Johnson\
+  \ with 49th pick but was worth 25th pick. <span class=\"badge badge-pill badge-success\"\
+  \ data-bpm-text=\"+17223\" data-vorp-text=\"+17223.6\">+17223</span> (expectation\
+  \ difference)</li>\n<li>Drafted Eddie House with 37th pick but was worth 9th pick.\
+  \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+8314\" data-vorp-text=\"\
+  +8314.0\">+8314</span> (expectation difference)</li>\n</ul>\n    "
 end_year: 2008
 final_bpm: -4425
 final_vorp: 86
@@ -70,6 +75,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ Allen <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-13113\" data-vorp-text=\"\
   -13113.9\">-13113</span> in 2001.</li>\n</ul>\n    "
 signing_num_players: 98
+signing_overall_grade_bpm: D
+signing_overall_grade_vorp: C
 signing_overall_percentile_bpm: 27
 signing_overall_percentile_vorp: 49
 signing_rating_bpm: 0
@@ -129,6 +136,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span>\
   \ to LAL.</li>\n</ul>\n    "
 trade_num: 87
+trade_overall_grade_bpm: C-
+trade_overall_grade_vorp: C+
 trade_overall_percentile_bpm: 45
 trade_overall_percentile_vorp: 59
 trade_rating_bpm: 0

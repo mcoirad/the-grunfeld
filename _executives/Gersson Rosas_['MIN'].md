@@ -4,6 +4,8 @@ draft_bust_list: "\n    \n    \n    "
 draft_description: This executive has only drafted 2 players and thus doesn't have
   a draft grade.
 draft_num_players: 2
+draft_overall_grade_bpm: null
+draft_overall_grade_vorp: null
 draft_overall_percentile_vorp: null
 draft_rating_bpm: null
 draft_rating_grade_bpm: null
@@ -18,12 +20,13 @@ draft_total_percentile_bpm: 56
 draft_total_percentile_vorp: 56
 draft_total_vorp: 12
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
-  <li>Drafted Jaylen Nowell <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +0\" data-vorp-text=\"+0.1\">+0.1</span> with 43th pick but was worth 35th pick.\
-  \ </li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n\
-  <li>Drafted Jaylen Nowell <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
-  +2140\" data-vorp-text=\"+2140.5\">+2140</span> with 43th pick but was worth 41th\
-  \ pick. </li>\n</ul>\n    "
+  <li>Drafted Jaylen Nowell with 43th pick but was worth 35th pick. <span class=\"\
+  badge badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.1\">+0.1</span>\
+  \ (expectation difference)</li>\n</ul>\n    <h5 id=\"bpm-toggle\">Their biggest\
+  \ wins: </h5><ul id=bpm-toggle>\n<li>Drafted Jaylen Nowell with 43th pick but was\
+  \ worth 41th pick. <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
+  +2140\" data-vorp-text=\"+2140.5\">+2140</span> (expectation difference)</li>\n\
+  </ul>\n    "
 end_year: 2021
 final_bpm: 450
 final_vorp: 18
@@ -46,6 +49,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-2610\" data-vorp-text=\"\
   -2610.0\">-2610</span> in 2020.</li>\n</ul>\n    "
 signing_num_players: 22
+signing_overall_grade_bpm: C-
+signing_overall_grade_vorp: B+
 signing_overall_percentile_bpm: 43
 signing_overall_percentile_vorp: 75
 signing_rating_bpm: 0
@@ -96,6 +101,8 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to GSW.</li>\n\
   </ul>\n    "
 trade_num: 48
+trade_overall_grade_bpm: D+
+trade_overall_grade_vorp: C-
 trade_overall_percentile_bpm: 38
 trade_overall_percentile_vorp: 41
 trade_rating_bpm: 0
