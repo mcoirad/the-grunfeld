@@ -1,5 +1,5 @@
 ---
-bpm_rank: 92
+bpm_rank: 93
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Kendall Marshall with 13th pick but was worth 53th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-5\" data-vorp-text=\"-5.4\">-5.4</span>\
@@ -58,7 +58,7 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
 signing_num_players: 18
 signing_overall_grade_bpm: D
 signing_overall_grade_vorp: C-
-signing_overall_percentile_bpm: 30
+signing_overall_percentile_bpm: 29
 signing_overall_percentile_vorp: 46
 signing_rating_bpm: -1
 signing_rating_grade_bpm: F
@@ -70,7 +70,7 @@ signing_total_bpm: -17259
 signing_total_grade_bpm: C
 signing_total_grade_vorp: C+
 signing_total_percentile_bpm: 49
-signing_total_percentile_vorp: 57
+signing_total_percentile_vorp: 58
 signing_total_vorp: 11
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
   <li>Signed Goran Dragić <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
@@ -117,7 +117,7 @@ trade_rating_vorp: 0
 trade_total_bpm: 5580
 trade_total_grade_bpm: C+
 trade_total_grade_vorp: B+
-trade_total_percentile_bpm: 54
+trade_total_percentile_bpm: 55
 trade_total_percentile_vorp: 75
 trade_total_vorp: 7
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
@@ -140,4 +140,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +12121\" data-vorp-text=\"+9.1\">+12121</span> to PHO.</li>\n<li>Lost Steve Nash\
   \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+475\" data-vorp-text=\"\
   -0.9\">+475</span> to LAL.</li>\n</ul>\n    "
+vorp_rank: 77
 ---

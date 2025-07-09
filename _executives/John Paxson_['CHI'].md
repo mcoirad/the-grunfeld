@@ -85,7 +85,7 @@ signing_total_bpm: -23806
 signing_total_grade_bpm: C-
 signing_total_grade_vorp: C-
 signing_total_percentile_bpm: 41
-signing_total_percentile_vorp: 46
+signing_total_percentile_vorp: 47
 signing_total_vorp: 6
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
   <li>Signed Ben Wallace <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
@@ -135,7 +135,7 @@ trade_rating_vorp: 0
 trade_total_bpm: -39951
 trade_total_grade_bpm: F
 trade_total_grade_vorp: D-
-trade_total_percentile_bpm: 20
+trade_total_percentile_bpm: 19
 trade_total_percentile_vorp: 22
 trade_total_vorp: -26
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
@@ -153,4 +153,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +119\" data-vorp-text=\"+0.0\">+119</span>, Nate Robinson <span class=\"badge badge-pill\
   \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to PHO.</li>\n\
   </ul>\n    "
+vorp_rank: 49
 ---

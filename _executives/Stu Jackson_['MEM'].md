@@ -1,5 +1,5 @@
 ---
-bpm_rank: 117
+bpm_rank: 118
 draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
   a draft grade.
@@ -106,7 +106,7 @@ trade_num: 56
 trade_overall_grade_bpm: C+
 trade_overall_grade_vorp: C-
 trade_overall_percentile_bpm: 53
-trade_overall_percentile_vorp: 45
+trade_overall_percentile_vorp: 44
 trade_rating_bpm: 0
 trade_rating_grade_bpm: A
 trade_rating_grade_vorp: B
@@ -148,4 +148,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +3629\" data-vorp-text=\"+0.4\">+3629</span>, Serge Zwikker <span class=\"badge\
   \ badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span>\
   \ to HOU.</li>\n</ul>\n    "
+vorp_rank: 155
 ---

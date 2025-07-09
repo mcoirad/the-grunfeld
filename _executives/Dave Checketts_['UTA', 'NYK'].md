@@ -1,5 +1,5 @@
 ---
-bpm_rank: 104
+bpm_rank: 105
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Eric Leckner with 17th pick but was worth 61th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-9\" data-vorp-text=\"-9.8\">-9.8</span>\
@@ -60,7 +60,7 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-2101\" data-vorp-text=\"-2101.2\">-2101</span>\
   \ in 1989.</li>\n</ul>\n    "
 signing_num_players: 8
-signing_overall_grade_bpm: D+
+signing_overall_grade_bpm: D
 signing_overall_grade_vorp: F
 signing_overall_percentile_bpm: 33
 signing_overall_percentile_vorp: 6
@@ -73,8 +73,8 @@ signing_rating_vorp: 0
 signing_total_bpm: -8902
 signing_total_grade_bpm: B-
 signing_total_grade_vorp: F
-signing_total_percentile_bpm: 63
-signing_total_percentile_vorp: 9
+signing_total_percentile_bpm: 62
+signing_total_percentile_vorp: 8
 signing_total_vorp: -1
 signing_win_list: "\n    \n    \n    "
 start_year: 1999
@@ -130,4 +130,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +0.0\">+0</span> to UTA.</li>\n<li>Lost Darryl Dawkins <span class=\"badge badge-pill\
   \ badge-success\" data-bpm-text=\"+540\" data-vorp-text=\"+0.1\">+540</span> to\
   \ DET.</li>\n</ul>\n    "
+vorp_rank: 138
 ---

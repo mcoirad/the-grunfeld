@@ -63,7 +63,7 @@ signing_total_bpm: -29162
 signing_total_grade_bpm: D+
 signing_total_grade_vorp: C+
 signing_total_percentile_bpm: 38
-signing_total_percentile_vorp: 54
+signing_total_percentile_vorp: 55
 signing_total_vorp: 9
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
   <li>Signed Naz Reid <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
@@ -103,7 +103,7 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
 trade_num: 48
 trade_overall_grade_bpm: D+
 trade_overall_grade_vorp: C-
-trade_overall_percentile_bpm: 38
+trade_overall_percentile_bpm: 39
 trade_overall_percentile_vorp: 41
 trade_rating_bpm: 0
 trade_rating_grade_bpm: F
@@ -115,7 +115,7 @@ trade_total_bpm: 13250
 trade_total_grade_bpm: B-
 trade_total_grade_vorp: C
 trade_total_percentile_bpm: 65
-trade_total_percentile_vorp: 51
+trade_total_percentile_vorp: 50
 trade_total_vorp: -4
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
   \ badge-pill badge-success\" data-bpm-text=\"+2\" data-vorp-text=\"+2.0\">+2.0</span></h5><ul\
@@ -137,4 +137,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   -1.4\">+5490</span>, Miles McBride <span class=\"badge badge-pill badge-success\"\
   \ data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to GSW.</li>\n</ul>\n \
   \   "
+vorp_rank: 81
 ---

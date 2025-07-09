@@ -16,8 +16,8 @@ draft_rating_vorp: null
 draft_total_bpm: 547
 draft_total_grade_bpm: D+
 draft_total_grade_vorp: D+
-draft_total_percentile_bpm: 38
-draft_total_percentile_vorp: 38
+draft_total_percentile_bpm: 39
+draft_total_percentile_vorp: 39
 draft_total_vorp: 1
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
   </ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n</ul>\n\
@@ -94,7 +94,7 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
 trade_num: 27
 trade_overall_grade_bpm: A-
 trade_overall_grade_vorp: B-
-trade_overall_percentile_bpm: 80
+trade_overall_percentile_bpm: 81
 trade_overall_percentile_vorp: 63
 trade_rating_bpm: 1
 trade_rating_grade_bpm: S
@@ -126,4 +126,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-bpm-text=\"-24238\" data-vorp-text=\"-12.3\">-24238</span>, Alex Acker <span\
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+459\" data-vorp-text=\"\
   +0.1\">+459</span> to DET.</li>\n</ul>\n    "
+vorp_rank: 110
 ---

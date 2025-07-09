@@ -170,4 +170,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   -4.1\">+3026</span>, Dave Magley <span class=\"badge badge-pill badge-success\"\
   \ data-bpm-text=\"+280\" data-vorp-text=\"+0.1\">+280</span> to CLE.</li>\n</ul>\n\
   \    "
+vorp_rank: 14
 ---

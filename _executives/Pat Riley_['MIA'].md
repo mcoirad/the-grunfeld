@@ -159,4 +159,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +0\" data-vorp-text=\"+0.0\">+0</span>, Timothé Luwawu-Cabarrot <span class=\"badge\
   \ badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span>\
   \ to CLE.</li>\n</ul>\n    "
+vorp_rank: 8
 ---

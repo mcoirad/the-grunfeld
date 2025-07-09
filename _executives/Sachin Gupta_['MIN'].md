@@ -46,8 +46,8 @@ signing_rating_vorp: 0
 signing_total_bpm: 347
 signing_total_grade_bpm: A-
 signing_total_grade_vorp: D-
-signing_total_percentile_bpm: 80
-signing_total_percentile_vorp: 23
+signing_total_percentile_bpm: 81
+signing_total_percentile_vorp: 24
 signing_total_vorp: 0
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
   <li>Signed Greg Monroe <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
@@ -81,4 +81,5 @@ trade_total_percentile_bpm: 48
 trade_total_percentile_vorp: 61
 trade_total_vorp: 0
 trade_win_list: "\n    \n    \n    "
+vorp_rank: 118
 ---

@@ -79,7 +79,7 @@ trade_rating_vorp: null
 trade_total_bpm: 5864
 trade_total_grade_bpm: C+
 trade_total_grade_vorp: C+
-trade_total_percentile_bpm: 55
+trade_total_percentile_bpm: 56
 trade_total_percentile_vorp: 55
 trade_total_vorp: -1
 trade_win_list: "\n    \n    <h5 id=\"bpm-toggle\">Their biggest win: <span class=\"\
@@ -93,4 +93,5 @@ trade_win_list: "\n    \n    <h5 id=\"bpm-toggle\">Their biggest win: <span clas
   \ data-vorp-text=\"+0.0\">+0</span> to NYK.</li>\n<li>Lost Marcus Morris <span class=\"\
   badge badge-pill badge-success\" data-bpm-text=\"+6864\" data-vorp-text=\"-1.1\"\
   >+6864</span> to LAC.</li>\n</ul>\n    "
+vorp_rank: 128
 ---

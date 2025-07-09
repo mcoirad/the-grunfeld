@@ -1,5 +1,5 @@
 ---
-bpm_rank: 138
+bpm_rank: 139
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Jeremy Sochan with 9th pick but was worth 51th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-3\" data-vorp-text=\"-3.2\">-3.2</span>\
@@ -33,8 +33,8 @@ draft_rating_vorp: -12
 draft_total_bpm: -46727
 draft_total_grade_bpm: C-
 draft_total_grade_vorp: C-
-draft_total_percentile_bpm: 46
-draft_total_percentile_vorp: 46
+draft_total_percentile_bpm: 47
+draft_total_percentile_vorp: 47
 draft_total_vorp: 4
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Tre Jones with 41th pick but was worth 15th pick. <span class=\"badge\
@@ -136,7 +136,7 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
 trade_num: 75
 trade_overall_grade_bpm: F
 trade_overall_grade_vorp: F
-trade_overall_percentile_bpm: 17
+trade_overall_percentile_bpm: 16
 trade_overall_percentile_vorp: 12
 trade_rating_bpm: 0
 trade_rating_grade_bpm: F
@@ -176,4 +176,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   -0.6\">-1365</span>, future 1st round pick <span class=\"badge badge-pill badge-danger\"\
   \ data-bpm-text=\"-605\" data-vorp-text=\"-4.5\">-605</span> to CHI.</li>\n</ul>\n\
   \    "
+vorp_rank: 152
 ---

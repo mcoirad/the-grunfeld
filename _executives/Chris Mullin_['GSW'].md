@@ -1,5 +1,5 @@
 ---
-bpm_rank: 94
+bpm_rank: 95
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Ike Diogu with 9th pick but was worth 54th pick. <span class=\"badge\
   \ badge-pill badge-danger\" data-bpm-text=\"-13\" data-vorp-text=\"-13.0\">-13.0</span>\
@@ -76,7 +76,7 @@ signing_rating_vorp: 0
 signing_total_bpm: -14104
 signing_total_grade_bpm: C+
 signing_total_grade_vorp: C+
-signing_total_percentile_bpm: 54
+signing_total_percentile_bpm: 53
 signing_total_percentile_vorp: 58
 signing_total_vorp: 11
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
@@ -143,7 +143,7 @@ trade_rating_vorp: 0
 trade_total_bpm: 7151
 trade_total_grade_bpm: C+
 trade_total_grade_vorp: D+
-trade_total_percentile_bpm: 57
+trade_total_percentile_bpm: 58
 trade_total_percentile_vorp: 35
 trade_total_vorp: -10
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
@@ -161,4 +161,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +146\" data-vorp-text=\"-0.1\">+146</span>, Dale Davis <span class=\"badge badge-pill\
   \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to NOH.</li>\n\
   </ul>\n    "
+vorp_rank: 90
 ---

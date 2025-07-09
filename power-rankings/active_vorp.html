@@ -1,0 +1,24 @@
+---
+layout: page
+title: Power Rankings
+description: Currently Active Executives
+---
+{% assign active_executives = site.executives | where: "is_active", true | sort: "vorp_rank" %}
+{% assign stat = "vorp" %}
+{% assign rank = 0 %}
+
+{% for executive in active_executives%}
+    {% assign rank = forloop.index %}
+
+    {% assign name_clean = executive.name | replace: " ", "_"  %}
+    
+    {% include executive.md executive=executive rank=rank stat=stat%}
+    
+    <hr>
+    
+
+
+
+
+{% endfor %}
+

@@ -132,4 +132,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-vorp-text=\"+48.7\">+136722</span> to POR.</li>\n<li>Lost Gerald Wallace\
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-2198\" data-vorp-text=\"\
   -1.8\">-2198</span> to NJN.</li>\n</ul>\n    "
+vorp_rank: 45
 ---

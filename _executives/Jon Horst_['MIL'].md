@@ -23,7 +23,7 @@ draft_description: Jon Horst ranks in the 44th percentile for drafting among exe
 draft_num_players: 10
 draft_overall_grade_bpm: C+
 draft_overall_grade_vorp: D+
-draft_overall_percentile_vorp: 39
+draft_overall_percentile_vorp: 40
 draft_rating_bpm: -2
 draft_rating_grade_bpm: B+
 draft_rating_grade_vorp: C-
@@ -79,7 +79,7 @@ signing_rating_vorp: 0
 signing_total_bpm: -39891
 signing_total_grade_bpm: D+
 signing_total_grade_vorp: A
-signing_total_percentile_bpm: 34
+signing_total_percentile_bpm: 33
 signing_total_percentile_vorp: 88
 signing_total_vorp: 36
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
@@ -158,4 +158,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ NOP.</li>\n<li>Lost R.J. Hampton <span class=\"badge badge-pill badge-success\"\
   \ data-bpm-text=\"+1234\" data-vorp-text=\"+0.2\">+1234</span> to DEN.</li>\n</ul>\n\
   \    "
+vorp_rank: 41
 ---

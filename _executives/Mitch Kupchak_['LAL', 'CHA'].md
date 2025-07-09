@@ -1,5 +1,5 @@
 ---
-bpm_rank: 162
+bpm_rank: 163
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Brandon Ingram with 2th pick but was worth 11th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-11\" data-vorp-text=\"-11.0\">-11.0</span>\
@@ -177,4 +177,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to LAL.</li>\n\
   <li>Lost Shaquille O'Neal <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
   -18595\" data-vorp-text=\"-7.9\">-18595</span> to MIA.</li>\n</ul>\n    "
+vorp_rank: 90
 ---

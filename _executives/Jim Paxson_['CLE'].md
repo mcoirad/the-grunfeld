@@ -118,7 +118,7 @@ trade_num: 69
 trade_overall_grade_bpm: F
 trade_overall_grade_vorp: D+
 trade_overall_percentile_bpm: 14
-trade_overall_percentile_vorp: 35
+trade_overall_percentile_vorp: 36
 trade_rating_bpm: 0
 trade_rating_grade_bpm: F
 trade_rating_grade_vorp: F-
@@ -155,4 +155,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span>, Brad Newley <span class=\"\
   badge badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span>\
   \ to ORL.</li>\n</ul>\n    "
+vorp_rank: 16
 ---

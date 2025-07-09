@@ -28,8 +28,8 @@ draft_rating_vorp: null
 draft_total_bpm: 108504
 draft_total_grade_bpm: A-
 draft_total_grade_vorp: A-
-draft_total_percentile_bpm: 80
-draft_total_percentile_vorp: 80
+draft_total_percentile_bpm: 81
+draft_total_percentile_vorp: 81
 draft_total_vorp: 43
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
   </ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n</ul>\n\
@@ -69,8 +69,8 @@ signing_rating_vorp: 0
 signing_total_bpm: -18104
 signing_total_grade_bpm: C
 signing_total_grade_vorp: F
-signing_total_percentile_bpm: 48
-signing_total_percentile_vorp: 9
+signing_total_percentile_bpm: 47
+signing_total_percentile_vorp: 8
 signing_total_vorp: -1
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
   <li>Signed Michael Cage <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
@@ -103,4 +103,5 @@ trade_total_percentile_bpm: 48
 trade_total_percentile_vorp: 61
 trade_total_vorp: 0
 trade_win_list: "\n    \n    \n    "
+vorp_rank: 47
 ---

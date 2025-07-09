@@ -1,5 +1,5 @@
 ---
-bpm_rank: 163
+bpm_rank: 164
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Benoit Benjamin with 3th pick but was worth 19th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-38\" data-vorp-text=\"-38.5\">-38.5</span>\
@@ -153,4 +153,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +0.0\">+0</span> to DEN.</li>\n<li>Lost George McGinnis <span class=\"badge badge-pill\
   \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to IND.</li>\n\
   </ul>\n    "
+vorp_rank: 165
 ---

@@ -33,8 +33,8 @@ draft_rating_vorp: 2
 draft_total_bpm: 37939
 draft_total_grade_bpm: A
 draft_total_grade_vorp: A
-draft_total_percentile_bpm: 91
-draft_total_percentile_vorp: 91
+draft_total_percentile_bpm: 92
+draft_total_percentile_vorp: 92
 draft_total_vorp: 95
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Kyle Lowry with 24th pick but was worth 1th pick. <span class=\"badge\
@@ -157,4 +157,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-vorp-text=\"+80.1\">+221552</span> to LAL.</li>\n<li>Lost Vlade Divac <span\
   \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-14320\" data-vorp-text=\"\
   -6.0\">-14320</span> to CHH.</li>\n</ul>\n    "
+vorp_rank: 1
 ---

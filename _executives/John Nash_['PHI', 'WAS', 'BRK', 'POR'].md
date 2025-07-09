@@ -1,5 +1,5 @@
 ---
-bpm_rank: 149
+bpm_rank: 150
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Calbert Cheaney with 6th pick but was worth 53th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-16\" data-vorp-text=\"-16.3\">-16.3</span>\
@@ -66,7 +66,7 @@ signing_num_players: 96
 signing_overall_grade_bpm: C-
 signing_overall_grade_vorp: D+
 signing_overall_percentile_bpm: 43
-signing_overall_percentile_vorp: 39
+signing_overall_percentile_vorp: 40
 signing_rating_bpm: 0
 signing_rating_grade_bpm: B
 signing_rating_grade_vorp: D
@@ -75,7 +75,7 @@ signing_rating_percentile_vorp: 32
 signing_rating_vorp: 0
 signing_total_bpm: -74629
 signing_total_grade_bpm: F
-signing_total_grade_vorp: C-
+signing_total_grade_vorp: C
 signing_total_percentile_bpm: 15
 signing_total_percentile_vorp: 47
 signing_total_vorp: 7
@@ -138,7 +138,7 @@ trade_total_bpm: 5220
 trade_total_grade_bpm: C+
 trade_total_grade_vorp: D+
 trade_total_percentile_bpm: 54
-trade_total_percentile_vorp: 40
+trade_total_percentile_vorp: 39
 trade_total_vorp: -7
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
   \ badge-pill badge-success\" data-bpm-text=\"+7\" data-vorp-text=\"+7.9\">+7.9</span></h5><ul\
@@ -155,4 +155,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-bpm-text=\"+21971\" data-vorp-text=\"+0.6\">+21971</span> to UTA.</li>\n\
   <li>Lost Mike Iuzzolino <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
   +0\" data-vorp-text=\"+0.0\">+0</span> to SAC.</li>\n</ul>\n    "
+vorp_rank: 130
 ---

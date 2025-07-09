@@ -1,5 +1,5 @@
 ---
-bpm_rank: 127
+bpm_rank: 128
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Joe Smith with 1th pick but was worth 15th pick. <span class=\"badge\
   \ badge-pill badge-danger\" data-bpm-text=\"-93\" data-vorp-text=\"-93.9\">-93.9</span>\
@@ -154,4 +154,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to CHA.</li>\n\
   <li>Lost J.R. Reid <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
   +12631\" data-vorp-text=\"+0.5\">+12631</span> to SAS.</li>\n</ul>\n    "
+vorp_rank: 157
 ---

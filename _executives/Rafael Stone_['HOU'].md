@@ -1,5 +1,5 @@
 ---
-bpm_rank: 113
+bpm_rank: 114
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Jalen Green with 2th pick but was worth 12th pick. <span class=\"badge\
   \ badge-pill badge-danger\" data-bpm-text=\"-7\" data-vorp-text=\"-7.3\">-7.3</span>\
@@ -33,8 +33,8 @@ draft_rating_vorp: -5
 draft_total_bpm: -18897
 draft_total_grade_bpm: C
 draft_total_grade_vorp: C
-draft_total_percentile_bpm: 52
-draft_total_percentile_vorp: 52
+draft_total_percentile_bpm: 53
+draft_total_percentile_vorp: 53
 draft_total_vorp: 10
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Amen Thompson with 4th pick but was worth 2th pick. <span class=\"badge\
@@ -73,8 +73,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
 signing_num_players: 75
 signing_overall_grade_bpm: B-
 signing_overall_grade_vorp: B
-signing_overall_percentile_bpm: 63
-signing_overall_percentile_vorp: 70
+signing_overall_percentile_bpm: 62
+signing_overall_percentile_vorp: 71
 signing_rating_bpm: 0
 signing_rating_grade_bpm: B+
 signing_rating_grade_vorp: B+
@@ -84,8 +84,8 @@ signing_rating_vorp: 0
 signing_total_bpm: -17360
 signing_total_grade_bpm: C
 signing_total_grade_vorp: B-
-signing_total_percentile_bpm: 49
-signing_total_percentile_vorp: 66
+signing_total_percentile_bpm: 48
+signing_total_percentile_vorp: 67
 signing_total_vorp: 15
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
   <li>Signed Alperen Şengün <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
@@ -171,4 +171,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +0\" data-vorp-text=\"+0.0\">+0</span>, Isaiah Stewart <span class=\"badge badge-pill\
   \ badge-success\" data-bpm-text=\"+12847\" data-vorp-text=\"-0.6\">+12847</span>\
   \ to DET.</li>\n</ul>\n    "
+vorp_rank: 79
 ---

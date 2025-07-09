@@ -174,4 +174,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +11701\" data-vorp-text=\"+1.2\">+11701</span>, Jonny Flynn <span class=\"badge\
   \ badge-pill badge-success\" data-bpm-text=\"+12976\" data-vorp-text=\"+1.6\">+12976</span>\
   \ to MIN.</li>\n</ul>\n    "
+vorp_rank: 4
 ---

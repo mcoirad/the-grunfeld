@@ -1,5 +1,5 @@
 ---
-bpm_rank: 145
+bpm_rank: 146
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Derrick Coleman with 1th pick but was worth 3th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-40\" data-vorp-text=\"-40.2\">-40.2</span>\
@@ -78,7 +78,7 @@ signing_rating_percentile_vorp: 18
 signing_rating_vorp: 0
 signing_total_bpm: -43417
 signing_total_grade_bpm: D
-signing_total_grade_vorp: D
+signing_total_grade_vorp: D+
 signing_total_percentile_bpm: 30
 signing_total_percentile_vorp: 33
 signing_total_vorp: 3
@@ -153,4 +153,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-bpm-text=\"+13384\" data-vorp-text=\"+1.7\">+13384</span>, Bryant Stith <span\
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+9427\" data-vorp-text=\"\
   -4.3\">+9427</span> to DEN.</li>\n</ul>\n    "
+vorp_rank: 127
 ---

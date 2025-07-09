@@ -161,4 +161,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +0\" data-vorp-text=\"+0.0\">+0</span> to IND.</li>\n<li>Lost Herb Williams <span\
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+16756\" data-vorp-text=\"\
   +0.8\">+16756</span> to DAL.</li>\n</ul>\n    "
+vorp_rank: 5
 ---

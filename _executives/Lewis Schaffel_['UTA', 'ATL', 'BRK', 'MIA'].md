@@ -1,5 +1,5 @@
 ---
-bpm_rank: 146
+bpm_rank: 147
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Rony Seikaly with 9th pick but was worth 25th pick. <span class=\"badge\
   \ badge-pill badge-danger\" data-bpm-text=\"-10\" data-vorp-text=\"-10.6\">-10.6</span>\
@@ -23,7 +23,7 @@ draft_description: Lewis Schaffel ranks in the 90th percentile for drafting amon
 draft_num_players: 19
 draft_overall_grade_bpm: B
 draft_overall_grade_vorp: A-
-draft_overall_percentile_vorp: 80
+draft_overall_percentile_vorp: 81
 draft_rating_bpm: -2
 draft_rating_grade_bpm: B+
 draft_rating_grade_vorp: A
@@ -170,4 +170,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-vorp-text=\"+0.0\">+0</span> to UTA.</li>\n<li>Lost Danny Vranes <span class=\"\
   badge badge-pill badge-success\" data-bpm-text=\"+14340\" data-vorp-text=\"-0.9\"\
   >+14340</span> to SEA.</li>\n</ul>\n    "
+vorp_rank: 113
 ---

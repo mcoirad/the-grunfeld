@@ -79,7 +79,7 @@ signing_rating_percentile_vorp: 59
 signing_rating_vorp: 0
 signing_total_bpm: -6727
 signing_total_grade_bpm: B-
-signing_total_grade_vorp: C+
+signing_total_grade_vorp: B-
 signing_total_percentile_bpm: 66
 signing_total_percentile_vorp: 60
 signing_total_vorp: 13
@@ -162,4 +162,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-bpm-text=\"+2575\" data-vorp-text=\"-0.1\">+2575</span>, Noah Vonleh <span\
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+10292\" data-vorp-text=\"\
   +1.1\">+10292</span> to POR.</li>\n</ul>\n    "
+vorp_rank: 75
 ---

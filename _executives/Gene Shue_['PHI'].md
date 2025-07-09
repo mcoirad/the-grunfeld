@@ -1,5 +1,5 @@
 ---
-bpm_rank: 103
+bpm_rank: 104
 draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
   a draft grade.
@@ -84,7 +84,7 @@ trade_num: 11
 trade_overall_grade_bpm: D-
 trade_overall_grade_vorp: C+
 trade_overall_percentile_bpm: 25
-trade_overall_percentile_vorp: 55
+trade_overall_percentile_vorp: 54
 trade_rating_bpm: 0
 trade_rating_grade_bpm: F
 trade_rating_grade_vorp: C+
@@ -93,7 +93,7 @@ trade_rating_percentile_vorp: 56
 trade_rating_vorp: 0
 trade_total_bpm: -12585
 trade_total_grade_bpm: D+
-trade_total_grade_vorp: C+
+trade_total_grade_vorp: C
 trade_total_percentile_bpm: 37
 trade_total_percentile_vorp: 53
 trade_total_vorp: -2
@@ -111,4 +111,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ to PHI.</li>\n<li>Lost Bob Thornton <span class=\"badge badge-pill badge-success\"\
   \ data-bpm-text=\"+1243\" data-vorp-text=\"+0.3\">+1243</span> to MIN.</li>\n</ul>\n\
   \    "
+vorp_rank: 132
 ---

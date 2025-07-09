@@ -52,7 +52,7 @@ signing_rating_percentile_vorp: 88
 signing_rating_vorp: 0
 signing_total_bpm: 3226
 signing_total_grade_bpm: A-
-signing_total_grade_vorp: D+
+signing_total_grade_vorp: C-
 signing_total_percentile_bpm: 84
 signing_total_percentile_vorp: 40
 signing_total_vorp: 5
@@ -117,4 +117,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   <li>Didn't receive any players or picks.</li>\n<li>Lost Derrick Favors <span class=\"\
   badge badge-pill badge-success\" data-bpm-text=\"+1371\" data-vorp-text=\"+0.0\"\
   >+1371</span> to OKC.</li>\n</ul>\n    "
+vorp_rank: 115
 ---

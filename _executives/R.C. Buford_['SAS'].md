@@ -130,7 +130,7 @@ trade_num: 77
 trade_overall_grade_bpm: A-
 trade_overall_grade_vorp: C-
 trade_overall_percentile_bpm: 83
-trade_overall_percentile_vorp: 42
+trade_overall_percentile_vorp: 41
 trade_rating_bpm: 0
 trade_rating_grade_bpm: A-
 trade_rating_grade_vorp: C-
@@ -138,7 +138,7 @@ trade_rating_percentile_bpm: 86
 trade_rating_percentile_vorp: 41
 trade_rating_vorp: 0
 trade_total_bpm: 40264
-trade_total_grade_bpm: B+
+trade_total_grade_bpm: A-
 trade_total_grade_vorp: C-
 trade_total_percentile_bpm: 80
 trade_total_percentile_vorp: 42
@@ -162,4 +162,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to SAS.</li>\n\
   <li>Lost Rasho Nesterović <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
   +998\" data-vorp-text=\"-1.5\">+998</span> to TOR.</li>\n</ul>\n    "
+vorp_rank: 6
 ---

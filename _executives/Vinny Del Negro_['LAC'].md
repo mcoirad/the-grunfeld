@@ -1,5 +1,5 @@
 ---
-bpm_rank: 73
+bpm_rank: 74
 draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
   a draft grade.
@@ -89,7 +89,7 @@ trade_rating_vorp: null
 trade_total_bpm: 2192
 trade_total_grade_bpm: C
 trade_total_grade_vorp: B-
-trade_total_percentile_bpm: 51
+trade_total_percentile_bpm: 52
 trade_total_percentile_vorp: 65
 trade_total_vorp: 0
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
@@ -107,4 +107,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-vorp-text=\"+0.3\">+5777</span>, Marcus Paige <span class=\"badge badge-pill\
   \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to BRK.</li>\n\
   </ul>\n    "
+vorp_rank: 108
 ---

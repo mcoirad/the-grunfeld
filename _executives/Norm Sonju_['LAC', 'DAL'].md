@@ -1,5 +1,5 @@
 ---
-bpm_rank: 164
+bpm_rank: 165
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Sam Perkins with 4th pick but was worth 5th pick. <span class=\"badge\
   \ badge-pill badge-danger\" data-bpm-text=\"-45\" data-vorp-text=\"-45.1\">-45.1</span>\
@@ -163,4 +163,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +15940\" data-vorp-text=\"-0.2\">+15940</span>, Travis Mays <span class=\"badge\
   \ badge-pill badge-success\" data-bpm-text=\"+4075\" data-vorp-text=\"+0.0\">+4075</span>\
   \ to SAC.</li>\n</ul>\n    "
+vorp_rank: 160
 ---

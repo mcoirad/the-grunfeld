@@ -1,0 +1,967 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  
+    <title>
+      Bobby webster_[&#39;tor&#39;] - The Grunfeld
+      
+    </title>
+  
+    <meta name="description" content="">
+  
+    <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+  
+    <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
+  
+    <link rel="stylesheet" href="/the-grunfeld/assets/main.css">
+    <link rel="canonical" href="http://localhost:4000/the-grunfeld/executives/Bobby%20Webster_%5B'TOR'%5D.html">
+    <link rel="alternate" type="application/rss+xml" title="The Grunfeld" href="/the-grunfeld/feed.xml">
+    <link
+    href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.4.2/mdb.min.css"
+    rel="stylesheet"
+  />
+  </head>
+
+<body>
+
+  <!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+  <div class="container">
+    <a class="navbar-brand" href="/the-grunfeld/">The Grunfeld</a>
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+      Menu
+      <i class="fa fa-bars"></i>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="/the-grunfeld/">Home</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a data-mdb-dropdown-init class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Power Rankings
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            <li>
+              <a class="dropdown-item" href="/the-grunfeld/power-rankings/index_bpm.html">All Time BPM</a>
+            </li>
+            <li>
+              <a class="dropdown-item" href="/the-grunfeld/power-rankings/active_bpm.html">Active BPM</a>
+            </li>
+            <li>
+              <a class="dropdown-item" href="/the-grunfeld/power-rankings/index_vorp.html">All Time VORP</a>
+            </li>
+            <li>
+              <a class="dropdown-item" href="/the-grunfeld/power-rankings/active_vorp.html">Active VORP</a>
+            </li>
+          </ul>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link" href="/the-grunfeld/about">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/the-grunfeld/posts">Posts</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/the-grunfeld/contact">Contact</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+  
+
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/luxon/3.4.4/luxon.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-adapter-luxon/0.2.1/chartjs-adapter-luxon.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-annotation/3.0.1/chartjs-plugin-annotation.min.js"></script>
+
+  </head>
+
+<header class="masthead">
+    <!-- <div class="overlay"></div> -->
+    
+    <div class="container">
+        <div class="row">
+        <div class="col-md-3"></div>
+        <div class="col-md-6">
+            <div class="page-heading">
+            <button class="btn btn-primary" id="toggle-stat">Switch to VORP</button>
+
+            <!-- 
+                <img class="w-50 p-3" src="../assets/img/headshots/webstbo01x.png" >
+                <h1>Bobby Webster</h1>
+                <h2></h2>
+                <h3 class="post-subtitle">
+                    
+                    Toronto Raptors
+                    
+                </h3>-->
+            </div>
+            </div>
+            <div class="col-md-3"></div>
+            
+            
+        </div>
+        
+    </div>
+    
+
+    
+</header>
+
+
+
+    <div class="container">
+        <div class="row">
+        <div class="col-md-3">
+          <img class="w-100 p-3" src="../assets/img/headshots/webstbo01x.png" >
+                <h1>Bobby Webster</h1>
+                <h2></h2>
+                <h3 class="post-subtitle">
+                    
+                    Toronto Raptors
+                    
+                </h3>
+        </div>
+        <div class="col-md-9">
+    <div class="col-md-12 chart-container" style="height: 10vh; min-height: 450px;">
+          <h1 style=" text-align:center;" >Transaction <span class="stat-text" data-vorp-text="VORP" data-bpm-text="BPM">BPM</span> over Tenure</h1>
+          <canvas id="executiveTenure"></canvas></div></div></div>
+        </div>
+
+<!-- <script type="module" src="dimensions.js"></script> -->
+<script>
+
+function toggleStatElements(stat) {
+  const showId = `${stat}-toggle`;
+  const hideId = stat === 'vorp' ? 'bpm-toggle' : 'vorp-toggle';
+
+   const showElems = document.querySelectorAll(`#${showId}`);
+  const hideElems = document.querySelectorAll(`#${hideId}`);
+
+  showElems.forEach(el => el.hidden = false);
+  hideElems.forEach(el => el.hidden = true);
+}
+  
+  
+let myChart = null;
+let rawData = [];
+let currentStat = "bpm";
+document.getElementById("toggle-stat").addEventListener("click", () => {
+    currentStat = currentStat === 'vorp' ? 'bpm' : 'vorp';
+    document.getElementById("toggle-stat").innerText = `Switch to ${currentStat === 'vorp' ? 'BPM' : 'VORP'}`;
+    updateChart();
+    updateTexts();
+    updateDraftChart();
+    updateExecDraftPlayersChart();
+    updateSigningChart();
+    updateTradeChart();
+    toggleStatElements(currentStat); 
+
+});
+
+// Load the dataset
+d3.csv("https://raw.githubusercontent.com/mcoirad/the-grunfeld/master/_data/webstbo01x.csv").then(data => {
+    rawData = data;
+    makeChart();
+});
+
+function roundToTwo(num) {
+    return Math.round((parseFloat(num) + Number.EPSILON) * 100) / 100;
+}
+
+function getMappedData(stat) {
+    const valueKey = `value_${stat}`;
+    const singleKey = `single_value_${stat}`;
+    const radiiModifier = stat == 'bpm' ? 0.01 : 20; 
+    console.log(radiiModifier);
+
+    const scoreData = rawData.map(d => roundToTwo(d[valueKey]));
+    const tooltipData = rawData.map(d => {
+        const val = parseFloat(d[singleKey]);
+        const sign = val < 0 ? '' : '+';
+        return `${d.Transaction}: ${sign}${roundToTwo(val)}`;
+    });
+
+    const valueMax = Math.max(...rawData.map(d => Math.abs(parseFloat(d[singleKey]))));
+
+    const pointRadii = rawData.map(d => Math.sqrt(Math.abs(d[singleKey]) * radiiModifier));
+    const pointColors = rawData.map(d => {
+        const val = parseFloat(d[singleKey]);
+        const lightness = Math.max((Math.abs(val) / valueMax * -50) + 100, 55);
+        const hue = val < 0 ? 0 : 204;
+        return `hsla(${hue}, 100%, ${lightness}%, 0.5)`;
+    });
+
+    return { scoreData, tooltipData, pointRadii, pointColors };
+}
+
+function makeChart() {
+    const dateLabels = rawData.map(d => d.date.slice(0, 10));
+    const { scoreData, tooltipData, pointRadii, pointColors } = getMappedData(currentStat);
+
+    const ctx = document.getElementById('executiveTenure').getContext('2d');
+    myChart = new Chart(ctx, {
+        type: 'line',
+        data: {
+            labels: dateLabels,
+            datasets: [{
+                label: `Executive Value (${currentStat.toUpperCase()})`,
+                data: scoreData,
+                fill: false,
+                borderColor: 'rgb(75, 192, 192)',
+                tension: 0.1,
+                pointRadius: pointRadii,
+                pointHoverBackgroundColor: 'black',
+                pointHoverRadius: pointRadii,
+                pointBackgroundColor: pointColors
+            }]
+        },
+        options: {
+            //responsive: true,
+            maintainAspectRatio: false,
+            scales: {
+                x: {
+                    type: 'time',
+                    time: {
+                        unit: 'day',
+                        round: 'day',
+                        displayFormats: {
+                            day: 'MMM yyyy',
+                            month: 'MMM yyyy'
+                        }
+                    }
+                }
+            },
+            plugins: {
+                legend: { display: false },
+                title: {
+                    display: true,
+                    text: 'Bobby Webster'
+                },
+                tooltip: {
+                    callbacks: {
+                        label: function(context) {
+                            return getMappedData(currentStat).tooltipData[context.dataIndex];
+                        }
+                    }
+                },
+                annotation: {
+                    annotations: {
+                        line: {
+                            type: 'line',
+                            yMin: 0,
+                            yMax: 0,
+                            borderWidth: 2,
+                            borderColor: 'gray'
+                        }
+                    }
+                }
+            },
+            hover: {
+                mode: 'nearest',
+                intersect: false
+            }
+        }
+    });
+}
+
+function updateChart() {
+    const { scoreData, tooltipData, pointRadii, pointColors } = getMappedData(currentStat);
+
+    myChart.data.datasets[0].data = scoreData;
+    myChart.data.datasets[0].pointRadius = pointRadii;
+    myChart.data.datasets[0].pointHoverRadius = pointRadii;
+    myChart.data.datasets[0].pointBackgroundColor = pointColors;
+    myChart.data.datasets[0].label = `Executive Value (${currentStat.toUpperCase()})`;
+
+    myChart.options.plugins.tooltip.callbacks.label = function(context) {
+        return tooltipData[context.dataIndex];
+    };
+
+    myChart.update();
+}
+
+function updateTexts() {
+    document.querySelectorAll(".stat-text").forEach(el => {
+        el.textContent = el.dataset[`${currentStat.toLowerCase()}Text`];
+    });
+}
+updateTexts();
+  
+</script>
+<br>
+<br>
+<hr>
+<hr>
+
+<div class="container">
+  <div class="row">
+    <h1 class="alert alert-dark" style=" text-align:center;">Grade Report</h1>
+    
+    <div class="col-md-3">
+      <h3> Draft Rating:</h3>
+      <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text=n/a data-bpm-text=n/a> n/a</p>
+      <h5 > Draft Pick Efficiency Rating: <span class="stat-text" data-vorp-text=n/a data-bpm-text=n/a><span> n/a </h5>
+      <h5> Draft Total Value Rating: <span class="stat-text" data-vorp-text=34 data-bpm-text=34><span> 34  </h5>
+    </div>
+    <div class="col-md-9">
+    <div class="row">
+    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;"><canvas id="executive_draft_chart"></canvas></div>
+    </div>
+    <hr>
+
+    <script>
+      let myDraftChart = null;
+      let rawDraftData = [];
+    // Load the dataset
+    d3.csv("https://raw.githubusercontent.com/mcoirad/the-grunfeld/master/_data/executive/executive_stats.csv").then(makeChartExecutiveDraft);
+    
+    function makeChartExecutiveDraft(exec_data) {
+  rawDraftData = exec_data;
+
+  const { scoreData, tooltipData, pointRadii, pointBorderColors, pointBackgroundColors } =
+    getDraftChartMappedData(currentStat);
+
+  const ctx = document.getElementById('executive_draft_chart').getContext('2d');
+  myDraftChart = new Chart(ctx, {
+    data: {
+      datasets: [{
+        label: 'Executive Draft Dataset',
+        data: scoreData,
+        borderColor: pointBorderColors,
+        backgroundColor: pointBackgroundColors,
+        tension: 0.1,
+        pointRadius: pointRadii,
+        pointHoverBackgroundColor: 'red',
+        pointHoverRadius: pointRadii,
+      }]
+    },
+    type: 'scatter',
+    options: {
+      //responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: {
+          position: 'top',
+          display: false,
+        },
+        title: {
+          display: true,
+          text: 'Executive Draft Ratings'
+        },
+        tooltip: {
+          callbacks: {
+            label: function(context) {
+              return tooltipData[context.dataIndex];
+            }
+          },
+          mode: 'nearest',
+          intersect: false,
+        }
+      },
+      scales: {
+        x: {
+          title: {
+            display: true,
+            text: 'Percentile for Total Draft Value',
+            color: "black"
+          }
+        },
+        y: {
+          title: {
+            display: true,
+            text: 'Percentile for Draft Pick Efficiency',
+            color: "black"
+          }
+        }
+      },
+      responsive: true,
+      hover: {
+        mode: 'nearest',
+        intersect: false
+      },
+    }
+  });
+}
+
+function getDraftChartMappedData(stat) {
+  const valueKeyX = `draft_total_percentile_${stat}`;
+  const valueKeyY = `draft_rating_percentile_${stat}`;
+  const tooltipData = [];
+  const scoreData = [];
+  const pointRadii = [];
+  const pointBorderColors = [];
+  const pointBackgroundColors = [];
+
+  const filtered = rawDraftData.filter(d => d[valueKeyX] !== "" && d[valueKeyY] !== "");
+
+  for (const d of filtered) {
+    scoreData.push({ x: parseFloat(d[valueKeyX]), y: parseFloat(d[valueKeyY]) });
+    tooltipData.push(d.name);
+    pointRadii.push(10);
+    pointBorderColors.push(d.is_active === 'True' ? 'red' : 'rgb(75, 192, 192)');
+
+    if (d.href.includes( 'webstbo01x' ) ) {
+      pointBackgroundColors.push(d.is_active === 'True' ? 'red' : 'rgb(75, 192, 192)');
+    } else {
+      pointBackgroundColors.push('rgba(0,0,0,0.1)');
+    }
+  }
+
+  return { scoreData, tooltipData, pointRadii, pointBorderColors, pointBackgroundColors };
+}
+
+function updateDraftChart() {
+  const { scoreData, tooltipData, pointRadii, pointBorderColors, pointBackgroundColors } =
+    getDraftChartMappedData(currentStat);
+
+  const dataset = myDraftChart.data.datasets[0];
+  dataset.data = scoreData;
+  dataset.pointRadius = pointRadii;
+  dataset.pointHoverRadius = pointRadii;
+  dataset.backgroundColor = pointBackgroundColors;
+  dataset.borderColor = pointBorderColors;
+  dataset.label = `Executive Draft Dataset (${currentStat.toUpperCase()})`;
+
+  myDraftChart.options.plugins.tooltip.callbacks.label = function(context) {
+    return tooltipData[context.dataIndex];
+  };
+
+  myDraftChart.update();
+}
+    
+  </script>
+
+    <div class="row"><div class="col-md-12" style="height: 40vh; min-height: 350px;"><canvas id="executive_draft_players_chart"></canvas></div></div>
+    
+<script>
+let rawTransactionData = [];
+let stackedChart = null;
+let currentExecDraftStat = currentStat ?? "bpm"; // or 'bpm'
+
+d3.csv("https://raw.githubusercontent.com/mcoirad/the-grunfeld/master/_data/drafted_players/webstbo01x.csv").then(data => {
+  rawTransactionData = data;
+  makeStackedChart();
+});
+
+function makeStackedChart() {
+  const ctx = document.getElementById("executive_draft_players_chart").getContext("2d");
+  const { labels, draftData, expectedData, tooltipData, tooltipTitles } = getStackedChartMappedData(currentExecDraftStat);
+
+  stackedChart = new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: labels,
+      datasets: [
+        {
+          label: `Expected Career ${currentExecDraftStat.toUpperCase()}`,
+          data: expectedData,
+          backgroundColor: 'red',
+          borderRadius: 5,
+        },
+        {
+          label: `Actual Career ${currentExecDraftStat.toUpperCase()}`,
+          data: draftData,
+          backgroundColor: 'blue',
+          borderRadius: 5,
+        }
+      ]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        tooltip: {
+          callbacks: {
+            label: function(context) {
+              return `${tooltipData[context.dataIndex]}`;
+            },
+            title: function(context) {
+              const index = context[0].dataIndex;
+              return `${tooltipTitles[index]}`;
+            }
+          }
+        },
+        title: {
+          display: true,
+          text: 'Drafted Players – Expected vs Actual'
+        }
+      },
+      scales: {
+        x: {
+          stacked: false  // ← not stacked = grouped bars
+        },
+        y: {
+          stacked: false, // ← disable vertical stacking
+          title: {
+            display: true,
+            text: currentExecDraftStat.toUpperCase()
+          }
+        }
+      }
+    }
+  });
+}
+
+function getStackedChartMappedData(stat) {
+  const filtered = rawTransactionData
+    .filter(d => d[`draft_${stat}`] !== "" && d[`expected_${stat}`] !== "")
+    .map(d => ({
+      name: d.name,
+      draft: parseFloat(d[`total_${stat}`]),
+      expected: parseFloat(d[`expected_${stat}`]),
+      draftPick: d[`draft_pick_${stat}`],
+      expectedPick: d[`draft_pick_${stat}`] - d[`draft_grade_${stat}`],
+      year: d.transaction_date.slice(0, 4)
+    }))
+    .sort((a, b) => b.draft - a.draft);
+    console.log(filtered);
+    
+
+  const labels = [];
+  const draftData = [];
+  const expectedData = [];
+  const tooltipData = [];
+  const tooltipTitles = [];
+
+  for (const d of filtered) {
+    labels.push(`${d.name}`);
+    draftData.push(d.draft);
+    expectedData.push(d.expected);
+    tooltipData.push(`Draft Pick ${d.draftPick}, Redraft Pick would be ${d.expectedPick}`);
+    tooltipTitles.push(`${d.name} (${d.year})`);
+  }
+  return { labels, draftData, expectedData, tooltipData, tooltipTitles };
+}
+
+function updateExecDraftPlayersChart() {
+  currentExecDraftStat = currentStat;
+
+  const { labels, draftData, expectedData, tooltipData, tooltipTitles } = getStackedChartMappedData(currentExecDraftStat);
+  stackedChart.data.labels = labels;
+  stackedChart.data.datasets[0].data = expectedData;
+  stackedChart.data.datasets[0].label = `Expected Career ${currentExecDraftStat.toUpperCase()}`;
+  stackedChart.data.datasets[1].data = draftData;
+  stackedChart.data.datasets[1].label = `Actual Career ${currentExecDraftStat.toUpperCase()}`;
+  stackedChart.options.scales.y.title.text = currentExecDraftStat.toUpperCase();
+
+  stackedChart.options.plugins.tooltip.callbacks.label = function(context) {
+    const index = context.dataIndex;
+    return `${tooltipData[index]}`;
+  };
+
+  stackedChart.options.plugins.tooltip.callbacks.title = function(context) {
+    const index = context[0].dataIndex;
+    return `${tooltipTitles[index]}`;
+  };
+
+  stackedChart.update();
+}
+</script>
+
+      This executive hasn't drafted any players, and thus doesn't have a draft grade.
+      
+      
+
+    </div>
+  </div>
+</div>
+<hr>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-3">
+      <h3> Trade Rating:</h3>
+      <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text=n/a data-bpm-text=n/a> n/a</p>
+      <h5 > Trade Efficiency Rating: <span class="stat-text" data-vorp-text=n/a data-bpm-text=n/a><span> n/a </h5> 
+      <h5> Trade Total Value Rating: <span class="stat-text" data-vorp-text=61 data-bpm-text=48><span> 48  </h5>
+    </div>
+
+    <div class="col-md-9">
+    <div class="row">
+    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;"><canvas id="executive_trade_chart"></canvas></div>
+    </div>
+    <script>
+      let myTradeChart = null;
+      let rawTradeData = [];
+    // Load the dataset
+    d3.csv("https://raw.githubusercontent.com/mcoirad/the-grunfeld/master/_data/executive/executive_stats.csv").then(makeChartExecutiveTrade);
+    
+    function makeChartExecutiveTrade(exec_data) {
+  rawTradeData = exec_data;
+
+  const { scoreData, tooltipData, pointRadii, pointBorderColors, pointBackgroundColors } =
+    getTradeChartMappedData(currentStat);
+
+  const ctx = document.getElementById('executive_trade_chart').getContext('2d');
+  myTradeChart = new Chart(ctx, {
+    data: {
+      datasets: [{
+        label: 'Executive Trade Dataset',
+        data: scoreData,
+        borderColor: pointBorderColors,
+        backgroundColor: pointBackgroundColors,
+        tension: 0.1,
+        pointRadius: pointRadii,
+        pointHoverBackgroundColor: 'red',
+        pointHoverRadius: pointRadii,
+      }]
+    },
+    type: 'scatter',
+    options: {
+      //responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: {
+          position: 'top',
+          display: false,
+        },
+        title: {
+          display: true,
+          text: 'Executive Trade Ratings'
+        },
+        tooltip: {
+          callbacks: {
+            label: function(context) {
+              return tooltipData[context.dataIndex];
+            }
+          },
+          mode: 'nearest',
+          intersect: false,
+        }
+      },
+      scales: {
+        x: {
+          title: {
+            display: true,
+            text: 'Percentile for Total Trade Value',
+            color: "black"
+          }
+        },
+        y: {
+          title: {
+            display: true,
+            text: 'Percentile for Trade Pick Efficiency',
+            color: "black"
+          }
+        }
+      },
+      responsive: true,
+      hover: {
+        mode: 'nearest',
+        intersect: false
+      },
+    }
+  });
+}
+
+function getTradeChartMappedData(stat) {
+  const valueKeyX = `trade_total_percentile_${stat}`;
+  const valueKeyY = `trade_rating_percentile_${stat}`;
+  const tooltipData = [];
+  const scoreData = [];
+  const pointRadii = [];
+  const pointBorderColors = [];
+  const pointBackgroundColors = [];
+
+  const filtered = rawTradeData.filter(d => d[valueKeyX] !== "" && d[valueKeyY] !== "");
+
+  for (const d of filtered) {
+    scoreData.push({ x: parseFloat(d[valueKeyX]), y: parseFloat(d[valueKeyY]) });
+    tooltipData.push(d.name);
+    pointRadii.push(10);
+    pointBorderColors.push(d.is_active === 'True' ? 'red' : 'rgb(75, 192, 192)');
+
+    if (d.href.includes( 'webstbo01x' ) ) {
+      pointBackgroundColors.push(d.is_active === 'True' ? 'red' : 'rgb(75, 192, 192)');
+    } else {
+      pointBackgroundColors.push('rgba(0,0,0,0.1)');
+    }
+  }
+
+  return { scoreData, tooltipData, pointRadii, pointBorderColors, pointBackgroundColors };
+}
+
+function updateTradeChart() {
+  const { scoreData, tooltipData, pointRadii, pointBorderColors, pointBackgroundColors } =
+    getTradeChartMappedData(currentStat);
+
+  const dataset = myTradeChart.data.datasets[0];
+  dataset.data = scoreData;
+  dataset.pointRadius = pointRadii;
+  dataset.pointHoverRadius = pointRadii;
+  dataset.backgroundColor = pointBackgroundColors;
+  dataset.borderColor = pointBorderColors;
+  dataset.label = `Executive Trade Dataset (${currentStat.toUpperCase()})`;
+
+  myTradeChart.options.plugins.tooltip.callbacks.label = function(context) {
+    return tooltipData[context.dataIndex];
+  };
+
+  myTradeChart.update();
+}
+    
+  </script>
+
+      This executive hasn't traded any players, and thus doesn't have a trade grade.
+      
+    
+    
+    
+      
+    
+    
+    
+    </div>
+  </div>
+</div>
+<hr>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-3">
+      <h3> Signing Rating:</h3>
+      <p class="stat-text" style="font-family: 'OldEnglish';font-size: calc(4rem + 4vw);" data-vorp-text=n/a data-bpm-text=n/a> n/a</p>
+      <h5 > Signing Efficiency Rating: <span class="stat-text" data-vorp-text=n/a data-bpm-text=n/a><span> n/a </h5> 
+      <h5> Signing Total Value Rating: <span class="stat-text" data-vorp-text=21 data-bpm-text=79><span> 79  </h5>
+    </div>
+    <div class="col-md-9">
+    <div class="row">
+    <div class="col-md-12 chart-container" style="height: 40vh; min-height: 350px;"><canvas id="executive_signing_chart"></canvas></div>
+    </div>
+    <script>
+      let mySigningChart = null;
+      let rawSigningData = [];
+    // Load the dataset
+    d3.csv("https://raw.githubusercontent.com/mcoirad/the-grunfeld/master/_data/executive/executive_stats.csv").then(makeChartExecutiveSigning);
+    
+    function makeChartExecutiveSigning(exec_data) {
+  rawSigningData = exec_data;
+
+  const { scoreData, tooltipData, pointRadii, pointBorderColors, pointBackgroundColors } =
+    getSigningChartMappedData(currentStat);
+
+  const ctx = document.getElementById('executive_signing_chart').getContext('2d');
+  mySigningChart = new Chart(ctx, {
+    data: {
+      datasets: [{
+        label: 'Executive Signing Dataset',
+        data: scoreData,
+        borderColor: pointBorderColors,
+        backgroundColor: pointBackgroundColors,
+        tension: 0.1,
+        pointRadius: pointRadii,
+        pointHoverBackgroundColor: 'red',
+        pointHoverRadius: pointRadii,
+      }]
+    },
+    type: 'scatter',
+    options: {
+      //responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: {
+          position: 'top',
+          display: false,
+        },
+        title: {
+          display: true,
+          text: 'Executive Signing Ratings'
+        },
+        tooltip: {
+          callbacks: {
+            label: function(context) {
+              return tooltipData[context.dataIndex];
+            }
+          },
+          mode: 'nearest',
+          intersect: false,
+        }
+      },
+      scales: {
+        x: {
+          title: {
+            display: true,
+            text: 'Percentile for Total Signing Value',
+            color: "black"
+          }
+        },
+        y: {
+          title: {
+            display: true,
+            text: 'Percentile for Signing Pick Efficiency',
+            color: "black"
+          }
+        }
+      },
+      responsive: true,
+      hover: {
+        mode: 'nearest',
+        intersect: false
+      },
+    }
+  });
+}
+
+function getSigningChartMappedData(stat) {
+  const valueKeyX = `signing_total_percentile_${stat}`;
+  const valueKeyY = `signing_rating_percentile_${stat}`;
+  const tooltipData = [];
+  const scoreData = [];
+  const pointRadii = [];
+  const pointBorderColors = [];
+  const pointBackgroundColors = [];
+
+  const filtered = rawSigningData.filter(d => d[valueKeyX] !== "" && d[valueKeyY] !== "");
+
+  for (const d of filtered) {
+    scoreData.push({ x: parseFloat(d[valueKeyX]), y: parseFloat(d[valueKeyY]) });
+    tooltipData.push(d.name);
+    pointRadii.push(10);
+    pointBorderColors.push(d.is_active === 'True' ? 'red' : 'rgb(75, 192, 192)');
+
+    if (d.href.includes( 'webstbo01x' ) ) {
+      pointBackgroundColors.push(d.is_active === 'True' ? 'red' : 'rgb(75, 192, 192)');
+    } else {
+      pointBackgroundColors.push('rgba(0,0,0,0.1)');
+    }
+  }
+
+  return { scoreData, tooltipData, pointRadii, pointBorderColors, pointBackgroundColors };
+}
+
+function updateSigningChart() {
+  const { scoreData, tooltipData, pointRadii, pointBorderColors, pointBackgroundColors } =
+    getSigningChartMappedData(currentStat);
+
+  const dataset = mySigningChart.data.datasets[0];
+  dataset.data = scoreData;
+  dataset.pointRadius = pointRadii;
+  dataset.pointHoverRadius = pointRadii;
+  dataset.backgroundColor = pointBackgroundColors;
+  dataset.borderColor = pointBorderColors;
+  dataset.label = `Executive Signing Dataset (${currentStat.toUpperCase()})`;
+
+  mySigningChart.options.plugins.tooltip.callbacks.label = function(context) {
+    return tooltipData[context.dataIndex];
+  };
+
+  mySigningChart.update();
+}
+    
+  </script>
+
+      This executive has only made 3 signings in free agency and thus doesn't have a signing grade.
+      
+    
+    
+    
+      
+    
+    
+    
+    </div>
+  </div>
+</div>
+<hr>
+  
+
+<div class="container">
+<table class="table table-striped">
+  
+</table>
+</div>
+<script>
+toggleStatElements(currentStat); 
+  </script>
+
+  <!-- Footer -->
+
+<hr>
+
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <ul class="list-inline text-center">
+          
+          <li class="list-inline-item">
+            <a href="mailto:admin@thegrunfeld.com">
+              <span class="fa-stack fa-lg">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="far fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+          
+          <li class="list-inline-item">
+            <a href="https://twitter.com/thegrunfeld">
+              <span class="fa-stack fa-lg">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+          
+          
+          
+          <li class="list-inline-item">
+            <a href="https://github.com/mcoirad">
+              <span class="fa-stack fa-lg">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+          
+        </ul>
+        <p class="copyright text-muted">Copyright &copy;  2025</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
+<script
+  type="text/javascript"
+  src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.4.2/mdb.min.js"
+></script>
+<script src="/the-grunfeld/assets/vendor/startbootstrap-clean-blog/js/scripts.js"></script>
+
+<script src="/the-grunfeld/assets/scripts.js"></script>
+
+
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '');
+</script>
+
+
+
+</body>
+
+</html>

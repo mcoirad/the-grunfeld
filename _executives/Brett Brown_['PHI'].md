@@ -1,5 +1,5 @@
 ---
-bpm_rank: 97
+bpm_rank: 98
 draft_bust_list: "\n    \n    \n    "
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
@@ -56,7 +56,7 @@ signing_total_bpm: -13022
 signing_total_grade_bpm: C+
 signing_total_grade_vorp: D
 signing_total_percentile_bpm: 56
-signing_total_percentile_vorp: 27
+signing_total_percentile_vorp: 28
 signing_total_vorp: 1
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
   <li>Signed J.J. Redick <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
@@ -122,4 +122,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +0\" data-vorp-text=\"+0.0\">+0</span> to PHI.</li>\n<li>Lost Khyri Thomas <span\
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+1456\" data-vorp-text=\"\
   +0.3\">+1456</span> to DET.</li>\n</ul>\n    "
+vorp_rank: 141
 ---

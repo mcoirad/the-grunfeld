@@ -45,7 +45,7 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   -1719.6\">-1719</span> in 2021.</li>\n</ul>\n    "
 signing_num_players: 63
 signing_overall_grade_bpm: A-
-signing_overall_grade_vorp: B-
+signing_overall_grade_vorp: B
 signing_overall_percentile_bpm: 86
 signing_overall_percentile_vorp: 67
 signing_rating_bpm: 0
@@ -112,7 +112,7 @@ trade_total_bpm: 123786
 trade_total_grade_bpm: A+
 trade_total_grade_vorp: A
 trade_total_percentile_bpm: 93
-trade_total_percentile_vorp: 91
+trade_total_percentile_vorp: 92
 trade_total_vorp: 30
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
   \ badge-pill badge-success\" data-bpm-text=\"+11\" data-vorp-text=\"+11.9\">+11.9</span></h5><ul\
@@ -132,4 +132,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-bpm-text=\"+1199\" data-vorp-text=\"-0.4\">+1199</span>, Blake Wesley <span\
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+12268\" data-vorp-text=\"\
   +2.0\">+12268</span> to SAS.</li>\n</ul>\n    "
+vorp_rank: 52
 ---

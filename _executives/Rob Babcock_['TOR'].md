@@ -1,5 +1,5 @@
 ---
-bpm_rank: 126
+bpm_rank: 127
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Rafael Araújo with 8th pick but was worth 57th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-17\" data-vorp-text=\"-17.6\">-17.6</span>\
@@ -145,4 +145,5 @@ trade_win_list: "\n    \n    <h5 id=\"bpm-toggle\">Their biggest win: <span clas
   \ TOR.</li>\n<li>Lost Rafer Alston <span class=\"badge badge-pill badge-danger\"\
   \ data-bpm-text=\"-2432\" data-vorp-text=\"-5.5\">-2432</span> to HOU.</li>\n</ul>\n\
   \    "
+vorp_rank: 145
 ---

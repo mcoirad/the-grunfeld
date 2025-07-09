@@ -76,7 +76,7 @@ signing_total_bpm: -43094
 signing_total_grade_bpm: D
 signing_total_grade_vorp: D-
 signing_total_percentile_bpm: 31
-signing_total_percentile_vorp: 24
+signing_total_percentile_vorp: 25
 signing_total_vorp: 0
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
   <li>Signed Adrian Griffin <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
@@ -115,7 +115,7 @@ trade_num: 47
 trade_overall_grade_bpm: C
 trade_overall_grade_vorp: B
 trade_overall_percentile_bpm: 50
-trade_overall_percentile_vorp: 71
+trade_overall_percentile_vorp: 70
 trade_rating_bpm: 0
 trade_rating_grade_bpm: B+
 trade_rating_grade_vorp: A+
@@ -125,8 +125,8 @@ trade_rating_vorp: 0
 trade_total_bpm: -30982
 trade_total_grade_bpm: D-
 trade_total_grade_vorp: C
-trade_total_percentile_bpm: 23
-trade_total_percentile_vorp: 48
+trade_total_percentile_bpm: 22
+trade_total_percentile_vorp: 47
 trade_total_vorp: -4
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
   \ badge-pill badge-success\" data-bpm-text=\"+3\" data-vorp-text=\"+3.5\">+3.5</span></h5><ul\
@@ -149,4 +149,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +1.5\">+12104</span>, Obinna Ekezie <span class=\"badge badge-pill badge-success\"\
   \ data-bpm-text=\"+1684\" data-vorp-text=\"+0.2\">+1684</span> to VAN.</li>\n</ul>\n\
   \    "
+vorp_rank: 34
 ---

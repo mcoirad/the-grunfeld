@@ -1,5 +1,5 @@
 ---
-bpm_rank: 106
+bpm_rank: 107
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted J.J. Hickson with 19th pick but was worth 26th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-3\" data-vorp-text=\"-3.0\">-3.0</span>\
@@ -82,7 +82,7 @@ signing_rating_vorp: 0
 signing_total_bpm: -21921
 signing_total_grade_bpm: C-
 signing_total_grade_vorp: B+
-signing_total_percentile_bpm: 43
+signing_total_percentile_bpm: 42
 signing_total_percentile_vorp: 79
 signing_total_vorp: 23
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
@@ -127,7 +127,7 @@ trade_num: 75
 trade_overall_grade_bpm: B-
 trade_overall_grade_vorp: B-
 trade_overall_percentile_bpm: 61
-trade_overall_percentile_vorp: 60
+trade_overall_percentile_vorp: 61
 trade_rating_bpm: 0
 trade_rating_grade_bpm: C
 trade_rating_grade_vorp: C-
@@ -136,8 +136,8 @@ trade_rating_percentile_vorp: 41
 trade_rating_vorp: 0
 trade_total_bpm: 26736
 trade_total_grade_bpm: B
-trade_total_grade_vorp: B+
-trade_total_percentile_bpm: 71
+trade_total_grade_vorp: A-
+trade_total_percentile_bpm: 72
 trade_total_percentile_vorp: 80
 trade_total_vorp: 10
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
@@ -148,4 +148,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-bpm-text=\"+10726\" data-vorp-text=\"+10726.8\">+10726</span></h5><ul id=bpm-toggle>\n\
   <li>Added Kyle Korver <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
   +10726\" data-vorp-text=\"+8.1\">+10726</span> to ATL.</li>\n</ul>\n    "
+vorp_rank: 53
 ---

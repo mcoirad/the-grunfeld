@@ -146,7 +146,7 @@ trade_rating_vorp: 0
 trade_total_bpm: 114289
 trade_total_grade_bpm: A
 trade_total_grade_vorp: A-
-trade_total_percentile_bpm: 91
+trade_total_percentile_bpm: 92
 trade_total_percentile_vorp: 82
 trade_total_vorp: 11
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
@@ -173,4 +173,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-vorp-text=\"-0.2\">+1783</span>, Austin Rivers <span class=\"badge badge-pill\
   \ badge-success\" data-bpm-text=\"+8791\" data-vorp-text=\"+1.5\">+8791</span> to\
   \ NOH.</li>\n</ul>\n    "
+vorp_rank: 21
 ---

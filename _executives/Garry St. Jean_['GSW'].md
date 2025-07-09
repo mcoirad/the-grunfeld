@@ -1,5 +1,5 @@
 ---
-bpm_rank: 157
+bpm_rank: 158
 draft_bust_list: "\n    \n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
   \ id=bpm-toggle>\n<li>Drafted Mickaël Piétrus with 11th pick but was worth 43th\
   \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-10755\" data-vorp-text=\"\
@@ -13,7 +13,7 @@ draft_description: Garry St. Jean ranks in the 88th percentile for drafting amon
 draft_num_players: 7
 draft_overall_grade_bpm: A-
 draft_overall_grade_vorp: B+
-draft_overall_percentile_vorp: 77
+draft_overall_percentile_vorp: 78
 draft_rating_bpm: 6
 draft_rating_grade_bpm: A+
 draft_rating_grade_vorp: A
@@ -79,7 +79,7 @@ signing_total_bpm: -22026
 signing_total_grade_bpm: C-
 signing_total_grade_vorp: D
 signing_total_percentile_bpm: 42
-signing_total_percentile_vorp: 30
+signing_total_percentile_vorp: 31
 signing_total_vorp: 2
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
   <li>Signed Brian Cardinal <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
@@ -148,4 +148,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-vorp-text=\"+0.1\">+1255</span>, Joe Smith <span class=\"badge badge-pill\
   \ badge-success\" data-bpm-text=\"+5292\" data-vorp-text=\"+0.3\">+5292</span> to\
   \ PHI.</li>\n</ul>\n    "
+vorp_rank: 156
 ---

@@ -1,5 +1,5 @@
 ---
-bpm_rank: 135
+bpm_rank: 136
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Killian Hayes with 7th pick but was worth 60th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-8\" data-vorp-text=\"-8.4\">-8.4</span>\
@@ -62,10 +62,10 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-5200\" data-vorp-text=\"\
   -5200.5\">-5200</span> in 2021.</li>\n</ul>\n    "
 signing_num_players: 76
-signing_overall_grade_bpm: D
+signing_overall_grade_bpm: D-
 signing_overall_grade_vorp: C
 signing_overall_percentile_bpm: 27
-signing_overall_percentile_vorp: 52
+signing_overall_percentile_vorp: 53
 signing_rating_bpm: -1
 signing_rating_grade_bpm: D+
 signing_rating_grade_vorp: C+
@@ -76,7 +76,7 @@ signing_total_bpm: -59088
 signing_total_grade_bpm: D-
 signing_total_grade_vorp: C
 signing_total_percentile_bpm: 21
-signing_total_percentile_vorp: 51
+signing_total_percentile_vorp: 52
 signing_total_vorp: 8
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
   <li>Signed Jalen Duren <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
@@ -154,4 +154,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-bpm-text=\"-3832\" data-vorp-text=\"-2.7\">-3832</span>, JT Thor <span class=\"\
   badge badge-pill badge-success\" data-bpm-text=\"+8854\" data-vorp-text=\"+1.3\"\
   >+8854</span> to CHO.</li>\n</ul>\n    "
+vorp_rank: 126
 ---

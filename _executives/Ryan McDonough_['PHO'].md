@@ -1,5 +1,5 @@
 ---
-bpm_rank: 120
+bpm_rank: 121
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Deandre Ayton with 1th pick but was worth 6th pick. <span class=\"badge\
   \ badge-pill badge-danger\" data-bpm-text=\"-29\" data-vorp-text=\"-29.5\">-29.5</span>\
@@ -33,8 +33,8 @@ draft_rating_vorp: -15
 draft_total_bpm: -36168
 draft_total_grade_bpm: B-
 draft_total_grade_vorp: B-
-draft_total_percentile_bpm: 63
-draft_total_percentile_vorp: 63
+draft_total_percentile_bpm: 64
+draft_total_percentile_vorp: 64
 draft_total_vorp: 20
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Devin Booker with 13th pick but was worth 3th pick. <span class=\"badge\
@@ -150,4 +150,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"\
   +0.0\">+0</span>, Semi Ojeleye <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
   +11779\" data-vorp-text=\"+1.1\">+11779</span> to BOS.</li>\n</ul>\n    "
+vorp_rank: 101
 ---

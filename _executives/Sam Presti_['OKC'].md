@@ -1,5 +1,5 @@
 ---
-bpm_rank: 122
+bpm_rank: 123
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Terrance Ferguson with 21th pick but was worth 56th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-3\" data-vorp-text=\"-3.2\">-3.2</span>\
@@ -187,4 +187,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to OKC.</li>\n\
   <li>Lost Paul George <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
   -32021\" data-vorp-text=\"-12.6\">-32021</span> to LAC.</li>\n</ul>\n    "
+vorp_rank: 139
 ---

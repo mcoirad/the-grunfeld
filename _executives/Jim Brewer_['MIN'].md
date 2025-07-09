@@ -1,5 +1,5 @@
 ---
-bpm_rank: 91
+bpm_rank: 92
 draft_bust_list: "\n    \n    \n    "
 draft_description: This executive has only drafted 2 players and thus doesn't have
   a draft grade.
@@ -97,4 +97,5 @@ trade_total_percentile_bpm: 39
 trade_total_percentile_vorp: 51
 trade_total_vorp: -3
 trade_win_list: "\n    \n    \n    "
+vorp_rank: 134
 ---

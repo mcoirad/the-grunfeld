@@ -77,7 +77,7 @@ signing_rating_vorp: 0
 signing_total_bpm: -18907
 signing_total_grade_bpm: C-
 signing_total_grade_vorp: A-
-signing_total_percentile_bpm: 46
+signing_total_percentile_bpm: 45
 signing_total_percentile_vorp: 86
 signing_total_vorp: 34
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
@@ -139,7 +139,7 @@ trade_rating_vorp: 0
 trade_total_bpm: 36229
 trade_total_grade_bpm: B+
 trade_total_grade_vorp: D-
-trade_total_percentile_bpm: 77
+trade_total_percentile_bpm: 78
 trade_total_percentile_vorp: 24
 trade_total_vorp: -23
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
@@ -170,4 +170,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   >+5292</span>, future 2nd round pick <span class=\"badge badge-pill badge-success\"\
   \ data-bpm-text=\"+5292\" data-vorp-text=\"-1.4\">+5292</span> to BRK.</li>\n</ul>\n\
   \    "
+vorp_rank: 97
 ---

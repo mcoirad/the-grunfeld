@@ -1,5 +1,5 @@
 ---
-bpm_rank: 68
+bpm_rank: 69
 draft_bust_list: "\n    \n    \n    "
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
@@ -46,7 +46,7 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
 signing_num_players: 25
 signing_overall_grade_bpm: D
 signing_overall_grade_vorp: F
-signing_overall_percentile_bpm: 32
+signing_overall_percentile_bpm: 31
 signing_overall_percentile_vorp: 10
 signing_rating_bpm: -1
 signing_rating_grade_bpm: D-
@@ -122,7 +122,7 @@ trade_rating_vorp: 0
 trade_total_bpm: -13277
 trade_total_grade_bpm: D+
 trade_total_grade_vorp: D+
-trade_total_percentile_bpm: 34
+trade_total_percentile_bpm: 33
 trade_total_percentile_vorp: 39
 trade_total_vorp: -8
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
@@ -156,4 +156,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   -0.1\">+3616</span>, Khalid Reeves <span class=\"badge badge-pill badge-success\"\
   \ data-bpm-text=\"+5394\" data-vorp-text=\"+0.2\">+5394</span> to DAL.</li>\n</ul>\n\
   \    "
+vorp_rank: 100
 ---

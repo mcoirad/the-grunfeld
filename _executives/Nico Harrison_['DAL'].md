@@ -1,5 +1,5 @@
 ---
-bpm_rank: 93
+bpm_rank: 94
 draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
   a draft grade.
@@ -110,7 +110,7 @@ trade_total_bpm: 16031
 trade_total_grade_bpm: B
 trade_total_grade_vorp: B
 trade_total_percentile_bpm: 67
-trade_total_percentile_vorp: 71
+trade_total_percentile_vorp: 72
 trade_total_vorp: 3
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
   \ badge-pill badge-success\" data-bpm-text=\"+6\" data-vorp-text=\"+6.2\">+6.2</span></h5><ul\
@@ -134,4 +134,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-bpm-text=\"+1732\" data-vorp-text=\"-0.8\">+1732</span>, Dorian Finney-Smith\
   \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+6535\" data-vorp-text=\"\
   +0.0\">+6535</span> to BRK.</li>\n</ul>\n    "
+vorp_rank: 96
 ---

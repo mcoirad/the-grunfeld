@@ -1,5 +1,5 @@
 ---
-bpm_rank: 96
+bpm_rank: 97
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Thomas Robinson with 5th pick but was worth 58th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-20\" data-vorp-text=\"-20.1\">-20.1</span>\
@@ -164,4 +164,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   -1889\" data-vorp-text=\"-3.3\">-1889</span>, Otis Thorpe <span class=\"badge badge-pill\
   \ badge-success\" data-bpm-text=\"+461\" data-vorp-text=\"-0.6\">+461</span> to\
   \ WAS.</li>\n</ul>\n    "
+vorp_rank: 10
 ---

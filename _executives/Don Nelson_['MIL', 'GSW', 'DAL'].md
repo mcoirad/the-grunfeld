@@ -88,7 +88,7 @@ signing_total_bpm: -106867
 signing_total_grade_bpm: F
 signing_total_grade_vorp: B
 signing_total_percentile_bpm: 7
-signing_total_percentile_vorp: 71
+signing_total_percentile_vorp: 72
 signing_total_vorp: 17
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
   <li>Signed John Lucas <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
@@ -140,8 +140,8 @@ trade_rating_vorp: 0
 trade_total_bpm: 47112
 trade_total_grade_bpm: A-
 trade_total_grade_vorp: F
-trade_total_percentile_bpm: 80
-trade_total_percentile_vorp: 20
+trade_total_percentile_bpm: 81
+trade_total_percentile_vorp: 19
 trade_total_vorp: -28
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
   \ badge-pill badge-success\" data-bpm-text=\"+84\" data-vorp-text=\"+84.3\">+84.3</span></h5><ul\
@@ -158,4 +158,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   >+232573</span> to DAL.</li>\n<li>Lost Robert Traylor <span class=\"badge badge-pill\
   \ badge-danger\" data-bpm-text=\"-36\" data-vorp-text=\"-0.7\">-36</span> to MIL.</li>\n\
   </ul>\n    "
+vorp_rank: 12
 ---

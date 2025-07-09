@@ -1,5 +1,5 @@
 ---
-bpm_rank: 101
+bpm_rank: 102
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Michael Smith with 13th pick but was worth 40th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-5\" data-vorp-text=\"-5.8\">-5.8</span>\
@@ -74,7 +74,7 @@ signing_num_players: 24
 signing_overall_grade_bpm: D+
 signing_overall_grade_vorp: D-
 signing_overall_percentile_bpm: 36
-signing_overall_percentile_vorp: 24
+signing_overall_percentile_vorp: 25
 signing_rating_bpm: -1
 signing_rating_grade_bpm: D-
 signing_rating_grade_vorp: F
@@ -85,7 +85,7 @@ signing_total_bpm: -15781
 signing_total_grade_bpm: C
 signing_total_grade_vorp: C-
 signing_total_percentile_bpm: 52
-signing_total_percentile_vorp: 41
+signing_total_percentile_vorp: 42
 signing_total_vorp: 5
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
   <li>Signed Kevin Gamble <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
@@ -124,7 +124,7 @@ trade_num: 29
 trade_overall_grade_bpm: F
 trade_overall_grade_vorp: D+
 trade_overall_percentile_bpm: 19
-trade_overall_percentile_vorp: 34
+trade_overall_percentile_vorp: 33
 trade_rating_bpm: 0
 trade_rating_grade_bpm: F
 trade_rating_grade_vorp: F
@@ -154,4 +154,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   -1.6\">+1022</span>, Arvydas Sabonis <span class=\"badge badge-pill badge-success\"\
   \ data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to LAC.</li>\n</ul>\n \
   \   "
+vorp_rank: 76
 ---

@@ -16,8 +16,8 @@ draft_rating_vorp: null
 draft_total_bpm: 856
 draft_total_grade_bpm: C-
 draft_total_grade_vorp: C-
-draft_total_percentile_bpm: 41
-draft_total_percentile_vorp: 41
+draft_total_percentile_bpm: 42
+draft_total_percentile_vorp: 42
 draft_total_vorp: 2
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
   </ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n</ul>\n\
@@ -135,4 +135,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-vorp-text=\"+0.0\">+8349</span>, Ryan Rollins <span class=\"badge badge-pill\
   \ badge-danger\" data-bpm-text=\"-330\" data-vorp-text=\"-0.1\">-330</span> to WAS.</li>\n\
   </ul>\n    "
+vorp_rank: 123
 ---

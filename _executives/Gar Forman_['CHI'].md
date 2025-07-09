@@ -1,5 +1,5 @@
 ---
-bpm_rank: 84
+bpm_rank: 85
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Coby White with 7th pick but was worth 17th pick. <span class=\"badge\
   \ badge-pill badge-danger\" data-bpm-text=\"-5\" data-vorp-text=\"-5.6\">-5.6</span>\
@@ -88,7 +88,7 @@ signing_rating_vorp: 0
 signing_total_bpm: -3927
 signing_total_grade_bpm: B
 signing_total_grade_vorp: A
-signing_total_percentile_bpm: 71
+signing_total_percentile_bpm: 70
 signing_total_percentile_vorp: 93
 signing_total_vorp: 47
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
@@ -128,7 +128,7 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   -12\" data-vorp-text=\"+0.0\">-12</span> to MIN.</li>\n</ul>\n    "
 trade_num: 112
 trade_overall_grade_bpm: B
-trade_overall_grade_vorp: C
+trade_overall_grade_vorp: C-
 trade_overall_percentile_bpm: 68
 trade_overall_percentile_vorp: 47
 trade_rating_bpm: 0
@@ -158,4 +158,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-vorp-text=\"-0.4\">+1471</span>, Kevin Séraphin <span class=\"badge badge-pill\
   \ badge-success\" data-bpm-text=\"+23544\" data-vorp-text=\"+3.3\">+23544</span>\
   \ to WAS.</li>\n</ul>\n    "
+vorp_rank: 40
 ---

@@ -1,5 +1,5 @@
 ---
-bpm_rank: 147
+bpm_rank: 148
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Austin Rivers with 10th pick but was worth 60th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-11\" data-vorp-text=\"-11.4\">-11.4</span>\
@@ -150,4 +150,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ to NOP.</li>\n<li>Lost Dwayne Bacon <span class=\"badge badge-pill badge-success\"\
   \ data-bpm-text=\"+10831\" data-vorp-text=\"+1.6\">+10831</span> to CHO.</li>\n\
   </ul>\n    "
+vorp_rank: 137
 ---

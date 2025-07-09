@@ -1,5 +1,5 @@
 ---
-bpm_rank: 165
+bpm_rank: 166
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Michael Olowokandi with 1th pick but was worth 58th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-93\" data-vorp-text=\"-93.3\">-93.3</span>\
@@ -23,7 +23,7 @@ draft_description: Elgin Baylor ranks in the 30th percentile for drafting among 
   8 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 41
 draft_overall_grade_bpm: C
-draft_overall_grade_vorp: C
+draft_overall_grade_vorp: C+
 draft_overall_percentile_vorp: 53
 draft_rating_bpm: -15
 draft_rating_grade_bpm: D-
@@ -132,7 +132,7 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   +0.0\">+0</span> to IND.</li>\n</ul>\n    "
 trade_num: 138
 trade_overall_grade_bpm: C+
-trade_overall_grade_vorp: C
+trade_overall_grade_vorp: C+
 trade_overall_percentile_bpm: 57
 trade_overall_percentile_vorp: 53
 trade_rating_bpm: 0
@@ -162,4 +162,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +4602\" data-vorp-text=\"-3.0\">+4602</span>, Brian Skinner <span class=\"badge\
   \ badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span>\
   \ to CHI.</li>\n</ul>\n    "
+vorp_rank: 46
 ---

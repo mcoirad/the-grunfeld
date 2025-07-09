@@ -1,5 +1,5 @@
 ---
-bpm_rank: 65
+bpm_rank: 66
 draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
   a draft grade.
@@ -82,4 +82,5 @@ trade_total_percentile_bpm: 48
 trade_total_percentile_vorp: 61
 trade_total_vorp: 0
 trade_win_list: "\n    \n    \n    "
+vorp_rank: 121
 ---

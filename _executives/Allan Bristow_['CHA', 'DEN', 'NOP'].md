@@ -1,5 +1,5 @@
 ---
-bpm_rank: 151
+bpm_rank: 152
 draft_bust_list: "\n    \n    \n    "
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
@@ -96,7 +96,7 @@ trade_num: 69
 trade_overall_grade_bpm: F
 trade_overall_grade_vorp: F
 trade_overall_percentile_bpm: 11
-trade_overall_percentile_vorp: 6
+trade_overall_percentile_vorp: 5
 trade_rating_bpm: 0
 trade_rating_grade_bpm: F
 trade_rating_grade_vorp: F
@@ -124,4 +124,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span>, Hanno\
   \ Möttölä <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+13930\"\
   \ data-vorp-text=\"+2.3\">+13930</span> to ATL.</li>\n</ul>\n    "
+vorp_rank: 162
 ---

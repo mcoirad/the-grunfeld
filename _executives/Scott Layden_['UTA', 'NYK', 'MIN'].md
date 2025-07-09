@@ -1,5 +1,5 @@
 ---
-bpm_rank: 124
+bpm_rank: 125
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Mike Sweetney with 9th pick but was worth 49th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-10\" data-vorp-text=\"-10.7\">-10.7</span>\
@@ -23,7 +23,7 @@ draft_description: Scott Layden ranks in the 82th percentile for drafting among 
 draft_num_players: 12
 draft_overall_grade_bpm: B
 draft_overall_grade_vorp: B
-draft_overall_percentile_vorp: 71
+draft_overall_percentile_vorp: 72
 draft_rating_bpm: 0
 draft_rating_grade_bpm: B+
 draft_rating_grade_vorp: A-
@@ -33,8 +33,8 @@ draft_rating_vorp: 4
 draft_total_bpm: -33903
 draft_total_grade_bpm: B-
 draft_total_grade_vorp: B-
-draft_total_percentile_bpm: 60
-draft_total_percentile_vorp: 60
+draft_total_percentile_bpm: 61
+draft_total_percentile_vorp: 61
 draft_total_vorp: 16
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Bryon Russell with 45th pick but was worth 7th pick. <span class=\"\
@@ -175,4 +175,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-vorp-text=\"+38.4\">+110307</span> to UTA.</li>\n<li>Lost Felton Spencer\
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-11\" data-vorp-text=\"\
   +0.0\">-11</span> to ORL.</li>\n</ul>\n    "
+vorp_rank: 50
 ---

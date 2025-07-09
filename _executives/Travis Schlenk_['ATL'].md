@@ -1,5 +1,5 @@
 ---
-bpm_rank: 143
+bpm_rank: 144
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Cam Reddish with 10th pick but was worth 59th pick. <span class=\"badge\
   \ badge-pill badge-danger\" data-bpm-text=\"-5\" data-vorp-text=\"-5.0\">-5.0</span>\
@@ -30,8 +30,8 @@ draft_rating_percentile_bpm: 72
 draft_rating_percentile_vorp: 61
 draft_rating_vorp: 0
 draft_total_bpm: -11788
-draft_total_grade_bpm: C+
-draft_total_grade_vorp: C+
+draft_total_grade_bpm: B-
+draft_total_grade_vorp: B-
 draft_total_percentile_bpm: 60
 draft_total_percentile_vorp: 60
 draft_total_vorp: 16
@@ -85,7 +85,7 @@ signing_rating_vorp: 0
 signing_total_bpm: -106
 signing_total_grade_bpm: B+
 signing_total_grade_vorp: A-
-signing_total_percentile_bpm: 76
+signing_total_percentile_bpm: 75
 signing_total_percentile_vorp: 81
 signing_total_vorp: 24
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
@@ -161,4 +161,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +0.0\">+0</span> to MIN.</li>\n<li>Lost Pelle Larsson <span class=\"badge badge-pill\
   \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to HOU.</li>\n\
   </ul>\n    "
+vorp_rank: 107
 ---

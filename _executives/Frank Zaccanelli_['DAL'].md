@@ -1,5 +1,5 @@
 ---
-bpm_rank: 86
+bpm_rank: 87
 draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
   a draft grade.
@@ -48,7 +48,7 @@ signing_rating_vorp: null
 signing_total_bpm: -2090
 signing_total_grade_bpm: B
 signing_total_grade_vorp: F
-signing_total_percentile_bpm: 73
+signing_total_percentile_bpm: 72
 signing_total_percentile_vorp: 17
 signing_total_vorp: 0
 signing_win_list: "\n    \n    \n    "
@@ -104,4 +104,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   -18.3\">-18.3</span>, Loren Meyer <span class=\"badge badge-pill badge-success\"\
   \ data-bpm-text=\"+3367\" data-vorp-text=\"+0.6\">+0.6</span> to PHO.</li>\n</ul>\n\
   \    \n    "
+vorp_rank: 104
 ---

@@ -1,5 +1,5 @@
 ---
-bpm_rank: 71
+bpm_rank: 72
 draft_bust_list: "\n    \n    \n    "
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
@@ -16,8 +16,8 @@ draft_rating_vorp: null
 draft_total_bpm: -364
 draft_total_grade_bpm: F
 draft_total_grade_vorp: F
-draft_total_percentile_bpm: 20
-draft_total_percentile_vorp: 20
+draft_total_percentile_bpm: 19
+draft_total_percentile_vorp: 19
 draft_total_vorp: 0
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
   </ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n</ul>\n\
@@ -131,4 +131,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-vorp-text=\"+8.6\">+13457</span> to PHI.</li>\n<li>Lost Markelle Fultz <span\
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+4851\" data-vorp-text=\"\
   -1.5\">+4851</span> to ORL.</li>\n</ul>\n    "
+vorp_rank: 95
 ---

@@ -1,5 +1,5 @@
 ---
-bpm_rank: 119
+bpm_rank: 120
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Rui Hachimura with 9th pick but was worth 25th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-5\" data-vorp-text=\"-5.1\">-5.1</span>\
@@ -75,7 +75,7 @@ signing_total_bpm: -28892
 signing_total_grade_bpm: D+
 signing_total_grade_vorp: C-
 signing_total_percentile_bpm: 38
-signing_total_percentile_vorp: 40
+signing_total_percentile_vorp: 41
 signing_total_vorp: 5
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
   <li>Signed Delon Wright <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
@@ -128,7 +128,7 @@ trade_total_bpm: 25480
 trade_total_grade_bpm: B
 trade_total_grade_vorp: A-
 trade_total_percentile_bpm: 71
-trade_total_percentile_vorp: 80
+trade_total_percentile_vorp: 81
 trade_total_vorp: 10
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
   \ badge-pill badge-success\" data-bpm-text=\"+3\" data-vorp-text=\"+3.8\">+3.8</span></h5><ul\
@@ -148,4 +148,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-bpm-text=\"+774\" data-vorp-text=\"-0.2\">+774</span>, Spencer Dinwiddie\
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-572\" data-vorp-text=\"\
   -2.4\">-572</span> to DAL.</li>\n</ul>\n    "
+vorp_rank: 93
 ---

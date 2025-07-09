@@ -1,5 +1,5 @@
 ---
-bpm_rank: 110
+bpm_rank: 111
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Marvin Bagley III with 2th pick but was worth 26th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-28\" data-vorp-text=\"-28.5\">-28.5</span>\
@@ -122,7 +122,7 @@ trade_num: 65
 trade_overall_grade_bpm: B
 trade_overall_grade_vorp: B+
 trade_overall_percentile_bpm: 73
-trade_overall_percentile_vorp: 74
+trade_overall_percentile_vorp: 75
 trade_rating_bpm: 0
 trade_rating_grade_bpm: B
 trade_rating_grade_vorp: A-
@@ -164,4 +164,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span>, Romeo\
   \ Langford <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"\
   +0.0\">+0</span> to PHI.</li>\n</ul>\n    "
+vorp_rank: 60
 ---

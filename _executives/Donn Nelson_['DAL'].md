@@ -129,7 +129,7 @@ trade_total_bpm: 97274
 trade_total_grade_bpm: A
 trade_total_grade_vorp: C-
 trade_total_percentile_bpm: 90
-trade_total_percentile_vorp: 46
+trade_total_percentile_vorp: 45
 trade_total_vorp: -4
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
   \ badge-pill badge-success\" data-bpm-text=\"+9\" data-vorp-text=\"+10.0\">+10.0</span></h5><ul\
@@ -166,4 +166,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   badge badge-pill badge-success\" data-bpm-text=\"+1443\" data-vorp-text=\"-0.3\"\
   >+1443</span>, Jordan Crawford <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
   +0\" data-vorp-text=\"+0.0\">+0</span> to NJN.</li>\n</ul>\n    "
+vorp_rank: 15
 ---

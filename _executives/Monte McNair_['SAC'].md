@@ -1,5 +1,5 @@
 ---
-bpm_rank: 72
+bpm_rank: 73
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Davion Mitchell with 9th pick but was worth 60th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-5\" data-vorp-text=\"-5.2\">-5.2</span>\
@@ -21,7 +21,7 @@ draft_description: Monte McNair ranks in the 46th percentile for drafting among 
   in our database. McNair's draft picks average out to be worth the equivalent of
   4 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 8
-draft_overall_grade_bpm: C
+draft_overall_grade_bpm: C+
 draft_overall_grade_vorp: C-
 draft_overall_percentile_vorp: 45
 draft_rating_bpm: -6
@@ -33,8 +33,8 @@ draft_rating_vorp: -4
 draft_total_bpm: -21576
 draft_total_grade_bpm: C-
 draft_total_grade_vorp: C-
-draft_total_percentile_bpm: 43
-draft_total_percentile_vorp: 43
+draft_total_percentile_bpm: 44
+draft_total_percentile_vorp: 44
 draft_total_vorp: 3
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Tyrese Haliburton with 12th pick but was worth 1th pick. <span class=\"\
@@ -183,4 +183,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span>, future\
   \ 2nd round pick <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
   +5292\" data-vorp-text=\"+0.3\">+5292</span> to TOR.</li>\n</ul>\n    "
+vorp_rank: 74
 ---

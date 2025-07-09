@@ -52,7 +52,7 @@ signing_total_bpm: 3632
 signing_total_grade_bpm: A-
 signing_total_grade_vorp: D+
 signing_total_percentile_bpm: 85
-signing_total_percentile_vorp: 35
+signing_total_percentile_vorp: 36
 signing_total_vorp: 4
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
   <li>Signed James Johnson <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
@@ -107,7 +107,7 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
 trade_num: 27
 trade_overall_grade_bpm: B-
 trade_overall_grade_vorp: A-
-trade_overall_percentile_bpm: 65
+trade_overall_percentile_bpm: 66
 trade_overall_percentile_vorp: 82
 trade_rating_bpm: 0
 trade_rating_grade_bpm: B
@@ -118,7 +118,7 @@ trade_rating_vorp: 0
 trade_total_bpm: 7969
 trade_total_grade_bpm: B-
 trade_total_grade_vorp: B
-trade_total_percentile_bpm: 60
+trade_total_percentile_bpm: 61
 trade_total_percentile_vorp: 69
 trade_total_vorp: 3
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
@@ -135,4 +135,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ receive any players or picks.</li>\n<li>Lost Tony Wroten <span class=\"badge badge-pill\
   \ badge-success\" data-bpm-text=\"+9534\" data-vorp-text=\"+0.9\">+9534</span> to\
   \ PHI.</li>\n</ul>\n    "
+vorp_rank: 105
 ---

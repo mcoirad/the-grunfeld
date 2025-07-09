@@ -1,5 +1,5 @@
 ---
-bpm_rank: 107
+bpm_rank: 108
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Eric Montross with 9th pick but was worth 54th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-17\" data-vorp-text=\"-17.5\">-17.5</span>\
@@ -33,8 +33,8 @@ draft_rating_vorp: -21
 draft_total_bpm: -30159
 draft_total_grade_bpm: C+
 draft_total_grade_vorp: C+
-draft_total_percentile_bpm: 55
-draft_total_percentile_vorp: 55
+draft_total_percentile_bpm: 56
+draft_total_percentile_vorp: 56
 draft_total_vorp: 12
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
   </ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n<li>Drafted\
@@ -79,7 +79,7 @@ signing_rating_vorp: 0
 signing_total_bpm: -9626
 signing_total_grade_bpm: C+
 signing_total_grade_vorp: C+
-signing_total_percentile_bpm: 60
+signing_total_percentile_bpm: 59
 signing_total_percentile_vorp: 59
 signing_total_vorp: 12
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
@@ -152,4 +152,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-bpm-text=\"+5904\" data-vorp-text=\"+1.0\">+5904</span>, Samaki Walker <span\
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+8810\" data-vorp-text=\"\
   +1.2\">+8810</span> to DAL.</li>\n</ul>\n    "
+vorp_rank: 72
 ---

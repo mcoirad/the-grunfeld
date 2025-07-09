@@ -1,5 +1,5 @@
 ---
-bpm_rank: 152
+bpm_rank: 153
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Richard Hamilton with 7th pick but was worth 14th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-19\" data-vorp-text=\"-19.9\">-19.9</span>\
@@ -65,8 +65,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
 signing_num_players: 31
 signing_overall_grade_bpm: A-
 signing_overall_grade_vorp: B-
-signing_overall_percentile_bpm: 82
-signing_overall_percentile_vorp: 65
+signing_overall_percentile_bpm: 81
+signing_overall_percentile_vorp: 66
 signing_rating_bpm: 0
 signing_rating_grade_bpm: A-
 signing_rating_grade_vorp: B
@@ -143,4 +143,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +0\" data-vorp-text=\"+0.0\">+0</span> to WAS.</li>\n<li>Lost Chris Whitney <span\
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+2667\" data-vorp-text=\"\
   +0.3\">+2667</span> to DEN.</li>\n</ul>\n    "
+vorp_rank: 158
 ---

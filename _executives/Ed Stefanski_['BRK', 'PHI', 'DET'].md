@@ -1,5 +1,5 @@
 ---
-bpm_rank: 121
+bpm_rank: 122
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Evan Turner with 2th pick but was worth 23th pick. <span class=\"badge\
   \ badge-pill badge-danger\" data-bpm-text=\"-23\" data-vorp-text=\"-23.6\">-23.6</span>\
@@ -24,7 +24,7 @@ draft_description: Ed Stefanski ranks in the 9th percentile for drafting among e
 draft_num_players: 11
 draft_overall_grade_bpm: F
 draft_overall_grade_vorp: F
-draft_overall_percentile_vorp: 13
+draft_overall_percentile_vorp: 12
 draft_rating_bpm: -18
 draft_rating_grade_bpm: F
 draft_rating_grade_vorp: F
@@ -83,7 +83,7 @@ signing_total_bpm: -54106
 signing_total_grade_bpm: D-
 signing_total_grade_vorp: D
 signing_total_percentile_bpm: 24
-signing_total_percentile_vorp: 32
+signing_total_percentile_vorp: 33
 signing_total_vorp: 3
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
   <li>Signed Elton Brand <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
@@ -167,4 +167,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-bpm-text=\"+16058\" data-vorp-text=\"+1.7\">+16058</span>, Renaldo Balkman\
   \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"\
   +0.0\">+0</span> to TOR.</li>\n</ul>\n    "
+vorp_rank: 71
 ---

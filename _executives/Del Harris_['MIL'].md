@@ -1,5 +1,5 @@
 ---
-bpm_rank: 89
+bpm_rank: 90
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Jeff Grayer with 13th pick but was worth 61th pick. <span class=\"badge\
   \ badge-pill badge-danger\" data-bpm-text=\"-9\" data-vorp-text=\"-9.2\">-9.2</span>\
@@ -68,7 +68,7 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
 signing_num_players: 25
 signing_overall_grade_bpm: C-
 signing_overall_grade_vorp: F
-signing_overall_percentile_bpm: 43
+signing_overall_percentile_bpm: 42
 signing_overall_percentile_vorp: 19
 signing_rating_bpm: -1
 signing_rating_grade_bpm: D-
@@ -80,7 +80,7 @@ signing_total_bpm: -9273
 signing_total_grade_bpm: B-
 signing_total_grade_vorp: D-
 signing_total_percentile_bpm: 61
-signing_total_percentile_vorp: 26
+signing_total_percentile_vorp: 27
 signing_total_vorp: 0
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
   <li>Signed Moses Malone <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
@@ -152,4 +152,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-bpm-text=\"+3534\" data-vorp-text=\"-3.9\">+3534</span>, Tony Massenburg\
   \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+4552\" data-vorp-text=\"\
   +0.8\">+4552</span> to SAS.</li>\n</ul>\n    "
+vorp_rank: 89
 ---

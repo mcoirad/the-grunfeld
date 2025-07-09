@@ -132,7 +132,7 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
 trade_num: 301
 trade_overall_grade_bpm: A-
 trade_overall_grade_vorp: D+
-trade_overall_percentile_bpm: 82
+trade_overall_percentile_bpm: 83
 trade_overall_percentile_vorp: 33
 trade_rating_bpm: 0
 trade_rating_grade_bpm: B+
@@ -178,4 +178,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-bpm-text=\"+5329\" data-vorp-text=\"+0.0\">+5329</span>, Mitch McGary <span\
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+1447\" data-vorp-text=\"\
   +0.1\">+1447</span> to OKC.</li>\n</ul>\n    "
+vorp_rank: 24
 ---

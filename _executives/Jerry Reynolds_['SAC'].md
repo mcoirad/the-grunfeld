@@ -1,5 +1,5 @@
 ---
-bpm_rank: 125
+bpm_rank: 126
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Billy Owens with 3th pick but was worth 11th pick. <span class=\"badge\
   \ badge-pill badge-danger\" data-bpm-text=\"-16\" data-vorp-text=\"-16.8\">-16.8</span>\
@@ -164,4 +164,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-vorp-text=\"+0.0\">-7768</span> to SAC.</li>\n<li>Lost Billy Owens <span\
   \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-1588\" data-vorp-text=\"\
   -3.9\">-1588</span> to GSW.</li>\n</ul>\n    "
+vorp_rank: 83
 ---

@@ -153,7 +153,7 @@ trade_total_bpm: 57594
 trade_total_grade_bpm: A-
 trade_total_grade_vorp: D
 trade_total_percentile_bpm: 84
-trade_total_percentile_vorp: 29
+trade_total_percentile_vorp: 28
 trade_total_vorp: -17
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
   \ badge-pill badge-success\" data-bpm-text=\"+8\" data-vorp-text=\"+8.1\">+8.1</span></h5><ul\
@@ -177,4 +177,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ badge-success\" data-bpm-text=\"+3486\" data-vorp-text=\"+0.4\">+3486</span>,\
   \ Andrew Wiggins <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
   +31366\" data-vorp-text=\"-0.1\">+31366</span> to MIN.</li>\n</ul>\n    "
+vorp_rank: 38
 ---

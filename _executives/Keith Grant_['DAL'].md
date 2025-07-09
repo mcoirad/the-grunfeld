@@ -1,5 +1,5 @@
 ---
-bpm_rank: 83
+bpm_rank: 84
 draft_bust_list: "\n    \n    \n    "
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
@@ -47,7 +47,7 @@ signing_num_players: 6
 signing_overall_grade_bpm: D+
 signing_overall_grade_vorp: C
 signing_overall_percentile_bpm: 33
-signing_overall_percentile_vorp: 48
+signing_overall_percentile_vorp: 49
 signing_rating_bpm: -1
 signing_rating_grade_bpm: F
 signing_rating_grade_vorp: B
@@ -57,7 +57,7 @@ signing_rating_vorp: 0
 signing_total_bpm: -12663
 signing_total_grade_bpm: C+
 signing_total_grade_vorp: D
-signing_total_percentile_bpm: 57
+signing_total_percentile_bpm: 56
 signing_total_percentile_vorp: 28
 signing_total_vorp: 2
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
@@ -131,4 +131,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-bpm-text=\"+9331\" data-vorp-text=\"+0.9\">+9331</span>, John Thomas <span\
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+5937\" data-vorp-text=\"\
   +0.9\">+5937</span> to TOR.</li>\n</ul>\n    "
+vorp_rank: 146
 ---

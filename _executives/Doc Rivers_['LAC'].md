@@ -145,4 +145,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +0\" data-vorp-text=\"+0.0\">+0</span>, Omari Spellman <span class=\"badge badge-pill\
   \ badge-success\" data-bpm-text=\"+966\" data-vorp-text=\"-0.2\">+966</span> to\
   \ ATL.</li>\n</ul>\n    "
+vorp_rank: 44
 ---

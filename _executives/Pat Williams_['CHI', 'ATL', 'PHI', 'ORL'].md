@@ -144,7 +144,7 @@ trade_total_bpm: 61255
 trade_total_grade_bpm: A-
 trade_total_grade_vorp: C
 trade_total_percentile_bpm: 85
-trade_total_percentile_vorp: 49
+trade_total_percentile_vorp: 48
 trade_total_vorp: -4
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
   \ badge-pill badge-success\" data-bpm-text=\"+24\" data-vorp-text=\"+24.1\">+24.1</span></h5><ul\
@@ -167,4 +167,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +0\" data-vorp-text=\"+0.0\">+0</span>, Mike Evans <span class=\"badge badge-pill\
   \ badge-success\" data-bpm-text=\"+16036\" data-vorp-text=\"+0.4\">+16036</span>\
   \ to DEN.</li>\n</ul>\n    "
+vorp_rank: 7
 ---

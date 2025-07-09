@@ -1,5 +1,5 @@
 ---
-bpm_rank: 105
+bpm_rank: 106
 draft_bust_list: "\n    \n    \n    "
 draft_description: Bob Whitsitt ranks in the 95th percentile for drafting among executives
   in our database. Whitsitt's draft picks average out to be worth the equivalent of
@@ -154,4 +154,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-bpm-text=\"+1443\" data-vorp-text=\"-0.4\">+1443</span>, Rod Strickland <span\
   \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-8091\" data-vorp-text=\"\
   -3.6\">-8091</span> to WSB.</li>\n</ul>\n    "
+vorp_rank: 161
 ---

@@ -1,5 +1,5 @@
 ---
-bpm_rank: 80
+bpm_rank: 81
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Kris Dunn with 5th pick but was worth 14th pick. <span class=\"badge\
   \ badge-pill badge-danger\" data-bpm-text=\"-10\" data-vorp-text=\"-10.2\">-10.2</span>\
@@ -74,7 +74,7 @@ signing_rating_vorp: 0
 signing_total_bpm: 20322
 signing_total_grade_bpm: A
 signing_total_grade_vorp: A-
-signing_total_percentile_bpm: 91
+signing_total_percentile_bpm: 92
 signing_total_percentile_vorp: 83
 signing_total_vorp: 25
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
@@ -137,4 +137,5 @@ trade_total_percentile_bpm: 34
 trade_total_percentile_vorp: 30
 trade_total_vorp: -16
 trade_win_list: "\n    \n    \n    "
+vorp_rank: 103
 ---

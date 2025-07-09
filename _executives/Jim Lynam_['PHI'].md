@@ -1,5 +1,5 @@
 ---
-bpm_rank: 154
+bpm_rank: 155
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Shawn Bradley with 2th pick but was worth 10th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-19\" data-vorp-text=\"-19.9\">-19.9</span>\
@@ -28,8 +28,8 @@ draft_rating_percentile_bpm: null
 draft_rating_percentile_vorp: null
 draft_rating_vorp: null
 draft_total_bpm: -22034
-draft_total_grade_bpm: C-
-draft_total_grade_vorp: C-
+draft_total_grade_bpm: C
+draft_total_grade_vorp: C
 draft_total_percentile_bpm: 47
 draft_total_percentile_vorp: 47
 draft_total_vorp: 5
@@ -135,4 +135,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-vorp-text=\"+0.0\">-154</span> to PHI.</li>\n<li>Lost Jayson Williams <span\
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+18945\" data-vorp-text=\"\
   +0.4\">+18945</span> to NJN.</li>\n</ul>\n    "
+vorp_rank: 159
 ---

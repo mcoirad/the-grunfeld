@@ -161,4 +161,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-bpm-text=\"+8342\" data-vorp-text=\"+0.8\">+8342</span>, Gary Harris <span\
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+11391\" data-vorp-text=\"\
   +0.1\">+11391</span> to ORL.</li>\n</ul>\n    "
+vorp_rank: 27
 ---

@@ -37,7 +37,7 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
 signing_num_players: 14
 signing_overall_grade_bpm: A-
 signing_overall_grade_vorp: D
-signing_overall_percentile_bpm: 85
+signing_overall_percentile_bpm: 84
 signing_overall_percentile_vorp: 31
 signing_rating_bpm: 0
 signing_rating_grade_bpm: A+
@@ -110,4 +110,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +0\" data-vorp-text=\"+0.0\">+0</span> to NOP.</li>\n<li>Lost Jamaal Magloire <span\
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+10106\" data-vorp-text=\"\
   +1.3\">+10106</span> to MIL.</li>\n</ul>\n    "
+vorp_rank: 116
 ---

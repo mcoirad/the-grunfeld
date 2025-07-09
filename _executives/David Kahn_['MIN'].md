@@ -1,5 +1,5 @@
 ---
-bpm_rank: 140
+bpm_rank: 141
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Derrick Williams with 2th pick but was worth 26th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-49\" data-vorp-text=\"-49.1\">-49.1</span>\
@@ -119,7 +119,7 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   >-28662</span> to DEN.</li>\n</ul>\n    "
 trade_num: 87
 trade_overall_grade_bpm: F
-trade_overall_grade_vorp: D-
+trade_overall_grade_vorp: F
 trade_overall_percentile_bpm: 20
 trade_overall_percentile_vorp: 20
 trade_rating_bpm: 0
@@ -146,4 +146,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +0\" data-vorp-text=\"+0.0\">+0</span> to MIN.</li>\n<li>Lost Norris Cole <span\
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+25416\" data-vorp-text=\"\
   +3.5\">+25416</span> to MIA.</li>\n</ul>\n    "
+vorp_rank: 154
 ---

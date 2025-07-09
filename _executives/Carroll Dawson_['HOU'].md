@@ -33,8 +33,8 @@ draft_rating_vorp: 1
 draft_total_bpm: 35423
 draft_total_grade_bpm: B+
 draft_total_grade_vorp: B+
-draft_total_percentile_bpm: 77
-draft_total_percentile_vorp: 77
+draft_total_percentile_bpm: 78
+draft_total_percentile_vorp: 78
 draft_total_vorp: 35
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Cuttino Mobley with 41th pick but was worth 8th pick. <span class=\"\
@@ -181,4 +181,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +0.2\">+1861</span>, Marcus Banks <span class=\"badge badge-pill badge-success\"\
   \ data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to VAN.</li>\n</ul>\n \
   \   "
+vorp_rank: 23
 ---

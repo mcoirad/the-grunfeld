@@ -153,4 +153,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ badge-danger\" data-bpm-text=\"-4465\" data-vorp-text=\"-5.5\">-4465</span>, Sean\
   \ Singletary <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+1086\"\
   \ data-vorp-text=\"+0.2\">+1086</span> to CHA.</li>\n</ul>\n    "
+vorp_rank: 80
 ---

@@ -170,4 +170,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ to MEM.</li>\n<li>Lost Joey Dorsey <span class=\"badge badge-pill badge-success\"\
   \ data-bpm-text=\"+2867\" data-vorp-text=\"+0.2\">+2867</span> to HOU.</li>\n</ul>\n\
   \    "
+vorp_rank: 32
 ---

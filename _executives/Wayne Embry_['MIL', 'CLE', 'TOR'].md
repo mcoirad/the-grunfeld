@@ -1,5 +1,5 @@
 ---
-bpm_rank: 158
+bpm_rank: 159
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Vitaly Potapenko with 12th pick but was worth 58th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-16\" data-vorp-text=\"-16.1\">-16.1</span>\
@@ -90,7 +90,7 @@ signing_total_bpm: -59139
 signing_total_grade_bpm: D-
 signing_total_grade_vorp: B-
 signing_total_percentile_bpm: 20
-signing_total_percentile_vorp: 63
+signing_total_percentile_vorp: 64
 signing_total_vorp: 14
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
   <li>Signed Craig Ehlo <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
@@ -154,7 +154,7 @@ trade_rating_vorp: 0
 trade_total_bpm: -114087
 trade_total_grade_bpm: F
 trade_total_grade_vorp: F
-trade_total_percentile_bpm: 9
+trade_total_percentile_bpm: 8
 trade_total_percentile_vorp: 11
 trade_total_vorp: -41
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
@@ -177,4 +177,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ to CLE.</li>\n<li>Lost Vitaly Potapenko <span class=\"badge badge-pill badge-success\"\
   \ data-bpm-text=\"+19719\" data-vorp-text=\"+2.0\">+19719</span> to BOS.</li>\n\
   </ul>\n    "
+vorp_rank: 82
 ---

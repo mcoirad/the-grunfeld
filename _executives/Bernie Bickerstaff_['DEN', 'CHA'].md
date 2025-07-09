@@ -1,5 +1,5 @@
 ---
-bpm_rank: 136
+bpm_rank: 137
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Adam Morrison with 3th pick but was worth 59th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-32\" data-vorp-text=\"-32.3\">-32.3</span>\
@@ -160,4 +160,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-vorp-text=\"+0.6\">-1139</span> to CHA.</li>\n<li>Lost Sasha Pavlović <span\
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+15979\" data-vorp-text=\"\
   +1.2\">+15979</span> to CLE.</li>\n</ul>\n    "
+vorp_rank: 61
 ---

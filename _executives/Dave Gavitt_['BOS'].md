@@ -1,5 +1,5 @@
 ---
-bpm_rank: 82
+bpm_rank: 83
 draft_bust_list: "\n    \n    \n    "
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
@@ -57,7 +57,7 @@ signing_num_players: 31
 signing_overall_grade_bpm: C
 signing_overall_grade_vorp: D+
 signing_overall_percentile_bpm: 50
-signing_overall_percentile_vorp: 35
+signing_overall_percentile_vorp: 36
 signing_rating_bpm: 0
 signing_rating_grade_bpm: C
 signing_rating_grade_vorp: C-
@@ -126,4 +126,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-bpm-text=\"-6141\" data-vorp-text=\"+2.3\">+2.3</span> to BOS.</li>\n<li>Lost\
   \ Brian Shaw <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"+1984\"\
   \ data-vorp-text=\"-1.7\">-1.7</span> to MIA.</li>\n</ul>\n    \n    "
+vorp_rank: 85
 ---

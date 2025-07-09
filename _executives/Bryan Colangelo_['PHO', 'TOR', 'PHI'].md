@@ -166,4 +166,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +0\" data-vorp-text=\"+0.0\">+0</span>, Steven Adams <span class=\"badge badge-pill\
   \ badge-danger\" data-bpm-text=\"-388\" data-vorp-text=\"-0.5\">-388</span> to HOU.</li>\n\
   </ul>\n    "
+vorp_rank: 26
 ---

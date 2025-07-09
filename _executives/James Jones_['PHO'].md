@@ -57,7 +57,7 @@ signing_rating_vorp: 0
 signing_total_bpm: -10400
 signing_total_grade_bpm: C+
 signing_total_grade_vorp: A-
-signing_total_percentile_bpm: 59
+signing_total_percentile_bpm: 58
 signing_total_percentile_vorp: 82
 signing_total_vorp: 24
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
@@ -143,4 +143,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-bpm-text=\"-7759\" data-vorp-text=\"-4.1\">-7759</span>, Noah Clowney <span\
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+4635\" data-vorp-text=\"\
   +0.5\">+4635</span> to BRK.</li>\n</ul>\n    "
+vorp_rank: 62
 ---

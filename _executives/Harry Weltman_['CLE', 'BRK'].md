@@ -1,5 +1,5 @@
 ---
-bpm_rank: 75
+bpm_rank: 76
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Dennis Hopson with 3th pick but was worth 20th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-62\" data-vorp-text=\"-62.5\">-62.5</span>\
@@ -86,7 +86,7 @@ signing_rating_vorp: 0
 signing_total_bpm: -32448
 signing_total_grade_bpm: D+
 signing_total_grade_vorp: F
-signing_total_percentile_bpm: 37
+signing_total_percentile_bpm: 36
 signing_total_percentile_vorp: 10
 signing_total_vorp: -1
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
@@ -155,4 +155,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +19972\" data-vorp-text=\"+9.6\">+19972</span> to CLE.</li>\n<li>Lost Ron Brewer\
   \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+3327\" data-vorp-text=\"\
   +0.0\">+3327</span> to GSW.</li>\n</ul>\n    "
+vorp_rank: 51
 ---

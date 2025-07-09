@@ -1,5 +1,5 @@
 ---
-bpm_rank: 115
+bpm_rank: 116
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Tyler Hansbrough with 13th pick but was worth 39th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-11\" data-vorp-text=\"-11.8\">-11.8</span>\
@@ -88,7 +88,7 @@ signing_total_bpm: -40375
 signing_total_grade_bpm: D
 signing_total_grade_vorp: B+
 signing_total_percentile_bpm: 32
-signing_total_percentile_vorp: 77
+signing_total_percentile_vorp: 78
 signing_total_vorp: 22
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
   <li>Signed David West <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
@@ -132,7 +132,7 @@ trade_num: 88
 trade_overall_grade_bpm: F
 trade_overall_grade_vorp: C+
 trade_overall_percentile_bpm: 20
-trade_overall_percentile_vorp: 59
+trade_overall_percentile_vorp: 58
 trade_rating_bpm: 0
 trade_rating_grade_bpm: D-
 trade_rating_grade_vorp: A-
@@ -143,7 +143,7 @@ trade_total_bpm: -72077
 trade_total_grade_bpm: F
 trade_total_grade_vorp: D+
 trade_total_percentile_bpm: 13
-trade_total_percentile_vorp: 37
+trade_total_percentile_vorp: 36
 trade_total_vorp: -10
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
   \ badge-pill badge-success\" data-bpm-text=\"+8\" data-vorp-text=\"+8.9\">+8.9</span></h5><ul\
@@ -175,4 +175,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +0.1\">+1112</span>, Josh Powell <span class=\"badge badge-pill badge-success\"\
   \ data-bpm-text=\"+1184\" data-vorp-text=\"+0.2\">+1184</span> to GSW.</li>\n</ul>\n\
   \    "
+vorp_rank: 33
 ---

@@ -1,5 +1,5 @@
 ---
-bpm_rank: 130
+bpm_rank: 131
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Džanan Musa with 29th pick but was worth 50th pick. <span class=\"badge\
   \ badge-pill badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.8\">-0.8</span>\
@@ -146,7 +146,7 @@ trade_rating_vorp: 0
 trade_total_bpm: 4444
 trade_total_grade_bpm: C
 trade_total_grade_vorp: A+
-trade_total_percentile_bpm: 52
+trade_total_percentile_bpm: 53
 trade_total_percentile_vorp: 93
 trade_total_vorp: 34
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
@@ -197,4 +197,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +0\" data-vorp-text=\"+0.0\">+0</span>, future 2nd round pick <span class=\"badge\
   \ badge-pill badge-success\" data-bpm-text=\"+232\" data-vorp-text=\"-1.4\">+232</span>\
   \ to NYK.</li>\n</ul>\n    "
+vorp_rank: 30
 ---

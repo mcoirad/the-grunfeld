@@ -1,5 +1,5 @@
 ---
-bpm_rank: 112
+bpm_rank: 113
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Jan Veselý with 6th pick but was worth 49th pick. <span class=\"badge\
   \ badge-pill badge-danger\" data-bpm-text=\"-23\" data-vorp-text=\"-23.3\">-23.3</span>\
@@ -172,4 +172,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ badge-success\" data-bpm-text=\"+322\" data-vorp-text=\"+0.0\">+322</span>, Charles\
   \ Oakley <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+12814\"\
   \ data-vorp-text=\"-0.2\">+12814</span> to TOR.</li>\n</ul>\n    "
+vorp_rank: 9
 ---

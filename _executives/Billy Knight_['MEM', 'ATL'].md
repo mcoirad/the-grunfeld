@@ -1,5 +1,5 @@
 ---
-bpm_rank: 137
+bpm_rank: 138
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Shelden Williams with 5th pick but was worth 55th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-23\" data-vorp-text=\"-23.9\">-23.9</span>\
@@ -88,7 +88,7 @@ signing_rating_vorp: 0
 signing_total_bpm: -91806
 signing_total_grade_bpm: F
 signing_total_grade_vorp: F-
-signing_total_percentile_bpm: 9
+signing_total_percentile_bpm: 8
 signing_total_percentile_vorp: 0
 signing_total_vorp: -9
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
@@ -162,4 +162,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"\
   +0.0\">+0</span>, Robin Lopez <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
   +8711\" data-vorp-text=\"+0.3\">+8711</span> to PHO.</li>\n</ul>\n    "
+vorp_rank: 57
 ---

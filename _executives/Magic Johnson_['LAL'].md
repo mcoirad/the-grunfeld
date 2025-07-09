@@ -28,8 +28,8 @@ draft_rating_vorp: null
 draft_total_bpm: -2749
 draft_total_grade_bpm: D+
 draft_total_grade_vorp: D+
-draft_total_percentile_bpm: 37
-draft_total_percentile_vorp: 37
+draft_total_percentile_bpm: 38
+draft_total_percentile_vorp: 38
 draft_total_vorp: 1
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Moritz Wagner with 25th pick but was worth 17th pick. <span class=\"\
@@ -144,4 +144,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +3554\" data-vorp-text=\"+0.0\">+3554</span>, Luka Garza <span class=\"badge badge-pill\
   \ badge-success\" data-bpm-text=\"+972\" data-vorp-text=\"+0.1\">+972</span> to\
   \ DET.</li>\n</ul>\n    "
+vorp_rank: 67
 ---

@@ -14,8 +14,8 @@ draft_rating_percentile_bpm: null
 draft_rating_percentile_vorp: null
 draft_rating_vorp: null
 draft_total_bpm: -3033
-draft_total_grade_bpm: D+
-draft_total_grade_vorp: D+
+draft_total_grade_bpm: C-
+draft_total_grade_vorp: C-
 draft_total_percentile_bpm: 40
 draft_total_percentile_vorp: 40
 draft_total_vorp: 2
@@ -180,4 +180,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ POR.</li>\n<li>Lost Sviatoslav Mykhailiuk <span class=\"badge badge-pill badge-success\"\
   \ data-bpm-text=\"+214\" data-vorp-text=\"-0.2\">+214</span> to CHO.</li>\n</ul>\n\
   \    "
+vorp_rank: 144
 ---

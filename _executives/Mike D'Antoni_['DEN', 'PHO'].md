@@ -1,5 +1,5 @@
 ---
-bpm_rank: 108
+bpm_rank: 109
 draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
   a draft grade.
@@ -51,7 +51,7 @@ signing_rating_percentile_bpm: 10
 signing_rating_percentile_vorp: 69
 signing_rating_vorp: 0
 signing_total_bpm: -6607
-signing_total_grade_bpm: B
+signing_total_grade_bpm: B-
 signing_total_grade_vorp: D-
 signing_total_percentile_bpm: 67
 signing_total_percentile_vorp: 24
@@ -110,4 +110,5 @@ trade_win_list: "\n    \n    <h5 id=\"bpm-toggle\">Their biggest win: <span clas
   >+4986</span></h5><ul id=bpm-toggle>\n<li>Didn't receive any players or picks.</li>\n\
   <li>Lost Sergio Rodríguez <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
   +4986\" data-vorp-text=\"-0.1\">+4986</span> to POR.</li>\n</ul>\n    "
+vorp_rank: 148
 ---

@@ -1,5 +1,5 @@
 ---
-bpm_rank: 131
+bpm_rank: 132
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Gerald Henderson with 12th pick but was worth 30th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-11\" data-vorp-text=\"-11.5\">-11.5</span>\
@@ -85,7 +85,7 @@ signing_total_bpm: -18809
 signing_total_grade_bpm: C-
 signing_total_grade_vorp: D-
 signing_total_percentile_bpm: 46
-signing_total_percentile_vorp: 21
+signing_total_percentile_vorp: 22
 signing_total_vorp: 0
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
   <li>Signed Shaun Livingston <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
@@ -155,4 +155,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +4.4\">+10085</span> to CHA.</li>\n<li>Lost Brandan Wright <span class=\"badge badge-pill\
   \ badge-success\" data-bpm-text=\"+374\" data-vorp-text=\"-0.6\">+374</span> to\
   \ GSW.</li>\n</ul>\n    "
+vorp_rank: 142
 ---

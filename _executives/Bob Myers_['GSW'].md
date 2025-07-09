@@ -88,7 +88,7 @@ signing_rating_vorp: 0
 signing_total_bpm: -4897
 signing_total_grade_bpm: B
 signing_total_grade_vorp: A
-signing_total_percentile_bpm: 70
+signing_total_percentile_bpm: 69
 signing_total_percentile_vorp: 91
 signing_total_vorp: 39
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
@@ -143,7 +143,7 @@ trade_rating_vorp: 0
 trade_total_bpm: 11306
 trade_total_grade_bpm: B-
 trade_total_grade_vorp: C-
-trade_total_percentile_bpm: 63
+trade_total_percentile_bpm: 64
 trade_total_percentile_vorp: 41
 trade_total_vorp: -7
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
@@ -181,4 +181,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to UTA.</li>\n\
   <li>Lost Thomas Welsh <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"\
   -43\" data-vorp-text=\"+0.0\">-43</span> to DEN.</li>\n</ul>\n    "
+vorp_rank: 31
 ---

@@ -1,5 +1,5 @@
 ---
-bpm_rank: 159
+bpm_rank: 160
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Joe Barry Carroll with 1th pick but was worth 7th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-26\" data-vorp-text=\"-26.1\">-26.1</span>\
@@ -78,7 +78,7 @@ signing_num_players: 26
 signing_overall_grade_bpm: D-
 signing_overall_grade_vorp: F
 signing_overall_percentile_bpm: 21
-signing_overall_percentile_vorp: 17
+signing_overall_percentile_vorp: 16
 signing_rating_bpm: -1
 signing_rating_grade_bpm: F
 signing_rating_grade_vorp: F
@@ -157,4 +157,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +6390\" data-vorp-text=\"+0.9\">+6390</span>, Ken Green <span class=\"badge badge-pill\
   \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to UTA.</li>\n\
   </ul>\n    "
+vorp_rank: 149
 ---

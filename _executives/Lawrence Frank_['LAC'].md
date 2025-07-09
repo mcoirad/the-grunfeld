@@ -167,4 +167,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +5618\" data-vorp-text=\"+1.0\">+5618</span>, Justise Winslow <span class=\"badge\
   \ badge-pill badge-success\" data-bpm-text=\"+2762\" data-vorp-text=\"+0.2\">+2762</span>\
   \ to POR.</li>\n</ul>\n    "
+vorp_rank: 70
 ---

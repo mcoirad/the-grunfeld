@@ -68,7 +68,7 @@ signing_num_players: 22
 signing_overall_grade_bpm: C-
 signing_overall_grade_vorp: D
 signing_overall_percentile_bpm: 42
-signing_overall_percentile_vorp: 30
+signing_overall_percentile_vorp: 31
 signing_rating_bpm: -1
 signing_rating_grade_bpm: D
 signing_rating_grade_vorp: D-
@@ -76,10 +76,10 @@ signing_rating_percentile_bpm: 31
 signing_rating_percentile_vorp: 24
 signing_rating_vorp: 0
 signing_total_bpm: -14860
-signing_total_grade_bpm: C+
+signing_total_grade_bpm: C
 signing_total_grade_vorp: D+
 signing_total_percentile_bpm: 53
-signing_total_percentile_vorp: 37
+signing_total_percentile_vorp: 38
 signing_total_vorp: 4
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
   <li>Signed Matt Bullard <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
@@ -146,4 +146,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   >+42349</span> to POR.</li>\n<li>Lost Randy Foye <span class=\"badge badge-pill\
   \ badge-success\" data-bpm-text=\"+6644\" data-vorp-text=\"-1.2\">+6644</span> to\
   \ MIN.</li>\n</ul>\n    "
+vorp_rank: 29
 ---

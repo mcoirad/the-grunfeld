@@ -1,5 +1,5 @@
 ---
-bpm_rank: 160
+bpm_rank: 161
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Michael Doleac with 12th pick but was worth 57th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-13\" data-vorp-text=\"-13.3\">-13.3</span>\
@@ -33,8 +33,8 @@ draft_rating_vorp: -11
 draft_total_bpm: -36175
 draft_total_grade_bpm: D+
 draft_total_grade_vorp: D+
-draft_total_percentile_bpm: 35
-draft_total_percentile_vorp: 35
+draft_total_percentile_bpm: 36
+draft_total_percentile_vorp: 36
 draft_total_vorp: 1
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Zaza Pachulia with 42th pick but was worth 20th pick. <span class=\"\
@@ -77,7 +77,7 @@ signing_total_bpm: -94643
 signing_total_grade_bpm: F
 signing_total_grade_vorp: D
 signing_total_percentile_bpm: 7
-signing_total_percentile_vorp: 29
+signing_total_percentile_vorp: 30
 signing_total_vorp: 2
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
   <li>Signed Bo Outlaw <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
@@ -146,4 +146,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +89547\" data-vorp-text=\"+28.4\">+89547</span> to ORL.</li>\n<li>Lost Fran Vázquez\
   \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"\
   +0.0\">+0</span> to TOR.</li>\n</ul>\n    "
+vorp_rank: 166
 ---

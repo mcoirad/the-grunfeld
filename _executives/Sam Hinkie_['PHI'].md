@@ -1,5 +1,5 @@
 ---
-bpm_rank: 128
+bpm_rank: 129
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Jahlil Okafor with 3th pick but was worth 37th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-17\" data-vorp-text=\"-17.9\">-17.9</span>\
@@ -33,8 +33,8 @@ draft_rating_vorp: -1
 draft_total_bpm: 77199
 draft_total_grade_bpm: B+
 draft_total_grade_vorp: B+
-draft_total_percentile_bpm: 74
-draft_total_percentile_vorp: 74
+draft_total_percentile_bpm: 75
+draft_total_percentile_vorp: 75
 draft_total_vorp: 34
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Joel Embiid with 3th pick but was worth 2th pick. <span class=\"badge\
@@ -80,7 +80,7 @@ signing_rating_percentile_vorp: 7
 signing_rating_vorp: 0
 signing_total_bpm: -61838
 signing_total_grade_bpm: F
-signing_total_grade_vorp: D-
+signing_total_grade_vorp: D
 signing_total_percentile_bpm: 18
 signing_total_percentile_vorp: 27
 signing_total_vorp: 1
@@ -162,4 +162,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +4095\" data-vorp-text=\"-0.9\">+4095</span>, Evan Turner <span class=\"badge badge-pill\
   \ badge-success\" data-bpm-text=\"+1484\" data-vorp-text=\"+0.1\">+1484</span> to\
   \ IND.</li>\n</ul>\n    "
+vorp_rank: 112
 ---

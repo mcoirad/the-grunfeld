@@ -164,8 +164,8 @@ trade_rating_vorp: 0
 trade_total_bpm: 33599
 trade_total_grade_bpm: B+
 trade_total_grade_vorp: B-
-trade_total_percentile_bpm: 74
-trade_total_percentile_vorp: 66
+trade_total_percentile_bpm: 75
+trade_total_percentile_vorp: 67
 trade_total_vorp: 1
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
   \ badge-pill badge-success\" data-bpm-text=\"+7\" data-vorp-text=\"+7.0\">+7.0</span></h5><ul\
@@ -204,4 +204,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span>, Malaki Branham <span class=\"\
   badge badge-pill badge-success\" data-bpm-text=\"+18263\" data-vorp-text=\"+2.9\"\
   >+18263</span> to SAS.</li>\n</ul>\n    "
+vorp_rank: 17
 ---

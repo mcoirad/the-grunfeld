@@ -1,5 +1,5 @@
 ---
-bpm_rank: 90
+bpm_rank: 91
 draft_bust_list: "\n    \n    \n    "
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
@@ -102,4 +102,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   badge badge-pill badge-success\" data-bpm-text=\"+227\" data-vorp-text=\"-2.3\"\
   >+227</span>, Francisco Elson <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
   +7396\" data-vorp-text=\"+0.2\">+7396</span> to DEN.</li>\n</ul>\n    "
+vorp_rank: 151
 ---

@@ -1,5 +1,5 @@
 ---
-bpm_rank: 63
+bpm_rank: 64
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Darko Miličić with 2th pick but was worth 53th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-63\" data-vorp-text=\"-63.7\">-63.7</span>\
@@ -90,7 +90,7 @@ signing_total_bpm: 12512
 signing_total_grade_bpm: A
 signing_total_grade_vorp: A
 signing_total_percentile_bpm: 88
-signing_total_percentile_vorp: 91
+signing_total_percentile_vorp: 92
 signing_total_vorp: 41
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
   <li>Signed Chauncey Billups <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
@@ -162,4 +162,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-vorp-text=\"+23.3\">+57569</span> to DET.</li>\n<li>Lost Grant Hill <span\
   \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-12788\" data-vorp-text=\"\
   -6.4\">-12788</span> to ORL.</li>\n</ul>\n    "
+vorp_rank: 25
 ---

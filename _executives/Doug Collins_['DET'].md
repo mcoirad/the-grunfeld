@@ -1,5 +1,5 @@
 ---
-bpm_rank: 100
+bpm_rank: 101
 draft_bust_list: "\n    \n    \n    "
 draft_description: Doug Collins ranks in the 76th percentile for drafting among executives
   in our database. Collins's draft picks average out to be worth the equivalent of
@@ -115,7 +115,7 @@ trade_num: 27
 trade_overall_grade_bpm: D+
 trade_overall_grade_vorp: C
 trade_overall_percentile_bpm: 34
-trade_overall_percentile_vorp: 52
+trade_overall_percentile_vorp: 51
 trade_rating_bpm: 0
 trade_rating_grade_bpm: F
 trade_rating_grade_vorp: C+
@@ -147,4 +147,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-bpm-text=\"+10446\" data-vorp-text=\"-0.2\">+10446</span>, Lari Ketner <span\
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"\
   +0.0\">+0</span> to ATL.</li>\n</ul>\n    "
+vorp_rank: 117
 ---

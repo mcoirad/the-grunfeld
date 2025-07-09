@@ -1,5 +1,5 @@
 ---
-bpm_rank: 111
+bpm_rank: 112
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Adam Keefe with 10th pick but was worth 22th pick. <span class=\"badge\
   \ badge-pill badge-danger\" data-bpm-text=\"-10\" data-vorp-text=\"-10.1\">-10.1</span>\
@@ -33,8 +33,8 @@ draft_rating_vorp: -12
 draft_total_bpm: -93330
 draft_total_grade_bpm: C+
 draft_total_grade_vorp: C+
-draft_total_percentile_bpm: 55
-draft_total_percentile_vorp: 55
+draft_total_percentile_bpm: 56
+draft_total_percentile_vorp: 56
 draft_total_vorp: 12
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Jason Terry with 10th pick but was worth 4th pick. <span class=\"badge\
@@ -75,7 +75,7 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
 signing_num_players: 125
 signing_overall_grade_bpm: F
 signing_overall_grade_vorp: C+
-signing_overall_percentile_bpm: 18
+signing_overall_percentile_bpm: 17
 signing_overall_percentile_vorp: 57
 signing_rating_bpm: -1
 signing_rating_grade_bpm: D-
@@ -85,7 +85,7 @@ signing_rating_percentile_vorp: 33
 signing_rating_vorp: 0
 signing_total_bpm: -78454
 signing_total_grade_bpm: F
-signing_total_grade_vorp: B+
+signing_total_grade_vorp: A-
 signing_total_percentile_bpm: 13
 signing_total_percentile_vorp: 80
 signing_total_vorp: 23
@@ -158,4 +158,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +0\" data-vorp-text=\"+0.0\">+0</span> to ATL.</li>\n<li>Lost Rumeal Robinson <span\
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+3021\" data-vorp-text=\"\
   -0.2\">+3021</span> to NJN.</li>\n</ul>\n    "
+vorp_rank: 43
 ---

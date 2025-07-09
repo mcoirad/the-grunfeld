@@ -1,5 +1,5 @@
 ---
-bpm_rank: 114
+bpm_rank: 115
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Ben McLemore with 7th pick but was worth 60th pick. <span class=\"badge\
   \ badge-pill badge-danger\" data-bpm-text=\"-15\" data-vorp-text=\"-15.9\">-15.9</span>\
@@ -63,7 +63,7 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
 signing_num_players: 21
 signing_overall_grade_bpm: C
 signing_overall_grade_vorp: C-
-signing_overall_percentile_bpm: 53
+signing_overall_percentile_bpm: 52
 signing_overall_percentile_vorp: 41
 signing_rating_bpm: 0
 signing_rating_grade_bpm: C-
@@ -75,7 +75,7 @@ signing_total_bpm: -9115
 signing_total_grade_bpm: B-
 signing_total_grade_vorp: D+
 signing_total_percentile_bpm: 62
-signing_total_percentile_vorp: 34
+signing_total_percentile_vorp: 35
 signing_total_vorp: 4
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
   <li>Signed Darren Collison <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
@@ -156,4 +156,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   -0.1\">+2305</span>, Greivis Vásquez <span class=\"badge badge-pill badge-success\"\
   \ data-bpm-text=\"+1859\" data-vorp-text=\"-1.2\">+1859</span> to TOR.</li>\n</ul>\n\
   \    "
+vorp_rank: 143
 ---

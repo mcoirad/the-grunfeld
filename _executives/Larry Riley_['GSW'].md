@@ -149,4 +149,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +0.2\">+1211</span>, Brandan Wright <span class=\"badge badge-pill badge-success\"\
   \ data-bpm-text=\"+257\" data-vorp-text=\"+0.0\">+257</span> to NJN.</li>\n</ul>\n\
   \    "
+vorp_rank: 13
 ---

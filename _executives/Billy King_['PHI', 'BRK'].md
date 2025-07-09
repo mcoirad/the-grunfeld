@@ -1,5 +1,5 @@
 ---
-bpm_rank: 156
+bpm_rank: 157
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Larry Hughes with 8th pick but was worth 10th pick. <span class=\"badge\
   \ badge-pill badge-danger\" data-bpm-text=\"-2\" data-vorp-text=\"-2.2\">-2.2</span>\
@@ -87,7 +87,7 @@ signing_total_bpm: -112566
 signing_total_grade_bpm: F
 signing_total_grade_vorp: C+
 signing_total_percentile_bpm: 5
-signing_total_percentile_vorp: 55
+signing_total_percentile_vorp: 56
 signing_total_vorp: 10
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
   <li>Signed Brook Lopez <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
@@ -162,4 +162,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-bpm-text=\"+3187\" data-vorp-text=\"-1.3\">+3187</span>, Pepe Sánchez <span\
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+428\" data-vorp-text=\"\
   +0.1\">+428</span> to ATL.</li>\n</ul>\n    "
+vorp_rank: 147
 ---

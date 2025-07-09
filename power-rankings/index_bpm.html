@@ -1,0 +1,18 @@
+---
+layout: page
+title: Power Rankings
+description: All Time since 1970
+---
+{% assign executives = site.executives  | sort: "bpm_rank" reversed  %}
+
+{% for executive in executives%}
+
+    {% assign name_clean = executive.name | replace: " ", "_"  %}
+    
+    {% include executive.md executive=executive rank=executive.bpm_rank stat="bpm" %}
+    
+    
+    <hr>
+
+{% endfor %}
+

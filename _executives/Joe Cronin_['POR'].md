@@ -1,5 +1,5 @@
 ---
-bpm_rank: 144
+bpm_rank: 145
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Scoot Henderson with 3th pick but was worth 56th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-4\" data-vorp-text=\"-4.1\">-4.1</span>\
@@ -69,7 +69,7 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
 signing_num_players: 55
 signing_overall_grade_bpm: C-
 signing_overall_grade_vorp: C-
-signing_overall_percentile_bpm: 47
+signing_overall_percentile_bpm: 46
 signing_overall_percentile_vorp: 44
 signing_rating_bpm: 0
 signing_rating_grade_bpm: C
@@ -144,7 +144,7 @@ trade_total_bpm: -45047
 trade_total_grade_bpm: F
 trade_total_grade_vorp: D-
 trade_total_percentile_bpm: 18
-trade_total_percentile_vorp: 23
+trade_total_percentile_vorp: 22
 trade_total_vorp: -25
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
   \ badge-pill badge-success\" data-bpm-text=\"+4\" data-vorp-text=\"+4.5\">+4.5</span></h5><ul\
@@ -170,4 +170,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-bpm-text=\"+136\" data-vorp-text=\"-4.0\">+136</span>, future 2nd round pick\
   \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+7158\" data-vorp-text=\"\
   +2.4\">+7158</span> to WAS.</li>\n</ul>\n    "
+vorp_rank: 153
 ---

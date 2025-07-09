@@ -1,5 +1,5 @@
 ---
-bpm_rank: 77
+bpm_rank: 78
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Ron Holland II with 5th pick but was worth 45th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"0\" data-vorp-text=\"-0.7\">-0.7</span>\
@@ -68,7 +68,7 @@ signing_total_bpm: 2293
 signing_total_grade_bpm: A-
 signing_total_grade_vorp: D
 signing_total_percentile_bpm: 83
-signing_total_percentile_vorp: 31
+signing_total_percentile_vorp: 32
 signing_total_vorp: 3
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
   <li>Signed Malik Beasley <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
@@ -116,7 +116,7 @@ trade_rating_vorp: null
 trade_total_bpm: -2697
 trade_total_grade_bpm: C-
 trade_total_grade_vorp: C+
-trade_total_percentile_bpm: 43
+trade_total_percentile_bpm: 42
 trade_total_percentile_vorp: 57
 trade_total_vorp: 0
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
@@ -134,4 +134,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   -70\" data-vorp-text=\"+0.0\">-70</span> to DET.</li>\n<li>Lost K.J. Martin <span\
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+2419\" data-vorp-text=\"\
   +0.4\">+2419</span> to UTA.</li>\n</ul>\n    "
+vorp_rank: 111
 ---

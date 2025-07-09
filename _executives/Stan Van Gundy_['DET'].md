@@ -22,7 +22,7 @@ draft_description: Stan Van Gundy ranks in the 28th percentile for drafting amon
   of 9 spots lower than they were picked due to their terrible drafting.
 draft_num_players: 6
 draft_overall_grade_bpm: D+
-draft_overall_grade_vorp: D-
+draft_overall_grade_vorp: F
 draft_overall_percentile_vorp: 20
 draft_rating_bpm: -6
 draft_rating_grade_bpm: C+
@@ -152,4 +152,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ badge-success\" data-bpm-text=\"+6636\" data-vorp-text=\"+0.7\">+6636</span>,\
   \ Isaiah Roby <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+4303\"\
   \ data-vorp-text=\"-0.1\">+4303</span> to OKC.</li>\n</ul>\n    "
+vorp_rank: 59
 ---

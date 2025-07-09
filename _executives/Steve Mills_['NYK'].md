@@ -1,5 +1,5 @@
 ---
-bpm_rank: 116
+bpm_rank: 117
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Kevin Knox with 9th pick but was worth 60th pick. <span class=\"badge\
   \ badge-pill badge-danger\" data-bpm-text=\"-11\" data-vorp-text=\"-11.7\">-11.7</span>\
@@ -123,7 +123,7 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
   \ DAL.</li>\n</ul>\n    "
 trade_num: 24
 trade_overall_grade_bpm: B
-trade_overall_grade_vorp: D+
+trade_overall_grade_vorp: D
 trade_overall_percentile_bpm: 68
 trade_overall_percentile_vorp: 33
 trade_rating_bpm: 0
@@ -136,7 +136,7 @@ trade_total_bpm: 7668
 trade_total_grade_bpm: C+
 trade_total_grade_vorp: C-
 trade_total_percentile_bpm: 59
-trade_total_percentile_vorp: 45
+trade_total_percentile_vorp: 44
 trade_total_vorp: -5
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
   \ badge-pill badge-success\" data-bpm-text=\"+2\" data-vorp-text=\"+2.7\">+2.7</span></h5><ul\
@@ -156,4 +156,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +0.0\">+0</span> to NYK.</li>\n<li>Lost Carmelo Anthony <span class=\"badge badge-pill\
   \ badge-success\" data-bpm-text=\"+4751\" data-vorp-text=\"+0.0\">+4751</span> to\
   \ OKC.</li>\n</ul>\n    "
+vorp_rank: 86
 ---

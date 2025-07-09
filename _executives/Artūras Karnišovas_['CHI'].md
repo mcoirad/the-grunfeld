@@ -1,5 +1,5 @@
 ---
-bpm_rank: 109
+bpm_rank: 110
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Patrick Williams with 4th pick but was worth 49th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-9\" data-vorp-text=\"-9.6\">-9.6</span>\
@@ -65,7 +65,7 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
 signing_num_players: 72
 signing_overall_grade_bpm: C+
 signing_overall_grade_vorp: B-
-signing_overall_percentile_bpm: 58
+signing_overall_percentile_bpm: 57
 signing_overall_percentile_vorp: 63
 signing_rating_bpm: 0
 signing_rating_grade_bpm: B
@@ -137,7 +137,7 @@ trade_rating_vorp: 0
 trade_total_bpm: 15771
 trade_total_grade_bpm: B-
 trade_total_grade_vorp: B
-trade_total_percentile_bpm: 66
+trade_total_percentile_bpm: 67
 trade_total_percentile_vorp: 73
 trade_total_vorp: 4
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
@@ -158,4 +158,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   -0.4\">-888</span>, Kennedy Chandler <span class=\"badge badge-pill badge-success\"\
   \ data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to SAS.</li>\n</ul>\n \
   \   "
+vorp_rank: 88
 ---

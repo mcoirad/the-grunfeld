@@ -23,8 +23,8 @@ draft_rating_vorp: 9
 draft_total_bpm: 10472
 draft_total_grade_bpm: C+
 draft_total_grade_vorp: C+
-draft_total_percentile_bpm: 57
-draft_total_percentile_vorp: 57
+draft_total_percentile_bpm: 58
+draft_total_percentile_vorp: 58
 draft_total_vorp: 13
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Vince Williams Jr. with 47th pick but was worth 17th pick. <span class=\"\
@@ -161,4 +161,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +0.7\">+13367</span>, Bobi Klintman <span class=\"badge badge-pill badge-success\"\
   \ data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to OKC.</li>\n</ul>\n \
   \   "
+vorp_rank: 78
 ---

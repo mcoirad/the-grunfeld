@@ -29,8 +29,8 @@ draft_rating_vorp: -6
 draft_total_bpm: -6987
 draft_total_grade_bpm: D+
 draft_total_grade_vorp: D+
-draft_total_percentile_bpm: 34
-draft_total_percentile_vorp: 34
+draft_total_percentile_bpm: 35
+draft_total_percentile_vorp: 35
 draft_total_vorp: 1
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Rod Strickland with 19th pick but was worth 1th pick. <span class=\"\
@@ -68,7 +68,7 @@ signing_num_players: 12
 signing_overall_grade_bpm: B-
 signing_overall_grade_vorp: A-
 signing_overall_percentile_bpm: 64
-signing_overall_percentile_vorp: 80
+signing_overall_percentile_vorp: 81
 signing_rating_bpm: 0
 signing_rating_grade_bpm: D+
 signing_rating_grade_vorp: A
@@ -153,4 +153,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-bpm-text=\"+20862\" data-vorp-text=\"+1.7\">+20862</span>, Derrick Lewis\
   \ <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"\
   +0.0\">+0</span> to CHI.</li>\n</ul>\n    "
+vorp_rank: 55
 ---

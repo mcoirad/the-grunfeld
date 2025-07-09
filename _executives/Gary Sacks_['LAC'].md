@@ -1,5 +1,5 @@
 ---
-bpm_rank: 67
+bpm_rank: 68
 draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
   a draft grade.
@@ -43,7 +43,7 @@ signing_num_players: 8
 signing_overall_grade_bpm: B-
 signing_overall_grade_vorp: B
 signing_overall_percentile_bpm: 66
-signing_overall_percentile_vorp: 68
+signing_overall_percentile_vorp: 69
 signing_rating_bpm: 0
 signing_rating_grade_bpm: B-
 signing_rating_grade_vorp: A-
@@ -53,7 +53,7 @@ signing_rating_vorp: 0
 signing_total_bpm: -5184
 signing_total_grade_bpm: B
 signing_total_grade_vorp: C
-signing_total_percentile_bpm: 69
+signing_total_percentile_bpm: 68
 signing_total_percentile_vorp: 51
 signing_total_vorp: 8
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
@@ -95,7 +95,7 @@ trade_rating_vorp: null
 trade_total_bpm: 2192
 trade_total_grade_bpm: C
 trade_total_grade_vorp: B-
-trade_total_percentile_bpm: 51
+trade_total_percentile_bpm: 52
 trade_total_percentile_vorp: 65
 trade_total_vorp: 0
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
@@ -113,4 +113,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-vorp-text=\"+0.3\">+5777</span>, Marcus Paige <span class=\"badge badge-pill\
   \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to BRK.</li>\n\
   </ul>\n    "
+vorp_rank: 102
 ---

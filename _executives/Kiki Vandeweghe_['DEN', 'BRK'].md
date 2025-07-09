@@ -1,5 +1,5 @@
 ---
-bpm_rank: 81
+bpm_rank: 82
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Nikoloz Tskitishvili with 5th pick but was worth 56th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-20\" data-vorp-text=\"-20.0\">-20.0</span>\
@@ -145,7 +145,7 @@ trade_total_bpm: -12936
 trade_total_grade_bpm: D+
 trade_total_grade_vorp: B+
 trade_total_percentile_bpm: 35
-trade_total_percentile_vorp: 77
+trade_total_percentile_vorp: 78
 trade_total_vorp: 8
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
   \ badge-pill badge-success\" data-bpm-text=\"+30\" data-vorp-text=\"+30.2\">+30.2</span></h5><ul\
@@ -171,4 +171,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +0.3\">+2755</span>, Maciej Lampe <span class=\"badge badge-pill badge-success\"\
   \ data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to NYK.</li>\n</ul>\n \
   \   "
+vorp_rank: 35
 ---

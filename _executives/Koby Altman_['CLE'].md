@@ -1,5 +1,5 @@
 ---
-bpm_rank: 85
+bpm_rank: 86
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Isaac Okoro with 5th pick but was worth 30th pick. <span class=\"badge\
   \ badge-pill badge-danger\" data-bpm-text=\"-8\" data-vorp-text=\"-8.6\">-8.6</span>\
@@ -72,7 +72,7 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
 signing_num_players: 132
 signing_overall_grade_bpm: C
 signing_overall_grade_vorp: B-
-signing_overall_percentile_bpm: 50
+signing_overall_percentile_bpm: 49
 signing_overall_percentile_vorp: 62
 signing_rating_bpm: 0
 signing_rating_grade_bpm: C+
@@ -83,7 +83,7 @@ signing_rating_vorp: 0
 signing_total_bpm: -27426
 signing_total_grade_bpm: D+
 signing_total_grade_vorp: A-
-signing_total_percentile_bpm: 40
+signing_total_percentile_bpm: 39
 signing_total_percentile_vorp: 84
 signing_total_vorp: 26
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
@@ -144,7 +144,7 @@ trade_total_bpm: 27126
 trade_total_grade_bpm: B
 trade_total_grade_vorp: C-
 trade_total_percentile_bpm: 72
-trade_total_percentile_vorp: 43
+trade_total_percentile_vorp: 42
 trade_total_vorp: -6
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
   \ badge-pill badge-success\" data-bpm-text=\"+3\" data-vorp-text=\"+3.3\">+3.3</span></h5><ul\
@@ -164,4 +164,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-bpm-text=\"-14746\" data-vorp-text=\"-6.6\">-14746</span>, Collin Sexton\
   \ <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-1399\" data-vorp-text=\"\
   -2.8\">-1399</span> to UTA.</li>\n</ul>\n    "
+vorp_rank: 56
 ---

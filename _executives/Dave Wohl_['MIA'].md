@@ -16,8 +16,8 @@ draft_rating_vorp: null
 draft_total_bpm: -4363
 draft_total_grade_bpm: F
 draft_total_grade_vorp: F
-draft_total_percentile_bpm: 20
-draft_total_percentile_vorp: 20
+draft_total_percentile_bpm: 19
+draft_total_percentile_vorp: 19
 draft_total_vorp: 0
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
   </ul>\n    <h5 id=\"bpm-toggle\">Their biggest wins: </h5><ul id=bpm-toggle>\n</ul>\n\
@@ -58,7 +58,7 @@ signing_total_bpm: 12923
 signing_total_grade_bpm: A
 signing_total_grade_vorp: B+
 signing_total_percentile_bpm: 89
-signing_total_percentile_vorp: 74
+signing_total_percentile_vorp: 75
 signing_total_vorp: 21
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
   <li>Signed Dan Majerle <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
@@ -130,4 +130,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-bpm-text=\"+10365\" data-vorp-text=\"+0.3\">+10365</span>, Kevin Willis <span\
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+5523\" data-vorp-text=\"\
   +1.0\">+5523</span> to GSW.</li>\n</ul>\n    "
+vorp_rank: 37
 ---

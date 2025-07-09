@@ -1,5 +1,5 @@
 ---
-bpm_rank: 139
+bpm_rank: 140
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Wally Szczerbiak with 6th pick but was worth 12th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-19\" data-vorp-text=\"-19.8\">-19.8</span>\
@@ -89,7 +89,7 @@ signing_total_bpm: -134718
 signing_total_grade_bpm: F-
 signing_total_grade_vorp: C
 signing_total_percentile_bpm: 1
-signing_total_percentile_vorp: 52
+signing_total_percentile_vorp: 53
 signing_total_vorp: 9
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
   <li>Signed Terry Porter <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
@@ -156,7 +156,7 @@ trade_total_bpm: -135401
 trade_total_grade_bpm: F
 trade_total_grade_vorp: F
 trade_total_percentile_bpm: 5
-trade_total_percentile_vorp: 9
+trade_total_percentile_vorp: 8
 trade_total_vorp: -46
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
   \ badge-pill badge-success\" data-bpm-text=\"+15\" data-vorp-text=\"+15.6\">+15.6</span></h5><ul\
@@ -188,4 +188,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   -4.2\">+3760</span>, Antoine Walker <span class=\"badge badge-pill badge-success\"\
   \ data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to MEM.</li>\n</ul>\n \
   \   "
+vorp_rank: 42
 ---

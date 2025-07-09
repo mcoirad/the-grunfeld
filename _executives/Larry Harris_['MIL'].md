@@ -1,5 +1,5 @@
 ---
-bpm_rank: 99
+bpm_rank: 100
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Andrew Bogut with 1th pick but was worth 6th pick. <span class=\"badge\
   \ badge-pill badge-danger\" data-bpm-text=\"-82\" data-vorp-text=\"-82.9\">-82.9</span>\
@@ -77,7 +77,7 @@ signing_rating_vorp: 0
 signing_total_bpm: -51686
 signing_total_grade_bpm: D-
 signing_total_grade_vorp: C-
-signing_total_percentile_bpm: 26
+signing_total_percentile_bpm: 25
 signing_total_percentile_vorp: 43
 signing_total_vorp: 6
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
@@ -143,4 +143,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +2.8\">+20342</span>, Cedric Simmons <span class=\"badge badge-pill badge-success\"\
   \ data-bpm-text=\"+2349\" data-vorp-text=\"+0.3\">+2349</span> to NOK.</li>\n</ul>\n\
   \    "
+vorp_rank: 65
 ---

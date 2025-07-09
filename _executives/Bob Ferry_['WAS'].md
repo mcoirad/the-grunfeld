@@ -35,7 +35,7 @@ signing_num_players: 49
 signing_overall_grade_bpm: A
 signing_overall_grade_vorp: C-
 signing_overall_percentile_bpm: 89
-signing_overall_percentile_vorp: 45
+signing_overall_percentile_vorp: 46
 signing_rating_bpm: 0
 signing_rating_grade_bpm: S
 signing_rating_grade_vorp: B
@@ -43,7 +43,7 @@ signing_rating_percentile_bpm: 99
 signing_rating_percentile_vorp: 69
 signing_rating_vorp: 0
 signing_total_bpm: 0
-signing_total_grade_bpm: B+
+signing_total_grade_bpm: A-
 signing_total_grade_vorp: D-
 signing_total_percentile_bpm: 80
 signing_total_percentile_vorp: 22
@@ -77,7 +77,7 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
 trade_num: 98
 trade_overall_grade_bpm: A-
 trade_overall_grade_vorp: F
-trade_overall_percentile_bpm: 80
+trade_overall_percentile_bpm: 81
 trade_overall_percentile_vorp: 8
 trade_rating_bpm: 0
 trade_rating_grade_bpm: A+
@@ -106,4 +106,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-bpm-text=\"+4860\" data-vorp-text=\"-0.4\">+4860</span>, Ricky Sobers <span\
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+7175\" data-vorp-text=\"\
   +0.4\">+7175</span> to SEA.</li>\n</ul>\n    "
+vorp_rank: 164
 ---

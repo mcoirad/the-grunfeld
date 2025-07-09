@@ -68,8 +68,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
 signing_num_players: 13
 signing_overall_grade_bpm: D+
 signing_overall_grade_vorp: D+
-signing_overall_percentile_bpm: 38
-signing_overall_percentile_vorp: 33
+signing_overall_percentile_bpm: 37
+signing_overall_percentile_vorp: 34
 signing_rating_bpm: -1
 signing_rating_grade_bpm: F
 signing_rating_grade_vorp: D-
@@ -79,7 +79,7 @@ signing_rating_vorp: 0
 signing_total_bpm: -9200
 signing_total_grade_bpm: B-
 signing_total_grade_vorp: C-
-signing_total_percentile_bpm: 62
+signing_total_percentile_bpm: 61
 signing_total_percentile_vorp: 45
 signing_total_vorp: 6
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
@@ -160,4 +160,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +4081\" data-vorp-text=\"-0.2\">+4081</span>, Bobby Jackson <span class=\"badge\
   \ badge-pill badge-success\" data-bpm-text=\"+66\" data-vorp-text=\"-1.0\">+66</span>\
   \ to MIN.</li>\n</ul>\n    "
+vorp_rank: 64
 ---

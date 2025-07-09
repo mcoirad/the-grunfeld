@@ -1,5 +1,5 @@
 ---
-bpm_rank: 95
+bpm_rank: 96
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Enes Kanter with 3th pick but was worth 11th pick. <span class=\"badge\
   \ badge-pill badge-danger\" data-bpm-text=\"-36\" data-vorp-text=\"-36.1\">-36.1</span>\
@@ -78,7 +78,7 @@ signing_num_players: 56
 signing_overall_grade_bpm: F
 signing_overall_grade_vorp: C-
 signing_overall_percentile_bpm: 9
-signing_overall_percentile_vorp: 44
+signing_overall_percentile_vorp: 45
 signing_rating_bpm: -1
 signing_rating_grade_bpm: F
 signing_rating_grade_vorp: F
@@ -89,7 +89,7 @@ signing_total_bpm: -87810
 signing_total_grade_bpm: F
 signing_total_grade_vorp: A-
 signing_total_percentile_bpm: 10
-signing_total_percentile_vorp: 80
+signing_total_percentile_vorp: 81
 signing_total_vorp: 23
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
   <li>Signed Carlos Boozer <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
@@ -159,4 +159,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +0\" data-vorp-text=\"+0.0\">+0</span>, Terrence Jones <span class=\"badge badge-pill\
   \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to MIN.</li>\n\
   </ul>\n    "
+vorp_rank: 19
 ---

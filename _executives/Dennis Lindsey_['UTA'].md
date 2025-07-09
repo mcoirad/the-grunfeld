@@ -29,8 +29,8 @@ draft_rating_vorp: -1
 draft_total_bpm: -22341
 draft_total_grade_bpm: D+
 draft_total_grade_vorp: D+
-draft_total_percentile_bpm: 37
-draft_total_percentile_vorp: 37
+draft_total_percentile_bpm: 38
+draft_total_percentile_vorp: 38
 draft_total_vorp: 1
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Grayson Allen with 21th pick but was worth 14th pick. <span class=\"\
@@ -159,4 +159,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-vorp-text=\"+0.0\">+0</span>, Walker Kessler <span class=\"badge badge-pill\
   \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to MEM.</li>\n\
   </ul>\n    "
+vorp_rank: 20
 ---

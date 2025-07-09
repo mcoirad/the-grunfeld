@@ -1,5 +1,5 @@
 ---
-bpm_rank: 129
+bpm_rank: 130
 draft_bust_list: "\n    \n    \n    "
 draft_description: This executive has only drafted 2 players and thus doesn't have
   a draft grade.
@@ -120,7 +120,7 @@ trade_rating_vorp: 0
 trade_total_bpm: -26582
 trade_total_grade_bpm: D-
 trade_total_grade_vorp: C+
-trade_total_percentile_bpm: 26
+trade_total_percentile_bpm: 25
 trade_total_percentile_vorp: 58
 trade_total_vorp: 0
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
@@ -149,4 +149,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   -1.0\">+2496</span>, future 2nd round pick <span class=\"badge badge-pill badge-success\"\
   \ data-bpm-text=\"+2496\" data-vorp-text=\"-1.0\">+2496</span> to PHI.</li>\n</ul>\n\
   \    "
+vorp_rank: 135
 ---

@@ -158,4 +158,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +0.1\">+5652</span>, Brett Roberts <span class=\"badge badge-pill badge-success\"\
   \ data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to SAC.</li>\n</ul>\n \
   \   "
+vorp_rank: 48
 ---

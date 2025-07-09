@@ -1,5 +1,5 @@
 ---
-bpm_rank: 142
+bpm_rank: 143
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Mario Hezonja with 5th pick but was worth 56th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-13\" data-vorp-text=\"-13.6\">-13.6</span>\
@@ -29,8 +29,8 @@ draft_rating_vorp: -10
 draft_total_bpm: -25665
 draft_total_grade_bpm: C
 draft_total_grade_vorp: C
-draft_total_percentile_bpm: 51
-draft_total_percentile_vorp: 51
+draft_total_percentile_bpm: 52
+draft_total_percentile_vorp: 52
 draft_total_vorp: 9
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Kyle O'Quinn with 49th pick but was worth 11th pick. <span class=\"\
@@ -76,7 +76,7 @@ signing_total_bpm: -66534
 signing_total_grade_bpm: F
 signing_total_grade_vorp: C-
 signing_total_percentile_bpm: 16
-signing_total_percentile_vorp: 43
+signing_total_percentile_vorp: 44
 signing_total_vorp: 6
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
   <li>Signed Elfrid Payton <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
@@ -173,4 +173,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ badge-success\" data-bpm-text=\"+2378\" data-vorp-text=\"+0.2\">+2378</span>,\
   \ Dwight Howard <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-1700\"\
   \ data-vorp-text=\"-2.9\">-1700</span> to LAL.</li>\n</ul>\n    "
+vorp_rank: 92
 ---

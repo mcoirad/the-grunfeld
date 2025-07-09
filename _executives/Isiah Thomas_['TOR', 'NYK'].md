@@ -1,5 +1,5 @@
 ---
-bpm_rank: 148
+bpm_rank: 149
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Marcus Camby with 2th pick but was worth 5th pick. <span class=\"badge\
   \ badge-pill badge-danger\" data-bpm-text=\"-26\" data-vorp-text=\"-26.3\">-26.3</span>\
@@ -33,8 +33,8 @@ draft_rating_vorp: 3
 draft_total_bpm: 782
 draft_total_grade_bpm: B-
 draft_total_grade_vorp: B-
-draft_total_percentile_bpm: 66
-draft_total_percentile_vorp: 66
+draft_total_percentile_bpm: 67
+draft_total_percentile_vorp: 67
 draft_total_vorp: 23
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Tracy McGrady with 9th pick but was worth 2th pick. <span class=\"badge\
@@ -88,7 +88,7 @@ signing_rating_vorp: 0
 signing_total_bpm: -59788
 signing_total_grade_bpm: F
 signing_total_grade_vorp: F
-signing_total_percentile_bpm: 20
+signing_total_percentile_bpm: 19
 signing_total_percentile_vorp: 7
 signing_total_vorp: -1
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
@@ -149,7 +149,7 @@ trade_num: 87
 trade_overall_grade_bpm: F
 trade_overall_grade_vorp: B-
 trade_overall_percentile_bpm: 12
-trade_overall_percentile_vorp: 63
+trade_overall_percentile_vorp: 64
 trade_rating_bpm: 0
 trade_rating_grade_bpm: F
 trade_rating_grade_vorp: C+
@@ -197,4 +197,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span>, Gordon\
   \ Hayward <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"\
   +0.0\">+0</span> to PHO.</li>\n</ul>\n    "
+vorp_rank: 69
 ---

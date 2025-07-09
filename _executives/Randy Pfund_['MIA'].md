@@ -1,5 +1,5 @@
 ---
-bpm_rank: 70
+bpm_rank: 71
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Michael Beasley with 2th pick but was worth 25th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-35\" data-vorp-text=\"-35.4\">-35.4</span>\
@@ -89,7 +89,7 @@ signing_total_bpm: -166188
 signing_total_grade_bpm: F-
 signing_total_grade_vorp: B-
 signing_total_percentile_bpm: 1
-signing_total_percentile_vorp: 60
+signing_total_percentile_vorp: 61
 signing_total_vorp: 13
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
   <li>Signed Dwyane Wade <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
@@ -184,4 +184,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ badge-pill badge-danger\" data-bpm-text=\"-8038\" data-vorp-text=\"-4.4\">-8038</span>,\
   \ Otis Thorpe <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+3170\"\
   \ data-vorp-text=\"+0.5\">+3170</span> to CHH.</li>\n</ul>\n    "
+vorp_rank: 22
 ---

@@ -7,7 +7,7 @@ draft_description: Otis Smith ranks in the 85th percentile for drafting among ex
 draft_num_players: 6
 draft_overall_grade_bpm: B
 draft_overall_grade_vorp: B
-draft_overall_percentile_vorp: 67
+draft_overall_percentile_vorp: 68
 draft_rating_bpm: 4
 draft_rating_grade_bpm: A
 draft_rating_grade_vorp: A-
@@ -17,8 +17,8 @@ draft_rating_vorp: 4
 draft_total_bpm: 4214
 draft_total_grade_bpm: C
 draft_total_grade_vorp: C
-draft_total_percentile_bpm: 49
-draft_total_percentile_vorp: 49
+draft_total_percentile_bpm: 50
+draft_total_percentile_vorp: 50
 draft_total_vorp: 7
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
   <li>Drafted J.J. Redick with 11th pick but was worth 7th pick. <span class=\"badge\
@@ -63,7 +63,7 @@ signing_rating_vorp: 0
 signing_total_bpm: -16595
 signing_total_grade_bpm: C
 signing_total_grade_vorp: C+
-signing_total_percentile_bpm: 51
+signing_total_percentile_bpm: 50
 signing_total_percentile_vorp: 54
 signing_total_vorp: 9
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
@@ -135,4 +135,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +0.2\">+1072</span>, Courtney Lee <span class=\"badge badge-pill badge-success\"\
   \ data-bpm-text=\"+3325\" data-vorp-text=\"-0.4\">+3325</span> to NJN.</li>\n</ul>\n\
   \    "
+vorp_rank: 63
 ---

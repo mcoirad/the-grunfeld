@@ -73,10 +73,10 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ badge-pill badge-danger\" data-bpm-text=\"-3223\" data-vorp-text=\"-3223.2\">-3223</span>\
   \ in 1985.</li>\n</ul>\n    "
 signing_num_players: 39
-signing_overall_grade_bpm: C
+signing_overall_grade_bpm: C-
 signing_overall_grade_vorp: B
 signing_overall_percentile_bpm: 47
-signing_overall_percentile_vorp: 71
+signing_overall_percentile_vorp: 72
 signing_rating_bpm: 0
 signing_rating_grade_bpm: C
 signing_rating_grade_vorp: B+
@@ -86,7 +86,7 @@ signing_rating_vorp: 0
 signing_total_bpm: -21216
 signing_total_grade_bpm: C-
 signing_total_grade_vorp: B
-signing_total_percentile_bpm: 45
+signing_total_percentile_bpm: 44
 signing_total_percentile_vorp: 67
 signing_total_vorp: 16
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
@@ -156,4 +156,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ badge-success\" data-bpm-text=\"+2336\" data-vorp-text=\"-1.2\">+2336</span>,\
   \ Freeman Williams <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
   +1533\" data-vorp-text=\"+0.4\">+1533</span> to UTA.</li>\n</ul>\n    "
+vorp_rank: 18
 ---

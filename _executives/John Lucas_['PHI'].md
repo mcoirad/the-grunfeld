@@ -1,5 +1,5 @@
 ---
-bpm_rank: 123
+bpm_rank: 124
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Sharone Wright with 6th pick but was worth 52th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-17\" data-vorp-text=\"-17.7\">-17.7</span>\
@@ -63,8 +63,8 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
 signing_num_players: 24
 signing_overall_grade_bpm: F
 signing_overall_grade_vorp: F-
-signing_overall_percentile_bpm: 17
-signing_overall_percentile_vorp: 3
+signing_overall_percentile_bpm: 16
+signing_overall_percentile_vorp: 2
 signing_rating_bpm: -1
 signing_rating_grade_bpm: F-
 signing_rating_grade_vorp: F-
@@ -105,7 +105,7 @@ trade_total_bpm: 10735
 trade_total_grade_bpm: B-
 trade_total_grade_vorp: B+
 trade_total_percentile_bpm: 62
-trade_total_percentile_vorp: 74
+trade_total_percentile_vorp: 75
 trade_total_vorp: 7
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
   \ badge-pill badge-success\" data-bpm-text=\"+4\" data-vorp-text=\"+4.3\">+4.3</span></h5><ul\
@@ -128,4 +128,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to PHI.</li>\n\
   <li>Lost Sharone Wright <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
   +9550\" data-vorp-text=\"+1.8\">+9550</span> to TOR.</li>\n</ul>\n    "
+vorp_rank: 114
 ---

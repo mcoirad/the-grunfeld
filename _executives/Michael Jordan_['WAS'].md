@@ -1,5 +1,5 @@
 ---
-bpm_rank: 98
+bpm_rank: 99
 draft_bust_list: "\n    \n    \n    "
 draft_description: This executive has only drafted 2 players and thus doesn't have
   a draft grade.
@@ -45,7 +45,7 @@ signing_num_players: 5
 signing_overall_grade_bpm: A-
 signing_overall_grade_vorp: B
 signing_overall_percentile_bpm: 86
-signing_overall_percentile_vorp: 69
+signing_overall_percentile_vorp: 70
 signing_rating_bpm: 0
 signing_rating_grade_bpm: A-
 signing_rating_grade_vorp: A+
@@ -129,4 +129,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   >-1096</span> to WAS.</li>\n<li>Lost Predrag Drobnjak <span class=\"badge badge-pill\
   \ badge-success\" data-bpm-text=\"+8951\" data-vorp-text=\"+0.6\">+8951</span> to\
   \ SEA.</li>\n</ul>\n    "
+vorp_rank: 87
 ---

@@ -23,7 +23,7 @@ draft_description: Mike Dunleavy ranks in the 31th percentile for drafting among
 draft_num_players: 7
 draft_overall_grade_bpm: C
 draft_overall_grade_vorp: C+
-draft_overall_percentile_vorp: 56
+draft_overall_percentile_vorp: 57
 draft_rating_bpm: -15
 draft_rating_grade_bpm: D-
 draft_rating_grade_vorp: D
@@ -143,4 +143,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +0\" data-vorp-text=\"+0.0\">+0</span> to MIL.</li>\n<li>Lost Stephon Marbury <span\
   \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-1209\" data-vorp-text=\"\
   -3.4\">-1209</span> to MIN.</li>\n</ul>\n    "
+vorp_rank: 36
 ---

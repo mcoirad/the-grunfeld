@@ -1,5 +1,5 @@
 ---
-bpm_rank: 79
+bpm_rank: 80
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Zaccharie Risacher with 1th pick but was worth 52th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-1\" data-vorp-text=\"-1.4\">-1.4</span>\
@@ -57,7 +57,7 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
   \ data-vorp-text=\"-1156.4\">-1156</span> in 2023.</li>\n</ul>\n    "
 signing_num_players: 18
 signing_overall_grade_bpm: B-
-signing_overall_grade_vorp: C-
+signing_overall_grade_vorp: C
 signing_overall_percentile_bpm: 62
 signing_overall_percentile_vorp: 47
 signing_rating_bpm: 0
@@ -69,7 +69,7 @@ signing_rating_vorp: 0
 signing_total_bpm: -6846
 signing_total_grade_bpm: B-
 signing_total_grade_vorp: D-
-signing_total_percentile_bpm: 66
+signing_total_percentile_bpm: 65
 signing_total_percentile_vorp: 25
 signing_total_vorp: 0
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
@@ -150,4 +150,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +7.3\">+4525</span> to ATL.</li>\n<li>Lost Dejounte Murray <span class=\"badge badge-pill\
   \ badge-success\" data-bpm-text=\"+1619\" data-vorp-text=\"-0.1\">+1619</span> to\
   \ NOP.</li>\n</ul>\n    "
+vorp_rank: 84
 ---

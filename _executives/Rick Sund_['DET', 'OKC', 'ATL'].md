@@ -1,5 +1,5 @@
 ---
-bpm_rank: 88
+bpm_rank: 89
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Johan Petro with 25th pick but was worth 60th pick. <span class=\"badge\
   \ badge-pill badge-danger\" data-bpm-text=\"-7\" data-vorp-text=\"-7.0\">-7.0</span>\
@@ -31,8 +31,8 @@ draft_rating_vorp: -6
 draft_total_bpm: -10418
 draft_total_grade_bpm: C+
 draft_total_grade_vorp: C+
-draft_total_percentile_bpm: 54
-draft_total_percentile_vorp: 54
+draft_total_percentile_bpm: 55
+draft_total_percentile_vorp: 55
 draft_total_vorp: 12
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Jeff Teague with 19th pick but was worth 7th pick. <span class=\"badge\
@@ -151,4 +151,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ to OKC.</li>\n<li>Lost Willie Green <span class=\"badge badge-pill badge-success\"\
   \ data-bpm-text=\"+27283\" data-vorp-text=\"+2.2\">+27283</span> to PHI.</li>\n\
   </ul>\n    "
+vorp_rank: 98
 ---

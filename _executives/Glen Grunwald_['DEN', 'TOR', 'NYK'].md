@@ -1,5 +1,5 @@
 ---
-bpm_rank: 150
+bpm_rank: 151
 draft_bust_list: "\n    \n    <h5 id=\"bpm-toggle\">Their biggest busts: </h5><ul\
   \ id=bpm-toggle>\n<li>Drafted Tim Hardaway Jr. with 24th pick but was worth 58th\
   \ pick. <span class=\"badge badge-pill badge-danger\" data-bpm-text=\"-26344\" data-vorp-text=\"\
@@ -141,4 +141,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-vorp-text=\"+26.1\">+73299</span> to TOR.</li>\n<li>Lost Antawn Jamison <span\
   \ class=\"badge badge-pill badge-danger\" data-bpm-text=\"-3090\" data-vorp-text=\"\
   -6.9\">-3090</span> to GSW.</li>\n</ul>\n    "
+vorp_rank: 131
 ---

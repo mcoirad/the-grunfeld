@@ -1,5 +1,5 @@
 ---
-bpm_rank: 134
+bpm_rank: 135
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Felton Spencer with 6th pick but was worth 52th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-17\" data-vorp-text=\"-17.1\">-17.1</span>\
@@ -29,8 +29,8 @@ draft_rating_percentile_bpm: 41
 draft_rating_percentile_vorp: 38
 draft_rating_vorp: -6
 draft_total_bpm: 20744
-draft_total_grade_bpm: B+
-draft_total_grade_vorp: B+
+draft_total_grade_bpm: A-
+draft_total_grade_vorp: A-
 draft_total_percentile_bpm: 80
 draft_total_percentile_vorp: 80
 draft_total_vorp: 42
@@ -140,7 +140,7 @@ trade_rating_vorp: 0
 trade_total_bpm: -21170
 trade_total_grade_bpm: D
 trade_total_grade_vorp: D
-trade_total_percentile_bpm: 29
+trade_total_percentile_bpm: 28
 trade_total_percentile_vorp: 33
 trade_total_vorp: -13
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
@@ -158,4 +158,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +0.0\">+0</span> to DET.</li>\n<li>Lost Olden Polynice <span class=\"badge badge-pill\
   \ badge-success\" data-bpm-text=\"+19772\" data-vorp-text=\"-0.2\">+19772</span>\
   \ to SAC.</li>\n</ul>\n    "
+vorp_rank: 54
 ---

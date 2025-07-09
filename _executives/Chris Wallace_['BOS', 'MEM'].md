@@ -1,5 +1,5 @@
 ---
-bpm_rank: 133
+bpm_rank: 134
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Hasheem Thabeet with 2th pick but was worth 51th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-75\" data-vorp-text=\"-75.1\">-75.1</span>\
@@ -155,7 +155,7 @@ trade_total_bpm: -27798
 trade_total_grade_bpm: D-
 trade_total_grade_vorp: C+
 trade_total_percentile_bpm: 24
-trade_total_percentile_vorp: 54
+trade_total_percentile_vorp: 53
 trade_total_vorp: -1
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
   \ badge-pill badge-success\" data-bpm-text=\"+12\" data-vorp-text=\"+12.4\">+12.4</span></h5><ul\
@@ -175,4 +175,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-bpm-text=\"+1305\" data-vorp-text=\"+0.2\">+1305</span>, Casey Jacobsen <span\
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+7387\" data-vorp-text=\"\
   +0.0\">+7387</span> to PHO.</li>\n</ul>\n    "
+vorp_rank: 39
 ---

@@ -1,5 +1,5 @@
 ---
-bpm_rank: 87
+bpm_rank: 88
 draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
   a draft grade.
@@ -44,7 +44,7 @@ signing_rating_percentile_bpm: null
 signing_rating_percentile_vorp: null
 signing_rating_vorp: null
 signing_total_bpm: -1106
-signing_total_grade_bpm: B+
+signing_total_grade_bpm: B
 signing_total_grade_vorp: D-
 signing_total_percentile_bpm: 73
 signing_total_percentile_vorp: 23
@@ -89,4 +89,5 @@ trade_total_percentile_bpm: 29
 trade_total_percentile_vorp: 45
 trade_total_vorp: -4
 trade_win_list: "\n    \n    \n    "
+vorp_rank: 133
 ---

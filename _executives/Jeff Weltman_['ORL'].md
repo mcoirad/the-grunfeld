@@ -1,5 +1,5 @@
 ---
-bpm_rank: 141
+bpm_rank: 142
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Jonathan Isaac with 6th pick but was worth 16th pick. <span class=\"\
   badge badge-pill badge-danger\" data-bpm-text=\"-8\" data-vorp-text=\"-8.5\">-8.5</span>\
@@ -23,7 +23,7 @@ draft_description: Jeff Weltman ranks in the 12th percentile for drafting among 
 draft_num_players: 14
 draft_overall_grade_bpm: D+
 draft_overall_grade_vorp: D+
-draft_overall_percentile_vorp: 38
+draft_overall_percentile_vorp: 39
 draft_rating_bpm: -18
 draft_rating_grade_bpm: F
 draft_rating_grade_vorp: F
@@ -136,7 +136,7 @@ trade_total_bpm: -12876
 trade_total_grade_bpm: D+
 trade_total_grade_vorp: D-
 trade_total_percentile_bpm: 36
-trade_total_percentile_vorp: 26
+trade_total_percentile_vorp: 25
 trade_total_vorp: -20
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
   \ badge-pill badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.5\">+0.5</span></h5><ul\
@@ -154,4 +154,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ badge-success\" data-bpm-text=\"+8939\" data-vorp-text=\"-0.5\">+8939</span>,\
   \ Yam Madar <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+0\"\
   \ data-vorp-text=\"+0.0\">+0</span> to CHO.</li>\n</ul>\n    "
+vorp_rank: 98
 ---

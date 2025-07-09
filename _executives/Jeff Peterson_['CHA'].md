@@ -1,5 +1,5 @@
 ---
-bpm_rank: 78
+bpm_rank: 79
 draft_bust_list: null
 draft_description: This executive hasn't drafted any players, and thus doesn't have
   a draft grade.
@@ -79,7 +79,7 @@ trade_rating_vorp: 0
 trade_total_bpm: -9031
 trade_total_grade_bpm: D+
 trade_total_grade_vorp: C+
-trade_total_percentile_bpm: 40
+trade_total_percentile_bpm: 39
 trade_total_percentile_vorp: 54
 trade_total_vorp: -1
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
@@ -94,4 +94,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-vorp-text=\"+0.0\">+0</span> to CHA.</li>\n<li>Lost Nick Richards <span class=\"\
   badge badge-pill badge-success\" data-bpm-text=\"+3264\" data-vorp-text=\"+0.4\"\
   >+3264</span> to PHO.</li>\n</ul>\n    "
+vorp_rank: 129
 ---

@@ -162,4 +162,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +1.6\">+12185</span>, Bobby Simmons <span class=\"badge badge-pill badge-success\"\
   \ data-bpm-text=\"+1422\" data-vorp-text=\"-0.6\">+1422</span> to NJN.</li>\n</ul>\n\
   \    "
+vorp_rank: 28
 ---

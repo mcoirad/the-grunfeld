@@ -1,5 +1,5 @@
 ---
-bpm_rank: 155
+bpm_rank: 156
 draft_bust_list: "\n    \n    \n    "
 draft_description: Bob Weinhauer ranks in the 62th percentile for drafting among executives
   in our database. That's basically average. It could worse though lol.
@@ -112,7 +112,7 @@ trade_num: 45
 trade_overall_grade_bpm: D
 trade_overall_grade_vorp: C
 trade_overall_percentile_bpm: 29
-trade_overall_percentile_vorp: 52
+trade_overall_percentile_vorp: 51
 trade_rating_bpm: 0
 trade_rating_grade_bpm: C
 trade_rating_grade_vorp: A+
@@ -146,4 +146,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   >-1089</span>, Randolph Childress <span class=\"badge badge-pill badge-success\"\
   \ data-bpm-text=\"+2012\" data-vorp-text=\"+0.3\">+2012</span> to POR.</li>\n</ul>\n\
   \    "
+vorp_rank: 163
 ---

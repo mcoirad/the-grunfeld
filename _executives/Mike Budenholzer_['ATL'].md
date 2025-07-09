@@ -1,5 +1,5 @@
 ---
-bpm_rank: 69
+bpm_rank: 70
 draft_bust_list: "\n    \n    \n    "
 draft_description: This executive has only drafted 1 player and thus doesn't have
   a draft grade.
@@ -46,7 +46,7 @@ signing_lose_list: "\n    <h5 id=\"vorp-toggle\">Their worst signings: </h5><ul 
 signing_num_players: 34
 signing_overall_grade_bpm: B-
 signing_overall_grade_vorp: B-
-signing_overall_percentile_bpm: 62
+signing_overall_percentile_bpm: 61
 signing_overall_percentile_vorp: 62
 signing_rating_bpm: 0
 signing_rating_grade_bpm: B-
@@ -124,4 +124,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ to WAS.</li>\n<li>Lost Jerian Grant <span class=\"badge badge-pill badge-success\"\
   \ data-bpm-text=\"+3921\" data-vorp-text=\"+0.3\">+3921</span> to NYK.</li>\n</ul>\n\
   \    "
+vorp_rank: 94
 ---

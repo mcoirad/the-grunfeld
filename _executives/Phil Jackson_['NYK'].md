@@ -1,5 +1,5 @@
 ---
-bpm_rank: 118
+bpm_rank: 119
 draft_bust_list: "\n    \n    \n    "
 draft_description: This executive has only drafted 3 players and thus doesn't have
   a draft grade.
@@ -62,8 +62,8 @@ signing_rating_vorp: 0
 signing_total_bpm: -56074
 signing_total_grade_bpm: D-
 signing_total_grade_vorp: C
-signing_total_percentile_bpm: 23
-signing_total_percentile_vorp: 49
+signing_total_percentile_bpm: 22
+signing_total_percentile_vorp: 50
 signing_total_vorp: 8
 signing_win_list: "\n    <h5 id=\"vorp-toggle\">Their best signings: </h5><ul id=vorp-toggle>\n\
   <li>Signed Carmelo Anthony <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
@@ -129,7 +129,7 @@ trade_rating_vorp: 0
 trade_total_bpm: 707
 trade_total_grade_bpm: C
 trade_total_grade_vorp: C-
-trade_total_percentile_bpm: 49
+trade_total_percentile_bpm: 50
 trade_total_percentile_vorp: 44
 trade_total_vorp: -5
 trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"badge\
@@ -155,4 +155,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   badge badge-pill badge-success\" data-bpm-text=\"+7431\" data-vorp-text=\"-0.3\"\
   >+7431</span>, J.R. Smith <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
   +5539\" data-vorp-text=\"-2.4\">+5539</span> to CLE.</li>\n</ul>\n    "
+vorp_rank: 106
 ---

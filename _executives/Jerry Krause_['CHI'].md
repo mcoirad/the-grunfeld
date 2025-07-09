@@ -1,5 +1,5 @@
 ---
-bpm_rank: 161
+bpm_rank: 162
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Scott May with 2th pick but was worth 15th pick. <span class=\"badge\
   \ badge-pill badge-danger\" data-bpm-text=\"-38\" data-vorp-text=\"-38.0\">-38.0</span>\
@@ -33,8 +33,8 @@ draft_rating_vorp: -12
 draft_total_bpm: -127665
 draft_total_grade_bpm: B
 draft_total_grade_vorp: B
-draft_total_percentile_bpm: 71
-draft_total_percentile_vorp: 71
+draft_total_percentile_bpm: 72
+draft_total_percentile_vorp: 72
 draft_total_vorp: 31
 draft_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest wins: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Toni Kukoč with 29th pick but was worth 2th pick. <span class=\"badge\
@@ -129,7 +129,7 @@ trade_lose_list: "\n    <h5 id=\"vorp-toggle\">Their biggest L: <span class=\"ba
 trade_num: 142
 trade_overall_grade_bpm: C+
 trade_overall_grade_vorp: C-
-trade_overall_percentile_bpm: 55
+trade_overall_percentile_bpm: 56
 trade_overall_percentile_vorp: 43
 trade_rating_bpm: 0
 trade_rating_grade_bpm: C
@@ -138,7 +138,7 @@ trade_rating_percentile_bpm: 51
 trade_rating_percentile_vorp: 58
 trade_rating_vorp: 0
 trade_total_bpm: 7932
-trade_total_grade_bpm: C+
+trade_total_grade_bpm: B-
 trade_total_grade_vorp: D
 trade_total_percentile_bpm: 60
 trade_total_percentile_vorp: 28
@@ -164,4 +164,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   +0\" data-vorp-text=\"+0.0\">+0</span>, B.J. Armstrong <span class=\"badge badge-pill\
   \ badge-success\" data-bpm-text=\"+0\" data-vorp-text=\"+0.0\">+0</span> to SEA.</li>\n\
   </ul>\n    "
+vorp_rank: 58
 ---

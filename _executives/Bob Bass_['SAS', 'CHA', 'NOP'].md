@@ -1,5 +1,5 @@
 ---
-bpm_rank: 132
+bpm_rank: 133
 draft_bust_list: "\n    <h5 id=\"vorp-toggle\">Their biggest busts: </h5><ul id=vorp-toggle>\n\
   <li>Drafted Sean Elliott with 3th pick but was worth 9th pick. <span class=\"badge\
   \ badge-pill badge-danger\" data-bpm-text=\"-22\" data-vorp-text=\"-22.8\">-22.8</span>\
@@ -156,4 +156,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ data-vorp-text=\"+0.9\">-3589</span> to SAS.</li>\n<li>Lost Kevin Duckworth <span\
   \ class=\"badge badge-pill badge-success\" data-bpm-text=\"+47972\" data-vorp-text=\"\
   +4.7\">+47972</span> to POR.</li>\n</ul>\n    "
+vorp_rank: 140
 ---

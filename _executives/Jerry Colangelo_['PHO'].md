@@ -167,4 +167,5 @@ trade_win_list: "\n    <h5 id=\"vorp-toggle\">Their biggest win: <span class=\"b
   \ Lang <span class=\"badge badge-pill badge-success\" data-bpm-text=\"+5769\" data-vorp-text=\"\
   +0.6\">+5769</span>, Tim Perry <span class=\"badge badge-pill badge-success\" data-bpm-text=\"\
   +12043\" data-vorp-text=\"+0.6\">+12043</span> to PHI.</li>\n</ul>\n    "
+vorp_rank: 3
 ---
