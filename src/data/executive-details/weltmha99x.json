@@ -1,0 +1,3340 @@
+{
+  "slug": "weltmha99x",
+  "sourceRowCount": 160,
+  "tenures": [
+    {
+      "teamCode": "CLE",
+      "startDate": "1982-10-25",
+      "endDate": "1987-06-22"
+    },
+    {
+      "teamCode": "BRK",
+      "startDate": "1987-06-22",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "weltmha99x-1",
+      "sourceId": 1,
+      "date": "1982-10-25",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Scooter McCray; Sent out Brad Branson",
+      "participants": [
+        {
+          "name": "Brad Branson",
+          "playerHref": "/players/b/bransbr01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 1088,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Scooter McCray",
+          "playerHref": "/players/m/mccrasc01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -669.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 418.4,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": 418.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 418.4,
+        "vorp": -0.1
+      }
+    },
+    {
+      "id": "weltmha99x-2",
+      "sourceId": 2,
+      "date": "1982-12-06",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Sam Lacey",
+      "participants": [
+        {
+          "name": "Sam Lacey",
+          "playerHref": "/players/l/laceysa01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 418.4,
+        "vorp": -0.1
+      }
+    },
+    {
+      "id": "weltmha99x-3",
+      "sourceId": 3,
+      "date": "1982-12-15",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added World B. Free; Sent out Ron Brewer",
+      "participants": [
+        {
+          "name": "Ron Brewer",
+          "playerHref": "/players/b/brewero01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 3327,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "World B. Free",
+          "playerHref": "/players/f/freewo01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 19972.3,
+            "vorp": 9.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 23299.3,
+        "vorp": 9.6
+      },
+      "categoryValues": {
+        "bpm": 23299.3,
+        "vorp": 9.6
+      },
+      "runningValues": {
+        "bpm": 23717.7,
+        "vorp": 9.5
+      }
+    },
+    {
+      "id": "weltmha99x-4",
+      "sourceId": 4,
+      "date": "1983-01-10",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Larry Kenon",
+      "participants": [
+        {
+          "name": "Larry Kenon",
+          "playerHref": "/players/k/kenonla01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -374.4,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -374.4,
+        "vorp": 0.2
+      },
+      "categoryValues": {
+        "bpm": -374.4,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 23343.3,
+        "vorp": 9.7
+      }
+    },
+    {
+      "id": "weltmha99x-5",
+      "sourceId": 5,
+      "date": "1983-01-14",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Darren Tillis and Greg Kite; Sent out Scott Wedman",
+      "participants": [
+        {
+          "name": "Scott Wedman",
+          "playerHref": "/players/w/wedmasc01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 7692.9,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Darren Tillis",
+          "playerHref": "/players/t/tillida01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1108.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Greg Kite",
+          "playerHref": "/players/k/kitegr01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 6584.299999999999,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": 6584.299999999999,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 29927.6,
+        "vorp": 9.6
+      }
+    },
+    {
+      "id": "weltmha99x-6",
+      "sourceId": 6,
+      "date": "1983-02-07",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Jeff Cook, Roy Hinson, and Derrick Hord; Sent out James Edwards and Greg Kite",
+      "participants": [
+        {
+          "name": "James Edwards",
+          "playerHref": "/players/e/edwarja01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 9453.5,
+            "vorp": -1.0999999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Greg Kite",
+          "playerHref": "/players/k/kitegr01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jeff Cook",
+          "playerHref": "/players/c/cookje01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -2660,
+            "vorp": 0.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Roy Hinson",
+          "playerHref": "/players/h/hinsoro01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Derrick Hord",
+          "playerHref": "/players/h/hordde01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 6793.5,
+        "vorp": -0.19999999999999984
+      },
+      "categoryValues": {
+        "bpm": 6793.5,
+        "vorp": -0.19999999999999984
+      },
+      "runningValues": {
+        "bpm": 36721.1,
+        "vorp": 9.4
+      }
+    },
+    {
+      "id": "weltmha99x-7",
+      "sourceId": 7,
+      "date": "1983-03-30",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Carl Nicks",
+      "participants": [
+        {
+          "name": "Carl Nicks",
+          "playerHref": "/players/n/nicksca01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -399.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -399.6,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -399.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 36321.5,
+        "vorp": 9.4
+      }
+    },
+    {
+      "id": "weltmha99x-8",
+      "sourceId": 8,
+      "date": "1983-06-27",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Lonnie Shelton; Sent out Scooter McCray",
+      "participants": [
+        {
+          "name": "Scooter McCray",
+          "playerHref": "/players/m/mccrasc01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 1904.1,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lonnie Shelton",
+          "playerHref": "/players/s/sheltlo01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -8708.4,
+            "vorp": -0.19999999999999996
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6804.299999999999,
+        "vorp": -0.09999999999999995
+      },
+      "categoryValues": {
+        "bpm": -6804.299999999999,
+        "vorp": -0.09999999999999995
+      },
+      "runningValues": {
+        "bpm": 29517.199999999997,
+        "vorp": 9.3
+      }
+    },
+    {
+      "id": "weltmha99x-9",
+      "sourceId": 9,
+      "date": "1983-06-28",
+      "type": "draft",
+      "tenureTeam": "CLE",
+      "summary": "Drafted Roy Hinson, Stewart Granger, John Garris, Paul Thompson, Larry Anderson, Les Craft, Derrick Hord, Dwight Jones, Chris Logan, Mel McLaughlin, John Colombo, Larry Tucker, Joe Brown, and Jon Hanley",
+      "participants": [
+        {
+          "name": "Roy Hinson",
+          "playerHref": "/players/h/hinsoro01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -3041.4000000000005,
+            "vorp": 2.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Stewart Granger",
+          "playerHref": "/players/g/grangst01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -2878.2,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Garris",
+          "playerHref": "/players/g/garrijo01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -26.700000000000003,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Paul Thompson",
+          "playerHref": "/players/t/thomppa01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 1742.3000000000002,
+            "vorp": 1.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Larry Anderson",
+          "playerHref": "/players/a/anderla02.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Les Craft",
+          "playerHref": "/players/c/craftle01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Derrick Hord",
+          "playerHref": "/players/h/hordde01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dwight Jones",
+          "playerHref": "/players/j/jonesdw03.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chris Logan",
+          "playerHref": "/players/l/loganch01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mel McLaughlin",
+          "playerHref": "/players/m/mclaume01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Colombo",
+          "playerHref": "/players/c/columjo01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Larry Tucker",
+          "playerHref": "/players/t/tuckela01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Joe Brown",
+          "playerHref": "/players/b/brownjo04.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jon Hanley",
+          "playerHref": "/players/h/hanlejo01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4204,
+        "vorp": 4.2
+      },
+      "categoryValues": {
+        "bpm": -4204,
+        "vorp": 4.2
+      },
+      "runningValues": {
+        "bpm": 25313.199999999993,
+        "vorp": 13.499999999999998
+      }
+    },
+    {
+      "id": "weltmha99x-10",
+      "sourceId": 10,
+      "date": "1983-06-28",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Calvin Duncan; Sent out Larry Anderson and Les Craft",
+      "participants": [
+        {
+          "name": "Larry Anderson",
+          "playerHref": "/players/a/anderla02.html",
+          "direction": "out",
+          "teamCode": "SDC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Les Craft",
+          "playerHref": "/players/c/craftle01.html",
+          "direction": "out",
+          "teamCode": "SDC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Calvin Duncan",
+          "playerHref": "/players/d/duncaca01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 25313.199999999993,
+        "vorp": 13.499999999999998
+      }
+    },
+    {
+      "id": "weltmha99x-11",
+      "sourceId": 11,
+      "date": "1983-08-16",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Johnny Newman; Sent out Darren Tillis",
+      "participants": [
+        {
+          "name": "Darren Tillis",
+          "playerHref": "/players/t/tillida01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 4015,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Johnny Newman",
+          "playerHref": "/players/n/newmajo01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -5619,
+            "vorp": -0.6000000000000001
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1604,
+        "vorp": 0.09999999999999987
+      },
+      "categoryValues": {
+        "bpm": -1604,
+        "vorp": 0.09999999999999987
+      },
+      "runningValues": {
+        "bpm": 23709.199999999993,
+        "vorp": 13.599999999999998
+      }
+    },
+    {
+      "id": "weltmha99x-12",
+      "sourceId": 12,
+      "date": "1983-08-29",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed John Lucas",
+      "participants": [
+        {
+          "name": "John Lucas",
+          "playerHref": "/players/l/lucasjo01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 23709.199999999993,
+        "vorp": 13.599999999999998
+      }
+    },
+    {
+      "id": "weltmha99x-13",
+      "sourceId": 13,
+      "date": "1983-09-06",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Linton Townes; Sent out Lester Fonville",
+      "participants": [
+        {
+          "name": "Lester Fonville",
+          "playerHref": "/players/f/fonvile01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Linton Townes",
+          "playerHref": "/players/t/towneli01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 23709.199999999993,
+        "vorp": 13.599999999999998
+      }
+    },
+    {
+      "id": "weltmha99x-14",
+      "sourceId": 14,
+      "date": "1983-10-14",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Ben Poquette",
+      "participants": [
+        {
+          "name": "Ben Poquette",
+          "playerHref": "/players/p/poquebe01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -4587.5,
+            "vorp": 1.0999999999999999
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4587.5,
+        "vorp": 1.0999999999999999
+      },
+      "categoryValues": {
+        "bpm": -4587.5,
+        "vorp": 1.0999999999999999
+      },
+      "runningValues": {
+        "bpm": 19121.699999999993,
+        "vorp": 14.699999999999998
+      }
+    },
+    {
+      "id": "weltmha99x-15",
+      "sourceId": 15,
+      "date": "1984-03-10",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Geoff Crompton",
+      "participants": [
+        {
+          "name": "Geoff Crompton",
+          "playerHref": "/players/c/crompge01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -138,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -138,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -138,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 18983.699999999993,
+        "vorp": 14.599999999999998
+      }
+    },
+    {
+      "id": "weltmha99x-17",
+      "sourceId": 17,
+      "date": "1984-06-19",
+      "type": "draft",
+      "tenureTeam": "CLE",
+      "summary": "Drafted Tim McCormick, Ron Anderson, Ben McDonald, Leonard Mitchell, Art Aaron, Vince Hinchen, Matt Doherty, Joe Jakubick, Elliot Beard, John Shimko, and Darrell Space",
+      "participants": [
+        {
+          "name": "Tim McCormick",
+          "playerHref": "/players/m/mccorti01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ron Anderson",
+          "playerHref": "/players/a/anderro01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1931.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ben McDonald",
+          "playerHref": "/players/m/mcdonbe01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Leonard Mitchell",
+          "playerHref": "/players/m/mitchle02.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Art Aaron",
+          "playerHref": "/players/a/aaronar01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Vince Hinchen",
+          "playerHref": "/players/h/hinchvi01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Matt Doherty",
+          "playerHref": "/players/d/doherma01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Joe Jakubick",
+          "playerHref": "/players/j/jakubjo01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Elliot Beard",
+          "playerHref": "/players/b/beardel01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Shimko",
+          "playerHref": "/players/s/shimkjo01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Darrell Space",
+          "playerHref": "/players/s/spaceda01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1931.6,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -2995.6,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 17052.099999999995,
+        "vorp": 14.499999999999998
+      }
+    },
+    {
+      "id": "weltmha99x-18",
+      "sourceId": 18,
+      "date": "1984-06-19",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Melvin Turpin; Sent out Tim McCormick and Cliff Robinson",
+      "participants": [
+        {
+          "name": "Tim McCormick",
+          "playerHref": "/players/m/mccorti01.html",
+          "direction": "out",
+          "teamCode": "WSB",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cliff Robinson",
+          "playerHref": "/players/r/robincl01.html",
+          "direction": "out",
+          "teamCode": "WSB",
+          "values": {
+            "bpm": -485.0999999999999,
+            "vorp": -2.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Melvin Turpin",
+          "playerHref": "/players/t/turpime01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -5119.9,
+            "vorp": 1.2999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5605,
+        "vorp": -1
+      },
+      "categoryValues": {
+        "bpm": -5605,
+        "vorp": -1
+      },
+      "runningValues": {
+        "bpm": 11447.099999999997,
+        "vorp": 13.5
+      }
+    },
+    {
+      "id": "weltmha99x-20",
+      "sourceId": 20,
+      "date": "1984-08-08",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Johnny Davis; Sent out John Garris and Stewart Granger",
+      "participants": [
+        {
+          "name": "John Garris",
+          "playerHref": "/players/g/garrijo01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Stewart Granger",
+          "playerHref": "/players/g/grangst01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 809.6,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Johnny Davis",
+          "playerHref": "/players/d/davisjo01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1833.6,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1023.9999999999999,
+        "vorp": 1
+      },
+      "categoryValues": {
+        "bpm": -1023.9999999999999,
+        "vorp": 1
+      },
+      "runningValues": {
+        "bpm": 10423.099999999997,
+        "vorp": 14.5
+      }
+    },
+    {
+      "id": "weltmha99x-21",
+      "sourceId": 21,
+      "date": "1984-09-01",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Dale Wilkinson",
+      "participants": [
+        {
+          "name": "Dale Wilkinson",
+          "playerHref": "/players/w/wilkida01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 10423.099999999997,
+        "vorp": 14.5
+      }
+    },
+    {
+      "id": "weltmha99x-22",
+      "sourceId": 22,
+      "date": "1984-09-27",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Robert Smith",
+      "participants": [
+        {
+          "name": "Robert Smith",
+          "playerHref": "/players/s/smithro01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -268.79999999999995,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -268.79999999999995,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -268.79999999999995,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 10154.299999999997,
+        "vorp": 14.5
+      }
+    },
+    {
+      "id": "weltmha99x-23",
+      "sourceId": 23,
+      "date": "1984-09-29",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Campy Russell",
+      "participants": [
+        {
+          "name": "Campy Russell",
+          "playerHref": "/players/r/russeca02.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -312,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -312,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -312,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 9842.299999999997,
+        "vorp": 14.4
+      }
+    },
+    {
+      "id": "weltmha99x-24",
+      "sourceId": 24,
+      "date": "1984-11-23",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Mark West",
+      "participants": [
+        {
+          "name": "Mark West",
+          "playerHref": "/players/w/westma01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -16502.5,
+            "vorp": -1.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -16502.5,
+        "vorp": -1.5
+      },
+      "categoryValues": {
+        "bpm": -16502.5,
+        "vorp": -1.5
+      },
+      "runningValues": {
+        "bpm": -6660.200000000003,
+        "vorp": 12.9
+      }
+    },
+    {
+      "id": "weltmha99x-25",
+      "sourceId": 25,
+      "date": "1984-12-14",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Edgar Jones; Sent out Jeff Cook",
+      "participants": [
+        {
+          "name": "Jeff Cook",
+          "playerHref": "/players/c/cookje01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 2462.3999999999996,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Edgar Jones",
+          "playerHref": "/players/j/jonesed01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1461.3000000000002,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1001.0999999999995,
+        "vorp": 0.3
+      },
+      "categoryValues": {
+        "bpm": 1001.0999999999995,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": -5659.100000000003,
+        "vorp": 13.200000000000001
+      }
+    },
+    {
+      "id": "weltmha99x-26",
+      "sourceId": 26,
+      "date": "1984-12-20",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Kevin Williams",
+      "participants": [
+        {
+          "name": "Kevin Williams",
+          "playerHref": "/players/w/willike01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -5659.100000000003,
+        "vorp": 13.200000000000001
+      }
+    },
+    {
+      "id": "weltmha99x-27",
+      "sourceId": 27,
+      "date": "1985-01-10",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Butch Graves",
+      "participants": [
+        {
+          "name": "Butch Graves",
+          "playerHref": "/players/g/gravebu01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -185.89999999999998,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -185.89999999999998,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -185.89999999999998,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -5845.000000000003,
+        "vorp": 13.200000000000001
+      }
+    },
+    {
+      "id": "weltmha99x-28",
+      "sourceId": 28,
+      "date": "1985-01-10",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Kevin Williams",
+      "participants": [
+        {
+          "name": "Kevin Williams",
+          "playerHref": "/players/w/willike01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1569.3999999999999,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1569.3999999999999,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1569.3999999999999,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -7414.400000000002,
+        "vorp": 13.000000000000002
+      }
+    },
+    {
+      "id": "weltmha99x-29",
+      "sourceId": 29,
+      "date": "1985-02-12",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Hot Rod Williams and Kannard Johnson; Sent out Paul Thompson",
+      "participants": [
+        {
+          "name": "Paul Thompson",
+          "playerHref": "/players/t/thomppa01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 363.20000000000005,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Hot Rod Williams",
+          "playerHref": "/players/w/williho01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kannard Johnson",
+          "playerHref": "/players/j/johnska01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -116.39999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 246.80000000000007,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 246.80000000000007,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -7167.600000000002,
+        "vorp": 13.000000000000002
+      }
+    },
+    {
+      "id": "weltmha99x-30",
+      "sourceId": 30,
+      "date": "1985-06-18",
+      "type": "draft",
+      "tenureTeam": "CLE",
+      "summary": "Drafted Charles Oakley, Calvin Duncan, Hot Rod Williams, Herb Johnson, Mark Davis, Gunther Behnke, Rickie Johnson, and Buzz Peterson",
+      "participants": [
+        {
+          "name": "Charles Oakley",
+          "playerHref": "/players/o/oaklech01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Calvin Duncan",
+          "playerHref": "/players/d/duncaca01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Hot Rod Williams",
+          "playerHref": "/players/w/williho01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 30139.7,
+            "vorp": 18.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Herb Johnson",
+          "playerHref": "/players/j/johnshe01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mark Davis",
+          "playerHref": "/players/d/davisma01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Gunther Behnke",
+          "playerHref": "/players/b/behnkgu01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rickie Johnson",
+          "playerHref": "/players/j/johnsri03.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Buzz Peterson",
+          "playerHref": "/players/p/peterbu01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 30139.7,
+        "vorp": 18.2
+      },
+      "categoryValues": {
+        "bpm": 30139.7,
+        "vorp": 18.2
+      },
+      "runningValues": {
+        "bpm": 22972.1,
+        "vorp": 31.200000000000003
+      }
+    },
+    {
+      "id": "weltmha99x-31",
+      "sourceId": 31,
+      "date": "1985-06-18",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Keith Lee and Ennis Whatley; Sent out Calvin Duncan and Charles Oakley",
+      "participants": [
+        {
+          "name": "Calvin Duncan",
+          "playerHref": "/players/d/duncaca01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Charles Oakley",
+          "playerHref": "/players/o/oaklech01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 15627.8,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Keith Lee",
+          "playerHref": "/players/l/leeke01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -5200.200000000001,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ennis Whatley",
+          "playerHref": "/players/w/whatlen01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 26.400000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 10453.999999999998,
+        "vorp": -0.8
+      },
+      "categoryValues": {
+        "bpm": 10453.999999999998,
+        "vorp": -0.8
+      },
+      "runningValues": {
+        "bpm": 33426.1,
+        "vorp": 30.400000000000002
+      }
+    },
+    {
+      "id": "weltmha99x-32",
+      "sourceId": 32,
+      "date": "1985-09-05",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Derrick Rowland",
+      "participants": [
+        {
+          "name": "Derrick Rowland",
+          "playerHref": "/players/r/rowlade01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 33426.1,
+        "vorp": 30.400000000000002
+      }
+    },
+    {
+      "id": "weltmha99x-33",
+      "sourceId": 33,
+      "date": "1985-09-11",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Dirk Minniefield",
+      "participants": [
+        {
+          "name": "Dirk Minniefield",
+          "playerHref": "/players/m/minnidi01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -875.0999999999999,
+            "vorp": 0.39999999999999997
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -875.0999999999999,
+        "vorp": 0.39999999999999997
+      },
+      "categoryValues": {
+        "bpm": -875.0999999999999,
+        "vorp": 0.39999999999999997
+      },
+      "runningValues": {
+        "bpm": 32551,
+        "vorp": 30.8
+      }
+    },
+    {
+      "id": "weltmha99x-34",
+      "sourceId": 34,
+      "date": "1985-12-10",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Carven Holcomb; Sent out Ron Anderson",
+      "participants": [
+        {
+          "name": "Ron Anderson",
+          "playerHref": "/players/a/anderro01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -1098.8999999999999,
+            "vorp": -2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Carven Holcomb",
+          "playerHref": "/players/h/holcoca01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1098.8999999999999,
+        "vorp": -2
+      },
+      "categoryValues": {
+        "bpm": -1098.8999999999999,
+        "vorp": -2
+      },
+      "runningValues": {
+        "bpm": 31452.1,
+        "vorp": 28.8
+      }
+    },
+    {
+      "id": "weltmha99x-35",
+      "sourceId": 35,
+      "date": "1986-01-11",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Ron Brewer",
+      "participants": [
+        {
+          "name": "Ron Brewer",
+          "playerHref": "/players/b/brewero01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -2097.6,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2097.6,
+        "vorp": -0.3
+      },
+      "categoryValues": {
+        "bpm": -2097.6,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": 29354.5,
+        "vorp": 28.5
+      }
+    },
+    {
+      "id": "weltmha99x-36",
+      "sourceId": 36,
+      "date": "1986-02-10",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Eddie Johnson; Sent out Johnny Davis",
+      "participants": [
+        {
+          "name": "Johnny Davis",
+          "playerHref": "/players/d/davisjo01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 120.6,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eddie Johnson",
+          "playerHref": "/players/j/johnsed02.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1722,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1601.4,
+        "vorp": -0.30000000000000004
+      },
+      "categoryValues": {
+        "bpm": -1601.4,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": 27753.1,
+        "vorp": 28.2
+      }
+    },
+    {
+      "id": "weltmha99x-37",
+      "sourceId": 37,
+      "date": "1986-03-04",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Rookie contract for Ben McDonald",
+      "participants": [
+        {
+          "name": "Ben McDonald",
+          "playerHref": "/players/m/mcdonbe01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1064,
+            "vorp": -0.1
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -1064,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 26689.1,
+        "vorp": 28.099999999999998
+      }
+    },
+    {
+      "id": "weltmha99x-40",
+      "sourceId": 40,
+      "date": "1987-06-22",
+      "type": "draft",
+      "tenureTeam": "BRK",
+      "summary": "Drafted Dennis Hopson, Jamie Waller, Andrew Moten, James Blackmon, Perry Bromwell, and Frank Booker",
+      "participants": [
+        {
+          "name": "Dennis Hopson",
+          "playerHref": "/players/h/hopsode01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -10101.7,
+            "vorp": 0.19999999999999996
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jamie Waller",
+          "playerHref": "/players/w/walleja01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -646.1,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Andrew Moten",
+          "playerHref": "/players/m/motenan01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "James Blackmon",
+          "playerHref": "/players/b/blackja03.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Perry Bromwell",
+          "playerHref": "/players/b/bromwpe01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Frank Booker",
+          "playerHref": "/players/b/bookefr01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -10747.800000000001,
+        "vorp": 0.09999999999999995
+      },
+      "categoryValues": {
+        "bpm": -10747.800000000001,
+        "vorp": 0.09999999999999995
+      },
+      "runningValues": {
+        "bpm": 15941.299999999997,
+        "vorp": 28.199999999999996
+      }
+    },
+    {
+      "id": "weltmha99x-41",
+      "sourceId": 41,
+      "date": "1987-10-08",
+      "type": "trade",
+      "tenureTeam": "BRK",
+      "summary": "Added John Bagley and Keith Lee; Sent out James Bailey and Darryl Dawkins",
+      "participants": [
+        {
+          "name": "James Bailey",
+          "playerHref": "/players/b/baileja01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Darryl Dawkins",
+          "playerHref": "/players/d/dawkida01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Bagley",
+          "playerHref": "/players/b/baglejo01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -8317,
+            "vorp": 0.10000000000000003
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Keith Lee",
+          "playerHref": "/players/l/leeke01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -3443.9999999999995,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -11761,
+        "vorp": -0.3
+      },
+      "categoryValues": {
+        "bpm": -11761,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": 4180.299999999997,
+        "vorp": 27.9
+      }
+    },
+    {
+      "id": "weltmha99x-42",
+      "sourceId": 42,
+      "date": "1987-11-02",
+      "type": "trade",
+      "tenureTeam": "BRK",
+      "summary": "Added Mike O'Koren",
+      "participants": [
+        {
+          "name": "Mike O'Koren",
+          "playerHref": "/players/o/okoremi01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 161.20000000000002,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 161.20000000000002,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 161.20000000000002,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 4341.499999999997,
+        "vorp": 28
+      }
+    },
+    {
+      "id": "weltmha99x-43",
+      "sourceId": 43,
+      "date": "1987-11-03",
+      "type": "trade",
+      "tenureTeam": "BRK",
+      "summary": "Added Dallas Comegys; Sent out Les Jepsen",
+      "participants": [
+        {
+          "name": "Les Jepsen",
+          "playerHref": "/players/j/jepsele01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dallas Comegys",
+          "playerHref": "/players/c/comegda01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -4712.400000000001,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4712.400000000001,
+        "vorp": -0.6
+      },
+      "categoryValues": {
+        "bpm": -4712.400000000001,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": -370.9000000000033,
+        "vorp": 27.4
+      }
+    },
+    {
+      "id": "weltmha99x-44",
+      "sourceId": 44,
+      "date": "1987-11-05",
+      "type": "trade",
+      "tenureTeam": "BRK",
+      "summary": "Added Adrian Branch",
+      "participants": [
+        {
+          "name": "Adrian Branch",
+          "playerHref": "/players/b/brancad01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -1324.3999999999999,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1324.3999999999999,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1324.3999999999999,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -1695.3000000000031,
+        "vorp": 27.2
+      }
+    },
+    {
+      "id": "weltmha99x-46",
+      "sourceId": 46,
+      "date": "1987-12-03",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Johnny Moore",
+      "participants": [
+        {
+          "name": "Johnny Moore",
+          "playerHref": "/players/m/moorejo01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -227,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -227,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -227,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -1922.3000000000031,
+        "vorp": 27.099999999999998
+      }
+    },
+    {
+      "id": "weltmha99x-49",
+      "sourceId": 49,
+      "date": "1987-12-15",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Dudley Bradley",
+      "participants": [
+        {
+          "name": "Dudley Bradley",
+          "playerHref": "/players/b/bradldu01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 1288.8,
+            "vorp": 1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1288.8,
+        "vorp": 1
+      },
+      "categoryValues": {
+        "bpm": 1288.8,
+        "vorp": 1
+      },
+      "runningValues": {
+        "bpm": -633.5000000000032,
+        "vorp": 28.099999999999998
+      }
+    },
+    {
+      "id": "weltmha99x-50",
+      "sourceId": 50,
+      "date": "1988-01-16",
+      "type": "trade",
+      "tenureTeam": "BRK",
+      "summary": "Added Roy Hinson, Tim McCormick, and Stanley Brundy; Sent out Ben Coleman and Mike Gminski",
+      "participants": [
+        {
+          "name": "Ben Coleman",
+          "playerHref": "/players/c/colembe01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 6051.8,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Gminski",
+          "playerHref": "/players/g/gminsmi01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -610.8000000000004,
+            "vorp": -4.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Roy Hinson",
+          "playerHref": "/players/h/hinsoro01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -7376.400000000001,
+            "vorp": 0.7000000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tim McCormick",
+          "playerHref": "/players/m/mccorti01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -1513,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Stanley Brundy",
+          "playerHref": "/players/b/brundst01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3448.4000000000005,
+        "vorp": -2.2999999999999994
+      },
+      "categoryValues": {
+        "bpm": -3448.4000000000005,
+        "vorp": -2.2999999999999994
+      },
+      "runningValues": {
+        "bpm": -4081.9000000000033,
+        "vorp": 25.799999999999994
+      }
+    },
+    {
+      "id": "weltmha99x-51",
+      "sourceId": 51,
+      "date": "1988-02-27",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Ricky Wilson",
+      "participants": [
+        {
+          "name": "Ricky Wilson",
+          "playerHref": "/players/w/wilsori02.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 173.9,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 173.9,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 173.9,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -3908.000000000003,
+        "vorp": 25.899999999999995
+      }
+    },
+    {
+      "id": "weltmha99x-53",
+      "sourceId": 53,
+      "date": "1988-03-19",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Duane Washington",
+      "participants": [
+        {
+          "name": "Duane Washington",
+          "playerHref": "/players/w/washidu01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 312,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 312,
+        "vorp": 0.2
+      },
+      "categoryValues": {
+        "bpm": 312,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -3596.000000000003,
+        "vorp": 26.099999999999994
+      }
+    },
+    {
+      "id": "weltmha99x-54",
+      "sourceId": 54,
+      "date": "1988-06-28",
+      "type": "draft",
+      "tenureTeam": "BRK",
+      "summary": "Drafted Chris Morris, Charles Shackleford, and Derrick Hamilton",
+      "participants": [
+        {
+          "name": "Chris Morris",
+          "playerHref": "/players/m/morrich01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 18531.1,
+            "vorp": 12.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Charles Shackleford",
+          "playerHref": "/players/s/shackch01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -7008.799999999999,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Derrick Hamilton",
+          "playerHref": "/players/h/hamilde02.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 11522.3,
+        "vorp": 11.700000000000001
+      },
+      "categoryValues": {
+        "bpm": 11522.3,
+        "vorp": 11.700000000000001
+      },
+      "runningValues": {
+        "bpm": 7926.299999999996,
+        "vorp": 37.79999999999999
+      }
+    },
+    {
+      "id": "weltmha99x-55",
+      "sourceId": 55,
+      "date": "1988-07-19",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Anthony Bowie",
+      "participants": [
+        {
+          "name": "Anthony Bowie",
+          "playerHref": "/players/b/bowiean01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 7926.299999999996,
+        "vorp": 37.79999999999999
+      }
+    },
+    {
+      "id": "weltmha99x-56",
+      "sourceId": 56,
+      "date": "1988-08-01",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Dallas Comegys",
+      "participants": [
+        {
+          "name": "Dallas Comegys",
+          "playerHref": "/players/c/comegda01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 7926.299999999996,
+        "vorp": 37.79999999999999
+      }
+    },
+    {
+      "id": "weltmha99x-57",
+      "sourceId": 57,
+      "date": "1988-08-29",
+      "type": "trade",
+      "tenureTeam": "BRK",
+      "summary": "Added Walter Berry; Sent out Dallas Comegys",
+      "participants": [
+        {
+          "name": "Dallas Comegys",
+          "playerHref": "/players/c/comegda01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 3357,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Walter Berry",
+          "playerHref": "/players/b/berrywa01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -2279.6,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1077.4,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 1077.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 9003.699999999995,
+        "vorp": 37.79999999999999
+      }
+    },
+    {
+      "id": "weltmha99x-58",
+      "sourceId": 58,
+      "date": "1988-08-30",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Kevin Williams",
+      "participants": [
+        {
+          "name": "Kevin Williams",
+          "playerHref": "/players/w/willike01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -2208.2999999999997,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2208.2999999999997,
+        "vorp": -0.3
+      },
+      "categoryValues": {
+        "bpm": -2208.2999999999997,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": 6795.399999999996,
+        "vorp": 37.49999999999999
+      }
+    },
+    {
+      "id": "weltmha99x-59",
+      "sourceId": 59,
+      "date": "1988-10-04",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Frank Johnson",
+      "participants": [
+        {
+          "name": "Frank Johnson",
+          "playerHref": "/players/j/johnsfr01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 6795.399999999996,
+        "vorp": 37.49999999999999
+      }
+    },
+    {
+      "id": "weltmha99x-60",
+      "sourceId": 60,
+      "date": "1988-10-31",
+      "type": "trade",
+      "tenureTeam": "BRK",
+      "summary": "Added Mike McGee; Sent out Randy Brown and Jeff McInnis",
+      "participants": [
+        {
+          "name": "Randy Brown",
+          "playerHref": "/players/b/brownra02.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 6109.400000000001,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jeff McInnis",
+          "playerHref": "/players/m/mcinnje01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike McGee",
+          "playerHref": "/players/m/mcgeemi01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -2635.1,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3474.3000000000006,
+        "vorp": -0.19999999999999996
+      },
+      "categoryValues": {
+        "bpm": 3474.3000000000006,
+        "vorp": -0.19999999999999996
+      },
+      "runningValues": {
+        "bpm": 10269.699999999995,
+        "vorp": 37.29999999999999
+      }
+    },
+    {
+      "id": "weltmha99x-61",
+      "sourceId": 61,
+      "date": "1988-11-02",
+      "type": "trade",
+      "tenureTeam": "BRK",
+      "summary": "Added Joe Barry Carroll and Lester Conner; Sent out Tony Brown, Frank Johnson, Tim McCormick, and Lorenzo Romar",
+      "participants": [
+        {
+          "name": "Tony Brown",
+          "playerHref": "/players/b/brownto01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 819,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Frank Johnson",
+          "playerHref": "/players/j/johnsfr01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 2637,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tim McCormick",
+          "playerHref": "/players/m/mccorti01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 5296.5,
+            "vorp": 0.6000000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lorenzo Romar",
+          "playerHref": "/players/r/romarlo01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Joe Barry Carroll",
+          "playerHref": "/players/c/carrojo01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -5302.6,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lester Conner",
+          "playerHref": "/players/c/connele01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 5037.299999999999,
+            "vorp": 4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 8487.199999999999,
+        "vorp": 5.2
+      },
+      "categoryValues": {
+        "bpm": 8487.199999999999,
+        "vorp": 5.2
+      },
+      "runningValues": {
+        "bpm": 18756.899999999994,
+        "vorp": 42.5
+      }
+    },
+    {
+      "id": "weltmha99x-62",
+      "sourceId": 62,
+      "date": "1988-11-23",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Ron Cavenall",
+      "participants": [
+        {
+          "name": "Ron Cavenall",
+          "playerHref": "/players/c/cavenro01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -134.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -134.4,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -134.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 18622.499999999993,
+        "vorp": 42.5
+      }
+    },
+    {
+      "id": "weltmha99x-63",
+      "sourceId": 63,
+      "date": "1989-01-31",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Bill Jones",
+      "participants": [
+        {
+          "name": "Bill Jones",
+          "playerHref": "/players/j/jonesbi01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -276.3,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -276.3,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": -276.3,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 18346.199999999993,
+        "vorp": 42.6
+      }
+    },
+    {
+      "id": "weltmha99x-64",
+      "sourceId": 64,
+      "date": "1989-02-07",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Corey Gaines",
+      "participants": [
+        {
+          "name": "Corey Gaines",
+          "playerHref": "/players/g/gaineco01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 18346.199999999993,
+        "vorp": 42.6
+      }
+    },
+    {
+      "id": "weltmha99x-65",
+      "sourceId": 65,
+      "date": "1989-02-27",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Corey Gaines",
+      "participants": [
+        {
+          "name": "Corey Gaines",
+          "playerHref": "/players/g/gaineco01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -1112.1,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1112.1,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -1112.1,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 17234.099999999995,
+        "vorp": 42.5
+      }
+    },
+    {
+      "id": "weltmha99x-66",
+      "sourceId": 66,
+      "date": "1989-06-24",
+      "type": "trade",
+      "tenureTeam": "BRK",
+      "summary": "Added Sam Bowie and Mookie Blaylock; Sent out Buck Williams",
+      "participants": [
+        {
+          "name": "Buck Williams",
+          "playerHref": "/players/w/willibu01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 2083.5,
+            "vorp": -8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sam Bowie",
+          "playerHref": "/players/b/bowiesa01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -5015.200000000001,
+            "vorp": 2.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mookie Blaylock",
+          "playerHref": "/players/b/blaylmo01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2931.7000000000007,
+        "vorp": -5.2
+      },
+      "categoryValues": {
+        "bpm": -2931.7000000000007,
+        "vorp": -5.2
+      },
+      "runningValues": {
+        "bpm": 14302.399999999994,
+        "vorp": 37.3
+      }
+    },
+    {
+      "id": "weltmha99x-67",
+      "sourceId": 67,
+      "date": "1989-06-27",
+      "type": "draft",
+      "tenureTeam": "BRK",
+      "summary": "Drafted Mookie Blaylock and Stanley Brundy",
+      "participants": [
+        {
+          "name": "Mookie Blaylock",
+          "playerHref": "/players/b/blaylmo01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -1795.5,
+            "vorp": 2.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Stanley Brundy",
+          "playerHref": "/players/b/brundst01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -396.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2192.3,
+        "vorp": 2.8
+      },
+      "categoryValues": {
+        "bpm": -2192.3,
+        "vorp": 2.8
+      },
+      "runningValues": {
+        "bpm": 12110.099999999995,
+        "vorp": 40.099999999999994
+      }
+    },
+    {
+      "id": "weltmha99x-68",
+      "sourceId": 68,
+      "date": "1989-08-01",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Jay Taylor",
+      "participants": [
+        {
+          "name": "Jay Taylor",
+          "playerHref": "/players/t/tayloja01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -296.40000000000003,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -296.40000000000003,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -296.40000000000003,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 11813.699999999995,
+        "vorp": 40.099999999999994
+      }
+    },
+    {
+      "id": "weltmha99x-69",
+      "sourceId": 69,
+      "date": "1989-08-15",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Bill Jones",
+      "participants": [
+        {
+          "name": "Bill Jones",
+          "playerHref": "/players/j/jonesbi01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 11813.699999999995,
+        "vorp": 40.099999999999994
+      }
+    },
+    {
+      "id": "weltmha99x-71",
+      "sourceId": 71,
+      "date": "1989-09-19",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Anthony Mason",
+      "participants": [
+        {
+          "name": "Anthony Mason",
+          "playerHref": "/players/m/masonan01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -820.8,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -820.8,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -820.8,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 10992.899999999996,
+        "vorp": 39.89999999999999
+      }
+    },
+    {
+      "id": "weltmha99x-72",
+      "sourceId": 72,
+      "date": "1989-09-20",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Purvis Short",
+      "participants": [
+        {
+          "name": "Purvis Short",
+          "playerHref": "/players/s/shortpu01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -4426,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4426,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -4426,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 6566.899999999996,
+        "vorp": 39.89999999999999
+      }
+    },
+    {
+      "id": "weltmha99x-73",
+      "sourceId": 73,
+      "date": "1989-10-03",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Jaren Jackson",
+      "participants": [
+        {
+          "name": "Jaren Jackson",
+          "playerHref": "/players/j/jacksja01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -528,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -528,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -528,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 6038.899999999996,
+        "vorp": 39.89999999999999
+      }
+    },
+    {
+      "id": "weltmha99x-74",
+      "sourceId": 74,
+      "date": "1989-10-04",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Rick Carlisle",
+      "participants": [
+        {
+          "name": "Rick Carlisle",
+          "playerHref": "/players/c/carliri01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -344.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -344.4,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -344.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 5694.499999999996,
+        "vorp": 39.79999999999999
+      }
+    },
+    {
+      "id": "weltmha99x-75",
+      "sourceId": 75,
+      "date": "1989-10-05",
+      "type": "trade",
+      "tenureTeam": "BRK",
+      "summary": "Added Žan Tabak and Richard Petruška; Sent out John Bagley",
+      "participants": [
+        {
+          "name": "John Bagley",
+          "playerHref": "/players/b/baglejo01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 4793,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Žan Tabak",
+          "playerHref": "/players/t/tabakza01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Richard Petruška",
+          "playerHref": "/players/p/petruri01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4793,
+        "vorp": -0.3
+      },
+      "categoryValues": {
+        "bpm": 4793,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": 10487.499999999996,
+        "vorp": 39.49999999999999
+      }
+    },
+    {
+      "id": "weltmha99x-76",
+      "sourceId": 76,
+      "date": "1990-02-12",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Leon Wood",
+      "participants": [
+        {
+          "name": "Leon Wood",
+          "playerHref": "/players/w/woodle01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 10487.499999999996,
+        "vorp": 39.49999999999999
+      }
+    },
+    {
+      "id": "weltmha99x-77",
+      "sourceId": 77,
+      "date": "1990-02-12",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Derrick Gervin",
+      "participants": [
+        {
+          "name": "Derrick Gervin",
+          "playerHref": "/players/g/gervide01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 10487.499999999996,
+        "vorp": 39.49999999999999
+      }
+    },
+    {
+      "id": "weltmha99x-78",
+      "sourceId": 78,
+      "date": "1990-02-21",
+      "type": "trade",
+      "tenureTeam": "BRK",
+      "summary": "Added Michael Cutright; Sent out Joe Barry Carroll",
+      "participants": [
+        {
+          "name": "Joe Barry Carroll",
+          "playerHref": "/players/c/carrojo01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 1653.6999999999998,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Michael Cutright",
+          "playerHref": "/players/c/cutrimi01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1653.6999999999998,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 1653.6999999999998,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 12141.199999999997,
+        "vorp": 39.49999999999999
+      }
+    },
+    {
+      "id": "weltmha99x-79",
+      "sourceId": 79,
+      "date": "1990-02-21",
+      "type": "trade",
+      "tenureTeam": "BRK",
+      "summary": "Added Chris Dudley; Sent out Žan Tabak and Richard Petruška",
+      "participants": [
+        {
+          "name": "Žan Tabak",
+          "playerHref": "/players/t/tabakza01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Richard Petruška",
+          "playerHref": "/players/p/petruri01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chris Dudley",
+          "playerHref": "/players/d/dudlech02.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -16067.999999999998,
+            "vorp": -1.2999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -16067.999999999998,
+        "vorp": -1.2999999999999998
+      },
+      "categoryValues": {
+        "bpm": -16067.999999999998,
+        "vorp": -1.2999999999999998
+      },
+      "runningValues": {
+        "bpm": -3926.800000000001,
+        "vorp": 38.199999999999996
+      }
+    },
+    {
+      "id": "weltmha99x-80",
+      "sourceId": 80,
+      "date": "1990-03-05",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Leon Wood",
+      "participants": [
+        {
+          "name": "Leon Wood",
+          "playerHref": "/players/w/woodle01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -700,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -700,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -700,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -4626.800000000001,
+        "vorp": 38.099999999999994
+      }
+    },
+    {
+      "id": "weltmha99x-81",
+      "sourceId": 81,
+      "date": "1990-03-05",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Derrick Gervin",
+      "participants": [
+        {
+          "name": "Derrick Gervin",
+          "playerHref": "/players/g/gervide01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -1016.4999999999999,
+            "vorp": 0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1016.4999999999999,
+        "vorp": 0.30000000000000004
+      },
+      "categoryValues": {
+        "bpm": -1016.4999999999999,
+        "vorp": 0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -5643.300000000001,
+        "vorp": 38.39999999999999
+      }
+    }
+  ]
+}

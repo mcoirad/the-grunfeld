@@ -1,0 +1,645 @@
+{
+  "slug": "checkda99x",
+  "sourceRowCount": 31,
+  "tenures": [
+    {
+      "teamCode": "UTA",
+      "startDate": "1987-06-22",
+      "endDate": "1999-06-30"
+    },
+    {
+      "teamCode": "NYK",
+      "startDate": "1999-06-30",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "checkda99x-0",
+      "sourceId": 0,
+      "date": "1987-06-22",
+      "type": "draft",
+      "tenureTeam": "UTA",
+      "summary": "Drafted José Ortiz, Clarence Martin, Billy Donovan, Reuben Holmes, Bart Kofoed, Art Sabb, and Keith Webster",
+      "participants": [
+        {
+          "name": "José Ortiz",
+          "playerHref": "/players/o/ortizjo01.html",
+          "direction": "in",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": -2511.6,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Clarence Martin",
+          "playerHref": "/players/m/marticl01.html",
+          "direction": "in",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Billy Donovan",
+          "playerHref": "/players/d/donovbi01.html",
+          "direction": "in",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Reuben Holmes",
+          "playerHref": "/players/h/holmere01.html",
+          "direction": "in",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bart Kofoed",
+          "playerHref": "/players/k/kofoeba01.html",
+          "direction": "in",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": -2622.3,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Art Sabb",
+          "playerHref": "/players/s/sabbar01.html",
+          "direction": "in",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Keith Webster",
+          "playerHref": "/players/w/webstke01.html",
+          "direction": "in",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5133.9,
+        "vorp": -0.8
+      },
+      "categoryValues": {
+        "bpm": -5133.9,
+        "vorp": -0.8
+      },
+      "runningValues": {
+        "bpm": -5133.9,
+        "vorp": -0.8
+      }
+    },
+    {
+      "id": "checkda99x-1",
+      "sourceId": 1,
+      "date": "1987-10-08",
+      "type": "trade",
+      "tenureTeam": "UTA",
+      "summary": "Added Darryl Dawkins and Melvin Turpin; Sent out Kent Benson and Dell Curry",
+      "participants": [
+        {
+          "name": "Kent Benson",
+          "playerHref": "/players/b/bensoke01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 46.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dell Curry",
+          "playerHref": "/players/c/curryde01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 149.9,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Darryl Dawkins",
+          "playerHref": "/players/d/dawkida01.html",
+          "direction": "in",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": -572,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Melvin Turpin",
+          "playerHref": "/players/t/turpime01.html",
+          "direction": "in",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": -1617.6000000000001,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1992.9,
+        "vorp": -0.7
+      },
+      "categoryValues": {
+        "bpm": -1992.9,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": -7126.8,
+        "vorp": -1.5
+      }
+    },
+    {
+      "id": "checkda99x-2",
+      "sourceId": 2,
+      "date": "1987-10-08",
+      "type": "signing",
+      "tenureTeam": "UTA",
+      "summary": "Signed Eddie Hughes",
+      "participants": [
+        {
+          "name": "Eddie Hughes",
+          "playerHref": "/players/h/hugheed01.html",
+          "direction": "in",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -7126.8,
+        "vorp": -1.5
+      }
+    },
+    {
+      "id": "checkda99x-3",
+      "sourceId": 3,
+      "date": "1987-11-26",
+      "type": "trade",
+      "tenureTeam": "UTA",
+      "summary": "Added Jeff Moe and Phil Henderson; Sent out Darryl Dawkins",
+      "participants": [
+        {
+          "name": "Darryl Dawkins",
+          "playerHref": "/players/d/dawkida01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 540.1999999999999,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jeff Moe",
+          "playerHref": "/players/m/moeje01.html",
+          "direction": "in",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Phil Henderson",
+          "playerHref": "/players/h/hendeph01.html",
+          "direction": "in",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 540.1999999999999,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 540.1999999999999,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -6586.6,
+        "vorp": -1.4
+      }
+    },
+    {
+      "id": "checkda99x-4",
+      "sourceId": 4,
+      "date": "1988-02-25",
+      "type": "signing",
+      "tenureTeam": "UTA",
+      "summary": "Signed Scott Roth",
+      "participants": [
+        {
+          "name": "Scott Roth",
+          "playerHref": "/players/r/rothsc01.html",
+          "direction": "in",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": -1203,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1203,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1203,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -7789.6,
+        "vorp": -1.5999999999999999
+      }
+    },
+    {
+      "id": "checkda99x-5",
+      "sourceId": 5,
+      "date": "1988-03-23",
+      "type": "signing",
+      "tenureTeam": "UTA",
+      "summary": "Signed Eddie Hughes",
+      "participants": [
+        {
+          "name": "Eddie Hughes",
+          "playerHref": "/players/h/hugheed01.html",
+          "direction": "in",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": -235.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -235.2,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -235.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -8024.8,
+        "vorp": -1.5999999999999999
+      }
+    },
+    {
+      "id": "checkda99x-6",
+      "sourceId": 6,
+      "date": "1988-06-23",
+      "type": "trade",
+      "tenureTeam": "UTA",
+      "summary": "Added Mike Brown; Sent out Kelly Tripucka",
+      "participants": [
+        {
+          "name": "Kelly Tripucka",
+          "playerHref": "/players/t/tripuke01.html",
+          "direction": "out",
+          "teamCode": "CHH",
+          "values": {
+            "bpm": 5155.799999999999,
+            "vorp": -1.7000000000000002
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Brown",
+          "playerHref": "/players/b/brownmi01.html",
+          "direction": "in",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": -22045.699999999997,
+            "vorp": -1.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -16889.899999999998,
+        "vorp": -3.6
+      },
+      "categoryValues": {
+        "bpm": -16889.899999999998,
+        "vorp": -3.6
+      },
+      "runningValues": {
+        "bpm": -24914.699999999997,
+        "vorp": -5.199999999999999
+      }
+    },
+    {
+      "id": "checkda99x-7",
+      "sourceId": 7,
+      "date": "1988-06-28",
+      "type": "draft",
+      "tenureTeam": "UTA",
+      "summary": "Drafted Eric Leckner, Jeff Moe, and Ricky Grace",
+      "participants": [
+        {
+          "name": "Eric Leckner",
+          "playerHref": "/players/l/leckner01.html",
+          "direction": "in",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": -6874.6,
+            "vorp": -1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jeff Moe",
+          "playerHref": "/players/m/moeje01.html",
+          "direction": "in",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ricky Grace",
+          "playerHref": "/players/g/graceri01.html",
+          "direction": "in",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6874.6,
+        "vorp": -1
+      },
+      "categoryValues": {
+        "bpm": -6874.6,
+        "vorp": -1
+      },
+      "runningValues": {
+        "bpm": -31789.299999999996,
+        "vorp": -6.199999999999999
+      }
+    },
+    {
+      "id": "checkda99x-8",
+      "sourceId": 8,
+      "date": "1988-10-25",
+      "type": "signing",
+      "tenureTeam": "UTA",
+      "summary": "Signed Jim Les",
+      "participants": [
+        {
+          "name": "Jim Les",
+          "playerHref": "/players/l/lesji01.html",
+          "direction": "in",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": -3060.7000000000003,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3060.7000000000003,
+        "vorp": -0.3
+      },
+      "categoryValues": {
+        "bpm": -3060.7000000000003,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -34849.99999999999,
+        "vorp": -6.499999999999999
+      }
+    },
+    {
+      "id": "checkda99x-10",
+      "sourceId": 10,
+      "date": "1989-01-04",
+      "type": "signing",
+      "tenureTeam": "UTA",
+      "summary": "Signed Jim Farmer",
+      "participants": [
+        {
+          "name": "Jim Farmer",
+          "playerHref": "/players/f/farmeji01.html",
+          "direction": "in",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -34849.99999999999,
+        "vorp": -6.499999999999999
+      }
+    },
+    {
+      "id": "checkda99x-11",
+      "sourceId": 11,
+      "date": "1989-01-13",
+      "type": "signing",
+      "tenureTeam": "UTA",
+      "summary": "Signed Eric White",
+      "participants": [
+        {
+          "name": "Eric White",
+          "playerHref": "/players/w/whiteer01.html",
+          "direction": "in",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": -67.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -67.8,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -67.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -34917.799999999996,
+        "vorp": -6.499999999999999
+      }
+    },
+    {
+      "id": "checkda99x-12",
+      "sourceId": 12,
+      "date": "1989-01-15",
+      "type": "signing",
+      "tenureTeam": "UTA",
+      "summary": "Signed Jim Farmer",
+      "participants": [
+        {
+          "name": "Jim Farmer",
+          "playerHref": "/players/f/farmeji01.html",
+          "direction": "in",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": -2101.2,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2101.2,
+        "vorp": -0.3
+      },
+      "categoryValues": {
+        "bpm": -2101.2,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -37018.99999999999,
+        "vorp": -6.799999999999999
+      }
+    },
+    {
+      "id": "checkda99x-13",
+      "sourceId": 13,
+      "date": "1999-06-30",
+      "type": "draft",
+      "tenureTeam": "NYK",
+      "summary": "Drafted Frédéric Weis and J.R. Koch",
+      "participants": [
+        {
+          "name": "Frédéric Weis",
+          "playerHref": "/players/w/weisfr01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "J.R. Koch",
+          "playerHref": "/players/k/kochjr01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -37018.99999999999,
+        "vorp": -6.799999999999999
+      }
+    },
+    {
+      "id": "checkda99x-14",
+      "sourceId": 14,
+      "date": "1999-08-06",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed John Wallace",
+      "participants": [
+        {
+          "name": "John Wallace",
+          "playerHref": "/players/w/wallajo01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -2234.3999999999996,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2234.3999999999996,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -2234.3999999999996,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -39253.399999999994,
+        "vorp": -6.999999999999999
+      }
+    }
+  ]
+}

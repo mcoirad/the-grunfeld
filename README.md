@@ -1,6 +1,6 @@
 # Front Office, Ranked
 
-The Grunfeld is a static Astro site that ranks NBA executives by the player value connected to their drafts, trades, and signings. The current frontend is intentionally data-led; hand-written executive profiles and detail routes are planned as a later editorial layer.
+The Grunfeld is a static Astro site that ranks NBA executives by the player value connected to their drafts, trades, and signings. Every executive has a profile with a cumulative performance chart, category comparisons, and a grouped transaction history.
 
 ## Local development
 
@@ -30,6 +30,7 @@ V1 reads a committed, validated snapshot. It does not connect to BigQuery at bui
 ```sh
 npm run data:refresh -- \
   --input data/source/executive_stats_v2.csv \
+  --details-dir data/source/executive_details_v2 \
   --run-id analysis-v2-first-20261118 \
   --backend-commit 98ab7e84f6a949ef17bf802dfa28992e69df3232 \
   --input-table the-grunfeld.executive_data.player_advanced_stats_v2 \
@@ -37,7 +38,9 @@ npm run data:refresh -- \
   --generated-at 2026-11-18T00:00:00Z
 ```
 
-The importer writes `src/data/executives.json` and `src/data/snapshot.json`. It refuses an unexpected row count, an unexpected active count, duplicate slugs, mismatched team arrays, invalid grades, or percentiles outside 0–100. A future BigQuery adapter should write the same normalized JSON contract through `loadExecutiveSnapshot()`.
+The importer writes `src/data/executives.json`, `src/data/snapshot.json`, and one normalized detail document per executive under `src/data/executive-details`. When `--details-dir` points outside the committed source directory, it also refreshes the checked-in `data/source/executive_details_v2` snapshot. It groups whole trades, preserves tenure boundaries, validates every metric and transaction, and verifies each final running score against the aggregate executive record. Detail events retain chronological impact for the cumulative chart plus category impact that credits player value to the original draft choice and excludes draft-credit bookkeeping rows from signing views.
+
+To refresh directly from a completed backend analysis run, point `--details-dir` at that run’s `exec_data2` directory—not `exec_data`—and keep the remaining provenance arguments aligned with the same run.
 
 The backend analysis publisher still emits Jekyll-shaped artifacts and must not target this Astro branch.
 

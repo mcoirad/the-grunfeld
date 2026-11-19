@@ -10,7 +10,13 @@ function executive(
   isActive = true,
   team = "BOS",
 ): Executive {
-  const category = { total: 1, rating: 1, percentile: 50, grade: "C", count: 1 };
+  const category = {
+    total: 1,
+    rating: 1,
+    percentiles: { total: 50, rating: 50, overall: 50 },
+    grades: { total: "C", rating: "C", overall: "C" },
+    count: 1,
+  };
   return {
     slug,
     name,

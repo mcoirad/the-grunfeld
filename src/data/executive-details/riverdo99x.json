@@ -1,0 +1,2917 @@
+{
+  "slug": "riverdo99x",
+  "sourceRowCount": 113,
+  "tenures": [
+    {
+      "teamCode": "LAC",
+      "startDate": "2013-06-25",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "riverdo99x-0",
+      "sourceId": 0,
+      "date": "2013-06-25",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Sent out R.J. Hunter",
+      "participants": [
+        {
+          "name": "R.J. Hunter",
+          "playerHref": "/players/h/hunterj01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 567.9,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 567.9,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 567.9,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 567.9,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "riverdo99x-1",
+      "sourceId": 1,
+      "date": "2013-06-27",
+      "type": "draft",
+      "tenureTeam": "LAC",
+      "summary": "Drafted Reggie Bullock",
+      "participants": [
+        {
+          "name": "Reggie Bullock",
+          "playerHref": "/players/b/bullore01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -1619.1,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 567.9,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "riverdo99x-2",
+      "sourceId": 2,
+      "date": "2013-07-08",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Rookie contract for Reggie Bullock",
+      "participants": [
+        {
+          "name": "Reggie Bullock",
+          "playerHref": "/players/b/bullore01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -1619.1,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -1619.1,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -1051.1999999999998,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "riverdo99x-3",
+      "sourceId": 3,
+      "date": "2013-07-10",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added J.J. Redick and Jared Dudley; Sent out Eric Bledsoe, Caron Butler, and Marcus Paige",
+      "participants": [
+        {
+          "name": "Eric Bledsoe",
+          "playerHref": "/players/b/bledser01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -20875.5,
+            "vorp": -9.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Caron Butler",
+          "playerHref": "/players/b/butleca01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Marcus Paige",
+          "playerHref": "/players/p/paigema01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "J.J. Redick",
+          "playerHref": "/players/r/redicjj01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jared Dudley",
+          "playerHref": "/players/d/dudleja01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -3077,
+            "vorp": 0.19999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -23952.5,
+        "vorp": -8.9
+      },
+      "categoryValues": {
+        "bpm": -23952.5,
+        "vorp": -8.9
+      },
+      "runningValues": {
+        "bpm": -25003.7,
+        "vorp": -8.9
+      }
+    },
+    {
+      "id": "riverdo99x-4",
+      "sourceId": 4,
+      "date": "2013-07-10",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Darren Collison",
+      "participants": [
+        {
+          "name": "Darren Collison",
+          "playerHref": "/players/c/collida01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 3103.5,
+            "vorp": 1.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3103.5,
+        "vorp": 1.8
+      },
+      "categoryValues": {
+        "bpm": 3103.5,
+        "vorp": 1.8
+      },
+      "runningValues": {
+        "bpm": -21900.2,
+        "vorp": -7.1000000000000005
+      }
+    },
+    {
+      "id": "riverdo99x-5",
+      "sourceId": 5,
+      "date": "2013-07-10",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Chris Paul",
+      "participants": [
+        {
+          "name": "Chris Paul",
+          "playerHref": "/players/p/paulch01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 75462.79999999999,
+            "vorp": 24.099999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 75462.79999999999,
+        "vorp": 24.099999999999998
+      },
+      "categoryValues": {
+        "bpm": 75462.79999999999,
+        "vorp": 24.099999999999998
+      },
+      "runningValues": {
+        "bpm": 53562.59999999999,
+        "vorp": 16.999999999999996
+      }
+    },
+    {
+      "id": "riverdo99x-6",
+      "sourceId": 6,
+      "date": "2013-07-22",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Byron Mullens",
+      "participants": [
+        {
+          "name": "Byron Mullens",
+          "playerHref": "/players/m/mulleby01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -751.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -751.5,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -751.5,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 52811.09999999999,
+        "vorp": 16.899999999999995
+      }
+    },
+    {
+      "id": "riverdo99x-7",
+      "sourceId": 7,
+      "date": "2013-08-26",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Antawn Jamison",
+      "participants": [
+        {
+          "name": "Antawn Jamison",
+          "playerHref": "/players/j/jamisan01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -1165.6000000000001,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1165.6000000000001,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1165.6000000000001,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 51645.49999999999,
+        "vorp": 16.699999999999996
+      }
+    },
+    {
+      "id": "riverdo99x-8",
+      "sourceId": 8,
+      "date": "2013-12-10",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Stephen Jackson",
+      "participants": [
+        {
+          "name": "Stephen Jackson",
+          "playerHref": "/players/j/jacksst02.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -695.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -695.5,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -695.5,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 50949.99999999999,
+        "vorp": 16.599999999999994
+      }
+    },
+    {
+      "id": "riverdo99x-9",
+      "sourceId": 9,
+      "date": "2014-02-03",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Sasha Vujačić",
+      "participants": [
+        {
+          "name": "Sasha Vujačić",
+          "playerHref": "/players/v/vujacsa01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -123,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -123,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -123,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 50826.99999999999,
+        "vorp": 16.599999999999994
+      }
+    },
+    {
+      "id": "riverdo99x-10",
+      "sourceId": 10,
+      "date": "2014-02-20",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Sent out Byron Mullens",
+      "participants": [
+        {
+          "name": "Byron Mullens",
+          "playerHref": "/players/m/mulleby01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -49.400000000000006,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -49.400000000000006,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -49.400000000000006,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 50777.59999999999,
+        "vorp": 16.499999999999993
+      }
+    },
+    {
+      "id": "riverdo99x-11",
+      "sourceId": 11,
+      "date": "2014-02-20",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Cenk Akyol; Sent out Antawn Jamison",
+      "participants": [
+        {
+          "name": "Antawn Jamison",
+          "playerHref": "/players/j/jamisan01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cenk Akyol",
+          "playerHref": "/players/a/akyolce01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 50777.59999999999,
+        "vorp": 16.499999999999993
+      }
+    },
+    {
+      "id": "riverdo99x-12",
+      "sourceId": 12,
+      "date": "2014-02-24",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Glen Davis",
+      "participants": [
+        {
+          "name": "Glen Davis",
+          "playerHref": "/players/d/davisgl01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -1293.6,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1293.6,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1293.6,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 49483.99999999999,
+        "vorp": 16.299999999999994
+      }
+    },
+    {
+      "id": "riverdo99x-13",
+      "sourceId": 13,
+      "date": "2014-02-28",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Danny Granger",
+      "participants": [
+        {
+          "name": "Danny Granger",
+          "playerHref": "/players/g/grangda01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -485,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -485,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -485,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 48998.99999999999,
+        "vorp": 16.299999999999994
+      }
+    },
+    {
+      "id": "riverdo99x-14",
+      "sourceId": 14,
+      "date": "2014-06-26",
+      "type": "draft",
+      "tenureTeam": "LAC",
+      "summary": "Drafted C.J. Wilcox",
+      "participants": [
+        {
+          "name": "C.J. Wilcox",
+          "playerHref": "/players/w/wilcocj01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -735.3,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 48998.99999999999,
+        "vorp": 16.299999999999994
+      }
+    },
+    {
+      "id": "riverdo99x-15",
+      "sourceId": 15,
+      "date": "2014-07-10",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Spencer Hawes",
+      "participants": [
+        {
+          "name": "Spencer Hawes",
+          "playerHref": "/players/h/hawessp01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -2930.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2930.2,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -2930.2,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 46068.799999999996,
+        "vorp": 16.199999999999992
+      }
+    },
+    {
+      "id": "riverdo99x-16",
+      "sourceId": 16,
+      "date": "2014-07-11",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Rookie contract for C.J. Wilcox",
+      "participants": [
+        {
+          "name": "C.J. Wilcox",
+          "playerHref": "/players/w/wilcocj01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -735.3,
+            "vorp": -0.1
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -735.3,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 45333.49999999999,
+        "vorp": 16.09999999999999
+      }
+    },
+    {
+      "id": "riverdo99x-17",
+      "sourceId": 17,
+      "date": "2014-07-18",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Glen Davis",
+      "participants": [
+        {
+          "name": "Glen Davis",
+          "playerHref": "/players/d/davisgl01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -2802.4,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2802.4,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -2802.4,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 42531.09999999999,
+        "vorp": 15.899999999999991
+      }
+    },
+    {
+      "id": "riverdo99x-18",
+      "sourceId": 18,
+      "date": "2014-08-26",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Carlos Delfino, Miroslav Raduljica, and Marcus Paige; Sent out Jared Dudley and OG Anunoby",
+      "participants": [
+        {
+          "name": "Jared Dudley",
+          "playerHref": "/players/d/dudleja01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -1030.2,
+            "vorp": -1.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "OG Anunoby",
+          "playerHref": "/players/a/anunoog01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Carlos Delfino",
+          "playerHref": "/players/d/delfica01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Miroslav Raduljica",
+          "playerHref": "/players/r/radulmi01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Marcus Paige",
+          "playerHref": "/players/p/paigema01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1030.2,
+        "vorp": -1.1
+      },
+      "categoryValues": {
+        "bpm": -1030.2,
+        "vorp": -1.1
+      },
+      "runningValues": {
+        "bpm": 41500.899999999994,
+        "vorp": 14.799999999999992
+      }
+    },
+    {
+      "id": "riverdo99x-19",
+      "sourceId": 19,
+      "date": "2014-09-03",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Chris Douglas-Roberts",
+      "participants": [
+        {
+          "name": "Chris Douglas-Roberts",
+          "playerHref": "/players/d/douglch01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -679.8,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -679.8,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -679.8,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 40821.09999999999,
+        "vorp": 14.699999999999992
+      }
+    },
+    {
+      "id": "riverdo99x-20",
+      "sourceId": 20,
+      "date": "2014-09-03",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Ekpe Udoh",
+      "participants": [
+        {
+          "name": "Ekpe Udoh",
+          "playerHref": "/players/u/udohek01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -153.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -153.6,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -153.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 40667.49999999999,
+        "vorp": 14.699999999999992
+      }
+    },
+    {
+      "id": "riverdo99x-21",
+      "sourceId": 21,
+      "date": "2014-09-12",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Hedo Türkoğlu",
+      "participants": [
+        {
+          "name": "Hedo Türkoğlu",
+          "playerHref": "/players/t/turkohe01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -141,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -141,
+        "vorp": 0.3
+      },
+      "categoryValues": {
+        "bpm": -141,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": 40526.49999999999,
+        "vorp": 14.999999999999993
+      }
+    },
+    {
+      "id": "riverdo99x-22",
+      "sourceId": 22,
+      "date": "2014-09-29",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Joe Ingles",
+      "participants": [
+        {
+          "name": "Joe Ingles",
+          "playerHref": "/players/i/inglejo01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 40526.49999999999,
+        "vorp": 14.999999999999993
+      }
+    },
+    {
+      "id": "riverdo99x-23",
+      "sourceId": 23,
+      "date": "2014-09-29",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Jared Cunningham",
+      "participants": [
+        {
+          "name": "Jared Cunningham",
+          "playerHref": "/players/c/cunnija01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -712,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -712,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -712,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 39814.49999999999,
+        "vorp": 14.899999999999993
+      }
+    },
+    {
+      "id": "riverdo99x-24",
+      "sourceId": 24,
+      "date": "2015-01-07",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Sergei Lishouk; Sent out Cenk Akyol and Jared Cunningham",
+      "participants": [
+        {
+          "name": "Cenk Akyol",
+          "playerHref": "/players/a/akyolce01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jared Cunningham",
+          "playerHref": "/players/c/cunnija01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sergei Lishouk",
+          "playerHref": "/players/l/lishcse01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 39814.49999999999,
+        "vorp": 14.899999999999993
+      }
+    },
+    {
+      "id": "riverdo99x-25",
+      "sourceId": 25,
+      "date": "2015-01-14",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Dahntay Jones",
+      "participants": [
+        {
+          "name": "Dahntay Jones",
+          "playerHref": "/players/j/jonesda02.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 39814.49999999999,
+        "vorp": 14.899999999999993
+      }
+    },
+    {
+      "id": "riverdo99x-26",
+      "sourceId": 26,
+      "date": "2015-01-15",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Austin Rivers; Sent out Reggie Bullock, Chris Douglas-Roberts, and Jabari Bird",
+      "participants": [
+        {
+          "name": "Reggie Bullock",
+          "playerHref": "/players/b/bullore01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 765,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chris Douglas-Roberts",
+          "playerHref": "/players/d/douglch01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jabari Bird",
+          "playerHref": "/players/b/birdja01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 345,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Austin Rivers",
+          "playerHref": "/players/r/riverau01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1110,
+        "vorp": 0.2
+      },
+      "categoryValues": {
+        "bpm": 1110,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 40924.49999999999,
+        "vorp": 15.099999999999993
+      }
+    },
+    {
+      "id": "riverdo99x-27",
+      "sourceId": 27,
+      "date": "2015-02-03",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Dahntay Jones",
+      "participants": [
+        {
+          "name": "Dahntay Jones",
+          "playerHref": "/players/j/jonesda02.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -1008.5999999999999,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1008.5999999999999,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1008.5999999999999,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 39915.899999999994,
+        "vorp": 14.899999999999993
+      }
+    },
+    {
+      "id": "riverdo99x-28",
+      "sourceId": 28,
+      "date": "2015-02-24",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Jordan Hamilton",
+      "participants": [
+        {
+          "name": "Jordan Hamilton",
+          "playerHref": "/players/h/hamiljo02.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -292.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -292.8,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -292.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 39623.09999999999,
+        "vorp": 14.899999999999993
+      }
+    },
+    {
+      "id": "riverdo99x-29",
+      "sourceId": 29,
+      "date": "2015-03-07",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Nate Robinson",
+      "participants": [
+        {
+          "name": "Nate Robinson",
+          "playerHref": "/players/r/robinna01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -327.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -327.6,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -327.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 39295.49999999999,
+        "vorp": 14.899999999999993
+      }
+    },
+    {
+      "id": "riverdo99x-30",
+      "sourceId": 30,
+      "date": "2015-03-29",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Lester Hudson",
+      "participants": [
+        {
+          "name": "Lester Hudson",
+          "playerHref": "/players/h/hudsole01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 39295.49999999999,
+        "vorp": 14.899999999999993
+      }
+    },
+    {
+      "id": "riverdo99x-31",
+      "sourceId": 31,
+      "date": "2015-04-11",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Lester Hudson",
+      "participants": [
+        {
+          "name": "Lester Hudson",
+          "playerHref": "/players/h/hudsole01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 229.59999999999997,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 229.59999999999997,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 229.59999999999997,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 39525.09999999999,
+        "vorp": 14.999999999999993
+      }
+    },
+    {
+      "id": "riverdo99x-32",
+      "sourceId": 32,
+      "date": "2015-06-15",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Lance Stephenson; Sent out Matt Barnes and Spencer Hawes",
+      "participants": [
+        {
+          "name": "Matt Barnes",
+          "playerHref": "/players/b/barnema02.html",
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Spencer Hawes",
+          "playerHref": "/players/h/hawessp01.html",
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 683.6,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lance Stephenson",
+          "playerHref": "/players/s/stephla01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -1292,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -608.4,
+        "vorp": -0.6
+      },
+      "categoryValues": {
+        "bpm": -608.4,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": 38916.69999999999,
+        "vorp": 14.399999999999993
+      }
+    },
+    {
+      "id": "riverdo99x-33",
+      "sourceId": 33,
+      "date": "2015-06-25",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Branden Dawson",
+      "participants": [
+        {
+          "name": "Branden Dawson",
+          "playerHref": "/players/d/dawsobr01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 38916.69999999999,
+        "vorp": 14.399999999999993
+      }
+    },
+    {
+      "id": "riverdo99x-34",
+      "sourceId": 34,
+      "date": "2015-07-09",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Wesley Johnson",
+      "participants": [
+        {
+          "name": "Wesley Johnson",
+          "playerHref": "/players/j/johnswe01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -333.2000000000003,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -333.2000000000003,
+        "vorp": 0.8
+      },
+      "categoryValues": {
+        "bpm": -333.2000000000003,
+        "vorp": 0.8
+      },
+      "runningValues": {
+        "bpm": 38583.49999999999,
+        "vorp": 15.199999999999994
+      }
+    },
+    {
+      "id": "riverdo99x-35",
+      "sourceId": 35,
+      "date": "2015-07-09",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed DeAndre Jordan",
+      "participants": [
+        {
+          "name": "DeAndre Jordan",
+          "playerHref": "/players/j/jordade01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 19149,
+            "vorp": 8.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 19149,
+        "vorp": 8.8
+      },
+      "categoryValues": {
+        "bpm": 19149,
+        "vorp": 8.8
+      },
+      "runningValues": {
+        "bpm": 57732.49999999999,
+        "vorp": 23.999999999999993
+      }
+    },
+    {
+      "id": "riverdo99x-36",
+      "sourceId": 36,
+      "date": "2015-07-10",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Paul Pierce",
+      "participants": [
+        {
+          "name": "Paul Pierce",
+          "playerHref": "/players/p/piercpa01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -5336.5,
+            "vorp": -0.6000000000000001
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5336.5,
+        "vorp": -0.6000000000000001
+      },
+      "categoryValues": {
+        "bpm": -5336.5,
+        "vorp": -0.6000000000000001
+      },
+      "runningValues": {
+        "bpm": 52395.99999999999,
+        "vorp": 23.39999999999999
+      }
+    },
+    {
+      "id": "riverdo99x-37",
+      "sourceId": 37,
+      "date": "2015-07-13",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Austin Rivers",
+      "participants": [
+        {
+          "name": "Austin Rivers",
+          "playerHref": "/players/r/riverau01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -3952.7999999999993,
+            "vorp": -0.20000000000000007
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3952.7999999999993,
+        "vorp": -0.20000000000000007
+      },
+      "categoryValues": {
+        "bpm": -3952.7999999999993,
+        "vorp": -0.20000000000000007
+      },
+      "runningValues": {
+        "bpm": 48443.2,
+        "vorp": 23.199999999999992
+      }
+    },
+    {
+      "id": "riverdo99x-38",
+      "sourceId": 38,
+      "date": "2015-07-13",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Cole Aldrich",
+      "participants": [
+        {
+          "name": "Cole Aldrich",
+          "playerHref": "/players/a/aldrico01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 1920,
+            "vorp": 0.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1920,
+        "vorp": 0.9
+      },
+      "categoryValues": {
+        "bpm": 1920,
+        "vorp": 0.9
+      },
+      "runningValues": {
+        "bpm": 50363.2,
+        "vorp": 24.09999999999999
+      }
+    },
+    {
+      "id": "riverdo99x-39",
+      "sourceId": 39,
+      "date": "2015-07-15",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Branden Dawson",
+      "participants": [
+        {
+          "name": "Branden Dawson",
+          "playerHref": "/players/d/dawsobr01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -162.39999999999998,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -162.39999999999998,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -162.39999999999998,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 50200.799999999996,
+        "vorp": 24.09999999999999
+      }
+    },
+    {
+      "id": "riverdo99x-40",
+      "sourceId": 40,
+      "date": "2015-07-16",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Josh Smith",
+      "participants": [
+        {
+          "name": "Josh Smith",
+          "playerHref": "/players/s/smithjo03.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -229.5,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -229.5,
+        "vorp": 0.2
+      },
+      "categoryValues": {
+        "bpm": -229.5,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 49971.299999999996,
+        "vorp": 24.29999999999999
+      }
+    },
+    {
+      "id": "riverdo99x-41",
+      "sourceId": 41,
+      "date": "2015-08-03",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Pablo Prigioni",
+      "participants": [
+        {
+          "name": "Pablo Prigioni",
+          "playerHref": "/players/p/prigipa01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -329.20000000000005,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -329.20000000000005,
+        "vorp": 0.3
+      },
+      "categoryValues": {
+        "bpm": -329.20000000000005,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": 49642.1,
+        "vorp": 24.59999999999999
+      }
+    },
+    {
+      "id": "riverdo99x-42",
+      "sourceId": 42,
+      "date": "2015-08-31",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Chuck Hayes",
+      "participants": [
+        {
+          "name": "Chuck Hayes",
+          "playerHref": "/players/h/hayesch01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 49642.1,
+        "vorp": 24.59999999999999
+      }
+    },
+    {
+      "id": "riverdo99x-43",
+      "sourceId": 43,
+      "date": "2015-09-10",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Nikoloz Tskitishvili",
+      "participants": [
+        {
+          "name": "Nikoloz Tskitishvili",
+          "playerHref": "/players/t/tskitni01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 49642.1,
+        "vorp": 24.59999999999999
+      }
+    },
+    {
+      "id": "riverdo99x-44",
+      "sourceId": 44,
+      "date": "2015-09-25",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Luc Mbah a Moute",
+      "participants": [
+        {
+          "name": "Luc Mbah a Moute",
+          "playerHref": "/players/m/mbahalu01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -3185,
+            "vorp": -0.19999999999999996
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3185,
+        "vorp": -0.19999999999999996
+      },
+      "categoryValues": {
+        "bpm": -3185,
+        "vorp": -0.19999999999999996
+      },
+      "runningValues": {
+        "bpm": 46457.1,
+        "vorp": 24.39999999999999
+      }
+    },
+    {
+      "id": "riverdo99x-45",
+      "sourceId": 45,
+      "date": "2016-01-22",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Maarty Leunen; Sent out Sergei Lishouk and Josh Smith",
+      "participants": [
+        {
+          "name": "Sergei Lishouk",
+          "playerHref": "/players/l/lishcse01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Josh Smith",
+          "playerHref": "/players/s/smithjo03.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 2441.7999999999997,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Maarty Leunen",
+          "playerHref": "/players/l/leunema01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2441.7999999999997,
+        "vorp": 0.4
+      },
+      "categoryValues": {
+        "bpm": 2441.7999999999997,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": 48898.9,
+        "vorp": 24.79999999999999
+      }
+    },
+    {
+      "id": "riverdo99x-46",
+      "sourceId": 46,
+      "date": "2016-01-23",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Jeff Ayres",
+      "participants": [
+        {
+          "name": "Jeff Ayres",
+          "playerHref": "/players/p/pendeje02.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 48898.9,
+        "vorp": 24.79999999999999
+      }
+    },
+    {
+      "id": "riverdo99x-47",
+      "sourceId": 47,
+      "date": "2016-02-18",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Jeff Green; Sent out Lance Stephenson and Matisse Thybulle",
+      "participants": [
+        {
+          "name": "Lance Stephenson",
+          "playerHref": "/players/s/stephla01.html",
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 346,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Matisse Thybulle",
+          "playerHref": "/players/t/thybuma01.html",
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jeff Green",
+          "playerHref": "/players/g/greenje02.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -1772.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1426.5,
+        "vorp": -0.30000000000000004
+      },
+      "categoryValues": {
+        "bpm": -1426.5,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": 47472.4,
+        "vorp": 24.49999999999999
+      }
+    },
+    {
+      "id": "riverdo99x-48",
+      "sourceId": 48,
+      "date": "2016-02-20",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Alex Stepheson",
+      "participants": [
+        {
+          "name": "Alex Stepheson",
+          "playerHref": "/players/s/stephal01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -30,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -30,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -30,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 47442.4,
+        "vorp": 24.49999999999999
+      }
+    },
+    {
+      "id": "riverdo99x-49",
+      "sourceId": 49,
+      "date": "2016-03-16",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Jeff Ayres",
+      "participants": [
+        {
+          "name": "Jeff Ayres",
+          "playerHref": "/players/p/pendeje02.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -642,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -642,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -642,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 46800.4,
+        "vorp": 24.399999999999988
+      }
+    },
+    {
+      "id": "riverdo99x-50",
+      "sourceId": 50,
+      "date": "2016-06-23",
+      "type": "draft",
+      "tenureTeam": "LAC",
+      "summary": "Drafted Brice Johnson and Cheick Diallo",
+      "participants": [
+        {
+          "name": "Brice Johnson",
+          "playerHref": "/players/j/johnsbr02.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cheick Diallo",
+          "playerHref": "/players/d/diallch01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 153,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 46800.4,
+        "vorp": 24.399999999999988
+      }
+    },
+    {
+      "id": "riverdo99x-51",
+      "sourceId": 51,
+      "date": "2016-06-23",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added David Michineau and Diamond Stone; Sent out Cheick Diallo",
+      "participants": [
+        {
+          "name": "Cheick Diallo",
+          "playerHref": "/players/d/diallch01.html",
+          "direction": "out",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 2220,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "David Michineau",
+          "playerHref": "/players/m/michida01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Diamond Stone",
+          "playerHref": "/players/s/stonedi01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2220,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": 2220,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 49020.4,
+        "vorp": 24.19999999999999
+      }
+    },
+    {
+      "id": "riverdo99x-52",
+      "sourceId": 52,
+      "date": "2016-07-08",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Jamal Crawford",
+      "participants": [
+        {
+          "name": "Jamal Crawford",
+          "playerHref": "/players/c/crawfja01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -4529.7,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4529.7,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -4529.7,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 44490.700000000004,
+        "vorp": 24.19999999999999
+      }
+    },
+    {
+      "id": "riverdo99x-53",
+      "sourceId": 53,
+      "date": "2016-07-08",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Luc Mbah a Moute",
+      "participants": [
+        {
+          "name": "Luc Mbah a Moute",
+          "playerHref": "/players/m/mbahalu01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -534.3000000000001,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -534.3000000000001,
+        "vorp": 0.8
+      },
+      "categoryValues": {
+        "bpm": -534.3000000000001,
+        "vorp": 0.8
+      },
+      "runningValues": {
+        "bpm": 43956.4,
+        "vorp": 24.99999999999999
+      }
+    },
+    {
+      "id": "riverdo99x-54",
+      "sourceId": 54,
+      "date": "2016-07-08",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Austin Rivers",
+      "participants": [
+        {
+          "name": "Austin Rivers",
+          "playerHref": "/players/r/riverau01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -6781.800000000001,
+            "vorp": 0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6781.800000000001,
+        "vorp": 0.30000000000000004
+      },
+      "categoryValues": {
+        "bpm": -6781.800000000001,
+        "vorp": 0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": 37174.6,
+        "vorp": 25.29999999999999
+      }
+    },
+    {
+      "id": "riverdo99x-55",
+      "sourceId": 55,
+      "date": "2016-07-08",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Wesley Johnson",
+      "participants": [
+        {
+          "name": "Wesley Johnson",
+          "playerHref": "/players/j/johnswe01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -2660.2,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2660.2,
+        "vorp": 0.5
+      },
+      "categoryValues": {
+        "bpm": -2660.2,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": 34514.4,
+        "vorp": 25.79999999999999
+      }
+    },
+    {
+      "id": "riverdo99x-56",
+      "sourceId": 56,
+      "date": "2016-07-12",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Rookie contract for Brice Johnson",
+      "participants": [
+        {
+          "name": "Brice Johnson",
+          "playerHref": "/players/j/johnsbr02.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 153,
+            "vorp": 0.1
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 153,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 34667.4,
+        "vorp": 25.89999999999999
+      }
+    },
+    {
+      "id": "riverdo99x-57",
+      "sourceId": 57,
+      "date": "2016-07-12",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Marreese Speights",
+      "participants": [
+        {
+          "name": "Marreese Speights",
+          "playerHref": "/players/s/speigma01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 771.6,
+            "vorp": 0.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 771.6,
+        "vorp": 0.9
+      },
+      "categoryValues": {
+        "bpm": 771.6,
+        "vorp": 0.9
+      },
+      "runningValues": {
+        "bpm": 35439,
+        "vorp": 26.79999999999999
+      }
+    },
+    {
+      "id": "riverdo99x-58",
+      "sourceId": 58,
+      "date": "2016-07-14",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Diamond Stone",
+      "participants": [
+        {
+          "name": "Diamond Stone",
+          "playerHref": "/players/s/stonedi01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -494.40000000000003,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -494.40000000000003,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -494.40000000000003,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 34944.6,
+        "vorp": 26.69999999999999
+      }
+    },
+    {
+      "id": "riverdo99x-59",
+      "sourceId": 59,
+      "date": "2016-07-15",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Devyn Marble and Vernon Carey Jr.; Sent out C.J. Wilcox",
+      "participants": [
+        {
+          "name": "C.J. Wilcox",
+          "playerHref": "/players/w/wilcocj01.html",
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 864,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Devyn Marble",
+          "playerHref": "/players/m/marblde01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Vernon Carey Jr.",
+          "playerHref": "/players/c/careyve01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 864,
+        "vorp": 0.2
+      },
+      "categoryValues": {
+        "bpm": 864,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 35808.6,
+        "vorp": 26.899999999999988
+      }
+    },
+    {
+      "id": "riverdo99x-60",
+      "sourceId": 60,
+      "date": "2016-07-19",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Brandon Bass",
+      "participants": [
+        {
+          "name": "Brandon Bass",
+          "playerHref": "/players/b/bassbr01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 230.8,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 230.8,
+        "vorp": 0.4
+      },
+      "categoryValues": {
+        "bpm": 230.8,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": 36039.4,
+        "vorp": 27.299999999999986
+      }
+    },
+    {
+      "id": "riverdo99x-61",
+      "sourceId": 61,
+      "date": "2016-07-25",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Raymond Felton",
+      "participants": [
+        {
+          "name": "Raymond Felton",
+          "playerHref": "/players/f/feltora01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -2210,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2210,
+        "vorp": 0.3
+      },
+      "categoryValues": {
+        "bpm": -2210,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": 33829.4,
+        "vorp": 27.599999999999987
+      }
+    },
+    {
+      "id": "riverdo99x-62",
+      "sourceId": 62,
+      "date": "2016-08-03",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Alan Anderson",
+      "participants": [
+        {
+          "name": "Alan Anderson",
+          "playerHref": "/players/a/anderal01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -1878.8,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1878.8,
+        "vorp": -0.3
+      },
+      "categoryValues": {
+        "bpm": -1878.8,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": 31950.600000000002,
+        "vorp": 27.299999999999986
+      }
+    },
+    {
+      "id": "riverdo99x-63",
+      "sourceId": 63,
+      "date": "2016-09-22",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Xavier Munford",
+      "participants": [
+        {
+          "name": "Xavier Munford",
+          "playerHref": "/players/m/munfoxa02.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 31950.600000000002,
+        "vorp": 27.299999999999986
+      }
+    },
+    {
+      "id": "riverdo99x-64",
+      "sourceId": 64,
+      "date": "2016-09-23",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Dorell Wright",
+      "participants": [
+        {
+          "name": "Dorell Wright",
+          "playerHref": "/players/w/wrighdo01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 31950.600000000002,
+        "vorp": 27.299999999999986
+      }
+    },
+    {
+      "id": "riverdo99x-65",
+      "sourceId": 65,
+      "date": "2017-01-05",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Tyrone Wallace",
+      "participants": [
+        {
+          "name": "Tyrone Wallace",
+          "playerHref": "/players/w/wallaty01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -6849.8,
+            "vorp": -1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6849.8,
+        "vorp": -1
+      },
+      "categoryValues": {
+        "bpm": -6849.8,
+        "vorp": -1
+      },
+      "runningValues": {
+        "bpm": 25100.800000000003,
+        "vorp": 26.299999999999986
+      }
+    },
+    {
+      "id": "riverdo99x-66",
+      "sourceId": 66,
+      "date": "2017-06-23",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Sindarius Thornwell",
+      "participants": [
+        {
+          "name": "Sindarius Thornwell",
+          "playerHref": "/players/t/thornsi01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 25100.800000000003,
+        "vorp": 26.299999999999986
+      }
+    },
+    {
+      "id": "riverdo99x-67",
+      "sourceId": 67,
+      "date": "2017-06-28",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Patrick Beverley, Sam Dekker, Montrezl Harrell, Darrun Hilliard, DeAndre Liggins, Lou Williams, Kyle Wiltjer, and Omari Spellman; Sent out Chris Paul",
+      "participants": [
+        {
+          "name": "Chris Paul",
+          "playerHref": "/players/p/paulch01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -19985.6,
+            "vorp": -6.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Patrick Beverley",
+          "playerHref": "/players/b/beverpa01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 5625.1,
+            "vorp": 3.6999999999999997
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sam Dekker",
+          "playerHref": "/players/d/dekkesa01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -2560.7,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Montrezl Harrell",
+          "playerHref": "/players/h/harremo01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 16460.399999999998,
+            "vorp": 6.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Darrun Hilliard",
+          "playerHref": "/players/h/hillida01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "DeAndre Liggins",
+          "playerHref": "/players/l/liggide01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lou Williams",
+          "playerHref": "/players/w/willilo02.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 10067.8,
+            "vorp": 6.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kyle Wiltjer",
+          "playerHref": "/players/w/wiltjky01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Omari Spellman",
+          "playerHref": "/players/s/spellom01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 9607,
+        "vorp": 9.7
+      },
+      "categoryValues": {
+        "bpm": 9607,
+        "vorp": 9.7
+      },
+      "runningValues": {
+        "bpm": 34707.8,
+        "vorp": 35.999999999999986
+      }
+    },
+    {
+      "id": "riverdo99x-68",
+      "sourceId": 68,
+      "date": "2017-07-06",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Jawun Evans",
+      "participants": [
+        {
+          "name": "Jawun Evans",
+          "playerHref": "/players/e/evansja01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 34707.8,
+        "vorp": 35.999999999999986
+      }
+    },
+    {
+      "id": "riverdo99x-69",
+      "sourceId": 69,
+      "date": "2017-07-06",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Danilo Gallinari; Sent out Jamal Crawford, Diamond Stone, and Omari Spellman",
+      "participants": [
+        {
+          "name": "Jamal Crawford",
+          "playerHref": "/players/c/crawfja01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Diamond Stone",
+          "playerHref": "/players/s/stonedi01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Omari Spellman",
+          "playerHref": "/players/s/spellom01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 885.5000000000001,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Danilo Gallinari",
+          "playerHref": "/players/g/gallida01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 885.5000000000001,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": 885.5000000000001,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 35593.3,
+        "vorp": 35.79999999999998
+      }
+    },
+    {
+      "id": "riverdo99x-70",
+      "sourceId": 70,
+      "date": "2017-07-10",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Miloš Teodosić",
+      "participants": [
+        {
+          "name": "Miloš Teodosić",
+          "playerHref": "/players/t/teodomi01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -2737.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2737.8,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -2737.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 32855.5,
+        "vorp": 35.79999999999998
+      }
+    },
+    {
+      "id": "riverdo99x-71",
+      "sourceId": 71,
+      "date": "2017-07-11",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Jawun Evans",
+      "participants": [
+        {
+          "name": "Jawun Evans",
+          "playerHref": "/players/e/evansja01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -3812.2000000000003,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3812.2000000000003,
+        "vorp": -0.6
+      },
+      "categoryValues": {
+        "bpm": -3812.2000000000003,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": 29043.3,
+        "vorp": 35.19999999999998
+      }
+    },
+    {
+      "id": "riverdo99x-72",
+      "sourceId": 72,
+      "date": "2017-07-18",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Blake Griffin",
+      "participants": [
+        {
+          "name": "Blake Griffin",
+          "playerHref": "/players/g/griffbl01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 3872.6,
+            "vorp": 1.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3872.6,
+        "vorp": 1.6
+      },
+      "categoryValues": {
+        "bpm": 3872.6,
+        "vorp": 1.6
+      },
+      "runningValues": {
+        "bpm": 32915.9,
+        "vorp": 36.79999999999998
+      }
+    },
+    {
+      "id": "riverdo99x-73",
+      "sourceId": 73,
+      "date": "2017-07-18",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Jamil Wilson",
+      "participants": [
+        {
+          "name": "Jamil Wilson",
+          "playerHref": "/players/w/wilsoja02.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 54.800000000000004,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 54.800000000000004,
+        "vorp": 0.2
+      },
+      "categoryValues": {
+        "bpm": 54.800000000000004,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 32970.700000000004,
+        "vorp": 36.999999999999986
+      }
+    },
+    {
+      "id": "riverdo99x-74",
+      "sourceId": 74,
+      "date": "2017-07-26",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Sindarius Thornwell",
+      "participants": [
+        {
+          "name": "Sindarius Thornwell",
+          "playerHref": "/players/t/thornsi01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -4245.5,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4245.5,
+        "vorp": -0.30000000000000004
+      },
+      "categoryValues": {
+        "bpm": -4245.5,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": 28725.200000000004,
+        "vorp": 36.69999999999999
+      }
+    },
+    {
+      "id": "riverdo99x-75",
+      "sourceId": 75,
+      "date": "2017-08-03",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Willie Reed",
+      "participants": [
+        {
+          "name": "Willie Reed",
+          "playerHref": "/players/r/reedwi02.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 335.20000000000005,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 335.20000000000005,
+        "vorp": 0.3
+      },
+      "categoryValues": {
+        "bpm": 335.20000000000005,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": 29060.400000000005,
+        "vorp": 36.999999999999986
+      }
+    }
+  ]
+}

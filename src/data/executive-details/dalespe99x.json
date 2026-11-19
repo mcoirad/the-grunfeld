@@ -1,0 +1,1377 @@
+{
+  "slug": "dalespe99x",
+  "sourceRowCount": 59,
+  "tenures": [
+    {
+      "teamCode": "SAC",
+      "startDate": "2013-06-27",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "dalespe99x-0",
+      "sourceId": 0,
+      "date": "2013-06-27",
+      "type": "draft",
+      "tenureTeam": "SAC",
+      "summary": "Drafted Ben McLemore and Ray McCallum",
+      "participants": [
+        {
+          "name": "Ben McLemore",
+          "playerHref": "/players/m/mclembe01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -25261.299999999996,
+            "vorp": -2.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ray McCallum",
+          "playerHref": "/players/m/mccalra01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -25261.299999999996,
+        "vorp": -2.6
+      },
+      "categoryValues": {
+        "bpm": -30913.999999999996,
+        "vorp": -2.9
+      },
+      "runningValues": {
+        "bpm": -25261.299999999996,
+        "vorp": -2.6
+      }
+    },
+    {
+      "id": "dalespe99x-1",
+      "sourceId": 1,
+      "date": "2013-07-10",
+      "type": "trade",
+      "tenureTeam": "SAC",
+      "summary": "Added Greivis Vásquez, Malcolm Brogdon, and Chinanu Onuaku; Sent out Tyreke Evans",
+      "participants": [
+        {
+          "name": "Tyreke Evans",
+          "playerHref": "/players/e/evansty01.html",
+          "direction": "out",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": -5745.3,
+            "vorp": -4.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Greivis Vásquez",
+          "playerHref": "/players/v/vasqugr01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Malcolm Brogdon",
+          "playerHref": "/players/b/brogdma01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 2242,
+            "vorp": 1.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chinanu Onuaku",
+          "playerHref": "/players/o/onuakch01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3503.3,
+        "vorp": -3.3000000000000003
+      },
+      "categoryValues": {
+        "bpm": -3503.3,
+        "vorp": -3.3000000000000003
+      },
+      "runningValues": {
+        "bpm": -28764.599999999995,
+        "vorp": -5.9
+      }
+    },
+    {
+      "id": "dalespe99x-2",
+      "sourceId": 2,
+      "date": "2013-07-12",
+      "type": "trade",
+      "tenureTeam": "SAC",
+      "summary": "Added Luc Mbah a Moute and Vanja Marinkovic; Sent out Malcolm Brogdon and Admiral Schofield",
+      "participants": [
+        {
+          "name": "Malcolm Brogdon",
+          "playerHref": "/players/b/brogdma01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -1514.4000000000005,
+            "vorp": -3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Admiral Schofield",
+          "playerHref": "/players/s/schofad01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Luc Mbah a Moute",
+          "playerHref": "/players/m/mbahalu01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 98,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Vanja Marinkovic",
+          "playerHref": "/players/m/marinva01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1416.4000000000005,
+        "vorp": -2.9
+      },
+      "categoryValues": {
+        "bpm": -1416.4000000000005,
+        "vorp": -2.9
+      },
+      "runningValues": {
+        "bpm": -30180.999999999996,
+        "vorp": -8.8
+      }
+    },
+    {
+      "id": "dalespe99x-3",
+      "sourceId": 3,
+      "date": "2013-07-15",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Carl Landry",
+      "participants": [
+        {
+          "name": "Carl Landry",
+          "playerHref": "/players/l/landrca01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -3344.7000000000003,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3344.7000000000003,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -3344.7000000000003,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -33525.7,
+        "vorp": -9
+      }
+    },
+    {
+      "id": "dalespe99x-4",
+      "sourceId": 4,
+      "date": "2013-07-18",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Rookie contract for Ray McCallum",
+      "participants": [
+        {
+          "name": "Ray McCallum",
+          "playerHref": "/players/m/mccalra01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -5652.700000000001,
+            "vorp": -0.3
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -5652.700000000001,
+        "vorp": -0.3
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -39178.399999999994,
+        "vorp": -9.3
+      }
+    },
+    {
+      "id": "dalespe99x-5",
+      "sourceId": 5,
+      "date": "2013-08-28",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Trent Lockett",
+      "participants": [
+        {
+          "name": "Trent Lockett",
+          "playerHref": "/players/l/locketr01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -39178.399999999994,
+        "vorp": -9.3
+      }
+    },
+    {
+      "id": "dalespe99x-6",
+      "sourceId": 6,
+      "date": "2013-11-26",
+      "type": "trade",
+      "tenureTeam": "SAC",
+      "summary": "Added Derrick Williams; Sent out Luc Mbah a Moute",
+      "participants": [
+        {
+          "name": "Luc Mbah a Moute",
+          "playerHref": "/players/m/mbahalu01.html",
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 2905.2000000000003,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Derrick Williams",
+          "playerHref": "/players/w/willide02.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -5928,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3022.7999999999997,
+        "vorp": 0.4
+      },
+      "categoryValues": {
+        "bpm": -3022.7999999999997,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": -42201.2,
+        "vorp": -8.9
+      }
+    },
+    {
+      "id": "dalespe99x-7",
+      "sourceId": 7,
+      "date": "2013-12-09",
+      "type": "trade",
+      "tenureTeam": "SAC",
+      "summary": "Added Quincy Acy, Rudy Gay, and Aaron Gray; Sent out Chuck Hayes, Patrick Patterson, John Salmons, and Greivis Vásquez",
+      "participants": [
+        {
+          "name": "Chuck Hayes",
+          "playerHref": "/players/h/hayesch01.html",
+          "direction": "out",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 1290,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Patrick Patterson",
+          "playerHref": "/players/p/pattepa01.html",
+          "direction": "out",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": -7472.099999999999,
+            "vorp": -5.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Salmons",
+          "playerHref": "/players/s/salmojo01.html",
+          "direction": "out",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 2177.7,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Greivis Vásquez",
+          "playerHref": "/players/v/vasqugr01.html",
+          "direction": "out",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 1859.6,
+            "vorp": -1.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Quincy Acy",
+          "playerHref": "/players/a/acyqu01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -1816.8,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rudy Gay",
+          "playerHref": "/players/g/gayru01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 11685.8,
+            "vorp": 6.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Aaron Gray",
+          "playerHref": "/players/g/grayaa01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -1507.5,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 6216.7,
+        "vorp": 0.4000000000000014
+      },
+      "categoryValues": {
+        "bpm": 6216.7,
+        "vorp": 0.4000000000000014
+      },
+      "runningValues": {
+        "bpm": -35984.5,
+        "vorp": -8.499999999999998
+      }
+    },
+    {
+      "id": "dalespe99x-8",
+      "sourceId": 8,
+      "date": "2014-02-19",
+      "type": "trade",
+      "tenureTeam": "SAC",
+      "summary": "Added Reggie Evans and Jason Terry; Sent out Marcus Thornton",
+      "participants": [
+        {
+          "name": "Marcus Thornton",
+          "playerHref": "/players/t/thornma01.html",
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Reggie Evans",
+          "playerHref": "/players/e/evansre01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -2433.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jason Terry",
+          "playerHref": "/players/t/terryja01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2433.6,
+        "vorp": -0.3
+      },
+      "categoryValues": {
+        "bpm": -2433.6,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -38418.1,
+        "vorp": -8.799999999999999
+      }
+    },
+    {
+      "id": "dalespe99x-9",
+      "sourceId": 9,
+      "date": "2014-02-20",
+      "type": "trade",
+      "tenureTeam": "SAC",
+      "summary": "Added Roger Mason",
+      "participants": [
+        {
+          "name": "Roger Mason",
+          "playerHref": "/players/m/masonro01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -38418.1,
+        "vorp": -8.799999999999999
+      }
+    },
+    {
+      "id": "dalespe99x-10",
+      "sourceId": 10,
+      "date": "2014-02-26",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Orlando Johnson",
+      "participants": [
+        {
+          "name": "Orlando Johnson",
+          "playerHref": "/players/j/johnsor01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -520,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -520,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -520,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -38938.1,
+        "vorp": -8.899999999999999
+      }
+    },
+    {
+      "id": "dalespe99x-11",
+      "sourceId": 11,
+      "date": "2014-03-06",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Royce White",
+      "participants": [
+        {
+          "name": "Royce White",
+          "playerHref": "/players/w/whitero03.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -151.20000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -151.20000000000002,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -151.20000000000002,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -39089.299999999996,
+        "vorp": -8.899999999999999
+      }
+    },
+    {
+      "id": "dalespe99x-12",
+      "sourceId": 12,
+      "date": "2014-03-28",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Willie Reed",
+      "participants": [
+        {
+          "name": "Willie Reed",
+          "playerHref": "/players/r/reedwi02.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -39089.299999999996,
+        "vorp": -8.899999999999999
+      }
+    },
+    {
+      "id": "dalespe99x-13",
+      "sourceId": 13,
+      "date": "2014-03-31",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Jared Cunningham",
+      "participants": [
+        {
+          "name": "Jared Cunningham",
+          "playerHref": "/players/c/cunnija01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -39089.299999999996,
+        "vorp": -8.899999999999999
+      }
+    },
+    {
+      "id": "dalespe99x-14",
+      "sourceId": 14,
+      "date": "2014-04-10",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Jared Cunningham",
+      "participants": [
+        {
+          "name": "Jared Cunningham",
+          "playerHref": "/players/c/cunnija01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -75.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -75.4,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -75.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -39164.7,
+        "vorp": -8.899999999999999
+      }
+    },
+    {
+      "id": "dalespe99x-15",
+      "sourceId": 15,
+      "date": "2014-06-26",
+      "type": "draft",
+      "tenureTeam": "SAC",
+      "summary": "Drafted Nik Stauskas",
+      "participants": [
+        {
+          "name": "Nik Stauskas",
+          "playerHref": "/players/s/stausni01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -3719.1,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -39164.7,
+        "vorp": -8.899999999999999
+      }
+    },
+    {
+      "id": "dalespe99x-16",
+      "sourceId": 16,
+      "date": "2014-07-08",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Rookie contract for Nik Stauskas",
+      "participants": [
+        {
+          "name": "Nik Stauskas",
+          "playerHref": "/players/s/stausni01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -3719.1,
+            "vorp": -0.4
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -3719.1,
+        "vorp": -0.4
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -42883.799999999996,
+        "vorp": -9.299999999999999
+      }
+    },
+    {
+      "id": "dalespe99x-17",
+      "sourceId": 17,
+      "date": "2014-07-11",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Darren Collison",
+      "participants": [
+        {
+          "name": "Darren Collison",
+          "playerHref": "/players/c/collida01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 1651.7,
+            "vorp": 3.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1651.7,
+        "vorp": 3.4
+      },
+      "categoryValues": {
+        "bpm": 1651.7,
+        "vorp": 3.4
+      },
+      "runningValues": {
+        "bpm": -41232.1,
+        "vorp": -5.899999999999999
+      }
+    },
+    {
+      "id": "dalespe99x-18",
+      "sourceId": 18,
+      "date": "2014-07-12",
+      "type": "trade",
+      "tenureTeam": "SAC",
+      "summary": "Added Alex Oriakhi; Sent out Isaiah Thomas",
+      "participants": [
+        {
+          "name": "Isaiah Thomas",
+          "playerHref": "/players/t/thomais02.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -2705.2000000000003,
+            "vorp": -1.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alex Oriakhi",
+          "playerHref": "/players/o/oriakal01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2705.2000000000003,
+        "vorp": -1.3
+      },
+      "categoryValues": {
+        "bpm": -2705.2000000000003,
+        "vorp": -1.3
+      },
+      "runningValues": {
+        "bpm": -43937.299999999996,
+        "vorp": -7.199999999999998
+      }
+    },
+    {
+      "id": "dalespe99x-19",
+      "sourceId": 19,
+      "date": "2014-07-30",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Eric Moreland",
+      "participants": [
+        {
+          "name": "Eric Moreland",
+          "playerHref": "/players/m/moreler01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -177.60000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -177.60000000000002,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -177.60000000000002,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44114.899999999994,
+        "vorp": -7.199999999999998
+      }
+    },
+    {
+      "id": "dalespe99x-20",
+      "sourceId": 20,
+      "date": "2014-08-06",
+      "type": "trade",
+      "tenureTeam": "SAC",
+      "summary": "Added Wayne Ellington and Jeremy Tyler; Sent out Quincy Acy and Travis Outlaw",
+      "participants": [
+        {
+          "name": "Quincy Acy",
+          "playerHref": "/players/a/acyqu01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 3861,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Travis Outlaw",
+          "playerHref": "/players/o/outlatr01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Wayne Ellington",
+          "playerHref": "/players/e/ellinwa01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jeremy Tyler",
+          "playerHref": "/players/t/tylerje01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3861,
+        "vorp": 0.3
+      },
+      "categoryValues": {
+        "bpm": 3861,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": -40253.899999999994,
+        "vorp": -6.899999999999999
+      }
+    },
+    {
+      "id": "dalespe99x-21",
+      "sourceId": 21,
+      "date": "2014-08-15",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Sim Bhullar",
+      "participants": [
+        {
+          "name": "Sim Bhullar",
+          "playerHref": "/players/b/bhullsi01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 96.89999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 96.89999999999999,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 96.89999999999999,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -40156.99999999999,
+        "vorp": -6.899999999999999
+      }
+    },
+    {
+      "id": "dalespe99x-22",
+      "sourceId": 22,
+      "date": "2014-09-05",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed David Wear",
+      "participants": [
+        {
+          "name": "David Wear",
+          "playerHref": "/players/w/wearda01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -66.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -66.5,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -66.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -40223.49999999999,
+        "vorp": -6.899999999999999
+      }
+    },
+    {
+      "id": "dalespe99x-23",
+      "sourceId": 23,
+      "date": "2014-09-17",
+      "type": "trade",
+      "tenureTeam": "SAC",
+      "summary": "Added Alonzo Gee and Scotty Hopson; Sent out Jason Terry, Rakeem Christmas, and Chinanu Onuaku",
+      "participants": [
+        {
+          "name": "Jason Terry",
+          "playerHref": "/players/t/terryja01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 1192.3000000000002,
+            "vorp": -1.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rakeem Christmas",
+          "playerHref": "/players/c/chrisra01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chinanu Onuaku",
+          "playerHref": "/players/o/onuakch01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 401.4,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alonzo Gee",
+          "playerHref": "/players/g/geeal01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Scotty Hopson",
+          "playerHref": "/players/h/hopsosc01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1593.7000000000003,
+        "vorp": -1
+      },
+      "categoryValues": {
+        "bpm": 1593.7000000000003,
+        "vorp": -1
+      },
+      "runningValues": {
+        "bpm": -38629.79999999999,
+        "vorp": -7.899999999999999
+      }
+    },
+    {
+      "id": "dalespe99x-24",
+      "sourceId": 24,
+      "date": "2014-09-18",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Omri Casspi",
+      "participants": [
+        {
+          "name": "Omri Casspi",
+          "playerHref": "/players/c/casspom01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -1789,
+            "vorp": 1.2999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1789,
+        "vorp": 1.2999999999999998
+      },
+      "categoryValues": {
+        "bpm": -1789,
+        "vorp": 1.2999999999999998
+      },
+      "runningValues": {
+        "bpm": -40418.79999999999,
+        "vorp": -6.599999999999999
+      }
+    },
+    {
+      "id": "dalespe99x-25",
+      "sourceId": 25,
+      "date": "2014-09-18",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Ryan Hollins",
+      "participants": [
+        {
+          "name": "Ryan Hollins",
+          "playerHref": "/players/h/holliry01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -970.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -970.2,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -970.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -41388.999999999985,
+        "vorp": -6.599999999999999
+      }
+    },
+    {
+      "id": "dalespe99x-26",
+      "sourceId": 26,
+      "date": "2014-09-22",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Ramon Sessions",
+      "participants": [
+        {
+          "name": "Ramon Sessions",
+          "playerHref": "/players/s/sessira01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -3274.2,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3274.2,
+        "vorp": -0.5
+      },
+      "categoryValues": {
+        "bpm": -3274.2,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -44663.19999999998,
+        "vorp": -7.099999999999999
+      }
+    },
+    {
+      "id": "dalespe99x-27",
+      "sourceId": 27,
+      "date": "2014-09-25",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Deonte Burton",
+      "participants": [
+        {
+          "name": "Deonte Burton",
+          "playerHref": "/players/b/burtode01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44663.19999999998,
+        "vorp": -7.099999999999999
+      }
+    },
+    {
+      "id": "dalespe99x-28",
+      "sourceId": 28,
+      "date": "2014-09-25",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Trey Johnson",
+      "participants": [
+        {
+          "name": "Trey Johnson",
+          "playerHref": "/players/j/johnstr01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44663.19999999998,
+        "vorp": -7.099999999999999
+      }
+    },
+    {
+      "id": "dalespe99x-31",
+      "sourceId": 31,
+      "date": "2015-01-17",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Quincy Miller",
+      "participants": [
+        {
+          "name": "Quincy Miller",
+          "playerHref": "/players/m/millequ01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44663.19999999998,
+        "vorp": -7.099999999999999
+      }
+    },
+    {
+      "id": "dalespe99x-32",
+      "sourceId": 32,
+      "date": "2015-01-30",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Quincy Miller",
+      "participants": [
+        {
+          "name": "Quincy Miller",
+          "playerHref": "/players/m/millequ01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -6.1000000000000005,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6.1000000000000005,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -6.1000000000000005,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44669.29999999998,
+        "vorp": -7.099999999999999
+      }
+    },
+    {
+      "id": "dalespe99x-34",
+      "sourceId": 34,
+      "date": "2015-02-19",
+      "type": "trade",
+      "tenureTeam": "SAC",
+      "summary": "Added Andre Miller; Sent out Ramon Sessions",
+      "participants": [
+        {
+          "name": "Ramon Sessions",
+          "playerHref": "/players/s/sessira01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 805.5,
+            "vorp": -1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Andre Miller",
+          "playerHref": "/players/m/millean02.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -2239.2000000000003,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1433.7000000000003,
+        "vorp": -1.3
+      },
+      "categoryValues": {
+        "bpm": -1433.7000000000003,
+        "vorp": -1.3
+      },
+      "runningValues": {
+        "bpm": -46102.99999999998,
+        "vorp": -8.399999999999999
+      }
+    },
+    {
+      "id": "dalespe99x-35",
+      "sourceId": 35,
+      "date": "2015-02-20",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed David Stockton",
+      "participants": [
+        {
+          "name": "David Stockton",
+          "playerHref": "/players/s/stockda01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -128.7,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -128.7,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -128.7,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -46231.699999999975,
+        "vorp": -8.399999999999999
+      }
+    }
+  ]
+}

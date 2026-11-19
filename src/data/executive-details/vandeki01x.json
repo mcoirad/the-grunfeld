@@ -1,0 +1,2977 @@
+{
+  "slug": "vandeki01x",
+  "sourceRowCount": 133,
+  "tenures": [
+    {
+      "teamCode": "DEN",
+      "startDate": "2001-09-25",
+      "endDate": "2008-06-26"
+    },
+    {
+      "teamCode": "BRK",
+      "startDate": "2008-06-26",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "vandeki01x-0",
+      "sourceId": 0,
+      "date": "2001-09-25",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Kenny Satterfield",
+      "participants": [
+        {
+          "name": "Kenny Satterfield",
+          "playerHref": "/players/s/satteke01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -3724,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3724,
+        "vorp": -0.4
+      },
+      "categoryValues": {
+        "bpm": -3724,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -3724,
+        "vorp": -0.4
+      }
+    },
+    {
+      "id": "vandeki01x-1",
+      "sourceId": 1,
+      "date": "2001-09-29",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Zendon Hamilton",
+      "participants": [
+        {
+          "name": "Zendon Hamilton",
+          "playerHref": "/players/h/hamilze01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -4324.799999999999,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4324.799999999999,
+        "vorp": -0.7
+      },
+      "categoryValues": {
+        "bpm": -4324.799999999999,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": -8048.799999999999,
+        "vorp": -1.1
+      }
+    },
+    {
+      "id": "vandeki01x-2",
+      "sourceId": 2,
+      "date": "2001-10-01",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Isaiah Rider",
+      "participants": [
+        {
+          "name": "Isaiah Rider",
+          "playerHref": "/players/r/rideris01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -34.6,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -34.6,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": -34.6,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -8083.4,
+        "vorp": -1
+      }
+    },
+    {
+      "id": "vandeki01x-3",
+      "sourceId": 3,
+      "date": "2001-10-03",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Mengke Bateer",
+      "participants": [
+        {
+          "name": "Mengke Bateer",
+          "playerHref": "/players/b/bateeme01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -8083.4,
+        "vorp": -1
+      }
+    },
+    {
+      "id": "vandeki01x-4",
+      "sourceId": 4,
+      "date": "2001-10-13",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Shawnelle Scott",
+      "participants": [
+        {
+          "name": "Shawnelle Scott",
+          "playerHref": "/players/s/scottsh01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1234.8000000000002,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1234.8000000000002,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1234.8000000000002,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -9318.2,
+        "vorp": -1.2
+      }
+    },
+    {
+      "id": "vandeki01x-5",
+      "sourceId": 5,
+      "date": "2001-10-22",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Scott Williams and Josh Smith; Sent out Aleksandar Radojević and Kevin Willis",
+      "participants": [
+        {
+          "name": "Aleksandar Radojević",
+          "playerHref": "/players/r/radojal01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kevin Willis",
+          "playerHref": "/players/w/willike02.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Scott Williams",
+          "playerHref": "/players/w/willisc01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -3979.8,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Josh Smith",
+          "playerHref": "/players/s/smithjo03.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3979.8,
+        "vorp": -0.6
+      },
+      "categoryValues": {
+        "bpm": -3979.8,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": -13298,
+        "vorp": -1.7999999999999998
+      }
+    },
+    {
+      "id": "vandeki01x-6",
+      "sourceId": 6,
+      "date": "2001-11-21",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Chris Andersen",
+      "participants": [
+        {
+          "name": "Chris Andersen",
+          "playerHref": "/players/a/anderch01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 7388.400000000001,
+            "vorp": 5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 7388.400000000001,
+        "vorp": 5
+      },
+      "categoryValues": {
+        "bpm": 7388.400000000001,
+        "vorp": 5
+      },
+      "runningValues": {
+        "bpm": -5909.599999999999,
+        "vorp": 3.2
+      }
+    },
+    {
+      "id": "vandeki01x-7",
+      "sourceId": 7,
+      "date": "2002-02-21",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Tim Hardaway, Donnell Harvey, Juwan Howard, and Frank Williams; Sent out Tariq Abdul-Wahad, Avery Johnson, Raef LaFrentz, and Nick Van Exel",
+      "participants": [
+        {
+          "name": "Tariq Abdul-Wahad",
+          "playerHref": "/players/a/abdulta01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 416.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Avery Johnson",
+          "playerHref": "/players/j/johnsav01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 1984,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Raef LaFrentz",
+          "playerHref": "/players/l/lafrera01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -1438.8,
+            "vorp": -1.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Nick Van Exel",
+          "playerHref": "/players/v/vanexni01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -935.1,
+            "vorp": -1.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tim Hardaway",
+          "playerHref": "/players/h/hardati01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -65,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Donnell Harvey",
+          "playerHref": "/players/h/harvedo01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -4796.299999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Juwan Howard",
+          "playerHref": "/players/h/howarju01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 2446.0000000000005,
+            "vorp": 2.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Frank Williams",
+          "playerHref": "/players/w/willifr02.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2388.799999999999,
+        "vorp": -0.5
+      },
+      "categoryValues": {
+        "bpm": -2388.799999999999,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -8298.4,
+        "vorp": 2.7
+      }
+    },
+    {
+      "id": "vandeki01x-8",
+      "sourceId": 8,
+      "date": "2002-02-26",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Mengke Bateer",
+      "participants": [
+        {
+          "name": "Mengke Bateer",
+          "playerHref": "/players/b/bateeme01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -2978.4,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2978.4,
+        "vorp": -0.5
+      },
+      "categoryValues": {
+        "bpm": -2978.4,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -11276.8,
+        "vorp": 2.2
+      }
+    },
+    {
+      "id": "vandeki01x-9",
+      "sourceId": 9,
+      "date": "2002-03-07",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Carlos Arroyo",
+      "participants": [
+        {
+          "name": "Carlos Arroyo",
+          "playerHref": "/players/a/arroyca01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -770,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -770,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -770,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -12046.8,
+        "vorp": 2.1
+      }
+    },
+    {
+      "id": "vandeki01x-10",
+      "sourceId": 10,
+      "date": "2002-06-26",
+      "type": "draft",
+      "tenureTeam": "DEN",
+      "summary": "Drafted Nikoloz Tskitishvili, Frank Williams, and Vincent Yarbrough",
+      "participants": [
+        {
+          "name": "Nikoloz Tskitishvili",
+          "playerHref": "/players/t/tskitni01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -10519.5,
+            "vorp": -1.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Frank Williams",
+          "playerHref": "/players/w/willifr02.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Vincent Yarbrough",
+          "playerHref": "/players/y/yarbrvi01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -3314.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -13833.9,
+        "vorp": -1.9000000000000001
+      },
+      "categoryValues": {
+        "bpm": -13833.9,
+        "vorp": -1.9000000000000001
+      },
+      "runningValues": {
+        "bpm": -25880.7,
+        "vorp": 0.20000000000000004
+      }
+    },
+    {
+      "id": "vandeki01x-11",
+      "sourceId": 11,
+      "date": "2002-06-26",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Marcus Camby, Nenê, and Mark Jackson; Sent out Antonio McDyess, Frank Williams, and Maciej Lampe",
+      "participants": [
+        {
+          "name": "Antonio McDyess",
+          "playerHref": "/players/m/mcdyean01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 715.6999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Frank Williams",
+          "playerHref": "/players/w/willifr02.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 2738.6,
+            "vorp": 0.30000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Maciej Lampe",
+          "playerHref": "/players/l/lampema01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Marcus Camby",
+          "playerHref": "/players/c/cambyma01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 38970.5,
+            "vorp": 15.899999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Nenê",
+          "playerHref": "/players/h/hilarne01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 22346.899999999998,
+            "vorp": 13.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mark Jackson",
+          "playerHref": "/players/j/jacksma01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 64771.7,
+        "vorp": 30.1
+      },
+      "categoryValues": {
+        "bpm": 64771.7,
+        "vorp": 30.1
+      },
+      "runningValues": {
+        "bpm": 38891,
+        "vorp": 30.299999999999997
+      }
+    },
+    {
+      "id": "vandeki01x-12",
+      "sourceId": 12,
+      "date": "2002-07-18",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Predrag Savović",
+      "participants": [
+        {
+          "name": "Predrag Savović",
+          "playerHref": "/players/s/savovpr01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1331.2,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1331.2,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1331.2,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 37559.8,
+        "vorp": 30.099999999999998
+      }
+    },
+    {
+      "id": "vandeki01x-13",
+      "sourceId": 13,
+      "date": "2002-07-18",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Junior Harrington",
+      "participants": [
+        {
+          "name": "Junior Harrington",
+          "playerHref": "/players/h/harriju01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -10215.3,
+            "vorp": -1.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -10215.3,
+        "vorp": -1.5
+      },
+      "categoryValues": {
+        "bpm": -10215.3,
+        "vorp": -1.5
+      },
+      "runningValues": {
+        "bpm": 27344.500000000004,
+        "vorp": 28.599999999999998
+      }
+    },
+    {
+      "id": "vandeki01x-14",
+      "sourceId": 14,
+      "date": "2002-08-01",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Don Reid and Marcus Williams; Sent out Sergei Lishouk",
+      "participants": [
+        {
+          "name": "Sergei Lishouk",
+          "playerHref": "/players/l/lishcse01.html",
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Don Reid",
+          "playerHref": "/players/r/reiddo01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Marcus Williams",
+          "playerHref": "/players/w/willima03.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 27344.500000000004,
+        "vorp": 28.599999999999998
+      }
+    },
+    {
+      "id": "vandeki01x-15",
+      "sourceId": 15,
+      "date": "2002-08-08",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Mark Blount",
+      "participants": [
+        {
+          "name": "Mark Blount",
+          "playerHref": "/players/b/blounma01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -3274.5,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3274.5,
+        "vorp": -0.4
+      },
+      "categoryValues": {
+        "bpm": -3274.5,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": 24070.000000000004,
+        "vorp": 28.2
+      }
+    },
+    {
+      "id": "vandeki01x-16",
+      "sourceId": 16,
+      "date": "2002-08-27",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Darrick Martin",
+      "participants": [
+        {
+          "name": "Darrick Martin",
+          "playerHref": "/players/m/martida01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 24070.000000000004,
+        "vorp": 28.2
+      }
+    },
+    {
+      "id": "vandeki01x-17",
+      "sourceId": 17,
+      "date": "2002-10-01",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Rodney White; Sent out Mengke Bateer, Don Reid, and Josh Smith",
+      "participants": [
+        {
+          "name": "Mengke Bateer",
+          "playerHref": "/players/b/bateeme01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Don Reid",
+          "playerHref": "/players/r/reiddo01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 272,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Josh Smith",
+          "playerHref": "/players/s/smithjo03.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 840,
+            "vorp": -1.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rodney White",
+          "playerHref": "/players/w/whitero02.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -5922.3,
+            "vorp": -0.19999999999999996
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4810.3,
+        "vorp": -1.7
+      },
+      "categoryValues": {
+        "bpm": -4810.3,
+        "vorp": -1.7
+      },
+      "runningValues": {
+        "bpm": 19259.700000000004,
+        "vorp": 26.5
+      }
+    },
+    {
+      "id": "vandeki01x-18",
+      "sourceId": 18,
+      "date": "2002-10-24",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Chris Whitney; Sent out George McCloud",
+      "participants": [
+        {
+          "name": "George McCloud",
+          "playerHref": "/players/m/mccloge01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chris Whitney",
+          "playerHref": "/players/w/whitnch01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -2667,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2667,
+        "vorp": -0.3
+      },
+      "categoryValues": {
+        "bpm": -2667,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": 16592.700000000004,
+        "vorp": 26.2
+      }
+    },
+    {
+      "id": "vandeki01x-19",
+      "sourceId": 19,
+      "date": "2002-12-18",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Vassilis Spanoulis, Mark Bryant, Art Long, and Joey Graham; Sent out James Posey",
+      "participants": [
+        {
+          "name": "James Posey",
+          "playerHref": "/players/p/poseyja01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -1316.8000000000002,
+            "vorp": -1.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Vassilis Spanoulis",
+          "playerHref": "/players/s/spanova01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -1604.8000000000002,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mark Bryant",
+          "playerHref": "/players/b/bryanma01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -716.1,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Art Long",
+          "playerHref": "/players/l/longar01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -825.3,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Joey Graham",
+          "playerHref": "/players/g/grahajo01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4463,
+        "vorp": -1.7000000000000002
+      },
+      "categoryValues": {
+        "bpm": -4463,
+        "vorp": -1.7000000000000002
+      },
+      "runningValues": {
+        "bpm": 12129.700000000006,
+        "vorp": 24.499999999999996
+      }
+    },
+    {
+      "id": "vandeki01x-20",
+      "sourceId": 20,
+      "date": "2002-12-22",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed John Crotty",
+      "participants": [
+        {
+          "name": "John Crotty",
+          "playerHref": "/players/c/crottjo01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 12129.700000000006,
+        "vorp": 24.499999999999996
+      }
+    },
+    {
+      "id": "vandeki01x-21",
+      "sourceId": 21,
+      "date": "2003-01-08",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed John Crotty",
+      "participants": [
+        {
+          "name": "John Crotty",
+          "playerHref": "/players/c/crottjo01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -990,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -990,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -990,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 11139.700000000006,
+        "vorp": 24.299999999999997
+      }
+    },
+    {
+      "id": "vandeki01x-22",
+      "sourceId": 22,
+      "date": "2003-02-20",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Shammond Williams and Sani Bečirovič; Sent out Mark Blount and Mark Bryant",
+      "participants": [
+        {
+          "name": "Mark Blount",
+          "playerHref": "/players/b/blounma01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 10400.5,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mark Bryant",
+          "playerHref": "/players/b/bryanma01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 85.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Shammond Williams",
+          "playerHref": "/players/w/willish01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1352.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sani Bečirovič",
+          "playerHref": "/players/b/becirsa01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 9133.2,
+        "vorp": -0.4
+      },
+      "categoryValues": {
+        "bpm": 9133.2,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": 20272.900000000005,
+        "vorp": 23.9
+      }
+    },
+    {
+      "id": "vandeki01x-23",
+      "sourceId": 23,
+      "date": "2003-03-23",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Jeff Trepagnier",
+      "participants": [
+        {
+          "name": "Jeff Trepagnier",
+          "playerHref": "/players/t/trepaje01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -659.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -659.5,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -659.5,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 19613.400000000005,
+        "vorp": 23.799999999999997
+      }
+    },
+    {
+      "id": "vandeki01x-24",
+      "sourceId": 24,
+      "date": "2003-03-23",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Adam Harrington",
+      "participants": [
+        {
+          "name": "Adam Harrington",
+          "playerHref": "/players/h/harriad01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -170.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -170.2,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -170.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 19443.200000000004,
+        "vorp": 23.799999999999997
+      }
+    },
+    {
+      "id": "vandeki01x-25",
+      "sourceId": 25,
+      "date": "2003-04-04",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Devin Brown",
+      "participants": [
+        {
+          "name": "Devin Brown",
+          "playerHref": "/players/b/brownde02.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -461.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -461.5,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -461.5,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 18981.700000000004,
+        "vorp": 23.699999999999996
+      }
+    },
+    {
+      "id": "vandeki01x-26",
+      "sourceId": 26,
+      "date": "2003-06-23",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Xue Yuyang; Sent out Vassilis Spanoulis",
+      "participants": [
+        {
+          "name": "Vassilis Spanoulis",
+          "playerHref": "/players/s/spanova01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Xue Yuyang",
+          "playerHref": "/players/y/yuyanxu01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 18981.700000000004,
+        "vorp": 23.699999999999996
+      }
+    },
+    {
+      "id": "vandeki01x-27",
+      "sourceId": 27,
+      "date": "2003-06-26",
+      "type": "draft",
+      "tenureTeam": "DEN",
+      "summary": "Drafted Carmelo Anthony and Sani Bečirovič",
+      "participants": [
+        {
+          "name": "Carmelo Anthony",
+          "playerHref": "/players/a/anthoca01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 24003.9,
+            "vorp": 16.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sani Bečirovič",
+          "playerHref": "/players/b/becirsa01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 24003.9,
+        "vorp": 16.6
+      },
+      "categoryValues": {
+        "bpm": 24003.9,
+        "vorp": 16.6
+      },
+      "runningValues": {
+        "bpm": 42985.600000000006,
+        "vorp": 40.3
+      }
+    },
+    {
+      "id": "vandeki01x-28",
+      "sourceId": 28,
+      "date": "2003-08-01",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Andre Miller",
+      "participants": [
+        {
+          "name": "Andre Miller",
+          "playerHref": "/players/m/millean02.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 12173.5,
+            "vorp": 10.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 12173.5,
+        "vorp": 10.1
+      },
+      "categoryValues": {
+        "bpm": 12173.5,
+        "vorp": 10.1
+      },
+      "runningValues": {
+        "bpm": 55159.100000000006,
+        "vorp": 50.4
+      }
+    },
+    {
+      "id": "vandeki01x-29",
+      "sourceId": 29,
+      "date": "2003-08-18",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Earl Boykins",
+      "participants": [
+        {
+          "name": "Earl Boykins",
+          "playerHref": "/players/b/boykiea01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 4784.1,
+            "vorp": 4.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4784.1,
+        "vorp": 4.4
+      },
+      "categoryValues": {
+        "bpm": 4784.1,
+        "vorp": 4.4
+      },
+      "runningValues": {
+        "bpm": 59943.200000000004,
+        "vorp": 54.8
+      }
+    },
+    {
+      "id": "vandeki01x-30",
+      "sourceId": 30,
+      "date": "2003-08-19",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Jon Barry",
+      "participants": [
+        {
+          "name": "Jon Barry",
+          "playerHref": "/players/b/barryjo01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 2202,
+            "vorp": 1.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2202,
+        "vorp": 1.1
+      },
+      "categoryValues": {
+        "bpm": 2202,
+        "vorp": 1.1
+      },
+      "runningValues": {
+        "bpm": 62145.200000000004,
+        "vorp": 55.9
+      }
+    },
+    {
+      "id": "vandeki01x-31",
+      "sourceId": 31,
+      "date": "2003-09-12",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Voshon Lenard",
+      "participants": [
+        {
+          "name": "Voshon Lenard",
+          "playerHref": "/players/l/lenarvo01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -3533,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3533,
+        "vorp": 0.3
+      },
+      "categoryValues": {
+        "bpm": -3533,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": 58612.200000000004,
+        "vorp": 56.199999999999996
+      }
+    },
+    {
+      "id": "vandeki01x-32",
+      "sourceId": 32,
+      "date": "2003-09-20",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Mark Pope",
+      "participants": [
+        {
+          "name": "Mark Pope",
+          "playerHref": "/players/p/popema01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -306,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -306,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -306,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 58306.200000000004,
+        "vorp": 56.099999999999994
+      }
+    },
+    {
+      "id": "vandeki01x-33",
+      "sourceId": 33,
+      "date": "2003-09-24",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Yuta Tabuse",
+      "participants": [
+        {
+          "name": "Yuta Tabuse",
+          "playerHref": "/players/t/tabusyu01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 58306.200000000004,
+        "vorp": 56.099999999999994
+      }
+    },
+    {
+      "id": "vandeki01x-34",
+      "sourceId": 34,
+      "date": "2004-02-20",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Michael Doleac",
+      "participants": [
+        {
+          "name": "Michael Doleac",
+          "playerHref": "/players/d/doleami01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1444.8,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1444.8,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1444.8,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 56861.4,
+        "vorp": 55.89999999999999
+      }
+    },
+    {
+      "id": "vandeki01x-35",
+      "sourceId": 35,
+      "date": "2004-06-24",
+      "type": "draft",
+      "tenureTeam": "DEN",
+      "summary": "Drafted Jameer Nelson",
+      "participants": [
+        {
+          "name": "Jameer Nelson",
+          "playerHref": "/players/n/nelsoja01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -7268.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -7268.2,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -7268.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 49593.200000000004,
+        "vorp": 55.89999999999999
+      }
+    },
+    {
+      "id": "vandeki01x-36",
+      "sourceId": 36,
+      "date": "2004-06-24",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Julius Hodge; Sent out Jameer Nelson",
+      "participants": [
+        {
+          "name": "Jameer Nelson",
+          "playerHref": "/players/n/nelsoja01.html",
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -8261.8,
+            "vorp": -11.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Julius Hodge",
+          "playerHref": "/players/h/hodgeju01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -8261.8,
+        "vorp": -11.7
+      },
+      "categoryValues": {
+        "bpm": -8261.8,
+        "vorp": -11.7
+      },
+      "runningValues": {
+        "bpm": 41331.40000000001,
+        "vorp": 44.19999999999999
+      }
+    },
+    {
+      "id": "vandeki01x-37",
+      "sourceId": 37,
+      "date": "2004-07-15",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Kenyon Martin; Sent out Joey Graham, Renaldo Balkman, and Marcus Williams",
+      "participants": [
+        {
+          "name": "Joey Graham",
+          "playerHref": "/players/g/grahajo01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Renaldo Balkman",
+          "playerHref": "/players/b/balkmre01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Marcus Williams",
+          "playerHref": "/players/w/willima03.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 6915.1,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kenyon Martin",
+          "playerHref": "/players/m/martike01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 620.8999999999999,
+            "vorp": 5.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 7536,
+        "vorp": 6.5
+      },
+      "categoryValues": {
+        "bpm": 7536,
+        "vorp": 6.5
+      },
+      "runningValues": {
+        "bpm": 48867.40000000001,
+        "vorp": 50.69999999999999
+      }
+    },
+    {
+      "id": "vandeki01x-38",
+      "sourceId": 38,
+      "date": "2004-10-04",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Greg Buckner",
+      "participants": [
+        {
+          "name": "Greg Buckner",
+          "playerHref": "/players/b/buckngr01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 3009.7999999999997,
+            "vorp": 2.4000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3009.7999999999997,
+        "vorp": 2.4000000000000004
+      },
+      "categoryValues": {
+        "bpm": 3009.7999999999997,
+        "vorp": 2.4000000000000004
+      },
+      "runningValues": {
+        "bpm": 51877.20000000001,
+        "vorp": 53.09999999999999
+      }
+    },
+    {
+      "id": "vandeki01x-39",
+      "sourceId": 39,
+      "date": "2004-10-05",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Mark Pope",
+      "participants": [
+        {
+          "name": "Mark Pope",
+          "playerHref": "/players/p/popema01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 51877.20000000001,
+        "vorp": 53.09999999999999
+      }
+    },
+    {
+      "id": "vandeki01x-40",
+      "sourceId": 40,
+      "date": "2004-10-05",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Rodney White",
+      "participants": [
+        {
+          "name": "Rodney White",
+          "playerHref": "/players/w/whitero02.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 477.90000000000003,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 477.90000000000003,
+        "vorp": 0.4
+      },
+      "categoryValues": {
+        "bpm": 477.90000000000003,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": 52355.10000000001,
+        "vorp": 53.499999999999986
+      }
+    },
+    {
+      "id": "vandeki01x-41",
+      "sourceId": 41,
+      "date": "2004-10-05",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Arthur Johnson",
+      "participants": [
+        {
+          "name": "Arthur Johnson",
+          "playerHref": "/players/j/johnsar05.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 52355.10000000001,
+        "vorp": 53.499999999999986
+      }
+    },
+    {
+      "id": "vandeki01x-42",
+      "sourceId": 42,
+      "date": "2004-10-06",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Bryon Russell",
+      "participants": [
+        {
+          "name": "Bryon Russell",
+          "playerHref": "/players/r/russebr01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 513,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 513,
+        "vorp": 0.7
+      },
+      "categoryValues": {
+        "bpm": 513,
+        "vorp": 0.7
+      },
+      "runningValues": {
+        "bpm": 52868.10000000001,
+        "vorp": 54.19999999999999
+      }
+    },
+    {
+      "id": "vandeki01x-43",
+      "sourceId": 43,
+      "date": "2004-10-18",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed DerMarr Johnson",
+      "participants": [
+        {
+          "name": "DerMarr Johnson",
+          "playerHref": "/players/j/johnsde03.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -2171.2999999999997,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2171.2999999999997,
+        "vorp": 0.8
+      },
+      "categoryValues": {
+        "bpm": -2171.2999999999997,
+        "vorp": 0.8
+      },
+      "runningValues": {
+        "bpm": 50696.80000000001,
+        "vorp": 54.999999999999986
+      }
+    },
+    {
+      "id": "vandeki01x-45",
+      "sourceId": 45,
+      "date": "2005-02-15",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Mark Pope",
+      "participants": [
+        {
+          "name": "Mark Pope",
+          "playerHref": "/players/p/popema01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -132.3,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -132.3,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -132.3,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 50564.50000000001,
+        "vorp": 54.999999999999986
+      }
+    },
+    {
+      "id": "vandeki01x-46",
+      "sourceId": 46,
+      "date": "2005-02-24",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Luis Flores, Eduardo Nájera, and Petteri Koponen; Sent out Nikoloz Tskitishvili and Rodney White",
+      "participants": [
+        {
+          "name": "Nikoloz Tskitishvili",
+          "playerHref": "/players/t/tskitni01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 477.40000000000003,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rodney White",
+          "playerHref": "/players/w/whitero02.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 1168,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Luis Flores",
+          "playerHref": "/players/f/florelu01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 81.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eduardo Nájera",
+          "playerHref": "/players/n/najered01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -3215.5,
+            "vorp": 1.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Petteri Koponen",
+          "playerHref": "/players/k/koponpe01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1488.5,
+        "vorp": 2.2
+      },
+      "categoryValues": {
+        "bpm": -1488.5,
+        "vorp": 2.2
+      },
+      "runningValues": {
+        "bpm": 49076.00000000001,
+        "vorp": 57.19999999999999
+      }
+    },
+    {
+      "id": "vandeki01x-47",
+      "sourceId": 47,
+      "date": "2005-03-03",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Wesley Person",
+      "participants": [
+        {
+          "name": "Wesley Person",
+          "playerHref": "/players/p/persowe01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 461,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 461,
+        "vorp": 0.4
+      },
+      "categoryValues": {
+        "bpm": 461,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": 49537.00000000001,
+        "vorp": 57.59999999999999
+      }
+    },
+    {
+      "id": "vandeki01x-48",
+      "sourceId": 48,
+      "date": "2005-06-28",
+      "type": "draft",
+      "tenureTeam": "DEN",
+      "summary": "Drafted Julius Hodge, Jarrett Jack, and Axel Hervelle",
+      "participants": [
+        {
+          "name": "Julius Hodge",
+          "playerHref": "/players/h/hodgeju01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -268.1,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jarrett Jack",
+          "playerHref": "/players/j/jackja01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Axel Hervelle",
+          "playerHref": "/players/h/herveax01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -268.1,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -268.1,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 49268.90000000001,
+        "vorp": 57.499999999999986
+      }
+    },
+    {
+      "id": "vandeki01x-49",
+      "sourceId": 49,
+      "date": "2005-06-28",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Linas Kleiza and Ricky Sánchez; Sent out Jarrett Jack",
+      "participants": [
+        {
+          "name": "Jarrett Jack",
+          "playerHref": "/players/j/jackja01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 9487.4,
+            "vorp": -0.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Linas Kleiza",
+          "playerHref": "/players/k/kleizli01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -9927.6,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ricky Sánchez",
+          "playerHref": "/players/s/sanchri01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -440.2000000000007,
+        "vorp": -0.6000000000000001
+      },
+      "categoryValues": {
+        "bpm": -440.2000000000007,
+        "vorp": -0.6000000000000001
+      },
+      "runningValues": {
+        "bpm": 48828.70000000001,
+        "vorp": 56.899999999999984
+      }
+    },
+    {
+      "id": "vandeki01x-50",
+      "sourceId": 50,
+      "date": "2005-07-07",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Earl Watson",
+      "participants": [
+        {
+          "name": "Earl Watson",
+          "playerHref": "/players/w/watsoea01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -97.5,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -97.5,
+        "vorp": 0.4
+      },
+      "categoryValues": {
+        "bpm": -97.5,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": 48731.20000000001,
+        "vorp": 57.29999999999998
+      }
+    },
+    {
+      "id": "vandeki01x-51",
+      "sourceId": 51,
+      "date": "2005-08-18",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Luke Schenscher",
+      "participants": [
+        {
+          "name": "Luke Schenscher",
+          "playerHref": "/players/s/schenlu01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 48731.20000000001,
+        "vorp": 57.29999999999998
+      }
+    },
+    {
+      "id": "vandeki01x-52",
+      "sourceId": 52,
+      "date": "2005-10-03",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Nigel Dixon",
+      "participants": [
+        {
+          "name": "Nigel Dixon",
+          "playerHref": "/players/d/dixonni01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 48731.20000000001,
+        "vorp": 57.29999999999998
+      }
+    },
+    {
+      "id": "vandeki01x-53",
+      "sourceId": 53,
+      "date": "2005-10-03",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Mark Pope",
+      "participants": [
+        {
+          "name": "Mark Pope",
+          "playerHref": "/players/p/popema01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 48731.20000000001,
+        "vorp": 57.29999999999998
+      }
+    },
+    {
+      "id": "vandeki01x-54",
+      "sourceId": 54,
+      "date": "2005-10-03",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Theron Smith",
+      "participants": [
+        {
+          "name": "Theron Smith",
+          "playerHref": "/players/s/smithth01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 48731.20000000001,
+        "vorp": 57.29999999999998
+      }
+    },
+    {
+      "id": "vandeki01x-55",
+      "sourceId": 55,
+      "date": "2005-10-03",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Bryon Russell",
+      "participants": [
+        {
+          "name": "Bryon Russell",
+          "playerHref": "/players/r/russebr01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 24.599999999999998,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 24.599999999999998,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 24.599999999999998,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 48755.80000000001,
+        "vorp": 57.29999999999998
+      }
+    },
+    {
+      "id": "vandeki01x-56",
+      "sourceId": 56,
+      "date": "2005-10-04",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Eric Chenowith",
+      "participants": [
+        {
+          "name": "Eric Chenowith",
+          "playerHref": "/players/c/chenoer01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 48755.80000000001,
+        "vorp": 57.29999999999998
+      }
+    },
+    {
+      "id": "vandeki01x-57",
+      "sourceId": 57,
+      "date": "2006-02-23",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Ruben Patterson, Charles Smith, and Reggie Evans; Sent out Bryon Russell, Earl Watson, DeVon Hardin, and Voshon Lenard",
+      "participants": [
+        {
+          "name": "Bryon Russell",
+          "playerHref": "/players/r/russebr01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Earl Watson",
+          "playerHref": "/players/w/watsoea01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 3126.4,
+            "vorp": -1.7000000000000002
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "DeVon Hardin",
+          "playerHref": "/players/h/hardide01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Voshon Lenard",
+          "playerHref": "/players/l/lenarvo01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 594,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ruben Patterson",
+          "playerHref": "/players/p/patteru01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -528,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Charles Smith",
+          "playerHref": "/players/s/smithch04.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -291.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Reggie Evans",
+          "playerHref": "/players/e/evansre01.html",
+          "direction": "in",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": -2206.3999999999996,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 694.8000000000006,
+        "vorp": -1.5000000000000002
+      },
+      "categoryValues": {
+        "bpm": 694.8000000000006,
+        "vorp": -1.5000000000000002
+      },
+      "runningValues": {
+        "bpm": 49450.60000000001,
+        "vorp": 55.799999999999976
+      }
+    },
+    {
+      "id": "vandeki01x-58",
+      "sourceId": 58,
+      "date": "2006-03-03",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Howard Eisley",
+      "participants": [
+        {
+          "name": "Howard Eisley",
+          "playerHref": "/players/e/eisleho01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -817.8,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -817.8,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -817.8,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 48632.80000000001,
+        "vorp": 55.699999999999974
+      }
+    },
+    {
+      "id": "vandeki01x-59",
+      "sourceId": 59,
+      "date": "2008-06-26",
+      "type": "draft",
+      "tenureTeam": "BRK",
+      "summary": "Drafted Brook Lopez, Ryan Anderson, and Chris Douglas-Roberts",
+      "participants": [
+        {
+          "name": "Brook Lopez",
+          "playerHref": "/players/l/lopezbr01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 23743.2,
+            "vorp": 15.200000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ryan Anderson",
+          "playerHref": "/players/a/anderry01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -1443.2,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chris Douglas-Roberts",
+          "playerHref": "/players/d/douglch01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -6998.5,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 15301.5,
+        "vorp": 14.900000000000002
+      },
+      "categoryValues": {
+        "bpm": 15301.5,
+        "vorp": 14.900000000000002
+      },
+      "runningValues": {
+        "bpm": 63934.30000000002,
+        "vorp": 70.59999999999998
+      }
+    },
+    {
+      "id": "vandeki01x-60",
+      "sourceId": 60,
+      "date": "2008-06-26",
+      "type": "trade",
+      "tenureTeam": "BRK",
+      "summary": "Added Yi Jianlian and Bobby Simmons; Sent out Richard Jefferson",
+      "participants": [
+        {
+          "name": "Richard Jefferson",
+          "playerHref": "/players/j/jefferi01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -587.8000000000001,
+            "vorp": -1.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Yi Jianlian",
+          "playerHref": "/players/j/jianlyi01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -12019.8,
+            "vorp": -1.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bobby Simmons",
+          "playerHref": "/players/s/simmobo01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -1382.5,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -13990.099999999999,
+        "vorp": -2.4000000000000004
+      },
+      "categoryValues": {
+        "bpm": -13990.099999999999,
+        "vorp": -2.4000000000000004
+      },
+      "runningValues": {
+        "bpm": 49944.20000000001,
+        "vorp": 68.19999999999999
+      }
+    },
+    {
+      "id": "vandeki01x-61",
+      "sourceId": 61,
+      "date": "2008-07-16",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Jarvis Hayes",
+      "participants": [
+        {
+          "name": "Jarvis Hayes",
+          "playerHref": "/players/h/hayesja01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -6739.6,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6739.6,
+        "vorp": -0.30000000000000004
+      },
+      "categoryValues": {
+        "bpm": -6739.6,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": 43204.60000000001,
+        "vorp": 67.89999999999999
+      }
+    },
+    {
+      "id": "vandeki01x-62",
+      "sourceId": 62,
+      "date": "2008-07-16",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Eduardo Nájera",
+      "participants": [
+        {
+          "name": "Eduardo Nájera",
+          "playerHref": "/players/n/najered01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -2391.7,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2391.7,
+        "vorp": -0.4
+      },
+      "categoryValues": {
+        "bpm": -2391.7,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": 40812.900000000016,
+        "vorp": 67.49999999999999
+      }
+    },
+    {
+      "id": "vandeki01x-63",
+      "sourceId": 63,
+      "date": "2008-07-21",
+      "type": "trade",
+      "tenureTeam": "BRK",
+      "summary": "Added Keyon Dooling",
+      "participants": [
+        {
+          "name": "Keyon Dooling",
+          "playerHref": "/players/d/doolike01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -3755.7999999999997,
+            "vorp": 0.49999999999999994
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3755.7999999999997,
+        "vorp": 0.49999999999999994
+      },
+      "categoryValues": {
+        "bpm": -3755.7999999999997,
+        "vorp": 0.49999999999999994
+      },
+      "runningValues": {
+        "bpm": 37057.10000000001,
+        "vorp": 67.99999999999999
+      }
+    },
+    {
+      "id": "vandeki01x-64",
+      "sourceId": 64,
+      "date": "2008-07-22",
+      "type": "trade",
+      "tenureTeam": "BRK",
+      "summary": "Added Darius Morris and Gorgui Dieng; Sent out Marcus Williams",
+      "participants": [
+        {
+          "name": "Marcus Williams",
+          "playerHref": "/players/w/willima03.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 437.4,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Darius Morris",
+          "playerHref": "/players/m/morrida01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -1883.7,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Gorgui Dieng",
+          "playerHref": "/players/d/dienggo01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1446.3000000000002,
+        "vorp": -0.19999999999999998
+      },
+      "categoryValues": {
+        "bpm": -1446.3000000000002,
+        "vorp": -0.19999999999999998
+      },
+      "runningValues": {
+        "bpm": 35610.80000000002,
+        "vorp": 67.79999999999998
+      }
+    },
+    {
+      "id": "vandeki01x-65",
+      "sourceId": 65,
+      "date": "2008-09-27",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Eddie Gill",
+      "participants": [
+        {
+          "name": "Eddie Gill",
+          "playerHref": "/players/g/gilled01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 35610.80000000002,
+        "vorp": 67.79999999999998
+      }
+    },
+    {
+      "id": "vandeki01x-66",
+      "sourceId": 66,
+      "date": "2009-06-25",
+      "type": "draft",
+      "tenureTeam": "BRK",
+      "summary": "Drafted Terrence Williams",
+      "participants": [
+        {
+          "name": "Terrence Williams",
+          "playerHref": "/players/w/willite01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -6051.6,
+            "vorp": -0.6000000000000001
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6051.6,
+        "vorp": -0.6000000000000001
+      },
+      "categoryValues": {
+        "bpm": -6051.6,
+        "vorp": -0.6000000000000001
+      },
+      "runningValues": {
+        "bpm": 29559.20000000002,
+        "vorp": 67.19999999999999
+      }
+    },
+    {
+      "id": "vandeki01x-67",
+      "sourceId": 67,
+      "date": "2009-06-25",
+      "type": "trade",
+      "tenureTeam": "BRK",
+      "summary": "Added Rafer Alston, Tony Battie, and Courtney Lee; Sent out Ryan Anderson and Vince Carter",
+      "participants": [
+        {
+          "name": "Ryan Anderson",
+          "playerHref": "/players/a/anderry01.html",
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -16501.699999999997,
+            "vorp": -6.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Vince Carter",
+          "playerHref": "/players/c/cartevi01.html",
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -5584.2,
+            "vorp": -2.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rafer Alston",
+          "playerHref": "/players/a/alstora01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -3064,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tony Battie",
+          "playerHref": "/players/b/battito01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -1058.6000000000001,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Courtney Lee",
+          "playerHref": "/players/l/leeco01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -3325,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -29533.499999999996,
+        "vorp": -9.399999999999999
+      },
+      "categoryValues": {
+        "bpm": -29533.499999999996,
+        "vorp": -9.399999999999999
+      },
+      "runningValues": {
+        "bpm": 25.700000000021646,
+        "vorp": 57.79999999999999
+      }
+    },
+    {
+      "id": "vandeki01x-68",
+      "sourceId": 68,
+      "date": "2010-01-05",
+      "type": "trade",
+      "tenureTeam": "BRK",
+      "summary": "Added Chris Quinn",
+      "participants": [
+        {
+          "name": "Chris Quinn",
+          "playerHref": "/players/q/quinnch01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -557.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -557.5,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -557.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -531.7999999999784,
+        "vorp": 57.79999999999999
+      }
+    },
+    {
+      "id": "vandeki01x-69",
+      "sourceId": 69,
+      "date": "2010-01-11",
+      "type": "trade",
+      "tenureTeam": "BRK",
+      "summary": "Added Kris Humphries and Shawne Williams; Sent out Eduardo Nájera",
+      "participants": [
+        {
+          "name": "Eduardo Nájera",
+          "playerHref": "/players/n/najered01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 1106.3,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kris Humphries",
+          "playerHref": "/players/h/humphkr01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -7746.299999999999,
+            "vorp": 1.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Shawne Williams",
+          "playerHref": "/players/w/willish03.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -3238.2,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -9878.199999999999,
+        "vorp": 0.7000000000000001
+      },
+      "categoryValues": {
+        "bpm": -9878.199999999999,
+        "vorp": 0.7000000000000001
+      },
+      "runningValues": {
+        "bpm": -10409.999999999978,
+        "vorp": 58.499999999999986
+      }
+    }
+  ]
+}

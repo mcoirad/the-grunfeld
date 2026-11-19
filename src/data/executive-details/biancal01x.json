@@ -1,0 +1,959 @@
+{
+  "slug": "biancal01x",
+  "sourceRowCount": 39,
+  "tenures": [
+    {
+      "teamCode": "NYK",
+      "startDate": "1987-10-09",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "biancal01x-1",
+      "sourceId": 1,
+      "date": "1987-10-09",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed Ray Tolbert",
+      "participants": [
+        {
+          "name": "Ray Tolbert",
+          "playerHref": "/players/t/tolbera01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -424.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -424.8,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -424.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -424.8,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "biancal01x-2",
+      "sourceId": 2,
+      "date": "1987-10-15",
+      "type": "trade",
+      "tenureTeam": "NYK",
+      "summary": "Added Fennis Dembo; Sent out Jawann Oldham",
+      "participants": [
+        {
+          "name": "Jawann Oldham",
+          "playerHref": "/players/o/oldhaja01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 1797.3999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Fennis Dembo",
+          "playerHref": "/players/d/dembofe01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1797.3999999999999,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 1797.3999999999999,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 1372.6,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "biancal01x-3",
+      "sourceId": 3,
+      "date": "1987-10-29",
+      "type": "trade",
+      "tenureTeam": "NYK",
+      "summary": "Added Sidney Green; Sent out Ron Moore and Fennis Dembo",
+      "participants": [
+        {
+          "name": "Ron Moore",
+          "playerHref": "/players/m/moorero01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 335,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Fennis Dembo",
+          "playerHref": "/players/d/dembofe01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 799.2,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sidney Green",
+          "playerHref": "/players/g/greensi02.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -10132.4,
+            "vorp": -0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -8998.199999999999,
+        "vorp": -0.5
+      },
+      "categoryValues": {
+        "bpm": -8998.199999999999,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -7625.599999999999,
+        "vorp": -0.5
+      }
+    },
+    {
+      "id": "biancal01x-4",
+      "sourceId": 4,
+      "date": "1987-11-12",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed Johnny Newman",
+      "participants": [
+        {
+          "name": "Johnny Newman",
+          "playerHref": "/players/n/newmajo01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -2954.2,
+            "vorp": 2.4000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2954.2,
+        "vorp": 2.4000000000000004
+      },
+      "categoryValues": {
+        "bpm": -2954.2,
+        "vorp": 2.4000000000000004
+      },
+      "runningValues": {
+        "bpm": -10579.8,
+        "vorp": 1.9000000000000004
+      }
+    },
+    {
+      "id": "biancal01x-5",
+      "sourceId": 5,
+      "date": "1987-11-12",
+      "type": "trade",
+      "tenureTeam": "NYK",
+      "summary": "Added Greg Butler; Sent out Rory Sparrow",
+      "participants": [
+        {
+          "name": "Rory Sparrow",
+          "playerHref": "/players/s/sparrro01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 4072,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Greg Butler",
+          "playerHref": "/players/b/butlegr01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4072,
+        "vorp": 0.5
+      },
+      "categoryValues": {
+        "bpm": 4072,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": -6507.799999999999,
+        "vorp": 2.4000000000000004
+      }
+    },
+    {
+      "id": "biancal01x-6",
+      "sourceId": 6,
+      "date": "1987-11-30",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed Rick Carlisle",
+      "participants": [
+        {
+          "name": "Rick Carlisle",
+          "playerHref": "/players/c/carliri01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -306,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -306,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -306,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -6813.799999999999,
+        "vorp": 2.4000000000000004
+      }
+    },
+    {
+      "id": "biancal01x-7",
+      "sourceId": 7,
+      "date": "1987-12-11",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed Billy Donovan",
+      "participants": [
+        {
+          "name": "Billy Donovan",
+          "playerHref": "/players/d/donovbi01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -1346.8,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1346.8,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1346.8,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -8160.599999999999,
+        "vorp": 2.2
+      }
+    },
+    {
+      "id": "biancal01x-8",
+      "sourceId": 8,
+      "date": "1988-03-02",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed Carey Scurry",
+      "participants": [
+        {
+          "name": "Carey Scurry",
+          "playerHref": "/players/s/scurrca01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 50.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 50.4,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 50.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -8110.2,
+        "vorp": 2.2
+      }
+    },
+    {
+      "id": "biancal01x-9",
+      "sourceId": 9,
+      "date": "1988-03-13",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed Sedric Toney",
+      "participants": [
+        {
+          "name": "Sedric Toney",
+          "playerHref": "/players/t/toneyse01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -8110.2,
+        "vorp": 2.2
+      }
+    },
+    {
+      "id": "biancal01x-10",
+      "sourceId": 10,
+      "date": "1988-03-23",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed Sedric Toney",
+      "participants": [
+        {
+          "name": "Sedric Toney",
+          "playerHref": "/players/t/toneyse01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -83.39999999999999,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -83.39999999999999,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": -83.39999999999999,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -8193.6,
+        "vorp": 2.3000000000000003
+      }
+    },
+    {
+      "id": "biancal01x-11",
+      "sourceId": 11,
+      "date": "1988-06-27",
+      "type": "trade",
+      "tenureTeam": "NYK",
+      "summary": "Added Charles Oakley, Rod Strickland, and Phil Stinnie; Sent out Bill Cartwright, Will Perdue, and Derrick Lewis",
+      "participants": [
+        {
+          "name": "Bill Cartwright",
+          "playerHref": "/players/c/cartwbi01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 35538.4,
+            "vorp": 3.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Will Perdue",
+          "playerHref": "/players/p/perduwi01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 20799.5,
+            "vorp": 1.7000000000000002
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Derrick Lewis",
+          "playerHref": "/players/l/lewisde01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Charles Oakley",
+          "playerHref": "/players/o/oaklech01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 11201.699999999997,
+            "vorp": 14.699999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rod Strickland",
+          "playerHref": "/players/s/stricro02.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Phil Stinnie",
+          "playerHref": "/players/s/stinnph01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 67539.6,
+        "vorp": 20.199999999999996
+      },
+      "categoryValues": {
+        "bpm": 67539.6,
+        "vorp": 20.199999999999996
+      },
+      "runningValues": {
+        "bpm": 59346,
+        "vorp": 22.499999999999996
+      }
+    },
+    {
+      "id": "biancal01x-12",
+      "sourceId": 12,
+      "date": "1988-06-28",
+      "type": "draft",
+      "tenureTeam": "NYK",
+      "summary": "Drafted Rod Strickland, Greg Butler, and Phil Stinnie",
+      "participants": [
+        {
+          "name": "Rod Strickland",
+          "playerHref": "/players/s/stricro02.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 4210.400000000001,
+            "vorp": 2.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Greg Butler",
+          "playerHref": "/players/b/butlegr01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -2017.9,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Phil Stinnie",
+          "playerHref": "/players/s/stinnph01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2192.5000000000005,
+        "vorp": 1.8000000000000003
+      },
+      "categoryValues": {
+        "bpm": 2192.5000000000005,
+        "vorp": 1.8000000000000003
+      },
+      "runningValues": {
+        "bpm": 61538.5,
+        "vorp": 24.299999999999997
+      }
+    },
+    {
+      "id": "biancal01x-13",
+      "sourceId": 13,
+      "date": "1988-10-03",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed Eddie Lee Wilkins",
+      "participants": [
+        {
+          "name": "Eddie Lee Wilkins",
+          "playerHref": "/players/w/wilkied01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -15204,
+            "vorp": -2.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -15204,
+        "vorp": -2.7
+      },
+      "categoryValues": {
+        "bpm": -15204,
+        "vorp": -2.7
+      },
+      "runningValues": {
+        "bpm": 46334.5,
+        "vorp": 21.599999999999998
+      }
+    },
+    {
+      "id": "biancal01x-14",
+      "sourceId": 14,
+      "date": "1988-12-20",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed Pete Myers",
+      "participants": [
+        {
+          "name": "Pete Myers",
+          "playerHref": "/players/m/myerspe01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -510.6,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -510.6,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": -510.6,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 45823.9,
+        "vorp": 21.7
+      }
+    },
+    {
+      "id": "biancal01x-15",
+      "sourceId": 15,
+      "date": "1989-02-23",
+      "type": "trade",
+      "tenureTeam": "NYK",
+      "summary": "Added Kiki Vandeweghe; Sent out Byron Irvin",
+      "participants": [
+        {
+          "name": "Byron Irvin",
+          "playerHref": "/players/i/irvinby01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -488,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kiki Vandeweghe",
+          "playerHref": "/players/v/vandeki01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -3723.7000000000003,
+            "vorp": 1.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4211.700000000001,
+        "vorp": 0.7999999999999999
+      },
+      "categoryValues": {
+        "bpm": -4211.700000000001,
+        "vorp": 0.7999999999999999
+      },
+      "runningValues": {
+        "bpm": 41612.200000000004,
+        "vorp": 22.5
+      }
+    },
+    {
+      "id": "biancal01x-16",
+      "sourceId": 16,
+      "date": "1989-06-27",
+      "type": "draft",
+      "tenureTeam": "NYK",
+      "summary": "Drafted Brian Quinnett",
+      "participants": [
+        {
+          "name": "Brian Quinnett",
+          "playerHref": "/players/q/quinnbr01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -5054.4,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5054.4,
+        "vorp": -0.5
+      },
+      "categoryValues": {
+        "bpm": -5054.4,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": 36557.8,
+        "vorp": 22
+      }
+    },
+    {
+      "id": "biancal01x-18",
+      "sourceId": 18,
+      "date": "1990-02-21",
+      "type": "trade",
+      "tenureTeam": "NYK",
+      "summary": "Added Maurice Cheeks; Sent out Rod Strickland",
+      "participants": [
+        {
+          "name": "Rod Strickland",
+          "playerHref": "/players/s/stricro02.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -11254.8,
+            "vorp": -5.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Maurice Cheeks",
+          "playerHref": "/players/c/cheekma01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 5200.7,
+            "vorp": 2.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6054.099999999999,
+        "vorp": -2.8
+      },
+      "categoryValues": {
+        "bpm": -6054.099999999999,
+        "vorp": -2.8
+      },
+      "runningValues": {
+        "bpm": 30503.700000000004,
+        "vorp": 19.2
+      }
+    },
+    {
+      "id": "biancal01x-19",
+      "sourceId": 19,
+      "date": "1990-02-22",
+      "type": "trade",
+      "tenureTeam": "NYK",
+      "summary": "Added Stuart Gray; Sent out Jimmy Oliver",
+      "participants": [
+        {
+          "name": "Jimmy Oliver",
+          "playerHref": "/players/o/oliveji01.html",
+          "direction": "out",
+          "teamCode": "CHH",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Stuart Gray",
+          "playerHref": "/players/g/grayst01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -1312,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1312,
+        "vorp": -0.30000000000000004
+      },
+      "categoryValues": {
+        "bpm": -1312,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": 29191.700000000004,
+        "vorp": 18.9
+      }
+    },
+    {
+      "id": "biancal01x-20",
+      "sourceId": 20,
+      "date": "1990-06-27",
+      "type": "draft",
+      "tenureTeam": "NYK",
+      "summary": "Drafted Jerrod Mustaf",
+      "participants": [
+        {
+          "name": "Jerrod Mustaf",
+          "playerHref": "/players/m/mustaje01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -4125,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": 29191.700000000004,
+        "vorp": 18.9
+      }
+    },
+    {
+      "id": "biancal01x-21",
+      "sourceId": 21,
+      "date": "1990-08-01",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Rookie contract for Jerrod Mustaf",
+      "participants": [
+        {
+          "name": "Jerrod Mustaf",
+          "playerHref": "/players/m/mustaje01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -4125,
+            "vorp": -0.6
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -4125,
+        "vorp": -0.6
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 25066.700000000004,
+        "vorp": 18.299999999999997
+      }
+    },
+    {
+      "id": "biancal01x-22",
+      "sourceId": 22,
+      "date": "1990-10-01",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed John Starks",
+      "participants": [
+        {
+          "name": "John Starks",
+          "playerHref": "/players/s/starkjo01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 31175.6,
+            "vorp": 16.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 31175.6,
+        "vorp": 16.7
+      },
+      "categoryValues": {
+        "bpm": 31175.6,
+        "vorp": 16.7
+      },
+      "runningValues": {
+        "bpm": 56242.3,
+        "vorp": 35
+      }
+    },
+    {
+      "id": "biancal01x-23",
+      "sourceId": 23,
+      "date": "1990-10-01",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed Greg Grant",
+      "participants": [
+        {
+          "name": "Greg Grant",
+          "playerHref": "/players/g/grantgr01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -353.09999999999997,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -353.09999999999997,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -353.09999999999997,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 55889.200000000004,
+        "vorp": 35
+      }
+    },
+    {
+      "id": "biancal01x-24",
+      "sourceId": 24,
+      "date": "1990-10-01",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed Earl Cureton",
+      "participants": [
+        {
+          "name": "Earl Cureton",
+          "playerHref": "/players/c/curetea01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 55889.200000000004,
+        "vorp": 35
+      }
+    },
+    {
+      "id": "biancal01x-25",
+      "sourceId": 25,
+      "date": "1990-10-01",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed Tharon Mayes",
+      "participants": [
+        {
+          "name": "Tharon Mayes",
+          "playerHref": "/players/m/mayesth01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 55889.200000000004,
+        "vorp": 35
+      }
+    }
+  ]
+}

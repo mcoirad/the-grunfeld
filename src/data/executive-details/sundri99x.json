@@ -1,0 +1,4016 @@
+{
+  "slug": "sundri99x",
+  "sourceRowCount": 158,
+  "tenures": [
+    {
+      "teamCode": "DET",
+      "startDate": "1998-02-09",
+      "endDate": "2001-06-27"
+    },
+    {
+      "teamCode": "OKC",
+      "startDate": "2001-06-27",
+      "endDate": "2008-07-29"
+    },
+    {
+      "teamCode": "ATL",
+      "startDate": "2008-07-29",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "sundri99x-2",
+      "sourceId": 2,
+      "date": "1998-02-09",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Steve Henson",
+      "participants": [
+        {
+          "name": "Steve Henson",
+          "playerHref": "/players/h/hensost01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -259,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -259,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -259,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -259,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "sundri99x-3",
+      "sourceId": 3,
+      "date": "1998-06-24",
+      "type": "draft",
+      "tenureTeam": "DET",
+      "summary": "Drafted Bonzi Wells and Korleone Young",
+      "participants": [
+        {
+          "name": "Bonzi Wells",
+          "playerHref": "/players/w/wellsbo01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Korleone Young",
+          "playerHref": "/players/y/youngko01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 141,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 141,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 141,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -118,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "sundri99x-4",
+      "sourceId": 4,
+      "date": "1999-01-22",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Jumaine Jones and Scoonie Penn; Sent out Bonzi Wells",
+      "participants": [
+        {
+          "name": "Bonzi Wells",
+          "playerHref": "/players/w/wellsbo01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -7906.5999999999985,
+            "vorp": -6.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jumaine Jones",
+          "playerHref": "/players/j/jonesju01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Scoonie Penn",
+          "playerHref": "/players/p/pennsc01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -7906.5999999999985,
+        "vorp": -6.2
+      },
+      "categoryValues": {
+        "bpm": -7906.5999999999985,
+        "vorp": -6.2
+      },
+      "runningValues": {
+        "bpm": -8024.5999999999985,
+        "vorp": -6.2
+      }
+    },
+    {
+      "id": "sundri99x-5",
+      "sourceId": 5,
+      "date": "1999-01-22",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Jud Buechler",
+      "participants": [
+        {
+          "name": "Jud Buechler",
+          "playerHref": "/players/b/buechju01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 1094.3999999999996,
+            "vorp": 1.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1094.3999999999996,
+        "vorp": 1.5
+      },
+      "categoryValues": {
+        "bpm": 1094.3999999999996,
+        "vorp": 1.5
+      },
+      "runningValues": {
+        "bpm": -6930.199999999999,
+        "vorp": -4.7
+      }
+    },
+    {
+      "id": "sundri99x-6",
+      "sourceId": 6,
+      "date": "1999-01-22",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Christian Laettner; Sent out Scot Pollard and Jumaine Jones",
+      "participants": [
+        {
+          "name": "Scot Pollard",
+          "playerHref": "/players/p/pollasc01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jumaine Jones",
+          "playerHref": "/players/j/jonesju01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Christian Laettner",
+          "playerHref": "/players/l/laettch01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1954.4,
+            "vorp": 0.8999999999999999
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1954.4,
+        "vorp": 0.8999999999999999
+      },
+      "categoryValues": {
+        "bpm": -1954.4,
+        "vorp": 0.8999999999999999
+      },
+      "runningValues": {
+        "bpm": -8884.599999999999,
+        "vorp": -3.8000000000000003
+      }
+    },
+    {
+      "id": "sundri99x-7",
+      "sourceId": 7,
+      "date": "1999-01-22",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Loy Vaught",
+      "participants": [
+        {
+          "name": "Loy Vaught",
+          "playerHref": "/players/v/vaughlo01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -3626.2,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3626.2,
+        "vorp": -0.6
+      },
+      "categoryValues": {
+        "bpm": -3626.2,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": -12510.8,
+        "vorp": -4.4
+      }
+    },
+    {
+      "id": "sundri99x-8",
+      "sourceId": 8,
+      "date": "1999-01-26",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Charles O'Bannon",
+      "participants": [
+        {
+          "name": "Charles O'Bannon",
+          "playerHref": "/players/o/obannch01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -330,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -330,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -330,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -12840.8,
+        "vorp": -4.4
+      }
+    },
+    {
+      "id": "sundri99x-9",
+      "sourceId": 9,
+      "date": "1999-01-29",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Mikki Moore",
+      "participants": [
+        {
+          "name": "Mikki Moore",
+          "playerHref": "/players/m/mooremi01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 108,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 108,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 108,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -12732.8,
+        "vorp": -4.4
+      }
+    },
+    {
+      "id": "sundri99x-10",
+      "sourceId": 10,
+      "date": "1999-02-18",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Corey Beck",
+      "participants": [
+        {
+          "name": "Corey Beck",
+          "playerHref": "/players/b/beckco01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -63,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -63,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -63,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -12795.8,
+        "vorp": -4.4
+      }
+    },
+    {
+      "id": "sundri99x-11",
+      "sourceId": 11,
+      "date": "1999-03-14",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Khalid Reeves",
+      "participants": [
+        {
+          "name": "Khalid Reeves",
+          "playerHref": "/players/r/reevekh01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -12795.8,
+        "vorp": -4.4
+      }
+    },
+    {
+      "id": "sundri99x-12",
+      "sourceId": 12,
+      "date": "1999-04-03",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Khalid Reeves",
+      "participants": [
+        {
+          "name": "Khalid Reeves",
+          "playerHref": "/players/r/reevekh01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -638.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -638.4,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -638.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -13434.199999999999,
+        "vorp": -4.5
+      }
+    },
+    {
+      "id": "sundri99x-13",
+      "sourceId": 13,
+      "date": "1999-06-30",
+      "type": "draft",
+      "tenureTeam": "DET",
+      "summary": "Drafted Melvin Levett",
+      "participants": [
+        {
+          "name": "Melvin Levett",
+          "playerHref": "/players/l/levetme01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -13434.199999999999,
+        "vorp": -4.5
+      }
+    },
+    {
+      "id": "sundri99x-14",
+      "sourceId": 14,
+      "date": "1999-08-02",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Michael Curry",
+      "participants": [
+        {
+          "name": "Michael Curry",
+          "playerHref": "/players/c/currymi01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -25269.3,
+            "vorp": -3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -25269.3,
+        "vorp": -3
+      },
+      "categoryValues": {
+        "bpm": -25269.3,
+        "vorp": -3
+      },
+      "runningValues": {
+        "bpm": -38703.5,
+        "vorp": -7.5
+      }
+    },
+    {
+      "id": "sundri99x-15",
+      "sourceId": 15,
+      "date": "1999-09-20",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Terry Mills",
+      "participants": [
+        {
+          "name": "Terry Mills",
+          "playerHref": "/players/m/millste01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -368.40000000000003,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -368.40000000000003,
+        "vorp": 0.8
+      },
+      "categoryValues": {
+        "bpm": -368.40000000000003,
+        "vorp": 0.8
+      },
+      "runningValues": {
+        "bpm": -39071.9,
+        "vorp": -6.7
+      }
+    },
+    {
+      "id": "sundri99x-16",
+      "sourceId": 16,
+      "date": "1999-10-04",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Marcus Brown",
+      "participants": [
+        {
+          "name": "Marcus Brown",
+          "playerHref": "/players/b/brownma01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -413.99999999999994,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -413.99999999999994,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -413.99999999999994,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -39485.9,
+        "vorp": -6.8
+      }
+    },
+    {
+      "id": "sundri99x-17",
+      "sourceId": 17,
+      "date": "1999-10-04",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Michael Hawkins",
+      "participants": [
+        {
+          "name": "Michael Hawkins",
+          "playerHref": "/players/h/hawkimi01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -39485.9,
+        "vorp": -6.8
+      }
+    },
+    {
+      "id": "sundri99x-18",
+      "sourceId": 18,
+      "date": "1999-10-04",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Jermaine Jackson",
+      "participants": [
+        {
+          "name": "Jermaine Jackson",
+          "playerHref": "/players/j/jacksje01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -642.4000000000001,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -642.4000000000001,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -642.4000000000001,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -40128.3,
+        "vorp": -6.8999999999999995
+      }
+    },
+    {
+      "id": "sundri99x-19",
+      "sourceId": 19,
+      "date": "1999-10-05",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Mikki Moore",
+      "participants": [
+        {
+          "name": "Mikki Moore",
+          "playerHref": "/players/m/mooremi01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -2919.2000000000003,
+            "vorp": 0.09999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2919.2000000000003,
+        "vorp": 0.09999999999999998
+      },
+      "categoryValues": {
+        "bpm": -2919.2000000000003,
+        "vorp": 0.09999999999999998
+      },
+      "runningValues": {
+        "bpm": -43047.5,
+        "vorp": -6.8
+      }
+    },
+    {
+      "id": "sundri99x-20",
+      "sourceId": 20,
+      "date": "1999-11-13",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed John Crotty",
+      "participants": [
+        {
+          "name": "John Crotty",
+          "playerHref": "/players/c/crottjo01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -843.3000000000001,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -843.3000000000001,
+        "vorp": 0.2
+      },
+      "categoryValues": {
+        "bpm": -843.3000000000001,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -43890.8,
+        "vorp": -6.6
+      }
+    },
+    {
+      "id": "sundri99x-21",
+      "sourceId": 21,
+      "date": "2001-06-27",
+      "type": "draft",
+      "tenureTeam": "OKC",
+      "summary": "Drafted Vladimir Radmanović, Earl Watson, and Bobby Simmons",
+      "participants": [
+        {
+          "name": "Vladimir Radmanović",
+          "playerHref": "/players/r/radmavl01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Earl Watson",
+          "playerHref": "/players/w/watsoea01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": -8169.599999999999,
+            "vorp": -1.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bobby Simmons",
+          "playerHref": "/players/s/simmobo01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -8169.599999999999,
+        "vorp": -1.2
+      },
+      "categoryValues": {
+        "bpm": -8169.599999999999,
+        "vorp": -1.2
+      },
+      "runningValues": {
+        "bpm": -52060.4,
+        "vorp": -7.8
+      }
+    },
+    {
+      "id": "sundri99x-22",
+      "sourceId": 22,
+      "date": "2001-06-27",
+      "type": "trade",
+      "tenureTeam": "OKC",
+      "summary": "Added Predrag Drobnjak; Sent out Bobby Simmons",
+      "participants": [
+        {
+          "name": "Bobby Simmons",
+          "playerHref": "/players/s/simmobo01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 1058.3999999999999,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Predrag Drobnjak",
+          "playerHref": "/players/d/drobnpr01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1058.3999999999999,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": 1058.3999999999999,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -51002,
+        "vorp": -7.8999999999999995
+      }
+    },
+    {
+      "id": "sundri99x-23",
+      "sourceId": 23,
+      "date": "2001-07-31",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Calvin Booth",
+      "participants": [
+        {
+          "name": "Calvin Booth",
+          "playerHref": "/players/b/boothca01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -51002,
+        "vorp": -7.8999999999999995
+      }
+    },
+    {
+      "id": "sundri99x-24",
+      "sourceId": 24,
+      "date": "2001-09-05",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Jerome James",
+      "participants": [
+        {
+          "name": "Jerome James",
+          "playerHref": "/players/j/jamesje01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -51002,
+        "vorp": -7.8999999999999995
+      }
+    },
+    {
+      "id": "sundri99x-25",
+      "sourceId": 25,
+      "date": "2001-10-01",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Antonio Harvey",
+      "participants": [
+        {
+          "name": "Antonio Harvey",
+          "playerHref": "/players/h/harvean01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -51002,
+        "vorp": -7.8999999999999995
+      }
+    },
+    {
+      "id": "sundri99x-26",
+      "sourceId": 26,
+      "date": "2001-10-01",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Art Long",
+      "participants": [
+        {
+          "name": "Art Long",
+          "playerHref": "/players/l/longar01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -51002,
+        "vorp": -7.8999999999999995
+      }
+    },
+    {
+      "id": "sundri99x-27",
+      "sourceId": 27,
+      "date": "2001-10-01",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Eddie Elisma",
+      "participants": [
+        {
+          "name": "Eddie Elisma",
+          "playerHref": "/players/e/elismed01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -51002,
+        "vorp": -7.8999999999999995
+      }
+    },
+    {
+      "id": "sundri99x-28",
+      "sourceId": 28,
+      "date": "2002-03-08",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Randy Livingston",
+      "participants": [
+        {
+          "name": "Randy Livingston",
+          "playerHref": "/players/l/livinra01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -51002,
+        "vorp": -7.8999999999999995
+      }
+    },
+    {
+      "id": "sundri99x-29",
+      "sourceId": 29,
+      "date": "2002-03-29",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Ansu Sesay",
+      "participants": [
+        {
+          "name": "Ansu Sesay",
+          "playerHref": "/players/s/sesayan01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -51002,
+        "vorp": -7.8999999999999995
+      }
+    },
+    {
+      "id": "sundri99x-30",
+      "sourceId": 30,
+      "date": "2002-06-26",
+      "type": "draft",
+      "tenureTeam": "OKC",
+      "summary": "Drafted Peter Fehse",
+      "participants": [
+        {
+          "name": "Peter Fehse",
+          "playerHref": "/players/f/fehsepe01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -51002,
+        "vorp": -7.8999999999999995
+      }
+    },
+    {
+      "id": "sundri99x-31",
+      "sourceId": 31,
+      "date": "2002-07-22",
+      "type": "trade",
+      "tenureTeam": "OKC",
+      "summary": "Added Kenny Anderson, Joseph Forte, and Vitaly Potapenko; Sent out Vin Baker and Shammond Williams",
+      "participants": [
+        {
+          "name": "Vin Baker",
+          "playerHref": "/players/b/bakervi01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 5227.400000000001,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Shammond Williams",
+          "playerHref": "/players/w/willish01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 1052.1000000000001,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kenny Anderson",
+          "playerHref": "/players/a/anderke01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Joseph Forte",
+          "playerHref": "/players/f/fortejo01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Vitaly Potapenko",
+          "playerHref": "/players/p/potapvi01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 6279.500000000001,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 6279.500000000001,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44722.5,
+        "vorp": -7.8999999999999995
+      }
+    },
+    {
+      "id": "sundri99x-32",
+      "sourceId": 32,
+      "date": "2002-09-30",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Reggie Evans",
+      "participants": [
+        {
+          "name": "Reggie Evans",
+          "playerHref": "/players/e/evansre01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44722.5,
+        "vorp": -7.8999999999999995
+      }
+    },
+    {
+      "id": "sundri99x-33",
+      "sourceId": 33,
+      "date": "2002-09-30",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Jonathan Kerner",
+      "participants": [
+        {
+          "name": "Jonathan Kerner",
+          "playerHref": "/players/k/kernejo01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44722.5,
+        "vorp": -7.8999999999999995
+      }
+    },
+    {
+      "id": "sundri99x-34",
+      "sourceId": 34,
+      "date": "2002-09-30",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Eric Chenowith",
+      "participants": [
+        {
+          "name": "Eric Chenowith",
+          "playerHref": "/players/c/chenoer01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44722.5,
+        "vorp": -7.8999999999999995
+      }
+    },
+    {
+      "id": "sundri99x-35",
+      "sourceId": 35,
+      "date": "2002-09-30",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Miles Simon",
+      "participants": [
+        {
+          "name": "Miles Simon",
+          "playerHref": "/players/s/simonmi01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44722.5,
+        "vorp": -7.8999999999999995
+      }
+    },
+    {
+      "id": "sundri99x-36",
+      "sourceId": 36,
+      "date": "2003-02-20",
+      "type": "trade",
+      "tenureTeam": "OKC",
+      "summary": "Added Ray Allen, Ronald Murray, Kevin Ollie, and Luke Ridnour; Sent out Desmond Mason and Gary Payton",
+      "participants": [
+        {
+          "name": "Desmond Mason",
+          "playerHref": "/players/m/masonde01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 10188.8,
+            "vorp": -1.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Gary Payton",
+          "playerHref": "/players/p/paytoga01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -1410.5,
+            "vorp": -0.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ray Allen",
+          "playerHref": "/players/a/allenra02.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ronald Murray",
+          "playerHref": "/players/m/murraro01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kevin Ollie",
+          "playerHref": "/players/o/ollieke01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": -604.9,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Luke Ridnour",
+          "playerHref": "/players/r/ridnolu01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 8173.4,
+        "vorp": -2.4
+      },
+      "categoryValues": {
+        "bpm": 8173.4,
+        "vorp": -2.4
+      },
+      "runningValues": {
+        "bpm": -36549.1,
+        "vorp": -10.299999999999999
+      }
+    },
+    {
+      "id": "sundri99x-37",
+      "sourceId": 37,
+      "date": "2003-02-20",
+      "type": "trade",
+      "tenureTeam": "OKC",
+      "summary": "Added Elden Campbell; Sent out Kenny Anderson",
+      "participants": [
+        {
+          "name": "Kenny Anderson",
+          "playerHref": "/players/a/anderke01.html",
+          "direction": "out",
+          "teamCode": "NOH",
+          "values": {
+            "bpm": 1471.8,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Elden Campbell",
+          "playerHref": "/players/c/campbel01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1471.8,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 1471.8,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -35077.299999999996,
+        "vorp": -10.2
+      }
+    },
+    {
+      "id": "sundri99x-38",
+      "sourceId": 38,
+      "date": "2003-06-26",
+      "type": "draft",
+      "tenureTeam": "OKC",
+      "summary": "Drafted Nick Collison, Luke Ridnour, and Willie Green",
+      "participants": [
+        {
+          "name": "Nick Collison",
+          "playerHref": "/players/c/collini01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": -8355.5,
+            "vorp": 3.5000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Luke Ridnour",
+          "playerHref": "/players/r/ridnolu01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Willie Green",
+          "playerHref": "/players/g/greenwi01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -8355.5,
+        "vorp": 3.5000000000000004
+      },
+      "categoryValues": {
+        "bpm": -8355.5,
+        "vorp": 3.5000000000000004
+      },
+      "runningValues": {
+        "bpm": -43432.799999999996,
+        "vorp": -6.699999999999999
+      }
+    },
+    {
+      "id": "sundri99x-39",
+      "sourceId": 39,
+      "date": "2003-06-26",
+      "type": "trade",
+      "tenureTeam": "OKC",
+      "summary": "Added Paccelis Morlende; Sent out Willie Green",
+      "participants": [
+        {
+          "name": "Willie Green",
+          "playerHref": "/players/g/greenwi01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 27036,
+            "vorp": 2.1999999999999997
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Paccelis Morlende",
+          "playerHref": "/players/m/morlepa01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 27036,
+        "vorp": 2.1999999999999997
+      },
+      "categoryValues": {
+        "bpm": 27036,
+        "vorp": 2.1999999999999997
+      },
+      "runningValues": {
+        "bpm": -16396.799999999996,
+        "vorp": -4.5
+      }
+    },
+    {
+      "id": "sundri99x-40",
+      "sourceId": 40,
+      "date": "2003-07-19",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Antonio Daniels",
+      "participants": [
+        {
+          "name": "Antonio Daniels",
+          "playerHref": "/players/d/daniean01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -16396.799999999996,
+        "vorp": -4.5
+      }
+    },
+    {
+      "id": "sundri99x-41",
+      "sourceId": 41,
+      "date": "2003-09-26",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Galen Young",
+      "participants": [
+        {
+          "name": "Galen Young",
+          "playerHref": "/players/y/youngga01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -16396.799999999996,
+        "vorp": -4.5
+      }
+    },
+    {
+      "id": "sundri99x-42",
+      "sourceId": 42,
+      "date": "2003-09-27",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Richie Frahm",
+      "participants": [
+        {
+          "name": "Richie Frahm",
+          "playerHref": "/players/f/frahmri01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -16396.799999999996,
+        "vorp": -4.5
+      }
+    },
+    {
+      "id": "sundri99x-43",
+      "sourceId": 43,
+      "date": "2003-09-27",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Mikki Moore",
+      "participants": [
+        {
+          "name": "Mikki Moore",
+          "playerHref": "/players/m/mooremi01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -16396.799999999996,
+        "vorp": -4.5
+      }
+    },
+    {
+      "id": "sundri99x-44",
+      "sourceId": 44,
+      "date": "2003-09-27",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Jason Hart",
+      "participants": [
+        {
+          "name": "Jason Hart",
+          "playerHref": "/players/h/hartja01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -16396.799999999996,
+        "vorp": -4.5
+      }
+    },
+    {
+      "id": "sundri99x-45",
+      "sourceId": 45,
+      "date": "2003-09-28",
+      "type": "trade",
+      "tenureTeam": "OKC",
+      "summary": "Added Andre Emmett; Sent out Predrag Drobnjak",
+      "participants": [
+        {
+          "name": "Predrag Drobnjak",
+          "playerHref": "/players/d/drobnpr01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 2941.9,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Andre Emmett",
+          "playerHref": "/players/e/emmetan01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2941.9,
+        "vorp": 0.3
+      },
+      "categoryValues": {
+        "bpm": 2941.9,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": -13454.899999999996,
+        "vorp": -4.2
+      }
+    },
+    {
+      "id": "sundri99x-46",
+      "sourceId": 46,
+      "date": "2004-04-07",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Leon Smith",
+      "participants": [
+        {
+          "name": "Leon Smith",
+          "playerHref": "/players/s/smithle01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -13454.899999999996,
+        "vorp": -4.2
+      }
+    },
+    {
+      "id": "sundri99x-47",
+      "sourceId": 47,
+      "date": "2004-06-24",
+      "type": "draft",
+      "tenureTeam": "OKC",
+      "summary": "Drafted Robert Swift, Andre Emmett, and David Young",
+      "participants": [
+        {
+          "name": "Robert Swift",
+          "playerHref": "/players/s/swiftro01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": -857.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Andre Emmett",
+          "playerHref": "/players/e/emmetan01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "David Young",
+          "playerHref": "/players/y/youngda02.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -857.5,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -857.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -14312.399999999996,
+        "vorp": -4.2
+      }
+    },
+    {
+      "id": "sundri99x-48",
+      "sourceId": 48,
+      "date": "2004-06-24",
+      "type": "trade",
+      "tenureTeam": "OKC",
+      "summary": "Added Mickaël Gelabale; Sent out Andre Emmett",
+      "participants": [
+        {
+          "name": "Andre Emmett",
+          "playerHref": "/players/e/emmetan01.html",
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 324.8,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mickaël Gelabale",
+          "playerHref": "/players/g/gelabmi01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 324.8,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 324.8,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -13987.599999999997,
+        "vorp": -4.1000000000000005
+      }
+    },
+    {
+      "id": "sundri99x-49",
+      "sourceId": 49,
+      "date": "2004-07-26",
+      "type": "trade",
+      "tenureTeam": "OKC",
+      "summary": "Added Danny Fortson; Sent out Calvin Booth",
+      "participants": [
+        {
+          "name": "Calvin Booth",
+          "playerHref": "/players/b/boothca01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 419.20000000000005,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Danny Fortson",
+          "playerHref": "/players/f/fortsda01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 419.20000000000005,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 419.20000000000005,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -13568.399999999996,
+        "vorp": -4.1000000000000005
+      }
+    },
+    {
+      "id": "sundri99x-50",
+      "sourceId": 50,
+      "date": "2004-09-22",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Ibo Kutluay",
+      "participants": [
+        {
+          "name": "Ibo Kutluay",
+          "playerHref": "/players/k/kutluib01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -13568.399999999996,
+        "vorp": -4.1000000000000005
+      }
+    },
+    {
+      "id": "sundri99x-51",
+      "sourceId": 51,
+      "date": "2004-10-04",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Leon Smith",
+      "participants": [
+        {
+          "name": "Leon Smith",
+          "playerHref": "/players/s/smithle01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -13568.399999999996,
+        "vorp": -4.1000000000000005
+      }
+    },
+    {
+      "id": "sundri99x-52",
+      "sourceId": 52,
+      "date": "2004-10-04",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Galen Young",
+      "participants": [
+        {
+          "name": "Galen Young",
+          "playerHref": "/players/y/youngga01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -13568.399999999996,
+        "vorp": -4.1000000000000005
+      }
+    },
+    {
+      "id": "sundri99x-53",
+      "sourceId": 53,
+      "date": "2004-11-03",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Damien Wilkins",
+      "participants": [
+        {
+          "name": "Damien Wilkins",
+          "playerHref": "/players/w/wilkida02.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": -2925.6,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2925.6,
+        "vorp": -0.4
+      },
+      "categoryValues": {
+        "bpm": -2925.6,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -16493.999999999996,
+        "vorp": -4.500000000000001
+      }
+    },
+    {
+      "id": "sundri99x-54",
+      "sourceId": 54,
+      "date": "2004-11-05",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Mateen Cleaves",
+      "participants": [
+        {
+          "name": "Mateen Cleaves",
+          "playerHref": "/players/c/cleavma01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -16493.999999999996,
+        "vorp": -4.500000000000001
+      }
+    },
+    {
+      "id": "sundri99x-55",
+      "sourceId": 55,
+      "date": "2005-06-28",
+      "type": "draft",
+      "tenureTeam": "OKC",
+      "summary": "Drafted Johan Petro, Mickaël Gelabale, and Lawrence Roberts",
+      "participants": [
+        {
+          "name": "Johan Petro",
+          "playerHref": "/players/p/petrojo01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": -1573.1999999999998,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mickaël Gelabale",
+          "playerHref": "/players/g/gelabmi01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lawrence Roberts",
+          "playerHref": "/players/r/roberla01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1573.1999999999998,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1573.1999999999998,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -18067.199999999997,
+        "vorp": -4.700000000000001
+      }
+    },
+    {
+      "id": "sundri99x-56",
+      "sourceId": 56,
+      "date": "2005-06-28",
+      "type": "trade",
+      "tenureTeam": "OKC",
+      "summary": "Added Yotam Halperin and Carl Landry; Sent out Lawrence Roberts",
+      "participants": [
+        {
+          "name": "Lawrence Roberts",
+          "playerHref": "/players/r/roberla01.html",
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 2172.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Yotam Halperin",
+          "playerHref": "/players/h/halpeyo01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Carl Landry",
+          "playerHref": "/players/l/landrca01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2172.2,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 2172.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -15894.999999999996,
+        "vorp": -4.700000000000001
+      }
+    },
+    {
+      "id": "sundri99x-57",
+      "sourceId": 57,
+      "date": "2005-08-05",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Rick Brunson",
+      "participants": [
+        {
+          "name": "Rick Brunson",
+          "playerHref": "/players/b/brunsri01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -15894.999999999996,
+        "vorp": -4.700000000000001
+      }
+    },
+    {
+      "id": "sundri99x-58",
+      "sourceId": 58,
+      "date": "2005-08-31",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Mikki Moore",
+      "participants": [
+        {
+          "name": "Mikki Moore",
+          "playerHref": "/players/m/mooremi01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -15894.999999999996,
+        "vorp": -4.700000000000001
+      }
+    },
+    {
+      "id": "sundri99x-59",
+      "sourceId": 59,
+      "date": "2005-09-30",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Noel Felix",
+      "participants": [
+        {
+          "name": "Noel Felix",
+          "playerHref": "/players/f/felixno01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -15894.999999999996,
+        "vorp": -4.700000000000001
+      }
+    },
+    {
+      "id": "sundri99x-60",
+      "sourceId": 60,
+      "date": "2005-09-30",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Alex Scales",
+      "participants": [
+        {
+          "name": "Alex Scales",
+          "playerHref": "/players/s/scaleal01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -15894.999999999996,
+        "vorp": -4.700000000000001
+      }
+    },
+    {
+      "id": "sundri99x-61",
+      "sourceId": 61,
+      "date": "2005-10-02",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Tre Simmons",
+      "participants": [
+        {
+          "name": "Tre Simmons",
+          "playerHref": "/players/s/simmotr01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -15894.999999999996,
+        "vorp": -4.700000000000001
+      }
+    },
+    {
+      "id": "sundri99x-62",
+      "sourceId": 62,
+      "date": "2005-10-02",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Omar Thomas",
+      "participants": [
+        {
+          "name": "Omar Thomas",
+          "playerHref": "/players/t/thomaom01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -15894.999999999996,
+        "vorp": -4.700000000000001
+      }
+    },
+    {
+      "id": "sundri99x-63",
+      "sourceId": 63,
+      "date": "2005-10-02",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Roger Powell",
+      "participants": [
+        {
+          "name": "Roger Powell",
+          "playerHref": "/players/p/powelro01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -15894.999999999996,
+        "vorp": -4.700000000000001
+      }
+    },
+    {
+      "id": "sundri99x-64",
+      "sourceId": 64,
+      "date": "2005-10-03",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Ezra Williams",
+      "participants": [
+        {
+          "name": "Ezra Williams",
+          "playerHref": "/players/w/williez01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -15894.999999999996,
+        "vorp": -4.700000000000001
+      }
+    },
+    {
+      "id": "sundri99x-65",
+      "sourceId": 65,
+      "date": "2006-02-14",
+      "type": "trade",
+      "tenureTeam": "OKC",
+      "summary": "Added Chris Wilcox; Sent out Vladimir Radmanović",
+      "participants": [
+        {
+          "name": "Vladimir Radmanović",
+          "playerHref": "/players/r/radmavl01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -2124,
+            "vorp": -1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chris Wilcox",
+          "playerHref": "/players/w/wilcoch01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": -2876,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5000,
+        "vorp": -1.4
+      },
+      "categoryValues": {
+        "bpm": -5000,
+        "vorp": -1.4
+      },
+      "runningValues": {
+        "bpm": -20894.999999999996,
+        "vorp": -6.100000000000001
+      }
+    },
+    {
+      "id": "sundri99x-66",
+      "sourceId": 66,
+      "date": "2006-02-23",
+      "type": "trade",
+      "tenureTeam": "OKC",
+      "summary": "Added Bryon Russell, Earl Watson, and DeVon Hardin; Sent out Vitaly Potapenko and Reggie Evans",
+      "participants": [
+        {
+          "name": "Vitaly Potapenko",
+          "playerHref": "/players/p/potapvi01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 561.2,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Reggie Evans",
+          "playerHref": "/players/e/evansre01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 5383.4,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bryon Russell",
+          "playerHref": "/players/r/russebr01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 24.599999999999998,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Earl Watson",
+          "playerHref": "/players/w/watsoea01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -97.5,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "DeVon Hardin",
+          "playerHref": "/players/h/hardide01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5871.7,
+        "vorp": 0.9
+      },
+      "categoryValues": {
+        "bpm": 5871.7,
+        "vorp": 0.9
+      },
+      "runningValues": {
+        "bpm": -15023.299999999996,
+        "vorp": -5.200000000000001
+      }
+    },
+    {
+      "id": "sundri99x-67",
+      "sourceId": 67,
+      "date": "2006-02-23",
+      "type": "trade",
+      "tenureTeam": "OKC",
+      "summary": "Added Mike Wilks; Sent out Ronald Murray",
+      "participants": [
+        {
+          "name": "Ronald Murray",
+          "playerHref": "/players/m/murraro01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 1437.8,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Wilks",
+          "playerHref": "/players/w/wilksmi01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": -359.9,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1077.9,
+        "vorp": -0.30000000000000004
+      },
+      "categoryValues": {
+        "bpm": 1077.9,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -13945.399999999996,
+        "vorp": -5.500000000000001
+      }
+    },
+    {
+      "id": "sundri99x-68",
+      "sourceId": 68,
+      "date": "2006-03-08",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Marcus Fizer",
+      "participants": [
+        {
+          "name": "Marcus Fizer",
+          "playerHref": "/players/f/fizerma01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -13945.399999999996,
+        "vorp": -5.500000000000001
+      }
+    },
+    {
+      "id": "sundri99x-69",
+      "sourceId": 69,
+      "date": "2006-06-28",
+      "type": "draft",
+      "tenureTeam": "OKC",
+      "summary": "Drafted Mouhamed Sene, Denham Brown, and Yotam Halperin",
+      "participants": [
+        {
+          "name": "Mouhamed Sene",
+          "playerHref": "/players/s/senesa01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 202.4,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Denham Brown",
+          "playerHref": "/players/b/brownde05.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Yotam Halperin",
+          "playerHref": "/players/h/halpeyo01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 202.4,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 202.4,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -13742.999999999996,
+        "vorp": -5.400000000000001
+      }
+    },
+    {
+      "id": "sundri99x-70",
+      "sourceId": 70,
+      "date": "2006-07-27",
+      "type": "trade",
+      "tenureTeam": "OKC",
+      "summary": "Added Derrick Brown; Sent out Mikki Moore",
+      "participants": [
+        {
+          "name": "Mikki Moore",
+          "playerHref": "/players/m/mooremi01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 2498.4,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Derrick Brown",
+          "playerHref": "/players/b/brownde04.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2498.4,
+        "vorp": -0.4
+      },
+      "categoryValues": {
+        "bpm": 2498.4,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -11244.599999999997,
+        "vorp": -5.800000000000002
+      }
+    },
+    {
+      "id": "sundri99x-71",
+      "sourceId": 71,
+      "date": "2006-10-02",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Desmon Farmer",
+      "participants": [
+        {
+          "name": "Desmon Farmer",
+          "playerHref": "/players/f/farmede01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -11244.599999999997,
+        "vorp": -5.800000000000002
+      }
+    },
+    {
+      "id": "sundri99x-72",
+      "sourceId": 72,
+      "date": "2006-10-07",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Milt Palacio",
+      "participants": [
+        {
+          "name": "Milt Palacio",
+          "playerHref": "/players/p/palacmi01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -11244.599999999997,
+        "vorp": -5.800000000000002
+      }
+    },
+    {
+      "id": "sundri99x-73",
+      "sourceId": 73,
+      "date": "2006-11-05",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Andreas Glyniadakis",
+      "participants": [
+        {
+          "name": "Andreas Glyniadakis",
+          "playerHref": "/players/g/glynian01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -11244.599999999997,
+        "vorp": -5.800000000000002
+      }
+    },
+    {
+      "id": "sundri99x-74",
+      "sourceId": 74,
+      "date": "2007-01-05",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Andre Brown",
+      "participants": [
+        {
+          "name": "Andre Brown",
+          "playerHref": "/players/b/brownan01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -11244.599999999997,
+        "vorp": -5.800000000000002
+      }
+    },
+    {
+      "id": "sundri99x-75",
+      "sourceId": 75,
+      "date": "2007-04-11",
+      "type": "signing",
+      "tenureTeam": "OKC",
+      "summary": "Signed Randy Livingston",
+      "participants": [
+        {
+          "name": "Randy Livingston",
+          "playerHref": "/players/l/livinra01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -11244.599999999997,
+        "vorp": -5.800000000000002
+      }
+    },
+    {
+      "id": "sundri99x-76",
+      "sourceId": 76,
+      "date": "2008-07-29",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Maurice Evans",
+      "participants": [
+        {
+          "name": "Maurice Evans",
+          "playerHref": "/players/e/evansma01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -5670.5,
+            "vorp": 0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5670.5,
+        "vorp": 0.6
+      },
+      "categoryValues": {
+        "bpm": -5670.5,
+        "vorp": 0.6
+      },
+      "runningValues": {
+        "bpm": -16915.1,
+        "vorp": -5.200000000000002
+      }
+    },
+    {
+      "id": "sundri99x-77",
+      "sourceId": 77,
+      "date": "2008-07-30",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Randolph Morris",
+      "participants": [
+        {
+          "name": "Randolph Morris",
+          "playerHref": "/players/m/morrira01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -1669.6,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1669.6,
+        "vorp": -0.30000000000000004
+      },
+      "categoryValues": {
+        "bpm": -1669.6,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -18584.699999999997,
+        "vorp": -5.500000000000002
+      }
+    },
+    {
+      "id": "sundri99x-78",
+      "sourceId": 78,
+      "date": "2008-08-11",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Thomas Gardner",
+      "participants": [
+        {
+          "name": "Thomas Gardner",
+          "playerHref": "/players/g/gardnth01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -823.2,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -823.2,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -823.2,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -19407.899999999998,
+        "vorp": -5.700000000000002
+      }
+    },
+    {
+      "id": "sundri99x-79",
+      "sourceId": 79,
+      "date": "2008-08-11",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Othello Hunter",
+      "participants": [
+        {
+          "name": "Othello Hunter",
+          "playerHref": "/players/h/hunteot01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -582.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -582.6,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -582.6,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -19990.499999999996,
+        "vorp": -5.800000000000002
+      }
+    },
+    {
+      "id": "sundri99x-80",
+      "sourceId": 80,
+      "date": "2008-08-13",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Ronald Murray",
+      "participants": [
+        {
+          "name": "Ronald Murray",
+          "playerHref": "/players/m/murraro01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -987.5,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -987.5,
+        "vorp": 0.8
+      },
+      "categoryValues": {
+        "bpm": -987.5,
+        "vorp": 0.8
+      },
+      "runningValues": {
+        "bpm": -20977.999999999996,
+        "vorp": -5.000000000000002
+      }
+    },
+    {
+      "id": "sundri99x-81",
+      "sourceId": 81,
+      "date": "2009-06-25",
+      "type": "draft",
+      "tenureTeam": "ATL",
+      "summary": "Drafted Jeff Teague and Sergiy Gladyr",
+      "participants": [
+        {
+          "name": "Jeff Teague",
+          "playerHref": "/players/t/teaguje01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 8778.8,
+            "vorp": 9.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sergiy Gladyr",
+          "playerHref": "/players/g/gladyse01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 8778.8,
+        "vorp": 9.3
+      },
+      "categoryValues": {
+        "bpm": 8778.8,
+        "vorp": 9.3
+      },
+      "runningValues": {
+        "bpm": -12199.199999999997,
+        "vorp": 4.299999999999999
+      }
+    },
+    {
+      "id": "sundri99x-82",
+      "sourceId": 82,
+      "date": "2009-06-25",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Jamal Crawford; Sent out Speedy Claxton and Acie Law",
+      "participants": [
+        {
+          "name": "Speedy Claxton",
+          "playerHref": "/players/c/claxtsp01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Acie Law",
+          "playerHref": "/players/l/lawac01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 1844.2,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jamal Crawford",
+          "playerHref": "/players/c/crawfja01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 3361,
+            "vorp": 3.3000000000000003
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5205.2,
+        "vorp": 3.4000000000000004
+      },
+      "categoryValues": {
+        "bpm": 5205.2,
+        "vorp": 3.4000000000000004
+      },
+      "runningValues": {
+        "bpm": -6993.999999999996,
+        "vorp": 7.699999999999999
+      }
+    },
+    {
+      "id": "sundri99x-83",
+      "sourceId": 83,
+      "date": "2009-08-25",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Joe Smith",
+      "participants": [
+        {
+          "name": "Joe Smith",
+          "playerHref": "/players/s/smithjo02.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -3196.8,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3196.8,
+        "vorp": -0.5
+      },
+      "categoryValues": {
+        "bpm": -3196.8,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -10190.799999999996,
+        "vorp": 7.199999999999999
+      }
+    },
+    {
+      "id": "sundri99x-84",
+      "sourceId": 84,
+      "date": "2009-09-02",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Jason Collins",
+      "participants": [
+        {
+          "name": "Jason Collins",
+          "playerHref": "/players/c/collija04.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -5694.9,
+            "vorp": -0.9000000000000001
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5694.9,
+        "vorp": -0.9000000000000001
+      },
+      "categoryValues": {
+        "bpm": -5694.9,
+        "vorp": -0.9000000000000001
+      },
+      "runningValues": {
+        "bpm": -15885.699999999995,
+        "vorp": 6.299999999999999
+      }
+    },
+    {
+      "id": "sundri99x-85",
+      "sourceId": 85,
+      "date": "2009-09-28",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Mike Wilks",
+      "participants": [
+        {
+          "name": "Mike Wilks",
+          "playerHref": "/players/w/wilksmi01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -15885.699999999995,
+        "vorp": 6.299999999999999
+      }
+    },
+    {
+      "id": "sundri99x-86",
+      "sourceId": 86,
+      "date": "2010-01-12",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Mario West",
+      "participants": [
+        {
+          "name": "Mario West",
+          "playerHref": "/players/w/westma02.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -298.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -298.2,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -298.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -16183.899999999996,
+        "vorp": 6.299999999999999
+      }
+    },
+    {
+      "id": "sundri99x-87",
+      "sourceId": 87,
+      "date": "2010-06-24",
+      "type": "draft",
+      "tenureTeam": "ATL",
+      "summary": "Drafted Damion James and Pape Sy",
+      "participants": [
+        {
+          "name": "Damion James",
+          "playerHref": "/players/j/jamesda01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Pape Sy",
+          "playerHref": "/players/s/sypa01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -123.9,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -123.9,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -123.9,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -16307.799999999996,
+        "vorp": 6.299999999999999
+      }
+    },
+    {
+      "id": "sundri99x-88",
+      "sourceId": 88,
+      "date": "2010-06-24",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Jordan Crawford and Tibor Pleiß; Sent out Damion James",
+      "participants": [
+        {
+          "name": "Damion James",
+          "playerHref": "/players/j/jamesda01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 2067.8,
+            "vorp": 0.30000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jordan Crawford",
+          "playerHref": "/players/c/crawfjo02.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -880,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tibor Pleiß",
+          "playerHref": "/players/p/pleisti01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1187.8000000000002,
+        "vorp": 0.20000000000000004
+      },
+      "categoryValues": {
+        "bpm": 1187.8000000000002,
+        "vorp": 0.20000000000000004
+      },
+      "runningValues": {
+        "bpm": -15119.999999999996,
+        "vorp": 6.499999999999999
+      }
+    },
+    {
+      "id": "sundri99x-89",
+      "sourceId": 89,
+      "date": "2010-06-24",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Sent out Tibor Pleiß",
+      "participants": [
+        {
+          "name": "Tibor Pleiß",
+          "playerHref": "/players/p/pleisti01.html",
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -15119.999999999996,
+        "vorp": 6.499999999999999
+      }
+    },
+    {
+      "id": "sundri99x-90",
+      "sourceId": 90,
+      "date": "2010-07-14",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Mike Scott; Sent out Josh Childress",
+      "participants": [
+        {
+          "name": "Josh Childress",
+          "playerHref": "/players/c/childjo01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 545.2,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Scott",
+          "playerHref": "/players/s/scottmi01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -5416.300000000001,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4871.100000000001,
+        "vorp": 0.30000000000000004
+      },
+      "categoryValues": {
+        "bpm": -4871.100000000001,
+        "vorp": 0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -19991.1,
+        "vorp": 6.799999999999999
+      }
+    },
+    {
+      "id": "sundri99x-91",
+      "sourceId": 91,
+      "date": "2010-07-26",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Josh Powell",
+      "participants": [
+        {
+          "name": "Josh Powell",
+          "playerHref": "/players/p/poweljo01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -4701.6,
+            "vorp": -0.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4701.6,
+        "vorp": -0.9
+      },
+      "categoryValues": {
+        "bpm": -4701.6,
+        "vorp": -0.9
+      },
+      "runningValues": {
+        "bpm": -24692.699999999997,
+        "vorp": 5.899999999999999
+      }
+    },
+    {
+      "id": "sundri99x-92",
+      "sourceId": 92,
+      "date": "2010-09-02",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Etan Thomas",
+      "participants": [
+        {
+          "name": "Etan Thomas",
+          "playerHref": "/players/t/thomaet01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -131.20000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -131.20000000000002,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -131.20000000000002,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -24823.899999999998,
+        "vorp": 5.899999999999999
+      }
+    },
+    {
+      "id": "sundri99x-93",
+      "sourceId": 93,
+      "date": "2010-12-03",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Damien Wilkins",
+      "participants": [
+        {
+          "name": "Damien Wilkins",
+          "playerHref": "/players/w/wilkida02.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -24823.899999999998,
+        "vorp": 5.899999999999999
+      }
+    },
+    {
+      "id": "sundri99x-94",
+      "sourceId": 94,
+      "date": "2011-01-08",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Damien Wilkins",
+      "participants": [
+        {
+          "name": "Damien Wilkins",
+          "playerHref": "/players/w/wilkida02.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -608.4,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -608.4,
+        "vorp": 0.2
+      },
+      "categoryValues": {
+        "bpm": -608.4,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -25432.3,
+        "vorp": 6.099999999999999
+      }
+    },
+    {
+      "id": "sundri99x-95",
+      "sourceId": 95,
+      "date": "2011-02-23",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Hilton Armstrong and Kirk Hinrich; Sent out Mike Bibby, Jordan Crawford, Maurice Evans, and Chris Singleton",
+      "participants": [
+        {
+          "name": "Mike Bibby",
+          "playerHref": "/players/b/bibbymi01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 263.9,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jordan Crawford",
+          "playerHref": "/players/c/crawfjo02.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 5364.4,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Maurice Evans",
+          "playerHref": "/players/e/evansma01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 3086,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chris Singleton",
+          "playerHref": "/players/s/singlch01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 8246.4,
+            "vorp": 0.8999999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Hilton Armstrong",
+          "playerHref": "/players/a/armsthi01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -83.60000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kirk Hinrich",
+          "playerHref": "/players/h/hinriki01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -4022.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 12854.599999999999,
+        "vorp": 0.6
+      },
+      "categoryValues": {
+        "bpm": 12854.599999999999,
+        "vorp": 0.6
+      },
+      "runningValues": {
+        "bpm": -12577.7,
+        "vorp": 6.699999999999999
+      }
+    },
+    {
+      "id": "sundri99x-96",
+      "sourceId": 96,
+      "date": "2011-06-23",
+      "type": "draft",
+      "tenureTeam": "ATL",
+      "summary": "Drafted Keith Benson",
+      "participants": [
+        {
+          "name": "Keith Benson",
+          "playerHref": "/players/b/bensoke02.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -12577.7,
+        "vorp": 6.699999999999999
+      }
+    },
+    {
+      "id": "sundri99x-97",
+      "sourceId": 97,
+      "date": "2011-12-09",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Tracy McGrady",
+      "participants": [
+        {
+          "name": "Tracy McGrady",
+          "playerHref": "/players/m/mcgratr01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 502.2,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 502.2,
+        "vorp": 0.5
+      },
+      "categoryValues": {
+        "bpm": 502.2,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": -12075.5,
+        "vorp": 7.199999999999999
+      }
+    },
+    {
+      "id": "sundri99x-98",
+      "sourceId": 98,
+      "date": "2011-12-09",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Vladimir Radmanović",
+      "participants": [
+        {
+          "name": "Vladimir Radmanović",
+          "playerHref": "/players/r/radmavl01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 151,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 151,
+        "vorp": 0.4
+      },
+      "categoryValues": {
+        "bpm": 151,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": -11924.5,
+        "vorp": 7.6
+      }
+    },
+    {
+      "id": "sundri99x-99",
+      "sourceId": 99,
+      "date": "2011-12-09",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Donald Sloan",
+      "participants": [
+        {
+          "name": "Donald Sloan",
+          "playerHref": "/players/s/sloando01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -68,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -68,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -68,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -11992.5,
+        "vorp": 7.6
+      }
+    },
+    {
+      "id": "sundri99x-100",
+      "sourceId": 100,
+      "date": "2011-12-12",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Jerry Stackhouse",
+      "participants": [
+        {
+          "name": "Jerry Stackhouse",
+          "playerHref": "/players/s/stackje01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -327.59999999999997,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -327.59999999999997,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -327.59999999999997,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -12320.1,
+        "vorp": 7.6
+      }
+    },
+    {
+      "id": "sundri99x-101",
+      "sourceId": 101,
+      "date": "2011-12-12",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Ivan Johnson",
+      "participants": [
+        {
+          "name": "Ivan Johnson",
+          "playerHref": "/players/j/johnsiv01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -3710.8,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3710.8,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": -3710.8,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -16030.900000000001,
+        "vorp": 7.699999999999999
+      }
+    },
+    {
+      "id": "sundri99x-102",
+      "sourceId": 102,
+      "date": "2011-12-20",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Jannero Pargo",
+      "participants": [
+        {
+          "name": "Jannero Pargo",
+          "playerHref": "/players/p/pargoja01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -843.3,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -843.3,
+        "vorp": 0.2
+      },
+      "categoryValues": {
+        "bpm": -843.3,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -16874.2,
+        "vorp": 7.8999999999999995
+      }
+    },
+    {
+      "id": "sundri99x-103",
+      "sourceId": 103,
+      "date": "2011-12-22",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Willie Green",
+      "participants": [
+        {
+          "name": "Willie Green",
+          "playerHref": "/players/g/greenwi01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -461,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -461,
+        "vorp": 0.3
+      },
+      "categoryValues": {
+        "bpm": -461,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": -17335.2,
+        "vorp": 8.2
+      }
+    },
+    {
+      "id": "sundri99x-104",
+      "sourceId": 104,
+      "date": "2012-02-09",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Erick Dampier",
+      "participants": [
+        {
+          "name": "Erick Dampier",
+          "playerHref": "/players/d/dampier01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -390.1,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -390.1,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -390.1,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -17725.3,
+        "vorp": 8.1
+      }
+    },
+    {
+      "id": "sundri99x-105",
+      "sourceId": 105,
+      "date": "2012-03-15",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Sent out Ognjen Kuzmić",
+      "participants": [
+        {
+          "name": "Ognjen Kuzmić",
+          "playerHref": "/players/k/kuzmiog01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 910.4,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 910.4,
+        "vorp": 0.2
+      },
+      "categoryValues": {
+        "bpm": 910.4,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -16814.899999999998,
+        "vorp": 8.299999999999999
+      }
+    }
+  ]
+}

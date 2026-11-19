@@ -1,0 +1,82 @@
+---
+import "@fontsource-variable/archivo";
+import "@fontsource/league-gothic";
+import "../../styles/global.css";
+import { ExecutiveProfile } from "../../components/ExecutiveProfile";
+import { loadExecutiveDetail, loadExecutiveSnapshot } from "../../lib/data";
+import type { Executive, ExecutiveDetail, SnapshotMetadata } from "../../lib/types";
+
+export function getStaticPaths() {
+  const { executives, metadata } = loadExecutiveSnapshot();
+  return executives.map((executive) => ({
+    params: { slug: executive.slug },
+    props: {
+      executive,
+      detail: loadExecutiveDetail(executive.slug),
+      metadata,
+    },
+  }));
+}
+
+interface Props {
+  executive: Executive;
+  detail: ExecutiveDetail;
+  metadata: SnapshotMetadata;
+}
+
+const { executive, detail, metadata } = Astro.props;
+const basePath = import.meta.env.BASE_URL.endsWith("/")
+  ? import.meta.env.BASE_URL
+  : `${import.meta.env.BASE_URL}/`;
+const canonical = new URL(`${basePath}executives/${executive.slug}/`, Astro.site);
+const description = `${executive.name}'s front office performance over time, category grades, and complete transaction history.`;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content={description} />
+    <meta name="theme-color" content="#050505" />
+    <meta property="og:title" content={`${executive.name} — Front Office, Ranked`} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="profile" />
+    <meta property="og:url" content={canonical} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" href={`${basePath}favicon.svg`} type="image/svg+xml" />
+    <title>{executive.name} — Front Office, Ranked</title>
+  </head>
+  <body>
+    <a class="skip-link" href="#profile-content">Skip to profile</a>
+    <header class="site-header">
+      <a class="wordmark" href={basePath} aria-label="The Grunfeld home">
+        <span>The</span> Grunfeld
+      </a>
+      <nav aria-label="Primary navigation">
+        <a href={`${basePath}#rankings`}>Rankings</a>
+        <a href={`${basePath}#methodology`}>Methodology</a>
+      </nav>
+      <p>Advanced stats for unadvanced managers.</p>
+    </header>
+
+    <main id="profile-content">
+      <ExecutiveProfile
+        executive={executive}
+        detail={detail}
+        metadataRunId={metadata.runId}
+        basePath={basePath}
+        client:load
+      />
+    </main>
+
+    <footer>
+      <a class="wordmark" href={basePath}><span>The</span> Grunfeld</a>
+      <p>
+        An independent fan project. Not affiliated with The Ringer, the NBA, or any NBA
+        team. Rankings are analytical estimates, not statements of fact.
+      </p>
+      <a href="https://github.com/mcoirad/the-grunfeld">Source on GitHub</a>
+    </footer>
+  </body>
+</html>

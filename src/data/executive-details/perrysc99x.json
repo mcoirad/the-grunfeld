@@ -1,0 +1,1426 @@
+{
+  "slug": "perrysc99x",
+  "sourceRowCount": 58,
+  "tenures": [
+    {
+      "teamCode": "NYK",
+      "startDate": "2020-02-06",
+      "endDate": "2025-06-25"
+    },
+    {
+      "teamCode": "SAC",
+      "startDate": "2025-06-25",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "perrysc99x-0",
+      "sourceId": 0,
+      "date": "2020-02-06",
+      "type": "trade",
+      "tenureTeam": "NYK",
+      "summary": "Added Maurice Harkless, Udoka Azubuike, Jeremiah Robinson-Earl, and Issuf Sanon; Sent out Marcus Morris",
+      "participants": [
+        {
+          "name": "Marcus Morris",
+          "playerHref": "/players/m/morrima03.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 6659.8,
+            "vorp": -1.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Maurice Harkless",
+          "playerHref": "/players/h/harklma01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Udoka Azubuike",
+          "playerHref": "/players/a/azubuud01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jeremiah Robinson-Earl",
+          "playerHref": "/players/r/robinje02.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Issuf Sanon",
+          "playerHref": "/players/s/sanonis01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 6659.8,
+        "vorp": -0.5000000000000001
+      },
+      "categoryValues": {
+        "bpm": 6659.8,
+        "vorp": -0.5000000000000001
+      },
+      "runningValues": {
+        "bpm": 6659.8,
+        "vorp": -0.5000000000000001
+      }
+    },
+    {
+      "id": "perrysc99x-1",
+      "sourceId": 1,
+      "date": "2025-06-25",
+      "type": "draft",
+      "tenureTeam": "SAC",
+      "summary": "Drafted Maxime Raynaud",
+      "participants": [
+        {
+          "name": "Maxime Raynaud",
+          "playerHref": "/players/r/raynama01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -4713.599999999999,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 6659.8,
+        "vorp": -0.5000000000000001
+      }
+    },
+    {
+      "id": "perrysc99x-2",
+      "sourceId": 2,
+      "date": "2025-06-25",
+      "type": "trade",
+      "tenureTeam": "SAC",
+      "summary": "Added Nique Clifford; Sent out future ('2027', '1st') round pick",
+      "participants": [
+        {
+          "name": "Nique Clifford",
+          "playerHref": "/players/c/cliffni01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 6659.8,
+        "vorp": -0.5000000000000001
+      }
+    },
+    {
+      "id": "perrysc99x-3",
+      "sourceId": 3,
+      "date": "2025-07-02",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Rookie contract for Maxime Raynaud",
+      "participants": [
+        {
+          "name": "Maxime Raynaud",
+          "playerHref": "/players/r/raynama01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -4713.599999999999,
+            "vorp": -0.2
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -4713.599999999999,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 1946.2000000000007,
+        "vorp": -0.7000000000000002
+      }
+    },
+    {
+      "id": "perrysc99x-4",
+      "sourceId": 4,
+      "date": "2025-07-02",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Dylan Cardwell",
+      "participants": [
+        {
+          "name": "Dylan Cardwell",
+          "playerHref": "/players/c/cardwdy01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -1862.3999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1862.3999999999999,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -1862.3999999999999,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 83.80000000000086,
+        "vorp": -0.7000000000000002
+      }
+    },
+    {
+      "id": "perrysc99x-5",
+      "sourceId": 5,
+      "date": "2025-07-03",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Nique Clifford",
+      "participants": [
+        {
+          "name": "Nique Clifford",
+          "playerHref": "/players/c/cliffni01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -9671.800000000001,
+            "vorp": -1.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -9671.800000000001,
+        "vorp": -1.5
+      },
+      "categoryValues": {
+        "bpm": -9671.800000000001,
+        "vorp": -1.5
+      },
+      "runningValues": {
+        "bpm": -9588,
+        "vorp": -2.2
+      }
+    },
+    {
+      "id": "perrysc99x-6",
+      "sourceId": 6,
+      "date": "2025-07-07",
+      "type": "trade",
+      "tenureTeam": "SAC",
+      "summary": "Added Dennis Schroder and future ('2029', '2nd') round pick; Sent out future ('2026', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Dennis Schroder",
+          "playerHref": "/players/s/schrode01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -2006.3999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2029', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2006.3999999999999,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -2006.3999999999999,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -11594.4,
+        "vorp": -2.2
+      }
+    },
+    {
+      "id": "perrysc99x-7",
+      "sourceId": 7,
+      "date": "2025-07-08",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Drew Eubanks",
+      "participants": [
+        {
+          "name": "Drew Eubanks",
+          "playerHref": "/players/e/eubandr01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -2042.4,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2042.4,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -2042.4,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -13636.8,
+        "vorp": -2.4000000000000004
+      }
+    },
+    {
+      "id": "perrysc99x-8",
+      "sourceId": 8,
+      "date": "2025-07-08",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Isaiah Stevens",
+      "participants": [
+        {
+          "name": "Isaiah Stevens",
+          "playerHref": "/players/s/steveis01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 94.60000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 94.60000000000001,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 94.60000000000001,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -13542.199999999999,
+        "vorp": -2.4000000000000004
+      }
+    },
+    {
+      "id": "perrysc99x-9",
+      "sourceId": 9,
+      "date": "2025-07-13",
+      "type": "trade",
+      "tenureTeam": "SAC",
+      "summary": "Added Dario Saric; Sent out Jonas Valanciunas",
+      "participants": [
+        {
+          "name": "Jonas Valanciunas",
+          "playerHref": "/players/v/valanjo01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dario Saric",
+          "playerHref": "/players/s/saricda01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -369,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -369,
+        "vorp": -0.5
+      },
+      "categoryValues": {
+        "bpm": -369,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -13911.199999999999,
+        "vorp": -2.9000000000000004
+      }
+    },
+    {
+      "id": "perrysc99x-10",
+      "sourceId": 10,
+      "date": "2025-07-30",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Daeqwon Plowden",
+      "participants": [
+        {
+          "name": "Daeqwon Plowden",
+          "playerHref": "/players/p/plowdda01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -3713.6000000000004,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3713.6000000000004,
+        "vorp": -0.5
+      },
+      "categoryValues": {
+        "bpm": -3713.6000000000004,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -17624.8,
+        "vorp": -3.4000000000000004
+      }
+    },
+    {
+      "id": "perrysc99x-11",
+      "sourceId": 11,
+      "date": "2025-07-30",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Doug McDermott",
+      "participants": [
+        {
+          "name": "Doug McDermott",
+          "playerHref": "/players/m/mcderdo01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -1931.6000000000001,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1931.6000000000001,
+        "vorp": -0.3
+      },
+      "categoryValues": {
+        "bpm": -1931.6000000000001,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -19556.399999999998,
+        "vorp": -3.7
+      }
+    },
+    {
+      "id": "perrysc99x-12",
+      "sourceId": 12,
+      "date": "2025-10-16",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Russell Westbrook",
+      "participants": [
+        {
+          "name": "Russell Westbrook",
+          "playerHref": "/players/w/westbru01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -741.2,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -741.2,
+        "vorp": 0.7
+      },
+      "categoryValues": {
+        "bpm": -741.2,
+        "vorp": 0.7
+      },
+      "runningValues": {
+        "bpm": -20297.6,
+        "vorp": -3
+      }
+    },
+    {
+      "id": "perrysc99x-13",
+      "sourceId": 13,
+      "date": "2025-11-04",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Precious Achiuwa",
+      "participants": [
+        {
+          "name": "Precious Achiuwa",
+          "playerHref": "/players/a/achiupr01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -2792,
+            "vorp": 0.20000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2792,
+        "vorp": 0.20000000000000004
+      },
+      "categoryValues": {
+        "bpm": -2792,
+        "vorp": 0.20000000000000004
+      },
+      "runningValues": {
+        "bpm": -23089.6,
+        "vorp": -2.8
+      }
+    },
+    {
+      "id": "perrysc99x-14",
+      "sourceId": 14,
+      "date": "2026-02-01",
+      "type": "trade",
+      "tenureTeam": "SAC",
+      "summary": "Added De'Andre Hunter; Sent out Keon Ellis, Dennis Schroder, Dario Saric, and future ('2029', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Keon Ellis",
+          "playerHref": "/players/e/elliske01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -792.0000000000001,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dennis Schroder",
+          "playerHref": "/players/s/schrode01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 1794.8,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dario Saric",
+          "playerHref": "/players/s/saricda01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2029', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "De'Andre Hunter",
+          "playerHref": "/players/h/huntede01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -3825,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2822.2000000000003,
+        "vorp": -0.9
+      },
+      "categoryValues": {
+        "bpm": -2822.2000000000003,
+        "vorp": -0.9
+      },
+      "runningValues": {
+        "bpm": -25911.8,
+        "vorp": -3.6999999999999997
+      }
+    },
+    {
+      "id": "perrysc99x-15",
+      "sourceId": 15,
+      "date": "2026-02-22",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Patrick Baldwin Jr.",
+      "participants": [
+        {
+          "name": "Patrick Baldwin Jr.",
+          "playerHref": "/players/b/baldwpa01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -492.79999999999995,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -492.79999999999995,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -492.79999999999995,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -26404.6,
+        "vorp": -3.8
+      }
+    },
+    {
+      "id": "perrysc99x-16",
+      "sourceId": 16,
+      "date": "2026-02-23",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Killian Hayes",
+      "participants": [
+        {
+          "name": "Killian Hayes",
+          "playerHref": "/players/h/hayeski01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -26404.6,
+        "vorp": -3.8
+      }
+    },
+    {
+      "id": "perrysc99x-17",
+      "sourceId": 17,
+      "date": "2026-03-15",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Killian Hayes",
+      "participants": [
+        {
+          "name": "Killian Hayes",
+          "playerHref": "/players/h/hayeski01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -2436,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2436,
+        "vorp": -0.4
+      },
+      "categoryValues": {
+        "bpm": -2436,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -28840.6,
+        "vorp": -4.2
+      }
+    },
+    {
+      "id": "perrysc99x-18",
+      "sourceId": 18,
+      "date": "2026-03-26",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed DaQuan Jeffries",
+      "participants": [
+        {
+          "name": "DaQuan Jeffries",
+          "playerHref": "/players/j/jeffrda01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -12,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -12,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -12,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -28852.6,
+        "vorp": -4.2
+      }
+    },
+    {
+      "id": "perrysc99x-19",
+      "sourceId": 19,
+      "date": "2026-06-23",
+      "type": "draft",
+      "tenureTeam": "SAC",
+      "summary": "Drafted Darius Acuff Jr. and Meleek Thomas",
+      "participants": [
+        {
+          "name": "Darius Acuff Jr.",
+          "playerHref": "/players/a/acuffda01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Meleek Thomas",
+          "playerHref": "/players/t/thomame01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -1437,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -28852.6,
+        "vorp": -4.2
+      }
+    },
+    {
+      "id": "perrysc99x-20",
+      "sourceId": 20,
+      "date": "2026-06-23",
+      "type": "draft",
+      "tenureTeam": "SAC",
+      "summary": "Drafted Darius Acuff Jr. and Meleek Thomas",
+      "participants": [
+        {
+          "name": "Darius Acuff Jr.",
+          "playerHref": "/players/a/acuffda01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        },
+        {
+          "name": "Meleek Thomas",
+          "playerHref": "/players/t/thomame01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -1437,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -28852.6,
+        "vorp": -4.2
+      }
+    },
+    {
+      "id": "perrysc99x-21",
+      "sourceId": 21,
+      "date": "2026-06-24",
+      "type": "draft",
+      "tenureTeam": "SAC",
+      "summary": "Drafted Emanuel Sharp",
+      "participants": [
+        {
+          "name": "Emanuel Sharp",
+          "playerHref": "/players/s/sharpem01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -1436.3999999999999,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -28852.6,
+        "vorp": -4.2
+      }
+    },
+    {
+      "id": "perrysc99x-22",
+      "sourceId": 22,
+      "date": "2026-06-24",
+      "type": "trade",
+      "tenureTeam": "SAC",
+      "summary": "Added Alex Karaban; Sent out Meleek Thomas and future ('2032', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Meleek Thomas",
+          "playerHref": "/players/t/thomame01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 230.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alex Karaban",
+          "playerHref": "/players/k/karabal01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2032', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 230.4,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": 230.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -28622.199999999997,
+        "vorp": -4.3
+      }
+    },
+    {
+      "id": "perrysc99x-23",
+      "sourceId": 23,
+      "date": "2026-06-30",
+      "type": "trade",
+      "tenureTeam": "SAC",
+      "summary": "Added Alpha Kaba; Sent out Devin Carter and future ('2033', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Devin Carter",
+          "playerHref": "/players/c/cartede02.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alpha Kaba",
+          "playerHref": "/players/k/kabaal01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2033', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -28622.199999999997,
+        "vorp": -4.3
+      }
+    },
+    {
+      "id": "perrysc99x-24",
+      "sourceId": 24,
+      "date": "2026-07-01",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Rookie contract for Darius Acuff Jr.",
+      "participants": [
+        {
+          "name": "Darius Acuff Jr.",
+          "playerHref": "/players/a/acuffda01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -1437,
+            "vorp": -0.1
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -1437,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -30059.199999999997,
+        "vorp": -4.3999999999999995
+      }
+    },
+    {
+      "id": "perrysc99x-25",
+      "sourceId": 25,
+      "date": "2026-07-01",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Alex Karaban",
+      "participants": [
+        {
+          "name": "Alex Karaban",
+          "playerHref": "/players/k/karabal01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -741,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -741,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -741,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -30800.199999999997,
+        "vorp": -4.499999999999999
+      }
+    },
+    {
+      "id": "perrysc99x-26",
+      "sourceId": 26,
+      "date": "2026-07-01",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Rookie contract for Emanuel Sharp",
+      "participants": [
+        {
+          "name": "Emanuel Sharp",
+          "playerHref": "/players/s/sharpem01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -1436.3999999999999,
+            "vorp": -0.2
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -1436.3999999999999,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -32236.6,
+        "vorp": -4.699999999999999
+      }
+    },
+    {
+      "id": "perrysc99x-27",
+      "sourceId": 27,
+      "date": "2026-07-01",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Adam Flagler",
+      "participants": [
+        {
+          "name": "Adam Flagler",
+          "playerHref": "/players/f/flaglad01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -32236.6,
+        "vorp": -4.699999999999999
+      }
+    },
+    {
+      "id": "perrysc99x-28",
+      "sourceId": 28,
+      "date": "2026-07-02",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Daeqwon Plowden",
+      "participants": [
+        {
+          "name": "Daeqwon Plowden",
+          "playerHref": "/players/p/plowdda01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -399,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -399,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -399,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -32635.6,
+        "vorp": -4.699999999999999
+      }
+    },
+    {
+      "id": "perrysc99x-29",
+      "sourceId": 29,
+      "date": "2026-07-02",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Jonathan Mogbo",
+      "participants": [
+        {
+          "name": "Jonathan Mogbo",
+          "playerHref": "/players/m/mogbojo01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -410.40000000000003,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -410.40000000000003,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -410.40000000000003,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -33046,
+        "vorp": -4.799999999999999
+      }
+    },
+    {
+      "id": "perrysc99x-30",
+      "sourceId": 30,
+      "date": "2026-07-07",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Precious Achiuwa",
+      "participants": [
+        {
+          "name": "Precious Achiuwa",
+          "playerHref": "/players/a/achiupr01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -374.40000000000003,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -374.40000000000003,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": -374.40000000000003,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -33420.4,
+        "vorp": -4.699999999999999
+      }
+    },
+    {
+      "id": "perrysc99x-31",
+      "sourceId": 31,
+      "date": "2026-09-07",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Ben Simmons",
+      "participants": [
+        {
+          "name": "Ben Simmons",
+          "playerHref": "/players/s/simmobe01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -33420.4,
+        "vorp": -4.699999999999999
+      }
+    },
+    {
+      "id": "perrysc99x-32",
+      "sourceId": 32,
+      "date": "2026-10-15",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Leaky Black",
+      "participants": [
+        {
+          "name": "Leaky Black",
+          "playerHref": "/players/b/blackle01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 595,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 595,
+        "vorp": 0.2
+      },
+      "categoryValues": {
+        "bpm": 595,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -32825.4,
+        "vorp": -4.499999999999999
+      }
+    },
+    {
+      "id": "perrysc99x-33",
+      "sourceId": 33,
+      "date": "2026-10-23",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Sean Pedulla",
+      "participants": [
+        {
+          "name": "Sean Pedulla",
+          "playerHref": "/players/p/pedulse01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -32825.4,
+        "vorp": -4.499999999999999
+      }
+    },
+    {
+      "id": "perrysc99x-34",
+      "sourceId": 34,
+      "date": "2026-11-08",
+      "type": "trade",
+      "tenureTeam": "SAC",
+      "summary": "Added future ('2028', '2nd') round pick and future ('2030', '2nd') round pick; Sent out Nique Clifford",
+      "participants": [
+        {
+          "name": "Nique Clifford",
+          "playerHref": "/players/c/cliffni01.html",
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 411.8,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2028', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2030', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 411.8,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 411.8,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -32413.600000000002,
+        "vorp": -4.3999999999999995
+      }
+    },
+    {
+      "id": "perrysc99x-35",
+      "sourceId": 35,
+      "date": "2026-11-11",
+      "type": "signing",
+      "tenureTeam": "SAC",
+      "summary": "Signed Mason Plumlee",
+      "participants": [
+        {
+          "name": "Mason Plumlee",
+          "playerHref": "/players/p/plumlma01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -73.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -73.5,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -73.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -32487.100000000002,
+        "vorp": -4.3999999999999995
+      }
+    }
+  ]
+}

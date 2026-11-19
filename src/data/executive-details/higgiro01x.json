@@ -1,0 +1,1784 @@
+{
+  "slug": "higgiro01x",
+  "sourceRowCount": 80,
+  "tenures": [
+    {
+      "teamCode": "CHA",
+      "startDate": "2007-06-28",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "higgiro01x-0",
+      "sourceId": 0,
+      "date": "2007-06-28",
+      "type": "draft",
+      "tenureTeam": "CHA",
+      "summary": "Drafted Brandan Wright and Jared Dudley",
+      "participants": [
+        {
+          "name": "Brandan Wright",
+          "playerHref": "/players/w/wrighbr03.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jared Dudley",
+          "playerHref": "/players/d/dudleja01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -1139.6,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1139.6,
+        "vorp": 0.7
+      },
+      "categoryValues": {
+        "bpm": -1139.6,
+        "vorp": 0.7
+      },
+      "runningValues": {
+        "bpm": -1139.6,
+        "vorp": 0.7
+      }
+    },
+    {
+      "id": "higgiro01x-1",
+      "sourceId": 1,
+      "date": "2007-06-28",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Jermareo Davidson and Jason Richardson; Sent out Brandan Wright",
+      "participants": [
+        {
+          "name": "Brandan Wright",
+          "playerHref": "/players/w/wrighbr03.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 374.1,
+            "vorp": -0.6000000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jermareo Davidson",
+          "playerHref": "/players/d/davidje01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -1642.1999999999998,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jason Richardson",
+          "playerHref": "/players/r/richaja01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 10085.3,
+            "vorp": 4.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 8817.199999999999,
+        "vorp": 3.5
+      },
+      "categoryValues": {
+        "bpm": 8817.199999999999,
+        "vorp": 3.5
+      },
+      "runningValues": {
+        "bpm": 7677.599999999999,
+        "vorp": 4.2
+      }
+    },
+    {
+      "id": "higgiro01x-2",
+      "sourceId": 2,
+      "date": "2007-09-12",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Deji Akindele",
+      "participants": [
+        {
+          "name": "Deji Akindele",
+          "playerHref": "/players/a/akindja01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 7677.599999999999,
+        "vorp": 4.2
+      }
+    },
+    {
+      "id": "higgiro01x-3",
+      "sourceId": 3,
+      "date": "2007-09-28",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Marcus Campbell",
+      "participants": [
+        {
+          "name": "Marcus Campbell",
+          "playerHref": "/players/c/campbma01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 7677.599999999999,
+        "vorp": 4.2
+      }
+    },
+    {
+      "id": "higgiro01x-4",
+      "sourceId": 4,
+      "date": "2007-10-02",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed C.J. Watson",
+      "participants": [
+        {
+          "name": "C.J. Watson",
+          "playerHref": "/players/w/watsocj01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 7677.599999999999,
+        "vorp": 4.2
+      }
+    },
+    {
+      "id": "higgiro01x-5",
+      "sourceId": 5,
+      "date": "2007-12-14",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Nazr Mohammed; Sent out Primož Brezec and Walter Herrmann",
+      "participants": [
+        {
+          "name": "Primož Brezec",
+          "playerHref": "/players/b/brezepr01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 225.39999999999998,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Walter Herrmann",
+          "playerHref": "/players/h/herrmwa01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 822.3,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Nazr Mohammed",
+          "playerHref": "/players/m/mohamna01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -7746.6,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6698.900000000001,
+        "vorp": -0.4
+      },
+      "categoryValues": {
+        "bpm": -6698.900000000001,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": 978.6999999999989,
+        "vorp": 3.8
+      }
+    },
+    {
+      "id": "higgiro01x-6",
+      "sourceId": 6,
+      "date": "2008-01-31",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Earl Boykins",
+      "participants": [
+        {
+          "name": "Earl Boykins",
+          "playerHref": "/players/b/boykiea01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -2769.6,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2769.6,
+        "vorp": -0.4
+      },
+      "categoryValues": {
+        "bpm": -2769.6,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -1790.900000000001,
+        "vorp": 3.4
+      }
+    },
+    {
+      "id": "higgiro01x-7",
+      "sourceId": 7,
+      "date": "2008-06-25",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Alexis Ajinça; Sent out Luke Babbitt",
+      "participants": [
+        {
+          "name": "Luke Babbitt",
+          "playerHref": "/players/b/babbilu01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alexis Ajinça",
+          "playerHref": "/players/a/ajincal01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -1790.900000000001,
+        "vorp": 3.4
+      }
+    },
+    {
+      "id": "higgiro01x-8",
+      "sourceId": 8,
+      "date": "2008-06-26",
+      "type": "draft",
+      "tenureTeam": "CHA",
+      "summary": "Drafted D.J. Augustin, Alexis Ajinça, and Kyle Weaver",
+      "participants": [
+        {
+          "name": "D.J. Augustin",
+          "playerHref": "/players/a/augusdj01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -3146.3,
+            "vorp": 3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alexis Ajinça",
+          "playerHref": "/players/a/ajincal01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -1505.8,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kyle Weaver",
+          "playerHref": "/players/w/weaveky01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4652.1,
+        "vorp": 2.7
+      },
+      "categoryValues": {
+        "bpm": -4652.1,
+        "vorp": 2.7
+      },
+      "runningValues": {
+        "bpm": -6443.000000000001,
+        "vorp": 6.1000000000000005
+      }
+    },
+    {
+      "id": "higgiro01x-9",
+      "sourceId": 9,
+      "date": "2008-08-06",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Shannon Brown",
+      "participants": [
+        {
+          "name": "Shannon Brown",
+          "playerHref": "/players/b/brownsh01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -238.7,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -238.7,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": -238.7,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -6681.700000000001,
+        "vorp": 6.2
+      }
+    },
+    {
+      "id": "higgiro01x-10",
+      "sourceId": 10,
+      "date": "2008-08-11",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Derrick Brown; Sent out Kyle Weaver",
+      "participants": [
+        {
+          "name": "Kyle Weaver",
+          "playerHref": "/players/w/weaveky01.html",
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 1284,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Derrick Brown",
+          "playerHref": "/players/b/brownde04.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1284,
+        "vorp": -0.30000000000000004
+      },
+      "categoryValues": {
+        "bpm": 1284,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -5397.700000000001,
+        "vorp": 5.9
+      }
+    },
+    {
+      "id": "higgiro01x-11",
+      "sourceId": 11,
+      "date": "2008-09-27",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Andre Brown",
+      "participants": [
+        {
+          "name": "Andre Brown",
+          "playerHref": "/players/b/brownan01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -578.1,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -578.1,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -578.1,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -5975.800000000001,
+        "vorp": 5.800000000000001
+      }
+    },
+    {
+      "id": "higgiro01x-12",
+      "sourceId": 12,
+      "date": "2008-10-28",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Linton Johnson",
+      "participants": [
+        {
+          "name": "Linton Johnson",
+          "playerHref": "/players/j/johnsli01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -105.3,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -105.3,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -105.3,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -6081.100000000001,
+        "vorp": 5.800000000000001
+      }
+    },
+    {
+      "id": "higgiro01x-13",
+      "sourceId": 13,
+      "date": "2008-11-24",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Dwayne Jones",
+      "participants": [
+        {
+          "name": "Dwayne Jones",
+          "playerHref": "/players/j/jonesdw02.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -291.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -291.2,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -291.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -6372.300000000001,
+        "vorp": 5.800000000000001
+      }
+    },
+    {
+      "id": "higgiro01x-14",
+      "sourceId": 14,
+      "date": "2008-12-10",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Raja Bell, Boris Diaw, and Sean Singletary; Sent out Jared Dudley, Jason Richardson, and Gani Lawal",
+      "participants": [
+        {
+          "name": "Jared Dudley",
+          "playerHref": "/players/d/dudleja01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -9118.900000000001,
+            "vorp": -8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jason Richardson",
+          "playerHref": "/players/r/richaja01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -7880.499999999999,
+            "vorp": -4.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Gani Lawal",
+          "playerHref": "/players/l/lawalga01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 30,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Raja Bell",
+          "playerHref": "/players/b/bellra01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -1210.5,
+            "vorp": 0.6000000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Boris Diaw",
+          "playerHref": "/players/d/diawbo01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 4567,
+            "vorp": 5.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sean Singletary",
+          "playerHref": "/players/s/singlse01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -1086,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -14698.900000000001,
+        "vorp": -6.7
+      },
+      "categoryValues": {
+        "bpm": -14698.900000000001,
+        "vorp": -6.7
+      },
+      "runningValues": {
+        "bpm": -21071.2,
+        "vorp": -0.8999999999999992
+      }
+    },
+    {
+      "id": "higgiro01x-15",
+      "sourceId": 15,
+      "date": "2008-12-12",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Juwan Howard",
+      "participants": [
+        {
+          "name": "Juwan Howard",
+          "playerHref": "/players/h/howarju01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -1710,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1710,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1710,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -22781.2,
+        "vorp": -1.0999999999999992
+      }
+    },
+    {
+      "id": "higgiro01x-16",
+      "sourceId": 16,
+      "date": "2009-01-16",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added DeSagana Diop; Sent out Matt Carroll and Ryan Hollins",
+      "participants": [
+        {
+          "name": "Matt Carroll",
+          "playerHref": "/players/c/carroma01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 2291.3,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ryan Hollins",
+          "playerHref": "/players/h/holliry01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 1014,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "DeSagana Diop",
+          "playerHref": "/players/d/diopde01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -6011,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2705.7,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -2705.7,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -25486.9,
+        "vorp": -1.0999999999999992
+      }
+    },
+    {
+      "id": "higgiro01x-17",
+      "sourceId": 17,
+      "date": "2009-01-21",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Anthony Tolliver",
+      "participants": [
+        {
+          "name": "Anthony Tolliver",
+          "playerHref": "/players/t/tollian01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0.7
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0.7
+      },
+      "runningValues": {
+        "bpm": -25486.9,
+        "vorp": -0.39999999999999925
+      }
+    },
+    {
+      "id": "higgiro01x-18",
+      "sourceId": 18,
+      "date": "2009-01-29",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Cartier Martin",
+      "participants": [
+        {
+          "name": "Cartier Martin",
+          "playerHref": "/players/m/martica01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -744.8,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -744.8,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -744.8,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -26231.7,
+        "vorp": -0.4999999999999992
+      }
+    },
+    {
+      "id": "higgiro01x-19",
+      "sourceId": 19,
+      "date": "2009-02-07",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Vladimir Radmanović; Sent out Shannon Brown and Adam Morrison",
+      "participants": [
+        {
+          "name": "Shannon Brown",
+          "playerHref": "/players/b/brownsh01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 1771.2,
+            "vorp": -1.2999999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Adam Morrison",
+          "playerHref": "/players/m/morriad01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 1537.5,
+            "vorp": 0.30000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Vladimir Radmanović",
+          "playerHref": "/players/r/radmavl01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -1669.8999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1638.8,
+        "vorp": -0.9999999999999998
+      },
+      "categoryValues": {
+        "bpm": 1638.8,
+        "vorp": -0.9999999999999998
+      },
+      "runningValues": {
+        "bpm": -24592.9,
+        "vorp": -1.499999999999999
+      }
+    },
+    {
+      "id": "higgiro01x-20",
+      "sourceId": 20,
+      "date": "2009-03-09",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Dontell Jefferson",
+      "participants": [
+        {
+          "name": "Dontell Jefferson",
+          "playerHref": "/players/j/jeffedo01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -8.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -8.4,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -8.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -24601.300000000003,
+        "vorp": -1.499999999999999
+      }
+    },
+    {
+      "id": "higgiro01x-21",
+      "sourceId": 21,
+      "date": "2009-06-25",
+      "type": "draft",
+      "tenureTeam": "CHA",
+      "summary": "Drafted Gerald Henderson, Derrick Brown, and Robert Vaden",
+      "participants": [
+        {
+          "name": "Gerald Henderson",
+          "playerHref": "/players/h/hendege02.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -14429.6,
+            "vorp": 0.7000000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Derrick Brown",
+          "playerHref": "/players/b/brownde04.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -3266.3,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Robert Vaden",
+          "playerHref": "/players/v/vadenro01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -17695.9,
+        "vorp": 1.2000000000000002
+      },
+      "categoryValues": {
+        "bpm": -17695.9,
+        "vorp": 1.2000000000000002
+      },
+      "runningValues": {
+        "bpm": -42297.200000000004,
+        "vorp": -0.2999999999999988
+      }
+    },
+    {
+      "id": "higgiro01x-22",
+      "sourceId": 22,
+      "date": "2009-06-25",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Sent out Robert Vaden",
+      "participants": [
+        {
+          "name": "Robert Vaden",
+          "playerHref": "/players/v/vadenro01.html",
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -42297.200000000004,
+        "vorp": -0.2999999999999988
+      }
+    },
+    {
+      "id": "higgiro01x-23",
+      "sourceId": 23,
+      "date": "2009-07-28",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Tyson Chandler; Sent out Emeka Okafor",
+      "participants": [
+        {
+          "name": "Emeka Okafor",
+          "playerHref": "/players/o/okafoem01.html",
+          "direction": "out",
+          "teamCode": "NOH",
+          "values": {
+            "bpm": 3842.5,
+            "vorp": -1.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tyson Chandler",
+          "playerHref": "/players/c/chandty01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -2326,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1516.5,
+        "vorp": -1.7
+      },
+      "categoryValues": {
+        "bpm": 1516.5,
+        "vorp": -1.7
+      },
+      "runningValues": {
+        "bpm": -40780.700000000004,
+        "vorp": -1.9999999999999987
+      }
+    },
+    {
+      "id": "higgiro01x-24",
+      "sourceId": 24,
+      "date": "2009-09-24",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Ronald Murray",
+      "participants": [
+        {
+          "name": "Ronald Murray",
+          "playerHref": "/players/m/murraro01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -2085.3,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2085.3,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -2085.3,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -42866.00000000001,
+        "vorp": -1.9999999999999987
+      }
+    },
+    {
+      "id": "higgiro01x-25",
+      "sourceId": 25,
+      "date": "2009-09-28",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Earl Barron",
+      "participants": [
+        {
+          "name": "Earl Barron",
+          "playerHref": "/players/b/barroea01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -42866.00000000001,
+        "vorp": -1.9999999999999987
+      }
+    },
+    {
+      "id": "higgiro01x-26",
+      "sourceId": 26,
+      "date": "2009-09-28",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Stephen Graham",
+      "participants": [
+        {
+          "name": "Stephen Graham",
+          "playerHref": "/players/g/grahast01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -1286.4,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1286.4,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": -1286.4,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -44152.40000000001,
+        "vorp": -1.8999999999999986
+      }
+    },
+    {
+      "id": "higgiro01x-27",
+      "sourceId": 27,
+      "date": "2009-09-28",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Antonio Anderson",
+      "participants": [
+        {
+          "name": "Antonio Anderson",
+          "playerHref": "/players/a/anderan02.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44152.40000000001,
+        "vorp": -1.8999999999999986
+      }
+    },
+    {
+      "id": "higgiro01x-28",
+      "sourceId": 28,
+      "date": "2009-11-16",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Stephen Jackson and Acie Law; Sent out Raja Bell and Vladimir Radmanović",
+      "participants": [
+        {
+          "name": "Raja Bell",
+          "playerHref": "/players/b/bellra01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -200.1,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Vladimir Radmanović",
+          "playerHref": "/players/r/radmavl01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 3300.5,
+            "vorp": -0.19999999999999996
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Stephen Jackson",
+          "playerHref": "/players/j/jacksst02.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 494.89999999999986,
+            "vorp": 2.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Acie Law",
+          "playerHref": "/players/l/lawac01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -277.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3318.1000000000004,
+        "vorp": 2.3000000000000003
+      },
+      "categoryValues": {
+        "bpm": 3318.1000000000004,
+        "vorp": 2.3000000000000003
+      },
+      "runningValues": {
+        "bpm": -40834.3,
+        "vorp": 0.4000000000000018
+      }
+    },
+    {
+      "id": "higgiro01x-29",
+      "sourceId": 29,
+      "date": "2010-02-18",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Tyrus Thomas; Sent out Acie Law, Ronald Murray, and Jusuf Nurkić",
+      "participants": [
+        {
+          "name": "Acie Law",
+          "playerHref": "/players/l/lawac01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 135,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ronald Murray",
+          "playerHref": "/players/m/murraro01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 1700,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jusuf Nurkić",
+          "playerHref": "/players/n/nurkiju01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tyrus Thomas",
+          "playerHref": "/players/t/thomaty01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -8838.2,
+            "vorp": -0.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -7003.200000000001,
+        "vorp": -0.8
+      },
+      "categoryValues": {
+        "bpm": -7003.200000000001,
+        "vorp": -0.8
+      },
+      "runningValues": {
+        "bpm": -47837.5,
+        "vorp": -0.39999999999999825
+      }
+    },
+    {
+      "id": "higgiro01x-30",
+      "sourceId": 30,
+      "date": "2010-02-18",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Theo Ratliff",
+      "participants": [
+        {
+          "name": "Theo Ratliff",
+          "playerHref": "/players/r/ratlith01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -936,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -936,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": -936,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -48773.5,
+        "vorp": -0.29999999999999827
+      }
+    },
+    {
+      "id": "higgiro01x-31",
+      "sourceId": 31,
+      "date": "2010-03-13",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Larry Hughes",
+      "participants": [
+        {
+          "name": "Larry Hughes",
+          "playerHref": "/players/h/hughela01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -619.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -619.5,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -619.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -49393,
+        "vorp": -0.29999999999999827
+      }
+    },
+    {
+      "id": "higgiro01x-32",
+      "sourceId": 32,
+      "date": "2010-07-10",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Dominic McGuire",
+      "participants": [
+        {
+          "name": "Dominic McGuire",
+          "playerHref": "/players/m/mcguido01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -49393,
+        "vorp": -0.29999999999999827
+      }
+    },
+    {
+      "id": "higgiro01x-33",
+      "sourceId": 33,
+      "date": "2010-07-13",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Matt Carroll, Erick Dampier, and Eduardo Nájera; Sent out Alexis Ajinça and Tyson Chandler",
+      "participants": [
+        {
+          "name": "Alexis Ajinça",
+          "playerHref": "/players/a/ajincal01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 217.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tyson Chandler",
+          "playerHref": "/players/c/chandty01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -9032.1,
+            "vorp": -4.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Matt Carroll",
+          "playerHref": "/players/c/carroma01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -5983,
+            "vorp": -0.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Erick Dampier",
+          "playerHref": "/players/d/dampier01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eduardo Nájera",
+          "playerHref": "/players/n/najered01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -2095.2,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -16892.8,
+        "vorp": -5.500000000000001
+      },
+      "categoryValues": {
+        "bpm": -16892.8,
+        "vorp": -5.500000000000001
+      },
+      "runningValues": {
+        "bpm": -66285.8,
+        "vorp": -5.799999999999999
+      }
+    },
+    {
+      "id": "higgiro01x-34",
+      "sourceId": 34,
+      "date": "2010-07-20",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Shaun Livingston",
+      "participants": [
+        {
+          "name": "Shaun Livingston",
+          "playerHref": "/players/l/livinsh01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0.7
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0.7
+      },
+      "runningValues": {
+        "bpm": -66285.8,
+        "vorp": -5.099999999999999
+      }
+    },
+    {
+      "id": "higgiro01x-35",
+      "sourceId": 35,
+      "date": "2010-08-06",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Sherron Collins",
+      "participants": [
+        {
+          "name": "Sherron Collins",
+          "playerHref": "/players/c/collish01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -528,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -528,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -528,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -66813.8,
+        "vorp": -5.199999999999998
+      }
+    },
+    {
+      "id": "higgiro01x-36",
+      "sourceId": 36,
+      "date": "2010-08-19",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Kwame Brown",
+      "participants": [
+        {
+          "name": "Kwame Brown",
+          "playerHref": "/players/b/brownkw01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -4799.2,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4799.2,
+        "vorp": -0.3
+      },
+      "categoryValues": {
+        "bpm": -4799.2,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -71613,
+        "vorp": -5.499999999999998
+      }
+    },
+    {
+      "id": "higgiro01x-37",
+      "sourceId": 37,
+      "date": "2011-02-24",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Dante Cunningham, Sean Marks, Joel Przybilla, Tobias Harris, and Shabazz Napier; Sent out Gerald Wallace",
+      "participants": [
+        {
+          "name": "Gerald Wallace",
+          "playerHref": "/players/w/wallage01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -4554.6,
+            "vorp": -2.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dante Cunningham",
+          "playerHref": "/players/c/cunnida01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -1481.1999999999998,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sean Marks",
+          "playerHref": "/players/m/marksse01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Joel Przybilla",
+          "playerHref": "/players/p/przybjo01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -873.2,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tobias Harris",
+          "playerHref": "/players/h/harrito02.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Shabazz Napier",
+          "playerHref": "/players/n/napiesh01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6909,
+        "vorp": -2.6
+      },
+      "categoryValues": {
+        "bpm": -6909,
+        "vorp": -2.6
+      },
+      "runningValues": {
+        "bpm": -78522,
+        "vorp": -8.099999999999998
+      }
+    },
+    {
+      "id": "higgiro01x-38",
+      "sourceId": 38,
+      "date": "2011-02-24",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Morris Peterson and D.J. White; Sent out Nazr Mohammed",
+      "participants": [
+        {
+          "name": "Nazr Mohammed",
+          "playerHref": "/players/m/mohamna01.html",
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 2670,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Morris Peterson",
+          "playerHref": "/players/p/petermo01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "D.J. White",
+          "playerHref": "/players/w/whitedj01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -4181.799999999999,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1511.7999999999993,
+        "vorp": -0.19999999999999998
+      },
+      "categoryValues": {
+        "bpm": -1511.7999999999993,
+        "vorp": -0.19999999999999998
+      },
+      "runningValues": {
+        "bpm": -80033.8,
+        "vorp": -8.299999999999999
+      }
+    },
+    {
+      "id": "higgiro01x-39",
+      "sourceId": 39,
+      "date": "2011-03-03",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Dominic McGuire",
+      "participants": [
+        {
+          "name": "Dominic McGuire",
+          "playerHref": "/players/m/mcguido01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -2204,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2204,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -2204,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -82237.8,
+        "vorp": -8.499999999999998
+      }
+    },
+    {
+      "id": "higgiro01x-40",
+      "sourceId": 40,
+      "date": "2011-03-07",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Garrett Temple",
+      "participants": [
+        {
+          "name": "Garrett Temple",
+          "playerHref": "/players/t/templga01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -819,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -819,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -819,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -83056.8,
+        "vorp": -8.599999999999998
+      }
+    }
+  ]
+}

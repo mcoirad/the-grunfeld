@@ -1,0 +1,2752 @@
+{
+  "slug": "henniro99x",
+  "sourceRowCount": 116,
+  "tenures": [
+    {
+      "teamCode": "ORL",
+      "startDate": "2012-06-28",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "henniro99x-0",
+      "sourceId": 0,
+      "date": "2012-06-28",
+      "type": "draft",
+      "tenureTeam": "ORL",
+      "summary": "Drafted Andrew Nicholson and Kyle O'Quinn",
+      "participants": [
+        {
+          "name": "Andrew Nicholson",
+          "playerHref": "/players/n/nichoan01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -12550.899999999998,
+            "vorp": -1.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kyle O'Quinn",
+          "playerHref": "/players/o/oquinky01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -1624.4,
+            "vorp": 1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -14175.299999999997,
+        "vorp": -0.30000000000000004
+      },
+      "categoryValues": {
+        "bpm": -14175.299999999997,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -14175.299999999997,
+        "vorp": -0.30000000000000004
+      }
+    },
+    {
+      "id": "henniro99x-1",
+      "sourceId": 1,
+      "date": "2012-07-11",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Gustavo Ayón; Sent out Ryan Anderson",
+      "participants": [
+        {
+          "name": "Ryan Anderson",
+          "playerHref": "/players/a/anderry01.html",
+          "direction": "out",
+          "teamCode": "NOH",
+          "values": {
+            "bpm": -5006,
+            "vorp": -2.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Gustavo Ayón",
+          "playerHref": "/players/a/ayongu01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -1142,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6148,
+        "vorp": -2.5
+      },
+      "categoryValues": {
+        "bpm": -6148,
+        "vorp": -2.5
+      },
+      "runningValues": {
+        "bpm": -20323.299999999996,
+        "vorp": -2.8
+      }
+    },
+    {
+      "id": "henniro99x-3",
+      "sourceId": 3,
+      "date": "2012-08-10",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Arron Afflalo, Al Harrington, Romero Osby, Dario Šarić, Christian Eyenga, Josh McRoberts, Wesley Iwundu, Maurice Harkless, Nikola Vučević, and Landry Shamet; Sent out Jason Richardson, Earl Clark, Chris Duhon, and Dwight Howard",
+      "participants": [
+        {
+          "name": "Jason Richardson",
+          "playerHref": "/players/r/richaja01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 1008.8000000000001,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Earl Clark",
+          "playerHref": "/players/c/clarkea01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 954.0999999999999,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chris Duhon",
+          "playerHref": "/players/d/duhonch01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 2378,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dwight Howard",
+          "playerHref": "/players/h/howardw01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -1700.2,
+            "vorp": -2.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Arron Afflalo",
+          "playerHref": "/players/a/afflaar01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Al Harrington",
+          "playerHref": "/players/h/harrial01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Romero Osby",
+          "playerHref": "/players/o/osbyro01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dario Šarić",
+          "playerHref": "/players/s/saricda01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1008,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Christian Eyenga",
+          "playerHref": "/players/e/eyengch01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Josh McRoberts",
+          "playerHref": "/players/m/mcrobjo01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Wesley Iwundu",
+          "playerHref": "/players/i/iwundwe01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Maurice Harkless",
+          "playerHref": "/players/h/harklma01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Nikola Vučević",
+          "playerHref": "/players/v/vucevni01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Landry Shamet",
+          "playerHref": "/players/s/shamela01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1632.6999999999998,
+        "vorp": -3.6999999999999997
+      },
+      "categoryValues": {
+        "bpm": 1632.6999999999998,
+        "vorp": -3.6999999999999997
+      },
+      "runningValues": {
+        "bpm": -18690.6,
+        "vorp": -6.499999999999999
+      }
+    },
+    {
+      "id": "henniro99x-4",
+      "sourceId": 4,
+      "date": "2012-09-06",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed E'Twaun Moore",
+      "participants": [
+        {
+          "name": "E'Twaun Moore",
+          "playerHref": "/players/m/mooreet01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -6278.2,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6278.2,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": -6278.2,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -24968.8,
+        "vorp": -6.3999999999999995
+      }
+    },
+    {
+      "id": "henniro99x-5",
+      "sourceId": 5,
+      "date": "2012-09-29",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Armon Johnson",
+      "participants": [
+        {
+          "name": "Armon Johnson",
+          "playerHref": "/players/j/johnsar02.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -24968.8,
+        "vorp": -6.3999999999999995
+      }
+    },
+    {
+      "id": "henniro99x-6",
+      "sourceId": 6,
+      "date": "2012-09-29",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed DeQuan Jones",
+      "participants": [
+        {
+          "name": "DeQuan Jones",
+          "playerHref": "/players/j/jonesde01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -3613.5,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3613.5,
+        "vorp": -0.5
+      },
+      "categoryValues": {
+        "bpm": -3613.5,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -28582.3,
+        "vorp": -6.8999999999999995
+      }
+    },
+    {
+      "id": "henniro99x-7",
+      "sourceId": 7,
+      "date": "2013-02-21",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Hakim Warrick; Sent out Josh McRoberts",
+      "participants": [
+        {
+          "name": "Josh McRoberts",
+          "playerHref": "/players/m/mcrobjo01.html",
+          "direction": "out",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -3998.2,
+            "vorp": -2.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Hakim Warrick",
+          "playerHref": "/players/w/warriha01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3998.2,
+        "vorp": -2.5
+      },
+      "categoryValues": {
+        "bpm": -3998.2,
+        "vorp": -2.5
+      },
+      "runningValues": {
+        "bpm": -32580.5,
+        "vorp": -9.399999999999999
+      }
+    },
+    {
+      "id": "henniro99x-8",
+      "sourceId": 8,
+      "date": "2013-02-21",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Tobias Harris, Doron Lamb, and Beno Udrih; Sent out Gustavo Ayón, J.J. Redick, and Ish Smith",
+      "participants": [
+        {
+          "name": "Gustavo Ayón",
+          "playerHref": "/players/a/ayongu01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 81.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "J.J. Redick",
+          "playerHref": "/players/r/redicjj01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 1608,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ish Smith",
+          "playerHref": "/players/s/smithis01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 165.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tobias Harris",
+          "playerHref": "/players/h/harrito02.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -110.5,
+            "vorp": 2.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Doron Lamb",
+          "playerHref": "/players/l/lambdo01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -4790.7,
+            "vorp": -0.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Beno Udrih",
+          "playerHref": "/players/u/udrihbe01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -959.4,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4005.5,
+        "vorp": 1.8
+      },
+      "categoryValues": {
+        "bpm": -4005.5,
+        "vorp": 1.8
+      },
+      "runningValues": {
+        "bpm": -36586,
+        "vorp": -7.599999999999999
+      }
+    },
+    {
+      "id": "henniro99x-9",
+      "sourceId": 9,
+      "date": "2013-06-27",
+      "type": "draft",
+      "tenureTeam": "ORL",
+      "summary": "Drafted Victor Oladipo and Romero Osby",
+      "participants": [
+        {
+          "name": "Victor Oladipo",
+          "playerHref": "/players/o/oladivi01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -466.7000000000003,
+            "vorp": 3.6000000000000005
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Romero Osby",
+          "playerHref": "/players/o/osbyro01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -466.7000000000003,
+        "vorp": 3.6000000000000005
+      },
+      "categoryValues": {
+        "bpm": -466.7000000000003,
+        "vorp": 3.6000000000000005
+      },
+      "runningValues": {
+        "bpm": -37052.7,
+        "vorp": -3.9999999999999982
+      }
+    },
+    {
+      "id": "henniro99x-10",
+      "sourceId": 10,
+      "date": "2013-07-18",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Jason Maxiell",
+      "participants": [
+        {
+          "name": "Jason Maxiell",
+          "playerHref": "/players/m/maxieja01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -2049.6,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2049.6,
+        "vorp": -0.3
+      },
+      "categoryValues": {
+        "bpm": -2049.6,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -39102.299999999996,
+        "vorp": -4.299999999999998
+      }
+    },
+    {
+      "id": "henniro99x-11",
+      "sourceId": 11,
+      "date": "2013-07-25",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Ronnie Price",
+      "participants": [
+        {
+          "name": "Ronnie Price",
+          "playerHref": "/players/p/pricero01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -1621.1,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1621.1,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1621.1,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -40723.399999999994,
+        "vorp": -4.499999999999998
+      }
+    },
+    {
+      "id": "henniro99x-12",
+      "sourceId": 12,
+      "date": "2014-02-25",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Adonis Thomas",
+      "participants": [
+        {
+          "name": "Adonis Thomas",
+          "playerHref": "/players/t/thomaad01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -151.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -151.2,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -151.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -40874.59999999999,
+        "vorp": -4.499999999999998
+      }
+    },
+    {
+      "id": "henniro99x-13",
+      "sourceId": 13,
+      "date": "2014-02-25",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Dewayne Dedmon",
+      "participants": [
+        {
+          "name": "Dewayne Dedmon",
+          "playerHref": "/players/d/dedmode01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -40874.59999999999,
+        "vorp": -4.499999999999998
+      }
+    },
+    {
+      "id": "henniro99x-14",
+      "sourceId": 14,
+      "date": "2014-03-17",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Dewayne Dedmon",
+      "participants": [
+        {
+          "name": "Dewayne Dedmon",
+          "playerHref": "/players/d/dedmode01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -4481.2,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4481.2,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -4481.2,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -45355.79999999999,
+        "vorp": -4.699999999999998
+      }
+    },
+    {
+      "id": "henniro99x-15",
+      "sourceId": 15,
+      "date": "2014-06-26",
+      "type": "draft",
+      "tenureTeam": "ORL",
+      "summary": "Drafted Aaron Gordon and Dario Šarić",
+      "participants": [
+        {
+          "name": "Aaron Gordon",
+          "playerHref": "/players/g/gordoaa01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dario Šarić",
+          "playerHref": "/players/s/saricda01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 119.89999999999986,
+        "vorp": 6.1
+      },
+      "runningValues": {
+        "bpm": -45355.79999999999,
+        "vorp": -4.699999999999998
+      }
+    },
+    {
+      "id": "henniro99x-16",
+      "sourceId": 16,
+      "date": "2014-06-26",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Elfrid Payton; Sent out Dario Šarić, Willy Hernangómez, and Landry Shamet",
+      "participants": [
+        {
+          "name": "Dario Šarić",
+          "playerHref": "/players/s/saricda01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 3754.8999999999996,
+            "vorp": -1.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Willy Hernangómez",
+          "playerHref": "/players/h/hernawi01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Landry Shamet",
+          "playerHref": "/players/s/shamela01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 2105.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Elfrid Payton",
+          "playerHref": "/players/p/paytoel01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5860.099999999999,
+        "vorp": -1.5
+      },
+      "categoryValues": {
+        "bpm": 5860.099999999999,
+        "vorp": -1.5
+      },
+      "runningValues": {
+        "bpm": -39495.69999999999,
+        "vorp": -6.1999999999999975
+      }
+    },
+    {
+      "id": "henniro99x-17",
+      "sourceId": 17,
+      "date": "2014-06-27",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Evan Fournier and Devyn Marble; Sent out Arron Afflalo",
+      "participants": [
+        {
+          "name": "Arron Afflalo",
+          "playerHref": "/players/a/afflaar01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 3150,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Evan Fournier",
+          "playerHref": "/players/f/fournev01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -3759.5999999999995,
+            "vorp": 1.1999999999999993
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Devyn Marble",
+          "playerHref": "/players/m/marblde01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -609.5999999999995,
+        "vorp": 1.0999999999999992
+      },
+      "categoryValues": {
+        "bpm": -609.5999999999995,
+        "vorp": 1.0999999999999992
+      },
+      "runningValues": {
+        "bpm": -40105.29999999999,
+        "vorp": -5.099999999999998
+      }
+    },
+    {
+      "id": "henniro99x-18",
+      "sourceId": 18,
+      "date": "2014-07-02",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Elfrid Payton",
+      "participants": [
+        {
+          "name": "Elfrid Payton",
+          "playerHref": "/players/p/paytoel01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -2489.7,
+            "vorp": 3.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2489.7,
+        "vorp": 3.6
+      },
+      "categoryValues": {
+        "bpm": -2489.7,
+        "vorp": 3.6
+      },
+      "runningValues": {
+        "bpm": -42594.999999999985,
+        "vorp": -1.4999999999999978
+      }
+    },
+    {
+      "id": "henniro99x-19",
+      "sourceId": 19,
+      "date": "2014-07-02",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Rookie contract for Aaron Gordon",
+      "participants": [
+        {
+          "name": "Aaron Gordon",
+          "playerHref": "/players/g/gordoaa01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 119.89999999999986,
+            "vorp": 6.1
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 119.89999999999986,
+        "vorp": 6.1
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -42475.099999999984,
+        "vorp": 4.600000000000001
+      }
+    },
+    {
+      "id": "henniro99x-20",
+      "sourceId": 20,
+      "date": "2014-07-11",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Ben Gordon",
+      "participants": [
+        {
+          "name": "Ben Gordon",
+          "playerHref": "/players/g/gordobe01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -3318,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3318,
+        "vorp": -0.4
+      },
+      "categoryValues": {
+        "bpm": -3318,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -45793.099999999984,
+        "vorp": 4.200000000000001
+      }
+    },
+    {
+      "id": "henniro99x-21",
+      "sourceId": 21,
+      "date": "2014-07-14",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Channing Frye",
+      "participants": [
+        {
+          "name": "Channing Frye",
+          "playerHref": "/players/f/fryech01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -2277.2,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2277.2,
+        "vorp": 0.7
+      },
+      "categoryValues": {
+        "bpm": -2277.2,
+        "vorp": 0.7
+      },
+      "runningValues": {
+        "bpm": -48070.29999999998,
+        "vorp": 4.900000000000001
+      }
+    },
+    {
+      "id": "henniro99x-22",
+      "sourceId": 22,
+      "date": "2014-07-14",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Anthony Randolph; Sent out Milovan Raković",
+      "participants": [
+        {
+          "name": "Milovan Raković",
+          "playerHref": "/players/r/rakovmi01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Anthony Randolph",
+          "playerHref": "/players/r/randoan01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -48070.29999999998,
+        "vorp": 4.900000000000001
+      }
+    },
+    {
+      "id": "henniro99x-23",
+      "sourceId": 23,
+      "date": "2014-07-24",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Devyn Marble",
+      "participants": [
+        {
+          "name": "Devyn Marble",
+          "playerHref": "/players/m/marblde01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -2517.2999999999997,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2517.2999999999997,
+        "vorp": -0.4
+      },
+      "categoryValues": {
+        "bpm": -2517.2999999999997,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -50587.599999999984,
+        "vorp": 4.500000000000001
+      }
+    },
+    {
+      "id": "henniro99x-24",
+      "sourceId": 24,
+      "date": "2014-09-29",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Kadeem Batts",
+      "participants": [
+        {
+          "name": "Kadeem Batts",
+          "playerHref": "/players/b/battska01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -50587.599999999984,
+        "vorp": 4.500000000000001
+      }
+    },
+    {
+      "id": "henniro99x-25",
+      "sourceId": 25,
+      "date": "2014-09-29",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Drew Crawford",
+      "participants": [
+        {
+          "name": "Drew Crawford",
+          "playerHref": "/players/c/crawfan01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -50587.599999999984,
+        "vorp": 4.500000000000001
+      }
+    },
+    {
+      "id": "henniro99x-26",
+      "sourceId": 26,
+      "date": "2014-09-29",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Seth Curry",
+      "participants": [
+        {
+          "name": "Seth Curry",
+          "playerHref": "/players/c/curryse01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -50587.599999999984,
+        "vorp": 4.500000000000001
+      }
+    },
+    {
+      "id": "henniro99x-27",
+      "sourceId": 27,
+      "date": "2014-09-29",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Peyton Siva",
+      "participants": [
+        {
+          "name": "Peyton Siva",
+          "playerHref": "/players/s/sivape01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -50587.599999999984,
+        "vorp": 4.500000000000001
+      }
+    },
+    {
+      "id": "henniro99x-31",
+      "sourceId": 31,
+      "date": "2015-06-25",
+      "type": "draft",
+      "tenureTeam": "ORL",
+      "summary": "Drafted Mario Hezonja and Tyler Harvey",
+      "participants": [
+        {
+          "name": "Mario Hezonja",
+          "playerHref": "/players/h/hezonma01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tyler Harvey",
+          "playerHref": "/players/h/harvety01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -10008.8,
+        "vorp": -0.5000000000000001
+      },
+      "runningValues": {
+        "bpm": -50587.599999999984,
+        "vorp": 4.500000000000001
+      }
+    },
+    {
+      "id": "henniro99x-32",
+      "sourceId": 32,
+      "date": "2015-06-25",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Jānis Timma; Sent out Luke Ridnour",
+      "participants": [
+        {
+          "name": "Luke Ridnour",
+          "playerHref": "/players/r/ridnolu01.html",
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jānis Timma",
+          "playerHref": "/players/t/timmaja01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -50587.599999999984,
+        "vorp": 4.500000000000001
+      }
+    },
+    {
+      "id": "henniro99x-33",
+      "sourceId": 33,
+      "date": "2015-07-09",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed C.J. Watson",
+      "participants": [
+        {
+          "name": "C.J. Watson",
+          "playerHref": "/players/w/watsocj01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -5510,
+            "vorp": -0.6000000000000001
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5510,
+        "vorp": -0.6000000000000001
+      },
+      "categoryValues": {
+        "bpm": -5510,
+        "vorp": -0.6000000000000001
+      },
+      "runningValues": {
+        "bpm": -56097.599999999984,
+        "vorp": 3.900000000000001
+      }
+    },
+    {
+      "id": "henniro99x-34",
+      "sourceId": 34,
+      "date": "2015-07-09",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Carsen Edwards; Sent out Kyle O'Quinn and Ignas Brazdeikis",
+      "participants": [
+        {
+          "name": "Kyle O'Quinn",
+          "playerHref": "/players/o/oquinky01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -6801.7,
+            "vorp": -3.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ignas Brazdeikis",
+          "playerHref": "/players/b/brazdig01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 500.40000000000003,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Carsen Edwards",
+          "playerHref": "/players/e/edwarca01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6301.3,
+        "vorp": -3.4
+      },
+      "categoryValues": {
+        "bpm": -6301.3,
+        "vorp": -3.4
+      },
+      "runningValues": {
+        "bpm": -62398.89999999998,
+        "vorp": 0.5000000000000008
+      }
+    },
+    {
+      "id": "henniro99x-35",
+      "sourceId": 35,
+      "date": "2015-07-10",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Rookie contract for Mario Hezonja",
+      "participants": [
+        {
+          "name": "Mario Hezonja",
+          "playerHref": "/players/h/hezonma01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -10008.8,
+            "vorp": -0.5000000000000001
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -10008.8,
+        "vorp": -0.5000000000000001
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -72407.69999999998,
+        "vorp": 6.661338147750939e-16
+      }
+    },
+    {
+      "id": "henniro99x-36",
+      "sourceId": 36,
+      "date": "2015-07-14",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Tobias Harris",
+      "participants": [
+        {
+          "name": "Tobias Harris",
+          "playerHref": "/players/h/harrito02.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 966,
+            "vorp": 1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 966,
+        "vorp": 1
+      },
+      "categoryValues": {
+        "bpm": 966,
+        "vorp": 1
+      },
+      "runningValues": {
+        "bpm": -71441.69999999998,
+        "vorp": 1.0000000000000007
+      }
+    },
+    {
+      "id": "henniro99x-37",
+      "sourceId": 37,
+      "date": "2015-07-14",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Jason Smith",
+      "participants": [
+        {
+          "name": "Jason Smith",
+          "playerHref": "/players/s/smithja02.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -2598.2000000000003,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2598.2000000000003,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -2598.2000000000003,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -74039.89999999998,
+        "vorp": 0.9000000000000007
+      }
+    },
+    {
+      "id": "henniro99x-38",
+      "sourceId": 38,
+      "date": "2015-07-14",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Sent out Maurice Harkless",
+      "participants": [
+        {
+          "name": "Maurice Harkless",
+          "playerHref": "/players/h/harklma01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -697.7999999999996,
+            "vorp": -3.4000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -697.7999999999996,
+        "vorp": -3.4000000000000004
+      },
+      "categoryValues": {
+        "bpm": -697.7999999999996,
+        "vorp": -3.4000000000000004
+      },
+      "runningValues": {
+        "bpm": -74737.69999999998,
+        "vorp": -2.4999999999999996
+      }
+    },
+    {
+      "id": "henniro99x-39",
+      "sourceId": 39,
+      "date": "2015-07-27",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Shabazz Napier",
+      "participants": [
+        {
+          "name": "Shabazz Napier",
+          "playerHref": "/players/n/napiesh01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -1800,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1800,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1800,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -76537.69999999998,
+        "vorp": -2.6999999999999997
+      }
+    },
+    {
+      "id": "henniro99x-40",
+      "sourceId": 40,
+      "date": "2015-08-04",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Melvin Ejim",
+      "participants": [
+        {
+          "name": "Melvin Ejim",
+          "playerHref": "/players/e/ejimme01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -76537.69999999998,
+        "vorp": -2.6999999999999997
+      }
+    },
+    {
+      "id": "henniro99x-41",
+      "sourceId": 41,
+      "date": "2015-09-24",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Keith Appling",
+      "participants": [
+        {
+          "name": "Keith Appling",
+          "playerHref": "/players/a/applike01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -76537.69999999998,
+        "vorp": -2.6999999999999997
+      }
+    },
+    {
+      "id": "henniro99x-42",
+      "sourceId": 42,
+      "date": "2015-09-24",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Nnanna Egwu",
+      "participants": [
+        {
+          "name": "Nnanna Egwu",
+          "playerHref": "/players/e/egwunn01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -76537.69999999998,
+        "vorp": -2.6999999999999997
+      }
+    },
+    {
+      "id": "henniro99x-43",
+      "sourceId": 43,
+      "date": "2015-09-24",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Jordan Sibert",
+      "participants": [
+        {
+          "name": "Jordan Sibert",
+          "playerHref": "/players/s/siberjo01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -76537.69999999998,
+        "vorp": -2.6999999999999997
+      }
+    },
+    {
+      "id": "henniro99x-44",
+      "sourceId": 44,
+      "date": "2015-09-24",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Greg Stiemsma",
+      "participants": [
+        {
+          "name": "Greg Stiemsma",
+          "playerHref": "/players/s/stiemgr01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -76537.69999999998,
+        "vorp": -2.6999999999999997
+      }
+    },
+    {
+      "id": "henniro99x-45",
+      "sourceId": 45,
+      "date": "2016-01-12",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Joe Harris",
+      "participants": [
+        {
+          "name": "Joe Harris",
+          "playerHref": "/players/h/harrijo01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -76537.69999999998,
+        "vorp": -2.6999999999999997
+      }
+    },
+    {
+      "id": "henniro99x-46",
+      "sourceId": 46,
+      "date": "2016-01-18",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Keith Appling",
+      "participants": [
+        {
+          "name": "Keith Appling",
+          "playerHref": "/players/a/applike01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -407.7,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -407.7,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -407.7,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -76945.39999999998,
+        "vorp": -2.8
+      }
+    },
+    {
+      "id": "henniro99x-47",
+      "sourceId": 47,
+      "date": "2016-02-16",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Ersan İlyasova and Brandon Jennings; Sent out Tobias Harris",
+      "participants": [
+        {
+          "name": "Tobias Harris",
+          "playerHref": "/players/h/harrito02.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -12238.6,
+            "vorp": -7.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ersan İlyasova",
+          "playerHref": "/players/i/ilyaser01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -1072.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Brandon Jennings",
+          "playerHref": "/players/j/jennibr01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -361.6,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -13673,
+        "vorp": -7.6000000000000005
+      },
+      "categoryValues": {
+        "bpm": -13673,
+        "vorp": -7.6000000000000005
+      },
+      "runningValues": {
+        "bpm": -90618.4,
+        "vorp": -10.4
+      }
+    },
+    {
+      "id": "henniro99x-48",
+      "sourceId": 48,
+      "date": "2016-02-18",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Jared Cunningham and Vernon Carey Jr.; Sent out Channing Frye",
+      "participants": [
+        {
+          "name": "Channing Frye",
+          "playerHref": "/players/f/fryech01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -487,
+            "vorp": -1.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jared Cunningham",
+          "playerHref": "/players/c/cunnija01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1952.5,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Vernon Carey Jr.",
+          "playerHref": "/players/c/careyve01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2439.5,
+        "vorp": -1.9000000000000001
+      },
+      "categoryValues": {
+        "bpm": -2439.5,
+        "vorp": -1.9000000000000001
+      },
+      "runningValues": {
+        "bpm": -93057.9,
+        "vorp": -12.3
+      }
+    },
+    {
+      "id": "henniro99x-50",
+      "sourceId": 50,
+      "date": "2016-06-23",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Serge Ibaka; Sent out Ersan İlyasova, Victor Oladipo, and Domantas Sabonis",
+      "participants": [
+        {
+          "name": "Ersan İlyasova",
+          "playerHref": "/players/i/ilyaser01.html",
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 161.20000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Victor Oladipo",
+          "playerHref": "/players/o/oladivi01.html",
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 1111,
+            "vorp": -0.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Domantas Sabonis",
+          "playerHref": "/players/s/sabondo01.html",
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 7344,
+            "vorp": 1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Serge Ibaka",
+          "playerHref": "/players/i/ibakase01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 1197,
+            "vorp": 1.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 9813.2,
+        "vorp": 1.2999999999999998
+      },
+      "categoryValues": {
+        "bpm": 9813.2,
+        "vorp": 1.2999999999999998
+      },
+      "runningValues": {
+        "bpm": -83244.7,
+        "vorp": -11.000000000000002
+      }
+    },
+    {
+      "id": "henniro99x-51",
+      "sourceId": 51,
+      "date": "2016-06-23",
+      "type": "draft",
+      "tenureTeam": "ORL",
+      "summary": "Drafted Domantas Sabonis, Stephen Zimmerman, and Jake Layman",
+      "participants": [
+        {
+          "name": "Domantas Sabonis",
+          "playerHref": "/players/s/sabondo01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Stephen Zimmerman",
+          "playerHref": "/players/z/zimmest01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jake Layman",
+          "playerHref": "/players/l/laymaja01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -885.5999999999999,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -83244.7,
+        "vorp": -11.000000000000002
+      }
+    },
+    {
+      "id": "henniro99x-52",
+      "sourceId": 52,
+      "date": "2016-06-23",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Jaylen Hands; Sent out Jake Layman",
+      "participants": [
+        {
+          "name": "Jake Layman",
+          "playerHref": "/players/l/laymaja01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 2945.1000000000004,
+            "vorp": -0.09999999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jaylen Hands",
+          "playerHref": "/players/h/handsja01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2945.1000000000004,
+        "vorp": -0.09999999999999998
+      },
+      "categoryValues": {
+        "bpm": 2945.1000000000004,
+        "vorp": -0.09999999999999998
+      },
+      "runningValues": {
+        "bpm": -80299.59999999999,
+        "vorp": -11.100000000000001
+      }
+    },
+    {
+      "id": "henniro99x-53",
+      "sourceId": 53,
+      "date": "2016-06-29",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Jodie Meeks; Sent out Jaylen Hands",
+      "participants": [
+        {
+          "name": "Jaylen Hands",
+          "playerHref": "/players/h/handsja01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jodie Meeks",
+          "playerHref": "/players/m/meeksjo01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -1328.4,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1328.4,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": -1328.4,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -81627.99999999999,
+        "vorp": -11.000000000000002
+      }
+    },
+    {
+      "id": "henniro99x-54",
+      "sourceId": 54,
+      "date": "2016-07-07",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Sent out Shabazz Napier",
+      "participants": [
+        {
+          "name": "Shabazz Napier",
+          "playerHref": "/players/n/napiesh01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -869.7,
+            "vorp": -1.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -869.7,
+        "vorp": -1.2
+      },
+      "categoryValues": {
+        "bpm": -869.7,
+        "vorp": -1.2
+      },
+      "runningValues": {
+        "bpm": -82497.69999999998,
+        "vorp": -12.200000000000001
+      }
+    },
+    {
+      "id": "henniro99x-55",
+      "sourceId": 55,
+      "date": "2016-07-07",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Jeff Green",
+      "participants": [
+        {
+          "name": "Jeff Green",
+          "playerHref": "/players/g/greenje02.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -5522.400000000001,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5522.400000000001,
+        "vorp": -0.6
+      },
+      "categoryValues": {
+        "bpm": -5522.400000000001,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": -88020.09999999998,
+        "vorp": -12.8
+      }
+    },
+    {
+      "id": "henniro99x-56",
+      "sourceId": 56,
+      "date": "2016-07-07",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Bismack Biyombo",
+      "participants": [
+        {
+          "name": "Bismack Biyombo",
+          "playerHref": "/players/b/biyombi01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -9325.6,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -9325.6,
+        "vorp": -0.6
+      },
+      "categoryValues": {
+        "bpm": -9325.6,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": -97345.69999999998,
+        "vorp": -13.4
+      }
+    },
+    {
+      "id": "henniro99x-57",
+      "sourceId": 57,
+      "date": "2016-07-07",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Evan Fournier",
+      "participants": [
+        {
+          "name": "Evan Fournier",
+          "playerHref": "/players/f/fournev01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -6798.400000000001,
+            "vorp": 3.1000000000000005
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6798.400000000001,
+        "vorp": 3.1000000000000005
+      },
+      "categoryValues": {
+        "bpm": -6798.400000000001,
+        "vorp": 3.1000000000000005
+      },
+      "runningValues": {
+        "bpm": -104144.09999999998,
+        "vorp": -10.3
+      }
+    },
+    {
+      "id": "henniro99x-58",
+      "sourceId": 58,
+      "date": "2016-07-07",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed D.J. Augustin",
+      "participants": [
+        {
+          "name": "D.J. Augustin",
+          "playerHref": "/players/a/augusdj01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -5961.5,
+            "vorp": 1.9999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5961.5,
+        "vorp": 1.9999999999999998
+      },
+      "categoryValues": {
+        "bpm": -5961.5,
+        "vorp": 1.9999999999999998
+      },
+      "runningValues": {
+        "bpm": -110105.59999999998,
+        "vorp": -8.3
+      }
+    },
+    {
+      "id": "henniro99x-59",
+      "sourceId": 59,
+      "date": "2016-07-07",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Rookie contract for Stephen Zimmerman",
+      "participants": [
+        {
+          "name": "Stephen Zimmerman",
+          "playerHref": "/players/z/zimmest01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -885.5999999999999,
+            "vorp": -0.2
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -885.5999999999999,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -110991.19999999998,
+        "vorp": -8.5
+      }
+    },
+    {
+      "id": "henniro99x-60",
+      "sourceId": 60,
+      "date": "2016-07-15",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added C.J. Wilcox; Sent out Devyn Marble and Vernon Carey Jr.",
+      "participants": [
+        {
+          "name": "Devyn Marble",
+          "playerHref": "/players/m/marblde01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Vernon Carey Jr.",
+          "playerHref": "/players/c/careyve01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "C.J. Wilcox",
+          "playerHref": "/players/w/wilcocj01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -864,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -864,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -864,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -111855.19999999998,
+        "vorp": -8.7
+      }
+    },
+    {
+      "id": "henniro99x-61",
+      "sourceId": 61,
+      "date": "2016-09-08",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Cliff Alexander",
+      "participants": [
+        {
+          "name": "Cliff Alexander",
+          "playerHref": "/players/a/alexacl01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -111855.19999999998,
+        "vorp": -8.7
+      }
+    },
+    {
+      "id": "henniro99x-62",
+      "sourceId": 62,
+      "date": "2016-09-08",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Branden Dawson",
+      "participants": [
+        {
+          "name": "Branden Dawson",
+          "playerHref": "/players/d/dawsobr01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -111855.19999999998,
+        "vorp": -8.7
+      }
+    },
+    {
+      "id": "henniro99x-63",
+      "sourceId": 63,
+      "date": "2016-09-08",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Nick Johnson",
+      "participants": [
+        {
+          "name": "Nick Johnson",
+          "playerHref": "/players/j/johnsni01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -111855.19999999998,
+        "vorp": -8.7
+      }
+    },
+    {
+      "id": "henniro99x-64",
+      "sourceId": 64,
+      "date": "2016-09-08",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Kevin Murphy",
+      "participants": [
+        {
+          "name": "Kevin Murphy",
+          "playerHref": "/players/m/murphke01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -111855.19999999998,
+        "vorp": -8.7
+      }
+    },
+    {
+      "id": "henniro99x-65",
+      "sourceId": 65,
+      "date": "2016-09-08",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Arinze Onuaku",
+      "participants": [
+        {
+          "name": "Arinze Onuaku",
+          "playerHref": "/players/o/onuakar01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -176.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -176.4,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -176.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -112031.59999999998,
+        "vorp": -8.7
+      }
+    },
+    {
+      "id": "henniro99x-66",
+      "sourceId": 66,
+      "date": "2016-09-08",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Damjan Rudež",
+      "participants": [
+        {
+          "name": "Damjan Rudež",
+          "playerHref": "/players/r/rudezda01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -1413,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1413,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1413,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -113444.59999999998,
+        "vorp": -8.899999999999999
+      }
+    },
+    {
+      "id": "henniro99x-67",
+      "sourceId": 67,
+      "date": "2016-10-21",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Ramon Galloway",
+      "participants": [
+        {
+          "name": "Ramon Galloway",
+          "playerHref": "/players/g/gallora01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -113444.59999999998,
+        "vorp": -8.899999999999999
+      }
+    },
+    {
+      "id": "henniro99x-68",
+      "sourceId": 68,
+      "date": "2017-01-22",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Anthony Brown",
+      "participants": [
+        {
+          "name": "Anthony Brown",
+          "playerHref": "/players/b/brownan02.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -51.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -51.2,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -51.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -113495.79999999997,
+        "vorp": -8.899999999999999
+      }
+    },
+    {
+      "id": "henniro99x-69",
+      "sourceId": 69,
+      "date": "2017-02-14",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Terrence Ross and Anžejs Pasečņiks; Sent out Serge Ibaka",
+      "participants": [
+        {
+          "name": "Serge Ibaka",
+          "playerHref": "/players/i/ibakase01.html",
+          "direction": "out",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 454.5999999999999,
+            "vorp": -3.0999999999999996
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Terrence Ross",
+          "playerHref": "/players/r/rosste01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -13907.699999999999,
+            "vorp": 1.0999999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Anžejs Pasečņiks",
+          "playerHref": "/players/p/pasecan01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -13453.099999999999,
+        "vorp": -1.9999999999999998
+      },
+      "categoryValues": {
+        "bpm": -13453.099999999999,
+        "vorp": -1.9999999999999998
+      },
+      "runningValues": {
+        "bpm": -126948.89999999997,
+        "vorp": -10.899999999999999
+      }
+    },
+    {
+      "id": "henniro99x-70",
+      "sourceId": 70,
+      "date": "2017-04-03",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Patricio Garino",
+      "participants": [
+        {
+          "name": "Patricio Garino",
+          "playerHref": "/players/g/garinpa01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -765.4,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -765.4,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -765.4,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -127714.29999999996,
+        "vorp": -11.099999999999998
+      }
+    },
+    {
+      "id": "henniro99x-71",
+      "sourceId": 71,
+      "date": "2017-04-03",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Marcus Georges-Hunt",
+      "participants": [
+        {
+          "name": "Marcus Georges-Hunt",
+          "playerHref": "/players/g/georgma01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -216,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -216,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -216,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -127930.29999999996,
+        "vorp": -11.099999999999998
+      }
+    }
+  ]
+}

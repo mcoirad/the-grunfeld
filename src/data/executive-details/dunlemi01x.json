@@ -1,0 +1,3395 @@
+{
+  "slug": "dunlemi01x",
+  "sourceRowCount": 143,
+  "tenures": [
+    {
+      "teamCode": "MIL",
+      "startDate": "1992-06-24",
+      "endDate": "2008-11-21"
+    },
+    {
+      "teamCode": "LAC",
+      "startDate": "2008-11-21",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "dunlemi01x-0",
+      "sourceId": 0,
+      "date": "1992-06-24",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Blue Edwards, Eric Murdock, and Lee Mayberry; Sent out Jay Humphries and Larry Krystkowiak",
+      "participants": [
+        {
+          "name": "Jay Humphries",
+          "playerHref": "/players/h/humphja01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 8853.300000000001,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Larry Krystkowiak",
+          "playerHref": "/players/k/krystla01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 3405,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Blue Edwards",
+          "playerHref": "/players/e/edwarbl01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -3743.9000000000005,
+            "vorp": 1.5999999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eric Murdock",
+          "playerHref": "/players/m/murdoer01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 19426.8,
+            "vorp": 8.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lee Mayberry",
+          "playerHref": "/players/m/maybele01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 27941.2,
+        "vorp": 10.799999999999999
+      },
+      "categoryValues": {
+        "bpm": 27941.2,
+        "vorp": 10.799999999999999
+      },
+      "runningValues": {
+        "bpm": 27941.2,
+        "vorp": 10.799999999999999
+      }
+    },
+    {
+      "id": "dunlemi01x-1",
+      "sourceId": 1,
+      "date": "1992-06-24",
+      "type": "draft",
+      "tenureTeam": "MIL",
+      "summary": "Drafted Todd Day and Lee Mayberry",
+      "participants": [
+        {
+          "name": "Todd Day",
+          "playerHref": "/players/d/dayto01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lee Mayberry",
+          "playerHref": "/players/m/maybele01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -15557.900000000001,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -15557.900000000001,
+        "vorp": -0.7
+      },
+      "categoryValues": {
+        "bpm": -24037.800000000003,
+        "vorp": 0.7000000000000002
+      },
+      "runningValues": {
+        "bpm": 12383.3,
+        "vorp": 10.1
+      }
+    },
+    {
+      "id": "dunlemi01x-2",
+      "sourceId": 2,
+      "date": "1992-07-01",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Alaa Abdelnaby; Sent out Tracy Murray",
+      "participants": [
+        {
+          "name": "Tracy Murray",
+          "playerHref": "/players/m/murratr01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 2331.1,
+            "vorp": -0.29999999999999993
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alaa Abdelnaby",
+          "playerHref": "/players/a/abdelal01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -556.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1774.6,
+        "vorp": -0.3999999999999999
+      },
+      "categoryValues": {
+        "bpm": 1774.6,
+        "vorp": -0.3999999999999999
+      },
+      "runningValues": {
+        "bpm": 14157.9,
+        "vorp": 9.7
+      }
+    },
+    {
+      "id": "dunlemi01x-3",
+      "sourceId": 3,
+      "date": "1992-07-01",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Tracy Murray; Sent out Dale Ellis",
+      "participants": [
+        {
+          "name": "Dale Ellis",
+          "playerHref": "/players/e/ellisda01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -3178.5,
+            "vorp": -3.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tracy Murray",
+          "playerHref": "/players/m/murratr01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3178.5,
+        "vorp": -3.5
+      },
+      "categoryValues": {
+        "bpm": -3178.5,
+        "vorp": -3.5
+      },
+      "runningValues": {
+        "bpm": 10979.4,
+        "vorp": 6.199999999999999
+      }
+    },
+    {
+      "id": "dunlemi01x-4",
+      "sourceId": 4,
+      "date": "1992-08-04",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Sam Vincent and Voshon Lenard; Sent out Lester Conner",
+      "participants": [
+        {
+          "name": "Lester Conner",
+          "playerHref": "/players/c/connele01.html",
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sam Vincent",
+          "playerHref": "/players/v/vincesa01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Voshon Lenard",
+          "playerHref": "/players/l/lenarvo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 10979.4,
+        "vorp": 6.199999999999999
+      }
+    },
+    {
+      "id": "dunlemi01x-5",
+      "sourceId": 5,
+      "date": "1992-08-31",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Anthony Pullard",
+      "participants": [
+        {
+          "name": "Anthony Pullard",
+          "playerHref": "/players/p/pullaan01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -284.90000000000003,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -284.90000000000003,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -284.90000000000003,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 10694.5,
+        "vorp": 6.1
+      }
+    },
+    {
+      "id": "dunlemi01x-6",
+      "sourceId": 6,
+      "date": "1992-09-01",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Kevin Williams",
+      "participants": [
+        {
+          "name": "Kevin Williams",
+          "playerHref": "/players/w/willike01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 10694.5,
+        "vorp": 6.1
+      }
+    },
+    {
+      "id": "dunlemi01x-7",
+      "sourceId": 7,
+      "date": "1992-10-01",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Stephen Thompson",
+      "participants": [
+        {
+          "name": "Stephen Thompson",
+          "playerHref": "/players/t/thompst01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 10694.5,
+        "vorp": 6.1
+      }
+    },
+    {
+      "id": "dunlemi01x-8",
+      "sourceId": 8,
+      "date": "1992-10-08",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Michael Smith",
+      "participants": [
+        {
+          "name": "Michael Smith",
+          "playerHref": "/players/s/smithmi01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 10694.5,
+        "vorp": 6.1
+      }
+    },
+    {
+      "id": "dunlemi01x-9",
+      "sourceId": 9,
+      "date": "1992-10-28",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Rookie contract for Todd Day",
+      "participants": [
+        {
+          "name": "Todd Day",
+          "playerHref": "/players/d/dayto01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -8479.9,
+            "vorp": 1.4000000000000001
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -8479.9,
+        "vorp": 1.4000000000000001
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 2214.6000000000004,
+        "vorp": 7.5
+      }
+    },
+    {
+      "id": "dunlemi01x-10",
+      "sourceId": 10,
+      "date": "1992-12-04",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Jon Barry and Eric Snow; Sent out Alaa Abdelnaby",
+      "participants": [
+        {
+          "name": "Alaa Abdelnaby",
+          "playerHref": "/players/a/abdelal01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 5784.6,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jon Barry",
+          "playerHref": "/players/b/barryjo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -1879.2,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eric Snow",
+          "playerHref": "/players/s/snower01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3905.4000000000005,
+        "vorp": 1.5
+      },
+      "categoryValues": {
+        "bpm": 3905.4000000000005,
+        "vorp": 1.5
+      },
+      "runningValues": {
+        "bpm": 6120.000000000001,
+        "vorp": 9
+      }
+    },
+    {
+      "id": "dunlemi01x-11",
+      "sourceId": 11,
+      "date": "1993-01-10",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Alan Ogg",
+      "participants": [
+        {
+          "name": "Alan Ogg",
+          "playerHref": "/players/o/oggal01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -96.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -96.2,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -96.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 6023.800000000001,
+        "vorp": 9
+      }
+    },
+    {
+      "id": "dunlemi01x-12",
+      "sourceId": 12,
+      "date": "1993-02-01",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Dan O'Sullivan",
+      "participants": [
+        {
+          "name": "Dan O'Sullivan",
+          "playerHref": "/players/o/osullda01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 70,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 70,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 70,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 6093.800000000001,
+        "vorp": 9
+      }
+    },
+    {
+      "id": "dunlemi01x-13",
+      "sourceId": 13,
+      "date": "1993-02-22",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Derek Strong",
+      "participants": [
+        {
+          "name": "Derek Strong",
+          "playerHref": "/players/s/stronde01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 6093.800000000001,
+        "vorp": 9
+      }
+    },
+    {
+      "id": "dunlemi01x-14",
+      "sourceId": 14,
+      "date": "1993-02-22",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Alex Stivrins",
+      "participants": [
+        {
+          "name": "Alex Stivrins",
+          "playerHref": "/players/s/stivral01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -185,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -185,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -185,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 5908.800000000001,
+        "vorp": 9
+      }
+    },
+    {
+      "id": "dunlemi01x-15",
+      "sourceId": 15,
+      "date": "1993-02-25",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Orlando Woolridge; Sent out Alvin Robertson",
+      "participants": [
+        {
+          "name": "Alvin Robertson",
+          "playerHref": "/players/r/roberal01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1035.1000000000001,
+            "vorp": -0.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Orlando Woolridge",
+          "playerHref": "/players/w/woolror01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -241.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1276.9,
+        "vorp": -0.8
+      },
+      "categoryValues": {
+        "bpm": -1276.9,
+        "vorp": -0.8
+      },
+      "runningValues": {
+        "bpm": 4631.900000000001,
+        "vorp": 8.2
+      }
+    },
+    {
+      "id": "dunlemi01x-16",
+      "sourceId": 16,
+      "date": "1993-03-14",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Derek Strong",
+      "participants": [
+        {
+          "name": "Derek Strong",
+          "playerHref": "/players/s/stronde01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 508.5,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 508.5,
+        "vorp": 0.3
+      },
+      "categoryValues": {
+        "bpm": 508.5,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": 5140.400000000001,
+        "vorp": 8.5
+      }
+    },
+    {
+      "id": "dunlemi01x-17",
+      "sourceId": 17,
+      "date": "1993-06-30",
+      "type": "draft",
+      "tenureTeam": "MIL",
+      "summary": "Drafted Vin Baker",
+      "participants": [
+        {
+          "name": "Vin Baker",
+          "playerHref": "/players/b/bakervi01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 4250.1,
+            "vorp": 7.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4250.1,
+        "vorp": 7.4
+      },
+      "categoryValues": {
+        "bpm": 4250.1,
+        "vorp": 7.4
+      },
+      "runningValues": {
+        "bpm": 9390.5,
+        "vorp": 15.9
+      }
+    },
+    {
+      "id": "dunlemi01x-18",
+      "sourceId": 18,
+      "date": "1993-07-07",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Ken Norman",
+      "participants": [
+        {
+          "name": "Ken Norman",
+          "playerHref": "/players/n/normake01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -5839.7,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5839.7,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -5839.7,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 3550.8,
+        "vorp": 15.700000000000001
+      }
+    },
+    {
+      "id": "dunlemi01x-19",
+      "sourceId": 19,
+      "date": "1993-09-15",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Derek Strong",
+      "participants": [
+        {
+          "name": "Derek Strong",
+          "playerHref": "/players/s/stronde01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -2827.5,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2827.5,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -2827.5,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 723.3000000000002,
+        "vorp": 15.500000000000002
+      }
+    },
+    {
+      "id": "dunlemi01x-20",
+      "sourceId": 20,
+      "date": "1993-10-07",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed John Morton",
+      "participants": [
+        {
+          "name": "John Morton",
+          "playerHref": "/players/m/mortojo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 723.3000000000002,
+        "vorp": 15.500000000000002
+      }
+    },
+    {
+      "id": "dunlemi01x-21",
+      "sourceId": 21,
+      "date": "1993-11-19",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Greg Foster",
+      "participants": [
+        {
+          "name": "Greg Foster",
+          "playerHref": "/players/f/fostegr01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -274.7,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -274.7,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -274.7,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 448.6000000000002,
+        "vorp": 15.400000000000002
+      }
+    },
+    {
+      "id": "dunlemi01x-22",
+      "sourceId": 22,
+      "date": "1994-01-15",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Anthony Cook, Eric Mobley, and Rashard Griffith; Sent out Anthony Avent",
+      "participants": [
+        {
+          "name": "Anthony Avent",
+          "playerHref": "/players/a/aventan01.html",
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 8213.4,
+            "vorp": 1.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Anthony Cook",
+          "playerHref": "/players/c/cookan01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -964.8,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eric Mobley",
+          "playerHref": "/players/m/mobleer01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rashard Griffith",
+          "playerHref": "/players/g/griffra01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 7248.599999999999,
+        "vorp": 1.0999999999999999
+      },
+      "categoryValues": {
+        "bpm": 7248.599999999999,
+        "vorp": 1.0999999999999999
+      },
+      "runningValues": {
+        "bpm": 7697.2,
+        "vorp": 16.5
+      }
+    },
+    {
+      "id": "dunlemi01x-23",
+      "sourceId": 23,
+      "date": "1994-02-24",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Mike Gminski and Paul Grant; Sent out Frank Brickowski",
+      "participants": [
+        {
+          "name": "Frank Brickowski",
+          "playerHref": "/players/b/brickfr01.html",
+          "direction": "out",
+          "teamCode": "CHH",
+          "values": {
+            "bpm": 1175.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Gminski",
+          "playerHref": "/players/g/gminsmi01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -766.8,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Paul Grant",
+          "playerHref": "/players/g/grantpa01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -17,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 391.60000000000014,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": 391.60000000000014,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 8088.8,
+        "vorp": 16.3
+      }
+    },
+    {
+      "id": "dunlemi01x-24",
+      "sourceId": 24,
+      "date": "1994-02-24",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Sent out Danny Schayes",
+      "participants": [
+        {
+          "name": "Danny Schayes",
+          "playerHref": "/players/s/schayda01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 678.3,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 678.3,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 678.3,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 8767.1,
+        "vorp": 16.400000000000002
+      }
+    },
+    {
+      "id": "dunlemi01x-25",
+      "sourceId": 25,
+      "date": "1994-06-22",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Roy Hinson; Sent out Ken Norman",
+      "participants": [
+        {
+          "name": "Ken Norman",
+          "playerHref": "/players/n/normake01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 4838.9,
+            "vorp": -0.20000000000000007
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Roy Hinson",
+          "playerHref": "/players/h/hinsoro01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4838.9,
+        "vorp": -0.20000000000000007
+      },
+      "categoryValues": {
+        "bpm": 4838.9,
+        "vorp": -0.20000000000000007
+      },
+      "runningValues": {
+        "bpm": 13606,
+        "vorp": 16.200000000000003
+      }
+    },
+    {
+      "id": "dunlemi01x-26",
+      "sourceId": 26,
+      "date": "1994-06-29",
+      "type": "draft",
+      "tenureTeam": "MIL",
+      "summary": "Drafted Glenn Robinson, Eric Mobley, and Voshon Lenard",
+      "participants": [
+        {
+          "name": "Glenn Robinson",
+          "playerHref": "/players/r/robingl01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 6857.9,
+            "vorp": 12.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eric Mobley",
+          "playerHref": "/players/m/mobleer01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -1087.9,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Voshon Lenard",
+          "playerHref": "/players/l/lenarvo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5770,
+        "vorp": 12.5
+      },
+      "categoryValues": {
+        "bpm": 5770,
+        "vorp": 12.5
+      },
+      "runningValues": {
+        "bpm": 19376,
+        "vorp": 28.700000000000003
+      }
+    },
+    {
+      "id": "dunlemi01x-27",
+      "sourceId": 27,
+      "date": "1994-06-29",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Andrei Fetisov and Ed Pinckney; Sent out Blue Edwards and Derek Strong",
+      "participants": [
+        {
+          "name": "Blue Edwards",
+          "playerHref": "/players/e/edwarbl01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 1115.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Derek Strong",
+          "playerHref": "/players/s/stronde01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 3763.2,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Andrei Fetisov",
+          "playerHref": "/players/f/fetisan01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ed Pinckney",
+          "playerHref": "/players/p/pincked01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -584.5,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4294.1,
+        "vorp": 0.6
+      },
+      "categoryValues": {
+        "bpm": 4294.1,
+        "vorp": 0.6
+      },
+      "runningValues": {
+        "bpm": 23670.100000000002,
+        "vorp": 29.300000000000004
+      }
+    },
+    {
+      "id": "dunlemi01x-28",
+      "sourceId": 28,
+      "date": "1994-08-03",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Marty Conlon",
+      "participants": [
+        {
+          "name": "Marty Conlon",
+          "playerHref": "/players/c/conloma01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -8210.8,
+            "vorp": -0.6000000000000001
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -8210.8,
+        "vorp": -0.6000000000000001
+      },
+      "categoryValues": {
+        "bpm": -8210.8,
+        "vorp": -0.6000000000000001
+      },
+      "runningValues": {
+        "bpm": 15459.300000000003,
+        "vorp": 28.700000000000003
+      }
+    },
+    {
+      "id": "dunlemi01x-29",
+      "sourceId": 29,
+      "date": "1994-09-30",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Robert Churchwell",
+      "participants": [
+        {
+          "name": "Robert Churchwell",
+          "playerHref": "/players/c/churcro01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 15459.300000000003,
+        "vorp": 28.700000000000003
+      }
+    },
+    {
+      "id": "dunlemi01x-30",
+      "sourceId": 30,
+      "date": "1994-10-06",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Derrick Phelps",
+      "participants": [
+        {
+          "name": "Derrick Phelps",
+          "playerHref": "/players/p/phelpde01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 15459.300000000003,
+        "vorp": 28.700000000000003
+      }
+    },
+    {
+      "id": "dunlemi01x-31",
+      "sourceId": 31,
+      "date": "1994-10-06",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Alton Lister",
+      "participants": [
+        {
+          "name": "Alton Lister",
+          "playerHref": "/players/l/listeal01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -3224.8,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3224.8,
+        "vorp": -0.4
+      },
+      "categoryValues": {
+        "bpm": -3224.8,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": 12234.500000000004,
+        "vorp": 28.300000000000004
+      }
+    },
+    {
+      "id": "dunlemi01x-32",
+      "sourceId": 32,
+      "date": "1994-10-06",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Aaron Williams",
+      "participants": [
+        {
+          "name": "Aaron Williams",
+          "playerHref": "/players/w/williaa01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 12234.500000000004,
+        "vorp": 28.300000000000004
+      }
+    },
+    {
+      "id": "dunlemi01x-33",
+      "sourceId": 33,
+      "date": "1994-10-07",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Johnny Newman",
+      "participants": [
+        {
+          "name": "Johnny Newman",
+          "playerHref": "/players/n/newmajo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -14241.2,
+            "vorp": -0.19999999999999996
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -14241.2,
+        "vorp": -0.19999999999999996
+      },
+      "categoryValues": {
+        "bpm": -14241.2,
+        "vorp": -0.19999999999999996
+      },
+      "runningValues": {
+        "bpm": -2006.699999999997,
+        "vorp": 28.100000000000005
+      }
+    },
+    {
+      "id": "dunlemi01x-34",
+      "sourceId": 34,
+      "date": "1994-10-26",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Danny Young",
+      "participants": [
+        {
+          "name": "Danny Young",
+          "playerHref": "/players/y/youngda01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -2006.699999999997,
+        "vorp": 28.100000000000005
+      }
+    },
+    {
+      "id": "dunlemi01x-35",
+      "sourceId": 35,
+      "date": "1994-11-08",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Todd Mundt",
+      "participants": [
+        {
+          "name": "Todd Mundt",
+          "playerHref": "/players/m/mundtto01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -2006.699999999997,
+        "vorp": 28.100000000000005
+      }
+    },
+    {
+      "id": "dunlemi01x-36",
+      "sourceId": 36,
+      "date": "1994-11-09",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Aaron Williams",
+      "participants": [
+        {
+          "name": "Aaron Williams",
+          "playerHref": "/players/w/williaa01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -640.8000000000001,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -640.8000000000001,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -640.8000000000001,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -2647.4999999999973,
+        "vorp": 28.000000000000004
+      }
+    },
+    {
+      "id": "dunlemi01x-37",
+      "sourceId": 37,
+      "date": "1994-11-10",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Danny Young",
+      "participants": [
+        {
+          "name": "Danny Young",
+          "playerHref": "/players/y/youngda01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 246.4,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 246.4,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 246.4,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -2401.099999999997,
+        "vorp": 28.100000000000005
+      }
+    },
+    {
+      "id": "dunlemi01x-38",
+      "sourceId": 38,
+      "date": "1995-03-22",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Tate George",
+      "participants": [
+        {
+          "name": "Tate George",
+          "playerHref": "/players/g/georgta01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -108.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -108.8,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -108.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -2509.8999999999974,
+        "vorp": 28.100000000000005
+      }
+    },
+    {
+      "id": "dunlemi01x-39",
+      "sourceId": 39,
+      "date": "1995-06-28",
+      "type": "draft",
+      "tenureTeam": "MIL",
+      "summary": "Drafted Gary Trent, Rashard Griffith, and Eric Snow",
+      "participants": [
+        {
+          "name": "Gary Trent",
+          "playerHref": "/players/t/trentga01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rashard Griffith",
+          "playerHref": "/players/g/griffra01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eric Snow",
+          "playerHref": "/players/s/snower01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -2509.8999999999974,
+        "vorp": 28.100000000000005
+      }
+    },
+    {
+      "id": "dunlemi01x-40",
+      "sourceId": 40,
+      "date": "1995-06-28",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Shawn Respert; Sent out Gary Trent and Paul Grant",
+      "participants": [
+        {
+          "name": "Gary Trent",
+          "playerHref": "/players/t/trentga01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 2539.2999999999997,
+            "vorp": -1.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Paul Grant",
+          "playerHref": "/players/g/grantpa01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Shawn Respert",
+          "playerHref": "/players/r/respesh01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -2211.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 327.89999999999964,
+        "vorp": -1.5
+      },
+      "categoryValues": {
+        "bpm": 327.89999999999964,
+        "vorp": -1.5
+      },
+      "runningValues": {
+        "bpm": -2181.9999999999977,
+        "vorp": 26.600000000000005
+      }
+    },
+    {
+      "id": "dunlemi01x-41",
+      "sourceId": 41,
+      "date": "1995-06-28",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Eurelijus Žukauskas and Jeff Nordgaard; Sent out Eric Snow",
+      "participants": [
+        {
+          "name": "Eric Snow",
+          "playerHref": "/players/s/snower01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 2740.7,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eurelijus Žukauskas",
+          "playerHref": "/players/z/zukauau01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jeff Nordgaard",
+          "playerHref": "/players/n/nordgje01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2740.7,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 2740.7,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 558.7000000000021,
+        "vorp": 26.600000000000005
+      }
+    },
+    {
+      "id": "dunlemi01x-42",
+      "sourceId": 42,
+      "date": "1995-10-01",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Manute Bol",
+      "participants": [
+        {
+          "name": "Manute Bol",
+          "playerHref": "/players/b/bolma01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 558.7000000000021,
+        "vorp": 26.600000000000005
+      }
+    },
+    {
+      "id": "dunlemi01x-43",
+      "sourceId": 43,
+      "date": "1995-10-02",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Rookie contract for Voshon Lenard",
+      "participants": [
+        {
+          "name": "Voshon Lenard",
+          "playerHref": "/players/l/lenarvo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 558.7000000000021,
+        "vorp": 26.600000000000005
+      }
+    },
+    {
+      "id": "dunlemi01x-44",
+      "sourceId": 44,
+      "date": "1995-10-05",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Emanual Davis",
+      "participants": [
+        {
+          "name": "Emanual Davis",
+          "playerHref": "/players/d/davisem01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 558.7000000000021,
+        "vorp": 26.600000000000005
+      }
+    },
+    {
+      "id": "dunlemi01x-45",
+      "sourceId": 45,
+      "date": "1995-10-06",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Bob McCann",
+      "participants": [
+        {
+          "name": "Bob McCann",
+          "playerHref": "/players/m/mccanbo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 558.7000000000021,
+        "vorp": 26.600000000000005
+      }
+    },
+    {
+      "id": "dunlemi01x-46",
+      "sourceId": 46,
+      "date": "1995-10-06",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Randolph Keys",
+      "participants": [
+        {
+          "name": "Randolph Keys",
+          "playerHref": "/players/k/keysra01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -1060.8,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1060.8,
+        "vorp": 0.2
+      },
+      "categoryValues": {
+        "bpm": -1060.8,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -502.09999999999786,
+        "vorp": 26.800000000000004
+      }
+    },
+    {
+      "id": "dunlemi01x-47",
+      "sourceId": 47,
+      "date": "1995-10-06",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Mike Peplowski",
+      "participants": [
+        {
+          "name": "Mike Peplowski",
+          "playerHref": "/players/p/peplomi01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -502.09999999999786,
+        "vorp": 26.800000000000004
+      }
+    },
+    {
+      "id": "dunlemi01x-48",
+      "sourceId": 48,
+      "date": "1995-10-18",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Kevin Duckworth; Sent out Bob McCann",
+      "participants": [
+        {
+          "name": "Bob McCann",
+          "playerHref": "/players/m/mccanbo01.html",
+          "direction": "out",
+          "teamCode": "WSB",
+          "values": {
+            "bpm": 2938.5,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kevin Duckworth",
+          "playerHref": "/players/d/duckwke01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -881.5999999999999,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2056.9,
+        "vorp": 0.2
+      },
+      "categoryValues": {
+        "bpm": 2056.9,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 1554.8000000000025,
+        "vorp": 27.000000000000004
+      }
+    },
+    {
+      "id": "dunlemi01x-49",
+      "sourceId": 49,
+      "date": "1995-11-02",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Terry Cummings",
+      "participants": [
+        {
+          "name": "Terry Cummings",
+          "playerHref": "/players/c/cummite01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -3909.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3909.4,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -3909.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -2354.5999999999976,
+        "vorp": 26.900000000000002
+      }
+    },
+    {
+      "id": "dunlemi01x-50",
+      "sourceId": 50,
+      "date": "1995-11-26",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Sherman Douglas; Sent out Todd Day and Alton Lister",
+      "participants": [
+        {
+          "name": "Todd Day",
+          "playerHref": "/players/d/dayto01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 2219.6000000000004,
+            "vorp": -1.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alton Lister",
+          "playerHref": "/players/l/listeal01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 6045.200000000001,
+            "vorp": 0.8999999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sherman Douglas",
+          "playerHref": "/players/d/douglsh01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -1513.7,
+            "vorp": 1.9000000000000001
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 6751.100000000001,
+        "vorp": 1.4000000000000001
+      },
+      "categoryValues": {
+        "bpm": 6751.100000000001,
+        "vorp": 1.4000000000000001
+      },
+      "runningValues": {
+        "bpm": 4396.500000000004,
+        "vorp": 28.3
+      }
+    },
+    {
+      "id": "dunlemi01x-51",
+      "sourceId": 51,
+      "date": "1995-11-27",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Benoit Benjamin; Sent out Eric Mobley and Eric Murdock",
+      "participants": [
+        {
+          "name": "Eric Mobley",
+          "playerHref": "/players/m/mobleer01.html",
+          "direction": "out",
+          "teamCode": "VAN",
+          "values": {
+            "bpm": 5603.1,
+            "vorp": 1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eric Murdock",
+          "playerHref": "/players/m/murdoer01.html",
+          "direction": "out",
+          "teamCode": "VAN",
+          "values": {
+            "bpm": -2516,
+            "vorp": -1.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Benoit Benjamin",
+          "playerHref": "/players/b/benjabe01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -3431.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -344.49999999999955,
+        "vorp": -0.4999999999999999
+      },
+      "categoryValues": {
+        "bpm": -344.49999999999955,
+        "vorp": -0.4999999999999999
+      },
+      "runningValues": {
+        "bpm": 4052.000000000004,
+        "vorp": 27.8
+      }
+    },
+    {
+      "id": "dunlemi01x-52",
+      "sourceId": 52,
+      "date": "1995-12-01",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Jerry Reynolds",
+      "participants": [
+        {
+          "name": "Jerry Reynolds",
+          "playerHref": "/players/r/reynoje01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 76.4,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 76.4,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 76.4,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 4128.400000000004,
+        "vorp": 27.900000000000002
+      }
+    },
+    {
+      "id": "dunlemi01x-53",
+      "sourceId": 53,
+      "date": "1996-02-27",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Mike Peplowski",
+      "participants": [
+        {
+          "name": "Mike Peplowski",
+          "playerHref": "/players/p/peplomi01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -34.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -34.8,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -34.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 4093.600000000004,
+        "vorp": 27.900000000000002
+      }
+    },
+    {
+      "id": "dunlemi01x-55",
+      "sourceId": 55,
+      "date": "1996-06-26",
+      "type": "draft",
+      "tenureTeam": "MIL",
+      "summary": "Drafted Stephon Marbury, Moochie Norris, and Jeff Nordgaard",
+      "participants": [
+        {
+          "name": "Stephon Marbury",
+          "playerHref": "/players/m/marbust01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Moochie Norris",
+          "playerHref": "/players/n/norrimo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jeff Nordgaard",
+          "playerHref": "/players/n/nordgje01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -172.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -172.8,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -172.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 3920.800000000004,
+        "vorp": 27.900000000000002
+      }
+    },
+    {
+      "id": "dunlemi01x-56",
+      "sourceId": 56,
+      "date": "1996-06-26",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Ray Allen and Rasho Nesterović; Sent out Stephon Marbury",
+      "participants": [
+        {
+          "name": "Stephon Marbury",
+          "playerHref": "/players/m/marbust01.html",
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": -976.6999999999999,
+            "vorp": -3.4000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ray Allen",
+          "playerHref": "/players/a/allenra02.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 49445.5,
+            "vorp": 21.599999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rasho Nesterović",
+          "playerHref": "/players/n/nestera01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 48468.8,
+        "vorp": 18.199999999999996
+      },
+      "categoryValues": {
+        "bpm": 48468.8,
+        "vorp": 18.199999999999996
+      },
+      "runningValues": {
+        "bpm": 52389.600000000006,
+        "vorp": 46.099999999999994
+      }
+    },
+    {
+      "id": "dunlemi01x-57",
+      "sourceId": 57,
+      "date": "1996-07-11",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Andrew Lang; Sent out Rasho Nesterović",
+      "participants": [
+        {
+          "name": "Rasho Nesterović",
+          "playerHref": "/players/n/nestera01.html",
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 12696.5,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Andrew Lang",
+          "playerHref": "/players/l/langan01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -4910.4,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 7786.1,
+        "vorp": -0.8
+      },
+      "categoryValues": {
+        "bpm": 7786.1,
+        "vorp": -0.8
+      },
+      "runningValues": {
+        "bpm": 60175.700000000004,
+        "vorp": 45.3
+      }
+    },
+    {
+      "id": "dunlemi01x-58",
+      "sourceId": 58,
+      "date": "1996-08-06",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Armen Gilliam",
+      "participants": [
+        {
+          "name": "Armen Gilliam",
+          "playerHref": "/players/g/gilliar01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -3674.4,
+            "vorp": 1.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3674.4,
+        "vorp": 1.5
+      },
+      "categoryValues": {
+        "bpm": -3674.4,
+        "vorp": 1.5
+      },
+      "runningValues": {
+        "bpm": 56501.3,
+        "vorp": 46.8
+      }
+    },
+    {
+      "id": "dunlemi01x-59",
+      "sourceId": 59,
+      "date": "1996-09-03",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Joe Wolf",
+      "participants": [
+        {
+          "name": "Joe Wolf",
+          "playerHref": "/players/w/wolfjo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -1890,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1890,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1890,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 54611.3,
+        "vorp": 46.599999999999994
+      }
+    },
+    {
+      "id": "dunlemi01x-60",
+      "sourceId": 60,
+      "date": "1996-09-25",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Elliot Perry; Sent out Marty Conlon and James Posey",
+      "participants": [
+        {
+          "name": "Marty Conlon",
+          "playerHref": "/players/c/conloma01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "James Posey",
+          "playerHref": "/players/p/poseyja01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Elliot Perry",
+          "playerHref": "/players/p/perryel01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -1775.3000000000002,
+            "vorp": 1.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1775.3000000000002,
+        "vorp": 1.2
+      },
+      "categoryValues": {
+        "bpm": -1775.3000000000002,
+        "vorp": 1.2
+      },
+      "runningValues": {
+        "bpm": 52836,
+        "vorp": 47.8
+      }
+    },
+    {
+      "id": "dunlemi01x-61",
+      "sourceId": 61,
+      "date": "1996-10-03",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Darrin Hancock",
+      "participants": [
+        {
+          "name": "Darrin Hancock",
+          "playerHref": "/players/h/hancoda01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -288.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -288.6,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -288.6,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 52547.4,
+        "vorp": 47.699999999999996
+      }
+    },
+    {
+      "id": "dunlemi01x-62",
+      "sourceId": 62,
+      "date": "1996-10-03",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Stacey King",
+      "participants": [
+        {
+          "name": "Stacey King",
+          "playerHref": "/players/k/kingst01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 52547.4,
+        "vorp": 47.699999999999996
+      }
+    },
+    {
+      "id": "dunlemi01x-63",
+      "sourceId": 63,
+      "date": "1996-10-03",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Keith Tower",
+      "participants": [
+        {
+          "name": "Keith Tower",
+          "playerHref": "/players/t/towerke01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -532.8000000000001,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -532.8000000000001,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -532.8000000000001,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 52014.6,
+        "vorp": 47.599999999999994
+      }
+    },
+    {
+      "id": "dunlemi01x-64",
+      "sourceId": 64,
+      "date": "1996-10-03",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed David Wood",
+      "participants": [
+        {
+          "name": "David Wood",
+          "playerHref": "/players/w/woodda01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 48,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 48,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 48,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 52062.6,
+        "vorp": 47.699999999999996
+      }
+    },
+    {
+      "id": "dunlemi01x-65",
+      "sourceId": 65,
+      "date": "1996-12-04",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Chucky Brown; Sent out Darrin Hancock",
+      "participants": [
+        {
+          "name": "Darrin Hancock",
+          "playerHref": "/players/h/hancoda01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chucky Brown",
+          "playerHref": "/players/b/brownch01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -876.2,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -876.2,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": -876.2,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 51186.4,
+        "vorp": 47.8
+      }
+    },
+    {
+      "id": "dunlemi01x-66",
+      "sourceId": 66,
+      "date": "1997-02-20",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Acie Earl; Sent out Shawn Respert",
+      "participants": [
+        {
+          "name": "Shawn Respert",
+          "playerHref": "/players/r/respesh01.html",
+          "direction": "out",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 1806.8,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Acie Earl",
+          "playerHref": "/players/e/earlac01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -167.7,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1639.1,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": 1639.1,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 52825.50000000001,
+        "vorp": 47.699999999999996
+      }
+    },
+    {
+      "id": "dunlemi01x-67",
+      "sourceId": 67,
+      "date": "1997-02-21",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Cuonzo Martin",
+      "participants": [
+        {
+          "name": "Cuonzo Martin",
+          "playerHref": "/players/m/marticu01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -371.8,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -371.8,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -371.8,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 52453.700000000004,
+        "vorp": 47.599999999999994
+      }
+    },
+    {
+      "id": "dunlemi01x-68",
+      "sourceId": 68,
+      "date": "1997-03-13",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Jimmy Carruth",
+      "participants": [
+        {
+          "name": "Jimmy Carruth",
+          "playerHref": "/players/c/carruji01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -63,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -63,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -63,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 52390.700000000004,
+        "vorp": 47.599999999999994
+      }
+    },
+    {
+      "id": "dunlemi01x-69",
+      "sourceId": 69,
+      "date": "2008-11-21",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Mardy Collins and Zach Randolph; Sent out Cuttino Mobley and Tim Thomas",
+      "participants": [
+        {
+          "name": "Cuttino Mobley",
+          "playerHref": "/players/m/moblecu01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tim Thomas",
+          "playerHref": "/players/t/thomati01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -154.60000000000002,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mardy Collins",
+          "playerHref": "/players/c/collima01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -5287,
+            "vorp": -0.6000000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Zach Randolph",
+          "playerHref": "/players/r/randoza01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 136.9,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5304.700000000001,
+        "vorp": -0.30000000000000004
+      },
+      "categoryValues": {
+        "bpm": -5304.700000000001,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": 47086.00000000001,
+        "vorp": 47.3
+      }
+    },
+    {
+      "id": "dunlemi01x-70",
+      "sourceId": 70,
+      "date": "2008-12-28",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Fred Jones",
+      "participants": [
+        {
+          "name": "Fred Jones",
+          "playerHref": "/players/j/jonesfr01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 47086.00000000001,
+        "vorp": 47.3
+      }
+    },
+    {
+      "id": "dunlemi01x-71",
+      "sourceId": 71,
+      "date": "2009-01-01",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Hassan Adams",
+      "participants": [
+        {
+          "name": "Hassan Adams",
+          "playerHref": "/players/a/adamsha01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 47086.00000000001,
+        "vorp": 47.3
+      }
+    },
+    {
+      "id": "dunlemi01x-72",
+      "sourceId": 72,
+      "date": "2009-01-05",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Cheikh Samb; Sent out Nikola Radičević",
+      "participants": [
+        {
+          "name": "Nikola Radičević",
+          "playerHref": "/players/r/radicni01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cheikh Samb",
+          "playerHref": "/players/s/sambch01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -479.40000000000003,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -479.40000000000003,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -479.40000000000003,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 46606.600000000006,
+        "vorp": 47.199999999999996
+      }
+    },
+    {
+      "id": "dunlemi01x-73",
+      "sourceId": 73,
+      "date": "2009-01-09",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Fred Jones",
+      "participants": [
+        {
+          "name": "Fred Jones",
+          "playerHref": "/players/j/jonesfr01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -4036.5000000000005,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4036.5000000000005,
+        "vorp": -0.3
+      },
+      "categoryValues": {
+        "bpm": -4036.5000000000005,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": 42570.100000000006,
+        "vorp": 46.9
+      }
+    },
+    {
+      "id": "dunlemi01x-74",
+      "sourceId": 74,
+      "date": "2009-02-16",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Alex Acker and Trey Thompkins; Sent out Peyton Siva",
+      "participants": [
+        {
+          "name": "Peyton Siva",
+          "playerHref": "/players/s/sivape01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 1411.2,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alex Acker",
+          "playerHref": "/players/a/ackeral01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -787.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Trey Thompkins",
+          "playerHref": "/players/t/thomptr02.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -678.3000000000001,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -54.700000000000045,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -54.700000000000045,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 42515.4,
+        "vorp": 46.9
+      }
+    },
+    {
+      "id": "dunlemi01x-75",
+      "sourceId": 75,
+      "date": "2009-06-25",
+      "type": "draft",
+      "tenureTeam": "LAC",
+      "summary": "Drafted Blake Griffin",
+      "participants": [
+        {
+          "name": "Blake Griffin",
+          "playerHref": "/players/g/griffbl01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 68296.70000000001,
+            "vorp": 26.299999999999997
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 68296.70000000001,
+        "vorp": 26.299999999999997
+      },
+      "categoryValues": {
+        "bpm": 68296.70000000001,
+        "vorp": 26.299999999999997
+      },
+      "runningValues": {
+        "bpm": 110812.1,
+        "vorp": 73.19999999999999
+      }
+    },
+    {
+      "id": "dunlemi01x-76",
+      "sourceId": 76,
+      "date": "2009-07-17",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Quentin Richardson; Sent out Zach Randolph",
+      "participants": [
+        {
+          "name": "Zach Randolph",
+          "playerHref": "/players/r/randoza01.html",
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -13351.7,
+            "vorp": -12.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Quentin Richardson",
+          "playerHref": "/players/r/richaqu01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -13351.7,
+        "vorp": -12.3
+      },
+      "categoryValues": {
+        "bpm": -13351.7,
+        "vorp": -12.3
+      },
+      "runningValues": {
+        "bpm": 97460.40000000001,
+        "vorp": 60.89999999999999
+      }
+    },
+    {
+      "id": "dunlemi01x-77",
+      "sourceId": 77,
+      "date": "2009-07-20",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Mark Madsen, Craig Smith, and Sebastian Telfair; Sent out Quentin Richardson",
+      "participants": [
+        {
+          "name": "Quentin Richardson",
+          "playerHref": "/players/r/richaqu01.html",
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mark Madsen",
+          "playerHref": "/players/m/madsema01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Craig Smith",
+          "playerHref": "/players/s/smithcr01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -1630.2,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sebastian Telfair",
+          "playerHref": "/players/t/telfase01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -2502.6,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4132.8,
+        "vorp": 0.2
+      },
+      "categoryValues": {
+        "bpm": -4132.8,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 93327.6,
+        "vorp": 61.099999999999994
+      }
+    },
+    {
+      "id": "dunlemi01x-78",
+      "sourceId": 78,
+      "date": "2009-08-12",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Rasual Butler",
+      "participants": [
+        {
+          "name": "Rasual Butler",
+          "playerHref": "/players/b/butlera01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -7765.200000000001,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -7765.200000000001,
+        "vorp": -0.30000000000000004
+      },
+      "categoryValues": {
+        "bpm": -7765.200000000001,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": 85562.40000000001,
+        "vorp": 60.8
+      }
+    },
+    {
+      "id": "dunlemi01x-79",
+      "sourceId": 79,
+      "date": "2009-09-30",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Kareem Rush",
+      "participants": [
+        {
+          "name": "Kareem Rush",
+          "playerHref": "/players/r/rushka01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -197.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -197.2,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -197.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 85365.20000000001,
+        "vorp": 60.8
+      }
+    },
+    {
+      "id": "dunlemi01x-80",
+      "sourceId": 80,
+      "date": "2010-01-22",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed JamesOn Curry",
+      "participants": [
+        {
+          "name": "JamesOn Curry",
+          "playerHref": "/players/c/curryja01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 85365.20000000001,
+        "vorp": 60.8
+      }
+    },
+    {
+      "id": "dunlemi01x-81",
+      "sourceId": 81,
+      "date": "2010-01-26",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Bobby Brown; Sent out Jordan McRae",
+      "participants": [
+        {
+          "name": "Jordan McRae",
+          "playerHref": "/players/m/mcraejo01.html",
+          "direction": "out",
+          "teamCode": "NOH",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bobby Brown",
+          "playerHref": "/players/b/brownbo02.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -1165.1,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1165.1,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1165.1,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 84200.1,
+        "vorp": 60.599999999999994
+      }
+    },
+    {
+      "id": "dunlemi01x-82",
+      "sourceId": 82,
+      "date": "2010-02-16",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Steve Blake and Travis Outlaw; Sent out Marcus Camby",
+      "participants": [
+        {
+          "name": "Marcus Camby",
+          "playerHref": "/players/c/cambyma01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -5733.2,
+            "vorp": -3.0999999999999996
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Blake",
+          "playerHref": "/players/b/blakest01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -1371.6000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Travis Outlaw",
+          "playerHref": "/players/o/outlatr01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -748.5,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -7853.3,
+        "vorp": -2.9999999999999996
+      },
+      "categoryValues": {
+        "bpm": -7853.3,
+        "vorp": -2.9999999999999996
+      },
+      "runningValues": {
+        "bpm": 76346.8,
+        "vorp": 57.599999999999994
+      }
+    },
+    {
+      "id": "dunlemi01x-83",
+      "sourceId": 83,
+      "date": "2010-02-17",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Drew Gooden; Sent out Al Thornton and Sebastian Telfair",
+      "participants": [
+        {
+          "name": "Al Thornton",
+          "playerHref": "/players/t/thornal01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 4234.3,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sebastian Telfair",
+          "playerHref": "/players/t/telfase01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 361.90000000000003,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Drew Gooden",
+          "playerHref": "/players/g/goodedr01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -2942.6,
+            "vorp": 5.551115123125783e-17
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1653.6,
+        "vorp": 0.3000000000000001
+      },
+      "categoryValues": {
+        "bpm": 1653.6,
+        "vorp": 0.3000000000000001
+      },
+      "runningValues": {
+        "bpm": 78000.4,
+        "vorp": 57.9
+      }
+    }
+  ]
+}

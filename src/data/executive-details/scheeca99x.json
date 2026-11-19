@@ -1,0 +1,5732 @@
+{
+  "slug": "scheeca99x",
+  "sourceRowCount": 274,
+  "tenures": [
+    {
+      "teamCode": "DEN",
+      "startDate": "1974-06-15",
+      "endDate": "1984-09-25"
+    },
+    {
+      "teamCode": "LAC",
+      "startDate": "1984-09-25",
+      "endDate": "1988-06-23"
+    },
+    {
+      "teamCode": "CHA",
+      "startDate": "1988-06-23",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "scheeca99x-1",
+      "sourceId": 1,
+      "date": "1974-06-15",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Bobby Jones; Sent out Marvin Barnes",
+      "participants": [
+        {
+          "name": "Marvin Barnes",
+          "playerHref": "/players/b/barnema01.html",
+          "direction": "out",
+          "teamCode": "CAR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bobby Jones",
+          "playerHref": "/players/j/jonesbo01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "scheeca99x-2",
+      "sourceId": 2,
+      "date": "1974-06-18",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Bobby Jones",
+      "participants": [
+        {
+          "name": "Bobby Jones",
+          "playerHref": "/players/j/jonesbo01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 28401,
+            "vorp": 9.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 28401,
+        "vorp": 9.6
+      },
+      "categoryValues": {
+        "bpm": 28401,
+        "vorp": 9.6
+      },
+      "runningValues": {
+        "bpm": 28401,
+        "vorp": 9.6
+      }
+    },
+    {
+      "id": "scheeca99x-3",
+      "sourceId": 3,
+      "date": "1974-06-20",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Mack Calvin",
+      "participants": [
+        {
+          "name": "Mack Calvin",
+          "playerHref": "/players/c/calvima01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 28401,
+        "vorp": 9.6
+      }
+    },
+    {
+      "id": "scheeca99x-4",
+      "sourceId": 4,
+      "date": "1974-06-25",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Jan van Breda Kolff",
+      "participants": [
+        {
+          "name": "Jan van Breda Kolff",
+          "playerHref": "/players/v/vanbrja01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 28401,
+        "vorp": 9.6
+      }
+    },
+    {
+      "id": "scheeca99x-5",
+      "sourceId": 5,
+      "date": "1974-08-01",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Sent out Julius Keye",
+      "participants": [
+        {
+          "name": "Julius Keye",
+          "playerHref": "/players/k/keyeju01.html",
+          "direction": "out",
+          "teamCode": "UTS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 28401,
+        "vorp": 9.6
+      }
+    },
+    {
+      "id": "scheeca99x-6",
+      "sourceId": 6,
+      "date": "1974-09-04",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Fatty Taylor; Sent out Darrell Elston",
+      "participants": [
+        {
+          "name": "Darrell Elston",
+          "playerHref": "/players/e/elstoda01.html",
+          "direction": "out",
+          "teamCode": "VIR",
+          "values": {
+            "bpm": 5793.900000000001,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Fatty Taylor",
+          "playerHref": "/players/t/taylofa01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5793.900000000001,
+        "vorp": 0.5
+      },
+      "categoryValues": {
+        "bpm": 5793.900000000001,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": 34194.9,
+        "vorp": 10.1
+      }
+    },
+    {
+      "id": "scheeca99x-7",
+      "sourceId": 7,
+      "date": "1974-09-10",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Sent out Willie Long",
+      "participants": [
+        {
+          "name": "Willie Long",
+          "playerHref": "/players/l/longwi01.html",
+          "direction": "out",
+          "teamCode": "NYA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 34194.9,
+        "vorp": 10.1
+      }
+    },
+    {
+      "id": "scheeca99x-8",
+      "sourceId": 8,
+      "date": "1974-09-18",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Sent out Al Smith",
+      "participants": [
+        {
+          "name": "Al Smith",
+          "playerHref": "/players/s/smithal01.html",
+          "direction": "out",
+          "teamCode": "UTS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 34194.9,
+        "vorp": 10.1
+      }
+    },
+    {
+      "id": "scheeca99x-9",
+      "sourceId": 9,
+      "date": "1975-06-13",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Marvin Webster",
+      "participants": [
+        {
+          "name": "Marvin Webster",
+          "playerHref": "/players/w/webstma01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 34194.9,
+        "vorp": 10.1
+      }
+    },
+    {
+      "id": "scheeca99x-10",
+      "sourceId": 10,
+      "date": "1975-06-16",
+      "type": "draft",
+      "tenureTeam": "DEN",
+      "summary": "Drafted Monte Towe and Marvin Webster",
+      "participants": [
+        {
+          "name": "Monte Towe",
+          "playerHref": "/players/t/towemo01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Marvin Webster",
+          "playerHref": "/players/w/webstma01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -692.0999999999999,
+        "vorp": 0.7
+      },
+      "runningValues": {
+        "bpm": 34194.9,
+        "vorp": 10.1
+      }
+    },
+    {
+      "id": "scheeca99x-11",
+      "sourceId": 11,
+      "date": "1975-06-17",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Rookie contract for Monte Towe",
+      "participants": [
+        {
+          "name": "Monte Towe",
+          "playerHref": "/players/t/towemo01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1840.5,
+            "vorp": -0.3
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -1840.5,
+        "vorp": -0.3
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 32354.4,
+        "vorp": 9.799999999999999
+      }
+    },
+    {
+      "id": "scheeca99x-12",
+      "sourceId": 12,
+      "date": "1975-06-18",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Rookie contract for Marvin Webster",
+      "participants": [
+        {
+          "name": "Marvin Webster",
+          "playerHref": "/players/w/webstma01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 1148.4,
+            "vorp": 1
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 1148.4,
+        "vorp": 1
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 33502.8,
+        "vorp": 10.799999999999999
+      }
+    },
+    {
+      "id": "scheeca99x-13",
+      "sourceId": 13,
+      "date": "1975-07-08",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed David Thompson",
+      "participants": [
+        {
+          "name": "David Thompson",
+          "playerHref": "/players/t/thompda01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 33502.8,
+        "vorp": 10.799999999999999
+      }
+    },
+    {
+      "id": "scheeca99x-14",
+      "sourceId": 14,
+      "date": "1975-07-14",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed David Thompson",
+      "participants": [
+        {
+          "name": "David Thompson",
+          "playerHref": "/players/t/thompda01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 33502.8,
+        "vorp": 10.799999999999999
+      }
+    },
+    {
+      "id": "scheeca99x-15",
+      "sourceId": 15,
+      "date": "1975-07-14",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added George Irvine and David Thompson; Sent out Mack Calvin, Mike Green, and Jan van Breda Kolff",
+      "participants": [
+        {
+          "name": "Mack Calvin",
+          "playerHref": "/players/c/calvima01.html",
+          "direction": "out",
+          "teamCode": "VIR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Green",
+          "playerHref": "/players/g/greenmi01.html",
+          "direction": "out",
+          "teamCode": "VIR",
+          "values": {
+            "bpm": 0,
+            "vorp": -0.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jan van Breda Kolff",
+          "playerHref": "/players/v/vanbrja01.html",
+          "direction": "out",
+          "teamCode": "VIR",
+          "values": {
+            "bpm": -893.6,
+            "vorp": -0.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "George Irvine",
+          "playerHref": "/players/i/irvinge01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "David Thompson",
+          "playerHref": "/players/t/thompda01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 32397.100000000002,
+            "vorp": 15.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 31503.500000000004,
+        "vorp": 13.5
+      },
+      "categoryValues": {
+        "bpm": 31503.500000000004,
+        "vorp": 13.5
+      },
+      "runningValues": {
+        "bpm": 65006.3,
+        "vorp": 24.299999999999997
+      }
+    },
+    {
+      "id": "scheeca99x-16",
+      "sourceId": 16,
+      "date": "1975-07-30",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Jimmy Foster",
+      "participants": [
+        {
+          "name": "Jimmy Foster",
+          "playerHref": "/players/f/fosteja01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 65006.3,
+        "vorp": 24.299999999999997
+      }
+    },
+    {
+      "id": "scheeca99x-17",
+      "sourceId": 17,
+      "date": "1975-08-01",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Sent out Patrick McFarland",
+      "participants": [
+        {
+          "name": "Patrick McFarland",
+          "playerHref": "/players/m/mcfarpa01.html",
+          "direction": "out",
+          "teamCode": "SDS",
+          "values": {
+            "bpm": 165,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 165,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": 165,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 65171.3,
+        "vorp": 24.199999999999996
+      }
+    },
+    {
+      "id": "scheeca99x-18",
+      "sourceId": 18,
+      "date": "1975-10-08",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Dan Issel; Sent out Dave Robisch",
+      "participants": [
+        {
+          "name": "Dave Robisch",
+          "playerHref": "/players/r/robisda01.html",
+          "direction": "out",
+          "teamCode": "MMS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dan Issel",
+          "playerHref": "/players/i/isselda01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 65171.3,
+        "vorp": 24.199999999999996
+      }
+    },
+    {
+      "id": "scheeca99x-19",
+      "sourceId": 19,
+      "date": "1975-10-21",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Chuck Williams; Sent out Fatty Taylor",
+      "participants": [
+        {
+          "name": "Fatty Taylor",
+          "playerHref": "/players/t/taylofa01.html",
+          "direction": "out",
+          "teamCode": "VIR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chuck Williams",
+          "playerHref": "/players/w/willich02.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 65171.3,
+        "vorp": 24.199999999999996
+      }
+    },
+    {
+      "id": "scheeca99x-20",
+      "sourceId": 20,
+      "date": "1975-12-18",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Gus Gerard",
+      "participants": [
+        {
+          "name": "Gus Gerard",
+          "playerHref": "/players/g/gerargu01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 638.4,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 638.4,
+        "vorp": 0.4
+      },
+      "categoryValues": {
+        "bpm": 638.4,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": 65809.7,
+        "vorp": 24.599999999999994
+      }
+    },
+    {
+      "id": "scheeca99x-21",
+      "sourceId": 21,
+      "date": "1976-08-05",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Fatty Taylor; Sent out Herm Harris",
+      "participants": [
+        {
+          "name": "Herm Harris",
+          "playerHref": "/players/h/harrihe02.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Fatty Taylor",
+          "playerHref": "/players/t/taylofa01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 65809.7,
+        "vorp": 24.599999999999994
+      }
+    },
+    {
+      "id": "scheeca99x-22",
+      "sourceId": 22,
+      "date": "1976-09-01",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Rudy Hackett",
+      "participants": [
+        {
+          "name": "Rudy Hackett",
+          "playerHref": "/players/h/hackeru01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 65809.7,
+        "vorp": 24.599999999999994
+      }
+    },
+    {
+      "id": "scheeca99x-23",
+      "sourceId": 23,
+      "date": "1976-09-15",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Ted McClain; Sent out Dave Batton and Walter Jordan",
+      "participants": [
+        {
+          "name": "Dave Batton",
+          "playerHref": "/players/b/battoda01.html",
+          "direction": "out",
+          "teamCode": "NYN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Walter Jordan",
+          "playerHref": "/players/j/jordawa01.html",
+          "direction": "out",
+          "teamCode": "NYN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ted McClain",
+          "playerHref": "/players/m/mcclate01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 65809.7,
+        "vorp": 24.599999999999994
+      }
+    },
+    {
+      "id": "scheeca99x-24",
+      "sourceId": 24,
+      "date": "1976-09-21",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Willie Wise",
+      "participants": [
+        {
+          "name": "Willie Wise",
+          "playerHref": "/players/w/wisewi01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 65809.7,
+        "vorp": 24.599999999999994
+      }
+    },
+    {
+      "id": "scheeca99x-25",
+      "sourceId": 25,
+      "date": "1976-10-05",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Goo Kennedy",
+      "participants": [
+        {
+          "name": "Goo Kennedy",
+          "playerHref": "/players/k/kennego01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 65809.7,
+        "vorp": 24.599999999999994
+      }
+    },
+    {
+      "id": "scheeca99x-26",
+      "sourceId": 26,
+      "date": "1976-10-18",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Sent out Rudy Hackett",
+      "participants": [
+        {
+          "name": "Rudy Hackett",
+          "playerHref": "/players/h/hackeru01.html",
+          "direction": "out",
+          "teamCode": "NYN",
+          "values": {
+            "bpm": 41.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 41.6,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 41.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 65851.3,
+        "vorp": 24.599999999999994
+      }
+    },
+    {
+      "id": "scheeca99x-27",
+      "sourceId": 27,
+      "date": "1976-10-20",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Paul Silas; Sent out Ralph Simpson",
+      "participants": [
+        {
+          "name": "Ralph Simpson",
+          "playerHref": "/players/s/simpsra01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Paul Silas",
+          "playerHref": "/players/s/silaspa01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 65851.3,
+        "vorp": 24.599999999999994
+      }
+    },
+    {
+      "id": "scheeca99x-28",
+      "sourceId": 28,
+      "date": "1976-12-15",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Jim Price; Sent out Gus Gerard and Chuck Williams",
+      "participants": [
+        {
+          "name": "Gus Gerard",
+          "playerHref": "/players/g/gerargu01.html",
+          "direction": "out",
+          "teamCode": "BUF",
+          "values": {
+            "bpm": 1726.5,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chuck Williams",
+          "playerHref": "/players/w/willich02.html",
+          "direction": "out",
+          "teamCode": "BUF",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jim Price",
+          "playerHref": "/players/p/priceji01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -2000,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -273.5,
+        "vorp": 0.7999999999999999
+      },
+      "categoryValues": {
+        "bpm": -273.5,
+        "vorp": 0.7999999999999999
+      },
+      "runningValues": {
+        "bpm": 65577.8,
+        "vorp": 25.399999999999995
+      }
+    },
+    {
+      "id": "scheeca99x-29",
+      "sourceId": 29,
+      "date": "1977-05-24",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Tom Burleson, Bob Wilkerson, and Steve Sheppard; Sent out Paul Silas, Marvin Webster, and Willie Wise",
+      "participants": [
+        {
+          "name": "Paul Silas",
+          "playerHref": "/players/s/silaspa01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Marvin Webster",
+          "playerHref": "/players/w/webstma01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": -4365,
+            "vorp": -2.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Willie Wise",
+          "playerHref": "/players/w/wisewi01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tom Burleson",
+          "playerHref": "/players/b/burleto01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bob Wilkerson",
+          "playerHref": "/players/w/wilkebo01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -19014.3,
+            "vorp": -1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Sheppard",
+          "playerHref": "/players/s/sheppst01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -23379.3,
+        "vorp": -3.6
+      },
+      "categoryValues": {
+        "bpm": -23379.3,
+        "vorp": -3.6
+      },
+      "runningValues": {
+        "bpm": 42198.5,
+        "vorp": 21.799999999999994
+      }
+    },
+    {
+      "id": "scheeca99x-30",
+      "sourceId": 30,
+      "date": "1977-05-25",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Brian Taylor and Tom LaGarde; Sent out Tom Burleson and Steve Sheppard",
+      "participants": [
+        {
+          "name": "Tom Burleson",
+          "playerHref": "/players/b/burleto01.html",
+          "direction": "out",
+          "teamCode": "KCK",
+          "values": {
+            "bpm": 439.89999999999986,
+            "vorp": -1.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Sheppard",
+          "playerHref": "/players/s/sheppst01.html",
+          "direction": "out",
+          "teamCode": "KCK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Brian Taylor",
+          "playerHref": "/players/t/taylobr01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1710.8,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tom LaGarde",
+          "playerHref": "/players/l/lagarto01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1270.9,
+        "vorp": -1.1
+      },
+      "categoryValues": {
+        "bpm": -1270.9,
+        "vorp": -1.1
+      },
+      "runningValues": {
+        "bpm": 40927.6,
+        "vorp": 20.699999999999992
+      }
+    },
+    {
+      "id": "scheeca99x-31",
+      "sourceId": 31,
+      "date": "1977-06-10",
+      "type": "draft",
+      "tenureTeam": "DEN",
+      "summary": "Drafted Tom LaGarde, Anthony Roberts, Robert Smith, John Billips, Jim Town, Willie High, and Len Sanders",
+      "participants": [
+        {
+          "name": "Tom LaGarde",
+          "playerHref": "/players/l/lagarto01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -4774,
+            "vorp": -0.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Anthony Roberts",
+          "playerHref": "/players/r/roberan01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -12574.4,
+            "vorp": -1.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Robert Smith",
+          "playerHref": "/players/s/smithro01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -2304,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Billips",
+          "playerHref": "/players/b/billujo01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jim Town",
+          "playerHref": "/players/t/townji01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Willie High",
+          "playerHref": "/players/h/highwi01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Len Sanders",
+          "playerHref": "/players/s/saundle01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -19652.4,
+        "vorp": -1.9
+      },
+      "categoryValues": {
+        "bpm": -21189,
+        "vorp": -2.3000000000000003
+      },
+      "runningValues": {
+        "bpm": 21275.199999999997,
+        "vorp": 18.79999999999999
+      }
+    },
+    {
+      "id": "scheeca99x-32",
+      "sourceId": 32,
+      "date": "1977-06-13",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Jacky Dorsey",
+      "participants": [
+        {
+          "name": "Jacky Dorsey",
+          "playerHref": "/players/d/dorseja01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -159.1,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -159.1,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -159.1,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 21116.1,
+        "vorp": 18.79999999999999
+      }
+    },
+    {
+      "id": "scheeca99x-34",
+      "sourceId": 34,
+      "date": "1977-10-11",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Bo Ellis; Sent out Dave Corzine",
+      "participants": [
+        {
+          "name": "Dave Corzine",
+          "playerHref": "/players/c/corzida01.html",
+          "direction": "out",
+          "teamCode": "WSB",
+          "values": {
+            "bpm": 2531.2,
+            "vorp": -0.09999999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bo Ellis",
+          "playerHref": "/players/e/ellisbo02.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -5117.1,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2585.9000000000005,
+        "vorp": -0.39999999999999997
+      },
+      "categoryValues": {
+        "bpm": -2585.9000000000005,
+        "vorp": -0.39999999999999997
+      },
+      "runningValues": {
+        "bpm": 18530.199999999997,
+        "vorp": 18.399999999999988
+      }
+    },
+    {
+      "id": "scheeca99x-35",
+      "sourceId": 35,
+      "date": "1978-01-30",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Darnell Hillman; Sent out Clint Richardson",
+      "participants": [
+        {
+          "name": "Clint Richardson",
+          "playerHref": "/players/r/richacl01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Darnell Hillman",
+          "playerHref": "/players/h/hillmda01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 18530.199999999997,
+        "vorp": 18.399999999999988
+      }
+    },
+    {
+      "id": "scheeca99x-36",
+      "sourceId": 36,
+      "date": "1978-02-01",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Ralph Simpson; Sent out Jim Price and Phil Hubbard",
+      "participants": [
+        {
+          "name": "Jim Price",
+          "playerHref": "/players/p/priceji01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 1174.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Phil Hubbard",
+          "playerHref": "/players/h/hubbaph01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 9684.5,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ralph Simpson",
+          "playerHref": "/players/s/simpsra01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 10859.1,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 10859.1,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 29389.299999999996,
+        "vorp": 18.499999999999986
+      }
+    },
+    {
+      "id": "scheeca99x-37",
+      "sourceId": 37,
+      "date": "1978-04-07",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Norm Cook",
+      "participants": [
+        {
+          "name": "Norm Cook",
+          "playerHref": "/players/c/cookno01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -47,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -47,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -47,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 29342.299999999996,
+        "vorp": 18.499999999999986
+      }
+    },
+    {
+      "id": "scheeca99x-38",
+      "sourceId": 38,
+      "date": "1978-06-09",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Rod Griffin; Sent out Tom LaGarde",
+      "participants": [
+        {
+          "name": "Tom LaGarde",
+          "playerHref": "/players/l/lagarto01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 3025,
+            "vorp": -0.19999999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rod Griffin",
+          "playerHref": "/players/g/griffro01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3025,
+        "vorp": -0.19999999999999998
+      },
+      "categoryValues": {
+        "bpm": 3025,
+        "vorp": -0.19999999999999998
+      },
+      "runningValues": {
+        "bpm": 32367.299999999996,
+        "vorp": 18.299999999999986
+      }
+    },
+    {
+      "id": "scheeca99x-39",
+      "sourceId": 39,
+      "date": "1978-06-09",
+      "type": "draft",
+      "tenureTeam": "DEN",
+      "summary": "Drafted Rod Griffin, Mike Evans, Hollis Copeland, Michael Edwards, Robert Heard, Jack Gilloon, Larry Vaculik, Tom Schneeberger, and Phil Taylor",
+      "participants": [
+        {
+          "name": "Rod Griffin",
+          "playerHref": "/players/g/griffro01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Evans",
+          "playerHref": "/players/e/evansmi01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -16036.5,
+            "vorp": -0.39999999999999997
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Hollis Copeland",
+          "playerHref": "/players/c/copelho01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Michael Edwards",
+          "playerHref": "/players/e/edwarmi02.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Robert Heard",
+          "playerHref": "/players/h/heardro01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jack Gilloon",
+          "playerHref": "/players/g/gilloja01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Larry Vaculik",
+          "playerHref": "/players/v/vaculla01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tom Schneeberger",
+          "playerHref": "/players/s/schneto01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Phil Taylor",
+          "playerHref": "/players/t/tayloph01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -16036.5,
+        "vorp": -0.39999999999999997
+      },
+      "categoryValues": {
+        "bpm": -16036.5,
+        "vorp": -0.39999999999999997
+      },
+      "runningValues": {
+        "bpm": 16330.799999999996,
+        "vorp": 17.899999999999988
+      }
+    },
+    {
+      "id": "scheeca99x-40",
+      "sourceId": 40,
+      "date": "1978-06-26",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Ron Boone and Mark Young; Sent out Mike Evans and Darnell Hillman",
+      "participants": [
+        {
+          "name": "Mike Evans",
+          "playerHref": "/players/e/evansmi01.html",
+          "direction": "out",
+          "teamCode": "KCK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Darnell Hillman",
+          "playerHref": "/players/h/hillmda01.html",
+          "direction": "out",
+          "teamCode": "KCK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ron Boone",
+          "playerHref": "/players/b/boonero01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mark Young",
+          "playerHref": "/players/y/youngma01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 16330.799999999996,
+        "vorp": 17.899999999999988
+      }
+    },
+    {
+      "id": "scheeca99x-41",
+      "sourceId": 41,
+      "date": "1978-06-26",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Charlie Scott; Sent out Ron Boone, Ollie Mack, and Mark Young",
+      "participants": [
+        {
+          "name": "Ron Boone",
+          "playerHref": "/players/b/boonero01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ollie Mack",
+          "playerHref": "/players/m/mackol01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 604.5,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mark Young",
+          "playerHref": "/players/y/youngma01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Charlie Scott",
+          "playerHref": "/players/s/scottch01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 604.5,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 604.5,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 16935.299999999996,
+        "vorp": 17.99999999999999
+      }
+    },
+    {
+      "id": "scheeca99x-42",
+      "sourceId": 42,
+      "date": "1978-07-08",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Kim Hughes",
+      "participants": [
+        {
+          "name": "Kim Hughes",
+          "playerHref": "/players/h/hugheki01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 1044.1,
+            "vorp": 1.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1044.1,
+        "vorp": 1.6
+      },
+      "categoryValues": {
+        "bpm": 1044.1,
+        "vorp": 1.6
+      },
+      "runningValues": {
+        "bpm": 17979.399999999994,
+        "vorp": 19.59999999999999
+      }
+    },
+    {
+      "id": "scheeca99x-43",
+      "sourceId": 43,
+      "date": "1978-07-10",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Geoff Crompton; Sent out Kenny Dennard",
+      "participants": [
+        {
+          "name": "Kenny Dennard",
+          "playerHref": "/players/d/dennake01.html",
+          "direction": "out",
+          "teamCode": "KCK",
+          "values": {
+            "bpm": 291.2,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Geoff Crompton",
+          "playerHref": "/players/c/crompge01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -563.2,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -272.00000000000006,
+        "vorp": -0.6000000000000001
+      },
+      "categoryValues": {
+        "bpm": -272.00000000000006,
+        "vorp": -0.6000000000000001
+      },
+      "runningValues": {
+        "bpm": 17707.399999999994,
+        "vorp": 18.999999999999993
+      }
+    },
+    {
+      "id": "scheeca99x-44",
+      "sourceId": 44,
+      "date": "1978-08-16",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added George McGinnis and Mike Evans; Sent out Bobby Jones, Ralph Simpson, and Leon Wood",
+      "participants": [
+        {
+          "name": "Bobby Jones",
+          "playerHref": "/players/j/jonesbo01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -52461.899999999994,
+            "vorp": -20.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ralph Simpson",
+          "playerHref": "/players/s/simpsra01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Leon Wood",
+          "playerHref": "/players/w/woodle01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 1942.8,
+            "vorp": 0.19999999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "George McGinnis",
+          "playerHref": "/players/m/mcginge01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Evans",
+          "playerHref": "/players/e/evansmi01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -50519.09999999999,
+        "vorp": -20.7
+      },
+      "categoryValues": {
+        "bpm": -50519.09999999999,
+        "vorp": -20.7
+      },
+      "runningValues": {
+        "bpm": -32811.7,
+        "vorp": -1.7000000000000057
+      }
+    },
+    {
+      "id": "scheeca99x-45",
+      "sourceId": 45,
+      "date": "1978-08-23",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Phil Hicks",
+      "participants": [
+        {
+          "name": "Phil Hicks",
+          "playerHref": "/players/h/hicksph01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -32811.7,
+        "vorp": -1.7000000000000057
+      }
+    },
+    {
+      "id": "scheeca99x-46",
+      "sourceId": 46,
+      "date": "1978-09-01",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Mel Bennett",
+      "participants": [
+        {
+          "name": "Mel Bennett",
+          "playerHref": "/players/b/benneme01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -32811.7,
+        "vorp": -1.7000000000000057
+      }
+    },
+    {
+      "id": "scheeca99x-47",
+      "sourceId": 47,
+      "date": "1978-09-08",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Tom Boswell",
+      "participants": [
+        {
+          "name": "Tom Boswell",
+          "playerHref": "/players/b/bosweto01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 1302.3000000000002,
+            "vorp": 1.7000000000000002
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1302.3000000000002,
+        "vorp": 1.7000000000000002
+      },
+      "categoryValues": {
+        "bpm": 1302.3000000000002,
+        "vorp": 1.7000000000000002
+      },
+      "runningValues": {
+        "bpm": -31509.399999999998,
+        "vorp": -5.551115123125783e-15
+      }
+    },
+    {
+      "id": "scheeca99x-48",
+      "sourceId": 48,
+      "date": "1978-10-15",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed John Kuester",
+      "participants": [
+        {
+          "name": "John Kuester",
+          "playerHref": "/players/k/kuestjo01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -678.4000000000001,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -678.4000000000001,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -678.4000000000001,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -32187.8,
+        "vorp": -0.10000000000000556
+      }
+    },
+    {
+      "id": "scheeca99x-49",
+      "sourceId": 49,
+      "date": "1978-11-13",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Phil Hicks",
+      "participants": [
+        {
+          "name": "Phil Hicks",
+          "playerHref": "/players/h/hicksph01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -614.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -614.4,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -614.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -32802.2,
+        "vorp": -0.20000000000000556
+      }
+    },
+    {
+      "id": "scheeca99x-52",
+      "sourceId": 52,
+      "date": "1979-06-23",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Sent out Lawrence Butler",
+      "participants": [
+        {
+          "name": "Lawrence Butler",
+          "playerHref": "/players/b/butlela01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -32802.2,
+        "vorp": -0.20000000000000556
+      }
+    },
+    {
+      "id": "scheeca99x-53",
+      "sourceId": 53,
+      "date": "1979-06-25",
+      "type": "draft",
+      "tenureTeam": "DEN",
+      "summary": "Drafted Gary Garland, Larry Williams, Odell Ball, John Johnson, Matt Teahan, and Emmett Lewis",
+      "participants": [
+        {
+          "name": "Gary Garland",
+          "playerHref": "/players/g/garlaga01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -2875.6,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Larry Williams",
+          "playerHref": "/players/w/willila04.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Odell Ball",
+          "playerHref": "/players/b/ballod01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Johnson",
+          "playerHref": "/players/j/johnsjo04.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Matt Teahan",
+          "playerHref": "/players/t/teahama01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Emmett Lewis",
+          "playerHref": "/players/l/lewisem01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2875.6,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -2875.6,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -35677.799999999996,
+        "vorp": -0.4000000000000056
+      }
+    },
+    {
+      "id": "scheeca99x-54",
+      "sourceId": 54,
+      "date": "1979-06-29",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed John Roche",
+      "participants": [
+        {
+          "name": "John Roche",
+          "playerHref": "/players/r/rochejo01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -35677.799999999996,
+        "vorp": -0.4000000000000056
+      }
+    },
+    {
+      "id": "scheeca99x-56",
+      "sourceId": 56,
+      "date": "1979-10-09",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Eddie Lee and Ken Green; Sent out Robert Smith",
+      "participants": [
+        {
+          "name": "Robert Smith",
+          "playerHref": "/players/s/smithro01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 197.10000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eddie Lee",
+          "playerHref": "/players/l/leeed01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ken Green",
+          "playerHref": "/players/g/greenke01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 197.10000000000002,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 197.10000000000002,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -35480.7,
+        "vorp": -0.4000000000000056
+      }
+    },
+    {
+      "id": "scheeca99x-57",
+      "sourceId": 57,
+      "date": "1979-10-19",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added George Johnson",
+      "participants": [
+        {
+          "name": "George Johnson",
+          "playerHref": "/players/j/johnsge03.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -969,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -969,
+        "vorp": 0.7
+      },
+      "categoryValues": {
+        "bpm": -969,
+        "vorp": 0.7
+      },
+      "runningValues": {
+        "bpm": -36449.7,
+        "vorp": 0.2999999999999944
+      }
+    },
+    {
+      "id": "scheeca99x-58",
+      "sourceId": 58,
+      "date": "1979-11-20",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Jawann Oldham; Sent out Tom Boswell",
+      "participants": [
+        {
+          "name": "Tom Boswell",
+          "playerHref": "/players/b/bosweto01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 3893,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jawann Oldham",
+          "playerHref": "/players/o/oldhaja01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3893,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 3893,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -32556.699999999997,
+        "vorp": 0.39999999999999436
+      }
+    },
+    {
+      "id": "scheeca99x-59",
+      "sourceId": 59,
+      "date": "1979-11-27",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Glen Gondrezick",
+      "participants": [
+        {
+          "name": "Glen Gondrezick",
+          "playerHref": "/players/g/gondrgl01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 5002.5,
+            "vorp": 3.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5002.5,
+        "vorp": 3.7
+      },
+      "categoryValues": {
+        "bpm": 5002.5,
+        "vorp": 3.7
+      },
+      "runningValues": {
+        "bpm": -27554.199999999997,
+        "vorp": 4.099999999999994
+      }
+    },
+    {
+      "id": "scheeca99x-60",
+      "sourceId": 60,
+      "date": "1980-02-01",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Alex English and Carl Nicks; Sent out George McGinnis",
+      "participants": [
+        {
+          "name": "George McGinnis",
+          "playerHref": "/players/m/mcginge01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alex English",
+          "playerHref": "/players/e/englial01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 75883,
+            "vorp": 34.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Carl Nicks",
+          "playerHref": "/players/n/nicksca01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 75883,
+        "vorp": 34.1
+      },
+      "categoryValues": {
+        "bpm": 75883,
+        "vorp": 34.1
+      },
+      "runningValues": {
+        "bpm": 48328.8,
+        "vorp": 38.199999999999996
+      }
+    },
+    {
+      "id": "scheeca99x-61",
+      "sourceId": 61,
+      "date": "1980-03-02",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Arvid Kramer",
+      "participants": [
+        {
+          "name": "Arvid Kramer",
+          "playerHref": "/players/k/kramear01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -243.00000000000003,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -243.00000000000003,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -243.00000000000003,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 48085.8,
+        "vorp": 38.099999999999994
+      }
+    },
+    {
+      "id": "scheeca99x-62",
+      "sourceId": 62,
+      "date": "1980-05-16",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Sent out George Johnson",
+      "participants": [
+        {
+          "name": "George Johnson",
+          "playerHref": "/players/j/johnsge03.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 48085.8,
+        "vorp": 38.099999999999994
+      }
+    },
+    {
+      "id": "scheeca99x-63",
+      "sourceId": 63,
+      "date": "1980-06-09",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Cedrick Hordges; Sent out Mike Olliver",
+      "participants": [
+        {
+          "name": "Mike Olliver",
+          "playerHref": "/players/o/ollivmi01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cedrick Hordges",
+          "playerHref": "/players/h/hordgce01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -12136.7,
+            "vorp": -1.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -12136.7,
+        "vorp": -1.5
+      },
+      "categoryValues": {
+        "bpm": -12136.7,
+        "vorp": -1.5
+      },
+      "runningValues": {
+        "bpm": 35949.100000000006,
+        "vorp": 36.599999999999994
+      }
+    },
+    {
+      "id": "scheeca99x-64",
+      "sourceId": 64,
+      "date": "1980-06-10",
+      "type": "draft",
+      "tenureTeam": "DEN",
+      "summary": "Drafted James Ray, Carl Nicks, Jawann Oldham, Kurt Nimphius, Eddie Lee, Ronnie Valentine, Sammie Ellis, James Patrick, Ernie Hill, Tommy Springer, Jim Graziano, and Earl Sango",
+      "participants": [
+        {
+          "name": "James Ray",
+          "playerHref": "/players/r/rayja01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -3781.8,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Carl Nicks",
+          "playerHref": "/players/n/nicksca01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -2366.4,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jawann Oldham",
+          "playerHref": "/players/o/oldhaja01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -105,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kurt Nimphius",
+          "playerHref": "/players/n/nimphku01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eddie Lee",
+          "playerHref": "/players/l/leeed01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ronnie Valentine",
+          "playerHref": "/players/v/valenro01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -885.6,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sammie Ellis",
+          "playerHref": "/players/e/ellissa01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "James Patrick",
+          "playerHref": "/players/p/patrija01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ernie Hill",
+          "playerHref": "/players/h/hiller02.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tommy Springer",
+          "playerHref": "/players/s/sprinto01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jim Graziano",
+          "playerHref": "/players/g/graziji01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Earl Sango",
+          "playerHref": "/players/s/sangoea01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -7138.800000000001,
+        "vorp": -1.2
+      },
+      "categoryValues": {
+        "bpm": -7138.800000000001,
+        "vorp": -1.2
+      },
+      "runningValues": {
+        "bpm": 28810.300000000007,
+        "vorp": 35.39999999999999
+      }
+    },
+    {
+      "id": "scheeca99x-65",
+      "sourceId": 65,
+      "date": "1980-07-28",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Kenny Higgs",
+      "participants": [
+        {
+          "name": "Kenny Higgs",
+          "playerHref": "/players/h/higgske01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -10668,
+            "vorp": -1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -10668,
+        "vorp": -1
+      },
+      "categoryValues": {
+        "bpm": -10668,
+        "vorp": -1
+      },
+      "runningValues": {
+        "bpm": 18142.300000000007,
+        "vorp": 34.39999999999999
+      }
+    },
+    {
+      "id": "scheeca99x-66",
+      "sourceId": 66,
+      "date": "1980-08-15",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added T.R. Dunn and Howard Carter; Sent out Clyde Drexler and Steve Colter",
+      "participants": [
+        {
+          "name": "Clyde Drexler",
+          "playerHref": "/players/d/drexlcl01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -169465.19999999998,
+            "vorp": -57.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Colter",
+          "playerHref": "/players/c/coltest01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 1169.6000000000001,
+            "vorp": -1.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "T.R. Dunn",
+          "playerHref": "/players/d/dunntr01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1237,
+            "vorp": 9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Howard Carter",
+          "playerHref": "/players/c/carteho01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -169532.59999999998,
+        "vorp": -50.099999999999994
+      },
+      "categoryValues": {
+        "bpm": -169532.59999999998,
+        "vorp": -50.099999999999994
+      },
+      "runningValues": {
+        "bpm": -151390.29999999996,
+        "vorp": -15.700000000000006
+      }
+    },
+    {
+      "id": "scheeca99x-67",
+      "sourceId": 67,
+      "date": "1980-10-08",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Sent out Bob Wilkerson",
+      "participants": [
+        {
+          "name": "Bob Wilkerson",
+          "playerHref": "/players/w/wilkebo01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 1566.6,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1566.6,
+        "vorp": -0.7
+      },
+      "categoryValues": {
+        "bpm": 1566.6,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": -149823.69999999995,
+        "vorp": -16.400000000000006
+      }
+    },
+    {
+      "id": "scheeca99x-68",
+      "sourceId": 68,
+      "date": "1980-10-31",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Dave Robisch; Sent out Kim Hughes, Mickey Dillard, and Guy Morgan",
+      "participants": [
+        {
+          "name": "Kim Hughes",
+          "playerHref": "/players/h/hugheki01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 1423.3,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mickey Dillard",
+          "playerHref": "/players/d/dillami01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 1281.8,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Guy Morgan",
+          "playerHref": "/players/m/morgagu01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dave Robisch",
+          "playerHref": "/players/r/robisda01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2705.1,
+        "vorp": 0.5
+      },
+      "categoryValues": {
+        "bpm": 2705.1,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": -147118.59999999998,
+        "vorp": -15.900000000000006
+      }
+    },
+    {
+      "id": "scheeca99x-69",
+      "sourceId": 69,
+      "date": "1980-12-03",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Kiki Vandeweghe and Maurice Martin; Sent out Rolando Blackman and Sam Vincent",
+      "participants": [
+        {
+          "name": "Rolando Blackman",
+          "playerHref": "/players/b/blackro01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -16501.7,
+            "vorp": -19.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sam Vincent",
+          "playerHref": "/players/v/vincesa01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kiki Vandeweghe",
+          "playerHref": "/players/v/vandeki01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 14773.8,
+            "vorp": 8.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Maurice Martin",
+          "playerHref": "/players/m/martima01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -2518.4,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4246.300000000001,
+        "vorp": -10.900000000000002
+      },
+      "categoryValues": {
+        "bpm": -4246.300000000001,
+        "vorp": -10.900000000000002
+      },
+      "runningValues": {
+        "bpm": -151364.9,
+        "vorp": -26.800000000000004
+      }
+    },
+    {
+      "id": "scheeca99x-72",
+      "sourceId": 72,
+      "date": "1980-12-22",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Billy McKinney; Sent out Carl Nicks",
+      "participants": [
+        {
+          "name": "Carl Nicks",
+          "playerHref": "/players/n/nicksca01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 8766,
+            "vorp": 1.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Billy McKinney",
+          "playerHref": "/players/m/mckinbi01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -5971.8,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2794.2,
+        "vorp": 2
+      },
+      "categoryValues": {
+        "bpm": 2794.2,
+        "vorp": 2
+      },
+      "runningValues": {
+        "bpm": -148570.69999999998,
+        "vorp": -24.800000000000004
+      }
+    },
+    {
+      "id": "scheeca99x-73",
+      "sourceId": 73,
+      "date": "1981-06-09",
+      "type": "draft",
+      "tenureTeam": "DEN",
+      "summary": "Drafted Ken Green, Willie Sims, Alonzo Weatherly, Greg Manning, Curtis Redding, Andrew Burton, and Derrick Rowland",
+      "participants": [
+        {
+          "name": "Ken Green",
+          "playerHref": "/players/g/greenke01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Willie Sims",
+          "playerHref": "/players/s/simswi01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alonzo Weatherly",
+          "playerHref": "/players/w/weathal01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Greg Manning",
+          "playerHref": "/players/m/mannigr01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Curtis Redding",
+          "playerHref": "/players/r/reddicu01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Andrew Burton",
+          "playerHref": "/players/b/burtoan01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Derrick Rowland",
+          "playerHref": "/players/r/rowlade01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -148570.69999999998,
+        "vorp": -24.800000000000004
+      }
+    },
+    {
+      "id": "scheeca99x-74",
+      "sourceId": 74,
+      "date": "1981-11-27",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed David Burns",
+      "participants": [
+        {
+          "name": "David Burns",
+          "playerHref": "/players/b/burnsda01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -270.29999999999995,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -270.29999999999995,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -270.29999999999995,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -148840.99999999997,
+        "vorp": -24.900000000000006
+      }
+    },
+    {
+      "id": "scheeca99x-75",
+      "sourceId": 75,
+      "date": "1981-12-17",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Sent out Ronnie Valentine",
+      "participants": [
+        {
+          "name": "Ronnie Valentine",
+          "playerHref": "/players/v/valenro01.html",
+          "direction": "out",
+          "teamCode": "WSB",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -148840.99999999997,
+        "vorp": -24.900000000000006
+      }
+    },
+    {
+      "id": "scheeca99x-76",
+      "sourceId": 76,
+      "date": "1982-06-16",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Bill Hanzlik and Rob Williams; Sent out David Thompson",
+      "participants": [
+        {
+          "name": "David Thompson",
+          "playerHref": "/players/t/thompda01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": -1239.8,
+            "vorp": -1.7000000000000002
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bill Hanzlik",
+          "playerHref": "/players/h/hanzlbi01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -19795.6,
+            "vorp": 1.0999999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rob Williams",
+          "playerHref": "/players/w/williro02.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -21035.399999999998,
+        "vorp": -0.6000000000000003
+      },
+      "categoryValues": {
+        "bpm": -21035.399999999998,
+        "vorp": -0.6000000000000003
+      },
+      "runningValues": {
+        "bpm": -169876.39999999997,
+        "vorp": -25.500000000000004
+      }
+    },
+    {
+      "id": "scheeca99x-77",
+      "sourceId": 77,
+      "date": "1982-06-21",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Rich Kelley; Sent out David Thirdkill",
+      "participants": [
+        {
+          "name": "David Thirdkill",
+          "playerHref": "/players/t/thirdda01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 2865.5,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rich Kelley",
+          "playerHref": "/players/k/kelleri01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1638.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1227,
+        "vorp": 0.4
+      },
+      "categoryValues": {
+        "bpm": 1227,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": -168649.39999999997,
+        "vorp": -25.100000000000005
+      }
+    },
+    {
+      "id": "scheeca99x-78",
+      "sourceId": 78,
+      "date": "1982-06-29",
+      "type": "draft",
+      "tenureTeam": "DEN",
+      "summary": "Drafted Rob Williams, Roylin Bond, Alford Turner, Bill Duffy, Chris Brust, Jeb Barlow, Donnie Speer, Dean Sears, and Mike Phillips",
+      "participants": [
+        {
+          "name": "Rob Williams",
+          "playerHref": "/players/w/williro02.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -10533.899999999998,
+            "vorp": -1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Roylin Bond",
+          "playerHref": "/players/b/bondro01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alford Turner",
+          "playerHref": "/players/t/turneal01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bill Duffy",
+          "playerHref": "/players/d/duffybi01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chris Brust",
+          "playerHref": "/players/b/brustch01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jeb Barlow",
+          "playerHref": "/players/b/barloje01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Donnie Speer",
+          "playerHref": "/players/s/speerdo01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dean Sears",
+          "playerHref": "/players/s/searsde01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Phillips",
+          "playerHref": "/players/p/phillmi02.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -10533.899999999998,
+        "vorp": -1
+      },
+      "categoryValues": {
+        "bpm": -10533.899999999998,
+        "vorp": -1
+      },
+      "runningValues": {
+        "bpm": -179183.29999999996,
+        "vorp": -26.100000000000005
+      }
+    },
+    {
+      "id": "scheeca99x-79",
+      "sourceId": 79,
+      "date": "1982-12-30",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Dwight Anderson",
+      "participants": [
+        {
+          "name": "Dwight Anderson",
+          "playerHref": "/players/a/anderdw01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -158.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -158.4,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -158.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -179341.69999999995,
+        "vorp": -26.100000000000005
+      }
+    },
+    {
+      "id": "scheeca99x-80",
+      "sourceId": 80,
+      "date": "1983-01-12",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Mike Evans",
+      "participants": [
+        {
+          "name": "Mike Evans",
+          "playerHref": "/players/e/evansmi01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -16036.5,
+            "vorp": -0.39999999999999997
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -16036.5,
+        "vorp": -0.39999999999999997
+      },
+      "categoryValues": {
+        "bpm": -16036.5,
+        "vorp": -0.39999999999999997
+      },
+      "runningValues": {
+        "bpm": -195378.19999999995,
+        "vorp": -26.500000000000004
+      }
+    },
+    {
+      "id": "scheeca99x-81",
+      "sourceId": 81,
+      "date": "1983-02-07",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Danny Schayes; Sent out Rich Kelley",
+      "participants": [
+        {
+          "name": "Rich Kelley",
+          "playerHref": "/players/k/kelleri01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 7284,
+            "vorp": -0.10000000000000003
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Danny Schayes",
+          "playerHref": "/players/s/schayda01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -15108,
+            "vorp": 1.9000000000000001
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -7824,
+        "vorp": 1.8
+      },
+      "categoryValues": {
+        "bpm": -7824,
+        "vorp": 1.8
+      },
+      "runningValues": {
+        "bpm": -203202.19999999995,
+        "vorp": -24.700000000000006
+      }
+    },
+    {
+      "id": "scheeca99x-82",
+      "sourceId": 82,
+      "date": "1983-06-28",
+      "type": "draft",
+      "tenureTeam": "DEN",
+      "summary": "Drafted Howard Carter, David Russell, David Little, York Gross, James Braddock, Glenn Green, Maurice McDaniel, Cliff Tribus, Bobby Van Noy, and Cleveland McCrae",
+      "participants": [
+        {
+          "name": "Howard Carter",
+          "playerHref": "/players/c/carteho01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -2683.2,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "David Russell",
+          "playerHref": "/players/r/russeda02.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "David Little",
+          "playerHref": "/players/l/littlda01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "York Gross",
+          "playerHref": "/players/g/grossyo01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "James Braddock",
+          "playerHref": "/players/b/braddja01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Glenn Green",
+          "playerHref": "/players/g/greengl01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Maurice McDaniel",
+          "playerHref": "/players/m/mcdanma01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cliff Tribus",
+          "playerHref": "/players/t/tribucl01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bobby Van Noy",
+          "playerHref": "/players/v/vannobo01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cleveland McCrae",
+          "playerHref": "/players/m/mccracl01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2683.2,
+        "vorp": -0.3
+      },
+      "categoryValues": {
+        "bpm": -2683.2,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -205885.39999999997,
+        "vorp": -25.000000000000007
+      }
+    },
+    {
+      "id": "scheeca99x-83",
+      "sourceId": 83,
+      "date": "1983-09-27",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Kenny Dennard; Sent out Michael Adams",
+      "participants": [
+        {
+          "name": "Michael Adams",
+          "playerHref": "/players/a/adamsmi01.html",
+          "direction": "out",
+          "teamCode": "KCK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kenny Dennard",
+          "playerHref": "/players/d/dennake01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1486.8,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1486.8,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1486.8,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -207372.19999999995,
+        "vorp": -25.200000000000006
+      }
+    },
+    {
+      "id": "scheeca99x-84",
+      "sourceId": 84,
+      "date": "1983-10-04",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Richard Anderson; Sent out Billy McKinney",
+      "participants": [
+        {
+          "name": "Billy McKinney",
+          "playerHref": "/players/m/mckinbi01.html",
+          "direction": "out",
+          "teamCode": "SDC",
+          "values": {
+            "bpm": 2360.3999999999996,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Richard Anderson",
+          "playerHref": "/players/a/anderri01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -2622,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -261.60000000000036,
+        "vorp": 0.30000000000000004
+      },
+      "categoryValues": {
+        "bpm": -261.60000000000036,
+        "vorp": 0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -207633.79999999996,
+        "vorp": -24.900000000000006
+      }
+    },
+    {
+      "id": "scheeca99x-85",
+      "sourceId": 85,
+      "date": "1984-01-21",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Keith Edmonson; Sent out Joe Binion",
+      "participants": [
+        {
+          "name": "Joe Binion",
+          "playerHref": "/players/b/biniojo01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Keith Edmonson",
+          "playerHref": "/players/e/edmonke01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -494.90000000000003,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -494.90000000000003,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -494.90000000000003,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -208128.69999999995,
+        "vorp": -25.000000000000007
+      }
+    },
+    {
+      "id": "scheeca99x-86",
+      "sourceId": 86,
+      "date": "1984-02-16",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Rookie contract for Anthony Roberts",
+      "participants": [
+        {
+          "name": "Anthony Roberts",
+          "playerHref": "/players/r/roberan01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -208128.69999999995,
+        "vorp": -25.000000000000007
+      }
+    },
+    {
+      "id": "scheeca99x-87",
+      "sourceId": 87,
+      "date": "1984-02-25",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Anthony Roberts",
+      "participants": [
+        {
+          "name": "Anthony Roberts",
+          "playerHref": "/players/r/roberan01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1536.6,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1536.6,
+        "vorp": -0.4
+      },
+      "categoryValues": {
+        "bpm": -1536.6,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -209665.29999999996,
+        "vorp": -25.400000000000006
+      }
+    },
+    {
+      "id": "scheeca99x-88",
+      "sourceId": 88,
+      "date": "1984-09-25",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Bryan Warrick; Sent out Ken Perry",
+      "participants": [
+        {
+          "name": "Ken Perry",
+          "playerHref": "/players/p/perryke01.html",
+          "direction": "out",
+          "teamCode": "WSB",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bryan Warrick",
+          "playerHref": "/players/w/warribr01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -2352.9,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2352.9,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -2352.9,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -212018.19999999995,
+        "vorp": -25.600000000000005
+      }
+    },
+    {
+      "id": "scheeca99x-89",
+      "sourceId": 89,
+      "date": "1984-09-29",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Junior Bridgeman, Harvey Catchings, and Marques Johnson; Sent out Terry Cummings, Craig Hodges, and Ricky Pierce",
+      "participants": [
+        {
+          "name": "Terry Cummings",
+          "playerHref": "/players/c/cummite01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -22464.199999999997,
+            "vorp": -13.500000000000002
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Craig Hodges",
+          "playerHref": "/players/h/hodgecr01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -1873.6,
+            "vorp": -4.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ricky Pierce",
+          "playerHref": "/players/p/piercri01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -22250.1,
+            "vorp": -11.599999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Junior Bridgeman",
+          "playerHref": "/players/b/bridgju01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -6341.799999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Harvey Catchings",
+          "playerHref": "/players/c/catchha01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -3881.3,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Marques Johnson",
+          "playerHref": "/players/j/johnsma01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 669.1000000000001,
+            "vorp": 3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -56141.9,
+        "vorp": -26.8
+      },
+      "categoryValues": {
+        "bpm": -56141.9,
+        "vorp": -26.8
+      },
+      "runningValues": {
+        "bpm": -268160.1,
+        "vorp": -52.400000000000006
+      }
+    },
+    {
+      "id": "scheeca99x-90",
+      "sourceId": 90,
+      "date": "1984-10-29",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Ken Perry; Sent out Hank McDowell",
+      "participants": [
+        {
+          "name": "Hank McDowell",
+          "playerHref": "/players/m/mcdowha01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 918,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ken Perry",
+          "playerHref": "/players/p/perryke01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 918,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 918,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -267242.1,
+        "vorp": -52.300000000000004
+      }
+    },
+    {
+      "id": "scheeca99x-91",
+      "sourceId": 91,
+      "date": "1985-02-18",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Chris Engler",
+      "participants": [
+        {
+          "name": "Chris Engler",
+          "playerHref": "/players/e/englech01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -267242.1,
+        "vorp": -52.300000000000004
+      }
+    },
+    {
+      "id": "scheeca99x-92",
+      "sourceId": 92,
+      "date": "1985-03-10",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Franklin Edwards",
+      "participants": [
+        {
+          "name": "Franklin Edwards",
+          "playerHref": "/players/e/edwarfr01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -2228.4,
+            "vorp": 0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2228.4,
+        "vorp": 0.30000000000000004
+      },
+      "categoryValues": {
+        "bpm": -2228.4,
+        "vorp": 0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -269470.5,
+        "vorp": -52.00000000000001
+      }
+    },
+    {
+      "id": "scheeca99x-93",
+      "sourceId": 93,
+      "date": "1985-03-10",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Dale Wilkinson",
+      "participants": [
+        {
+          "name": "Dale Wilkinson",
+          "playerHref": "/players/w/wilkida01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -494,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -494,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -494,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -269964.5,
+        "vorp": -52.10000000000001
+      }
+    },
+    {
+      "id": "scheeca99x-95",
+      "sourceId": 95,
+      "date": "1985-06-18",
+      "type": "draft",
+      "tenureTeam": "LAC",
+      "summary": "Drafted Benoit Benjamin, Anicet Lavodrama, Jim Deines, Wayne Carlander, Malcolm Thomas, and Gary Maloncon",
+      "participants": [
+        {
+          "name": "Benoit Benjamin",
+          "playerHref": "/players/b/benjabe01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -2804.8,
+            "vorp": 5.6000000000000005
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Anicet Lavodrama",
+          "playerHref": "/players/l/lavodan01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jim Deines",
+          "playerHref": "/players/d/deineji01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Wayne Carlander",
+          "playerHref": "/players/c/carlawa01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Malcolm Thomas",
+          "playerHref": "/players/t/thomama03.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Gary Maloncon",
+          "playerHref": "/players/m/malonga01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2804.8,
+        "vorp": 5.6000000000000005
+      },
+      "categoryValues": {
+        "bpm": -2804.8,
+        "vorp": 5.6000000000000005
+      },
+      "runningValues": {
+        "bpm": -272769.3,
+        "vorp": -46.50000000000001
+      }
+    },
+    {
+      "id": "scheeca99x-96",
+      "sourceId": 96,
+      "date": "1985-09-06",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Cedric Maxwell and Arvydas Sabonis; Sent out Bill Walton",
+      "participants": [
+        {
+          "name": "Bill Walton",
+          "playerHref": "/players/w/waltobi01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": -3988.4,
+            "vorp": -1.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cedric Maxwell",
+          "playerHref": "/players/m/maxwece01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -1022,
+            "vorp": 1.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Arvydas Sabonis",
+          "playerHref": "/players/s/sabonar01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5010.4,
+        "vorp": -0.2999999999999998
+      },
+      "categoryValues": {
+        "bpm": -5010.4,
+        "vorp": -0.2999999999999998
+      },
+      "runningValues": {
+        "bpm": -277779.7,
+        "vorp": -46.800000000000004
+      }
+    },
+    {
+      "id": "scheeca99x-97",
+      "sourceId": 97,
+      "date": "1985-09-26",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Ray Williams",
+      "participants": [
+        {
+          "name": "Ray Williams",
+          "playerHref": "/players/w/willira01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -277779.7,
+        "vorp": -46.800000000000004
+      }
+    },
+    {
+      "id": "scheeca99x-98",
+      "sourceId": 98,
+      "date": "1985-09-27",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Jamaal Wilkes",
+      "participants": [
+        {
+          "name": "Jamaal Wilkes",
+          "playerHref": "/players/w/wilkeja01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -663,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -663,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -663,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -278442.7,
+        "vorp": -46.900000000000006
+      }
+    },
+    {
+      "id": "scheeca99x-99",
+      "sourceId": 99,
+      "date": "1985-11-15",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Jim Thomas",
+      "participants": [
+        {
+          "name": "Jim Thomas",
+          "playerHref": "/players/t/thomaji01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -386.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -386.4,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -386.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -278829.10000000003,
+        "vorp": -47.00000000000001
+      }
+    },
+    {
+      "id": "scheeca99x-100",
+      "sourceId": 100,
+      "date": "1985-11-25",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Kurt Nimphius; Sent out James Donaldson",
+      "participants": [
+        {
+          "name": "James Donaldson",
+          "playerHref": "/players/d/donalja01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 5680.8,
+            "vorp": -6.3999999999999995
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kurt Nimphius",
+          "playerHref": "/players/n/nimphku01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -9260.5,
+            "vorp": -1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3579.7,
+        "vorp": -7.3999999999999995
+      },
+      "categoryValues": {
+        "bpm": -3579.7,
+        "vorp": -7.3999999999999995
+      },
+      "runningValues": {
+        "bpm": -282408.80000000005,
+        "vorp": -54.400000000000006
+      }
+    },
+    {
+      "id": "scheeca99x-101",
+      "sourceId": 101,
+      "date": "1986-01-06",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Wallace Bryant",
+      "participants": [
+        {
+          "name": "Wallace Bryant",
+          "playerHref": "/players/b/bryanwa01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -396.8,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -396.8,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -396.8,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -282805.60000000003,
+        "vorp": -54.50000000000001
+      }
+    },
+    {
+      "id": "scheeca99x-102",
+      "sourceId": 102,
+      "date": "1986-01-14",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Darnell Valentine and Tom Garrick; Sent out Arvydas Sabonis and Rolando Ferreira",
+      "participants": [
+        {
+          "name": "Arvydas Sabonis",
+          "playerHref": "/players/s/sabonar01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -49917.600000000006,
+            "vorp": -18.400000000000002
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rolando Ferreira",
+          "playerHref": "/players/f/ferrero01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 788.8,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Darnell Valentine",
+          "playerHref": "/players/v/valenda01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -5144.700000000001,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tom Garrick",
+          "playerHref": "/players/g/garrito01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -5834.9,
+            "vorp": 0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -60108.4,
+        "vorp": -16.900000000000002
+      },
+      "categoryValues": {
+        "bpm": -60108.4,
+        "vorp": -16.900000000000002
+      },
+      "runningValues": {
+        "bpm": -342914.0000000001,
+        "vorp": -71.4
+      }
+    },
+    {
+      "id": "scheeca99x-103",
+      "sourceId": 103,
+      "date": "1986-01-31",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Jeff Cross",
+      "participants": [
+        {
+          "name": "Jeff Cross",
+          "playerHref": "/players/c/crossje01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -1459.2,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1459.2,
+        "vorp": -0.3
+      },
+      "categoryValues": {
+        "bpm": -1459.2,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -344373.2000000001,
+        "vorp": -71.7
+      }
+    },
+    {
+      "id": "scheeca99x-104",
+      "sourceId": 104,
+      "date": "1986-03-31",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Ozell Jones",
+      "participants": [
+        {
+          "name": "Ozell Jones",
+          "playerHref": "/players/j/jonesoz01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -241.20000000000002,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -241.20000000000002,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -241.20000000000002,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -344614.40000000014,
+        "vorp": -71.8
+      }
+    },
+    {
+      "id": "scheeca99x-106",
+      "sourceId": 106,
+      "date": "1988-06-23",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Kelly Tripucka; Sent out Mike Brown",
+      "participants": [
+        {
+          "name": "Mike Brown",
+          "playerHref": "/players/b/brownmi01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 22045.699999999997,
+            "vorp": 1.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kelly Tripucka",
+          "playerHref": "/players/t/tripuke01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 22045.699999999997,
+        "vorp": 1.9
+      },
+      "categoryValues": {
+        "bpm": 22045.699999999997,
+        "vorp": 1.9
+      },
+      "runningValues": {
+        "bpm": -322568.7000000001,
+        "vorp": -69.89999999999999
+      }
+    },
+    {
+      "id": "scheeca99x-107",
+      "sourceId": 107,
+      "date": "1988-06-28",
+      "type": "draft",
+      "tenureTeam": "CHA",
+      "summary": "Drafted Rex Chapman, Tom Tolbert, and Jeff Moore",
+      "participants": [
+        {
+          "name": "Rex Chapman",
+          "playerHref": "/players/c/chapmre01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tom Tolbert",
+          "playerHref": "/players/t/tolbeto01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jeff Moore",
+          "playerHref": "/players/m/mooreje01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -322568.7000000001,
+        "vorp": -69.89999999999999
+      }
+    },
+    {
+      "id": "scheeca99x-108",
+      "sourceId": 108,
+      "date": "1988-07-18",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Earl Cureton",
+      "participants": [
+        {
+          "name": "Earl Cureton",
+          "playerHref": "/players/c/curetea01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -322568.7000000001,
+        "vorp": -69.89999999999999
+      }
+    },
+    {
+      "id": "scheeca99x-109",
+      "sourceId": 109,
+      "date": "1988-07-18",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Robert Reid and Steve Scheffler; Sent out Bernard Thompson",
+      "participants": [
+        {
+          "name": "Bernard Thompson",
+          "playerHref": "/players/t/thompbe01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 954.5999999999999,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Robert Reid",
+          "playerHref": "/players/r/reidro01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Scheffler",
+          "playerHref": "/players/s/schefst01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 954.5999999999999,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 954.5999999999999,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -321614.10000000015,
+        "vorp": -69.8
+      }
+    },
+    {
+      "id": "scheeca99x-110",
+      "sourceId": 110,
+      "date": "1988-07-28",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Kurt Rambis",
+      "participants": [
+        {
+          "name": "Kurt Rambis",
+          "playerHref": "/players/r/rambiku01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -321614.10000000015,
+        "vorp": -69.8
+      }
+    },
+    {
+      "id": "scheeca99x-111",
+      "sourceId": 111,
+      "date": "1988-08-17",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Tim Kempton",
+      "participants": [
+        {
+          "name": "Tim Kempton",
+          "playerHref": "/players/k/kemptti01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -321614.10000000015,
+        "vorp": -69.8
+      }
+    },
+    {
+      "id": "scheeca99x-112",
+      "sourceId": 112,
+      "date": "1988-10-06",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Brian Rowsom",
+      "participants": [
+        {
+          "name": "Brian Rowsom",
+          "playerHref": "/players/r/rowsobr01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -321614.10000000015,
+        "vorp": -69.8
+      }
+    },
+    {
+      "id": "scheeca99x-113",
+      "sourceId": 113,
+      "date": "1989-03-27",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Sidney Lowe",
+      "participants": [
+        {
+          "name": "Sidney Lowe",
+          "playerHref": "/players/l/lowesi01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -321614.10000000015,
+        "vorp": -69.8
+      }
+    },
+    {
+      "id": "scheeca99x-114",
+      "sourceId": 114,
+      "date": "1989-03-29",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Greg Kite",
+      "participants": [
+        {
+          "name": "Greg Kite",
+          "playerHref": "/players/k/kitegr01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -321614.10000000015,
+        "vorp": -69.8
+      }
+    },
+    {
+      "id": "scheeca99x-115",
+      "sourceId": 115,
+      "date": "1989-06-27",
+      "type": "draft",
+      "tenureTeam": "CHA",
+      "summary": "Drafted J.R. Reid and Dyron Nix",
+      "participants": [
+        {
+          "name": "J.R. Reid",
+          "playerHref": "/players/r/reidjr01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dyron Nix",
+          "playerHref": "/players/n/nixdy01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -321614.10000000015,
+        "vorp": -69.8
+      }
+    },
+    {
+      "id": "scheeca99x-116",
+      "sourceId": 116,
+      "date": "1989-06-27",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Stuart Gray; Sent out Dyron Nix",
+      "participants": [
+        {
+          "name": "Dyron Nix",
+          "playerHref": "/players/n/nixdy01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 632.1999999999999,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Stuart Gray",
+          "playerHref": "/players/g/grayst01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 632.1999999999999,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 632.1999999999999,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -320981.90000000014,
+        "vorp": -69.7
+      }
+    },
+    {
+      "id": "scheeca99x-117",
+      "sourceId": 117,
+      "date": "1989-07-01",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Brian Rowsom",
+      "participants": [
+        {
+          "name": "Brian Rowsom",
+          "playerHref": "/players/r/rowsobr01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -320981.90000000014,
+        "vorp": -69.7
+      }
+    },
+    {
+      "id": "scheeca99x-118",
+      "sourceId": 118,
+      "date": "1989-08-16",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Clifford Lett",
+      "participants": [
+        {
+          "name": "Clifford Lett",
+          "playerHref": "/players/l/lettcl01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -320981.90000000014,
+        "vorp": -69.7
+      }
+    },
+    {
+      "id": "scheeca99x-119",
+      "sourceId": 119,
+      "date": "1989-09-11",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Kevin Lynch; Sent out Tim Kempton",
+      "participants": [
+        {
+          "name": "Tim Kempton",
+          "playerHref": "/players/k/kemptti01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 2546.4,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kevin Lynch",
+          "playerHref": "/players/l/lynchke01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2546.4,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 2546.4,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -318435.5000000001,
+        "vorp": -69.60000000000001
+      }
+    },
+    {
+      "id": "scheeca99x-120",
+      "sourceId": 120,
+      "date": "1989-09-11",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Jerry Sichting",
+      "participants": [
+        {
+          "name": "Jerry Sichting",
+          "playerHref": "/players/s/sichtje01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -318435.5000000001,
+        "vorp": -69.60000000000001
+      }
+    },
+    {
+      "id": "scheeca99x-121",
+      "sourceId": 121,
+      "date": "1989-09-26",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Kenny Gattison",
+      "participants": [
+        {
+          "name": "Kenny Gattison",
+          "playerHref": "/players/g/gattike01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -318435.5000000001,
+        "vorp": -69.60000000000001
+      }
+    },
+    {
+      "id": "scheeca99x-122",
+      "sourceId": 122,
+      "date": "1989-09-28",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Terry Dozier",
+      "participants": [
+        {
+          "name": "Terry Dozier",
+          "playerHref": "/players/d/doziete01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -318435.5000000001,
+        "vorp": -69.60000000000001
+      }
+    },
+    {
+      "id": "scheeca99x-123",
+      "sourceId": 123,
+      "date": "1989-09-28",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Mike Jones",
+      "participants": [
+        {
+          "name": "Mike Jones",
+          "playerHref": "/players/j/jonesmi01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -318435.5000000001,
+        "vorp": -69.60000000000001
+      }
+    },
+    {
+      "id": "scheeca99x-124",
+      "sourceId": 124,
+      "date": "1989-10-05",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Andre Turner",
+      "participants": [
+        {
+          "name": "Andre Turner",
+          "playerHref": "/players/t/turnean01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -318435.5000000001,
+        "vorp": -69.60000000000001
+      }
+    },
+    {
+      "id": "scheeca99x-125",
+      "sourceId": 125,
+      "date": "1989-10-17",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Richard Anderson; Sent out Robert Reid",
+      "participants": [
+        {
+          "name": "Robert Reid",
+          "playerHref": "/players/r/reidro01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 221,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Richard Anderson",
+          "playerHref": "/players/a/anderri01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 221,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 221,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -318214.5000000001,
+        "vorp": -69.60000000000001
+      }
+    },
+    {
+      "id": "scheeca99x-126",
+      "sourceId": 126,
+      "date": "1989-11-23",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Andre Turner",
+      "participants": [
+        {
+          "name": "Andre Turner",
+          "playerHref": "/players/t/turnean01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -318214.5000000001,
+        "vorp": -69.60000000000001
+      }
+    },
+    {
+      "id": "scheeca99x-127",
+      "sourceId": 127,
+      "date": "1989-12-02",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Kenny Gattison",
+      "participants": [
+        {
+          "name": "Kenny Gattison",
+          "playerHref": "/players/g/gattike01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -318214.5000000001,
+        "vorp": -69.60000000000001
+      }
+    },
+    {
+      "id": "scheeca99x-128",
+      "sourceId": 128,
+      "date": "1989-12-13",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Armen Gilliam; Sent out Kurt Rambis, Negele Knight, and Chad Gallagher",
+      "participants": [
+        {
+          "name": "Kurt Rambis",
+          "playerHref": "/players/r/rambiku01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -551.4,
+            "vorp": -1.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Negele Knight",
+          "playerHref": "/players/k/knighne01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 7958.999999999999,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chad Gallagher",
+          "playerHref": "/players/g/gallach01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Armen Gilliam",
+          "playerHref": "/players/g/gilliar01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 7407.599999999999,
+        "vorp": -0.7
+      },
+      "categoryValues": {
+        "bpm": 7407.599999999999,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": -310806.90000000014,
+        "vorp": -70.30000000000001
+      }
+    },
+    {
+      "id": "scheeca99x-129",
+      "sourceId": 129,
+      "date": "1989-12-13",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Robert Reid",
+      "participants": [
+        {
+          "name": "Robert Reid",
+          "playerHref": "/players/r/reidro01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -310806.90000000014,
+        "vorp": -70.30000000000001
+      }
+    },
+    {
+      "id": "scheeca99x-132",
+      "sourceId": 132,
+      "date": "1990-02-22",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Jimmy Oliver; Sent out Stuart Gray",
+      "participants": [
+        {
+          "name": "Stuart Gray",
+          "playerHref": "/players/g/grayst01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 1312,
+            "vorp": 0.30000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jimmy Oliver",
+          "playerHref": "/players/o/oliveji01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1312,
+        "vorp": 0.30000000000000004
+      },
+      "categoryValues": {
+        "bpm": 1312,
+        "vorp": 0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -309494.90000000014,
+        "vorp": -70.00000000000001
+      }
+    },
+    {
+      "id": "scheeca99x-133",
+      "sourceId": 133,
+      "date": "1990-02-22",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Randolph Keys; Sent out Jimmy Oliver",
+      "participants": [
+        {
+          "name": "Jimmy Oliver",
+          "playerHref": "/players/o/oliveji01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 1310.4,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Randolph Keys",
+          "playerHref": "/players/k/keysra01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1310.4,
+        "vorp": 0.2
+      },
+      "categoryValues": {
+        "bpm": 1310.4,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -308184.5000000001,
+        "vorp": -69.80000000000001
+      }
+    },
+    {
+      "id": "scheeca99x-134",
+      "sourceId": 134,
+      "date": "1990-03-13",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Micheal Williams",
+      "participants": [
+        {
+          "name": "Micheal Williams",
+          "playerHref": "/players/w/willimi02.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -308184.5000000001,
+        "vorp": -69.80000000000001
+      }
+    }
+  ]
+}

@@ -62,6 +62,14 @@ test("serves static assets from the GitHub Pages base path", async ({ page, requ
   await expect(page.locator('img[src*="/the-grunfeld/images/executives/"]').first()).toBeVisible();
 });
 
+test("links ranking cards to profiles while carrying the selected metric", async ({ page }) => {
+  await page.goto("./?population=all&metric=vorp&q=Daryl+Morey");
+  await waitForExplorer(page);
+  await page.getByRole("link", { name: "View profile" }).click();
+  await expect(page).toHaveURL(/\/the-grunfeld\/executives\/moreyda99x\/?\?metric=vorp/);
+  await expect(page.getByRole("heading", { name: "Daryl Morey", level: 1 })).toBeVisible();
+});
+
 for (const viewport of [
   { name: "desktop", width: 1440, height: 1000 },
   { name: "tablet", width: 768, height: 1024 },

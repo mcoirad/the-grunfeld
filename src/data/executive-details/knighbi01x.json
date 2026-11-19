@@ -1,0 +1,3340 @@
+{
+  "slug": "knighbi01x",
+  "sourceRowCount": 144,
+  "tenures": [
+    {
+      "teamCode": "MEM",
+      "startDate": "2000-06-28",
+      "endDate": "2003-04-14"
+    },
+    {
+      "teamCode": "ATL",
+      "startDate": "2003-04-14",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "knighbi01x-0",
+      "sourceId": 0,
+      "date": "2000-06-28",
+      "type": "draft",
+      "tenureTeam": "MEM",
+      "summary": "Drafted Stromile Swift",
+      "participants": [
+        {
+          "name": "Stromile Swift",
+          "playerHref": "/players/s/swiftst01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -7907.700000000001,
+            "vorp": 1.8000000000000003
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -7907.700000000001,
+        "vorp": 1.8000000000000003
+      },
+      "categoryValues": {
+        "bpm": -7907.700000000001,
+        "vorp": 1.8000000000000003
+      },
+      "runningValues": {
+        "bpm": -7907.700000000001,
+        "vorp": 1.8000000000000003
+      }
+    },
+    {
+      "id": "knighbi01x-1",
+      "sourceId": 1,
+      "date": "2000-08-03",
+      "type": "signing",
+      "tenureTeam": "MEM",
+      "summary": "Signed Tony Massenburg",
+      "participants": [
+        {
+          "name": "Tony Massenburg",
+          "playerHref": "/players/m/masseto01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -5736.2,
+            "vorp": -0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5736.2,
+        "vorp": -0.8
+      },
+      "categoryValues": {
+        "bpm": -5736.2,
+        "vorp": -0.8
+      },
+      "runningValues": {
+        "bpm": -13643.900000000001,
+        "vorp": 1.0000000000000002
+      }
+    },
+    {
+      "id": "knighbi01x-2",
+      "sourceId": 2,
+      "date": "2000-08-08",
+      "type": "signing",
+      "tenureTeam": "MEM",
+      "summary": "Signed Damon Jones",
+      "participants": [
+        {
+          "name": "Damon Jones",
+          "playerHref": "/players/j/jonesda01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -13643.900000000001,
+        "vorp": 1.0000000000000002
+      }
+    },
+    {
+      "id": "knighbi01x-3",
+      "sourceId": 3,
+      "date": "2000-08-19",
+      "type": "signing",
+      "tenureTeam": "MEM",
+      "summary": "Signed Mahmoud Abdul-Rauf",
+      "participants": [
+        {
+          "name": "Mahmoud Abdul-Rauf",
+          "playerHref": "/players/a/abdulma02.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -13643.900000000001,
+        "vorp": 1.0000000000000002
+      }
+    },
+    {
+      "id": "knighbi01x-4",
+      "sourceId": 4,
+      "date": "2000-08-22",
+      "type": "trade",
+      "tenureTeam": "MEM",
+      "summary": "Added Isaac Austin; Sent out Obinna Ekezie, Felipe López, Cherokee Parks, and Dennis Scott",
+      "participants": [
+        {
+          "name": "Obinna Ekezie",
+          "playerHref": "/players/e/ekeziob01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 955.5,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Felipe López",
+          "playerHref": "/players/l/lopezfe01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 1662,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cherokee Parks",
+          "playerHref": "/players/p/parksch02.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 53.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dennis Scott",
+          "playerHref": "/players/s/scottde01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Isaac Austin",
+          "playerHref": "/players/a/austiis01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -1657.8000000000002,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1013.0999999999999,
+        "vorp": -0.4
+      },
+      "categoryValues": {
+        "bpm": 1013.0999999999999,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -12630.800000000003,
+        "vorp": 0.6000000000000003
+      }
+    },
+    {
+      "id": "knighbi01x-5",
+      "sourceId": 5,
+      "date": "2000-09-29",
+      "type": "signing",
+      "tenureTeam": "MEM",
+      "summary": "Signed Paul Grant",
+      "participants": [
+        {
+          "name": "Paul Grant",
+          "playerHref": "/players/g/grantpa01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -12630.800000000003,
+        "vorp": 0.6000000000000003
+      }
+    },
+    {
+      "id": "knighbi01x-6",
+      "sourceId": 6,
+      "date": "2000-10-01",
+      "type": "signing",
+      "tenureTeam": "MEM",
+      "summary": "Signed Kevin Edwards",
+      "participants": [
+        {
+          "name": "Kevin Edwards",
+          "playerHref": "/players/e/edwarke01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -12630.800000000003,
+        "vorp": 0.6000000000000003
+      }
+    },
+    {
+      "id": "knighbi01x-7",
+      "sourceId": 7,
+      "date": "2000-10-02",
+      "type": "signing",
+      "tenureTeam": "MEM",
+      "summary": "Signed Jeff Nordgaard",
+      "participants": [
+        {
+          "name": "Jeff Nordgaard",
+          "playerHref": "/players/n/nordgje01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -12630.800000000003,
+        "vorp": 0.6000000000000003
+      }
+    },
+    {
+      "id": "knighbi01x-8",
+      "sourceId": 8,
+      "date": "2000-10-02",
+      "type": "signing",
+      "tenureTeam": "MEM",
+      "summary": "Signed William Cunningham",
+      "participants": [
+        {
+          "name": "William Cunningham",
+          "playerHref": "/players/c/cunniwi01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -12630.800000000003,
+        "vorp": 0.6000000000000003
+      }
+    },
+    {
+      "id": "knighbi01x-9",
+      "sourceId": 9,
+      "date": "2001-01-30",
+      "type": "trade",
+      "tenureTeam": "MEM",
+      "summary": "Added Erick Strickland, Jamaal Tinsley, and Antonis Fotsis; Sent out Othella Harrington",
+      "participants": [
+        {
+          "name": "Othella Harrington",
+          "playerHref": "/players/h/harriot01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 14513.5,
+            "vorp": 1.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Erick Strickland",
+          "playerHref": "/players/s/stricer01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jamaal Tinsley",
+          "playerHref": "/players/t/tinslja01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Antonis Fotsis",
+          "playerHref": "/players/f/fotsian01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 14513.5,
+        "vorp": 1.3
+      },
+      "categoryValues": {
+        "bpm": 14513.5,
+        "vorp": 1.3
+      },
+      "runningValues": {
+        "bpm": 1882.699999999997,
+        "vorp": 1.9000000000000004
+      }
+    },
+    {
+      "id": "knighbi01x-10",
+      "sourceId": 10,
+      "date": "2001-06-27",
+      "type": "draft",
+      "tenureTeam": "MEM",
+      "summary": "Drafted Shane Battier, Jamaal Tinsley, Will Solomon, and Antonis Fotsis",
+      "participants": [
+        {
+          "name": "Shane Battier",
+          "playerHref": "/players/b/battish01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 24907.7,
+            "vorp": 13.100000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jamaal Tinsley",
+          "playerHref": "/players/t/tinslja01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -2532.7,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Will Solomon",
+          "playerHref": "/players/s/solomwi01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -3836.8,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Antonis Fotsis",
+          "playerHref": "/players/f/fotsian01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -1088,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 17450.2,
+        "vorp": 12.200000000000001
+      },
+      "categoryValues": {
+        "bpm": 17450.2,
+        "vorp": 12.200000000000001
+      },
+      "runningValues": {
+        "bpm": 19332.899999999998,
+        "vorp": 14.100000000000001
+      }
+    },
+    {
+      "id": "knighbi01x-11",
+      "sourceId": 11,
+      "date": "2001-06-27",
+      "type": "trade",
+      "tenureTeam": "MEM",
+      "summary": "Added Pau Gasol, Brevin Knight, and Lorenzen Wright; Sent out Shareef Abdur-Rahim and Jamaal Tinsley",
+      "participants": [
+        {
+          "name": "Shareef Abdur-Rahim",
+          "playerHref": "/players/a/abdursh01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -14504,
+            "vorp": -7.699999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jamaal Tinsley",
+          "playerHref": "/players/t/tinslja01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Pau Gasol",
+          "playerHref": "/players/g/gasolpa01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 52637.100000000006,
+            "vorp": 21.700000000000003
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Brevin Knight",
+          "playerHref": "/players/k/knighbr01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -4050.1000000000004,
+            "vorp": 0.09999999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lorenzen Wright",
+          "playerHref": "/players/w/wrighlo02.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -19587,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 14496.000000000007,
+        "vorp": 13.700000000000003
+      },
+      "categoryValues": {
+        "bpm": 14496.000000000007,
+        "vorp": 13.700000000000003
+      },
+      "runningValues": {
+        "bpm": 33828.9,
+        "vorp": 27.800000000000008
+      }
+    },
+    {
+      "id": "knighbi01x-12",
+      "sourceId": 12,
+      "date": "2001-06-27",
+      "type": "trade",
+      "tenureTeam": "MEM",
+      "summary": "Added Nick Anderson and Jason Williams; Sent out Mike Bibby and Brent Price",
+      "participants": [
+        {
+          "name": "Mike Bibby",
+          "playerHref": "/players/b/bibbymi01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -24384.100000000002,
+            "vorp": -14.699999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Brent Price",
+          "playerHref": "/players/p/pricebr01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 525.1,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Nick Anderson",
+          "playerHref": "/players/a/anderni01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -1270.2,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jason Williams",
+          "playerHref": "/players/w/willija02.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 10064.4,
+            "vorp": 7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -15064.800000000005,
+        "vorp": -7.799999999999997
+      },
+      "categoryValues": {
+        "bpm": -15064.800000000005,
+        "vorp": -7.799999999999997
+      },
+      "runningValues": {
+        "bpm": 18764.1,
+        "vorp": 20.00000000000001
+      }
+    },
+    {
+      "id": "knighbi01x-13",
+      "sourceId": 13,
+      "date": "2001-09-13",
+      "type": "signing",
+      "tenureTeam": "MEM",
+      "summary": "Signed James Collins",
+      "participants": [
+        {
+          "name": "James Collins",
+          "playerHref": "/players/c/collija01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 18764.1,
+        "vorp": 20.00000000000001
+      }
+    },
+    {
+      "id": "knighbi01x-14",
+      "sourceId": 14,
+      "date": "2001-11-19",
+      "type": "signing",
+      "tenureTeam": "MEM",
+      "summary": "Signed Rodney Buford",
+      "participants": [
+        {
+          "name": "Rodney Buford",
+          "playerHref": "/players/b/buforro01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -7252.9,
+            "vorp": -1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -7252.9,
+        "vorp": -1
+      },
+      "categoryValues": {
+        "bpm": -7252.9,
+        "vorp": -1
+      },
+      "runningValues": {
+        "bpm": 11511.199999999999,
+        "vorp": 19.00000000000001
+      }
+    },
+    {
+      "id": "knighbi01x-15",
+      "sourceId": 15,
+      "date": "2002-02-13",
+      "type": "signing",
+      "tenureTeam": "MEM",
+      "summary": "Signed Elliot Perry",
+      "participants": [
+        {
+          "name": "Elliot Perry",
+          "playerHref": "/players/p/perryel01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -384,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -384,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -384,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 11127.199999999999,
+        "vorp": 18.90000000000001
+      }
+    },
+    {
+      "id": "knighbi01x-16",
+      "sourceId": 16,
+      "date": "2002-02-23",
+      "type": "signing",
+      "tenureTeam": "MEM",
+      "summary": "Signed Eddie Gill",
+      "participants": [
+        {
+          "name": "Eddie Gill",
+          "playerHref": "/players/g/gilled01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -1804.8000000000002,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1804.8000000000002,
+        "vorp": -0.3
+      },
+      "categoryValues": {
+        "bpm": -1804.8000000000002,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": 9322.399999999998,
+        "vorp": 18.60000000000001
+      }
+    },
+    {
+      "id": "knighbi01x-17",
+      "sourceId": 17,
+      "date": "2002-03-03",
+      "type": "signing",
+      "tenureTeam": "MEM",
+      "summary": "Signed Isaac Fontaine",
+      "participants": [
+        {
+          "name": "Isaac Fontaine",
+          "playerHref": "/players/f/fontais01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -727.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -727.5,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -727.5,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 8594.899999999998,
+        "vorp": 18.500000000000007
+      }
+    },
+    {
+      "id": "knighbi01x-18",
+      "sourceId": 18,
+      "date": "2003-04-14",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Mikki Moore",
+      "participants": [
+        {
+          "name": "Mikki Moore",
+          "playerHref": "/players/m/mooremi01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 74.39999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 74.39999999999999,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 74.39999999999999,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 8669.299999999997,
+        "vorp": 18.500000000000007
+      }
+    },
+    {
+      "id": "knighbi01x-19",
+      "sourceId": 19,
+      "date": "2003-06-26",
+      "type": "draft",
+      "tenureTeam": "ATL",
+      "summary": "Drafted Boris Diaw and Travis Hansen",
+      "participants": [
+        {
+          "name": "Boris Diaw",
+          "playerHref": "/players/d/diawbo01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -8617.2,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Travis Hansen",
+          "playerHref": "/players/h/hansetr01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -3143.4,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -11760.6,
+        "vorp": -1
+      },
+      "categoryValues": {
+        "bpm": -11760.6,
+        "vorp": -1
+      },
+      "runningValues": {
+        "bpm": -3091.3000000000034,
+        "vorp": 17.500000000000007
+      }
+    },
+    {
+      "id": "knighbi01x-20",
+      "sourceId": 20,
+      "date": "2003-07-23",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Terrell Brandon and Randy Holcomb; Sent out Glenn Robinson and Daniel Gibson",
+      "participants": [
+        {
+          "name": "Glenn Robinson",
+          "playerHref": "/players/r/robingl01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 2004,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Daniel Gibson",
+          "playerHref": "/players/g/gibsoda01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Terrell Brandon",
+          "playerHref": "/players/b/brandte01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Randy Holcomb",
+          "playerHref": "/players/h/holcora01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2004,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": 2004,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -1087.3000000000034,
+        "vorp": 17.400000000000006
+      }
+    },
+    {
+      "id": "knighbi01x-21",
+      "sourceId": 21,
+      "date": "2003-09-04",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Jacque Vaughn",
+      "participants": [
+        {
+          "name": "Jacque Vaughn",
+          "playerHref": "/players/v/vaughja01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -6355,
+            "vorp": -1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6355,
+        "vorp": -1
+      },
+      "categoryValues": {
+        "bpm": -6355,
+        "vorp": -1
+      },
+      "runningValues": {
+        "bpm": -7442.300000000003,
+        "vorp": 16.400000000000006
+      }
+    },
+    {
+      "id": "knighbi01x-22",
+      "sourceId": 22,
+      "date": "2003-09-26",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Obinna Ekezie",
+      "participants": [
+        {
+          "name": "Obinna Ekezie",
+          "playerHref": "/players/e/ekeziob01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -7442.300000000003,
+        "vorp": 16.400000000000006
+      }
+    },
+    {
+      "id": "knighbi01x-23",
+      "sourceId": 23,
+      "date": "2003-09-26",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Dion Glover",
+      "participants": [
+        {
+          "name": "Dion Glover",
+          "playerHref": "/players/g/glovedi01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -2490.5,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2490.5,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": -2490.5,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -9932.800000000003,
+        "vorp": 16.500000000000007
+      }
+    },
+    {
+      "id": "knighbi01x-24",
+      "sourceId": 24,
+      "date": "2003-09-29",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Tierre Brown",
+      "participants": [
+        {
+          "name": "Tierre Brown",
+          "playerHref": "/players/b/brownti01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -9932.800000000003,
+        "vorp": 16.500000000000007
+      }
+    },
+    {
+      "id": "knighbi01x-25",
+      "sourceId": 25,
+      "date": "2003-09-30",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Lee Nailon",
+      "participants": [
+        {
+          "name": "Lee Nailon",
+          "playerHref": "/players/n/nailole01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -1050,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1050,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -1050,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -10982.800000000003,
+        "vorp": 16.400000000000006
+      }
+    },
+    {
+      "id": "knighbi01x-26",
+      "sourceId": 26,
+      "date": "2003-10-03",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Stephen Jackson",
+      "participants": [
+        {
+          "name": "Stephen Jackson",
+          "playerHref": "/players/j/jacksst02.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 294,
+            "vorp": 1.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 294,
+        "vorp": 1.5
+      },
+      "categoryValues": {
+        "bpm": 294,
+        "vorp": 1.5
+      },
+      "runningValues": {
+        "bpm": -10688.800000000003,
+        "vorp": 17.900000000000006
+      }
+    },
+    {
+      "id": "knighbi01x-27",
+      "sourceId": 27,
+      "date": "2004-02-09",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Wesley Person and Rasheed Wallace; Sent out Shareef Abdur-Rahim, Dan Dickau, and Theo Ratliff",
+      "participants": [
+        {
+          "name": "Shareef Abdur-Rahim",
+          "playerHref": "/players/a/abdursh01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -1389.1,
+            "vorp": -1.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dan Dickau",
+          "playerHref": "/players/d/dickada01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 1520.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Theo Ratliff",
+          "playerHref": "/players/r/ratlith01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 2890.7,
+            "vorp": -1.2000000000000002
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Wesley Person",
+          "playerHref": "/players/p/persowe01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -303.59999999999997,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rasheed Wallace",
+          "playerHref": "/players/w/wallara01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -138.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2579.8,
+        "vorp": -2.9000000000000004
+      },
+      "categoryValues": {
+        "bpm": 2579.8,
+        "vorp": -2.9000000000000004
+      },
+      "runningValues": {
+        "bpm": -8109.000000000005,
+        "vorp": 15.000000000000007
+      }
+    },
+    {
+      "id": "knighbi01x-28",
+      "sourceId": 28,
+      "date": "2004-02-15",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Joel Przybilla, Michael Doleac, and Ronny Turiaf; Sent out Nazr Mohammed",
+      "participants": [
+        {
+          "name": "Nazr Mohammed",
+          "playerHref": "/players/m/mohamna01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 1030.6000000000001,
+            "vorp": -0.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Joel Przybilla",
+          "playerHref": "/players/p/przybjo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -657.6999999999999,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Michael Doleac",
+          "playerHref": "/players/d/doleami01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -753.5000000000001,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ronny Turiaf",
+          "playerHref": "/players/t/turiaro01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 1597.3999999999999,
+            "vorp": 1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1216.8,
+        "vorp": 0.30000000000000004
+      },
+      "categoryValues": {
+        "bpm": 1216.8,
+        "vorp": 0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -6892.200000000004,
+        "vorp": 15.300000000000006
+      }
+    },
+    {
+      "id": "knighbi01x-29",
+      "sourceId": 29,
+      "date": "2004-02-18",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Mamadou N'Diaye",
+      "participants": [
+        {
+          "name": "Mamadou N'Diaye",
+          "playerHref": "/players/n/ndiayma02.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -1795,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1795,
+        "vorp": -0.3
+      },
+      "categoryValues": {
+        "bpm": -1795,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -8687.200000000004,
+        "vorp": 15.000000000000005
+      }
+    },
+    {
+      "id": "knighbi01x-30",
+      "sourceId": 30,
+      "date": "2004-02-19",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Chris Mills, Željko Rebrača, Bob Sura, and Josh Smith; Sent out Rasheed Wallace",
+      "participants": [
+        {
+          "name": "Rasheed Wallace",
+          "playerHref": "/players/w/wallara01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -36047.6,
+            "vorp": -15.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chris Mills",
+          "playerHref": "/players/m/millsch01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Željko Rebrača",
+          "playerHref": "/players/r/rebraze01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -843.5999999999999,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bob Sura",
+          "playerHref": "/players/s/surabo01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 1060.5,
+            "vorp": 0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Josh Smith",
+          "playerHref": "/players/s/smithjo03.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -840,
+            "vorp": 1.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -36670.7,
+        "vorp": -13.5
+      },
+      "categoryValues": {
+        "bpm": -36670.7,
+        "vorp": -13.5
+      },
+      "runningValues": {
+        "bpm": -45357.9,
+        "vorp": 1.5000000000000058
+      }
+    },
+    {
+      "id": "knighbi01x-31",
+      "sourceId": 31,
+      "date": "2004-02-27",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Hiram Fuller",
+      "participants": [
+        {
+          "name": "Hiram Fuller",
+          "playerHref": "/players/f/fullehi01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -447.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -447.2,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -447.2,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -45805.1,
+        "vorp": 1.4000000000000057
+      }
+    },
+    {
+      "id": "knighbi01x-32",
+      "sourceId": 32,
+      "date": "2004-03-08",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Jason Collier",
+      "participants": [
+        {
+          "name": "Jason Collier",
+          "playerHref": "/players/c/collija02.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -8273.400000000001,
+            "vorp": -1.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -8273.400000000001,
+        "vorp": -1.3
+      },
+      "categoryValues": {
+        "bpm": -8273.400000000001,
+        "vorp": -1.3
+      },
+      "runningValues": {
+        "bpm": -54078.5,
+        "vorp": 0.10000000000000564
+      }
+    },
+    {
+      "id": "knighbi01x-33",
+      "sourceId": 33,
+      "date": "2004-03-09",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Josh Davis",
+      "participants": [
+        {
+          "name": "Josh Davis",
+          "playerHref": "/players/d/davisjo02.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -234.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -234.6,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -234.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -54313.1,
+        "vorp": 0.10000000000000564
+      }
+    },
+    {
+      "id": "knighbi01x-34",
+      "sourceId": 34,
+      "date": "2004-03-18",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Michael Bradley",
+      "participants": [
+        {
+          "name": "Michael Bradley",
+          "playerHref": "/players/b/bradlmi01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -630,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -630,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -630,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -54943.1,
+        "vorp": 5.6343818499726694e-15
+      }
+    },
+    {
+      "id": "knighbi01x-35",
+      "sourceId": 35,
+      "date": "2004-06-24",
+      "type": "draft",
+      "tenureTeam": "ATL",
+      "summary": "Drafted Josh Childress, Josh Smith, Donta Smith, Royal Ivey, and Viktor Sanikidze",
+      "participants": [
+        {
+          "name": "Josh Childress",
+          "playerHref": "/players/c/childjo01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 9262,
+            "vorp": 6.8999999999999995
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Josh Smith",
+          "playerHref": "/players/s/smithjo03.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 52714.6,
+            "vorp": 24.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Donta Smith",
+          "playerHref": "/players/s/smithdo04.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -1756.8,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Royal Ivey",
+          "playerHref": "/players/i/iveyro01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -10942.599999999999,
+            "vorp": -1.4999999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Viktor Sanikidze",
+          "playerHref": "/players/s/sanikvi01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 49277.2,
+        "vorp": 30.099999999999998
+      },
+      "categoryValues": {
+        "bpm": 49277.2,
+        "vorp": 30.099999999999998
+      },
+      "runningValues": {
+        "bpm": -5665.899999999999,
+        "vorp": 30.100000000000005
+      }
+    },
+    {
+      "id": "knighbi01x-36",
+      "sourceId": 36,
+      "date": "2004-06-24",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Cenk Akyol; Sent out Viktor Sanikidze",
+      "participants": [
+        {
+          "name": "Viktor Sanikidze",
+          "playerHref": "/players/s/sanikvi01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cenk Akyol",
+          "playerHref": "/players/a/akyolce01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -5665.899999999999,
+        "vorp": 30.100000000000005
+      }
+    },
+    {
+      "id": "knighbi01x-37",
+      "sourceId": 37,
+      "date": "2004-07-15",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Al Harrington; Sent out Stephen Jackson",
+      "participants": [
+        {
+          "name": "Stephen Jackson",
+          "playerHref": "/players/j/jacksst02.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 816.6000000000001,
+            "vorp": -2.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Al Harrington",
+          "playerHref": "/players/h/harrial01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -9226.6,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -8410,
+        "vorp": -2.4
+      },
+      "categoryValues": {
+        "bpm": -8410,
+        "vorp": -2.4
+      },
+      "runningValues": {
+        "bpm": -14075.899999999998,
+        "vorp": 27.700000000000003
+      }
+    },
+    {
+      "id": "knighbi01x-38",
+      "sourceId": 38,
+      "date": "2004-08-04",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Tony Delk and Antoine Walker; Sent out Alan Henderson and Jason Terry",
+      "participants": [
+        {
+          "name": "Alan Henderson",
+          "playerHref": "/players/h/hendeal01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 1563.9,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jason Terry",
+          "playerHref": "/players/t/terryja01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -51934.6,
+            "vorp": -23.200000000000003
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tony Delk",
+          "playerHref": "/players/d/delkto01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -1355.4,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Antoine Walker",
+          "playerHref": "/players/w/walkean02.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -638.4,
+            "vorp": 0.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -52364.5,
+        "vorp": -22.200000000000003
+      },
+      "categoryValues": {
+        "bpm": -52364.5,
+        "vorp": -22.200000000000003
+      },
+      "runningValues": {
+        "bpm": -66440.4,
+        "vorp": 5.500000000000001
+      }
+    },
+    {
+      "id": "knighbi01x-39",
+      "sourceId": 39,
+      "date": "2004-08-16",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Predrag Drobnjak; Sent out Ronny Turiaf",
+      "participants": [
+        {
+          "name": "Ronny Turiaf",
+          "playerHref": "/players/t/turiaro01.html",
+          "direction": "out",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Predrag Drobnjak",
+          "playerHref": "/players/d/drobnpr01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -4592,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4592,
+        "vorp": -0.4
+      },
+      "categoryValues": {
+        "bpm": -4592,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -71032.4,
+        "vorp": 5.1000000000000005
+      }
+    },
+    {
+      "id": "knighbi01x-40",
+      "sourceId": 40,
+      "date": "2004-09-16",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Kenny Anderson",
+      "participants": [
+        {
+          "name": "Kenny Anderson",
+          "playerHref": "/players/a/anderke01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -2581.2000000000003,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2581.2000000000003,
+        "vorp": -0.3
+      },
+      "categoryValues": {
+        "bpm": -2581.2000000000003,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -73613.59999999999,
+        "vorp": 4.800000000000001
+      }
+    },
+    {
+      "id": "knighbi01x-41",
+      "sourceId": 41,
+      "date": "2004-09-16",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Jon Barry",
+      "participants": [
+        {
+          "name": "Jon Barry",
+          "playerHref": "/players/b/barryjo01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -550,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -550,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -550,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -74163.59999999999,
+        "vorp": 4.800000000000001
+      }
+    },
+    {
+      "id": "knighbi01x-42",
+      "sourceId": 42,
+      "date": "2004-09-22",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Kevin Willis",
+      "participants": [
+        {
+          "name": "Kevin Willis",
+          "playerHref": "/players/w/willike02.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -2270.4,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2270.4,
+        "vorp": -0.4
+      },
+      "categoryValues": {
+        "bpm": -2270.4,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -76433.99999999999,
+        "vorp": 4.4
+      }
+    },
+    {
+      "id": "knighbi01x-43",
+      "sourceId": 43,
+      "date": "2004-10-04",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Lonny Baxter",
+      "participants": [
+        {
+          "name": "Lonny Baxter",
+          "playerHref": "/players/b/baxtelo01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -76433.99999999999,
+        "vorp": 4.4
+      }
+    },
+    {
+      "id": "knighbi01x-44",
+      "sourceId": 44,
+      "date": "2004-10-05",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Anthony Miller",
+      "participants": [
+        {
+          "name": "Anthony Miller",
+          "playerHref": "/players/m/millean01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 20.7,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 20.7,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 20.7,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -76413.29999999999,
+        "vorp": 4.4
+      }
+    },
+    {
+      "id": "knighbi01x-45",
+      "sourceId": 45,
+      "date": "2004-10-22",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Donnell Harvey",
+      "participants": [
+        {
+          "name": "Donnell Harvey",
+          "playerHref": "/players/h/harvedo01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -76413.29999999999,
+        "vorp": 4.4
+      }
+    },
+    {
+      "id": "knighbi01x-46",
+      "sourceId": 46,
+      "date": "2004-11-08",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Jelani McCoy",
+      "participants": [
+        {
+          "name": "Jelani McCoy",
+          "playerHref": "/players/m/mccoyje01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -607.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -607.2,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -607.2,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -77020.49999999999,
+        "vorp": 4.300000000000001
+      }
+    },
+    {
+      "id": "knighbi01x-47",
+      "sourceId": 47,
+      "date": "2004-12-23",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Tyronn Lue; Sent out Jon Barry",
+      "participants": [
+        {
+          "name": "Jon Barry",
+          "playerHref": "/players/b/barryjo01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -2562,
+            "vorp": -1.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tyronn Lue",
+          "playerHref": "/players/l/luety01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -6683.4,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -9245.4,
+        "vorp": -0.7
+      },
+      "categoryValues": {
+        "bpm": -9245.4,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": -86265.89999999998,
+        "vorp": 3.6000000000000005
+      }
+    },
+    {
+      "id": "knighbi01x-48",
+      "sourceId": 48,
+      "date": "2005-01-10",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Obinna Ekezie",
+      "participants": [
+        {
+          "name": "Obinna Ekezie",
+          "playerHref": "/players/e/ekeziob01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -4538.400000000001,
+            "vorp": -0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4538.400000000001,
+        "vorp": -0.8
+      },
+      "categoryValues": {
+        "bpm": -4538.400000000001,
+        "vorp": -0.8
+      },
+      "runningValues": {
+        "bpm": -90804.29999999997,
+        "vorp": 2.8000000000000007
+      }
+    },
+    {
+      "id": "knighbi01x-49",
+      "sourceId": 49,
+      "date": "2005-02-24",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Tom Gugliotta, Gary Payton, Michael Stewart, and Rajon Rondo; Sent out Antoine Walker",
+      "participants": [
+        {
+          "name": "Antoine Walker",
+          "playerHref": "/players/w/walkean02.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 578.9,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tom Gugliotta",
+          "playerHref": "/players/g/guglito01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -2393.6,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Gary Payton",
+          "playerHref": "/players/p/paytoga01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Michael Stewart",
+          "playerHref": "/players/s/stewami01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -710.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rajon Rondo",
+          "playerHref": "/players/r/rondora01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -1005,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3530.2,
+        "vorp": -0.6
+      },
+      "categoryValues": {
+        "bpm": -3530.2,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": -94334.49999999999,
+        "vorp": 2.2000000000000006
+      }
+    },
+    {
+      "id": "knighbi01x-50",
+      "sourceId": 50,
+      "date": "2005-04-09",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed James Thomas",
+      "participants": [
+        {
+          "name": "James Thomas",
+          "playerHref": "/players/t/thomaja02.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -8.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -8.5,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -8.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -94342.99999999999,
+        "vorp": 2.2000000000000006
+      }
+    },
+    {
+      "id": "knighbi01x-51",
+      "sourceId": 51,
+      "date": "2005-06-28",
+      "type": "draft",
+      "tenureTeam": "ATL",
+      "summary": "Drafted Marvin Williams, Salim Stoudamire, and Cenk Akyol",
+      "participants": [
+        {
+          "name": "Marvin Williams",
+          "playerHref": "/players/w/willima02.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -15870.7,
+            "vorp": 3.4000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Salim Stoudamire",
+          "playerHref": "/players/s/stoudsa01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -7599,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cenk Akyol",
+          "playerHref": "/players/a/akyolce01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -23469.7,
+        "vorp": 2.8000000000000003
+      },
+      "categoryValues": {
+        "bpm": -23469.7,
+        "vorp": 2.8000000000000003
+      },
+      "runningValues": {
+        "bpm": -117812.69999999998,
+        "vorp": 5.000000000000002
+      }
+    },
+    {
+      "id": "knighbi01x-52",
+      "sourceId": 52,
+      "date": "2005-08-11",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Zaza Pachulia",
+      "participants": [
+        {
+          "name": "Zaza Pachulia",
+          "playerHref": "/players/p/pachuza01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -24571.300000000003,
+            "vorp": -0.09999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -24571.300000000003,
+        "vorp": -0.09999999999999998
+      },
+      "categoryValues": {
+        "bpm": -24571.300000000003,
+        "vorp": -0.09999999999999998
+      },
+      "runningValues": {
+        "bpm": -142384,
+        "vorp": 4.900000000000002
+      }
+    },
+    {
+      "id": "knighbi01x-53",
+      "sourceId": 53,
+      "date": "2005-08-19",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Joe Johnson; Sent out Boris Diaw, Rajon Rondo, and Robin Lopez",
+      "participants": [
+        {
+          "name": "Boris Diaw",
+          "playerHref": "/players/d/diawbo01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -7054.2,
+            "vorp": -5.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rajon Rondo",
+          "playerHref": "/players/r/rondora01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Robin Lopez",
+          "playerHref": "/players/l/lopezro01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 8612.2,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Joe Johnson",
+          "playerHref": "/players/j/johnsjo02.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 30076.4,
+            "vorp": 17.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 31634.4,
+        "vorp": 11.7
+      },
+      "categoryValues": {
+        "bpm": 31634.4,
+        "vorp": 11.7
+      },
+      "runningValues": {
+        "bpm": -110749.6,
+        "vorp": 16.6
+      }
+    },
+    {
+      "id": "knighbi01x-54",
+      "sourceId": 54,
+      "date": "2005-08-30",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed John Edwards",
+      "participants": [
+        {
+          "name": "John Edwards",
+          "playerHref": "/players/e/edwarjo01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -1864.8,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1864.8,
+        "vorp": -0.3
+      },
+      "categoryValues": {
+        "bpm": -1864.8,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -112614.40000000001,
+        "vorp": 16.3
+      }
+    },
+    {
+      "id": "knighbi01x-55",
+      "sourceId": 55,
+      "date": "2005-09-12",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Esteban Batista",
+      "participants": [
+        {
+          "name": "Esteban Batista",
+          "playerHref": "/players/b/batises01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -4039.2,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4039.2,
+        "vorp": -0.7
+      },
+      "categoryValues": {
+        "bpm": -4039.2,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": -116653.6,
+        "vorp": 15.600000000000001
+      }
+    },
+    {
+      "id": "knighbi01x-56",
+      "sourceId": 56,
+      "date": "2005-09-27",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Ajani Williams",
+      "participants": [
+        {
+          "name": "Ajani Williams",
+          "playerHref": "/players/w/williaj01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -116653.6,
+        "vorp": 15.600000000000001
+      }
+    },
+    {
+      "id": "knighbi01x-57",
+      "sourceId": 57,
+      "date": "2005-09-29",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Roderick Riley",
+      "participants": [
+        {
+          "name": "Roderick Riley",
+          "playerHref": "/players/r/rileyro03.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -116653.6,
+        "vorp": 15.600000000000001
+      }
+    },
+    {
+      "id": "knighbi01x-58",
+      "sourceId": 58,
+      "date": "2005-09-29",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Anthony Wilkins",
+      "participants": [
+        {
+          "name": "Anthony Wilkins",
+          "playerHref": "/players/w/wilkian01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -116653.6,
+        "vorp": 15.600000000000001
+      }
+    },
+    {
+      "id": "knighbi01x-59",
+      "sourceId": 59,
+      "date": "2005-09-30",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Mark Strickland",
+      "participants": [
+        {
+          "name": "Mark Strickland",
+          "playerHref": "/players/s/stricma01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -116653.6,
+        "vorp": 15.600000000000001
+      }
+    },
+    {
+      "id": "knighbi01x-60",
+      "sourceId": 60,
+      "date": "2006-03-02",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed James Lang",
+      "participants": [
+        {
+          "name": "James Lang",
+          "playerHref": "/players/l/langja01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -116653.6,
+        "vorp": 15.600000000000001
+      }
+    },
+    {
+      "id": "knighbi01x-61",
+      "sourceId": 61,
+      "date": "2006-03-27",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Anthony Grundy",
+      "participants": [
+        {
+          "name": "Anthony Grundy",
+          "playerHref": "/players/g/grundan01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -43.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -43.2,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -43.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -116696.8,
+        "vorp": 15.600000000000001
+      }
+    },
+    {
+      "id": "knighbi01x-62",
+      "sourceId": 62,
+      "date": "2006-06-28",
+      "type": "draft",
+      "tenureTeam": "ATL",
+      "summary": "Drafted Shelden Williams and Solomon Jones",
+      "participants": [
+        {
+          "name": "Shelden Williams",
+          "playerHref": "/players/w/willish02.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -6445.2,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Solomon Jones",
+          "playerHref": "/players/j/jonesso01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -5148.6,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -11593.8,
+        "vorp": -1.2
+      },
+      "categoryValues": {
+        "bpm": -11593.8,
+        "vorp": -1.2
+      },
+      "runningValues": {
+        "bpm": -128290.6,
+        "vorp": 14.400000000000002
+      }
+    },
+    {
+      "id": "knighbi01x-63",
+      "sourceId": 63,
+      "date": "2006-07-12",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Speedy Claxton",
+      "participants": [
+        {
+          "name": "Speedy Claxton",
+          "playerHref": "/players/c/claxtsp01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -4878,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4878,
+        "vorp": -0.6
+      },
+      "categoryValues": {
+        "bpm": -4878,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": -133168.6,
+        "vorp": 13.800000000000002
+      }
+    },
+    {
+      "id": "knighbi01x-64",
+      "sourceId": 64,
+      "date": "2006-08-22",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Acie Law; Sent out John Edwards and Al Harrington",
+      "participants": [
+        {
+          "name": "John Edwards",
+          "playerHref": "/players/e/edwarjo01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Al Harrington",
+          "playerHref": "/players/h/harrial01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 1932.8000000000002,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Acie Law",
+          "playerHref": "/players/l/lawac01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1932.8000000000002,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": 1932.8000000000002,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -131235.80000000002,
+        "vorp": 13.700000000000003
+      }
+    },
+    {
+      "id": "knighbi01x-65",
+      "sourceId": 65,
+      "date": "2006-08-30",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Lorenzen Wright",
+      "participants": [
+        {
+          "name": "Lorenzen Wright",
+          "playerHref": "/players/w/wrighlo02.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -6048.1,
+            "vorp": -0.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6048.1,
+        "vorp": -0.9
+      },
+      "categoryValues": {
+        "bpm": -6048.1,
+        "vorp": -0.9
+      },
+      "runningValues": {
+        "bpm": -137283.90000000002,
+        "vorp": 12.800000000000002
+      }
+    },
+    {
+      "id": "knighbi01x-66",
+      "sourceId": 66,
+      "date": "2006-09-25",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Andreas Glyniadakis",
+      "participants": [
+        {
+          "name": "Andreas Glyniadakis",
+          "playerHref": "/players/g/glynian01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -137283.90000000002,
+        "vorp": 12.800000000000002
+      }
+    },
+    {
+      "id": "knighbi01x-67",
+      "sourceId": 67,
+      "date": "2006-09-29",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Kaniel Dickens",
+      "participants": [
+        {
+          "name": "Kaniel Dickens",
+          "playerHref": "/players/d/dickeka01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -137283.90000000002,
+        "vorp": 12.800000000000002
+      }
+    },
+    {
+      "id": "knighbi01x-68",
+      "sourceId": 68,
+      "date": "2006-09-29",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Cedric Bozeman",
+      "participants": [
+        {
+          "name": "Cedric Bozeman",
+          "playerHref": "/players/b/bozemce01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -1432.8,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1432.8,
+        "vorp": -0.3
+      },
+      "categoryValues": {
+        "bpm": -1432.8,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -138716.7,
+        "vorp": 12.500000000000002
+      }
+    },
+    {
+      "id": "knighbi01x-69",
+      "sourceId": 69,
+      "date": "2006-09-29",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Andre Brown",
+      "participants": [
+        {
+          "name": "Andre Brown",
+          "playerHref": "/players/b/brownan01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -138716.7,
+        "vorp": 12.500000000000002
+      }
+    },
+    {
+      "id": "knighbi01x-70",
+      "sourceId": 70,
+      "date": "2006-09-29",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Lionel Chalmers",
+      "participants": [
+        {
+          "name": "Lionel Chalmers",
+          "playerHref": "/players/c/chalmli01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -138716.7,
+        "vorp": 12.500000000000002
+      }
+    },
+    {
+      "id": "knighbi01x-71",
+      "sourceId": 71,
+      "date": "2006-10-02",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Matt Freije",
+      "participants": [
+        {
+          "name": "Matt Freije",
+          "playerHref": "/players/f/freijma01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -779.1,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -779.1,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -779.1,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -139495.80000000002,
+        "vorp": 12.400000000000002
+      }
+    },
+    {
+      "id": "knighbi01x-72",
+      "sourceId": 72,
+      "date": "2006-12-28",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Stanislav Medvedenko",
+      "participants": [
+        {
+          "name": "Stanislav Medvedenko",
+          "playerHref": "/players/m/medvest01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -453.59999999999997,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -453.59999999999997,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -453.59999999999997,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -139949.40000000002,
+        "vorp": 12.300000000000002
+      }
+    },
+    {
+      "id": "knighbi01x-73",
+      "sourceId": 73,
+      "date": "2007-01-06",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Dijon Thompson",
+      "participants": [
+        {
+          "name": "Dijon Thompson",
+          "playerHref": "/players/t/thompdi01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -165,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -165,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -165,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -140114.40000000002,
+        "vorp": 12.300000000000002
+      }
+    },
+    {
+      "id": "knighbi01x-74",
+      "sourceId": 74,
+      "date": "2007-01-27",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Jeremy Richardson",
+      "participants": [
+        {
+          "name": "Jeremy Richardson",
+          "playerHref": "/players/r/richaje01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 39.89999999999998,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 39.89999999999998,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 39.89999999999998,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -140074.50000000003,
+        "vorp": 12.300000000000002
+      }
+    },
+    {
+      "id": "knighbi01x-75",
+      "sourceId": 75,
+      "date": "2007-02-22",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Anthony Johnson; Sent out Nick Fazekas",
+      "participants": [
+        {
+          "name": "Nick Fazekas",
+          "playerHref": "/players/f/fazekni01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 39.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Anthony Johnson",
+          "playerHref": "/players/j/johnsan02.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -4110.2,
+            "vorp": -0.09999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4070.6,
+        "vorp": -0.09999999999999998
+      },
+      "categoryValues": {
+        "bpm": -4070.6,
+        "vorp": -0.09999999999999998
+      },
+      "runningValues": {
+        "bpm": -144145.10000000003,
+        "vorp": 12.200000000000003
+      }
+    },
+    {
+      "id": "knighbi01x-76",
+      "sourceId": 76,
+      "date": "2007-06-28",
+      "type": "draft",
+      "tenureTeam": "ATL",
+      "summary": "Drafted Al Horford and Acie Law",
+      "participants": [
+        {
+          "name": "Al Horford",
+          "playerHref": "/players/h/horfoal01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 45039.7,
+            "vorp": 21.000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Acie Law",
+          "playerHref": "/players/l/lawac01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -6122,
+            "vorp": -0.7999999999999999
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 38917.7,
+        "vorp": 20.200000000000003
+      },
+      "categoryValues": {
+        "bpm": 38917.7,
+        "vorp": 20.200000000000003
+      },
+      "runningValues": {
+        "bpm": -105227.40000000004,
+        "vorp": 32.400000000000006
+      }
+    },
+    {
+      "id": "knighbi01x-77",
+      "sourceId": 77,
+      "date": "2007-10-01",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Mario West",
+      "participants": [
+        {
+          "name": "Mario West",
+          "playerHref": "/players/w/westma02.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -1401.1,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1401.1,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -1401.1,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -106628.50000000004,
+        "vorp": 32.400000000000006
+      }
+    },
+    {
+      "id": "knighbi01x-78",
+      "sourceId": 78,
+      "date": "2008-02-16",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Mike Bibby; Sent out Anthony Johnson, Tyronn Lue, Shelden Williams, Lorenzen Wright, and Sean Singletary",
+      "participants": [
+        {
+          "name": "Anthony Johnson",
+          "playerHref": "/players/j/johnsan02.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 1680.9999999999998,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tyronn Lue",
+          "playerHref": "/players/l/luety01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Shelden Williams",
+          "playerHref": "/players/w/willish02.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 2664.3,
+            "vorp": 0.30000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lorenzen Wright",
+          "playerHref": "/players/w/wrighlo02.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 284.7,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sean Singletary",
+          "playerHref": "/players/s/singlse01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Bibby",
+          "playerHref": "/players/b/bibbymi01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 2606.6,
+            "vorp": 4.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 7236.6,
+        "vorp": 5.199999999999999
+      },
+      "categoryValues": {
+        "bpm": 7236.6,
+        "vorp": 5.199999999999999
+      },
+      "runningValues": {
+        "bpm": -99391.90000000004,
+        "vorp": 37.60000000000001
+      }
+    },
+    {
+      "id": "knighbi01x-79",
+      "sourceId": 79,
+      "date": "2008-02-19",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Jeremy Richardson",
+      "participants": [
+        {
+          "name": "Jeremy Richardson",
+          "playerHref": "/players/r/richaje01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -616,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -616,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -616,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -100007.90000000004,
+        "vorp": 37.50000000000001
+      }
+    }
+  ]
+}

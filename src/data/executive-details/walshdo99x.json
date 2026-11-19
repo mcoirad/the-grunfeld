@@ -1,0 +1,6629 @@
+{
+  "slug": "walshdo99x",
+  "sourceRowCount": 283,
+  "tenures": [
+    {
+      "teamCode": "IND",
+      "startDate": "1986-06-17",
+      "endDate": "2008-06-26"
+    },
+    {
+      "teamCode": "NYK",
+      "startDate": "2008-06-26",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "walshdo99x-0",
+      "sourceId": 0,
+      "date": "1986-06-17",
+      "type": "draft",
+      "tenureTeam": "IND",
+      "summary": "Drafted Chuck Person, Greg Dreiling, Derrick Taylor, Richard Rellford, Jeff Hall, and Steve Woodside",
+      "participants": [
+        {
+          "name": "Chuck Person",
+          "playerHref": "/players/p/persoch01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Greg Dreiling",
+          "playerHref": "/players/d/dreilgr01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -13544.700000000003,
+            "vorp": -2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Derrick Taylor",
+          "playerHref": "/players/t/taylode02.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Richard Rellford",
+          "playerHref": "/players/r/rellfri01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jeff Hall",
+          "playerHref": "/players/h/hallje01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Woodside",
+          "playerHref": "/players/w/woodsst01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -13544.700000000003,
+        "vorp": -2
+      },
+      "categoryValues": {
+        "bpm": -20319.100000000002,
+        "vorp": 4.8
+      },
+      "runningValues": {
+        "bpm": -13544.700000000003,
+        "vorp": -2
+      }
+    },
+    {
+      "id": "walshdo99x-2",
+      "sourceId": 2,
+      "date": "1986-09-15",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Rookie contract for Chuck Person",
+      "participants": [
+        {
+          "name": "Chuck Person",
+          "playerHref": "/players/p/persoch01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -6774.4,
+            "vorp": 6.8
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -6774.4,
+        "vorp": 6.8
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -20319.100000000002,
+        "vorp": 4.8
+      }
+    },
+    {
+      "id": "walshdo99x-3",
+      "sourceId": 3,
+      "date": "1986-09-18",
+      "type": "trade",
+      "tenureTeam": "IND",
+      "summary": "Added Kyle Macy; Sent out Greg Butler and Litterial Green",
+      "participants": [
+        {
+          "name": "Greg Butler",
+          "playerHref": "/players/b/butlegr01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Litterial Green",
+          "playerHref": "/players/g/greenli01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kyle Macy",
+          "playerHref": "/players/m/macyky01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -375,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -375,
+        "vorp": 0.5
+      },
+      "categoryValues": {
+        "bpm": -375,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": -20694.100000000002,
+        "vorp": 5.3
+      }
+    },
+    {
+      "id": "walshdo99x-4",
+      "sourceId": 4,
+      "date": "1986-10-02",
+      "type": "trade",
+      "tenureTeam": "IND",
+      "summary": "Added John Long and Spencer Dunkley; Sent out Russ Schoene and Terence Stansbury",
+      "participants": [
+        {
+          "name": "Russ Schoene",
+          "playerHref": "/players/s/schoeru01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 7801.7,
+            "vorp": 0.7999999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Terence Stansbury",
+          "playerHref": "/players/s/stanste01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 1612.5,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Long",
+          "playerHref": "/players/l/longjo01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -6162.1,
+            "vorp": 0.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Spencer Dunkley",
+          "playerHref": "/players/d/dunklsp01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3252.1000000000004,
+        "vorp": 1.9
+      },
+      "categoryValues": {
+        "bpm": 3252.1000000000004,
+        "vorp": 1.9
+      },
+      "runningValues": {
+        "bpm": -17442,
+        "vorp": 7.2
+      }
+    },
+    {
+      "id": "walshdo99x-5",
+      "sourceId": 5,
+      "date": "1986-10-02",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Walker Russell",
+      "participants": [
+        {
+          "name": "Walker Russell",
+          "playerHref": "/players/r/russewa01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -1584.1000000000001,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1584.1000000000001,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -1584.1000000000001,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -19026.1,
+        "vorp": 7.1000000000000005
+      }
+    },
+    {
+      "id": "walshdo99x-6",
+      "sourceId": 6,
+      "date": "1986-12-29",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Pete Verhoeven",
+      "participants": [
+        {
+          "name": "Pete Verhoeven",
+          "playerHref": "/players/v/verhope01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -321.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -321.2,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -321.2,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -19347.3,
+        "vorp": 7.000000000000001
+      }
+    },
+    {
+      "id": "walshdo99x-7",
+      "sourceId": 7,
+      "date": "1987-01-01",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Michael Brooks",
+      "participants": [
+        {
+          "name": "Michael Brooks",
+          "playerHref": "/players/b/brookmi01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -843.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -843.6,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -843.6,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -20190.899999999998,
+        "vorp": 6.900000000000001
+      }
+    },
+    {
+      "id": "walshdo99x-8",
+      "sourceId": 8,
+      "date": "1987-06-21",
+      "type": "trade",
+      "tenureTeam": "IND",
+      "summary": "Added Scott Skiles; Sent out Gary Leonard",
+      "participants": [
+        {
+          "name": "Gary Leonard",
+          "playerHref": "/players/l/leonaga01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Scott Skiles",
+          "playerHref": "/players/s/skilesc01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -5862.7,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5862.7,
+        "vorp": -0.30000000000000004
+      },
+      "categoryValues": {
+        "bpm": -5862.7,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -26053.6,
+        "vorp": 6.600000000000001
+      }
+    },
+    {
+      "id": "walshdo99x-9",
+      "sourceId": 9,
+      "date": "1987-06-22",
+      "type": "draft",
+      "tenureTeam": "IND",
+      "summary": "Drafted Reggie Miller, Brian Rowsom, Sean Couch, Mike Milling, Gary Graham, and Montel Hatcher",
+      "participants": [
+        {
+          "name": "Reggie Miller",
+          "playerHref": "/players/m/millere01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 165469.1,
+            "vorp": 65.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Brian Rowsom",
+          "playerHref": "/players/r/rowsobr01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -134.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sean Couch",
+          "playerHref": "/players/c/couchse01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Milling",
+          "playerHref": "/players/m/millimi02.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Gary Graham",
+          "playerHref": "/players/g/grahaga01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Montel Hatcher",
+          "playerHref": "/players/h/hatchmo01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 165334.7,
+        "vorp": 65.6
+      },
+      "categoryValues": {
+        "bpm": 165334.7,
+        "vorp": 65.6
+      },
+      "runningValues": {
+        "bpm": 139281.1,
+        "vorp": 72.19999999999999
+      }
+    },
+    {
+      "id": "walshdo99x-10",
+      "sourceId": 10,
+      "date": "1987-10-05",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Clinton Wheeler",
+      "participants": [
+        {
+          "name": "Clinton Wheeler",
+          "playerHref": "/players/w/wheelcl01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -205.20000000000002,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -205.20000000000002,
+        "vorp": 0.2
+      },
+      "categoryValues": {
+        "bpm": -205.20000000000002,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 139075.9,
+        "vorp": 72.39999999999999
+      }
+    },
+    {
+      "id": "walshdo99x-11",
+      "sourceId": 11,
+      "date": "1987-10-05",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Anthony Frederick",
+      "participants": [
+        {
+          "name": "Anthony Frederick",
+          "playerHref": "/players/f/fredean01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -939,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -939,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -939,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 138136.9,
+        "vorp": 72.3
+      }
+    },
+    {
+      "id": "walshdo99x-12",
+      "sourceId": 12,
+      "date": "1987-10-08",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Jim Thomas",
+      "participants": [
+        {
+          "name": "Jim Thomas",
+          "playerHref": "/players/t/thomaji01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 138136.9,
+        "vorp": 72.3
+      }
+    },
+    {
+      "id": "walshdo99x-16",
+      "sourceId": 16,
+      "date": "1988-06-28",
+      "type": "draft",
+      "tenureTeam": "IND",
+      "summary": "Drafted Rik Smits, Herbert Crook, and Michael Anderson",
+      "participants": [
+        {
+          "name": "Rik Smits",
+          "playerHref": "/players/s/smitsri01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -5320.0999999999985,
+            "vorp": 10.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Herbert Crook",
+          "playerHref": "/players/c/crookhe01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Michael Anderson",
+          "playerHref": "/players/a/andermi01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5320.0999999999985,
+        "vorp": 10.5
+      },
+      "categoryValues": {
+        "bpm": -5320.0999999999985,
+        "vorp": 10.5
+      },
+      "runningValues": {
+        "bpm": 132816.8,
+        "vorp": 82.8
+      }
+    },
+    {
+      "id": "walshdo99x-17",
+      "sourceId": 17,
+      "date": "1988-08-26",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Stuart Gray",
+      "participants": [
+        {
+          "name": "Stuart Gray",
+          "playerHref": "/players/g/grayst01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -2505.6000000000004,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2505.6000000000004,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -2505.6000000000004,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 130311.19999999998,
+        "vorp": 82.6
+      }
+    },
+    {
+      "id": "walshdo99x-18",
+      "sourceId": 18,
+      "date": "1988-10-04",
+      "type": "trade",
+      "tenureTeam": "IND",
+      "summary": "Added Everette Stephens; Sent out Ron Anderson",
+      "participants": [
+        {
+          "name": "Ron Anderson",
+          "playerHref": "/players/a/anderro01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 18149.9,
+            "vorp": -0.8999999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Everette Stephens",
+          "playerHref": "/players/s/stephev01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 18149.9,
+        "vorp": -0.8999999999999999
+      },
+      "categoryValues": {
+        "bpm": 18149.9,
+        "vorp": -0.8999999999999999
+      },
+      "runningValues": {
+        "bpm": 148461.09999999998,
+        "vorp": 81.69999999999999
+      }
+    },
+    {
+      "id": "walshdo99x-19",
+      "sourceId": 19,
+      "date": "1988-10-05",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Richard Morton",
+      "participants": [
+        {
+          "name": "Richard Morton",
+          "playerHref": "/players/m/mortori01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -29.700000000000003,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -29.700000000000003,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -29.700000000000003,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 148431.39999999997,
+        "vorp": 81.69999999999999
+      }
+    },
+    {
+      "id": "walshdo99x-20",
+      "sourceId": 20,
+      "date": "1988-10-05",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Everette Stephens",
+      "participants": [
+        {
+          "name": "Everette Stephens",
+          "playerHref": "/players/s/stephev01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -1170.3999999999999,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1170.3999999999999,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1170.3999999999999,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 147260.99999999997,
+        "vorp": 81.49999999999999
+      }
+    },
+    {
+      "id": "walshdo99x-23",
+      "sourceId": 23,
+      "date": "1989-01-05",
+      "type": "trade",
+      "tenureTeam": "IND",
+      "summary": "Added Dick Versace; Sent out Melvin Levett",
+      "participants": [
+        {
+          "name": "Melvin Levett",
+          "playerHref": "/players/l/levetme01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dick Versace",
+          "playerHref": "/coaches/versadi99c.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 147260.99999999997,
+        "vorp": 81.49999999999999
+      }
+    },
+    {
+      "id": "walshdo99x-24",
+      "sourceId": 24,
+      "date": "1989-02-02",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Sedric Toney",
+      "participants": [
+        {
+          "name": "Sedric Toney",
+          "playerHref": "/players/t/toneyse01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -239.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -239.4,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -239.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 147021.59999999998,
+        "vorp": 81.39999999999999
+      }
+    },
+    {
+      "id": "walshdo99x-25",
+      "sourceId": 25,
+      "date": "1989-02-20",
+      "type": "trade",
+      "tenureTeam": "IND",
+      "summary": "Added LaSalle Thompson and Randy Wittman; Sent out Wayman Tisdale and Bimbo Coles",
+      "participants": [
+        {
+          "name": "Wayman Tisdale",
+          "playerHref": "/players/t/tisdawa01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 14564.3,
+            "vorp": -2.6999999999999997
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bimbo Coles",
+          "playerHref": "/players/c/colesbi01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "LaSalle Thompson",
+          "playerHref": "/players/t/thompla01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -20307.2,
+            "vorp": -1.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Randy Wittman",
+          "playerHref": "/players/w/wittmra01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -5123,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -10865.900000000001,
+        "vorp": -4.3
+      },
+      "categoryValues": {
+        "bpm": -10865.900000000001,
+        "vorp": -4.3
+      },
+      "runningValues": {
+        "bpm": 136155.69999999995,
+        "vorp": 77.1
+      }
+    },
+    {
+      "id": "walshdo99x-26",
+      "sourceId": 26,
+      "date": "1989-02-21",
+      "type": "trade",
+      "tenureTeam": "IND",
+      "summary": "Added Detlef Schrempf and Antonio Davis; Sent out Herb Williams",
+      "participants": [
+        {
+          "name": "Herb Williams",
+          "playerHref": "/players/w/willihe01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 16756.5,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Detlef Schrempf",
+          "playerHref": "/players/s/schrede01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 28732.1,
+            "vorp": 13.099999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Antonio Davis",
+          "playerHref": "/players/d/davisan01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 45488.6,
+        "vorp": 13.899999999999999
+      },
+      "categoryValues": {
+        "bpm": 45488.6,
+        "vorp": 13.899999999999999
+      },
+      "runningValues": {
+        "bpm": 181644.29999999996,
+        "vorp": 90.99999999999999
+      }
+    },
+    {
+      "id": "walshdo99x-27",
+      "sourceId": 27,
+      "date": "1989-06-27",
+      "type": "draft",
+      "tenureTeam": "IND",
+      "summary": "Drafted George McCloud",
+      "participants": [
+        {
+          "name": "George McCloud",
+          "playerHref": "/players/m/mccloge01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -11475.8,
+            "vorp": -0.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -11475.8,
+        "vorp": -0.9
+      },
+      "categoryValues": {
+        "bpm": -11475.8,
+        "vorp": -0.9
+      },
+      "runningValues": {
+        "bpm": 170168.49999999997,
+        "vorp": 90.09999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-28",
+      "sourceId": 28,
+      "date": "1989-06-27",
+      "type": "trade",
+      "tenureTeam": "IND",
+      "summary": "Added Dyron Nix; Sent out Stuart Gray",
+      "participants": [
+        {
+          "name": "Stuart Gray",
+          "playerHref": "/players/g/grayst01.html",
+          "direction": "out",
+          "teamCode": "CHH",
+          "values": {
+            "bpm": 1491.2,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dyron Nix",
+          "playerHref": "/players/n/nixdy01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -632.1999999999999,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 859.0000000000001,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 859.0000000000001,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 171027.49999999997,
+        "vorp": 90.09999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-29",
+      "sourceId": 29,
+      "date": "1989-09-08",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Mike Sanders",
+      "participants": [
+        {
+          "name": "Mike Sanders",
+          "playerHref": "/players/s/sandemi01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -12637.2,
+            "vorp": -1.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -12637.2,
+        "vorp": -1.7
+      },
+      "categoryValues": {
+        "bpm": -12637.2,
+        "vorp": -1.7
+      },
+      "runningValues": {
+        "bpm": 158390.29999999996,
+        "vorp": 88.39999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-30",
+      "sourceId": 30,
+      "date": "1989-10-03",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Rickey Green",
+      "participants": [
+        {
+          "name": "Rickey Green",
+          "playerHref": "/players/g/greenri01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -1668.6000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1668.6000000000001,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -1668.6000000000001,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 156721.69999999995,
+        "vorp": 88.39999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-31",
+      "sourceId": 31,
+      "date": "1989-10-09",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Calvin Natt",
+      "participants": [
+        {
+          "name": "Calvin Natt",
+          "playerHref": "/players/n/nattca01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -65.60000000000001,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -65.60000000000001,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": -65.60000000000001,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 156656.09999999995,
+        "vorp": 88.49999999999997
+      }
+    },
+    {
+      "id": "walshdo99x-32",
+      "sourceId": 32,
+      "date": "1990-06-27",
+      "type": "draft",
+      "tenureTeam": "IND",
+      "summary": "Drafted Antonio Davis and Kenny Williams",
+      "participants": [
+        {
+          "name": "Antonio Davis",
+          "playerHref": "/players/d/davisan01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -7951.000000000001,
+            "vorp": 3.3000000000000003
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kenny Williams",
+          "playerHref": "/players/w/willike03.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 187,
+            "vorp": 1.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -7764.000000000001,
+        "vorp": 4.7
+      },
+      "categoryValues": {
+        "bpm": -7764.000000000001,
+        "vorp": 4.7
+      },
+      "runningValues": {
+        "bpm": 148892.09999999995,
+        "vorp": 93.19999999999997
+      }
+    },
+    {
+      "id": "walshdo99x-33",
+      "sourceId": 33,
+      "date": "1990-08-07",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Micheal Williams",
+      "participants": [
+        {
+          "name": "Micheal Williams",
+          "playerHref": "/players/w/willimi02.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 15634.2,
+            "vorp": 6.199999999999999
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 15634.2,
+        "vorp": 6.199999999999999
+      },
+      "categoryValues": {
+        "bpm": 15634.2,
+        "vorp": 6.199999999999999
+      },
+      "runningValues": {
+        "bpm": 164526.29999999996,
+        "vorp": 99.39999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-34",
+      "sourceId": 34,
+      "date": "1990-10-04",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Michael Cooper",
+      "participants": [
+        {
+          "name": "Michael Cooper",
+          "playerHref": "/players/c/coopemi01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 164526.29999999996,
+        "vorp": 99.39999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-35",
+      "sourceId": 35,
+      "date": "1990-10-04",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Gregory Wiltjer",
+      "participants": [
+        {
+          "name": "Gregory Wiltjer",
+          "playerHref": "/players/w/wiltjgr01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 164526.29999999996,
+        "vorp": 99.39999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-36",
+      "sourceId": 36,
+      "date": "1990-10-04",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Gary Plummer",
+      "participants": [
+        {
+          "name": "Gary Plummer",
+          "playerHref": "/players/p/plummga01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 164526.29999999996,
+        "vorp": 99.39999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-37",
+      "sourceId": 37,
+      "date": "1990-10-04",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Darryl Johnson",
+      "participants": [
+        {
+          "name": "Darryl Johnson",
+          "playerHref": "/players/j/johnsda02.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 164526.29999999996,
+        "vorp": 99.39999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-40",
+      "sourceId": 40,
+      "date": "1991-01-16",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Byron Dinkins",
+      "participants": [
+        {
+          "name": "Byron Dinkins",
+          "playerHref": "/players/d/dinkiby01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -38.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -38.5,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -38.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 164487.79999999996,
+        "vorp": 99.39999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-41",
+      "sourceId": 41,
+      "date": "1991-01-22",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Jawann Oldham",
+      "participants": [
+        {
+          "name": "Jawann Oldham",
+          "playerHref": "/players/o/oldhaja01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -106.39999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -106.39999999999999,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -106.39999999999999,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 164381.39999999997,
+        "vorp": 99.39999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-42",
+      "sourceId": 42,
+      "date": "1991-06-26",
+      "type": "draft",
+      "tenureTeam": "IND",
+      "summary": "Drafted Dale Davis and Sean Green",
+      "participants": [
+        {
+          "name": "Dale Davis",
+          "playerHref": "/players/d/davisda01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 13008.800000000001,
+            "vorp": 13.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sean Green",
+          "playerHref": "/players/g/greense01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -2216.8,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 10792,
+        "vorp": 12.799999999999999
+      },
+      "categoryValues": {
+        "bpm": 10792,
+        "vorp": 12.799999999999999
+      },
+      "runningValues": {
+        "bpm": 175173.39999999997,
+        "vorp": 112.19999999999997
+      }
+    },
+    {
+      "id": "walshdo99x-43",
+      "sourceId": 43,
+      "date": "1991-09-01",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Doug Roth",
+      "participants": [
+        {
+          "name": "Doug Roth",
+          "playerHref": "/players/r/rothdo01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 175173.39999999997,
+        "vorp": 112.19999999999997
+      }
+    },
+    {
+      "id": "walshdo99x-44",
+      "sourceId": 44,
+      "date": "1991-09-06",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Greg Grant",
+      "participants": [
+        {
+          "name": "Greg Grant",
+          "playerHref": "/players/g/grantgr01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 175173.39999999997,
+        "vorp": 112.19999999999997
+      }
+    },
+    {
+      "id": "walshdo99x-45",
+      "sourceId": 45,
+      "date": "1992-01-24",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Jerome Lane",
+      "participants": [
+        {
+          "name": "Jerome Lane",
+          "playerHref": "/players/l/laneje01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -150,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -150,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -150,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 175023.39999999997,
+        "vorp": 112.19999999999997
+      }
+    },
+    {
+      "id": "walshdo99x-46",
+      "sourceId": 46,
+      "date": "1992-06-24",
+      "type": "draft",
+      "tenureTeam": "IND",
+      "summary": "Drafted Malik Sealy",
+      "participants": [
+        {
+          "name": "Malik Sealy",
+          "playerHref": "/players/s/sealyma01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -3812.8999999999996,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3812.8999999999996,
+        "vorp": -0.30000000000000004
+      },
+      "categoryValues": {
+        "bpm": -3812.8999999999996,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": 171210.49999999997,
+        "vorp": 111.89999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-47",
+      "sourceId": 47,
+      "date": "1992-09-01",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Frank Kornet",
+      "participants": [
+        {
+          "name": "Frank Kornet",
+          "playerHref": "/players/k/kornefr01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 171210.49999999997,
+        "vorp": 111.89999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-48",
+      "sourceId": 48,
+      "date": "1992-09-08",
+      "type": "trade",
+      "tenureTeam": "IND",
+      "summary": "Added Sam Mitchell and Pooh Richardson; Sent out Chuck Person and Micheal Williams",
+      "participants": [
+        {
+          "name": "Chuck Person",
+          "playerHref": "/players/p/persoch01.html",
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 10827.900000000001,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Micheal Williams",
+          "playerHref": "/players/w/willimi02.html",
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": -9526,
+            "vorp": -5.1000000000000005
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sam Mitchell",
+          "playerHref": "/players/m/mitchsa01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -8602.7,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Pooh Richardson",
+          "playerHref": "/players/r/richapo01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 309.99999999999994,
+            "vorp": 1.7999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6990.799999999999,
+        "vorp": -3.3000000000000007
+      },
+      "categoryValues": {
+        "bpm": -6990.799999999999,
+        "vorp": -3.3000000000000007
+      },
+      "runningValues": {
+        "bpm": 164219.69999999995,
+        "vorp": 108.59999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-49",
+      "sourceId": 49,
+      "date": "1992-10-07",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Andre Spencer",
+      "participants": [
+        {
+          "name": "Andre Spencer",
+          "playerHref": "/players/s/spencan01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 164219.69999999995,
+        "vorp": 108.59999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-52",
+      "sourceId": 52,
+      "date": "1993-06-30",
+      "type": "draft",
+      "tenureTeam": "IND",
+      "summary": "Drafted Scott Haskin, Thomas Hill, and Spencer Dunkley",
+      "participants": [
+        {
+          "name": "Scott Haskin",
+          "playerHref": "/players/h/haskisc01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -520.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Thomas Hill",
+          "playerHref": "/players/h/hillth01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Spencer Dunkley",
+          "playerHref": "/players/d/dunklsp01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -520.8,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -520.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 163698.89999999997,
+        "vorp": 108.59999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-53",
+      "sourceId": 53,
+      "date": "1993-08-31",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Haywoode Workman",
+      "participants": [
+        {
+          "name": "Haywoode Workman",
+          "playerHref": "/players/w/workmha01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -1173.1000000000001,
+            "vorp": 1.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1173.1000000000001,
+        "vorp": 1.7
+      },
+      "categoryValues": {
+        "bpm": -1173.1000000000001,
+        "vorp": 1.7
+      },
+      "runningValues": {
+        "bpm": 162525.79999999996,
+        "vorp": 110.29999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-54",
+      "sourceId": 54,
+      "date": "1993-10-08",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Ledell Eackles",
+      "participants": [
+        {
+          "name": "Ledell Eackles",
+          "playerHref": "/players/e/eacklle01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 162525.79999999996,
+        "vorp": 110.29999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-55",
+      "sourceId": 55,
+      "date": "1993-10-11",
+      "type": "trade",
+      "tenureTeam": "IND",
+      "summary": "Added William Njoku; Sent out Sean Green",
+      "participants": [
+        {
+          "name": "Sean Green",
+          "playerHref": "/players/g/greense01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 2423.6,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "William Njoku",
+          "playerHref": "/players/n/njokuwi01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2423.6,
+        "vorp": 0.4
+      },
+      "categoryValues": {
+        "bpm": 2423.6,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": 164949.39999999997,
+        "vorp": 110.69999999999999
+      }
+    },
+    {
+      "id": "walshdo99x-56",
+      "sourceId": 56,
+      "date": "1993-11-01",
+      "type": "trade",
+      "tenureTeam": "IND",
+      "summary": "Added Derrick McKey and Gerald Paddio; Sent out Detlef Schrempf",
+      "participants": [
+        {
+          "name": "Detlef Schrempf",
+          "playerHref": "/players/s/schrede01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": -37293.00000000001,
+            "vorp": -16.900000000000002
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Derrick McKey",
+          "playerHref": "/players/m/mckeyde01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 11571.800000000001,
+            "vorp": 9.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Gerald Paddio",
+          "playerHref": "/players/p/paddige01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -368.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -26089.700000000004,
+        "vorp": -7.700000000000001
+      },
+      "categoryValues": {
+        "bpm": -26089.700000000004,
+        "vorp": -7.700000000000001
+      },
+      "runningValues": {
+        "bpm": 138859.69999999995,
+        "vorp": 102.99999999999999
+      }
+    },
+    {
+      "id": "walshdo99x-57",
+      "sourceId": 57,
+      "date": "1993-12-06",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Byron Scott",
+      "participants": [
+        {
+          "name": "Byron Scott",
+          "playerHref": "/players/s/scottby01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 3934.7,
+            "vorp": 2.4000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3934.7,
+        "vorp": 2.4000000000000004
+      },
+      "categoryValues": {
+        "bpm": 3934.7,
+        "vorp": 2.4000000000000004
+      },
+      "runningValues": {
+        "bpm": 142794.39999999997,
+        "vorp": 105.39999999999999
+      }
+    },
+    {
+      "id": "walshdo99x-58",
+      "sourceId": 58,
+      "date": "1994-04-05",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Lester Conner",
+      "participants": [
+        {
+          "name": "Lester Conner",
+          "playerHref": "/players/c/connele01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 50.699999999999996,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 50.699999999999996,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 50.699999999999996,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 142845.09999999998,
+        "vorp": 105.49999999999999
+      }
+    },
+    {
+      "id": "walshdo99x-59",
+      "sourceId": 59,
+      "date": "1994-06-29",
+      "type": "draft",
+      "tenureTeam": "IND",
+      "summary": "Drafted Eric Piatkowski, William Njoku, and Damon Bailey",
+      "participants": [
+        {
+          "name": "Eric Piatkowski",
+          "playerHref": "/players/p/piatker01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "William Njoku",
+          "playerHref": "/players/n/njokuwi01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Damon Bailey",
+          "playerHref": "/players/b/baileda01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 142845.09999999998,
+        "vorp": 105.49999999999999
+      }
+    },
+    {
+      "id": "walshdo99x-60",
+      "sourceId": 60,
+      "date": "1994-06-30",
+      "type": "trade",
+      "tenureTeam": "IND",
+      "summary": "Added Mark Jackson and Greg Minor; Sent out Eric Piatkowski, Pooh Richardson, and Malik Sealy",
+      "participants": [
+        {
+          "name": "Eric Piatkowski",
+          "playerHref": "/players/p/piatker01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -3150.8,
+            "vorp": -6.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Pooh Richardson",
+          "playerHref": "/players/r/richapo01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 11240.6,
+            "vorp": -0.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Malik Sealy",
+          "playerHref": "/players/s/sealyma01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 6931.5,
+            "vorp": -1.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mark Jackson",
+          "playerHref": "/players/j/jacksma01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 29823.6,
+            "vorp": 13.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Greg Minor",
+          "playerHref": "/players/m/minorgr01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 44844.899999999994,
+        "vorp": 4.699999999999999
+      },
+      "categoryValues": {
+        "bpm": 44844.899999999994,
+        "vorp": 4.699999999999999
+      },
+      "runningValues": {
+        "bpm": 187690,
+        "vorp": 110.19999999999999
+      }
+    },
+    {
+      "id": "walshdo99x-61",
+      "sourceId": 61,
+      "date": "1994-09-30",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Duane Ferrell",
+      "participants": [
+        {
+          "name": "Duane Ferrell",
+          "playerHref": "/players/f/ferredu01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -3155.1000000000004,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3155.1000000000004,
+        "vorp": 0.4
+      },
+      "categoryValues": {
+        "bpm": -3155.1000000000004,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": 184534.9,
+        "vorp": 110.6
+      }
+    },
+    {
+      "id": "walshdo99x-62",
+      "sourceId": 62,
+      "date": "1994-10-01",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Joe Wolf",
+      "participants": [
+        {
+          "name": "Joe Wolf",
+          "playerHref": "/players/w/wolfjo01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 184534.9,
+        "vorp": 110.6
+      }
+    },
+    {
+      "id": "walshdo99x-63",
+      "sourceId": 63,
+      "date": "1994-10-06",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Dan O'Sullivan",
+      "participants": [
+        {
+          "name": "Dan O'Sullivan",
+          "playerHref": "/players/o/osullda01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 184534.9,
+        "vorp": 110.6
+      }
+    },
+    {
+      "id": "walshdo99x-64",
+      "sourceId": 64,
+      "date": "1994-10-07",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed John Williams",
+      "participants": [
+        {
+          "name": "John Williams",
+          "playerHref": "/players/w/willijo02.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -2492.4,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2492.4,
+        "vorp": -0.4
+      },
+      "categoryValues": {
+        "bpm": -2492.4,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": 182042.5,
+        "vorp": 110.19999999999999
+      }
+    },
+    {
+      "id": "walshdo99x-65",
+      "sourceId": 65,
+      "date": "1995-03-04",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Mark Strickland",
+      "participants": [
+        {
+          "name": "Mark Strickland",
+          "playerHref": "/players/s/stricma01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -50.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -50.4,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -50.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 181992.1,
+        "vorp": 110.19999999999999
+      }
+    },
+    {
+      "id": "walshdo99x-66",
+      "sourceId": 66,
+      "date": "1995-03-24",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Greg Kite",
+      "participants": [
+        {
+          "name": "Greg Kite",
+          "playerHref": "/players/k/kitegr01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 181992.1,
+        "vorp": 110.19999999999999
+      }
+    },
+    {
+      "id": "walshdo99x-67",
+      "sourceId": 67,
+      "date": "1995-04-13",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Greg Kite",
+      "participants": [
+        {
+          "name": "Greg Kite",
+          "playerHref": "/players/k/kitegr01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -915,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -915,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -915,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 181077.1,
+        "vorp": 109.99999999999999
+      }
+    },
+    {
+      "id": "walshdo99x-68",
+      "sourceId": 68,
+      "date": "1995-06-28",
+      "type": "draft",
+      "tenureTeam": "IND",
+      "summary": "Drafted Travis Best and Fred Hoiberg",
+      "participants": [
+        {
+          "name": "Travis Best",
+          "playerHref": "/players/b/besttr01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 3363.7999999999997,
+            "vorp": 6.199999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Fred Hoiberg",
+          "playerHref": "/players/h/hoibefr01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 2085.9,
+            "vorp": 1.2999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5449.7,
+        "vorp": 7.499999999999999
+      },
+      "categoryValues": {
+        "bpm": 5449.7,
+        "vorp": 7.499999999999999
+      },
+      "runningValues": {
+        "bpm": 186526.8,
+        "vorp": 117.49999999999999
+      }
+    },
+    {
+      "id": "walshdo99x-69",
+      "sourceId": 69,
+      "date": "1995-09-30",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Robert Churchwell",
+      "participants": [
+        {
+          "name": "Robert Churchwell",
+          "playerHref": "/players/c/churcro01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 186526.8,
+        "vorp": 117.49999999999999
+      }
+    },
+    {
+      "id": "walshdo99x-70",
+      "sourceId": 70,
+      "date": "1995-10-03",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Eddie Johnson",
+      "participants": [
+        {
+          "name": "Eddie Johnson",
+          "playerHref": "/players/j/johnsed03.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -2242.7999999999997,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2242.7999999999997,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": -2242.7999999999997,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 184284,
+        "vorp": 117.59999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-71",
+      "sourceId": 71,
+      "date": "1995-10-03",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Ricky Pierce",
+      "participants": [
+        {
+          "name": "Ricky Pierce",
+          "playerHref": "/players/p/piercri01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -842.4,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -842.4,
+        "vorp": 0.5
+      },
+      "categoryValues": {
+        "bpm": -842.4,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": 183441.6,
+        "vorp": 118.09999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-72",
+      "sourceId": 72,
+      "date": "1995-10-04",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Adrian Caldwell",
+      "participants": [
+        {
+          "name": "Adrian Caldwell",
+          "playerHref": "/players/c/caldwad01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -1896.6,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1896.6,
+        "vorp": -0.3
+      },
+      "categoryValues": {
+        "bpm": -1896.6,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": 181545,
+        "vorp": 117.79999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-73",
+      "sourceId": 73,
+      "date": "1995-10-04",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Kevin Salvadori",
+      "participants": [
+        {
+          "name": "Kevin Salvadori",
+          "playerHref": "/players/s/salvake01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 181545,
+        "vorp": 117.79999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-74",
+      "sourceId": 74,
+      "date": "1995-10-18",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Dwayne Schintzius",
+      "participants": [
+        {
+          "name": "Dwayne Schintzius",
+          "playerHref": "/players/s/schindw01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -1098.9,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1098.9,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -1098.9,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 180446.1,
+        "vorp": 117.69999999999999
+      }
+    },
+    {
+      "id": "walshdo99x-75",
+      "sourceId": 75,
+      "date": "1996-06-13",
+      "type": "trade",
+      "tenureTeam": "IND",
+      "summary": "Added Jalen Rose, Reggie Williams, and Erick Dampier; Sent out Mark Jackson, Ricky Pierce, and Efthimis Rentzias",
+      "participants": [
+        {
+          "name": "Mark Jackson",
+          "playerHref": "/players/j/jacksma01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1400.6999999999998,
+            "vorp": -1.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ricky Pierce",
+          "playerHref": "/players/p/piercri01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 1320,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Efthimis Rentzias",
+          "playerHref": "/players/r/rentzef01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jalen Rose",
+          "playerHref": "/players/r/roseja01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 7600.6,
+            "vorp": 7.800000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Reggie Williams",
+          "playerHref": "/players/w/willire01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -333.3,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Erick Dampier",
+          "playerHref": "/players/d/dampier01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 7186.6,
+        "vorp": 6.400000000000001
+      },
+      "categoryValues": {
+        "bpm": 7186.6,
+        "vorp": 6.400000000000001
+      },
+      "runningValues": {
+        "bpm": 187632.7,
+        "vorp": 124.1
+      }
+    },
+    {
+      "id": "walshdo99x-76",
+      "sourceId": 76,
+      "date": "1996-06-26",
+      "type": "draft",
+      "tenureTeam": "IND",
+      "summary": "Drafted Erick Dampier and Mark Pope",
+      "participants": [
+        {
+          "name": "Erick Dampier",
+          "playerHref": "/players/d/dampier01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -3787.2000000000003,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mark Pope",
+          "playerHref": "/players/p/popema01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3787.2000000000003,
+        "vorp": -0.4
+      },
+      "categoryValues": {
+        "bpm": -5731.3,
+        "vorp": -0.8
+      },
+      "runningValues": {
+        "bpm": 183845.5,
+        "vorp": 123.69999999999999
+      }
+    },
+    {
+      "id": "walshdo99x-77",
+      "sourceId": 77,
+      "date": "1996-08-17",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Jerome Allen",
+      "participants": [
+        {
+          "name": "Jerome Allen",
+          "playerHref": "/players/a/allenje01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -1591.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1591.6,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -1591.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 182253.9,
+        "vorp": 123.69999999999999
+      }
+    },
+    {
+      "id": "walshdo99x-78",
+      "sourceId": 78,
+      "date": "1996-09-27",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Brent Scott",
+      "participants": [
+        {
+          "name": "Brent Scott",
+          "playerHref": "/players/s/scottbr01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -346.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -346.5,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -346.5,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 181907.4,
+        "vorp": 123.6
+      }
+    },
+    {
+      "id": "walshdo99x-79",
+      "sourceId": 79,
+      "date": "1996-11-04",
+      "type": "trade",
+      "tenureTeam": "IND",
+      "summary": "Added Vincent Askew; Sent out Reggie Williams",
+      "participants": [
+        {
+          "name": "Reggie Williams",
+          "playerHref": "/players/w/willire01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 133.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Vincent Askew",
+          "playerHref": "/players/a/askewvi01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -1397.3999999999999,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1263.8,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -1263.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 180643.6,
+        "vorp": 123.6
+      }
+    },
+    {
+      "id": "walshdo99x-80",
+      "sourceId": 80,
+      "date": "1997-02-20",
+      "type": "trade",
+      "tenureTeam": "IND",
+      "summary": "Added Mark Jackson and LaSalle Thompson; Sent out Vincent Askew, Eddie Johnson, Jason Lawson, and Tremaine Fowlkes",
+      "participants": [
+        {
+          "name": "Vincent Askew",
+          "playerHref": "/players/a/askewvi01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 137.70000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eddie Johnson",
+          "playerHref": "/players/j/johnsed03.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jason Lawson",
+          "playerHref": "/players/l/lawsoja01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tremaine Fowlkes",
+          "playerHref": "/players/f/fowlktr01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mark Jackson",
+          "playerHref": "/players/j/jacksma01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 20069.4,
+            "vorp": 8.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "LaSalle Thompson",
+          "playerHref": "/players/t/thompla01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -252,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 19955.100000000002,
+        "vorp": 8.5
+      },
+      "categoryValues": {
+        "bpm": 19955.100000000002,
+        "vorp": 8.5
+      },
+      "runningValues": {
+        "bpm": 200598.7,
+        "vorp": 132.1
+      }
+    },
+    {
+      "id": "walshdo99x-81",
+      "sourceId": 81,
+      "date": "1997-02-20",
+      "type": "trade",
+      "tenureTeam": "IND",
+      "summary": "Added Darvin Ham; Sent out Jerome Allen",
+      "participants": [
+        {
+          "name": "Jerome Allen",
+          "playerHref": "/players/a/allenje01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 878.5,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Darvin Ham",
+          "playerHref": "/players/h/hamda01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 44.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 923,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 923,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 201521.7,
+        "vorp": 132.2
+      }
+    },
+    {
+      "id": "walshdo99x-83",
+      "sourceId": 83,
+      "date": "1997-06-25",
+      "type": "draft",
+      "tenureTeam": "IND",
+      "summary": "Drafted Austin Croshere",
+      "participants": [
+        {
+          "name": "Austin Croshere",
+          "playerHref": "/players/c/croshau01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 731.9000000000005,
+            "vorp": 5.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 731.9000000000005,
+        "vorp": 5.4
+      },
+      "categoryValues": {
+        "bpm": 731.9000000000005,
+        "vorp": 5.4
+      },
+      "runningValues": {
+        "bpm": 202253.6,
+        "vorp": 137.6
+      }
+    },
+    {
+      "id": "walshdo99x-84",
+      "sourceId": 84,
+      "date": "1997-07-10",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Etdrick Bohannon",
+      "participants": [
+        {
+          "name": "Etdrick Bohannon",
+          "playerHref": "/players/b/bohanet01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -260.7,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -260.7,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -260.7,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 201992.9,
+        "vorp": 137.5
+      }
+    },
+    {
+      "id": "walshdo99x-85",
+      "sourceId": 85,
+      "date": "1997-08-12",
+      "type": "trade",
+      "tenureTeam": "IND",
+      "summary": "Added Chris Mullin; Sent out Erick Dampier and Duane Ferrell",
+      "participants": [
+        {
+          "name": "Erick Dampier",
+          "playerHref": "/players/d/dampier01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 25216.899999999998,
+            "vorp": 0.5000000000000002
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Duane Ferrell",
+          "playerHref": "/players/f/ferredu01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 2695.7000000000003,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chris Mullin",
+          "playerHref": "/players/m/mullich01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 16527.5,
+            "vorp": 6.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 44440.1,
+        "vorp": 7.1000000000000005
+      },
+      "categoryValues": {
+        "bpm": 44440.1,
+        "vorp": 7.1000000000000005
+      },
+      "runningValues": {
+        "bpm": 246433,
+        "vorp": 144.6
+      }
+    },
+    {
+      "id": "walshdo99x-86",
+      "sourceId": 86,
+      "date": "1997-09-05",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Rookie contract for Mark Pope",
+      "participants": [
+        {
+          "name": "Mark Pope",
+          "playerHref": "/players/p/popema01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -1447.5,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -1447.5,
+        "vorp": -0.30000000000000004
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 244985.5,
+        "vorp": 144.29999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-87",
+      "sourceId": 87,
+      "date": "1997-09-08",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Mark West",
+      "participants": [
+        {
+          "name": "Mark West",
+          "playerHref": "/players/w/westma01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -577.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -577.5,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -577.5,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 244408,
+        "vorp": 144.2
+      }
+    },
+    {
+      "id": "walshdo99x-88",
+      "sourceId": 88,
+      "date": "1997-10-02",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Gerald Madkins",
+      "participants": [
+        {
+          "name": "Gerald Madkins",
+          "playerHref": "/players/m/madkige01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 244408,
+        "vorp": 144.2
+      }
+    },
+    {
+      "id": "walshdo99x-89",
+      "sourceId": 89,
+      "date": "1998-06-24",
+      "type": "draft",
+      "tenureTeam": "IND",
+      "summary": "Drafted Al Harrington",
+      "participants": [
+        {
+          "name": "Al Harrington",
+          "playerHref": "/players/h/harrial01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -23557.500000000004,
+            "vorp": -0.8999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -23557.500000000004,
+        "vorp": -0.8999999999999998
+      },
+      "categoryValues": {
+        "bpm": -23557.500000000004,
+        "vorp": -0.8999999999999998
+      },
+      "runningValues": {
+        "bpm": 220850.5,
+        "vorp": 143.29999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-90",
+      "sourceId": 90,
+      "date": "1999-01-21",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Sam Perkins",
+      "participants": [
+        {
+          "name": "Sam Perkins",
+          "playerHref": "/players/p/perkisa01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 2523.3,
+            "vorp": 2.4000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2523.3,
+        "vorp": 2.4000000000000004
+      },
+      "categoryValues": {
+        "bpm": 2523.3,
+        "vorp": 2.4000000000000004
+      },
+      "runningValues": {
+        "bpm": 223373.8,
+        "vorp": 145.7
+      }
+    },
+    {
+      "id": "walshdo99x-91",
+      "sourceId": 91,
+      "date": "1999-01-22",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Mark Pope",
+      "participants": [
+        {
+          "name": "Mark Pope",
+          "playerHref": "/players/p/popema01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -496.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -496.6,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -496.6,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 222877.19999999998,
+        "vorp": 145.6
+      }
+    },
+    {
+      "id": "walshdo99x-92",
+      "sourceId": 92,
+      "date": "1999-06-30",
+      "type": "draft",
+      "tenureTeam": "IND",
+      "summary": "Drafted Vonteego Cummings",
+      "participants": [
+        {
+          "name": "Vonteego Cummings",
+          "playerHref": "/players/c/cummivo01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 222877.19999999998,
+        "vorp": 145.6
+      }
+    },
+    {
+      "id": "walshdo99x-93",
+      "sourceId": 93,
+      "date": "1999-06-30",
+      "type": "trade",
+      "tenureTeam": "IND",
+      "summary": "Added Jeff Foster; Sent out Vonteego Cummings and Troy Murphy",
+      "participants": [
+        {
+          "name": "Vonteego Cummings",
+          "playerHref": "/players/c/cummivo01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 8131.1,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Troy Murphy",
+          "playerHref": "/players/m/murphtr01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 11830.499999999998,
+            "vorp": -2.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jeff Foster",
+          "playerHref": "/players/f/fosteje01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -6816.700000000001,
+            "vorp": 6.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 13144.899999999998,
+        "vorp": 4.3999999999999995
+      },
+      "categoryValues": {
+        "bpm": 13144.899999999998,
+        "vorp": 4.3999999999999995
+      },
+      "runningValues": {
+        "bpm": 236022.09999999998,
+        "vorp": 150.00000000000003
+      }
+    },
+    {
+      "id": "walshdo99x-94",
+      "sourceId": 94,
+      "date": "1999-08-01",
+      "type": "trade",
+      "tenureTeam": "IND",
+      "summary": "Added Jonathan Bender; Sent out Antonio Davis",
+      "participants": [
+        {
+          "name": "Antonio Davis",
+          "playerHref": "/players/d/davisan01.html",
+          "direction": "out",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 16994.9,
+            "vorp": -1.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jonathan Bender",
+          "playerHref": "/players/b/bendejo01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -8690.8,
+            "vorp": -0.3999999999999999
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 8304.100000000002,
+        "vorp": -1.5999999999999999
+      },
+      "categoryValues": {
+        "bpm": 8304.100000000002,
+        "vorp": -1.5999999999999999
+      },
+      "runningValues": {
+        "bpm": 244326.19999999998,
+        "vorp": 148.40000000000003
+      }
+    },
+    {
+      "id": "walshdo99x-95",
+      "sourceId": 95,
+      "date": "1999-10-01",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Žan Tabak",
+      "participants": [
+        {
+          "name": "Žan Tabak",
+          "playerHref": "/players/t/tabakza01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -3502.8,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3502.8,
+        "vorp": -0.4
+      },
+      "categoryValues": {
+        "bpm": -3502.8,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": 240823.4,
+        "vorp": 148.00000000000003
+      }
+    },
+    {
+      "id": "walshdo99x-96",
+      "sourceId": 96,
+      "date": "1999-10-04",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Mitchell Butler",
+      "participants": [
+        {
+          "name": "Mitchell Butler",
+          "playerHref": "/players/b/butlemi02.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 240823.4,
+        "vorp": 148.00000000000003
+      }
+    },
+    {
+      "id": "walshdo99x-97",
+      "sourceId": 97,
+      "date": "2000-06-28",
+      "type": "draft",
+      "tenureTeam": "IND",
+      "summary": "Drafted Primož Brezec and Jaquay Walls",
+      "participants": [
+        {
+          "name": "Primož Brezec",
+          "playerHref": "/players/b/brezepr01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -1583.4,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jaquay Walls",
+          "playerHref": "/players/w/wallsja01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1583.4,
+        "vorp": -0.30000000000000004
+      },
+      "categoryValues": {
+        "bpm": -1583.4,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": 239240,
+        "vorp": 147.70000000000002
+      }
+    },
+    {
+      "id": "walshdo99x-98",
+      "sourceId": 98,
+      "date": "2000-08-26",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Rookie contract for Jaquay Walls",
+      "participants": [
+        {
+          "name": "Jaquay Walls",
+          "playerHref": "/players/w/wallsja01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 239240,
+        "vorp": 147.70000000000002
+      }
+    },
+    {
+      "id": "walshdo99x-99",
+      "sourceId": 99,
+      "date": "2000-08-31",
+      "type": "trade",
+      "tenureTeam": "IND",
+      "summary": "Added Joe Kleine and Jermaine O'Neal; Sent out Dale Davis",
+      "participants": [
+        {
+          "name": "Dale Davis",
+          "playerHref": "/players/d/davisda01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -3988.7000000000003,
+            "vorp": -5.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Joe Kleine",
+          "playerHref": "/players/k/kleinjo01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jermaine O'Neal",
+          "playerHref": "/players/o/onealje01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 22867.3,
+            "vorp": 14.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 18878.6,
+        "vorp": 9.5
+      },
+      "categoryValues": {
+        "bpm": 18878.6,
+        "vorp": 9.5
+      },
+      "runningValues": {
+        "bpm": 258118.59999999998,
+        "vorp": 157.20000000000002
+      }
+    },
+    {
+      "id": "walshdo99x-100",
+      "sourceId": 100,
+      "date": "2000-09-08",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Rex Walters",
+      "participants": [
+        {
+          "name": "Rex Walters",
+          "playerHref": "/players/w/waltere01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 258118.59999999998,
+        "vorp": 157.20000000000002
+      }
+    },
+    {
+      "id": "walshdo99x-101",
+      "sourceId": 101,
+      "date": "2000-09-08",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Gerald Brown",
+      "participants": [
+        {
+          "name": "Gerald Brown",
+          "playerHref": "/players/b/brownge02.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 258118.59999999998,
+        "vorp": 157.20000000000002
+      }
+    },
+    {
+      "id": "walshdo99x-102",
+      "sourceId": 102,
+      "date": "2000-09-22",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Tyus Edney",
+      "participants": [
+        {
+          "name": "Tyus Edney",
+          "playerHref": "/players/e/edneyty01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -157.79999999999998,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -157.79999999999998,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": -157.79999999999998,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 257960.8,
+        "vorp": 157.3
+      }
+    },
+    {
+      "id": "walshdo99x-103",
+      "sourceId": 103,
+      "date": "2000-10-02",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Lari Ketner",
+      "participants": [
+        {
+          "name": "Lari Ketner",
+          "playerHref": "/players/k/ketnela01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -107.10000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -107.10000000000001,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -107.10000000000001,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 257853.69999999998,
+        "vorp": 157.3
+      }
+    },
+    {
+      "id": "walshdo99x-104",
+      "sourceId": 104,
+      "date": "2000-10-03",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Bruno Šundov",
+      "participants": [
+        {
+          "name": "Bruno Šundov",
+          "playerHref": "/players/s/sundobr01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -1088,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1088,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1088,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 256765.69999999998,
+        "vorp": 157.10000000000002
+      }
+    },
+    {
+      "id": "walshdo99x-105",
+      "sourceId": 105,
+      "date": "2000-10-05",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Terry Mills",
+      "participants": [
+        {
+          "name": "Terry Mills",
+          "playerHref": "/players/m/millste01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -915.3,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -915.3,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -915.3,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 255850.4,
+        "vorp": 156.90000000000003
+      }
+    },
+    {
+      "id": "walshdo99x-106",
+      "sourceId": 106,
+      "date": "2001-06-27",
+      "type": "draft",
+      "tenureTeam": "IND",
+      "summary": "Drafted Jamison Brewer",
+      "participants": [
+        {
+          "name": "Jamison Brewer",
+          "playerHref": "/players/b/breweja01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -339,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 255850.4,
+        "vorp": 156.90000000000003
+      }
+    },
+    {
+      "id": "walshdo99x-107",
+      "sourceId": 107,
+      "date": "2001-06-27",
+      "type": "trade",
+      "tenureTeam": "IND",
+      "summary": "Added Jamaal Tinsley; Sent out Boris Diaw",
+      "participants": [
+        {
+          "name": "Boris Diaw",
+          "playerHref": "/players/d/diawbo01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 8617.2,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jamaal Tinsley",
+          "playerHref": "/players/t/tinslja01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 5931.299999999999,
+            "vorp": 7.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 14548.5,
+        "vorp": 8
+      },
+      "categoryValues": {
+        "bpm": 14548.5,
+        "vorp": 8
+      },
+      "runningValues": {
+        "bpm": 270398.89999999997,
+        "vorp": 164.90000000000003
+      }
+    },
+    {
+      "id": "walshdo99x-108",
+      "sourceId": 108,
+      "date": "2001-09-06",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Carlos Rogers",
+      "participants": [
+        {
+          "name": "Carlos Rogers",
+          "playerHref": "/players/r/rogerca01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 67.2,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 67.2,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 67.2,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 270466.1,
+        "vorp": 165.00000000000003
+      }
+    },
+    {
+      "id": "walshdo99x-109",
+      "sourceId": 109,
+      "date": "2001-09-20",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Rookie contract for Jamison Brewer",
+      "participants": [
+        {
+          "name": "Jamison Brewer",
+          "playerHref": "/players/b/breweja01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -339,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -339,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 270127.1,
+        "vorp": 165.00000000000003
+      }
+    },
+    {
+      "id": "walshdo99x-110",
+      "sourceId": 110,
+      "date": "2001-09-20",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed William Cunningham",
+      "participants": [
+        {
+          "name": "William Cunningham",
+          "playerHref": "/players/c/cunniwi01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 270127.1,
+        "vorp": 165.00000000000003
+      }
+    },
+    {
+      "id": "walshdo99x-111",
+      "sourceId": 111,
+      "date": "2001-09-21",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Norm Richardson",
+      "participants": [
+        {
+          "name": "Norm Richardson",
+          "playerHref": "/players/r/richano01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -82.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -82.8,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -82.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 270044.3,
+        "vorp": 165.00000000000003
+      }
+    },
+    {
+      "id": "walshdo99x-112",
+      "sourceId": 112,
+      "date": "2001-09-26",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Galen Young",
+      "participants": [
+        {
+          "name": "Galen Young",
+          "playerHref": "/players/y/youngga01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 270044.3,
+        "vorp": 165.00000000000003
+      }
+    },
+    {
+      "id": "walshdo99x-113",
+      "sourceId": 113,
+      "date": "2002-02-19",
+      "type": "trade",
+      "tenureTeam": "IND",
+      "summary": "Added Metta World Peace, Ron Mercer, Brad Miller, and Kevin Ollie; Sent out Travis Best, Norm Richardson, Jalen Rose, and Lonny Baxter",
+      "participants": [
+        {
+          "name": "Travis Best",
+          "playerHref": "/players/b/besttr01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 1427.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Norm Richardson",
+          "playerHref": "/players/r/richano01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 340.20000000000005,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jalen Rose",
+          "playerHref": "/players/r/roseja01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 5280.5,
+            "vorp": -1.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lonny Baxter",
+          "playerHref": "/players/b/baxtelo01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 4359,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Metta World Peace",
+          "playerHref": "/players/a/artesro01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 20938.2,
+            "vorp": 8.700000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ron Mercer",
+          "playerHref": "/players/m/mercero01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -7190.4,
+            "vorp": -0.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Brad Miller",
+          "playerHref": "/players/m/millebr01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 9949.2,
+            "vorp": 4.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kevin Ollie",
+          "playerHref": "/players/o/ollieke01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 519.3000000000001,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 35623.40000000001,
+        "vorp": 11.9
+      },
+      "categoryValues": {
+        "bpm": 35623.40000000001,
+        "vorp": 11.9
+      },
+      "runningValues": {
+        "bpm": 305667.7,
+        "vorp": 176.9
+      }
+    },
+    {
+      "id": "walshdo99x-114",
+      "sourceId": 114,
+      "date": "2002-06-26",
+      "type": "draft",
+      "tenureTeam": "IND",
+      "summary": "Drafted Fred Jones",
+      "participants": [
+        {
+          "name": "Fred Jones",
+          "playerHref": "/players/j/jonesfr01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -1280.5,
+            "vorp": 2.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1280.5,
+        "vorp": 2.5
+      },
+      "categoryValues": {
+        "bpm": -1280.5,
+        "vorp": 2.5
+      },
+      "runningValues": {
+        "bpm": 304387.2,
+        "vorp": 179.4
+      }
+    },
+    {
+      "id": "walshdo99x-115",
+      "sourceId": 115,
+      "date": "2002-09-05",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Erick Strickland",
+      "participants": [
+        {
+          "name": "Erick Strickland",
+          "playerHref": "/players/s/stricer01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 255,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 255,
+        "vorp": 0.7
+      },
+      "categoryValues": {
+        "bpm": 255,
+        "vorp": 0.7
+      },
+      "runningValues": {
+        "bpm": 304642.2,
+        "vorp": 180.1
+      }
+    },
+    {
+      "id": "walshdo99x-116",
+      "sourceId": 116,
+      "date": "2002-11-06",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Greg Foster",
+      "participants": [
+        {
+          "name": "Greg Foster",
+          "playerHref": "/players/f/fostegr01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 304642.2,
+        "vorp": 180.1
+      }
+    },
+    {
+      "id": "walshdo99x-117",
+      "sourceId": 117,
+      "date": "2003-03-27",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Tim Hardaway",
+      "participants": [
+        {
+          "name": "Tim Hardaway",
+          "playerHref": "/players/h/hardati01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 127,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 127,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 127,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 304769.2,
+        "vorp": 180.2
+      }
+    },
+    {
+      "id": "walshdo99x-118",
+      "sourceId": 118,
+      "date": "2012-06-28",
+      "type": "draft",
+      "tenureTeam": "IND",
+      "summary": "Drafted Miles Plumlee",
+      "participants": [
+        {
+          "name": "Miles Plumlee",
+          "playerHref": "/players/p/plumlmi01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -429,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -429,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -429,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 304340.2,
+        "vorp": 180.1
+      }
+    },
+    {
+      "id": "walshdo99x-119",
+      "sourceId": 119,
+      "date": "2012-06-29",
+      "type": "trade",
+      "tenureTeam": "IND",
+      "summary": "Added Orlando Johnson",
+      "participants": [
+        {
+          "name": "Orlando Johnson",
+          "playerHref": "/players/j/johnsor01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -1346.8,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1346.8,
+        "vorp": 0.2
+      },
+      "categoryValues": {
+        "bpm": -1346.8,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 302993.4,
+        "vorp": 180.29999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-120",
+      "sourceId": 120,
+      "date": "2012-07-12",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Gerald Green",
+      "participants": [
+        {
+          "name": "Gerald Green",
+          "playerHref": "/players/g/greenge01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -1944,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1944,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -1944,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 301049.4,
+        "vorp": 180.29999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-121",
+      "sourceId": 121,
+      "date": "2012-07-12",
+      "type": "trade",
+      "tenureTeam": "IND",
+      "summary": "Added Ian Mahinmi; Sent out Darren Collison and Dahntay Jones",
+      "participants": [
+        {
+          "name": "Darren Collison",
+          "playerHref": "/players/c/collida01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -237.20000000000002,
+            "vorp": -1.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dahntay Jones",
+          "playerHref": "/players/j/jonesda02.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 3048,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ian Mahinmi",
+          "playerHref": "/players/m/mahinia01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -7101,
+            "vorp": 1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4290.2,
+        "vorp": 0.09999999999999998
+      },
+      "categoryValues": {
+        "bpm": -4290.2,
+        "vorp": 0.09999999999999998
+      },
+      "runningValues": {
+        "bpm": 296759.2,
+        "vorp": 180.39999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-122",
+      "sourceId": 122,
+      "date": "2012-07-13",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed D.J. Augustin",
+      "participants": [
+        {
+          "name": "D.J. Augustin",
+          "playerHref": "/players/a/augusdj01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -735.6,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -735.6,
+        "vorp": 0.5
+      },
+      "categoryValues": {
+        "bpm": -735.6,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": 296023.60000000003,
+        "vorp": 180.89999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-123",
+      "sourceId": 123,
+      "date": "2012-09-06",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Sam Young",
+      "participants": [
+        {
+          "name": "Sam Young",
+          "playerHref": "/players/y/youngsa01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 296023.60000000003,
+        "vorp": 180.89999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-124",
+      "sourceId": 124,
+      "date": "2012-09-06",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Sundiata Gaines",
+      "participants": [
+        {
+          "name": "Sundiata Gaines",
+          "playerHref": "/players/g/gainesu01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 296023.60000000003,
+        "vorp": 180.89999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-125",
+      "sourceId": 125,
+      "date": "2012-09-06",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Blake Ahearn",
+      "participants": [
+        {
+          "name": "Blake Ahearn",
+          "playerHref": "/players/a/ahearbl01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 296023.60000000003,
+        "vorp": 180.89999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-126",
+      "sourceId": 126,
+      "date": "2012-09-18",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Ben Hansbrough",
+      "participants": [
+        {
+          "name": "Ben Hansbrough",
+          "playerHref": "/players/h/hansbbe01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -840,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -840,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -840,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 295183.60000000003,
+        "vorp": 180.79999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-127",
+      "sourceId": 127,
+      "date": "2013-01-07",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Dominic McGuire",
+      "participants": [
+        {
+          "name": "Dominic McGuire",
+          "playerHref": "/players/m/mcguido01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -170.39999999999998,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -170.39999999999998,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -170.39999999999998,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 295013.2,
+        "vorp": 180.79999999999998
+      }
+    },
+    {
+      "id": "walshdo99x-128",
+      "sourceId": 128,
+      "date": "2013-01-28",
+      "type": "signing",
+      "tenureTeam": "IND",
+      "summary": "Signed Sam Young",
+      "participants": [
+        {
+          "name": "Sam Young",
+          "playerHref": "/players/y/youngsa01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -1871.1000000000001,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1871.1000000000001,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -1871.1000000000001,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 293142.10000000003,
+        "vorp": 180.7
+      }
+    },
+    {
+      "id": "walshdo99x-129",
+      "sourceId": 129,
+      "date": "2013-06-27",
+      "type": "draft",
+      "tenureTeam": "IND",
+      "summary": "Drafted Solomon Hill and Colton Iverson",
+      "participants": [
+        {
+          "name": "Solomon Hill",
+          "playerHref": "/players/h/hillso01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -4004.7000000000003,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Colton Iverson",
+          "playerHref": "/players/i/iversco01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4004.7000000000003,
+        "vorp": 0.8
+      },
+      "categoryValues": {
+        "bpm": -4004.7000000000003,
+        "vorp": 0.8
+      },
+      "runningValues": {
+        "bpm": 289137.4,
+        "vorp": 181.5
+      }
+    },
+    {
+      "id": "walshdo99x-130",
+      "sourceId": 130,
+      "date": "2013-06-27",
+      "type": "trade",
+      "tenureTeam": "IND",
+      "summary": "Sent out Colton Iverson",
+      "participants": [
+        {
+          "name": "Colton Iverson",
+          "playerHref": "/players/i/iversco01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 289137.4,
+        "vorp": 181.5
+      }
+    },
+    {
+      "id": "walshdo99x-132",
+      "sourceId": 132,
+      "date": "2008-06-26",
+      "type": "draft",
+      "tenureTeam": "NYK",
+      "summary": "Drafted Danilo Gallinari",
+      "participants": [
+        {
+          "name": "Danilo Gallinari",
+          "playerHref": "/players/g/gallida01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 1954.9,
+            "vorp": 2.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1954.9,
+        "vorp": 2.9
+      },
+      "categoryValues": {
+        "bpm": 1954.9,
+        "vorp": 2.9
+      },
+      "runningValues": {
+        "bpm": 291092.30000000005,
+        "vorp": 184.4
+      }
+    },
+    {
+      "id": "walshdo99x-133",
+      "sourceId": 133,
+      "date": "2008-07-09",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed Chris Duhon",
+      "participants": [
+        {
+          "name": "Chris Duhon",
+          "playerHref": "/players/d/duhonch01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -9829.6,
+            "vorp": 0.09999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -9829.6,
+        "vorp": 0.09999999999999998
+      },
+      "categoryValues": {
+        "bpm": -9829.6,
+        "vorp": 0.09999999999999998
+      },
+      "runningValues": {
+        "bpm": 281262.70000000007,
+        "vorp": 184.5
+      }
+    },
+    {
+      "id": "walshdo99x-134",
+      "sourceId": 134,
+      "date": "2008-07-24",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed Anthony Roberson",
+      "participants": [
+        {
+          "name": "Anthony Roberson",
+          "playerHref": "/players/r/roberan02.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -202.4,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -202.4,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": -202.4,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 281060.30000000005,
+        "vorp": 184.6
+      }
+    },
+    {
+      "id": "walshdo99x-135",
+      "sourceId": 135,
+      "date": "2008-07-28",
+      "type": "trade",
+      "tenureTeam": "NYK",
+      "summary": "Added Taurean Green, Bobby Jones, and Andy Rautins; Sent out Renaldo Balkman",
+      "participants": [
+        {
+          "name": "Renaldo Balkman",
+          "playerHref": "/players/b/balkmre01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -873.6,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Taurean Green",
+          "playerHref": "/players/g/greenta01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bobby Jones",
+          "playerHref": "/players/j/jonesbo02.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Andy Rautins",
+          "playerHref": "/players/r/rautian01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -873.6,
+        "vorp": -0.7
+      },
+      "categoryValues": {
+        "bpm": -873.6,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": 280186.70000000007,
+        "vorp": 183.9
+      }
+    },
+    {
+      "id": "walshdo99x-136",
+      "sourceId": 136,
+      "date": "2008-08-29",
+      "type": "trade",
+      "tenureTeam": "NYK",
+      "summary": "Added Patrick Ewing; Sent out Frederic Weis",
+      "participants": [
+        {
+          "name": "Frederic Weis",
+          "playerHref": "/players/w/weisfr01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Patrick Ewing",
+          "playerHref": "/players/e/ewingpa02.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 280186.70000000007,
+        "vorp": 183.9
+      }
+    },
+    {
+      "id": "walshdo99x-137",
+      "sourceId": 137,
+      "date": "2008-09-25",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed Allan Houston",
+      "participants": [
+        {
+          "name": "Allan Houston",
+          "playerHref": "/players/h/houstal01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 280186.70000000007,
+        "vorp": 183.9
+      }
+    },
+    {
+      "id": "walshdo99x-138",
+      "sourceId": 138,
+      "date": "2008-11-21",
+      "type": "trade",
+      "tenureTeam": "NYK",
+      "summary": "Added Cuttino Mobley and Tim Thomas; Sent out Mardy Collins and Zach Randolph",
+      "participants": [
+        {
+          "name": "Mardy Collins",
+          "playerHref": "/players/c/collima01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 5287,
+            "vorp": 0.6000000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Zach Randolph",
+          "playerHref": "/players/r/randoza01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -136.9,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cuttino Mobley",
+          "playerHref": "/players/m/moblecu01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tim Thomas",
+          "playerHref": "/players/t/thomati01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 154.60000000000002,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5304.700000000001,
+        "vorp": 0.30000000000000016
+      },
+      "categoryValues": {
+        "bpm": 5304.700000000001,
+        "vorp": 0.30000000000000016
+      },
+      "runningValues": {
+        "bpm": 285491.4,
+        "vorp": 184.20000000000002
+      }
+    },
+    {
+      "id": "walshdo99x-139",
+      "sourceId": 139,
+      "date": "2008-11-21",
+      "type": "trade",
+      "tenureTeam": "NYK",
+      "summary": "Added Al Harrington; Sent out Jamal Crawford",
+      "participants": [
+        {
+          "name": "Jamal Crawford",
+          "playerHref": "/players/c/crawfja01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 3339.2000000000003,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Al Harrington",
+          "playerHref": "/players/h/harrial01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -1756,
+            "vorp": 1.7999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1583.2000000000003,
+        "vorp": 1.5999999999999999
+      },
+      "categoryValues": {
+        "bpm": 1583.2000000000003,
+        "vorp": 1.5999999999999999
+      },
+      "runningValues": {
+        "bpm": 287074.60000000003,
+        "vorp": 185.80000000000004
+      }
+    },
+    {
+      "id": "walshdo99x-140",
+      "sourceId": 140,
+      "date": "2009-02-19",
+      "type": "trade",
+      "tenureTeam": "NYK",
+      "summary": "Added Larry Hughes; Sent out Jerome James, Anthony Roberson, and Tim Thomas",
+      "participants": [
+        {
+          "name": "Jerome James",
+          "playerHref": "/players/j/jamesje01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Anthony Roberson",
+          "playerHref": "/players/r/roberan02.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 184,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tim Thomas",
+          "playerHref": "/players/t/thomati01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 508,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Larry Hughes",
+          "playerHref": "/players/h/hughela01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -2369.1,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1677.1,
+        "vorp": 0.2
+      },
+      "categoryValues": {
+        "bpm": -1677.1,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 285397.50000000006,
+        "vorp": 186.00000000000003
+      }
+    },
+    {
+      "id": "walshdo99x-141",
+      "sourceId": 141,
+      "date": "2009-02-19",
+      "type": "trade",
+      "tenureTeam": "NYK",
+      "summary": "Added Chris Wilcox; Sent out Malik Rose",
+      "participants": [
+        {
+          "name": "Malik Rose",
+          "playerHref": "/players/r/rosema01.html",
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 1426,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chris Wilcox",
+          "playerHref": "/players/w/wilcoch01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -1155,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 271,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 271,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 285668.50000000006,
+        "vorp": 186.10000000000002
+      }
+    },
+    {
+      "id": "walshdo99x-142",
+      "sourceId": 142,
+      "date": "2009-03-03",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed Cheikh Samb",
+      "participants": [
+        {
+          "name": "Cheikh Samb",
+          "playerHref": "/players/s/sambch01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -196,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -196,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -196,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 285472.50000000006,
+        "vorp": 186.10000000000002
+      }
+    },
+    {
+      "id": "walshdo99x-143",
+      "sourceId": 143,
+      "date": "2009-03-06",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed Demetris Nichols",
+      "participants": [
+        {
+          "name": "Demetris Nichols",
+          "playerHref": "/players/n/nichode01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -10.799999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -10.799999999999999,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -10.799999999999999,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 285461.70000000007,
+        "vorp": 186.10000000000002
+      }
+    },
+    {
+      "id": "walshdo99x-144",
+      "sourceId": 144,
+      "date": "2009-03-23",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed Courtney Sims",
+      "participants": [
+        {
+          "name": "Courtney Sims",
+          "playerHref": "/players/s/simsco01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -34.1,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -34.1,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -34.1,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 285427.6000000001,
+        "vorp": 186.10000000000002
+      }
+    },
+    {
+      "id": "walshdo99x-145",
+      "sourceId": 145,
+      "date": "2009-03-27",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed Joe Crawford",
+      "participants": [
+        {
+          "name": "Joe Crawford",
+          "playerHref": "/players/c/crawfjo01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -62.1,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -62.1,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -62.1,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 285365.5000000001,
+        "vorp": 186.10000000000002
+      }
+    },
+    {
+      "id": "walshdo99x-146",
+      "sourceId": 146,
+      "date": "2009-04-09",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed Mouhamed Sene",
+      "participants": [
+        {
+          "name": "Mouhamed Sene",
+          "playerHref": "/players/s/senesa01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 41.400000000000006,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 41.400000000000006,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 41.400000000000006,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 285406.90000000014,
+        "vorp": 186.10000000000002
+      }
+    },
+    {
+      "id": "walshdo99x-147",
+      "sourceId": 147,
+      "date": "2009-04-14",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed Chris Hunter",
+      "participants": [
+        {
+          "name": "Chris Hunter",
+          "playerHref": "/players/h/huntech01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 285406.90000000014,
+        "vorp": 186.10000000000002
+      }
+    },
+    {
+      "id": "walshdo99x-148",
+      "sourceId": 148,
+      "date": "2009-06-25",
+      "type": "draft",
+      "tenureTeam": "NYK",
+      "summary": "Drafted Jordan Hill",
+      "participants": [
+        {
+          "name": "Jordan Hill",
+          "playerHref": "/players/h/hilljo01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -1159.1999999999998,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1159.1999999999998,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1159.1999999999998,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 284247.7000000001,
+        "vorp": 185.90000000000003
+      }
+    },
+    {
+      "id": "walshdo99x-149",
+      "sourceId": 149,
+      "date": "2009-06-25",
+      "type": "trade",
+      "tenureTeam": "NYK",
+      "summary": "Added Toney Douglas; Sent out Andrew Goudelock",
+      "participants": [
+        {
+          "name": "Andrew Goudelock",
+          "playerHref": "/players/g/goudean01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 2147.9000000000005,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Toney Douglas",
+          "playerHref": "/players/d/douglto01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -3320,
+            "vorp": 1.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1172.0999999999995,
+        "vorp": 1.4000000000000001
+      },
+      "categoryValues": {
+        "bpm": -1172.0999999999995,
+        "vorp": 1.4000000000000001
+      },
+      "runningValues": {
+        "bpm": 283075.60000000015,
+        "vorp": 187.30000000000004
+      }
+    },
+    {
+      "id": "walshdo99x-150",
+      "sourceId": 150,
+      "date": "2009-06-25",
+      "type": "trade",
+      "tenureTeam": "NYK",
+      "summary": "Added Darko Miličić; Sent out Quentin Richardson",
+      "participants": [
+        {
+          "name": "Quentin Richardson",
+          "playerHref": "/players/r/richaqu01.html",
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Darko Miličić",
+          "playerHref": "/players/m/milicda01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -127.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -127.8,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -127.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 282947.80000000016,
+        "vorp": 187.30000000000004
+      }
+    },
+    {
+      "id": "walshdo99x-151",
+      "sourceId": 151,
+      "date": "2009-09-11",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed Gabe Pruitt",
+      "participants": [
+        {
+          "name": "Gabe Pruitt",
+          "playerHref": "/players/p/pruitga01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 282947.80000000016,
+        "vorp": 187.30000000000004
+      }
+    },
+    {
+      "id": "walshdo99x-152",
+      "sourceId": 152,
+      "date": "2009-09-24",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed Ron Howard",
+      "participants": [
+        {
+          "name": "Ron Howard",
+          "playerHref": "/players/h/howarro01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 282947.80000000016,
+        "vorp": 187.30000000000004
+      }
+    },
+    {
+      "id": "walshdo99x-153",
+      "sourceId": 153,
+      "date": "2009-09-25",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed Marcus Landry",
+      "participants": [
+        {
+          "name": "Marcus Landry",
+          "playerHref": "/players/l/landrma01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -723.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -723.6,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -723.6,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 282224.2000000002,
+        "vorp": 187.20000000000005
+      }
+    },
+    {
+      "id": "walshdo99x-154",
+      "sourceId": 154,
+      "date": "2009-12-13",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed Jonathan Bender",
+      "participants": [
+        {
+          "name": "Jonathan Bender",
+          "playerHref": "/players/b/bendejo01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -1197.1999999999998,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1197.1999999999998,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1197.1999999999998,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 281027.0000000002,
+        "vorp": 187.00000000000006
+      }
+    },
+    {
+      "id": "walshdo99x-155",
+      "sourceId": 155,
+      "date": "2010-02-17",
+      "type": "trade",
+      "tenureTeam": "NYK",
+      "summary": "Added Brian Cardinal; Sent out Darko Miličić",
+      "participants": [
+        {
+          "name": "Darko Miličić",
+          "playerHref": "/players/m/milicda01.html",
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 7079.400000000001,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Brian Cardinal",
+          "playerHref": "/players/c/cardibr01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 7079.400000000001,
+        "vorp": 0.5
+      },
+      "categoryValues": {
+        "bpm": 7079.400000000001,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": 288106.4000000002,
+        "vorp": 187.50000000000006
+      }
+    },
+    {
+      "id": "walshdo99x-156",
+      "sourceId": 156,
+      "date": "2010-02-18",
+      "type": "trade",
+      "tenureTeam": "NYK",
+      "summary": "Added J.R. Giddens, Eddie House, and Henry Walker; Sent out Marcus Landry and Nate Robinson",
+      "participants": [
+        {
+          "name": "Marcus Landry",
+          "playerHref": "/players/l/landrma01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 104.10000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Nate Robinson",
+          "playerHref": "/players/r/robinna01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 2184.4999999999995,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "J.R. Giddens",
+          "playerHref": "/players/g/giddejr01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -672,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eddie House",
+          "playerHref": "/players/h/houseed01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -2114.7000000000003,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Henry Walker",
+          "playerHref": "/players/w/walkebi01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -2856.5,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3354.600000000001,
+        "vorp": -0.3000000000000001
+      },
+      "categoryValues": {
+        "bpm": -3354.600000000001,
+        "vorp": -0.3000000000000001
+      },
+      "runningValues": {
+        "bpm": 284751.80000000016,
+        "vorp": 187.20000000000007
+      }
+    },
+    {
+      "id": "walshdo99x-157",
+      "sourceId": 157,
+      "date": "2010-02-18",
+      "type": "trade",
+      "tenureTeam": "NYK",
+      "summary": "Added Tracy McGrady and Sergio Rodríguez; Sent out Larry Hughes, Jordan Hill, Jared Jeffries, and Royce White",
+      "participants": [
+        {
+          "name": "Larry Hughes",
+          "playerHref": "/players/h/hughela01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jordan Hill",
+          "playerHref": "/players/h/hilljo01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 6386,
+            "vorp": 0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jared Jeffries",
+          "playerHref": "/players/j/jeffrja01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 1739,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Royce White",
+          "playerHref": "/players/w/whitero03.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tracy McGrady",
+          "playerHref": "/players/m/mcgratr01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -23,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sergio Rodríguez",
+          "playerHref": "/players/r/rodrise01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 206.8,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 8308.8,
+        "vorp": 1.1
+      },
+      "categoryValues": {
+        "bpm": 8308.8,
+        "vorp": 1.1
+      },
+      "runningValues": {
+        "bpm": 293060.60000000015,
+        "vorp": 188.30000000000007
+      }
+    },
+    {
+      "id": "walshdo99x-158",
+      "sourceId": 158,
+      "date": "2010-04-02",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed Earl Barron",
+      "participants": [
+        {
+          "name": "Earl Barron",
+          "playerHref": "/players/b/barroea01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 293060.60000000015,
+        "vorp": 188.30000000000007
+      }
+    },
+    {
+      "id": "walshdo99x-159",
+      "sourceId": 159,
+      "date": "2010-04-02",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed Earl Barron",
+      "participants": [
+        {
+          "name": "Earl Barron",
+          "playerHref": "/players/b/barroea01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -1225.3,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1225.3,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -1225.3,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 291835.30000000016,
+        "vorp": 188.20000000000007
+      }
+    },
+    {
+      "id": "walshdo99x-160",
+      "sourceId": 160,
+      "date": "2010-06-24",
+      "type": "draft",
+      "tenureTeam": "NYK",
+      "summary": "Drafted Andy Rautins and Landry Fields",
+      "participants": [
+        {
+          "name": "Andy Rautins",
+          "playerHref": "/players/r/rautian01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -314.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Landry Fields",
+          "playerHref": "/players/f/fieldla01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 508.20000000000005,
+            "vorp": 2.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 193.80000000000007,
+        "vorp": 2.3
+      },
+      "categoryValues": {
+        "bpm": 193.80000000000007,
+        "vorp": 2.3
+      },
+      "runningValues": {
+        "bpm": 292029.10000000015,
+        "vorp": 190.50000000000009
+      }
+    },
+    {
+      "id": "walshdo99x-161",
+      "sourceId": 161,
+      "date": "2010-06-24",
+      "type": "trade",
+      "tenureTeam": "NYK",
+      "summary": "Added Jerome Jordan",
+      "participants": [
+        {
+          "name": "Jerome Jordan",
+          "playerHref": "/players/j/jordaje01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -10.8,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -10.8,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": -10.8,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 292018.30000000016,
+        "vorp": 190.60000000000008
+      }
+    },
+    {
+      "id": "walshdo99x-162",
+      "sourceId": 162,
+      "date": "2010-07-08",
+      "type": "trade",
+      "tenureTeam": "NYK",
+      "summary": "Added Amar'e Stoudemire",
+      "participants": [
+        {
+          "name": "Amar'e Stoudemire",
+          "playerHref": "/players/s/stoudam01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 1167.8999999999996,
+            "vorp": 4.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1167.8999999999996,
+        "vorp": 4.1
+      },
+      "categoryValues": {
+        "bpm": 1167.8999999999996,
+        "vorp": 4.1
+      },
+      "runningValues": {
+        "bpm": 293186.2000000002,
+        "vorp": 194.70000000000007
+      }
+    },
+    {
+      "id": "walshdo99x-163",
+      "sourceId": 163,
+      "date": "2010-07-09",
+      "type": "trade",
+      "tenureTeam": "NYK",
+      "summary": "Added Kelenna Azubuike, Anthony Randolph, Ronny Turiaf, Quincy Miller, and Romero Osby; Sent out David Lee",
+      "participants": [
+        {
+          "name": "David Lee",
+          "playerHref": "/players/l/leeda02.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -7330.700000000001,
+            "vorp": -7.3999999999999995
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kelenna Azubuike",
+          "playerHref": "/players/a/azubuke01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Anthony Randolph",
+          "playerHref": "/players/r/randoan01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -825.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ronny Turiaf",
+          "playerHref": "/players/t/turiaro01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 1597.3999999999999,
+            "vorp": 1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Quincy Miller",
+          "playerHref": "/players/m/millequ01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Romero Osby",
+          "playerHref": "/players/o/osbyro01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6558.800000000001,
+        "vorp": -6.499999999999999
+      },
+      "categoryValues": {
+        "bpm": -6558.800000000001,
+        "vorp": -6.499999999999999
+      },
+      "runningValues": {
+        "bpm": 286627.4000000002,
+        "vorp": 188.20000000000007
+      }
+    },
+    {
+      "id": "walshdo99x-164",
+      "sourceId": 164,
+      "date": "2010-07-12",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed Raymond Felton",
+      "participants": [
+        {
+          "name": "Raymond Felton",
+          "playerHref": "/players/f/feltora01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -1359.5,
+            "vorp": 2.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1359.5,
+        "vorp": 2.9
+      },
+      "categoryValues": {
+        "bpm": -1359.5,
+        "vorp": 2.9
+      },
+      "runningValues": {
+        "bpm": 285267.9000000002,
+        "vorp": 191.10000000000008
+      }
+    },
+    {
+      "id": "walshdo99x-165",
+      "sourceId": 165,
+      "date": "2010-07-13",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed Timofey Mozgov",
+      "participants": [
+        {
+          "name": "Timofey Mozgov",
+          "playerHref": "/players/m/mozgoti01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -2198.4,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2198.4,
+        "vorp": -0.3
+      },
+      "categoryValues": {
+        "bpm": -2198.4,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": 283069.5000000002,
+        "vorp": 190.80000000000007
+      }
+    },
+    {
+      "id": "walshdo99x-166",
+      "sourceId": 166,
+      "date": "2010-08-10",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed Roger Mason",
+      "participants": [
+        {
+          "name": "Roger Mason",
+          "playerHref": "/players/m/masonro01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -1116.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1116.5,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -1116.5,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 281953.0000000002,
+        "vorp": 190.70000000000007
+      }
+    },
+    {
+      "id": "walshdo99x-167",
+      "sourceId": 167,
+      "date": "2010-09-23",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed Shawne Williams",
+      "participants": [
+        {
+          "name": "Shawne Williams",
+          "playerHref": "/players/w/willish03.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -793.8,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -793.8,
+        "vorp": 0.4
+      },
+      "categoryValues": {
+        "bpm": -793.8,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": 281159.2000000002,
+        "vorp": 191.10000000000008
+      }
+    },
+    {
+      "id": "walshdo99x-168",
+      "sourceId": 168,
+      "date": "2011-02-22",
+      "type": "trade",
+      "tenureTeam": "NYK",
+      "summary": "Added Carmelo Anthony, Renaldo Balkman, Chauncey Billups, Anthony Carter, Shelden Williams, Jakob Pöltl, and Corey Brewer; Sent out Eddy Curry, Anthony Randolph, Wilson Chandler, Raymond Felton, Danilo Gallinari, Timofey Mozgov, Quincy Miller, Romero Osby, Dario Šarić, and Jamal Murray",
+      "participants": [
+        {
+          "name": "Eddy Curry",
+          "playerHref": "/players/c/curryed01.html",
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Anthony Randolph",
+          "playerHref": "/players/r/randoan01.html",
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 876.6,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Wilson Chandler",
+          "playerHref": "/players/c/chandwi01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 11089.4,
+            "vorp": -2.6999999999999997
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Raymond Felton",
+          "playerHref": "/players/f/feltora01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -663,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Danilo Gallinari",
+          "playerHref": "/players/g/gallida01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -21528,
+            "vorp": -10.200000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Timofey Mozgov",
+          "playerHref": "/players/m/mozgoti01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 6416.400000000001,
+            "vorp": -0.19999999999999996
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Quincy Miller",
+          "playerHref": "/players/m/millequ01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 3155.9,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Romero Osby",
+          "playerHref": "/players/o/osbyro01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dario Šarić",
+          "playerHref": "/players/s/saricda01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 1008,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jamal Murray",
+          "playerHref": "/players/m/murraja01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -28783.5,
+            "vorp": -17.299999999999997
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Carmelo Anthony",
+          "playerHref": "/players/a/anthoca01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 2483.6,
+            "vorp": 1.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Renaldo Balkman",
+          "playerHref": "/players/b/balkmre01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -66,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chauncey Billups",
+          "playerHref": "/players/b/billuch01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 4773.4,
+            "vorp": 2.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Anthony Carter",
+          "playerHref": "/players/c/cartean01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -566.1,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Shelden Williams",
+          "playerHref": "/players/w/willish02.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -2210.3,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jakob Pöltl",
+          "playerHref": "/players/p/poeltja01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Corey Brewer",
+          "playerHref": "/players/b/breweco01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": -4743.2,
+            "vorp": 1.0999999999999999
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -28756.800000000003,
+        "vorp": -26.299999999999994
+      },
+      "categoryValues": {
+        "bpm": -28756.800000000003,
+        "vorp": -26.299999999999994
+      },
+      "runningValues": {
+        "bpm": 252402.40000000023,
+        "vorp": 164.8000000000001
+      }
+    },
+    {
+      "id": "walshdo99x-169",
+      "sourceId": 169,
+      "date": "2011-03-01",
+      "type": "signing",
+      "tenureTeam": "NYK",
+      "summary": "Signed Jared Jeffries",
+      "participants": [
+        {
+          "name": "Jared Jeffries",
+          "playerHref": "/players/j/jeffrja01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -1443.2,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1443.2,
+        "vorp": 0.2
+      },
+      "categoryValues": {
+        "bpm": -1443.2,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 250959.20000000022,
+        "vorp": 165.00000000000009
+      }
+    },
+    {
+      "id": "walshdo99x-170",
+      "sourceId": 170,
+      "date": "2011-06-23",
+      "type": "draft",
+      "tenureTeam": "NYK",
+      "summary": "Drafted Iman Shumpert",
+      "participants": [
+        {
+          "name": "Iman Shumpert",
+          "playerHref": "/players/s/shumpim01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -7660.6,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -7660.6,
+        "vorp": 0.7
+      },
+      "categoryValues": {
+        "bpm": -7660.6,
+        "vorp": 0.7
+      },
+      "runningValues": {
+        "bpm": 243298.6000000002,
+        "vorp": 165.70000000000007
+      }
+    },
+    {
+      "id": "walshdo99x-171",
+      "sourceId": 171,
+      "date": "2011-06-23",
+      "type": "trade",
+      "tenureTeam": "NYK",
+      "summary": "Added Josh Harrellson",
+      "participants": [
+        {
+          "name": "Josh Harrellson",
+          "playerHref": "/players/h/harrejo01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 54,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 54,
+        "vorp": 0.3
+      },
+      "categoryValues": {
+        "bpm": 54,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": 243352.6000000002,
+        "vorp": 166.00000000000009
+      }
+    }
+  ]
+}

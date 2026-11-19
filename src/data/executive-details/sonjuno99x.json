@@ -1,0 +1,6794 @@
+{
+  "slug": "sonjuno99x",
+  "sourceRowCount": 324,
+  "tenures": [
+    {
+      "teamCode": "LAC",
+      "startDate": "1977-06-07",
+      "endDate": "1980-06-09"
+    },
+    {
+      "teamCode": "DAL",
+      "startDate": "1980-06-09",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "sonjuno99x-0",
+      "sourceId": 0,
+      "date": "1977-06-07",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Swen Nater and Tate Armstrong; Sent out Marques Johnson",
+      "participants": [
+        {
+          "name": "Marques Johnson",
+          "playerHref": "/players/j/johnsma01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -77972.6,
+            "vorp": -28.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Swen Nater",
+          "playerHref": "/players/n/natersw01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tate Armstrong",
+          "playerHref": "/players/a/armstta01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -77972.6,
+        "vorp": -28.8
+      },
+      "categoryValues": {
+        "bpm": -77972.6,
+        "vorp": -28.8
+      },
+      "runningValues": {
+        "bpm": -77972.6,
+        "vorp": -28.8
+      }
+    },
+    {
+      "id": "sonjuno99x-1",
+      "sourceId": 1,
+      "date": "1977-06-10",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Johnny Neumann; Sent out James Edwards",
+      "participants": [
+        {
+          "name": "James Edwards",
+          "playerHref": "/players/e/edwarja01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 8034.8,
+            "vorp": 1.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Johnny Neumann",
+          "playerHref": "/players/n/neumajo01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 8034.8,
+        "vorp": 1.2
+      },
+      "categoryValues": {
+        "bpm": 8034.8,
+        "vorp": 1.2
+      },
+      "runningValues": {
+        "bpm": -69937.8,
+        "vorp": -27.6
+      }
+    },
+    {
+      "id": "sonjuno99x-2",
+      "sourceId": 2,
+      "date": "1977-06-10",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Larry Johnson; Sent out Tate Armstrong",
+      "participants": [
+        {
+          "name": "Tate Armstrong",
+          "playerHref": "/players/a/armstta01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 3021,
+            "vorp": 0.30000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Larry Johnson",
+          "playerHref": "/players/j/johnsla01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3021,
+        "vorp": 0.30000000000000004
+      },
+      "categoryValues": {
+        "bpm": 3021,
+        "vorp": 0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -66916.8,
+        "vorp": -27.3
+      }
+    },
+    {
+      "id": "sonjuno99x-3",
+      "sourceId": 3,
+      "date": "1977-06-10",
+      "type": "draft",
+      "tenureTeam": "LAC",
+      "summary": "Drafted Larry Johnson, Melvin Watkins, Mike Hanley, Curvan Lewis, Mike Jackson, and Emery Sammons",
+      "participants": [
+        {
+          "name": "Larry Johnson",
+          "playerHref": "/players/j/johnsla01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Melvin Watkins",
+          "playerHref": "/players/w/watkime01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Hanley",
+          "playerHref": "/players/h/hanlemi01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Curvan Lewis",
+          "playerHref": "/players/l/lewiscu01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Jackson",
+          "playerHref": "/players/j/jacksmi03.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Emery Sammons",
+          "playerHref": "/players/s/sammoem01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -66916.8,
+        "vorp": -27.3
+      }
+    },
+    {
+      "id": "sonjuno99x-6",
+      "sourceId": 6,
+      "date": "1977-09-01",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Tiny Archibald; Sent out George Johnson, Micheal Ray Richardson, and Cliff Robinson",
+      "participants": [
+        {
+          "name": "George Johnson",
+          "playerHref": "/players/j/johnsge02.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 7706.599999999999,
+            "vorp": -1.8000000000000003
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Micheal Ray Richardson",
+          "playerHref": "/players/r/richami01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": -21328.3,
+            "vorp": -8.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cliff Robinson",
+          "playerHref": "/players/r/robincl01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 2636.3999999999996,
+            "vorp": -1.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tiny Archibald",
+          "playerHref": "/players/a/architi01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -10985.300000000001,
+        "vorp": -11.700000000000001
+      },
+      "categoryValues": {
+        "bpm": -10985.300000000001,
+        "vorp": -11.700000000000001
+      },
+      "runningValues": {
+        "bpm": -77902.1,
+        "vorp": -39.00000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-7",
+      "sourceId": 7,
+      "date": "1977-09-01",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Mike Bantom",
+      "participants": [
+        {
+          "name": "Mike Bantom",
+          "playerHref": "/players/b/bantomi01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -77902.1,
+        "vorp": -39.00000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-8",
+      "sourceId": 8,
+      "date": "1977-09-01",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Billy Knight; Sent out Mike Bantom and Adrian Dantley",
+      "participants": [
+        {
+          "name": "Mike Bantom",
+          "playerHref": "/players/b/bantomi01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 3677.9,
+            "vorp": -4.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Adrian Dantley",
+          "playerHref": "/players/d/dantlad01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -5024.4,
+            "vorp": -1.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Billy Knight",
+          "playerHref": "/players/k/knighbi01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1346.4999999999995,
+        "vorp": -6.4
+      },
+      "categoryValues": {
+        "bpm": -1346.4999999999995,
+        "vorp": -6.4
+      },
+      "runningValues": {
+        "bpm": -79248.6,
+        "vorp": -45.40000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-9",
+      "sourceId": 9,
+      "date": "1977-09-02",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Roy Hamilton; Sent out John Gianelli",
+      "participants": [
+        {
+          "name": "John Gianelli",
+          "playerHref": "/players/g/gianejo01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 4276,
+            "vorp": -1.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Roy Hamilton",
+          "playerHref": "/players/h/hamilro01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4276,
+        "vorp": -1.1
+      },
+      "categoryValues": {
+        "bpm": 4276,
+        "vorp": -1.1
+      },
+      "runningValues": {
+        "bpm": -74972.6,
+        "vorp": -46.500000000000014
+      }
+    },
+    {
+      "id": "sonjuno99x-10",
+      "sourceId": 10,
+      "date": "1977-09-07",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Sent out Ernie DiGregorio",
+      "participants": [
+        {
+          "name": "Ernie DiGregorio",
+          "playerHref": "/players/d/digreer01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 1925.6,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1925.6,
+        "vorp": 0.3
+      },
+      "categoryValues": {
+        "bpm": 1925.6,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": -73047,
+        "vorp": -46.20000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-11",
+      "sourceId": 11,
+      "date": "1977-09-13",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Bill Willoughby; Sent out Keith Herron",
+      "participants": [
+        {
+          "name": "Keith Herron",
+          "playerHref": "/players/h/herroke01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 388.8,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bill Willoughby",
+          "playerHref": "/players/w/willobi01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 388.8,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 388.8,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -72658.2,
+        "vorp": -46.100000000000016
+      }
+    },
+    {
+      "id": "sonjuno99x-12",
+      "sourceId": 12,
+      "date": "1977-09-16",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Sent out Bird Averitt",
+      "participants": [
+        {
+          "name": "Bird Averitt",
+          "playerHref": "/players/a/averibi01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 2413.1000000000004,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2413.1000000000004,
+        "vorp": 0.4
+      },
+      "categoryValues": {
+        "bpm": 2413.1000000000004,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": -70245.09999999999,
+        "vorp": -45.70000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-13",
+      "sourceId": 13,
+      "date": "1977-09-20",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Jim McDaniels",
+      "participants": [
+        {
+          "name": "Jim McDaniels",
+          "playerHref": "/players/m/mcdanji01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -70245.09999999999,
+        "vorp": -45.70000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-14",
+      "sourceId": 14,
+      "date": "1977-10-03",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Wil Jones",
+      "participants": [
+        {
+          "name": "Wil Jones",
+          "playerHref": "/players/j/joneswi02.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -70245.09999999999,
+        "vorp": -45.70000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-15",
+      "sourceId": 15,
+      "date": "1977-10-06",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Ted McClain",
+      "participants": [
+        {
+          "name": "Ted McClain",
+          "playerHref": "/players/m/mcclate01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -70245.09999999999,
+        "vorp": -45.70000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-16",
+      "sourceId": 16,
+      "date": "1977-10-17",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Gary Brokaw",
+      "participants": [
+        {
+          "name": "Gary Brokaw",
+          "playerHref": "/players/b/brokaga01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -70245.09999999999,
+        "vorp": -45.70000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-17",
+      "sourceId": 17,
+      "date": "1977-10-18",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Mike Santos; Sent out Johnny Neumann",
+      "participants": [
+        {
+          "name": "Johnny Neumann",
+          "playerHref": "/players/n/neumajo01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Santos",
+          "playerHref": "/players/s/santomi01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -70245.09999999999,
+        "vorp": -45.70000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-18",
+      "sourceId": 18,
+      "date": "1977-11-23",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Marvin Barnes, Lew Massey, and Larry Harris; Sent out Gus Gerard, John Shumate, and Roy Hamilton",
+      "participants": [
+        {
+          "name": "Gus Gerard",
+          "playerHref": "/players/g/gerargu01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 1311.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Shumate",
+          "playerHref": "/players/s/shumajo01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -2684.2,
+            "vorp": -1.9000000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Roy Hamilton",
+          "playerHref": "/players/h/hamilro01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 4798.8,
+            "vorp": 0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Marvin Barnes",
+          "playerHref": "/players/b/barnema01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lew Massey",
+          "playerHref": "/players/m/massele01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Larry Harris",
+          "playerHref": "/players/h/harrila01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3426.0000000000005,
+        "vorp": -1.4
+      },
+      "categoryValues": {
+        "bpm": 3426.0000000000005,
+        "vorp": -1.4
+      },
+      "runningValues": {
+        "bpm": -66819.09999999999,
+        "vorp": -47.100000000000016
+      }
+    },
+    {
+      "id": "sonjuno99x-19",
+      "sourceId": 19,
+      "date": "1977-11-26",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Rookie contract for Larry Johnson",
+      "participants": [
+        {
+          "name": "Larry Johnson",
+          "playerHref": "/players/j/johnsla01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -66819.09999999999,
+        "vorp": -47.100000000000016
+      }
+    },
+    {
+      "id": "sonjuno99x-20",
+      "sourceId": 20,
+      "date": "1977-12-08",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Scott Lloyd",
+      "participants": [
+        {
+          "name": "Scott Lloyd",
+          "playerHref": "/players/l/lloydsc01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -66819.09999999999,
+        "vorp": -47.100000000000016
+      }
+    },
+    {
+      "id": "sonjuno99x-21",
+      "sourceId": 21,
+      "date": "1977-12-14",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Mike Glenn",
+      "participants": [
+        {
+          "name": "Mike Glenn",
+          "playerHref": "/players/g/glennmi01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -66819.09999999999,
+        "vorp": -47.100000000000016
+      }
+    },
+    {
+      "id": "sonjuno99x-22",
+      "sourceId": 22,
+      "date": "1978-01-31",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Bird Averitt",
+      "participants": [
+        {
+          "name": "Bird Averitt",
+          "playerHref": "/players/a/averibi01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -66819.09999999999,
+        "vorp": -47.100000000000016
+      }
+    },
+    {
+      "id": "sonjuno99x-23",
+      "sourceId": 23,
+      "date": "1978-01-31",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Marvin Delph; Sent out Ted McClain",
+      "participants": [
+        {
+          "name": "Ted McClain",
+          "playerHref": "/players/m/mcclate01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Marvin Delph",
+          "playerHref": "/players/d/delphma01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -66819.09999999999,
+        "vorp": -47.100000000000016
+      }
+    },
+    {
+      "id": "sonjuno99x-24",
+      "sourceId": 24,
+      "date": "1978-02-02",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Larry McNeill",
+      "participants": [
+        {
+          "name": "Larry McNeill",
+          "playerHref": "/players/m/mcneila01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -66819.09999999999,
+        "vorp": -47.100000000000016
+      }
+    },
+    {
+      "id": "sonjuno99x-25",
+      "sourceId": 25,
+      "date": "1978-03-08",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Eddie Owens",
+      "participants": [
+        {
+          "name": "Eddie Owens",
+          "playerHref": "/players/o/owensed01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -66819.09999999999,
+        "vorp": -47.100000000000016
+      }
+    },
+    {
+      "id": "sonjuno99x-26",
+      "sourceId": 26,
+      "date": "1978-06-01",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Nick Weatherspoon",
+      "participants": [
+        {
+          "name": "Nick Weatherspoon",
+          "playerHref": "/players/w/weathni01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -66819.09999999999,
+        "vorp": -47.100000000000016
+      }
+    },
+    {
+      "id": "sonjuno99x-27",
+      "sourceId": 27,
+      "date": "1978-06-07",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Tom Abernethy; Sent out Lew Massey",
+      "participants": [
+        {
+          "name": "Lew Massey",
+          "playerHref": "/players/m/massele01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tom Abernethy",
+          "playerHref": "/players/a/abernto01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -66819.09999999999,
+        "vorp": -47.100000000000016
+      }
+    },
+    {
+      "id": "sonjuno99x-28",
+      "sourceId": 28,
+      "date": "1978-06-09",
+      "type": "draft",
+      "tenureTeam": "LAC",
+      "summary": "Drafted Jerome Whitehead, Mike Santos, Ricky Gallon, Marvin Delph, Jim Boylan, Larry Harris, Leroy McDonald, David Thompson, Bob Misevicius, Stan Pietkiewicz, Felton Young, and Bobby White",
+      "participants": [
+        {
+          "name": "Jerome Whitehead",
+          "playerHref": "/players/w/whiteje01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Santos",
+          "playerHref": "/players/s/santomi01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ricky Gallon",
+          "playerHref": "/players/g/gallori01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Marvin Delph",
+          "playerHref": "/players/d/delphma01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jim Boylan",
+          "playerHref": "/players/b/boylaji01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Larry Harris",
+          "playerHref": "/players/h/harrila01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Leroy McDonald",
+          "playerHref": "/players/m/mcdonle01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "David Thompson",
+          "playerHref": "/players/t/thompda02.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bob Misevicius",
+          "playerHref": "/players/m/miscebo01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Stan Pietkiewicz",
+          "playerHref": "/players/p/pietkst01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Felton Young",
+          "playerHref": "/players/y/youngfe01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bobby White",
+          "playerHref": "/players/w/whitebo01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -66819.09999999999,
+        "vorp": -47.100000000000016
+      }
+    },
+    {
+      "id": "sonjuno99x-31",
+      "sourceId": 31,
+      "date": "1980-06-09",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Ralph Drollinger",
+      "participants": [
+        {
+          "name": "Ralph Drollinger",
+          "playerHref": "/players/d/drollra01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -274.7,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -274.7,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -274.7,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -67093.79999999999,
+        "vorp": -47.20000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-32",
+      "sourceId": 32,
+      "date": "1980-06-09",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Elston Turner; Sent out Wiley Peck",
+      "participants": [
+        {
+          "name": "Wiley Peck",
+          "playerHref": "/players/p/peckwi01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Elston Turner",
+          "playerHref": "/players/t/turneel01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -67093.79999999999,
+        "vorp": -47.20000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-33",
+      "sourceId": 33,
+      "date": "1980-06-10",
+      "type": "draft",
+      "tenureTeam": "DAL",
+      "summary": "Drafted Kiki Vandeweghe, Roosevelt Bouie, Dave Britton, David Johnson, Darrell Allums, Leroy Jackson, Tony Forch, Clarence Kea, Ken Williams, and Tom Morgan",
+      "participants": [
+        {
+          "name": "Kiki Vandeweghe",
+          "playerHref": "/players/v/vandeki01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Roosevelt Bouie",
+          "playerHref": "/players/b/bouiero01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dave Britton",
+          "playerHref": "/players/b/brittda01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "David Johnson",
+          "playerHref": "/players/j/johnsda05.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Darrell Allums",
+          "playerHref": "/players/a/allumda01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -1545.6,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Leroy Jackson",
+          "playerHref": "/players/j/jacksle02.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tony Forch",
+          "playerHref": "/players/f/forchto01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Clarence Kea",
+          "playerHref": "/players/k/keacl01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ken Williams",
+          "playerHref": "/players/w/willike06.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tom Morgan",
+          "playerHref": "/players/m/morgato01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1545.6,
+        "vorp": -0.3
+      },
+      "categoryValues": {
+        "bpm": -3115,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -68639.4,
+        "vorp": -47.500000000000014
+      }
+    },
+    {
+      "id": "sonjuno99x-36",
+      "sourceId": 36,
+      "date": "1980-09-11",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Mark West and Anthony Teachey; Sent out Billy McKinney",
+      "participants": [
+        {
+          "name": "Billy McKinney",
+          "playerHref": "/players/m/mckinbi01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 2786.4,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mark West",
+          "playerHref": "/players/w/westma01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Anthony Teachey",
+          "playerHref": "/players/t/teachan01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2786.4,
+        "vorp": 0.2
+      },
+      "categoryValues": {
+        "bpm": 2786.4,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -65853,
+        "vorp": -47.30000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-37",
+      "sourceId": 37,
+      "date": "1980-09-16",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Sam Perkins; Sent out Mike Bratz",
+      "participants": [
+        {
+          "name": "Mike Bratz",
+          "playerHref": "/players/b/bratzmi01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 3114,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sam Perkins",
+          "playerHref": "/players/p/perkisa01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3114,
+        "vorp": -0.5
+      },
+      "categoryValues": {
+        "bpm": 3114,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -62739,
+        "vorp": -47.80000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-38",
+      "sourceId": 38,
+      "date": "1980-10-28",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Scott Lloyd",
+      "participants": [
+        {
+          "name": "Scott Lloyd",
+          "playerHref": "/players/l/lloydsc01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -14890.3,
+            "vorp": -1.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -14890.3,
+        "vorp": -1.9
+      },
+      "categoryValues": {
+        "bpm": -14890.3,
+        "vorp": -1.9
+      },
+      "runningValues": {
+        "bpm": -77629.3,
+        "vorp": -49.70000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-39",
+      "sourceId": 39,
+      "date": "1980-10-30",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Bill Robinzine, Derek Harper, and Roy Tarpley; Sent out Richard Washington and Jerome Whitehead",
+      "participants": [
+        {
+          "name": "Richard Washington",
+          "playerHref": "/players/w/washiri01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 5081.799999999999,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jerome Whitehead",
+          "playerHref": "/players/w/whiteje01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 40,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bill Robinzine",
+          "playerHref": "/players/r/robinbi01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -4250.400000000001,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Derek Harper",
+          "playerHref": "/players/h/harpede01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Roy Tarpley",
+          "playerHref": "/players/t/tarplro01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 871.3999999999987,
+        "vorp": 0.4
+      },
+      "categoryValues": {
+        "bpm": 871.3999999999987,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": -76757.9,
+        "vorp": -49.30000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-40",
+      "sourceId": 40,
+      "date": "1980-11-06",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Sent out Austin Carr",
+      "participants": [
+        {
+          "name": "Austin Carr",
+          "playerHref": "/players/c/carrau01.html",
+          "direction": "out",
+          "teamCode": "WSB",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -76757.9,
+        "vorp": -49.30000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-41",
+      "sourceId": 41,
+      "date": "1980-11-17",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Ollie Mack",
+      "participants": [
+        {
+          "name": "Ollie Mack",
+          "playerHref": "/players/m/mackol01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -2417.6000000000004,
+            "vorp": 0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2417.6000000000004,
+        "vorp": 0.30000000000000004
+      },
+      "categoryValues": {
+        "bpm": -2417.6000000000004,
+        "vorp": 0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -79175.5,
+        "vorp": -49.000000000000014
+      }
+    },
+    {
+      "id": "sonjuno99x-42",
+      "sourceId": 42,
+      "date": "1980-12-02",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Brad Davis",
+      "participants": [
+        {
+          "name": "Brad Davis",
+          "playerHref": "/players/d/davisbr01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 4398,
+            "vorp": 11.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4398,
+        "vorp": 11.9
+      },
+      "categoryValues": {
+        "bpm": 4398,
+        "vorp": 11.9
+      },
+      "runningValues": {
+        "bpm": -74777.5,
+        "vorp": -37.100000000000016
+      }
+    },
+    {
+      "id": "sonjuno99x-43",
+      "sourceId": 43,
+      "date": "1980-12-03",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Rolando Blackman and Sam Vincent; Sent out Kiki Vandeweghe and Maurice Martin",
+      "participants": [
+        {
+          "name": "Kiki Vandeweghe",
+          "playerHref": "/players/v/vandeki01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -14773.8,
+            "vorp": -8.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Maurice Martin",
+          "playerHref": "/players/m/martima01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 2518.4,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rolando Blackman",
+          "playerHref": "/players/b/blackro01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sam Vincent",
+          "playerHref": "/players/v/vincesa01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -12255.4,
+        "vorp": -8.2
+      },
+      "categoryValues": {
+        "bpm": -12255.4,
+        "vorp": -8.2
+      },
+      "runningValues": {
+        "bpm": -87032.90000000001,
+        "vorp": -45.30000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-44",
+      "sourceId": 44,
+      "date": "1981-01-02",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Monti Davis",
+      "participants": [
+        {
+          "name": "Monti Davis",
+          "playerHref": "/players/d/davismo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -42.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -42.4,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -42.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -87075.3,
+        "vorp": -45.30000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-45",
+      "sourceId": 45,
+      "date": "1981-01-28",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Stan Pietkiewicz",
+      "participants": [
+        {
+          "name": "Stan Pietkiewicz",
+          "playerHref": "/players/p/pietkst01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 344.8,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 344.8,
+        "vorp": 0.3
+      },
+      "categoryValues": {
+        "bpm": 344.8,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": -86730.5,
+        "vorp": -45.00000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-46",
+      "sourceId": 46,
+      "date": "1981-02-07",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Chad Kinch and Detlef Schrempf; Sent out Geoff Huston and Larry Anderson",
+      "participants": [
+        {
+          "name": "Geoff Huston",
+          "playerHref": "/players/h/hustoge01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 11922.899999999998,
+            "vorp": -0.7999999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Larry Anderson",
+          "playerHref": "/players/a/anderla02.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chad Kinch",
+          "playerHref": "/players/k/kinchch01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -657.2,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Detlef Schrempf",
+          "playerHref": "/players/s/schrede01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 11265.699999999997,
+        "vorp": -1
+      },
+      "categoryValues": {
+        "bpm": 11265.699999999997,
+        "vorp": -1
+      },
+      "runningValues": {
+        "bpm": -75464.8,
+        "vorp": -46.00000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-47",
+      "sourceId": 47,
+      "date": "1981-02-10",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Rookie contract for Clarence Kea",
+      "participants": [
+        {
+          "name": "Clarence Kea",
+          "playerHref": "/players/k/keacl01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -676.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -676.6,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -76141.40000000001,
+        "vorp": -46.10000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-48",
+      "sourceId": 48,
+      "date": "1981-06-09",
+      "type": "draft",
+      "tenureTeam": "DAL",
+      "summary": "Drafted Mark Aguirre, Rolando Blackman, Jay Vincent, Elston Turner, Art Housey, Eddie Moss, Pete Budko, Karl Bankowski, Danny Davis, David Kennedy, John Hollinden, and Scott Bolanko",
+      "participants": [
+        {
+          "name": "Mark Aguirre",
+          "playerHref": "/players/a/aguirma01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 39660.6,
+            "vorp": 19.700000000000003
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rolando Blackman",
+          "playerHref": "/players/b/blackro01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 16501.7,
+            "vorp": 19.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jay Vincent",
+          "playerHref": "/players/v/vinceja01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -7675.5,
+            "vorp": 3.5999999999999996
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Elston Turner",
+          "playerHref": "/players/t/turneel01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -7596.599999999999,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Art Housey",
+          "playerHref": "/players/h/housear01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eddie Moss",
+          "playerHref": "/players/m/mossed01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Pete Budko",
+          "playerHref": "/players/b/budkope01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Karl Bankowski",
+          "playerHref": "/players/b/bankoka01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Danny Davis",
+          "playerHref": "/players/d/davisda03.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "David Kennedy",
+          "playerHref": "/players/k/kenneda01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Hollinden",
+          "playerHref": "/players/h/hollijo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Scott Bolanko",
+          "playerHref": "/players/b/bosansc01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 40890.200000000004,
+        "vorp": 42.10000000000001
+      },
+      "categoryValues": {
+        "bpm": 40890.200000000004,
+        "vorp": 42.10000000000001
+      },
+      "runningValues": {
+        "bpm": -35251.20000000001,
+        "vorp": -4.000000000000019
+      }
+    },
+    {
+      "id": "sonjuno99x-49",
+      "sourceId": 49,
+      "date": "1981-08-20",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Allan Bristow and Wayne Cooper; Sent out Bill Robinzine",
+      "participants": [
+        {
+          "name": "Bill Robinzine",
+          "playerHref": "/players/r/robinbi01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 3906,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Allan Bristow",
+          "playerHref": "/players/b/bristal01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -1759.5,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Wayne Cooper",
+          "playerHref": "/players/c/coopewa01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -3636,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1489.5,
+        "vorp": 1.5
+      },
+      "categoryValues": {
+        "bpm": -1489.5,
+        "vorp": 1.5
+      },
+      "runningValues": {
+        "bpm": -36740.70000000001,
+        "vorp": -2.5000000000000187
+      }
+    },
+    {
+      "id": "sonjuno99x-50",
+      "sourceId": 50,
+      "date": "1981-09-02",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Kurt Nimphius",
+      "participants": [
+        {
+          "name": "Kurt Nimphius",
+          "playerHref": "/players/n/nimphku01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -3484.3,
+            "vorp": 2.8000000000000003
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3484.3,
+        "vorp": 2.8000000000000003
+      },
+      "categoryValues": {
+        "bpm": -3484.3,
+        "vorp": 2.8000000000000003
+      },
+      "runningValues": {
+        "bpm": -40225.000000000015,
+        "vorp": 0.2999999999999816
+      }
+    },
+    {
+      "id": "sonjuno99x-51",
+      "sourceId": 51,
+      "date": "1981-09-25",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Sent out Brad Branson",
+      "participants": [
+        {
+          "name": "Brad Branson",
+          "playerHref": "/players/b/bransbr01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -40225.000000000015,
+        "vorp": 0.2999999999999816
+      }
+    },
+    {
+      "id": "sonjuno99x-52",
+      "sourceId": 52,
+      "date": "1981-12-28",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Clarence Kea",
+      "participants": [
+        {
+          "name": "Clarence Kea",
+          "playerHref": "/players/k/keacl01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -892.8000000000001,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -892.8000000000001,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -892.8000000000001,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -41117.80000000002,
+        "vorp": 0.1999999999999816
+      }
+    },
+    {
+      "id": "sonjuno99x-53",
+      "sourceId": 53,
+      "date": "1982-06-28",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Kelvin Ransey; Sent out Wayne Cooper and Terry Porter",
+      "participants": [
+        {
+          "name": "Wayne Cooper",
+          "playerHref": "/players/c/coopewa01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 11817,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Terry Porter",
+          "playerHref": "/players/p/portete01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -80667.8,
+            "vorp": -32.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kelvin Ransey",
+          "playerHref": "/players/r/ranseke01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -1607,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -70457.8,
+        "vorp": -32
+      },
+      "categoryValues": {
+        "bpm": -70457.8,
+        "vorp": -32
+      },
+      "runningValues": {
+        "bpm": -111575.60000000002,
+        "vorp": -31.80000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-54",
+      "sourceId": 54,
+      "date": "1982-06-28",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Pat Cummings; Sent out Fred Roberts",
+      "participants": [
+        {
+          "name": "Fred Roberts",
+          "playerHref": "/players/r/roberfr01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 11394.1,
+            "vorp": -1.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Pat Cummings",
+          "playerHref": "/players/c/cummipa01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -8673.7,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2720.3999999999996,
+        "vorp": -1.5
+      },
+      "categoryValues": {
+        "bpm": 2720.3999999999996,
+        "vorp": -1.5
+      },
+      "runningValues": {
+        "bpm": -108855.20000000001,
+        "vorp": -33.30000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-55",
+      "sourceId": 55,
+      "date": "1982-06-29",
+      "type": "draft",
+      "tenureTeam": "DAL",
+      "summary": "Drafted Bill Garnett, Corny Thompson, Rudy Woods, Kenny Arnold, Wayne Waggoner, Bob Grady, Keith Peterson, Ralph McPherson, and Albert Culton",
+      "participants": [
+        {
+          "name": "Bill Garnett",
+          "playerHref": "/players/g/garnebi02.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 1293.5,
+            "vorp": 1.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Corny Thompson",
+          "playerHref": "/players/t/thompco01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -3068,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rudy Woods",
+          "playerHref": "/players/w/woodsru01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kenny Arnold",
+          "playerHref": "/players/a/arnolke01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Wayne Waggoner",
+          "playerHref": "/players/w/waggowa01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bob Grady",
+          "playerHref": "/players/g/gradybo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Keith Peterson",
+          "playerHref": "/players/p/peterke01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ralph McPherson",
+          "playerHref": "/players/m/mcphera01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Albert Culton",
+          "playerHref": "/players/c/cultoal01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1774.5,
+        "vorp": 1.3
+      },
+      "categoryValues": {
+        "bpm": -1774.5,
+        "vorp": 1.3
+      },
+      "runningValues": {
+        "bpm": -110629.70000000001,
+        "vorp": -32.000000000000014
+      }
+    },
+    {
+      "id": "sonjuno99x-57",
+      "sourceId": 57,
+      "date": "1983-06-28",
+      "type": "draft",
+      "tenureTeam": "DAL",
+      "summary": "Drafted Dale Ellis, Derek Harper, Mark West, Dirk Minniefield, Johnny Martin, Jim Lampley, Billy Allen, Terrell Schlundt, Bill Sadler, Sherrod Arnold, and Clyde Corley",
+      "participants": [
+        {
+          "name": "Dale Ellis",
+          "playerHref": "/players/e/ellisda01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -4833,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Derek Harper",
+          "playerHref": "/players/h/harpede01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 64437.69999999998,
+            "vorp": 30.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mark West",
+          "playerHref": "/players/w/westma01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -1272.6,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dirk Minniefield",
+          "playerHref": "/players/m/minnidi01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Johnny Martin",
+          "playerHref": "/players/m/martijo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jim Lampley",
+          "playerHref": "/players/l/lamplji01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Billy Allen",
+          "playerHref": "/players/a/allenbi02.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Terrell Schlundt",
+          "playerHref": "/players/s/schlute01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bill Sadler",
+          "playerHref": "/players/s/sadlebi01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sherrod Arnold",
+          "playerHref": "/players/a/arnolsh01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Clyde Corley",
+          "playerHref": "/players/c/corlecl01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 58332.099999999984,
+        "vorp": 30.4
+      },
+      "categoryValues": {
+        "bpm": 58332.099999999984,
+        "vorp": 30.4
+      },
+      "runningValues": {
+        "bpm": -52297.60000000003,
+        "vorp": -1.600000000000015
+      }
+    },
+    {
+      "id": "sonjuno99x-58",
+      "sourceId": 58,
+      "date": "1983-06-29",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Milt Wagner and Steve Alford; Sent out Dirk Minniefield and Andrew Kennedy",
+      "participants": [
+        {
+          "name": "Dirk Minniefield",
+          "playerHref": "/players/m/minnidi01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Andrew Kennedy",
+          "playerHref": "/players/k/kennean01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Milt Wagner",
+          "playerHref": "/players/w/wagnemi01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Alford",
+          "playerHref": "/players/a/alforst01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -52297.60000000003,
+        "vorp": -1.600000000000015
+      }
+    },
+    {
+      "id": "sonjuno99x-59",
+      "sourceId": 59,
+      "date": "1983-08-12",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Foots Walker, Tom Sluby, and Bill Wennington; Sent out Kelvin Ransey",
+      "participants": [
+        {
+          "name": "Kelvin Ransey",
+          "playerHref": "/players/r/ranseke01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 2544.6,
+            "vorp": -2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Foots Walker",
+          "playerHref": "/players/w/walkefo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tom Sluby",
+          "playerHref": "/players/s/slubyto01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bill Wennington",
+          "playerHref": "/players/w/wennibi01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2544.6,
+        "vorp": -2
+      },
+      "categoryValues": {
+        "bpm": 2544.6,
+        "vorp": -2
+      },
+      "runningValues": {
+        "bpm": -49753.00000000003,
+        "vorp": -3.6000000000000147
+      }
+    },
+    {
+      "id": "sonjuno99x-60",
+      "sourceId": 60,
+      "date": "1984-02-20",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Roger Phegley",
+      "participants": [
+        {
+          "name": "Roger Phegley",
+          "playerHref": "/players/p/pheglro01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -49753.00000000003,
+        "vorp": -3.6000000000000147
+      }
+    },
+    {
+      "id": "sonjuno99x-61",
+      "sourceId": 61,
+      "date": "1984-02-20",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Roger Phegley",
+      "participants": [
+        {
+          "name": "Roger Phegley",
+          "playerHref": "/players/p/pheglro01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -463.59999999999997,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -463.59999999999997,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -463.59999999999997,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -50216.60000000003,
+        "vorp": -3.800000000000015
+      }
+    },
+    {
+      "id": "sonjuno99x-62",
+      "sourceId": 62,
+      "date": "1984-06-19",
+      "type": "draft",
+      "tenureTeam": "DAL",
+      "summary": "Drafted Sam Perkins, Terence Stansbury, Charlie Sitton, Anthony Teachey, Tom Sluby, Jeff Cross, John Horrocks, Dave Williams, LaVerne Evans, George Turner, Leroy Sutton, John Tudor, and Napoleon Johnson",
+      "participants": [
+        {
+          "name": "Sam Perkins",
+          "playerHref": "/players/p/perkisa01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 8206.3,
+            "vorp": 10
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Terence Stansbury",
+          "playerHref": "/players/s/stanste01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Charlie Sitton",
+          "playerHref": "/players/s/sittoch01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -1611.2,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Anthony Teachey",
+          "playerHref": "/players/t/teachan01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tom Sluby",
+          "playerHref": "/players/s/slubyto01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -513.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jeff Cross",
+          "playerHref": "/players/c/crossje01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Horrocks",
+          "playerHref": "/players/h/horrojo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dave Williams",
+          "playerHref": "/players/w/willida04.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "LaVerne Evans",
+          "playerHref": "/players/e/evansla01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "George Turner",
+          "playerHref": "/players/t/turnege01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Leroy Sutton",
+          "playerHref": "/players/s/suttole01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Tudor",
+          "playerHref": "/players/t/tudorjo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Napoleon Johnson",
+          "playerHref": "/players/j/johnsna02.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 6081.7,
+        "vorp": 9.8
+      },
+      "categoryValues": {
+        "bpm": 6081.7,
+        "vorp": 9.8
+      },
+      "runningValues": {
+        "bpm": -44134.90000000003,
+        "vorp": 5.999999999999985
+      }
+    },
+    {
+      "id": "sonjuno99x-65",
+      "sourceId": 65,
+      "date": "1984-09-14",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Wallace Bryant; Sent out Rafael Addison",
+      "participants": [
+        {
+          "name": "Rafael Addison",
+          "playerHref": "/players/a/addisra01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Wallace Bryant",
+          "playerHref": "/players/b/bryanwa01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -601.9999999999999,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -601.9999999999999,
+        "vorp": 0.3
+      },
+      "categoryValues": {
+        "bpm": -601.9999999999999,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": -44736.90000000003,
+        "vorp": 6.299999999999985
+      }
+    },
+    {
+      "id": "sonjuno99x-66",
+      "sourceId": 66,
+      "date": "1984-10-22",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Travis Mays; Sent out Bill Garnett and Terence Stansbury",
+      "participants": [
+        {
+          "name": "Bill Garnett",
+          "playerHref": "/players/g/garnebi02.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 5269.400000000001,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Terence Stansbury",
+          "playerHref": "/players/s/stanste01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 8870.599999999999,
+            "vorp": 1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Travis Mays",
+          "playerHref": "/players/m/maystr01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 14140,
+        "vorp": 1.2
+      },
+      "categoryValues": {
+        "bpm": 14140,
+        "vorp": 1.2
+      },
+      "runningValues": {
+        "bpm": -30596.90000000003,
+        "vorp": 7.499999999999985
+      }
+    },
+    {
+      "id": "sonjuno99x-67",
+      "sourceId": 67,
+      "date": "1985-05-01",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Terry Porter and Jose Vargas; Sent out Sam Vincent",
+      "participants": [
+        {
+          "name": "Sam Vincent",
+          "playerHref": "/players/v/vincesa01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 2933.7999999999997,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Terry Porter",
+          "playerHref": "/players/p/portete01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jose Vargas",
+          "playerHref": "/players/v/vargajo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2933.7999999999997,
+        "vorp": 0.3
+      },
+      "categoryValues": {
+        "bpm": 2933.7999999999997,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": -27663.10000000003,
+        "vorp": 7.799999999999985
+      }
+    },
+    {
+      "id": "sonjuno99x-68",
+      "sourceId": 68,
+      "date": "1985-06-18",
+      "type": "draft",
+      "tenureTeam": "DAL",
+      "summary": "Drafted Detlef Schrempf, Bill Wennington, Uwe Blab, Mark Acres, Leonard Allen, Harold Keeling, Bubba Jennings, Tommy Davis, Carlton Cooper, and Ed Catchings",
+      "participants": [
+        {
+          "name": "Detlef Schrempf",
+          "playerHref": "/players/s/schrede01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -5854.6,
+            "vorp": 1.0999999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bill Wennington",
+          "playerHref": "/players/w/wennibi01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -12823.900000000001,
+            "vorp": -1.7000000000000002
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Uwe Blab",
+          "playerHref": "/players/b/blabuw01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -6648.3,
+            "vorp": -1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mark Acres",
+          "playerHref": "/players/a/acresma01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Leonard Allen",
+          "playerHref": "/players/a/allenle01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Harold Keeling",
+          "playerHref": "/players/k/keeliha01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bubba Jennings",
+          "playerHref": "/players/j/jennibu01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tommy Davis",
+          "playerHref": "/players/d/davisto02.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Carlton Cooper",
+          "playerHref": "/players/c/coopeca01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ed Catchings",
+          "playerHref": "/players/c/catched01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -25326.8,
+        "vorp": -1.6000000000000003
+      },
+      "categoryValues": {
+        "bpm": -25536.8,
+        "vorp": -1.6000000000000003
+      },
+      "runningValues": {
+        "bpm": -52989.90000000004,
+        "vorp": 6.199999999999984
+      }
+    },
+    {
+      "id": "sonjuno99x-69",
+      "sourceId": 69,
+      "date": "1985-06-26",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Wallace Bryant",
+      "participants": [
+        {
+          "name": "Wallace Bryant",
+          "playerHref": "/players/b/bryanwa01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -831.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -831.6,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -831.6,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -53821.50000000004,
+        "vorp": 6.0999999999999845
+      }
+    },
+    {
+      "id": "sonjuno99x-70",
+      "sourceId": 70,
+      "date": "1985-08-23",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Dennis Nutt",
+      "participants": [
+        {
+          "name": "Dennis Nutt",
+          "playerHref": "/players/n/nuttde01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -53821.50000000004,
+        "vorp": 6.0999999999999845
+      }
+    },
+    {
+      "id": "sonjuno99x-71",
+      "sourceId": 71,
+      "date": "1985-09-20",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Sent out Jeff Cross",
+      "participants": [
+        {
+          "name": "Jeff Cross",
+          "playerHref": "/players/c/crossje01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -53821.50000000004,
+        "vorp": 6.0999999999999845
+      }
+    },
+    {
+      "id": "sonjuno99x-72",
+      "sourceId": 72,
+      "date": "1985-11-25",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added James Donaldson; Sent out Kurt Nimphius",
+      "participants": [
+        {
+          "name": "Kurt Nimphius",
+          "playerHref": "/players/n/nimphku01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 9260.5,
+            "vorp": 1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "James Donaldson",
+          "playerHref": "/players/d/donalja01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -5680.8,
+            "vorp": 6.3999999999999995
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3579.7,
+        "vorp": 7.3999999999999995
+      },
+      "categoryValues": {
+        "bpm": 3579.7,
+        "vorp": 7.3999999999999995
+      },
+      "runningValues": {
+        "bpm": -50241.80000000004,
+        "vorp": 13.499999999999984
+      }
+    },
+    {
+      "id": "sonjuno99x-73",
+      "sourceId": 73,
+      "date": "1986-01-23",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Rookie contract for Harold Keeling",
+      "participants": [
+        {
+          "name": "Harold Keeling",
+          "playerHref": "/players/k/keeliha01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -210,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -210,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -50451.80000000004,
+        "vorp": 13.499999999999984
+      }
+    },
+    {
+      "id": "sonjuno99x-74",
+      "sourceId": 74,
+      "date": "1986-06-17",
+      "type": "draft",
+      "tenureTeam": "DAL",
+      "summary": "Drafted Roy Tarpley, Mark Price, Milt Wagner, Anthony Welch, Myron Jackson, Jay Bilas, Greg Anderson, and Kim Cooksey",
+      "participants": [
+        {
+          "name": "Roy Tarpley",
+          "playerHref": "/players/t/tarplro01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -1463.6999999999998,
+            "vorp": 3.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mark Price",
+          "playerHref": "/players/p/pricema01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Milt Wagner",
+          "playerHref": "/players/w/wagnemi01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Anthony Welch",
+          "playerHref": "/players/w/welchan01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Myron Jackson",
+          "playerHref": "/players/j/jacksmy01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -123.19999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jay Bilas",
+          "playerHref": "/players/b/bilasja01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Greg Anderson",
+          "playerHref": "/players/a/andergr02.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kim Cooksey",
+          "playerHref": "/players/c/cookski01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1586.8999999999999,
+        "vorp": 3.3
+      },
+      "categoryValues": {
+        "bpm": -1586.8999999999999,
+        "vorp": 3.3
+      },
+      "runningValues": {
+        "bpm": -52038.70000000003,
+        "vorp": 16.799999999999983
+      }
+    },
+    {
+      "id": "sonjuno99x-75",
+      "sourceId": 75,
+      "date": "1986-06-17",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Jeff Hodge; Sent out Mark Price",
+      "participants": [
+        {
+          "name": "Mark Price",
+          "playerHref": "/players/p/pricema01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -78941.5,
+            "vorp": -29.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jeff Hodge",
+          "playerHref": "/players/h/hodgeje01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -78941.5,
+        "vorp": -29.1
+      },
+      "categoryValues": {
+        "bpm": -78941.5,
+        "vorp": -29.1
+      },
+      "runningValues": {
+        "bpm": -130980.20000000004,
+        "vorp": -12.300000000000018
+      }
+    },
+    {
+      "id": "sonjuno99x-76",
+      "sourceId": 76,
+      "date": "1986-07-23",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Al Wood; Sent out Dale Ellis",
+      "participants": [
+        {
+          "name": "Dale Ellis",
+          "playerHref": "/players/e/ellisda01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": -30255.300000000003,
+            "vorp": -15.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Al Wood",
+          "playerHref": "/players/w/woodal01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -2233.7999999999997,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -32489.100000000002,
+        "vorp": -15.5
+      },
+      "categoryValues": {
+        "bpm": -32489.100000000002,
+        "vorp": -15.5
+      },
+      "runningValues": {
+        "bpm": -163469.30000000005,
+        "vorp": -27.80000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-77",
+      "sourceId": 77,
+      "date": "1986-09-03",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Willie Burton; Sent out Jay Vincent",
+      "participants": [
+        {
+          "name": "Jay Vincent",
+          "playerHref": "/players/v/vinceja01.html",
+          "direction": "out",
+          "teamCode": "WSB",
+          "values": {
+            "bpm": 3465,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Willie Burton",
+          "playerHref": "/players/b/burtowi01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3465,
+        "vorp": 0.2
+      },
+      "categoryValues": {
+        "bpm": 3465,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -160004.30000000005,
+        "vorp": -27.60000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-78",
+      "sourceId": 78,
+      "date": "1986-09-25",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Dennis Nutt",
+      "participants": [
+        {
+          "name": "Dennis Nutt",
+          "playerHref": "/players/n/nuttde01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -160004.30000000005,
+        "vorp": -27.60000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-79",
+      "sourceId": 79,
+      "date": "1986-12-30",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Dennis Nutt",
+      "participants": [
+        {
+          "name": "Dennis Nutt",
+          "playerHref": "/players/n/nuttde01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 218.4,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 218.4,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 218.4,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -159785.90000000005,
+        "vorp": -27.500000000000018
+      }
+    },
+    {
+      "id": "sonjuno99x-81",
+      "sourceId": 81,
+      "date": "1987-06-22",
+      "type": "draft",
+      "tenureTeam": "DAL",
+      "summary": "Drafted Jim Farmer, Steve Alford, Mike Richmond, David Johnson, Sam Hill, Quintan Gates, and Gerald White",
+      "participants": [
+        {
+          "name": "Jim Farmer",
+          "playerHref": "/players/f/farmeji01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -1554.3,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Alford",
+          "playerHref": "/players/a/alforst01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -383.9,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Richmond",
+          "playerHref": "/players/r/richmmi02.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "David Johnson",
+          "playerHref": "/players/j/johnsda06.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sam Hill",
+          "playerHref": "/players/h/hillsa01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Quintan Gates",
+          "playerHref": "/players/g/gatesqu01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Gerald White",
+          "playerHref": "/players/w/whitege01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1938.1999999999998,
+        "vorp": -0.3
+      },
+      "categoryValues": {
+        "bpm": -959.3999999999999,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -161724.10000000003,
+        "vorp": -27.80000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-82",
+      "sourceId": 82,
+      "date": "1988-06-23",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Sent out Kevin Edwards",
+      "participants": [
+        {
+          "name": "Kevin Edwards",
+          "playerHref": "/players/e/edwarke01.html",
+          "direction": "out",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": 8780.800000000001,
+            "vorp": -2.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 8780.800000000001,
+        "vorp": -2.7
+      },
+      "categoryValues": {
+        "bpm": 8780.800000000001,
+        "vorp": -2.7
+      },
+      "runningValues": {
+        "bpm": -152943.30000000005,
+        "vorp": -30.500000000000018
+      }
+    },
+    {
+      "id": "sonjuno99x-83",
+      "sourceId": 83,
+      "date": "1988-06-28",
+      "type": "draft",
+      "tenureTeam": "DAL",
+      "summary": "Drafted Morlon Wiley, José Vargas, and Jerry Johnson",
+      "participants": [
+        {
+          "name": "Morlon Wiley",
+          "playerHref": "/players/w/wileymo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -979.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "José Vargas",
+          "playerHref": "/players/v/vargajo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jerry Johnson",
+          "playerHref": "/players/j/johnsje01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -979.2,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -2210.8,
+        "vorp": 0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -153922.50000000006,
+        "vorp": -30.500000000000018
+      }
+    },
+    {
+      "id": "sonjuno99x-84",
+      "sourceId": 84,
+      "date": "1988-10-05",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Bob McCann",
+      "participants": [
+        {
+          "name": "Bob McCann",
+          "playerHref": "/players/m/mccanbo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -153922.50000000006,
+        "vorp": -30.500000000000018
+      }
+    },
+    {
+      "id": "sonjuno99x-85",
+      "sourceId": 85,
+      "date": "1988-11-01",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Terry Tyler",
+      "participants": [
+        {
+          "name": "Terry Tyler",
+          "playerHref": "/players/t/tylerte01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -2431.1,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2431.1,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -2431.1,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -156353.60000000006,
+        "vorp": -30.60000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-86",
+      "sourceId": 86,
+      "date": "1989-01-22",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Anthony Jones",
+      "participants": [
+        {
+          "name": "Anthony Jones",
+          "playerHref": "/players/j/jonesan01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -156353.60000000006,
+        "vorp": -30.60000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-87",
+      "sourceId": 87,
+      "date": "1989-02-14",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Anthony Jones",
+      "participants": [
+        {
+          "name": "Anthony Jones",
+          "playerHref": "/players/j/jonesan01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 366.8000000000002,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 366.8000000000002,
+        "vorp": 0.2
+      },
+      "categoryValues": {
+        "bpm": 366.8000000000002,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -155986.80000000008,
+        "vorp": -30.40000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-88",
+      "sourceId": 88,
+      "date": "1989-02-15",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Adrian Dantley and LaBradford Smith; Sent out Mark Aguirre",
+      "participants": [
+        {
+          "name": "Mark Aguirre",
+          "playerHref": "/players/a/aguirma01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -2926.599999999999,
+            "vorp": -4.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Adrian Dantley",
+          "playerHref": "/players/d/dantlad01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -1925.3,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "LaBradford Smith",
+          "playerHref": "/players/s/smithla02.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4851.899999999999,
+        "vorp": -3.8999999999999995
+      },
+      "categoryValues": {
+        "bpm": -4851.899999999999,
+        "vorp": -3.8999999999999995
+      },
+      "runningValues": {
+        "bpm": -160838.70000000007,
+        "vorp": -34.30000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-89",
+      "sourceId": 89,
+      "date": "1989-02-21",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Herb Williams; Sent out Detlef Schrempf and Antonio Davis",
+      "participants": [
+        {
+          "name": "Detlef Schrempf",
+          "playerHref": "/players/s/schrede01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -28732.1,
+            "vorp": -13.099999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Antonio Davis",
+          "playerHref": "/players/d/davisan01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 7951.000000000001,
+            "vorp": -3.3000000000000003
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Herb Williams",
+          "playerHref": "/players/w/willihe01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -16756.5,
+            "vorp": -0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -37537.6,
+        "vorp": -17.2
+      },
+      "categoryValues": {
+        "bpm": -37537.6,
+        "vorp": -17.2
+      },
+      "runningValues": {
+        "bpm": -198376.30000000008,
+        "vorp": -51.500000000000014
+      }
+    },
+    {
+      "id": "sonjuno99x-90",
+      "sourceId": 90,
+      "date": "1989-06-27",
+      "type": "draft",
+      "tenureTeam": "DAL",
+      "summary": "Drafted Randy White, Pat Durham, and Jeff Hodge",
+      "participants": [
+        {
+          "name": "Randy White",
+          "playerHref": "/players/w/whitera01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -26565.4,
+            "vorp": -4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Pat Durham",
+          "playerHref": "/players/d/durhapa01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jeff Hodge",
+          "playerHref": "/players/h/hodgeje01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -26565.4,
+        "vorp": -4
+      },
+      "categoryValues": {
+        "bpm": -26565.4,
+        "vorp": -4
+      },
+      "runningValues": {
+        "bpm": -224941.70000000007,
+        "vorp": -55.500000000000014
+      }
+    },
+    {
+      "id": "sonjuno99x-91",
+      "sourceId": 91,
+      "date": "1989-07-05",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Anthony Jones",
+      "participants": [
+        {
+          "name": "Anthony Jones",
+          "playerHref": "/players/j/jonesan01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -2600,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2600,
+        "vorp": -0.3
+      },
+      "categoryValues": {
+        "bpm": -2600,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -227541.70000000007,
+        "vorp": -55.80000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-92",
+      "sourceId": 92,
+      "date": "1989-09-02",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Andre Moore",
+      "participants": [
+        {
+          "name": "Andre Moore",
+          "playerHref": "/players/m/moorean01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -227541.70000000007,
+        "vorp": -55.80000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-93",
+      "sourceId": 93,
+      "date": "1989-09-22",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Orlando Graham",
+      "participants": [
+        {
+          "name": "Orlando Graham",
+          "playerHref": "/players/g/grahaor01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -227541.70000000007,
+        "vorp": -55.80000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-94",
+      "sourceId": 94,
+      "date": "1989-10-03",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed John Long",
+      "participants": [
+        {
+          "name": "John Long",
+          "playerHref": "/players/l/longjo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -227541.70000000007,
+        "vorp": -55.80000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-95",
+      "sourceId": 95,
+      "date": "1989-10-05",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Rookie contract for Steve Alford",
+      "participants": [
+        {
+          "name": "Steve Alford",
+          "playerHref": "/players/a/alforst01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 978.8000000000001,
+            "vorp": 0.5
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 978.8000000000001,
+        "vorp": 0.5
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -226562.90000000008,
+        "vorp": -55.30000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-96",
+      "sourceId": 96,
+      "date": "1989-10-26",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Eric Riley; Sent out Pat Durham",
+      "participants": [
+        {
+          "name": "Pat Durham",
+          "playerHref": "/players/d/durhapa01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eric Riley",
+          "playerHref": "/players/r/rileyer01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -226562.90000000008,
+        "vorp": -55.30000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-99",
+      "sourceId": 99,
+      "date": "1990-01-06",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Kelvin Upshaw",
+      "participants": [
+        {
+          "name": "Kelvin Upshaw",
+          "playerHref": "/players/u/upshake01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -52,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -52,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -52,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -226614.90000000008,
+        "vorp": -55.30000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-100",
+      "sourceId": 100,
+      "date": "1990-02-12",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Bob McCann",
+      "participants": [
+        {
+          "name": "Bob McCann",
+          "playerHref": "/players/m/mccanbo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -226614.90000000008,
+        "vorp": -55.30000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-101",
+      "sourceId": 101,
+      "date": "1990-03-05",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Bob McCann",
+      "participants": [
+        {
+          "name": "Bob McCann",
+          "playerHref": "/players/m/mccanbo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -248,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -248,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -248,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -226862.90000000008,
+        "vorp": -55.30000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-102",
+      "sourceId": 102,
+      "date": "1990-04-09",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Mark Wade",
+      "participants": [
+        {
+          "name": "Mark Wade",
+          "playerHref": "/players/w/wadema01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 21.299999999999997,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 21.299999999999997,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 21.299999999999997,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -226841.6000000001,
+        "vorp": -55.30000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-103",
+      "sourceId": 103,
+      "date": "1990-06-21",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Fat Lever; Sent out Willie Burton and LaBradford Smith",
+      "participants": [
+        {
+          "name": "Willie Burton",
+          "playerHref": "/players/b/burtowi01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "LaBradford Smith",
+          "playerHref": "/players/s/smithla02.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Fat Lever",
+          "playerHref": "/players/l/leverfa01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 1883.3,
+            "vorp": 1.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1883.3,
+        "vorp": 1.9
+      },
+      "categoryValues": {
+        "bpm": 1883.3,
+        "vorp": 1.9
+      },
+      "runningValues": {
+        "bpm": -224958.3000000001,
+        "vorp": -53.40000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-104",
+      "sourceId": 104,
+      "date": "1990-06-26",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Rodney McCray, Phil Henderson, and Mike Iuzzolino; Sent out Bill Wennington, Duane Causwell, and Travis Mays",
+      "participants": [
+        {
+          "name": "Bill Wennington",
+          "playerHref": "/players/w/wennibi01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 4404.599999999999,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Duane Causwell",
+          "playerHref": "/players/c/causwdu01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 15753.6,
+            "vorp": -0.19999999999999996
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Travis Mays",
+          "playerHref": "/players/m/maystr01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 4075.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rodney McCray",
+          "playerHref": "/players/m/mccraro01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 455,
+            "vorp": 2.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Phil Henderson",
+          "playerHref": "/players/h/hendeph01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Iuzzolino",
+          "playerHref": "/players/i/iuzzomi01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 24688.7,
+        "vorp": 2.6
+      },
+      "categoryValues": {
+        "bpm": 24688.7,
+        "vorp": 2.6
+      },
+      "runningValues": {
+        "bpm": -200269.6000000001,
+        "vorp": -50.80000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-105",
+      "sourceId": 105,
+      "date": "1990-06-27",
+      "type": "draft",
+      "tenureTeam": "DAL",
+      "summary": "Drafted Phil Henderson",
+      "participants": [
+        {
+          "name": "Phil Henderson",
+          "playerHref": "/players/h/hendeph01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -200269.6000000001,
+        "vorp": -50.80000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-106",
+      "sourceId": 106,
+      "date": "1990-07-19",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Bob McCann",
+      "participants": [
+        {
+          "name": "Bob McCann",
+          "playerHref": "/players/m/mccanbo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -200269.6000000001,
+        "vorp": -50.80000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-107",
+      "sourceId": 107,
+      "date": "1990-08-15",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Alex English",
+      "participants": [
+        {
+          "name": "Alex English",
+          "playerHref": "/players/e/englial01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -6467.6,
+            "vorp": -0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6467.6,
+        "vorp": -0.8
+      },
+      "categoryValues": {
+        "bpm": -6467.6,
+        "vorp": -0.8
+      },
+      "runningValues": {
+        "bpm": -206737.2000000001,
+        "vorp": -51.600000000000016
+      }
+    },
+    {
+      "id": "sonjuno99x-108",
+      "sourceId": 108,
+      "date": "1990-09-30",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Jesse Spinner",
+      "participants": [
+        {
+          "name": "Jesse Spinner",
+          "playerHref": "/players/s/spinnje01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -206737.2000000001,
+        "vorp": -51.600000000000016
+      }
+    },
+    {
+      "id": "sonjuno99x-109",
+      "sourceId": 109,
+      "date": "1990-10-01",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Jim Grandholm",
+      "participants": [
+        {
+          "name": "Jim Grandholm",
+          "playerHref": "/players/g/grandji01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -206737.2000000001,
+        "vorp": -51.600000000000016
+      }
+    },
+    {
+      "id": "sonjuno99x-110",
+      "sourceId": 110,
+      "date": "1990-10-01",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed John Shasky",
+      "participants": [
+        {
+          "name": "John Shasky",
+          "playerHref": "/players/s/shaskjo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -2244,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2244,
+        "vorp": -0.3
+      },
+      "categoryValues": {
+        "bpm": -2244,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -208981.2000000001,
+        "vorp": -51.90000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-111",
+      "sourceId": 111,
+      "date": "1990-10-01",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Kelvin Upshaw",
+      "participants": [
+        {
+          "name": "Kelvin Upshaw",
+          "playerHref": "/players/u/upshake01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -208981.2000000001,
+        "vorp": -51.90000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-112",
+      "sourceId": 112,
+      "date": "1990-11-11",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Jim Grandholm",
+      "participants": [
+        {
+          "name": "Jim Grandholm",
+          "playerHref": "/players/g/grandji01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -151.20000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -151.20000000000002,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -151.20000000000002,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -209132.4000000001,
+        "vorp": -51.90000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-113",
+      "sourceId": 113,
+      "date": "1990-11-12",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Kelvin Upshaw",
+      "participants": [
+        {
+          "name": "Kelvin Upshaw",
+          "playerHref": "/players/u/upshake01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -209132.4000000001,
+        "vorp": -51.90000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-114",
+      "sourceId": 114,
+      "date": "1990-12-29",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Kelvin Upshaw",
+      "participants": [
+        {
+          "name": "Kelvin Upshaw",
+          "playerHref": "/players/u/upshake01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -51.400000000000006,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -51.400000000000006,
+        "vorp": 0.3
+      },
+      "categoryValues": {
+        "bpm": -51.400000000000006,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": -209183.8000000001,
+        "vorp": -51.600000000000016
+      }
+    },
+    {
+      "id": "sonjuno99x-115",
+      "sourceId": 115,
+      "date": "1991-01-05",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Howard Wright",
+      "participants": [
+        {
+          "name": "Howard Wright",
+          "playerHref": "/players/w/wrighho02.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 88,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 88,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 88,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -209095.8000000001,
+        "vorp": -51.600000000000016
+      }
+    },
+    {
+      "id": "sonjuno99x-116",
+      "sourceId": 116,
+      "date": "1991-06-26",
+      "type": "draft",
+      "tenureTeam": "DAL",
+      "summary": "Drafted Doug Smith, Donald Hodge, and Mike Iuzzolino",
+      "participants": [
+        {
+          "name": "Doug Smith",
+          "playerHref": "/players/s/smithdo03.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -19820.1,
+            "vorp": -2.0999999999999996
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Donald Hodge",
+          "playerHref": "/players/h/hodgedo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -14609.8,
+            "vorp": -1.9000000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Iuzzolino",
+          "playerHref": "/players/i/iuzzomi01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -5830.5,
+            "vorp": 0.09999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -40260.399999999994,
+        "vorp": -3.9
+      },
+      "categoryValues": {
+        "bpm": -40260.399999999994,
+        "vorp": -3.9
+      },
+      "runningValues": {
+        "bpm": -249356.2000000001,
+        "vorp": -55.500000000000014
+      }
+    },
+    {
+      "id": "sonjuno99x-117",
+      "sourceId": 117,
+      "date": "1991-08-06",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Terry Davis",
+      "participants": [
+        {
+          "name": "Terry Davis",
+          "playerHref": "/players/d/daviste01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -25650,
+            "vorp": -3.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -25650,
+        "vorp": -3.4
+      },
+      "categoryValues": {
+        "bpm": -25650,
+        "vorp": -3.4
+      },
+      "runningValues": {
+        "bpm": -275006.20000000007,
+        "vorp": -58.90000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-118",
+      "sourceId": 118,
+      "date": "1991-10-02",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed João Vianna",
+      "participants": [
+        {
+          "name": "João Vianna",
+          "playerHref": "/players/v/viannjo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -107.10000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -107.10000000000001,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -107.10000000000001,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -275113.30000000005,
+        "vorp": -58.90000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-119",
+      "sourceId": 119,
+      "date": "1992-01-17",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Tracy Moore",
+      "participants": [
+        {
+          "name": "Tracy Moore",
+          "playerHref": "/players/m/mooretr01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -275113.30000000005,
+        "vorp": -58.90000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-120",
+      "sourceId": 120,
+      "date": "1992-01-27",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Tony Brown",
+      "participants": [
+        {
+          "name": "Tony Brown",
+          "playerHref": "/players/b/brownto01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -275113.30000000005,
+        "vorp": -58.90000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-121",
+      "sourceId": 121,
+      "date": "1992-02-03",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Brian Howard",
+      "participants": [
+        {
+          "name": "Brian Howard",
+          "playerHref": "/players/h/howarbr01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -275113.30000000005,
+        "vorp": -58.90000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-122",
+      "sourceId": 122,
+      "date": "1992-02-06",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Tracy Moore",
+      "participants": [
+        {
+          "name": "Tracy Moore",
+          "playerHref": "/players/m/mooretr01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -2135.2,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2135.2,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": -2135.2,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -277248.50000000006,
+        "vorp": -58.80000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-123",
+      "sourceId": 123,
+      "date": "1992-02-20",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Brian Quinnett; Sent out James Donaldson",
+      "participants": [
+        {
+          "name": "James Donaldson",
+          "playerHref": "/players/d/donalja01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 842.4,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Brian Quinnett",
+          "playerHref": "/players/q/quinnbr01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -625.5999999999999,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 216.80000000000007,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 216.80000000000007,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -277031.7,
+        "vorp": -58.70000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-124",
+      "sourceId": 124,
+      "date": "1992-02-23",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Brian Howard",
+      "participants": [
+        {
+          "name": "Brian Howard",
+          "playerHref": "/players/h/howarbr01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -6011.4,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6011.4,
+        "vorp": -0.7
+      },
+      "categoryValues": {
+        "bpm": -6011.4,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": -283043.10000000003,
+        "vorp": -59.40000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-125",
+      "sourceId": 125,
+      "date": "1992-03-22",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Tom Garrick",
+      "participants": [
+        {
+          "name": "Tom Garrick",
+          "playerHref": "/players/g/garrito01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 81.9,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 81.9,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 81.9,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -282961.2,
+        "vorp": -59.30000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-126",
+      "sourceId": 126,
+      "date": "1992-06-24",
+      "type": "draft",
+      "tenureTeam": "DAL",
+      "summary": "Drafted Jim Jackson and Sean Rooks",
+      "participants": [
+        {
+          "name": "Jim Jackson",
+          "playerHref": "/players/j/jacksji01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -6482.800000000001,
+            "vorp": 3.5999999999999996
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sean Rooks",
+          "playerHref": "/players/r/rooksse01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -9945.1,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -16427.9,
+        "vorp": 3.3
+      },
+      "categoryValues": {
+        "bpm": -16427.9,
+        "vorp": 3.3
+      },
+      "runningValues": {
+        "bpm": -299389.1,
+        "vorp": -56.00000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-127",
+      "sourceId": 127,
+      "date": "1992-06-24",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Loren Meyer; Sent out Rolando Blackman",
+      "participants": [
+        {
+          "name": "Rolando Blackman",
+          "playerHref": "/players/b/blackro01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 2457.3,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Loren Meyer",
+          "playerHref": "/players/m/meyerlo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2457.3,
+        "vorp": -0.6
+      },
+      "categoryValues": {
+        "bpm": 2457.3,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": -296931.8,
+        "vorp": -56.60000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-128",
+      "sourceId": 128,
+      "date": "1992-08-24",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Dexter Cambridge",
+      "participants": [
+        {
+          "name": "Dexter Cambridge",
+          "playerHref": "/players/c/cambrde01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -3540,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3540,
+        "vorp": -0.5
+      },
+      "categoryValues": {
+        "bpm": -3540,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -300471.8,
+        "vorp": -57.10000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-129",
+      "sourceId": 129,
+      "date": "1992-09-18",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Darnell Robinson and Tony Dumas; Sent out Rodney McCray",
+      "participants": [
+        {
+          "name": "Rodney McCray",
+          "playerHref": "/players/m/mccraro01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 4483.6,
+            "vorp": 0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Darnell Robinson",
+          "playerHref": "/players/r/robinda03.html",
+          "direction": "in",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tony Dumas",
+          "playerHref": "/players/d/dumasto01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4483.6,
+        "vorp": 0.6
+      },
+      "categoryValues": {
+        "bpm": 4483.6,
+        "vorp": 0.6
+      },
+      "runningValues": {
+        "bpm": -295988.2,
+        "vorp": -56.50000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-130",
+      "sourceId": 130,
+      "date": "1992-10-01",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Steve Bardo",
+      "participants": [
+        {
+          "name": "Steve Bardo",
+          "playerHref": "/players/b/bardost01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -892.4999999999999,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -892.4999999999999,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -892.4999999999999,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -296880.7,
+        "vorp": -56.60000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-131",
+      "sourceId": 131,
+      "date": "1992-10-07",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Walter Bond",
+      "participants": [
+        {
+          "name": "Walter Bond",
+          "playerHref": "/players/b/bondwa01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -7890,
+            "vorp": -1.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -7890,
+        "vorp": -1.2
+      },
+      "categoryValues": {
+        "bpm": -7890,
+        "vorp": -1.2
+      },
+      "runningValues": {
+        "bpm": -304770.7,
+        "vorp": -57.80000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-132",
+      "sourceId": 132,
+      "date": "1992-10-07",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Mike Morrison",
+      "participants": [
+        {
+          "name": "Mike Morrison",
+          "playerHref": "/players/m/morrimi01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -304770.7,
+        "vorp": -57.80000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-133",
+      "sourceId": 133,
+      "date": "1992-10-08",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Walter Palmer",
+      "participants": [
+        {
+          "name": "Walter Palmer",
+          "playerHref": "/players/p/palmewa01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -731.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -731.6,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -731.6,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -305502.3,
+        "vorp": -57.90000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-134",
+      "sourceId": 134,
+      "date": "1992-10-15",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Radisav Ćurčić",
+      "participants": [
+        {
+          "name": "Radisav Ćurčić",
+          "playerHref": "/players/c/curcira01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -431.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -431.6,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -431.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -305933.89999999997,
+        "vorp": -57.90000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-137",
+      "sourceId": 137,
+      "date": "1993-02-04",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Lamont Strothers",
+      "participants": [
+        {
+          "name": "Lamont Strothers",
+          "playerHref": "/players/s/strotla01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -979.8,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -979.8,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -979.8,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -306913.69999999995,
+        "vorp": -58.100000000000016
+      }
+    },
+    {
+      "id": "sonjuno99x-138",
+      "sourceId": 138,
+      "date": "1993-02-16",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Rookie contract for Morlon Wiley",
+      "participants": [
+        {
+          "name": "Morlon Wiley",
+          "playerHref": "/players/w/wileymo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -306913.69999999995,
+        "vorp": -58.100000000000016
+      }
+    },
+    {
+      "id": "sonjuno99x-139",
+      "sourceId": 139,
+      "date": "1993-03-02",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Tim Legler",
+      "participants": [
+        {
+          "name": "Tim Legler",
+          "playerHref": "/players/l/legleti01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -306913.69999999995,
+        "vorp": -58.100000000000016
+      }
+    },
+    {
+      "id": "sonjuno99x-141",
+      "sourceId": 141,
+      "date": "1993-03-08",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Morlon Wiley",
+      "participants": [
+        {
+          "name": "Morlon Wiley",
+          "playerHref": "/players/w/wileymo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -1346.1000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1346.1000000000001,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -1346.1000000000001,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -308259.79999999993,
+        "vorp": -58.100000000000016
+      }
+    },
+    {
+      "id": "sonjuno99x-142",
+      "sourceId": 142,
+      "date": "1993-03-22",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Tim Legler",
+      "participants": [
+        {
+          "name": "Tim Legler",
+          "playerHref": "/players/l/legleti01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -145.60000000000002,
+            "vorp": 0.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -145.60000000000002,
+        "vorp": 0.9
+      },
+      "categoryValues": {
+        "bpm": -145.60000000000002,
+        "vorp": 0.9
+      },
+      "runningValues": {
+        "bpm": -308405.3999999999,
+        "vorp": -57.20000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-143",
+      "sourceId": 143,
+      "date": "1993-06-30",
+      "type": "draft",
+      "tenureTeam": "DAL",
+      "summary": "Drafted Jamal Mashburn, Lucious Harris, and Eric Riley",
+      "participants": [
+        {
+          "name": "Jamal Mashburn",
+          "playerHref": "/players/m/mashbja01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -8110.4,
+            "vorp": 1.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lucious Harris",
+          "playerHref": "/players/h/harrilu01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -1882.8,
+            "vorp": 1.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eric Riley",
+          "playerHref": "/players/r/rileyer01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -2393.6000000000004,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -12386.8,
+        "vorp": 3
+      },
+      "categoryValues": {
+        "bpm": -12386.8,
+        "vorp": 3
+      },
+      "runningValues": {
+        "bpm": -320792.1999999999,
+        "vorp": -54.20000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-144",
+      "sourceId": 144,
+      "date": "1993-06-30",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Popeye Jones; Sent out Eric Riley",
+      "participants": [
+        {
+          "name": "Eric Riley",
+          "playerHref": "/players/r/rileyer01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 876,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Popeye Jones",
+          "playerHref": "/players/j/jonespo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -17753.4,
+            "vorp": -1.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -16877.4,
+        "vorp": -1
+      },
+      "categoryValues": {
+        "bpm": -16877.4,
+        "vorp": -1
+      },
+      "runningValues": {
+        "bpm": -337669.5999999999,
+        "vorp": -55.20000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-145",
+      "sourceId": 145,
+      "date": "1993-10-07",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Greg Dreiling",
+      "participants": [
+        {
+          "name": "Greg Dreiling",
+          "playerHref": "/players/d/dreilgr01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -5849.5,
+            "vorp": -0.8999999999999999
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5849.5,
+        "vorp": -0.8999999999999999
+      },
+      "categoryValues": {
+        "bpm": -5849.5,
+        "vorp": -0.8999999999999999
+      },
+      "runningValues": {
+        "bpm": -343519.0999999999,
+        "vorp": -56.10000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-146",
+      "sourceId": 146,
+      "date": "1993-10-07",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Darren Morningstar",
+      "participants": [
+        {
+          "name": "Darren Morningstar",
+          "playerHref": "/players/m/mornida01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -1633.5,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1633.5,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1633.5,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -345152.5999999999,
+        "vorp": -56.30000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-147",
+      "sourceId": 147,
+      "date": "1993-11-12",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Chucky Brown",
+      "participants": [
+        {
+          "name": "Chucky Brown",
+          "playerHref": "/players/b/brownch01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -9,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -9,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -9,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -345161.5999999999,
+        "vorp": -56.30000000000001
+      }
+    },
+    {
+      "id": "sonjuno99x-148",
+      "sourceId": 148,
+      "date": "1994-01-06",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Tony Campbell and John Thomas; Sent out Derek Harper",
+      "participants": [
+        {
+          "name": "Derek Harper",
+          "playerHref": "/players/h/harpede01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -4742.8,
+            "vorp": -4.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tony Campbell",
+          "playerHref": "/players/c/campbto01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -2505,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Thomas",
+          "playerHref": "/players/t/thomajo02.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -7247.8,
+        "vorp": -4.8
+      },
+      "categoryValues": {
+        "bpm": -7247.8,
+        "vorp": -4.8
+      },
+      "runningValues": {
+        "bpm": -352409.3999999999,
+        "vorp": -61.100000000000016
+      }
+    },
+    {
+      "id": "sonjuno99x-149",
+      "sourceId": 149,
+      "date": "1994-02-14",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Lorenzo Williams",
+      "participants": [
+        {
+          "name": "Lorenzo Williams",
+          "playerHref": "/players/w/willilo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -352409.3999999999,
+        "vorp": -61.100000000000016
+      }
+    },
+    {
+      "id": "sonjuno99x-150",
+      "sourceId": 150,
+      "date": "1994-03-08",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Lorenzo Williams",
+      "participants": [
+        {
+          "name": "Lorenzo Williams",
+          "playerHref": "/players/w/willilo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -11164.1,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -11164.1,
+        "vorp": -0.4
+      },
+      "categoryValues": {
+        "bpm": -11164.1,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -363573.4999999999,
+        "vorp": -61.500000000000014
+      }
+    },
+    {
+      "id": "sonjuno99x-151",
+      "sourceId": 151,
+      "date": "1994-03-31",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Morlon Wiley",
+      "participants": [
+        {
+          "name": "Morlon Wiley",
+          "playerHref": "/players/w/wileymo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 114.5,
+            "vorp": 0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 114.5,
+        "vorp": 0.30000000000000004
+      },
+      "categoryValues": {
+        "bpm": 114.5,
+        "vorp": 0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -363458.9999999999,
+        "vorp": -61.20000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-154",
+      "sourceId": 154,
+      "date": "1994-06-29",
+      "type": "draft",
+      "tenureTeam": "DAL",
+      "summary": "Drafted Jason Kidd, Tony Dumas, and Deon Thomas",
+      "participants": [
+        {
+          "name": "Jason Kidd",
+          "playerHref": "/players/k/kiddja01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 45503.2,
+            "vorp": 20
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tony Dumas",
+          "playerHref": "/players/d/dumasto01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -6563.1,
+            "vorp": -0.6000000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Deon Thomas",
+          "playerHref": "/players/t/thomade02.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 38940.1,
+        "vorp": 19.4
+      },
+      "categoryValues": {
+        "bpm": 38940.1,
+        "vorp": 19.4
+      },
+      "runningValues": {
+        "bpm": -324518.89999999985,
+        "vorp": -41.80000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-155",
+      "sourceId": 155,
+      "date": "1994-10-03",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Greg Sutton",
+      "participants": [
+        {
+          "name": "Greg Sutton",
+          "playerHref": "/players/s/suttogr01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -324518.89999999985,
+        "vorp": -41.80000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-156",
+      "sourceId": 156,
+      "date": "1994-11-01",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Kelvin Cato; Sent out Sean Rooks",
+      "participants": [
+        {
+          "name": "Sean Rooks",
+          "playerHref": "/players/r/rooksse01.html",
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 8928.8,
+            "vorp": 0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kelvin Cato",
+          "playerHref": "/players/c/catoke01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 8928.8,
+        "vorp": 0.6
+      },
+      "categoryValues": {
+        "bpm": 8928.8,
+        "vorp": 0.6
+      },
+      "runningValues": {
+        "bpm": -315590.09999999986,
+        "vorp": -41.20000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-157",
+      "sourceId": 157,
+      "date": "1995-01-30",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed George McCloud",
+      "participants": [
+        {
+          "name": "George McCloud",
+          "playerHref": "/players/m/mccloge01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -315590.09999999986,
+        "vorp": -41.20000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-158",
+      "sourceId": 158,
+      "date": "1995-02-22",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed George McCloud",
+      "participants": [
+        {
+          "name": "George McCloud",
+          "playerHref": "/players/m/mccloge01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 5989.1,
+            "vorp": 3.9999999999999996
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5989.1,
+        "vorp": 3.9999999999999996
+      },
+      "categoryValues": {
+        "bpm": 5989.1,
+        "vorp": 3.9999999999999996
+      },
+      "runningValues": {
+        "bpm": -309600.9999999999,
+        "vorp": -37.20000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-159",
+      "sourceId": 159,
+      "date": "1995-02-23",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Scott Brooks; Sent out Morlon Wiley and Erik Meek",
+      "participants": [
+        {
+          "name": "Morlon Wiley",
+          "playerHref": "/players/w/wileymo01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Erik Meek",
+          "playerHref": "/players/m/meeker01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Scott Brooks",
+          "playerHref": "/players/b/brooksc01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 109.19999999999999,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 109.19999999999999,
+        "vorp": 0.8
+      },
+      "categoryValues": {
+        "bpm": 109.19999999999999,
+        "vorp": 0.8
+      },
+      "runningValues": {
+        "bpm": -309491.7999999999,
+        "vorp": -36.40000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-160",
+      "sourceId": 160,
+      "date": "1995-06-28",
+      "type": "draft",
+      "tenureTeam": "DAL",
+      "summary": "Drafted Cherokee Parks and Loren Meyer",
+      "participants": [
+        {
+          "name": "Cherokee Parks",
+          "playerHref": "/players/p/parksch02.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -3389.1,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Loren Meyer",
+          "playerHref": "/players/m/meyerlo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -10033.5,
+            "vorp": -1.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -13422.6,
+        "vorp": -2.1
+      },
+      "categoryValues": {
+        "bpm": -13422.6,
+        "vorp": -2.1
+      },
+      "runningValues": {
+        "bpm": -322914.39999999985,
+        "vorp": -38.50000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-161",
+      "sourceId": 161,
+      "date": "1996-01-10",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Reggie Slater",
+      "participants": [
+        {
+          "name": "Reggie Slater",
+          "playerHref": "/players/s/slatere01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -348.40000000000003,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -348.40000000000003,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -348.40000000000003,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -323262.7999999999,
+        "vorp": -38.60000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-162",
+      "sourceId": 162,
+      "date": "1996-02-01",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed David Wood",
+      "participants": [
+        {
+          "name": "David Wood",
+          "playerHref": "/players/w/woodda01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -323262.7999999999,
+        "vorp": -38.60000000000002
+      }
+    },
+    {
+      "id": "sonjuno99x-163",
+      "sourceId": 163,
+      "date": "1996-02-23",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed David Wood",
+      "participants": [
+        {
+          "name": "David Wood",
+          "playerHref": "/players/w/woodda01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -2760.6,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2760.6,
+        "vorp": -0.4
+      },
+      "categoryValues": {
+        "bpm": -2760.6,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -326023.39999999985,
+        "vorp": -39.00000000000002
+      }
+    }
+  ]
+}

@@ -1,10 +1,13 @@
 {
   "ci": {
     "collect": {
-      "url": ["http://127.0.0.1:4321/the-grunfeld/"],
+      "url": [
+        "http://127.0.0.1:4321/the-grunfeld/",
+        "http://127.0.0.1:4321/the-grunfeld/executives/moreyda99x/"
+      ],
       "numberOfRuns": 1,
       "startServerCommand": "npm run preview -- --host 127.0.0.1 --port 4321",
-      "startServerReadyPattern": "Local|server running at",
+      "startServerReadyPattern": "Local|Preview server|server running at",
       "startServerReadyTimeout": 120000,
       "settings": {
         "chromeFlags": "--no-sandbox"

@@ -1,0 +1,123 @@
+{
+  "slug": "gregoed99x",
+  "sourceRowCount": 5,
+  "tenures": [
+    {
+      "teamCode": "GSW",
+      "startDate": "1995-02-18",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "gregoed99x-1",
+      "sourceId": 1,
+      "date": "1995-02-18",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Donyell Marshall; Sent out Tom Gugliotta",
+      "participants": [
+        {
+          "name": "Tom Gugliotta",
+          "playerHref": "/players/g/guglito01.html",
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": -16783.100000000002,
+            "vorp": -8.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Donyell Marshall",
+          "playerHref": "/players/m/marshdo01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1850.6999999999998,
+            "vorp": 3.9999999999999996
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -18633.800000000003,
+        "vorp": -4.5
+      },
+      "categoryValues": {
+        "bpm": -18633.800000000003,
+        "vorp": -4.5
+      },
+      "runningValues": {
+        "bpm": -18633.800000000003,
+        "vorp": -4.5
+      }
+    },
+    {
+      "id": "gregoed99x-2",
+      "sourceId": 2,
+      "date": "1995-03-07",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Tim Legler",
+      "participants": [
+        {
+          "name": "Tim Legler",
+          "playerHref": "/players/l/legleti01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -18633.800000000003,
+        "vorp": -4.5
+      }
+    },
+    {
+      "id": "gregoed99x-3",
+      "sourceId": 3,
+      "date": "1995-03-27",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Tim Legler",
+      "participants": [
+        {
+          "name": "Tim Legler",
+          "playerHref": "/players/l/legleti01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1077.3999999999999,
+            "vorp": 0.09999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1077.3999999999999,
+        "vorp": 0.09999999999999998
+      },
+      "categoryValues": {
+        "bpm": -1077.3999999999999,
+        "vorp": 0.09999999999999998
+      },
+      "runningValues": {
+        "bpm": -19711.200000000004,
+        "vorp": -4.4
+      }
+    }
+  ]
+}

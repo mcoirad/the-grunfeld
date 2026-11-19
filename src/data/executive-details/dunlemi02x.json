@@ -1,0 +1,2499 @@
+{
+  "slug": "dunlemi02x",
+  "sourceRowCount": 101,
+  "tenures": [
+    {
+      "teamCode": "GSW",
+      "startDate": "2023-06-22",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "dunlemi02x-0",
+      "sourceId": 0,
+      "date": "2023-06-22",
+      "type": "draft",
+      "tenureTeam": "GSW",
+      "summary": "Drafted Brandin Podziemski",
+      "participants": [
+        {
+          "name": "Brandin Podziemski",
+          "playerHref": "/players/p/podzibr01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 2436,
+        "vorp": 3.8000000000000003
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "dunlemi02x-1",
+      "sourceId": 1,
+      "date": "2023-06-23",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Trayce Jackson-Davis",
+      "participants": [
+        {
+          "name": "Trayce Jackson-Davis",
+          "playerHref": "/players/j/jackstr02.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "dunlemi02x-2",
+      "sourceId": 2,
+      "date": "2023-07-03",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Rookie contract for Brandin Podziemski",
+      "participants": [
+        {
+          "name": "Brandin Podziemski",
+          "playerHref": "/players/p/podzibr01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 2436,
+            "vorp": 3.8000000000000003
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 2436,
+        "vorp": 3.8000000000000003
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 2436,
+        "vorp": 3.8000000000000003
+      }
+    },
+    {
+      "id": "dunlemi02x-3",
+      "sourceId": 3,
+      "date": "2023-07-06",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Chris Paul; Sent out Patrick Baldwin Jr., Jordan Poole, Ryan Rollins, future ('2027', '2nd') round pick, and future ('2030', '1st') round pick",
+      "participants": [
+        {
+          "name": "Patrick Baldwin Jr.",
+          "playerHref": "/players/b/baldwpa01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 2238.7,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jordan Poole",
+          "playerHref": "/players/p/poolejo01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 8349,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ryan Rollins",
+          "playerHref": "/players/r/rolliry01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -330,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chris Paul",
+          "playerHref": "/players/p/paulch01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 1531,
+            "vorp": 1.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2030', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 11788.7,
+        "vorp": 1.4
+      },
+      "categoryValues": {
+        "bpm": 11788.7,
+        "vorp": 1.4
+      },
+      "runningValues": {
+        "bpm": 14224.7,
+        "vorp": 5.200000000000001
+      }
+    },
+    {
+      "id": "dunlemi02x-4",
+      "sourceId": 4,
+      "date": "2023-07-06",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Trayce Jackson-Davis",
+      "participants": [
+        {
+          "name": "Trayce Jackson-Davis",
+          "playerHref": "/players/j/jackstr02.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 4046.9999999999995,
+            "vorp": 2.4000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4046.9999999999995,
+        "vorp": 2.4000000000000004
+      },
+      "categoryValues": {
+        "bpm": 4046.9999999999995,
+        "vorp": 2.4000000000000004
+      },
+      "runningValues": {
+        "bpm": 18271.7,
+        "vorp": 7.600000000000001
+      }
+    },
+    {
+      "id": "dunlemi02x-5",
+      "sourceId": 5,
+      "date": "2023-07-06",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Cory Joseph",
+      "participants": [
+        {
+          "name": "Cory Joseph",
+          "playerHref": "/players/j/josepco01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1361.6,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1361.6,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1361.6,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 16910.100000000002,
+        "vorp": 7.400000000000001
+      }
+    },
+    {
+      "id": "dunlemi02x-6",
+      "sourceId": 6,
+      "date": "2023-07-08",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Draymond Green",
+      "participants": [
+        {
+          "name": "Draymond Green",
+          "playerHref": "/players/g/greendr01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 1950.9,
+            "vorp": 3.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1950.9,
+        "vorp": 3.2
+      },
+      "categoryValues": {
+        "bpm": 1950.9,
+        "vorp": 3.2
+      },
+      "runningValues": {
+        "bpm": 18861.000000000004,
+        "vorp": 10.600000000000001
+      }
+    },
+    {
+      "id": "dunlemi02x-7",
+      "sourceId": 7,
+      "date": "2023-07-12",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Dario Saric",
+      "participants": [
+        {
+          "name": "Dario Saric",
+          "playerHref": "/players/s/saricda01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 1098,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1098,
+        "vorp": 0.8
+      },
+      "categoryValues": {
+        "bpm": 1098,
+        "vorp": 0.8
+      },
+      "runningValues": {
+        "bpm": 19959.000000000004,
+        "vorp": 11.400000000000002
+      }
+    },
+    {
+      "id": "dunlemi02x-8",
+      "sourceId": 8,
+      "date": "2023-07-22",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Lester Quinones",
+      "participants": [
+        {
+          "name": "Lester Quinones",
+          "playerHref": "/players/q/quinole01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1300.1999999999998,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1300.1999999999998,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -1300.1999999999998,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 18658.800000000003,
+        "vorp": 11.300000000000002
+      }
+    },
+    {
+      "id": "dunlemi02x-9",
+      "sourceId": 9,
+      "date": "2023-09-25",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Usman Garuba",
+      "participants": [
+        {
+          "name": "Usman Garuba",
+          "playerHref": "/players/g/garubus01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -192.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -192.6,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -192.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 18466.200000000004,
+        "vorp": 11.300000000000002
+      }
+    },
+    {
+      "id": "dunlemi02x-10",
+      "sourceId": 10,
+      "date": "2023-09-28",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Rudy Gay",
+      "participants": [
+        {
+          "name": "Rudy Gay",
+          "playerHref": "/players/g/gayru01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 18466.200000000004,
+        "vorp": 11.300000000000002
+      }
+    },
+    {
+      "id": "dunlemi02x-11",
+      "sourceId": 11,
+      "date": "2023-09-28",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Jerome Robinson",
+      "participants": [
+        {
+          "name": "Jerome Robinson",
+          "playerHref": "/players/r/robinje01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -664.1999999999999,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -664.1999999999999,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -664.1999999999999,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 17802.000000000004,
+        "vorp": 11.200000000000003
+      }
+    },
+    {
+      "id": "dunlemi02x-12",
+      "sourceId": 12,
+      "date": "2023-11-07",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Gui Santos",
+      "participants": [
+        {
+          "name": "Gui Santos",
+          "playerHref": "/players/s/santogu01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -3007.3999999999996,
+            "vorp": 0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3007.3999999999996,
+        "vorp": 0.6
+      },
+      "categoryValues": {
+        "bpm": -3007.3999999999996,
+        "vorp": 0.6
+      },
+      "runningValues": {
+        "bpm": 14794.600000000004,
+        "vorp": 11.800000000000002
+      }
+    },
+    {
+      "id": "dunlemi02x-13",
+      "sourceId": 13,
+      "date": "2024-02-08",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Quinten Post; Sent out Cory Joseph and future ('2025', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Cory Joseph",
+          "playerHref": "/players/j/josepco01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Quinten Post",
+          "playerHref": "/players/p/postqu01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 14794.600000000004,
+        "vorp": 11.800000000000002
+      }
+    },
+    {
+      "id": "dunlemi02x-14",
+      "sourceId": 14,
+      "date": "2024-02-22",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Pat Spencer",
+      "participants": [
+        {
+          "name": "Pat Spencer",
+          "playerHref": "/players/s/spencpa01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -566.4000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -566.4000000000001,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -566.4000000000001,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 14228.200000000004,
+        "vorp": 11.800000000000002
+      }
+    },
+    {
+      "id": "dunlemi02x-15",
+      "sourceId": 15,
+      "date": "2024-06-27",
+      "type": "draft",
+      "tenureTeam": "GSW",
+      "summary": "Drafted Quinten Post",
+      "participants": [
+        {
+          "name": "Quinten Post",
+          "playerHref": "/players/p/postqu01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1206.3000000000002,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1206.3000000000002,
+        "vorp": 0.7
+      },
+      "categoryValues": {
+        "bpm": -1206.3000000000002,
+        "vorp": 0.7
+      },
+      "runningValues": {
+        "bpm": 13021.900000000005,
+        "vorp": 12.500000000000002
+      }
+    },
+    {
+      "id": "dunlemi02x-16",
+      "sourceId": 16,
+      "date": "2024-06-27",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Lindy Waters III; Sent out Quinten Post",
+      "participants": [
+        {
+          "name": "Quinten Post",
+          "playerHref": "/players/p/postqu01.html",
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lindy Waters III",
+          "playerHref": "/players/w/waterli01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -2030.5,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2030.5,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -2030.5,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 10991.400000000005,
+        "vorp": 12.300000000000002
+      }
+    },
+    {
+      "id": "dunlemi02x-17",
+      "sourceId": 17,
+      "date": "2024-07-03",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Reece Beekman",
+      "participants": [
+        {
+          "name": "Reece Beekman",
+          "playerHref": "/players/b/beekmre01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 104,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 104,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 104,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 11095.400000000005,
+        "vorp": 12.300000000000002
+      }
+    },
+    {
+      "id": "dunlemi02x-18",
+      "sourceId": 18,
+      "date": "2024-07-06",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Klay Thompson",
+      "participants": [
+        {
+          "name": "Klay Thompson",
+          "playerHref": "/players/t/thompkl01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 11095.400000000005,
+        "vorp": 12.300000000000002
+      }
+    },
+    {
+      "id": "dunlemi02x-19",
+      "sourceId": 19,
+      "date": "2024-07-06",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Kyle Anderson and Buddy Hield; Sent out future ('2031', '2nd') round pick and Klay Thompson",
+      "participants": [
+        {
+          "name": "future ('2031', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Klay Thompson",
+          "playerHref": "/players/t/thompkl01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 4060.7999999999997,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kyle Anderson",
+          "playerHref": "/players/a/anderky01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 580.8000000000001,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Buddy Hield",
+          "playerHref": "/players/h/hieldbu01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4641.599999999999,
+        "vorp": -0.39999999999999997
+      },
+      "categoryValues": {
+        "bpm": 4641.599999999999,
+        "vorp": -0.39999999999999997
+      },
+      "runningValues": {
+        "bpm": 15737.000000000004,
+        "vorp": 11.900000000000004
+      }
+    },
+    {
+      "id": "dunlemi02x-20",
+      "sourceId": 20,
+      "date": "2024-07-06",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Quinten Post",
+      "participants": [
+        {
+          "name": "Quinten Post",
+          "playerHref": "/players/p/postqu01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 15737.000000000004,
+        "vorp": 11.900000000000004
+      }
+    },
+    {
+      "id": "dunlemi02x-21",
+      "sourceId": 21,
+      "date": "2024-07-08",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed De'Anthony Melton",
+      "participants": [
+        {
+          "name": "De'Anthony Melton",
+          "playerHref": "/players/m/meltode01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -2601.3,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2601.3,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": -2601.3,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 13135.700000000004,
+        "vorp": 12.000000000000004
+      }
+    },
+    {
+      "id": "dunlemi02x-22",
+      "sourceId": 22,
+      "date": "2024-07-16",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Daeqwon Plowden",
+      "participants": [
+        {
+          "name": "Daeqwon Plowden",
+          "playerHref": "/players/p/plowdda01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 13135.700000000004,
+        "vorp": 12.000000000000004
+      }
+    },
+    {
+      "id": "dunlemi02x-23",
+      "sourceId": 23,
+      "date": "2024-09-25",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Kevin Knox",
+      "participants": [
+        {
+          "name": "Kevin Knox",
+          "playerHref": "/players/k/knoxke01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 13135.700000000004,
+        "vorp": 12.000000000000004
+      }
+    },
+    {
+      "id": "dunlemi02x-24",
+      "sourceId": 24,
+      "date": "2024-09-26",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Quinten Post",
+      "participants": [
+        {
+          "name": "Quinten Post",
+          "playerHref": "/players/p/postqu01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1206.3000000000002,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1206.3000000000002,
+        "vorp": 0.7
+      },
+      "categoryValues": {
+        "bpm": -1206.3000000000002,
+        "vorp": 0.7
+      },
+      "runningValues": {
+        "bpm": 11929.400000000005,
+        "vorp": 12.700000000000003
+      }
+    },
+    {
+      "id": "dunlemi02x-25",
+      "sourceId": 25,
+      "date": "2024-12-15",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Dennis Schroder, Koby Brea, and future ('2025', '2nd') round pick; Sent out Reece Beekman, De'Anthony Melton, Bryce Hopkins, future ('2026', '2nd') round pick, future ('2028', '2nd') round pick, and future ('2029', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Reece Beekman",
+          "playerHref": "/players/b/beekmre01.html",
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 2604,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "De'Anthony Melton",
+          "playerHref": "/players/m/meltode01.html",
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bryce Hopkins",
+          "playerHref": "/players/h/hopkibr01.html",
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dennis Schroder",
+          "playerHref": "/players/s/schrode01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -3265.6,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Koby Brea",
+          "playerHref": "/players/b/breako01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2028', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2029', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -661.5999999999999,
+        "vorp": -0.09999999999999998
+      },
+      "categoryValues": {
+        "bpm": -661.5999999999999,
+        "vorp": -0.09999999999999998
+      },
+      "runningValues": {
+        "bpm": 11267.800000000005,
+        "vorp": 12.600000000000003
+      }
+    },
+    {
+      "id": "dunlemi02x-26",
+      "sourceId": 26,
+      "date": "2025-01-28",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Jackson Rowe",
+      "participants": [
+        {
+          "name": "Jackson Rowe",
+          "playerHref": "/players/r/roweja01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 52,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 52,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 52,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 11319.800000000005,
+        "vorp": 12.600000000000003
+      }
+    },
+    {
+      "id": "dunlemi02x-27",
+      "sourceId": 27,
+      "date": "2025-02-06",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Jimmy Butler; Sent out Kyle Anderson, Andrew Wiggins, Kasparas Jakucionis, future ('2025', '1st') round pick, Dennis Schroder, Lindy Waters III, and future ('2031', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Kyle Anderson",
+          "playerHref": "/players/a/anderky01.html",
+          "direction": "out",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": -276.59999999999997,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Andrew Wiggins",
+          "playerHref": "/players/w/wiggian01.html",
+          "direction": "out",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": -1781.8999999999999,
+            "vorp": -2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kasparas Jakucionis",
+          "playerHref": "/players/j/jakucka01.html",
+          "direction": "out",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": 378,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dennis Schroder",
+          "playerHref": "/players/s/schrode01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 1480.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lindy Waters III",
+          "playerHref": "/players/w/waterli01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 147.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2031', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jimmy Butler",
+          "playerHref": "/players/b/butleji01.html",
+          "direction": "in",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": 3676.7999999999997,
+            "vorp": 1.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3624.3999999999996,
+        "vorp": -1.3999999999999997
+      },
+      "categoryValues": {
+        "bpm": 3624.3999999999996,
+        "vorp": -1.3999999999999997
+      },
+      "runningValues": {
+        "bpm": 14944.200000000004,
+        "vorp": 11.200000000000003
+      }
+    },
+    {
+      "id": "dunlemi02x-28",
+      "sourceId": 28,
+      "date": "2025-02-19",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Yuri Collins",
+      "participants": [
+        {
+          "name": "Yuri Collins",
+          "playerHref": "/players/c/colliyu01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 4.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4.8,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 4.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 14949.000000000004,
+        "vorp": 11.200000000000003
+      }
+    },
+    {
+      "id": "dunlemi02x-29",
+      "sourceId": 29,
+      "date": "2025-02-19",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Kevin Knox",
+      "participants": [
+        {
+          "name": "Kevin Knox",
+          "playerHref": "/players/k/knoxke01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 14949.000000000004,
+        "vorp": 11.200000000000003
+      }
+    },
+    {
+      "id": "dunlemi02x-30",
+      "sourceId": 30,
+      "date": "2025-02-24",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Taran Armstrong",
+      "participants": [
+        {
+          "name": "Taran Armstrong",
+          "playerHref": "/players/a/armstta02.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 14949.000000000004,
+        "vorp": 11.200000000000003
+      }
+    },
+    {
+      "id": "dunlemi02x-31",
+      "sourceId": 31,
+      "date": "2025-03-04",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Braxton Key",
+      "participants": [
+        {
+          "name": "Braxton Key",
+          "playerHref": "/players/k/keybr01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -149.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -149.6,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -149.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 14799.400000000003,
+        "vorp": 11.200000000000003
+      }
+    },
+    {
+      "id": "dunlemi02x-32",
+      "sourceId": 32,
+      "date": "2025-03-23",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Kevin Knox",
+      "participants": [
+        {
+          "name": "Kevin Knox",
+          "playerHref": "/players/k/knoxke01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -109.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -109.2,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -109.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 14690.200000000003,
+        "vorp": 11.200000000000003
+      }
+    },
+    {
+      "id": "dunlemi02x-33",
+      "sourceId": 33,
+      "date": "2025-06-25",
+      "type": "draft",
+      "tenureTeam": "GSW",
+      "summary": "Drafted Koby Brea",
+      "participants": [
+        {
+          "name": "Koby Brea",
+          "playerHref": "/players/b/breako01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 14690.200000000003,
+        "vorp": 11.200000000000003
+      }
+    },
+    {
+      "id": "dunlemi02x-34",
+      "sourceId": 34,
+      "date": "2025-07-06",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Will Richard; Sent out Justinian Jessup, Jahmai Mashack, and future ('2032', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Justinian Jessup",
+          "playerHref": "/players/j/jessuju01.html",
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jahmai Mashack",
+          "playerHref": "/players/m/mashaja01.html",
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 4747,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Will Richard",
+          "playerHref": "/players/r/richawi02.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2032', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4747,
+        "vorp": 0.8
+      },
+      "categoryValues": {
+        "bpm": 4747,
+        "vorp": 0.8
+      },
+      "runningValues": {
+        "bpm": 19437.200000000004,
+        "vorp": 12.000000000000004
+      }
+    },
+    {
+      "id": "dunlemi02x-35",
+      "sourceId": 35,
+      "date": "2025-07-06",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Jahmai Mashack and Alex Toohey; Sent out Koby Brea",
+      "participants": [
+        {
+          "name": "Koby Brea",
+          "playerHref": "/players/b/breako01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -16.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jahmai Mashack",
+          "playerHref": "/players/m/mashaja01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alex Toohey",
+          "playerHref": "/players/t/tooheal01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -16.8,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -16.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 19420.400000000005,
+        "vorp": 12.000000000000004
+      }
+    },
+    {
+      "id": "dunlemi02x-36",
+      "sourceId": 36,
+      "date": "2025-09-29",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Pat Spencer",
+      "participants": [
+        {
+          "name": "Pat Spencer",
+          "playerHref": "/players/s/spencpa01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -2826.7,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2826.7,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -2826.7,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 16593.700000000004,
+        "vorp": 11.900000000000004
+      }
+    },
+    {
+      "id": "dunlemi02x-37",
+      "sourceId": 37,
+      "date": "2025-09-29",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Alex Toohey",
+      "participants": [
+        {
+          "name": "Alex Toohey",
+          "playerHref": "/players/t/tooheal01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 16593.700000000004,
+        "vorp": 11.900000000000004
+      }
+    },
+    {
+      "id": "dunlemi02x-38",
+      "sourceId": 38,
+      "date": "2025-09-29",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Will Richcard",
+      "participants": [
+        {
+          "name": "Will Richcard",
+          "playerHref": "/players/r/richawi02.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -2904.4,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2904.4,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": -2904.4,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 13689.300000000005,
+        "vorp": 12.000000000000004
+      }
+    },
+    {
+      "id": "dunlemi02x-39",
+      "sourceId": 39,
+      "date": "2025-09-29",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Gary Payton Jr.",
+      "participants": [
+        {
+          "name": "Gary Payton Jr.",
+          "playerHref": "/players/p/paytoga02.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 2169.7999999999997,
+            "vorp": 1.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2169.7999999999997,
+        "vorp": 1.1
+      },
+      "categoryValues": {
+        "bpm": 2169.7999999999997,
+        "vorp": 1.1
+      },
+      "runningValues": {
+        "bpm": 15859.100000000004,
+        "vorp": 13.100000000000003
+      }
+    },
+    {
+      "id": "dunlemi02x-40",
+      "sourceId": 40,
+      "date": "2025-09-30",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Jonathan Kuminga",
+      "participants": [
+        {
+          "name": "Jonathan Kuminga",
+          "playerHref": "/players/k/kuminjo01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1713.6000000000001,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1713.6000000000001,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1713.6000000000001,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 14145.500000000004,
+        "vorp": 12.900000000000004
+      }
+    },
+    {
+      "id": "dunlemi02x-41",
+      "sourceId": 41,
+      "date": "2025-10-01",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Seth Curry",
+      "participants": [
+        {
+          "name": "Seth Curry",
+          "playerHref": "/players/c/curryse01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 14145.500000000004,
+        "vorp": 12.900000000000004
+      }
+    },
+    {
+      "id": "dunlemi02x-42",
+      "sourceId": 42,
+      "date": "2025-10-01",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed De'Anthony Melton",
+      "participants": [
+        {
+          "name": "De'Anthony Melton",
+          "playerHref": "/players/m/meltode01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -2812.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2812.5,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -2812.5,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 11333.000000000004,
+        "vorp": 12.800000000000004
+      }
+    },
+    {
+      "id": "dunlemi02x-43",
+      "sourceId": 43,
+      "date": "2025-10-01",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Al Horford",
+      "participants": [
+        {
+          "name": "Al Horford",
+          "playerHref": "/players/h/horfoal01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 1550.4,
+            "vorp": 0.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1550.4,
+        "vorp": 0.9
+      },
+      "categoryValues": {
+        "bpm": 1550.4,
+        "vorp": 0.9
+      },
+      "runningValues": {
+        "bpm": 12883.400000000003,
+        "vorp": 13.700000000000005
+      }
+    },
+    {
+      "id": "dunlemi02x-44",
+      "sourceId": 44,
+      "date": "2025-12-01",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Seth Curry",
+      "participants": [
+        {
+          "name": "Seth Curry",
+          "playerHref": "/players/c/curryse01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 26.6,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 26.6,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 26.6,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 12910.000000000004,
+        "vorp": 13.800000000000004
+      }
+    },
+    {
+      "id": "dunlemi02x-45",
+      "sourceId": 45,
+      "date": "2025-12-02",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed LJ Cryer",
+      "participants": [
+        {
+          "name": "LJ Cryer",
+          "playerHref": "/players/c/cryerlj01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1314.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1314.4,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -1314.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 11595.600000000004,
+        "vorp": 13.700000000000005
+      }
+    },
+    {
+      "id": "dunlemi02x-46",
+      "sourceId": 46,
+      "date": "2025-12-08",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Malevy Leons",
+      "participants": [
+        {
+          "name": "Malevy Leons",
+          "playerHref": "/players/l/leonsma01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1154.4,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1154.4,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1154.4,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 10441.200000000004,
+        "vorp": 13.500000000000005
+      }
+    },
+    {
+      "id": "dunlemi02x-47",
+      "sourceId": 47,
+      "date": "2026-02-05",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Kristaps Porzingis; Sent out Buddy Hield and Jonathan Kuminga",
+      "participants": [
+        {
+          "name": "Buddy Hield",
+          "playerHref": "/players/h/hieldbu01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 56.1,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jonathan Kuminga",
+          "playerHref": "/players/k/kuminjo01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -35.4,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kristaps Porzingis",
+          "playerHref": "/players/p/porzikr01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -71.2,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -50.5,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -50.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 10390.700000000004,
+        "vorp": 13.500000000000005
+      }
+    },
+    {
+      "id": "dunlemi02x-48",
+      "sourceId": 48,
+      "date": "2026-02-05",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Lajae Jones and future ('2026', '2nd') round pick; Sent out Trayce Jackson-Davis",
+      "participants": [
+        {
+          "name": "Trayce Jackson-Davis",
+          "playerHref": "/players/j/jackstr02.html",
+          "direction": "out",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": -426.5,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lajae Jones",
+          "playerHref": "/players/j/jonesla03.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -426.5,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -426.5,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 9964.200000000004,
+        "vorp": 13.300000000000006
+      }
+    },
+    {
+      "id": "dunlemi02x-49",
+      "sourceId": 49,
+      "date": "2026-02-17",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Jeenathan Williams",
+      "participants": [
+        {
+          "name": "Jeenathan Williams",
+          "playerHref": "/players/w/willije02.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1195,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1195,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1195,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 8769.200000000004,
+        "vorp": 13.100000000000007
+      }
+    },
+    {
+      "id": "dunlemi02x-50",
+      "sourceId": 50,
+      "date": "2026-03-15",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Omer Yurtseven",
+      "participants": [
+        {
+          "name": "Omer Yurtseven",
+          "playerHref": "/players/y/yurtsom01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -790.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -790.4,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -790.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 7978.800000000005,
+        "vorp": 13.000000000000007
+      }
+    },
+    {
+      "id": "dunlemi02x-51",
+      "sourceId": 51,
+      "date": "2026-04-05",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Charles Bassey",
+      "participants": [
+        {
+          "name": "Charles Bassey",
+          "playerHref": "/players/b/bassech01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 220.00000000000006,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 220.00000000000006,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 220.00000000000006,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 8198.800000000005,
+        "vorp": 13.100000000000007
+      }
+    },
+    {
+      "id": "dunlemi02x-52",
+      "sourceId": 52,
+      "date": "2026-06-23",
+      "type": "draft",
+      "tenureTeam": "GSW",
+      "summary": "Drafted Yaxel Lendeborg and Lajae Jones",
+      "participants": [
+        {
+          "name": "Yaxel Lendeborg",
+          "playerHref": "/players/l/lendeya01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lajae Jones",
+          "playerHref": "/players/j/jonesla03.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 531.6,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": 8198.800000000005,
+        "vorp": 13.100000000000007
+      }
+    },
+    {
+      "id": "dunlemi02x-53",
+      "sourceId": 53,
+      "date": "2026-06-23",
+      "type": "draft",
+      "tenureTeam": "GSW",
+      "summary": "Drafted Yaxel Lendeborg and Lajae Jones",
+      "participants": [
+        {
+          "name": "Yaxel Lendeborg",
+          "playerHref": "/players/l/lendeya01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        },
+        {
+          "name": "Lajae Jones",
+          "playerHref": "/players/j/jonesla03.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 531.6,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": 8198.800000000005,
+        "vorp": 13.100000000000007
+      }
+    },
+    {
+      "id": "dunlemi02x-55",
+      "sourceId": 55,
+      "date": "2026-07-01",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Rookie contract for Yaxel Lendeborg",
+      "participants": [
+        {
+          "name": "Yaxel Lendeborg",
+          "playerHref": "/players/l/lendeya01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 531.6,
+            "vorp": 0.4
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 531.6,
+        "vorp": 0.4
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 8730.400000000005,
+        "vorp": 13.500000000000007
+      }
+    },
+    {
+      "id": "dunlemi02x-56",
+      "sourceId": 56,
+      "date": "2026-07-06",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Al Horford",
+      "participants": [
+        {
+          "name": "Al Horford",
+          "playerHref": "/players/h/horfoal01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -81.60000000000001,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -81.60000000000001,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": -81.60000000000001,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 8648.800000000005,
+        "vorp": 13.600000000000007
+      }
+    },
+    {
+      "id": "dunlemi02x-57",
+      "sourceId": 57,
+      "date": "2026-07-09",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Charles Bassey",
+      "participants": [
+        {
+          "name": "Charles Bassey",
+          "playerHref": "/players/b/bassech01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 97.2,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 97.2,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 97.2,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 8746.000000000005,
+        "vorp": 13.700000000000006
+      }
+    },
+    {
+      "id": "dunlemi02x-58",
+      "sourceId": 58,
+      "date": "2026-07-29",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Draymond Green",
+      "participants": [
+        {
+          "name": "Draymond Green",
+          "playerHref": "/players/g/greendr01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 61.800000000000004,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 61.800000000000004,
+        "vorp": 0.2
+      },
+      "categoryValues": {
+        "bpm": 61.800000000000004,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 8807.800000000005,
+        "vorp": 13.900000000000006
+      }
+    },
+    {
+      "id": "dunlemi02x-59",
+      "sourceId": 59,
+      "date": "2026-07-31",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed De'Anthony Melton",
+      "participants": [
+        {
+          "name": "De'Anthony Melton",
+          "playerHref": "/players/m/meltode01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 308,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 308,
+        "vorp": 0.2
+      },
+      "categoryValues": {
+        "bpm": 308,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 9115.800000000005,
+        "vorp": 14.100000000000005
+      }
+    },
+    {
+      "id": "dunlemi02x-60",
+      "sourceId": 60,
+      "date": "2026-08-01",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Gary Payton Jr.",
+      "participants": [
+        {
+          "name": "Gary Payton Jr.",
+          "playerHref": "/players/p/paytoga02.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1031.8,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1031.8,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1031.8,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 8084.000000000005,
+        "vorp": 13.900000000000006
+      }
+    },
+    {
+      "id": "dunlemi02x-61",
+      "sourceId": 61,
+      "date": "2026-08-25",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Georges Niang",
+      "participants": [
+        {
+          "name": "Georges Niang",
+          "playerHref": "/players/n/niangge01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -904.1999999999999,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -904.1999999999999,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -904.1999999999999,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 7179.800000000005,
+        "vorp": 13.800000000000006
+      }
+    },
+    {
+      "id": "dunlemi02x-62",
+      "sourceId": 62,
+      "date": "2026-08-26",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Brandon Williams",
+      "participants": [
+        {
+          "name": "Brandon Williams",
+          "playerHref": "/players/w/willibr03.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -112.69999999999999,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -112.69999999999999,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": -112.69999999999999,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 7067.100000000005,
+        "vorp": 13.900000000000006
+      }
+    },
+    {
+      "id": "dunlemi02x-63",
+      "sourceId": 63,
+      "date": "2026-09-21",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Graham Ike",
+      "participants": [
+        {
+          "name": "Graham Ike",
+          "playerHref": "/players/i/ikegr01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 301.59999999999997,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 301.59999999999997,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 301.59999999999997,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 7368.700000000005,
+        "vorp": 14.000000000000005
+      }
+    }
+  ]
+}

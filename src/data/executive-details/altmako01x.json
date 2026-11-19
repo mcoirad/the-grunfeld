@@ -1,0 +1,7658 @@
+{
+  "slug": "altmako01x",
+  "sourceRowCount": 310,
+  "tenures": [
+    {
+      "teamCode": "CLE",
+      "startDate": "2017-07-10",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "altmako01x-0",
+      "sourceId": 0,
+      "date": "2017-07-10",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed José Calderón",
+      "participants": [
+        {
+          "name": "José Calderón",
+          "playerHref": "/players/c/caldejo01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1736.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1736.6,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -1736.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -1736.6,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "altmako01x-1",
+      "sourceId": 1,
+      "date": "2017-07-11",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Jeff Green",
+      "participants": [
+        {
+          "name": "Jeff Green",
+          "playerHref": "/players/g/greenje02.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -3107.6,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3107.6,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": -3107.6,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -4844.2,
+        "vorp": 0.1
+      }
+    },
+    {
+      "id": "altmako01x-2",
+      "sourceId": 2,
+      "date": "2017-07-12",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Kyle Korver",
+      "participants": [
+        {
+          "name": "Kyle Korver",
+          "playerHref": "/players/k/korveky01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 139.10000000000002,
+            "vorp": 1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 139.10000000000002,
+        "vorp": 1
+      },
+      "categoryValues": {
+        "bpm": 139.10000000000002,
+        "vorp": 1
+      },
+      "runningValues": {
+        "bpm": -4705.099999999999,
+        "vorp": 1.1
+      }
+    },
+    {
+      "id": "altmako01x-3",
+      "sourceId": 3,
+      "date": "2017-07-18",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Cedi Osman",
+      "participants": [
+        {
+          "name": "Cedi Osman",
+          "playerHref": "/players/o/osmande01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -9702.399999999998,
+            "vorp": -0.8999999999999999
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -9702.399999999998,
+        "vorp": -0.8999999999999999
+      },
+      "categoryValues": {
+        "bpm": -9702.399999999998,
+        "vorp": -0.8999999999999999
+      },
+      "runningValues": {
+        "bpm": -14407.499999999996,
+        "vorp": 0.20000000000000018
+      }
+    },
+    {
+      "id": "altmako01x-4",
+      "sourceId": 4,
+      "date": "2017-07-25",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Derrick Rose",
+      "participants": [
+        {
+          "name": "Derrick Rose",
+          "playerHref": "/players/r/rosede01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1663.2,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1663.2,
+        "vorp": -0.3
+      },
+      "categoryValues": {
+        "bpm": -1663.2,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -16070.699999999997,
+        "vorp": -0.09999999999999981
+      }
+    },
+    {
+      "id": "altmako01x-5",
+      "sourceId": 5,
+      "date": "2017-08-30",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Jae Crowder, Isaiah Thomas, Ante Žižić, Collin Sexton, and Skylar Mays; Sent out Kyrie Irving",
+      "participants": [
+        {
+          "name": "Kyrie Irving",
+          "playerHref": "/players/i/irvinky01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": -29622.6,
+            "vorp": -9.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jae Crowder",
+          "playerHref": "/players/c/crowdja01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -3903.4,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Isaiah Thomas",
+          "playerHref": "/players/t/thomais02.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1948.8,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ante Žižić",
+          "playerHref": "/players/z/zizican01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -3955.6000000000004,
+            "vorp": -0.19999999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Collin Sexton",
+          "playerHref": "/players/s/sextoco01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Skylar Mays",
+          "playerHref": "/players/m/mayssk01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -39430.4,
+        "vorp": -10.4
+      },
+      "categoryValues": {
+        "bpm": -39430.4,
+        "vorp": -10.4
+      },
+      "runningValues": {
+        "bpm": -55501.1,
+        "vorp": -10.5
+      }
+    },
+    {
+      "id": "altmako01x-6",
+      "sourceId": 6,
+      "date": "2017-09-08",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed John Holland",
+      "participants": [
+        {
+          "name": "John Holland",
+          "playerHref": "/players/h/hollajo02.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -962,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -962,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -962,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -56463.1,
+        "vorp": -10.7
+      }
+    },
+    {
+      "id": "altmako01x-7",
+      "sourceId": 7,
+      "date": "2017-09-25",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Kendrick Perkins",
+      "participants": [
+        {
+          "name": "Kendrick Perkins",
+          "playerHref": "/players/p/perkike01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -56463.1,
+        "vorp": -10.7
+      }
+    },
+    {
+      "id": "altmako01x-8",
+      "sourceId": 8,
+      "date": "2017-09-26",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed JaCorey Williams",
+      "participants": [
+        {
+          "name": "JaCorey Williams",
+          "playerHref": "/players/w/willija05.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -56463.1,
+        "vorp": -10.7
+      }
+    },
+    {
+      "id": "altmako01x-9",
+      "sourceId": 9,
+      "date": "2017-09-27",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Dwyane Wade",
+      "participants": [
+        {
+          "name": "Dwyane Wade",
+          "playerHref": "/players/w/wadedw01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -213.8,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -213.8,
+        "vorp": 0.5
+      },
+      "categoryValues": {
+        "bpm": -213.8,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": -56676.9,
+        "vorp": -10.2
+      }
+    },
+    {
+      "id": "altmako01x-10",
+      "sourceId": 10,
+      "date": "2017-10-11",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Isaac Hamilton",
+      "participants": [
+        {
+          "name": "Isaac Hamilton",
+          "playerHref": "/players/h/hamilis01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -56676.9,
+        "vorp": -10.2
+      }
+    },
+    {
+      "id": "altmako01x-11",
+      "sourceId": 11,
+      "date": "2017-10-14",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Dimitrios Agravanis and Sergiy Gladyr; Sent out Kay Felder, Richard Jefferson, and Eric Paschall",
+      "participants": [
+        {
+          "name": "Kay Felder",
+          "playerHref": "/players/f/feldeka01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Richard Jefferson",
+          "playerHref": "/players/j/jefferi01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eric Paschall",
+          "playerHref": "/players/p/pascher01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dimitrios Agravanis",
+          "playerHref": "/players/a/agravdi01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sergiy Gladyr",
+          "playerHref": "/players/g/gladyse01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -56676.9,
+        "vorp": -10.2
+      }
+    },
+    {
+      "id": "altmako01x-12",
+      "sourceId": 12,
+      "date": "2017-10-18",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed London Perrantes",
+      "participants": [
+        {
+          "name": "London Perrantes",
+          "playerHref": "/players/p/perralo01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -600.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -600.6,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -600.6,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -57277.5,
+        "vorp": -10.299999999999999
+      }
+    },
+    {
+      "id": "altmako01x-13",
+      "sourceId": 13,
+      "date": "2018-02-08",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Sent out Dwyane Wade",
+      "participants": [
+        {
+          "name": "Dwyane Wade",
+          "playerHref": "/players/w/wadedw01.html",
+          "direction": "out",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": 176.5999999999999,
+            "vorp": -1.0999999999999999
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 176.5999999999999,
+        "vorp": -1.0999999999999999
+      },
+      "categoryValues": {
+        "bpm": 176.5999999999999,
+        "vorp": -1.0999999999999999
+      },
+      "runningValues": {
+        "bpm": -57100.9,
+        "vorp": -11.399999999999999
+      }
+    },
+    {
+      "id": "altmako01x-14",
+      "sourceId": 14,
+      "date": "2018-02-08",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Jordan Clarkson and Larry Nance Jr.; Sent out Channing Frye, Isaiah Thomas, and Moritz Wagner",
+      "participants": [
+        {
+          "name": "Channing Frye",
+          "playerHref": "/players/f/fryech01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 210,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Isaiah Thomas",
+          "playerHref": "/players/t/thomais02.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 3092.9,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Moritz Wagner",
+          "playerHref": "/players/w/wagnemo01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 1873.2,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jordan Clarkson",
+          "playerHref": "/players/c/clarkjo01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -130.39999999999986,
+            "vorp": 1.7000000000000002
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Larry Nance Jr.",
+          "playerHref": "/players/n/nancela02.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 1097.800000000001,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 6143.500000000002,
+        "vorp": 3
+      },
+      "categoryValues": {
+        "bpm": 6143.500000000002,
+        "vorp": 3
+      },
+      "runningValues": {
+        "bpm": -50957.4,
+        "vorp": -8.399999999999999
+      }
+    },
+    {
+      "id": "altmako01x-15",
+      "sourceId": 15,
+      "date": "2018-02-08",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Artūras Gudaitis, George Hill, and Rodney Hood; Sent out Jae Crowder, Derrick Rose, Dimitrios Agravanis, Iman Shumpert, and Skylar Mays",
+      "participants": [
+        {
+          "name": "Jae Crowder",
+          "playerHref": "/players/c/crowdja01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 615,
+            "vorp": -1.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Derrick Rose",
+          "playerHref": "/players/r/rosede01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dimitrios Agravanis",
+          "playerHref": "/players/a/agravdi01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Iman Shumpert",
+          "playerHref": "/players/s/shumpim01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 1318.8,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Skylar Mays",
+          "playerHref": "/players/m/mayssk01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Artūras Gudaitis",
+          "playerHref": "/players/g/gudaiar01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "George Hill",
+          "playerHref": "/players/h/hillge01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1490.8,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rodney Hood",
+          "playerHref": "/players/h/hoodro01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -798,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -355,
+        "vorp": -1.2999999999999998
+      },
+      "categoryValues": {
+        "bpm": -355,
+        "vorp": -1.2999999999999998
+      },
+      "runningValues": {
+        "bpm": -51312.4,
+        "vorp": -9.7
+      }
+    },
+    {
+      "id": "altmako01x-16",
+      "sourceId": 16,
+      "date": "2018-02-22",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Marcus Thornton",
+      "participants": [
+        {
+          "name": "Marcus Thornton",
+          "playerHref": "/players/t/thornma02.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -51312.4,
+        "vorp": -9.7
+      }
+    },
+    {
+      "id": "altmako01x-17",
+      "sourceId": 17,
+      "date": "2018-03-19",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Okaro White",
+      "participants": [
+        {
+          "name": "Okaro White",
+          "playerHref": "/players/w/whiteok01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -51312.4,
+        "vorp": -9.7
+      }
+    },
+    {
+      "id": "altmako01x-18",
+      "sourceId": 18,
+      "date": "2018-04-06",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Okaro White",
+      "participants": [
+        {
+          "name": "Okaro White",
+          "playerHref": "/players/w/whiteok01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -51312.4,
+        "vorp": -9.7
+      }
+    },
+    {
+      "id": "altmako01x-19",
+      "sourceId": 19,
+      "date": "2018-04-10",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Kendrick Perkins",
+      "participants": [
+        {
+          "name": "Kendrick Perkins",
+          "playerHref": "/players/p/perkike01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -33,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -33,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -33,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -51345.4,
+        "vorp": -9.7
+      }
+    },
+    {
+      "id": "altmako01x-20",
+      "sourceId": 20,
+      "date": "2018-06-21",
+      "type": "draft",
+      "tenureTeam": "CLE",
+      "summary": "Drafted Collin Sexton",
+      "participants": [
+        {
+          "name": "Collin Sexton",
+          "playerHref": "/players/s/sextoco01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -17819.5,
+        "vorp": -1
+      },
+      "runningValues": {
+        "bpm": -51345.4,
+        "vorp": -9.7
+      }
+    },
+    {
+      "id": "altmako01x-21",
+      "sourceId": 21,
+      "date": "2018-07-04",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Rookie contract for Collin Sexton",
+      "participants": [
+        {
+          "name": "Collin Sexton",
+          "playerHref": "/players/s/sextoco01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -17819.5,
+            "vorp": -1
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -17819.5,
+        "vorp": -1
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -69164.9,
+        "vorp": -10.7
+      }
+    },
+    {
+      "id": "altmako01x-22",
+      "sourceId": 22,
+      "date": "2018-07-06",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Billy Preston",
+      "participants": [
+        {
+          "name": "Billy Preston",
+          "playerHref": "/players/p/prestbi01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -69164.9,
+        "vorp": -10.7
+      }
+    },
+    {
+      "id": "altmako01x-23",
+      "sourceId": 23,
+      "date": "2018-07-19",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Channing Frye",
+      "participants": [
+        {
+          "name": "Channing Frye",
+          "playerHref": "/players/f/fryech01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1193.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1193.5,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -1193.5,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -70358.4,
+        "vorp": -10.799999999999999
+      }
+    },
+    {
+      "id": "altmako01x-24",
+      "sourceId": 24,
+      "date": "2018-07-24",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Kevin Love",
+      "participants": [
+        {
+          "name": "Kevin Love",
+          "playerHref": "/players/l/loveke01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 12992.2,
+            "vorp": 6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 12992.2,
+        "vorp": 6
+      },
+      "categoryValues": {
+        "bpm": 12992.2,
+        "vorp": 6
+      },
+      "runningValues": {
+        "bpm": -57366.2,
+        "vorp": -4.799999999999999
+      }
+    },
+    {
+      "id": "altmako01x-25",
+      "sourceId": 25,
+      "date": "2018-08-07",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Sam Dekker and Renaldas Seibutis; Sent out Vladimir Veremeenko",
+      "participants": [
+        {
+          "name": "Vladimir Veremeenko",
+          "playerHref": "/players/v/veremvl01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sam Dekker",
+          "playerHref": "/players/d/dekkesa01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -185.9,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Renaldas Seibutis",
+          "playerHref": "/players/s/seibure01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -185.9,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -185.9,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -57552.1,
+        "vorp": -4.799999999999999
+      }
+    },
+    {
+      "id": "altmako01x-26",
+      "sourceId": 26,
+      "date": "2018-08-17",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Isaiah Taylor",
+      "participants": [
+        {
+          "name": "Isaiah Taylor",
+          "playerHref": "/players/t/taylois01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -57552.1,
+        "vorp": -4.799999999999999
+      }
+    },
+    {
+      "id": "altmako01x-27",
+      "sourceId": 27,
+      "date": "2018-09-08",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed David Nwaba",
+      "participants": [
+        {
+          "name": "David Nwaba",
+          "playerHref": "/players/n/nwabada01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -2066.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2066.4,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -2066.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -59618.5,
+        "vorp": -4.799999999999999
+      }
+    },
+    {
+      "id": "altmako01x-28",
+      "sourceId": 28,
+      "date": "2018-09-09",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Rodney Hood",
+      "participants": [
+        {
+          "name": "Rodney Hood",
+          "playerHref": "/players/h/hoodro01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -2468,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2468,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -2468,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -62086.5,
+        "vorp": -4.799999999999999
+      }
+    },
+    {
+      "id": "altmako01x-29",
+      "sourceId": 29,
+      "date": "2018-09-13",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed JaCorey Williams",
+      "participants": [
+        {
+          "name": "JaCorey Williams",
+          "playerHref": "/players/w/willija05.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -62086.5,
+        "vorp": -4.799999999999999
+      }
+    },
+    {
+      "id": "altmako01x-30",
+      "sourceId": 30,
+      "date": "2018-09-14",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Levi Randolph",
+      "participants": [
+        {
+          "name": "Levi Randolph",
+          "playerHref": "/players/r/randole01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -62086.5,
+        "vorp": -4.799999999999999
+      }
+    },
+    {
+      "id": "altmako01x-31",
+      "sourceId": 31,
+      "date": "2018-09-14",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Bonzie Colson",
+      "participants": [
+        {
+          "name": "Bonzie Colson",
+          "playerHref": "/players/c/colsobo01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -62086.5,
+        "vorp": -4.799999999999999
+      }
+    },
+    {
+      "id": "altmako01x-32",
+      "sourceId": 32,
+      "date": "2018-09-20",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Kobi Simmons",
+      "participants": [
+        {
+          "name": "Kobi Simmons",
+          "playerHref": "/players/s/simmoko01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -62086.5,
+        "vorp": -4.799999999999999
+      }
+    },
+    {
+      "id": "altmako01x-33",
+      "sourceId": 33,
+      "date": "2018-10-15",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Larry Nance Jr.",
+      "participants": [
+        {
+          "name": "Larry Nance Jr.",
+          "playerHref": "/players/n/nancela02.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 5829.299999999999,
+            "vorp": 3.8999999999999995
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5829.299999999999,
+        "vorp": 3.8999999999999995
+      },
+      "categoryValues": {
+        "bpm": 5829.299999999999,
+        "vorp": 3.8999999999999995
+      },
+      "runningValues": {
+        "bpm": -56257.2,
+        "vorp": -0.8999999999999995
+      }
+    },
+    {
+      "id": "altmako01x-36",
+      "sourceId": 36,
+      "date": "2018-11-09",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Andrew Harrison",
+      "participants": [
+        {
+          "name": "Andrew Harrison",
+          "playerHref": "/players/h/harrian01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -892.8000000000001,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -892.8000000000001,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -892.8000000000001,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -57150,
+        "vorp": -1.0999999999999994
+      }
+    },
+    {
+      "id": "altmako01x-37",
+      "sourceId": 37,
+      "date": "2018-11-29",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Alec Burks, Justinian Jessup, and Greg Brown III; Sent out Kyle Korver",
+      "participants": [
+        {
+          "name": "Kyle Korver",
+          "playerHref": "/players/k/korveky01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 433.20000000000005,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alec Burks",
+          "playerHref": "/players/b/burksal01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1370.6,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Justinian Jessup",
+          "playerHref": "/players/j/jessuju01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Greg Brown III",
+          "playerHref": "/players/b/browngr01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -937.3999999999999,
+        "vorp": -0.30000000000000004
+      },
+      "categoryValues": {
+        "bpm": -937.3999999999999,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -58087.4,
+        "vorp": -1.3999999999999995
+      }
+    },
+    {
+      "id": "altmako01x-38",
+      "sourceId": 38,
+      "date": "2018-12-02",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Jaron Blossomgame",
+      "participants": [
+        {
+          "name": "Jaron Blossomgame",
+          "playerHref": "/players/b/blossja01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1624.3000000000002,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1624.3000000000002,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1624.3000000000002,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -59711.700000000004,
+        "vorp": -1.5999999999999994
+      }
+    },
+    {
+      "id": "altmako01x-39",
+      "sourceId": 39,
+      "date": "2018-12-02",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Jalen Jones",
+      "participants": [
+        {
+          "name": "Jalen Jones",
+          "playerHref": "/players/j/jonesja04.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -898.8000000000001,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -898.8000000000001,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -898.8000000000001,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -60610.50000000001,
+        "vorp": -1.6999999999999995
+      }
+    },
+    {
+      "id": "altmako01x-40",
+      "sourceId": 40,
+      "date": "2018-12-07",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Matthew Dellavedova, John Henson, Sandro Mamukelashvili, MarJon Beauchamp, and Bryce McGowens; Sent out Sam Dekker, George Hill, and Greg Brown III",
+      "participants": [
+        {
+          "name": "Sam Dekker",
+          "playerHref": "/players/d/dekkesa01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 1176.1,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "George Hill",
+          "playerHref": "/players/h/hillge01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 664.4000000000003,
+            "vorp": -2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Greg Brown III",
+          "playerHref": "/players/b/browngr01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Matthew Dellavedova",
+          "playerHref": "/players/d/dellama01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -7486.699999999999,
+            "vorp": -1.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Henson",
+          "playerHref": "/players/h/hensojo01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 453.20000000000005,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sandro Mamukelashvili",
+          "playerHref": "/players/m/mamuksa01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "MarJon Beauchamp",
+          "playerHref": "/players/b/beaucma01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bryce McGowens",
+          "playerHref": "/players/m/mcgowbr01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5192.999999999999,
+        "vorp": -2.8000000000000003
+      },
+      "categoryValues": {
+        "bpm": -5192.999999999999,
+        "vorp": -2.8000000000000003
+      },
+      "runningValues": {
+        "bpm": -65803.50000000001,
+        "vorp": -4.499999999999999
+      }
+    },
+    {
+      "id": "altmako01x-41",
+      "sourceId": 41,
+      "date": "2018-12-30",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Patrick McCaw",
+      "participants": [
+        {
+          "name": "Patrick McCaw",
+          "playerHref": "/players/m/mccawpa01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -577.7,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -577.7,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -577.7,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -66381.20000000001,
+        "vorp": -4.599999999999999
+      }
+    },
+    {
+      "id": "altmako01x-42",
+      "sourceId": 42,
+      "date": "2019-01-06",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Cameron Payne",
+      "participants": [
+        {
+          "name": "Cameron Payne",
+          "playerHref": "/players/p/payneca01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -123.19999999999999,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -123.19999999999999,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": -123.19999999999999,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -66504.40000000001,
+        "vorp": -4.499999999999999
+      }
+    },
+    {
+      "id": "altmako01x-43",
+      "sourceId": 43,
+      "date": "2019-01-15",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Deng Adel",
+      "participants": [
+        {
+          "name": "Deng Adel",
+          "playerHref": "/players/a/adelde01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1455,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1455,
+        "vorp": -0.3
+      },
+      "categoryValues": {
+        "bpm": -1455,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -67959.40000000001,
+        "vorp": -4.799999999999999
+      }
+    },
+    {
+      "id": "altmako01x-44",
+      "sourceId": 44,
+      "date": "2019-01-27",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Kobi Simmons",
+      "participants": [
+        {
+          "name": "Kobi Simmons",
+          "playerHref": "/players/s/simmoko01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -21.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -21.2,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -21.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -67980.6,
+        "vorp": -4.799999999999999
+      }
+    },
+    {
+      "id": "altmako01x-45",
+      "sourceId": 45,
+      "date": "2019-02-04",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Wade Baldwin, Nik Stauskas, Brandon Boston Jr., and Julian Phillips; Sent out Rodney Hood",
+      "participants": [
+        {
+          "name": "Rodney Hood",
+          "playerHref": "/players/h/hoodro01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 6746,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Wade Baldwin",
+          "playerHref": "/players/b/baldwwa01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Nik Stauskas",
+          "playerHref": "/players/s/stausni01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -855,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Brandon Boston Jr.",
+          "playerHref": "/players/b/bostobr01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Julian Phillips",
+          "playerHref": "/players/p/phillju01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5891,
+        "vorp": 0.7
+      },
+      "categoryValues": {
+        "bpm": 5891,
+        "vorp": 0.7
+      },
+      "runningValues": {
+        "bpm": -62089.600000000006,
+        "vorp": -4.099999999999999
+      }
+    },
+    {
+      "id": "altmako01x-46",
+      "sourceId": 46,
+      "date": "2019-02-07",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Marquese Chriss, Brandon Knight, Dylan Windler, and Andrew Nembhard; Sent out Alec Burks, Wade Baldwin, Nik Stauskas, and Sandro Mamukelashvili",
+      "participants": [
+        {
+          "name": "Alec Burks",
+          "playerHref": "/players/b/burksal01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 139.70000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Wade Baldwin",
+          "playerHref": "/players/b/baldwwa01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Nik Stauskas",
+          "playerHref": "/players/s/stausni01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sandro Mamukelashvili",
+          "playerHref": "/players/m/mamuksa01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Marquese Chriss",
+          "playerHref": "/players/c/chrisma01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -2567.5,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Brandon Knight",
+          "playerHref": "/players/k/knighbr03.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -4100.299999999999,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dylan Windler",
+          "playerHref": "/players/w/windldy01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Andrew Nembhard",
+          "playerHref": "/players/n/nembhan01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6528.099999999999,
+        "vorp": -1.1
+      },
+      "categoryValues": {
+        "bpm": -6528.099999999999,
+        "vorp": -1.1
+      },
+      "runningValues": {
+        "bpm": -68617.70000000001,
+        "vorp": -5.199999999999998
+      }
+    },
+    {
+      "id": "altmako01x-47",
+      "sourceId": 47,
+      "date": "2019-02-11",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Nik Stauskas",
+      "participants": [
+        {
+          "name": "Nik Stauskas",
+          "playerHref": "/players/s/stausni01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -855,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -855,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -855,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -69472.70000000001,
+        "vorp": -5.199999999999998
+      }
+    },
+    {
+      "id": "altmako01x-50",
+      "sourceId": 50,
+      "date": "2019-06-20",
+      "type": "draft",
+      "tenureTeam": "CLE",
+      "summary": "Drafted Darius Garland and Dylan Windler",
+      "participants": [
+        {
+          "name": "Darius Garland",
+          "playerHref": "/players/g/garlada01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dylan Windler",
+          "playerHref": "/players/w/windldy01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 536.3000000000006,
+        "vorp": 7.3999999999999995
+      },
+      "runningValues": {
+        "bpm": -69472.70000000001,
+        "vorp": -5.199999999999998
+      }
+    },
+    {
+      "id": "altmako01x-51",
+      "sourceId": 51,
+      "date": "2019-06-26",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Kevin Porter Jr.; Sent out Justinian Jessup, Brandon Boston Jr., and Julian Phillips",
+      "participants": [
+        {
+          "name": "Justinian Jessup",
+          "playerHref": "/players/j/jessuju01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Brandon Boston Jr.",
+          "playerHref": "/players/b/bostobr01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Julian Phillips",
+          "playerHref": "/players/p/phillju01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kevin Porter Jr.",
+          "playerHref": "/players/p/porteke02.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -69472.70000000001,
+        "vorp": -5.199999999999998
+      }
+    },
+    {
+      "id": "altmako01x-52",
+      "sourceId": 52,
+      "date": "2019-07-02",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Rookie contract for Darius Garland",
+      "participants": [
+        {
+          "name": "Darius Garland",
+          "playerHref": "/players/g/garlada01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 2121.7000000000007,
+            "vorp": 7.3999999999999995
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 2121.7000000000007,
+        "vorp": 7.3999999999999995
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -67351.00000000001,
+        "vorp": 2.200000000000001
+      }
+    },
+    {
+      "id": "altmako01x-53",
+      "sourceId": 53,
+      "date": "2019-07-02",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Rookie contract for Dylan Windler",
+      "participants": [
+        {
+          "name": "Dylan Windler",
+          "playerHref": "/players/w/windldy01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1585.4,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -1585.4,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -68936.40000000001,
+        "vorp": 2.200000000000001
+      }
+    },
+    {
+      "id": "altmako01x-54",
+      "sourceId": 54,
+      "date": "2019-07-02",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Dean Wade",
+      "participants": [
+        {
+          "name": "Dean Wade",
+          "playerHref": "/players/w/wadede01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -2001.2999999999997,
+            "vorp": 2.9000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2001.2999999999997,
+        "vorp": 2.9000000000000004
+      },
+      "categoryValues": {
+        "bpm": -2001.2999999999997,
+        "vorp": 2.9000000000000004
+      },
+      "runningValues": {
+        "bpm": -70937.70000000001,
+        "vorp": 5.100000000000001
+      }
+    },
+    {
+      "id": "altmako01x-55",
+      "sourceId": 55,
+      "date": "2019-07-03",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Kevin Porter Jr.",
+      "participants": [
+        {
+          "name": "Kevin Porter Jr.",
+          "playerHref": "/players/p/porteke02.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -4299.400000000001,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4299.400000000001,
+        "vorp": -0.5
+      },
+      "categoryValues": {
+        "bpm": -4299.400000000001,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -75237.1,
+        "vorp": 4.600000000000001
+      }
+    },
+    {
+      "id": "altmako01x-56",
+      "sourceId": 56,
+      "date": "2019-08-16",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Jarell Martin",
+      "participants": [
+        {
+          "name": "Jarell Martin",
+          "playerHref": "/players/m/martija01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -75237.1,
+        "vorp": 4.600000000000001
+      }
+    },
+    {
+      "id": "altmako01x-57",
+      "sourceId": 57,
+      "date": "2019-09-03",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Sindarius Thornwell",
+      "participants": [
+        {
+          "name": "Sindarius Thornwell",
+          "playerHref": "/players/t/thornsi01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -75237.1,
+        "vorp": 4.600000000000001
+      }
+    },
+    {
+      "id": "altmako01x-58",
+      "sourceId": 58,
+      "date": "2019-09-25",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Timothé Luwawu-Cabarrot",
+      "participants": [
+        {
+          "name": "Timothé Luwawu-Cabarrot",
+          "playerHref": "/players/l/luwawti01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -75237.1,
+        "vorp": 4.600000000000001
+      }
+    },
+    {
+      "id": "altmako01x-59",
+      "sourceId": 59,
+      "date": "2019-10-04",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Sir'Dominic Pointer",
+      "participants": [
+        {
+          "name": "Sir'Dominic Pointer",
+          "playerHref": "/players/p/pointsi01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -75237.1,
+        "vorp": 4.600000000000001
+      }
+    },
+    {
+      "id": "altmako01x-60",
+      "sourceId": 60,
+      "date": "2019-10-26",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Cedi Osman",
+      "participants": [
+        {
+          "name": "Cedi Osman",
+          "playerHref": "/players/o/osmande01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -10438.2,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -10438.2,
+        "vorp": 0.5
+      },
+      "categoryValues": {
+        "bpm": -10438.2,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": -85675.3,
+        "vorp": 5.100000000000001
+      }
+    },
+    {
+      "id": "altmako01x-61",
+      "sourceId": 61,
+      "date": "2019-12-23",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Dante Exum, Khalifa Diop, and Emoni Bates; Sent out Jordan Clarkson",
+      "participants": [
+        {
+          "name": "Jordan Clarkson",
+          "playerHref": "/players/c/clarkjo01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 10430.7,
+            "vorp": -2.0999999999999996
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dante Exum",
+          "playerHref": "/players/e/exumda01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1405.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Khalifa Diop",
+          "playerHref": "/players/d/diopkh01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Emoni Bates",
+          "playerHref": "/players/b/batesem01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 9025.1,
+        "vorp": -2.1999999999999997
+      },
+      "categoryValues": {
+        "bpm": 9025.1,
+        "vorp": -2.1999999999999997
+      },
+      "runningValues": {
+        "bpm": -76650.20000000001,
+        "vorp": 2.9000000000000017
+      }
+    },
+    {
+      "id": "altmako01x-62",
+      "sourceId": 62,
+      "date": "2020-01-06",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Levi Randolph",
+      "participants": [
+        {
+          "name": "Levi Randolph",
+          "playerHref": "/players/r/randole01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -76650.20000000001,
+        "vorp": 2.9000000000000017
+      }
+    },
+    {
+      "id": "altmako01x-63",
+      "sourceId": 63,
+      "date": "2020-01-09",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Alfonzo McKinnie",
+      "participants": [
+        {
+          "name": "Alfonzo McKinnie",
+          "playerHref": "/players/m/mckinal01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -76650.20000000001,
+        "vorp": 2.9000000000000017
+      }
+    },
+    {
+      "id": "altmako01x-64",
+      "sourceId": 64,
+      "date": "2020-01-09",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Tyler Cook",
+      "participants": [
+        {
+          "name": "Tyler Cook",
+          "playerHref": "/players/c/cookty01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 80.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 80.5,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 80.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -76569.70000000001,
+        "vorp": 2.9000000000000017
+      }
+    },
+    {
+      "id": "altmako01x-65",
+      "sourceId": 65,
+      "date": "2020-01-15",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Matt Mooney",
+      "participants": [
+        {
+          "name": "Matt Mooney",
+          "playerHref": "/players/m/moonema01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -5.7,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5.7,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -5.7,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -76575.40000000001,
+        "vorp": 2.9000000000000017
+      }
+    },
+    {
+      "id": "altmako01x-66",
+      "sourceId": 66,
+      "date": "2020-01-30",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Marques Bolden",
+      "participants": [
+        {
+          "name": "Marques Bolden",
+          "playerHref": "/players/b/boldema01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 16.200000000000003,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 16.200000000000003,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 16.200000000000003,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -76559.20000000001,
+        "vorp": 2.9000000000000017
+      }
+    },
+    {
+      "id": "altmako01x-67",
+      "sourceId": 67,
+      "date": "2020-02-06",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Andre Drummond; Sent out John Henson, Brandon Knight, and Isaiah Wong",
+      "participants": [
+        {
+          "name": "John Henson",
+          "playerHref": "/players/h/hensojo01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -94,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Brandon Knight",
+          "playerHref": "/players/k/knighbr03.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 442,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Isaiah Wong",
+          "playerHref": "/players/w/wongis01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Andre Drummond",
+          "playerHref": "/players/d/drumman01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -667.6,
+            "vorp": 0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -319.6,
+        "vorp": 0.20000000000000004
+      },
+      "categoryValues": {
+        "bpm": -319.6,
+        "vorp": 0.20000000000000004
+      },
+      "runningValues": {
+        "bpm": -76878.80000000002,
+        "vorp": 3.1000000000000014
+      }
+    },
+    {
+      "id": "altmako01x-68",
+      "sourceId": 68,
+      "date": "2020-02-08",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Alfonzo McKinnie",
+      "participants": [
+        {
+          "name": "Alfonzo McKinnie",
+          "playerHref": "/players/m/mckinal01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -3142.9,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3142.9,
+        "vorp": -0.5
+      },
+      "categoryValues": {
+        "bpm": -3142.9,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -80021.70000000001,
+        "vorp": 2.6000000000000014
+      }
+    },
+    {
+      "id": "altmako01x-69",
+      "sourceId": 69,
+      "date": "2020-02-09",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed J.P. Macura",
+      "participants": [
+        {
+          "name": "J.P. Macura",
+          "playerHref": "/players/m/macurjp01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -6.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6.4,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -6.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -80028.1,
+        "vorp": 2.6000000000000014
+      }
+    },
+    {
+      "id": "altmako01x-70",
+      "sourceId": 70,
+      "date": "2020-02-09",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Malik Newman",
+      "participants": [
+        {
+          "name": "Malik Newman",
+          "playerHref": "/players/n/newmama01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -102.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -102.4,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -102.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -80130.5,
+        "vorp": 2.6000000000000014
+      }
+    },
+    {
+      "id": "altmako01x-72",
+      "sourceId": 72,
+      "date": "2020-03-04",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Sir'Dominic Pointer",
+      "participants": [
+        {
+          "name": "Sir'Dominic Pointer",
+          "playerHref": "/players/p/pointsi01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -80130.5,
+        "vorp": 2.6000000000000014
+      }
+    },
+    {
+      "id": "altmako01x-73",
+      "sourceId": 73,
+      "date": "2020-03-08",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Sheldon Mac",
+      "participants": [
+        {
+          "name": "Sheldon Mac",
+          "playerHref": "/players/m/mcclesh01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -80130.5,
+        "vorp": 2.6000000000000014
+      }
+    },
+    {
+      "id": "altmako01x-74",
+      "sourceId": 74,
+      "date": "2020-06-29",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Jordan Bell",
+      "participants": [
+        {
+          "name": "Jordan Bell",
+          "playerHref": "/players/b/belljo01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -80130.5,
+        "vorp": 2.6000000000000014
+      }
+    },
+    {
+      "id": "altmako01x-75",
+      "sourceId": 75,
+      "date": "2020-11-18",
+      "type": "draft",
+      "tenureTeam": "CLE",
+      "summary": "Drafted Isaac Okoro",
+      "participants": [
+        {
+          "name": "Isaac Okoro",
+          "playerHref": "/players/o/okorois01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -17330.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -80130.5,
+        "vorp": 2.6000000000000014
+      }
+    },
+    {
+      "id": "altmako01x-76",
+      "sourceId": 76,
+      "date": "2020-11-18",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Tyrese Proctor and future ('2025', '2nd') round pick; Sent out Ilkan Karaman",
+      "participants": [
+        {
+          "name": "Ilkan Karaman",
+          "playerHref": "/players/k/karamil01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tyrese Proctor",
+          "playerHref": "/players/p/proctty01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -80130.5,
+        "vorp": 2.6000000000000014
+      }
+    },
+    {
+      "id": "altmako01x-77",
+      "sourceId": 77,
+      "date": "2020-11-19",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Lamar Stevens",
+      "participants": [
+        {
+          "name": "Lamar Stevens",
+          "playerHref": "/players/s/stevela01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -8175.3,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -8175.3,
+        "vorp": -0.7
+      },
+      "categoryValues": {
+        "bpm": -8175.3,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": -88305.8,
+        "vorp": 1.9000000000000015
+      }
+    },
+    {
+      "id": "altmako01x-78",
+      "sourceId": 78,
+      "date": "2020-11-21",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Rookie contract for Isaac Okoro",
+      "participants": [
+        {
+          "name": "Isaac Okoro",
+          "playerHref": "/players/o/okorois01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -16804,
+            "vorp": -0.4
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -16804,
+        "vorp": -0.4
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -105109.8,
+        "vorp": 1.5000000000000013
+      }
+    },
+    {
+      "id": "altmako01x-79",
+      "sourceId": 79,
+      "date": "2020-11-23",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added JaVale McGee, Lajae Jones, and future ('2026', '2nd') round pick; Sent out Jordan Bell and Alfonzo McKinnie",
+      "participants": [
+        {
+          "name": "Jordan Bell",
+          "playerHref": "/players/b/belljo01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alfonzo McKinnie",
+          "playerHref": "/players/m/mckinal01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 103.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "JaVale McGee",
+          "playerHref": "/players/m/mcgeeja01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -553.3000000000001,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lajae Jones",
+          "playerHref": "/players/j/jonesla03.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -450.1000000000001,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -450.1000000000001,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -105559.90000000001,
+        "vorp": 1.5000000000000013
+      }
+    },
+    {
+      "id": "altmako01x-80",
+      "sourceId": 80,
+      "date": "2020-11-24",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Damyean Dotson",
+      "participants": [
+        {
+          "name": "Damyean Dotson",
+          "playerHref": "/players/d/dotsoda01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -4353.599999999999,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4353.599999999999,
+        "vorp": -0.6
+      },
+      "categoryValues": {
+        "bpm": -4353.599999999999,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": -109913.50000000001,
+        "vorp": 0.9000000000000014
+      }
+    },
+    {
+      "id": "altmako01x-81",
+      "sourceId": 81,
+      "date": "2020-11-24",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Matthew Dellavedova",
+      "participants": [
+        {
+          "name": "Matthew Dellavedova",
+          "playerHref": "/players/d/dellama01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1433.6000000000001,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1433.6000000000001,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1433.6000000000001,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -111347.10000000002,
+        "vorp": 0.7000000000000013
+      }
+    },
+    {
+      "id": "altmako01x-82",
+      "sourceId": 82,
+      "date": "2020-11-27",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Rayjon Tucker and future ('2027', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Rayjon Tucker",
+          "playerHref": "/players/t/tuckera01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -111347.10000000002,
+        "vorp": 0.7000000000000013
+      }
+    },
+    {
+      "id": "altmako01x-83",
+      "sourceId": 83,
+      "date": "2020-12-19",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Marques Bolden",
+      "participants": [
+        {
+          "name": "Marques Bolden",
+          "playerHref": "/players/b/boldema01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -81.19999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -81.19999999999999,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -81.19999999999999,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -111428.30000000002,
+        "vorp": 0.7000000000000013
+      }
+    },
+    {
+      "id": "altmako01x-84",
+      "sourceId": 84,
+      "date": "2021-01-11",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Yogi Ferrell",
+      "participants": [
+        {
+          "name": "Yogi Ferrell",
+          "playerHref": "/players/f/ferreyo01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -40,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -40,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -40,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -111468.30000000002,
+        "vorp": 0.7000000000000013
+      }
+    },
+    {
+      "id": "altmako01x-85",
+      "sourceId": 85,
+      "date": "2021-01-16",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Jarrett Allen and Taurean Prince; Sent out Tristen Newton, Dante Exum, and MarJon Beauchamp",
+      "participants": [
+        {
+          "name": "Tristen Newton",
+          "playerHref": "/players/n/newtotr01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 261.6,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dante Exum",
+          "playerHref": "/players/e/exumda01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "MarJon Beauchamp",
+          "playerHref": "/players/b/beaucma01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jarrett Allen",
+          "playerHref": "/players/a/allenja01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 1235.2000000000044,
+            "vorp": 1.1000000000000014
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Taurean Prince",
+          "playerHref": "/players/p/princta02.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1167.8999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 328.9000000000044,
+        "vorp": 1.2000000000000015
+      },
+      "categoryValues": {
+        "bpm": 328.9000000000044,
+        "vorp": 1.2000000000000015
+      },
+      "runningValues": {
+        "bpm": -111139.4,
+        "vorp": 1.9000000000000026
+      }
+    },
+    {
+      "id": "altmako01x-86",
+      "sourceId": 86,
+      "date": "2021-01-22",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Sent out Kevin Porter Jr.",
+      "participants": [
+        {
+          "name": "Kevin Porter Jr.",
+          "playerHref": "/players/p/porteke02.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 4759.300000000001,
+            "vorp": -1.2000000000000002
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4759.300000000001,
+        "vorp": -1.2000000000000002
+      },
+      "categoryValues": {
+        "bpm": 4759.300000000001,
+        "vorp": -1.2000000000000002
+      },
+      "runningValues": {
+        "bpm": -106380.09999999999,
+        "vorp": 0.7000000000000024
+      }
+    },
+    {
+      "id": "altmako01x-87",
+      "sourceId": 87,
+      "date": "2021-02-24",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Brodric Thomas",
+      "participants": [
+        {
+          "name": "Brodric Thomas",
+          "playerHref": "/players/t/thomabr01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1575,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1575,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1575,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -107955.09999999999,
+        "vorp": 0.5000000000000024
+      }
+    },
+    {
+      "id": "altmako01x-88",
+      "sourceId": 88,
+      "date": "2021-03-12",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Quinn Cook",
+      "participants": [
+        {
+          "name": "Quinn Cook",
+          "playerHref": "/players/c/cookqu01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -152,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -152,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -152,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -108107.09999999999,
+        "vorp": 0.5000000000000024
+      }
+    },
+    {
+      "id": "altmako01x-89",
+      "sourceId": 89,
+      "date": "2021-03-25",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Isaiah Hartenstein and future ('2027', '2nd') round pick; Sent out JaVale McGee",
+      "participants": [
+        {
+          "name": "JaVale McGee",
+          "playerHref": "/players/m/mcgeeja01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 1155,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Isaiah Hartenstein",
+          "playerHref": "/players/h/harteis01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 487.9,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1642.9,
+        "vorp": 0.5
+      },
+      "categoryValues": {
+        "bpm": 1642.9,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": -106464.2,
+        "vorp": 1.0000000000000024
+      }
+    },
+    {
+      "id": "altmako01x-90",
+      "sourceId": 90,
+      "date": "2021-04-10",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Mfiondu Kabengele",
+      "participants": [
+        {
+          "name": "Mfiondu Kabengele",
+          "playerHref": "/players/k/kabenmf01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -241.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -241.8,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -241.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -106706,
+        "vorp": 1.0000000000000024
+      }
+    },
+    {
+      "id": "altmako01x-91",
+      "sourceId": 91,
+      "date": "2021-04-28",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Jeremiah Martin",
+      "participants": [
+        {
+          "name": "Jeremiah Martin",
+          "playerHref": "/players/m/martije02.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -697.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -697.5,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -697.5,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -107403.5,
+        "vorp": 0.9000000000000025
+      }
+    },
+    {
+      "id": "altmako01x-92",
+      "sourceId": 92,
+      "date": "2021-05-01",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Mfiondu Kabengele",
+      "participants": [
+        {
+          "name": "Mfiondu Kabengele",
+          "playerHref": "/players/k/kabenmf01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -107403.5,
+        "vorp": 0.9000000000000025
+      }
+    },
+    {
+      "id": "altmako01x-93",
+      "sourceId": 93,
+      "date": "2021-05-04",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Anderson Varejão",
+      "participants": [
+        {
+          "name": "Anderson Varejão",
+          "playerHref": "/players/v/varejan01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -107403.5,
+        "vorp": 0.9000000000000025
+      }
+    },
+    {
+      "id": "altmako01x-94",
+      "sourceId": 94,
+      "date": "2021-07-29",
+      "type": "draft",
+      "tenureTeam": "CLE",
+      "summary": "Drafted Evan Mobley",
+      "participants": [
+        {
+          "name": "Evan Mobley",
+          "playerHref": "/players/m/mobleev01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 27681.600000000002,
+        "vorp": 12.7
+      },
+      "runningValues": {
+        "bpm": -107403.5,
+        "vorp": 0.9000000000000025
+      }
+    },
+    {
+      "id": "altmako01x-95",
+      "sourceId": 95,
+      "date": "2021-08-02",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Ricky Rubio; Sent out Taurean Prince and Bryce McGowens",
+      "participants": [
+        {
+          "name": "Taurean Prince",
+          "playerHref": "/players/p/princta02.html",
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 4873.7,
+            "vorp": 0.10000000000000003
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bryce McGowens",
+          "playerHref": "/players/m/mcgowbr01.html",
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ricky Rubio",
+          "playerHref": "/players/r/rubiori01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1334.2,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3539.5,
+        "vorp": 0.5
+      },
+      "categoryValues": {
+        "bpm": 3539.5,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": -103864,
+        "vorp": 1.4000000000000026
+      }
+    },
+    {
+      "id": "altmako01x-96",
+      "sourceId": 96,
+      "date": "2021-08-03",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Rookie contract for Evan Mobley",
+      "participants": [
+        {
+          "name": "Evan Mobley",
+          "playerHref": "/players/m/mobleev01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 27681.600000000002,
+            "vorp": 12.7
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 27681.600000000002,
+        "vorp": 12.7
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -76182.4,
+        "vorp": 14.100000000000001
+      }
+    },
+    {
+      "id": "altmako01x-97",
+      "sourceId": 97,
+      "date": "2021-08-06",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Jarrett Allen",
+      "participants": [
+        {
+          "name": "Jarrett Allen",
+          "playerHref": "/players/a/allenja01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 33693.4,
+            "vorp": 13.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 33693.4,
+        "vorp": 13.9
+      },
+      "categoryValues": {
+        "bpm": 33693.4,
+        "vorp": 13.9
+      },
+      "runningValues": {
+        "bpm": -42488.99999999999,
+        "vorp": 28
+      }
+    },
+    {
+      "id": "altmako01x-98",
+      "sourceId": 98,
+      "date": "2021-08-28",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Lauri Markkanen; Sent out Larry Nance Jr.",
+      "participants": [
+        {
+          "name": "Larry Nance Jr.",
+          "playerHref": "/players/n/nancela02.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -257.4,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lauri Markkanen",
+          "playerHref": "/players/m/markkla01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 751.2,
+            "vorp": 1.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 493.80000000000007,
+        "vorp": 0.6000000000000001
+      },
+      "categoryValues": {
+        "bpm": 493.80000000000007,
+        "vorp": 0.6000000000000001
+      },
+      "runningValues": {
+        "bpm": -41995.2,
+        "vorp": 28.6
+      }
+    },
+    {
+      "id": "altmako01x-99",
+      "sourceId": 99,
+      "date": "2021-09-06",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Tre Scott",
+      "participants": [
+        {
+          "name": "Tre Scott",
+          "playerHref": "/players/s/scotttr01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -41995.2,
+        "vorp": 28.6
+      }
+    },
+    {
+      "id": "altmako01x-100",
+      "sourceId": 100,
+      "date": "2021-09-08",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed RJ Nembhard",
+      "participants": [
+        {
+          "name": "RJ Nembhard",
+          "playerHref": "/players/n/nembhrj01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -41995.2,
+        "vorp": 28.6
+      }
+    },
+    {
+      "id": "altmako01x-101",
+      "sourceId": 101,
+      "date": "2021-09-08",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Mitch Ballock",
+      "participants": [
+        {
+          "name": "Mitch Ballock",
+          "playerHref": "/players/b/ballomi01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -41995.2,
+        "vorp": 28.6
+      }
+    },
+    {
+      "id": "altmako01x-102",
+      "sourceId": 102,
+      "date": "2021-09-08",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Tacko Fall",
+      "participants": [
+        {
+          "name": "Tacko Fall",
+          "playerHref": "/players/f/fallta01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -41995.2,
+        "vorp": 28.6
+      }
+    },
+    {
+      "id": "altmako01x-103",
+      "sourceId": 103,
+      "date": "2021-09-15",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Brodric Thomas",
+      "participants": [
+        {
+          "name": "Brodric Thomas",
+          "playerHref": "/players/t/thomabr01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -41995.2,
+        "vorp": 28.6
+      }
+    },
+    {
+      "id": "altmako01x-104",
+      "sourceId": 104,
+      "date": "2021-09-17",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Kevin Pangos",
+      "participants": [
+        {
+          "name": "Kevin Pangos",
+          "playerHref": "/players/p/pangoke01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1012.5999999999999,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1012.5999999999999,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1012.5999999999999,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -43007.799999999996,
+        "vorp": 28.400000000000002
+      }
+    },
+    {
+      "id": "altmako01x-105",
+      "sourceId": 105,
+      "date": "2021-09-22",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Denzel Valentine",
+      "participants": [
+        {
+          "name": "Denzel Valentine",
+          "playerHref": "/players/v/valende01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -469.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -469.2,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -469.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -43476.99999999999,
+        "vorp": 28.400000000000002
+      }
+    },
+    {
+      "id": "altmako01x-106",
+      "sourceId": 106,
+      "date": "2021-09-25",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Kyle Guy",
+      "participants": [
+        {
+          "name": "Kyle Guy",
+          "playerHref": "/players/g/guyky01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -43476.99999999999,
+        "vorp": 28.400000000000002
+      }
+    },
+    {
+      "id": "altmako01x-107",
+      "sourceId": 107,
+      "date": "2021-10-12",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Justin James",
+      "participants": [
+        {
+          "name": "Justin James",
+          "playerHref": "/players/j/jamesju01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -43476.99999999999,
+        "vorp": 28.400000000000002
+      }
+    },
+    {
+      "id": "altmako01x-108",
+      "sourceId": 108,
+      "date": "2021-10-13",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Ed Davis",
+      "participants": [
+        {
+          "name": "Ed Davis",
+          "playerHref": "/players/d/davised01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -341.7,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -341.7,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -341.7,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -43818.69999999999,
+        "vorp": 28.400000000000002
+      }
+    },
+    {
+      "id": "altmako01x-109",
+      "sourceId": 109,
+      "date": "2021-10-16",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed RJ Nembhard",
+      "participants": [
+        {
+          "name": "RJ Nembhard",
+          "playerHref": "/players/n/nembhrj01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -43818.69999999999,
+        "vorp": 28.400000000000002
+      }
+    },
+    {
+      "id": "altmako01x-110",
+      "sourceId": 110,
+      "date": "2021-10-16",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Tacko Fall",
+      "participants": [
+        {
+          "name": "Tacko Fall",
+          "playerHref": "/players/f/fallta01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -194.7,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -194.7,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -194.7,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44013.39999999999,
+        "vorp": 28.400000000000002
+      }
+    },
+    {
+      "id": "altmako01x-111",
+      "sourceId": 111,
+      "date": "2021-12-21",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Luke Kornet",
+      "participants": [
+        {
+          "name": "Luke Kornet",
+          "playerHref": "/players/k/kornelu01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -145.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -145.5,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -145.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44158.89999999999,
+        "vorp": 28.400000000000002
+      }
+    },
+    {
+      "id": "altmako01x-112",
+      "sourceId": 112,
+      "date": "2021-12-21",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Justin Anderson",
+      "participants": [
+        {
+          "name": "Justin Anderson",
+          "playerHref": "/players/a/anderju01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -122.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -122.2,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -122.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44281.099999999984,
+        "vorp": 28.400000000000002
+      }
+    },
+    {
+      "id": "altmako01x-113",
+      "sourceId": 113,
+      "date": "2021-12-22",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Tre Scott",
+      "participants": [
+        {
+          "name": "Tre Scott",
+          "playerHref": "/players/s/scotttr01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -31.9,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -31.9,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -31.9,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44312.999999999985,
+        "vorp": 28.400000000000002
+      }
+    },
+    {
+      "id": "altmako01x-114",
+      "sourceId": 114,
+      "date": "2021-12-29",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Malik Newman",
+      "participants": [
+        {
+          "name": "Malik Newman",
+          "playerHref": "/players/n/newmama01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 50.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 50.4,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 50.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44262.599999999984,
+        "vorp": 28.400000000000002
+      }
+    },
+    {
+      "id": "altmako01x-115",
+      "sourceId": 115,
+      "date": "2021-12-31",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Brandon Goodwin",
+      "participants": [
+        {
+          "name": "Brandon Goodwin",
+          "playerHref": "/players/g/goodwbr01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44262.599999999984,
+        "vorp": 28.400000000000002
+      }
+    },
+    {
+      "id": "altmako01x-116",
+      "sourceId": 116,
+      "date": "2022-01-03",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Rajon Rondo; Sent out Denzel Valentine",
+      "participants": [
+        {
+          "name": "Denzel Valentine",
+          "playerHref": "/players/v/valende01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rajon Rondo",
+          "playerHref": "/players/r/rondora01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 122.69999999999999,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 122.69999999999999,
+        "vorp": 0.2
+      },
+      "categoryValues": {
+        "bpm": 122.69999999999999,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -44139.89999999999,
+        "vorp": 28.6
+      }
+    },
+    {
+      "id": "altmako01x-117",
+      "sourceId": 117,
+      "date": "2022-01-09",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Brandon Goodwin",
+      "participants": [
+        {
+          "name": "Brandon Goodwin",
+          "playerHref": "/players/g/goodwbr01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -753,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -753,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": -753,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -44892.89999999999,
+        "vorp": 28.700000000000003
+      }
+    },
+    {
+      "id": "altmako01x-118",
+      "sourceId": 118,
+      "date": "2022-02-07",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Caris Levert and Luke Travers; Sent out Ricky Rubio, Andrew Nembhard, Ben Sheppard, and future ('2027', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Ricky Rubio",
+          "playerHref": "/players/r/rubiori01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Andrew Nembhard",
+          "playerHref": "/players/n/nembhan01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 16489.1,
+            "vorp": 0.09999999999999995
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ben Sheppard",
+          "playerHref": "/players/s/sheppbe01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 9520.4,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Caris Levert",
+          "playerHref": "/players/l/leverca01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -2205.1000000000004,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Luke Travers",
+          "playerHref": "/players/t/travelu01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 23804.4,
+        "vorp": 1.6
+      },
+      "categoryValues": {
+        "bpm": 23804.4,
+        "vorp": 1.6
+      },
+      "runningValues": {
+        "bpm": -21088.499999999985,
+        "vorp": 30.300000000000004
+      }
+    },
+    {
+      "id": "altmako01x-119",
+      "sourceId": 119,
+      "date": "2022-02-26",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Tim Frazier",
+      "participants": [
+        {
+          "name": "Tim Frazier",
+          "playerHref": "/players/f/fraziti01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -186.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -186.4,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -186.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -21274.899999999987,
+        "vorp": 30.300000000000004
+      }
+    },
+    {
+      "id": "altmako01x-120",
+      "sourceId": 120,
+      "date": "2022-03-10",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Moses Brown",
+      "participants": [
+        {
+          "name": "Moses Brown",
+          "playerHref": "/players/b/brownmo01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -21274.899999999987,
+        "vorp": 30.300000000000004
+      }
+    },
+    {
+      "id": "altmako01x-121",
+      "sourceId": 121,
+      "date": "2022-03-31",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Moses Brown",
+      "participants": [
+        {
+          "name": "Moses Brown",
+          "playerHref": "/players/b/brownmo01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -334.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -334.4,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -334.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -21609.29999999999,
+        "vorp": 30.300000000000004
+      }
+    },
+    {
+      "id": "altmako01x-122",
+      "sourceId": 122,
+      "date": "2022-04-10",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed RJ Nembhard",
+      "participants": [
+        {
+          "name": "RJ Nembhard",
+          "playerHref": "/players/n/nembhrj01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -371.70000000000005,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -371.70000000000005,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -371.70000000000005,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -21980.99999999999,
+        "vorp": 30.200000000000003
+      }
+    },
+    {
+      "id": "altmako01x-123",
+      "sourceId": 123,
+      "date": "2022-06-23",
+      "type": "draft",
+      "tenureTeam": "CLE",
+      "summary": "Drafted Ochai Agbaji, Khalifa Diop, Isaiah Mobley, and Luke Travers",
+      "participants": [
+        {
+          "name": "Ochai Agbaji",
+          "playerHref": "/players/a/agbajoc01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Khalifa Diop",
+          "playerHref": "/players/d/diopkh01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Isaiah Mobley",
+          "playerHref": "/players/m/mobleis01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Luke Travers",
+          "playerHref": "/players/t/travelu01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -1768.7999999999997,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -21980.99999999999,
+        "vorp": 30.200000000000003
+      }
+    },
+    {
+      "id": "altmako01x-124",
+      "sourceId": 124,
+      "date": "2022-06-23",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Isaiah Mobley; Sent out Sasha Vezenkov",
+      "participants": [
+        {
+          "name": "Sasha Vezenkov",
+          "playerHref": "/players/v/vezenal01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 408.8,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Isaiah Mobley",
+          "playerHref": "/players/m/mobleis01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 408.8,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": 408.8,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -21572.19999999999,
+        "vorp": 30.1
+      }
+    },
+    {
+      "id": "altmako01x-125",
+      "sourceId": 125,
+      "date": "2022-07-02",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Rookie contract for Ochai Agbaji",
+      "participants": [
+        {
+          "name": "Ochai Agbaji",
+          "playerHref": "/players/a/agbajoc01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -21572.19999999999,
+        "vorp": 30.1
+      }
+    },
+    {
+      "id": "altmako01x-126",
+      "sourceId": 126,
+      "date": "2022-07-02",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Isaiah Mobley",
+      "participants": [
+        {
+          "name": "Isaiah Mobley",
+          "playerHref": "/players/m/mobleis01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -117.60000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -117.60000000000002,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -117.60000000000002,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -21689.79999999999,
+        "vorp": 30.1
+      }
+    },
+    {
+      "id": "altmako01x-127",
+      "sourceId": 127,
+      "date": "2022-07-02",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed RJ Nembhard",
+      "participants": [
+        {
+          "name": "RJ Nembhard",
+          "playerHref": "/players/n/nembhrj01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -21689.79999999999,
+        "vorp": 30.1
+      }
+    },
+    {
+      "id": "altmako01x-128",
+      "sourceId": 128,
+      "date": "2022-07-07",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Ricky Rubio",
+      "participants": [
+        {
+          "name": "Ricky Rubio",
+          "playerHref": "/players/r/rubiori01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1528.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1528.2,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -1528.2,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -23217.99999999999,
+        "vorp": 30
+      }
+    },
+    {
+      "id": "altmako01x-129",
+      "sourceId": 129,
+      "date": "2022-07-07",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Raul Neto",
+      "participants": [
+        {
+          "name": "Raul Neto",
+          "playerHref": "/players/n/netora01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -101,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -101,
+        "vorp": 0.2
+      },
+      "categoryValues": {
+        "bpm": -101,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -23318.99999999999,
+        "vorp": 30.2
+      }
+    },
+    {
+      "id": "altmako01x-130",
+      "sourceId": 130,
+      "date": "2022-07-07",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Robin Lopez",
+      "participants": [
+        {
+          "name": "Robin Lopez",
+          "playerHref": "/players/l/lopezro01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -897,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -897,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -897,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -24215.99999999999,
+        "vorp": 30.099999999999998
+      }
+    },
+    {
+      "id": "altmako01x-131",
+      "sourceId": 131,
+      "date": "2022-09-03",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Donovan Mitchell; Sent out Ochai Agbaji, Lauri Markkanen, Collin Sexton, Liam McNeeley, future ('2025', '1st') round pick, future ('2026', '1st') round pick, future ('2027', '1st') round pick, future ('2028', '1st') round pick, and future ('2029', '1st') round pick",
+      "participants": [
+        {
+          "name": "Ochai Agbaji",
+          "playerHref": "/players/a/agbajoc01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 6636,
+            "vorp": 0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lauri Markkanen",
+          "playerHref": "/players/m/markkla01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": -18819.5,
+            "vorp": -8.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Collin Sexton",
+          "playerHref": "/players/s/sextoco01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": -1399.2,
+            "vorp": -2.8000000000000003
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Liam McNeeley",
+          "playerHref": "/players/m/mcneeli01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Donovan Mitchell",
+          "playerHref": "/players/m/mitchdo01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 47791.899999999994,
+            "vorp": 16.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2028', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2029', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 34209.2,
+        "vorp": 6.199999999999999
+      },
+      "categoryValues": {
+        "bpm": 34209.2,
+        "vorp": 6.199999999999999
+      },
+      "runningValues": {
+        "bpm": 9993.200000000012,
+        "vorp": 36.3
+      }
+    },
+    {
+      "id": "altmako01x-132",
+      "sourceId": 132,
+      "date": "2022-09-03",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Collin Sexton",
+      "participants": [
+        {
+          "name": "Collin Sexton",
+          "playerHref": "/players/s/sextoco01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 9993.200000000012,
+        "vorp": 36.3
+      }
+    },
+    {
+      "id": "altmako01x-133",
+      "sourceId": 133,
+      "date": "2022-09-08",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Chandler Vaudrin",
+      "participants": [
+        {
+          "name": "Chandler Vaudrin",
+          "playerHref": "/players/v/vaudrch01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 9993.200000000012,
+        "vorp": 36.3
+      }
+    },
+    {
+      "id": "altmako01x-134",
+      "sourceId": 134,
+      "date": "2022-09-08",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Jamorko Pickett",
+      "participants": [
+        {
+          "name": "Jamorko Pickett",
+          "playerHref": "/players/p/pickeja01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 9993.200000000012,
+        "vorp": 36.3
+      }
+    },
+    {
+      "id": "altmako01x-135",
+      "sourceId": 135,
+      "date": "2022-09-19",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Mamadi Diakite",
+      "participants": [
+        {
+          "name": "Mamadi Diakite",
+          "playerHref": "/players/d/diakima01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 9993.200000000012,
+        "vorp": 36.3
+      }
+    },
+    {
+      "id": "altmako01x-136",
+      "sourceId": 136,
+      "date": "2022-09-19",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Nate Hinton",
+      "participants": [
+        {
+          "name": "Nate Hinton",
+          "playerHref": "/players/h/hintona01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 9993.200000000012,
+        "vorp": 36.3
+      }
+    },
+    {
+      "id": "altmako01x-137",
+      "sourceId": 137,
+      "date": "2022-09-20",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Sharife Cooper",
+      "participants": [
+        {
+          "name": "Sharife Cooper",
+          "playerHref": "/players/c/coopesh01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 9993.200000000012,
+        "vorp": 36.3
+      }
+    },
+    {
+      "id": "altmako01x-138",
+      "sourceId": 138,
+      "date": "2022-10-17",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Mamadi Diakite",
+      "participants": [
+        {
+          "name": "Mamadi Diakite",
+          "playerHref": "/players/d/diakima01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -580.8,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -580.8,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -580.8,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 9412.400000000012,
+        "vorp": 36.199999999999996
+      }
+    },
+    {
+      "id": "altmako01x-139",
+      "sourceId": 139,
+      "date": "2022-10-17",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Marcos Louzada Silva",
+      "participants": [
+        {
+          "name": "Marcos Louzada Silva",
+          "playerHref": "/players/l/louzama01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 9412.400000000012,
+        "vorp": 36.199999999999996
+      }
+    },
+    {
+      "id": "altmako01x-140",
+      "sourceId": 140,
+      "date": "2023-01-18",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Pete Nance",
+      "participants": [
+        {
+          "name": "Pete Nance",
+          "playerHref": "/players/n/nancepe01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 9412.400000000012,
+        "vorp": 36.199999999999996
+      }
+    },
+    {
+      "id": "altmako01x-141",
+      "sourceId": 141,
+      "date": "2023-02-14",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Danny Green",
+      "participants": [
+        {
+          "name": "Danny Green",
+          "playerHref": "/players/g/greenda02.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 114,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 114,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 114,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 9526.400000000012,
+        "vorp": 36.3
+      }
+    },
+    {
+      "id": "altmako01x-142",
+      "sourceId": 142,
+      "date": "2023-03-03",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Sam Merrill",
+      "participants": [
+        {
+          "name": "Sam Merrill",
+          "playerHref": "/players/m/merrisa01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 9526.400000000012,
+        "vorp": 36.3
+      }
+    },
+    {
+      "id": "altmako01x-143",
+      "sourceId": 143,
+      "date": "2023-03-14",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Sam Merrill",
+      "participants": [
+        {
+          "name": "Sam Merrill",
+          "playerHref": "/players/m/merrisa01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 1031.5,
+            "vorp": 1.5000000000000002
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1031.5,
+        "vorp": 1.5000000000000002
+      },
+      "categoryValues": {
+        "bpm": 1031.5,
+        "vorp": 1.5000000000000002
+      },
+      "runningValues": {
+        "bpm": 10557.900000000012,
+        "vorp": 37.8
+      }
+    },
+    {
+      "id": "altmako01x-144",
+      "sourceId": 144,
+      "date": "2023-06-22",
+      "type": "draft",
+      "tenureTeam": "CLE",
+      "summary": "Drafted Emoni Bates",
+      "participants": [
+        {
+          "name": "Emoni Bates",
+          "playerHref": "/players/b/batesem01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -1322.8,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 10557.900000000012,
+        "vorp": 37.8
+      }
+    },
+    {
+      "id": "altmako01x-145",
+      "sourceId": 145,
+      "date": "2023-07-03",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Craig Porter Jr.",
+      "participants": [
+        {
+          "name": "Craig Porter Jr.",
+          "playerHref": "/players/p/portecr01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 3014.4,
+            "vorp": 2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3014.4,
+        "vorp": 2
+      },
+      "categoryValues": {
+        "bpm": 3014.4,
+        "vorp": 2
+      },
+      "runningValues": {
+        "bpm": 13572.300000000012,
+        "vorp": 39.8
+      }
+    },
+    {
+      "id": "altmako01x-146",
+      "sourceId": 146,
+      "date": "2023-07-03",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Isaiah Mobley",
+      "participants": [
+        {
+          "name": "Isaiah Mobley",
+          "playerHref": "/players/m/mobleis01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -468,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -468,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -468,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 13104.300000000012,
+        "vorp": 39.699999999999996
+      }
+    },
+    {
+      "id": "altmako01x-147",
+      "sourceId": 147,
+      "date": "2023-07-06",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Max Strus; Sent out Cedi Osman, Lamar Stevens, future ('2030', '2nd') round pick, Lajae Jones, and future ('2026', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Cedi Osman",
+          "playerHref": "/players/o/osmande01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 2538,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lamar Stevens",
+          "playerHref": "/players/s/stevela01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2030', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lajae Jones",
+          "playerHref": "/players/j/jonesla03.html",
+          "direction": "out",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Max Strus",
+          "playerHref": "/players/s/strusma01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -34.09999999999974,
+            "vorp": 2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2503.9,
+        "vorp": 2
+      },
+      "categoryValues": {
+        "bpm": 2503.9,
+        "vorp": 2
+      },
+      "runningValues": {
+        "bpm": 15608.200000000012,
+        "vorp": 41.699999999999996
+      }
+    },
+    {
+      "id": "altmako01x-148",
+      "sourceId": 148,
+      "date": "2023-07-06",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Georges Niang",
+      "participants": [
+        {
+          "name": "Georges Niang",
+          "playerHref": "/players/n/niangge01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -7205.299999999999,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -7205.299999999999,
+        "vorp": -0.30000000000000004
+      },
+      "categoryValues": {
+        "bpm": -7205.299999999999,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": 8402.900000000012,
+        "vorp": 41.4
+      }
+    },
+    {
+      "id": "altmako01x-149",
+      "sourceId": 149,
+      "date": "2023-07-06",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Caris Levert",
+      "participants": [
+        {
+          "name": "Caris Levert",
+          "playerHref": "/players/l/leverca01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 1476.4,
+            "vorp": 1.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1476.4,
+        "vorp": 1.8
+      },
+      "categoryValues": {
+        "bpm": 1476.4,
+        "vorp": 1.8
+      },
+      "runningValues": {
+        "bpm": 9879.300000000012,
+        "vorp": 43.199999999999996
+      }
+    },
+    {
+      "id": "altmako01x-150",
+      "sourceId": 150,
+      "date": "2023-07-06",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Ty Jerome",
+      "participants": [
+        {
+          "name": "Ty Jerome",
+          "playerHref": "/players/j/jeromty01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 5917.9,
+            "vorp": 2.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5917.9,
+        "vorp": 2.2
+      },
+      "categoryValues": {
+        "bpm": 5917.9,
+        "vorp": 2.2
+      },
+      "runningValues": {
+        "bpm": 15797.200000000012,
+        "vorp": 45.4
+      }
+    },
+    {
+      "id": "altmako01x-151",
+      "sourceId": 151,
+      "date": "2023-07-07",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Rookie contract for Emoni Bates",
+      "participants": [
+        {
+          "name": "Emoni Bates",
+          "playerHref": "/players/b/batesem01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1210.3,
+            "vorp": -0.2
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -1210.3,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 14586.900000000012,
+        "vorp": 45.199999999999996
+      }
+    },
+    {
+      "id": "altmako01x-152",
+      "sourceId": 152,
+      "date": "2023-07-08",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Damian Jones",
+      "participants": [
+        {
+          "name": "Damian Jones",
+          "playerHref": "/players/j/jonesda03.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -135,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -135,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": -135,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 14451.900000000012,
+        "vorp": 45.3
+      }
+    },
+    {
+      "id": "altmako01x-153",
+      "sourceId": 153,
+      "date": "2023-09-12",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Tristan Thompson",
+      "participants": [
+        {
+          "name": "Tristan Thompson",
+          "playerHref": "/players/t/thomptr01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -768.5999999999997,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -768.5999999999997,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": -768.5999999999997,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 13683.300000000012,
+        "vorp": 45.4
+      }
+    },
+    {
+      "id": "altmako01x-154",
+      "sourceId": 154,
+      "date": "2024-02-11",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Zhaire Smith",
+      "participants": [
+        {
+          "name": "Zhaire Smith",
+          "playerHref": "/players/s/smithzh01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 13683.300000000012,
+        "vorp": 45.4
+      }
+    },
+    {
+      "id": "altmako01x-155",
+      "sourceId": 155,
+      "date": "2024-02-19",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Pete Nance",
+      "participants": [
+        {
+          "name": "Pete Nance",
+          "playerHref": "/players/n/nancepe01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -405,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -405,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -405,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 13278.300000000012,
+        "vorp": 45.3
+      }
+    },
+    {
+      "id": "altmako01x-156",
+      "sourceId": 156,
+      "date": "2024-02-26",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Sharife Cooper",
+      "participants": [
+        {
+          "name": "Sharife Cooper",
+          "playerHref": "/players/c/coopesh01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 13278.300000000012,
+        "vorp": 45.3
+      }
+    },
+    {
+      "id": "altmako01x-157",
+      "sourceId": 157,
+      "date": "2024-03-18",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Marcus Morris",
+      "participants": [
+        {
+          "name": "Marcus Morris",
+          "playerHref": "/players/m/morrima03.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 13278.300000000012,
+        "vorp": 45.3
+      }
+    },
+    {
+      "id": "altmako01x-158",
+      "sourceId": 158,
+      "date": "2024-03-29",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Marcus Morris",
+      "participants": [
+        {
+          "name": "Marcus Morris",
+          "playerHref": "/players/m/morrima03.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -900,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -900,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -900,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 12378.300000000012,
+        "vorp": 45.199999999999996
+      }
+    },
+    {
+      "id": "altmako01x-159",
+      "sourceId": 159,
+      "date": "2024-06-26",
+      "type": "draft",
+      "tenureTeam": "CLE",
+      "summary": "Drafted Jaylon Tyson",
+      "participants": [
+        {
+          "name": "Jaylon Tyson",
+          "playerHref": "/players/t/tysonja01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -1748.4,
+        "vorp": 0.7000000000000001
+      },
+      "runningValues": {
+        "bpm": 12378.300000000012,
+        "vorp": 45.199999999999996
+      }
+    },
+    {
+      "id": "altmako01x-160",
+      "sourceId": 160,
+      "date": "2024-07-02",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Rookie contract for Jaylon Tyson",
+      "participants": [
+        {
+          "name": "Jaylon Tyson",
+          "playerHref": "/players/t/tysonja01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1748.4,
+            "vorp": 0.7000000000000001
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -1748.4,
+        "vorp": 0.7000000000000001
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 10629.900000000012,
+        "vorp": 45.9
+      }
+    },
+    {
+      "id": "altmako01x-161",
+      "sourceId": 161,
+      "date": "2024-08-20",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Emoni Bates",
+      "participants": [
+        {
+          "name": "Emoni Bates",
+          "playerHref": "/players/b/batesem01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -112.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -112.5,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -112.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 10517.400000000012,
+        "vorp": 45.9
+      }
+    },
+    {
+      "id": "altmako01x-162",
+      "sourceId": 162,
+      "date": "2024-08-28",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Rookie contract for Luke Travers",
+      "participants": [
+        {
+          "name": "Luke Travers",
+          "playerHref": "/players/t/travelu01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -853.5999999999998,
+            "vorp": -0.2
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -853.5999999999998,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 9663.800000000012,
+        "vorp": 45.699999999999996
+      }
+    },
+    {
+      "id": "altmako01x-163",
+      "sourceId": 163,
+      "date": "2024-09-08",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed JT Thor",
+      "participants": [
+        {
+          "name": "JT Thor",
+          "playerHref": "/players/t/thorjt01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 9663.800000000012,
+        "vorp": 45.699999999999996
+      }
+    },
+    {
+      "id": "altmako01x-164",
+      "sourceId": 164,
+      "date": "2024-09-08",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Tristan Thompson",
+      "participants": [
+        {
+          "name": "Tristan Thompson",
+          "playerHref": "/players/t/thomptr01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1508.8,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1508.8,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1508.8,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 8155.000000000012,
+        "vorp": 45.49999999999999
+      }
+    },
+    {
+      "id": "altmako01x-165",
+      "sourceId": 165,
+      "date": "2024-09-17",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Isaac Okoro",
+      "participants": [
+        {
+          "name": "Isaac Okoro",
+          "playerHref": "/players/o/okorois01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -526.5,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -526.5,
+        "vorp": 0.4
+      },
+      "categoryValues": {
+        "bpm": -526.5,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": 7628.500000000012,
+        "vorp": 45.89999999999999
+      }
+    },
+    {
+      "id": "altmako01x-166",
+      "sourceId": 166,
+      "date": "2024-09-24",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Jules Bernard",
+      "participants": [
+        {
+          "name": "Jules Bernard",
+          "playerHref": "/players/b/bernaju01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 7628.500000000012,
+        "vorp": 45.89999999999999
+      }
+    },
+    {
+      "id": "altmako01x-167",
+      "sourceId": 167,
+      "date": "2025-02-06",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added De'Andre Hunter, Alex Karaban, and future ('2026', '1st') round pick; Sent out Caris LeVert, Georges Niang, Zuby Ejiofor, and future ('2026', '1st') round pick",
+      "participants": [
+        {
+          "name": "Caris LeVert",
+          "playerHref": "/players/l/leverca01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -276.8,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Georges Niang",
+          "playerHref": "/players/n/niangge01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 1996.4,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Zuby Ejiofor",
+          "playerHref": "/players/e/ejiofzu01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -9,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "De'Andre Hunter",
+          "playerHref": "/players/h/huntede01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -2743.3999999999996,
+            "vorp": 0.19999999999999996
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alex Karaban",
+          "playerHref": "/players/k/karabal01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '1st') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1032.7999999999995,
+        "vorp": -5.551115123125783e-17
+      },
+      "categoryValues": {
+        "bpm": -1032.7999999999995,
+        "vorp": -5.551115123125783e-17
+      },
+      "runningValues": {
+        "bpm": 6595.700000000012,
+        "vorp": 45.9
+      }
+    },
+    {
+      "id": "altmako01x-168",
+      "sourceId": 168,
+      "date": "2025-02-20",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Nae'qwan Tomlin",
+      "participants": [
+        {
+          "name": "Nae'qwan Tomlin",
+          "playerHref": "/players/t/tomlina01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 6595.700000000012,
+        "vorp": 45.9
+      }
+    },
+    {
+      "id": "altmako01x-169",
+      "sourceId": 169,
+      "date": "2025-02-23",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Javonte Green",
+      "participants": [
+        {
+          "name": "Javonte Green",
+          "playerHref": "/players/g/greenja02.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -514.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -514.6,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -514.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 6081.100000000011,
+        "vorp": 45.9
+      }
+    },
+    {
+      "id": "altmako01x-170",
+      "sourceId": 170,
+      "date": "2025-03-02",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Nae'qwan Tomlin",
+      "participants": [
+        {
+          "name": "Nae'qwan Tomlin",
+          "playerHref": "/players/t/tomlina01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -2454.9,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2454.9,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -2454.9,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 3626.200000000011,
+        "vorp": 45.8
+      }
+    },
+    {
+      "id": "altmako01x-171",
+      "sourceId": 171,
+      "date": "2025-04-05",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Chuma Okeke",
+      "participants": [
+        {
+          "name": "Chuma Okeke",
+          "playerHref": "/players/o/okekech01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -102.49999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -102.49999999999999,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -102.49999999999999,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 3523.700000000011,
+        "vorp": 45.8
+      }
+    },
+    {
+      "id": "altmako01x-172",
+      "sourceId": 172,
+      "date": "2025-06-25",
+      "type": "draft",
+      "tenureTeam": "CLE",
+      "summary": "Drafted Tyrese Proctor and Saliou Niang",
+      "participants": [
+        {
+          "name": "Tyrese Proctor",
+          "playerHref": "/players/p/proctty01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Saliou Niang",
+          "playerHref": "/players/n/niangsa01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -914.4,
+        "vorp": 0.19999999999999998
+      },
+      "runningValues": {
+        "bpm": 3523.700000000011,
+        "vorp": 45.8
+      }
+    },
+    {
+      "id": "altmako01x-173",
+      "sourceId": 173,
+      "date": "2025-07-01",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Luke Travers",
+      "participants": [
+        {
+          "name": "Luke Travers",
+          "playerHref": "/players/t/travelu01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -329.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -329.6,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -329.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 3194.1000000000113,
+        "vorp": 45.8
+      }
+    },
+    {
+      "id": "altmako01x-174",
+      "sourceId": 174,
+      "date": "2025-07-01",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Rookie contract for Tyrese Proctor",
+      "participants": [
+        {
+          "name": "Tyrese Proctor",
+          "playerHref": "/players/p/proctty01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -914.4,
+            "vorp": 0.19999999999999998
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -914.4,
+        "vorp": 0.19999999999999998
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 2279.700000000011,
+        "vorp": 46
+      }
+    },
+    {
+      "id": "altmako01x-175",
+      "sourceId": 175,
+      "date": "2025-07-06",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Sam Merrill",
+      "participants": [
+        {
+          "name": "Sam Merrill",
+          "playerHref": "/players/m/merrisa01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -111.89999999999998,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -111.89999999999998,
+        "vorp": 0.7
+      },
+      "categoryValues": {
+        "bpm": -111.89999999999998,
+        "vorp": 0.7
+      },
+      "runningValues": {
+        "bpm": 2167.800000000011,
+        "vorp": 46.7
+      }
+    },
+    {
+      "id": "altmako01x-176",
+      "sourceId": 176,
+      "date": "2025-07-06",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Lonzo Ball; Sent out Isaac Okoro",
+      "participants": [
+        {
+          "name": "Isaac Okoro",
+          "playerHref": "/players/o/okorois01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 7861.8,
+            "vorp": 1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lonzo Ball",
+          "playerHref": "/players/b/balllo01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -800.8000000000001,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 7061,
+        "vorp": 1.2
+      },
+      "categoryValues": {
+        "bpm": 7061,
+        "vorp": 1.2
+      },
+      "runningValues": {
+        "bpm": 9228.800000000012,
+        "vorp": 47.900000000000006
+      }
+    },
+    {
+      "id": "altmako01x-177",
+      "sourceId": 177,
+      "date": "2025-07-06",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Larry Nance Jr.",
+      "participants": [
+        {
+          "name": "Larry Nance Jr.",
+          "playerHref": "/players/n/nancela02.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1526.6,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1526.6,
+        "vorp": -0.2
+      },
+      "categoryValues": {
+        "bpm": -1526.6,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 7702.200000000012,
+        "vorp": 47.7
+      }
+    },
+    {
+      "id": "altmako01x-178",
+      "sourceId": 178,
+      "date": "2025-09-25",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Thomas Bryant",
+      "participants": [
+        {
+          "name": "Thomas Bryant",
+          "playerHref": "/players/b/bryanth01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 73.19999999999999,
+            "vorp": 0.4000000000000001
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 73.19999999999999,
+        "vorp": 0.4000000000000001
+      },
+      "categoryValues": {
+        "bpm": 73.19999999999999,
+        "vorp": 0.4000000000000001
+      },
+      "runningValues": {
+        "bpm": 7775.4000000000115,
+        "vorp": 48.1
+      }
+    },
+    {
+      "id": "altmako01x-179",
+      "sourceId": 179,
+      "date": "2025-10-31",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Chris Livingston",
+      "participants": [
+        {
+          "name": "Chris Livingston",
+          "playerHref": "/players/l/livinch01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -45.900000000000006,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -45.900000000000006,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -45.900000000000006,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 7729.500000000012,
+        "vorp": 48.1
+      }
+    },
+    {
+      "id": "altmako01x-180",
+      "sourceId": 180,
+      "date": "2026-01-28",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Tristan Enaruna",
+      "participants": [
+        {
+          "name": "Tristan Enaruna",
+          "playerHref": "/players/e/enarutr01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -265,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -265,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -265,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 7464.500000000012,
+        "vorp": 48.1
+      }
+    },
+    {
+      "id": "altmako01x-181",
+      "sourceId": 181,
+      "date": "2026-02-01",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Emanuel Miller, Keon Ellis, and Dennis Schroder; Sent out De'Andre Hunter and future ('2027', '2nd') round pick",
+      "participants": [
+        {
+          "name": "De'Andre Hunter",
+          "playerHref": "/players/h/huntede01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 2301.1,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Emanuel Miller",
+          "playerHref": "/players/m/milleem01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Keon Ellis",
+          "playerHref": "/players/e/elliske01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 792.0000000000001,
+            "vorp": 0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dennis Schroder",
+          "playerHref": "/players/s/schrode01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1794.8,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1298.3,
+        "vorp": 0.9
+      },
+      "categoryValues": {
+        "bpm": 1298.3,
+        "vorp": 0.9
+      },
+      "runningValues": {
+        "bpm": 8762.800000000012,
+        "vorp": 49
+      }
+    },
+    {
+      "id": "altmako01x-182",
+      "sourceId": 182,
+      "date": "2026-02-04",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added James Harden; Sent out Darius Garland, Henri Veesaar, and future ('2026', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Darius Garland",
+          "playerHref": "/players/g/garlada01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 160.60000000000002,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Henri Veesaar",
+          "playerHref": "/players/v/veesahe01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "James Harden",
+          "playerHref": "/players/h/hardeja01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 3516,
+            "vorp": 1.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3676.6,
+        "vorp": 0.9
+      },
+      "categoryValues": {
+        "bpm": 3676.6,
+        "vorp": 0.9
+      },
+      "runningValues": {
+        "bpm": 12439.400000000012,
+        "vorp": 49.9
+      }
+    },
+    {
+      "id": "altmako01x-183",
+      "sourceId": 183,
+      "date": "2026-02-05",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Sent out Lonzo Ball, future ('2028', '2nd') round pick, and future ('2032', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Lonzo Ball",
+          "playerHref": "/players/b/balllo01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2028', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2032', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 12439.400000000012,
+        "vorp": 49.9
+      }
+    },
+    {
+      "id": "altmako01x-184",
+      "sourceId": 184,
+      "date": "2026-02-13",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Riley Minix",
+      "participants": [
+        {
+          "name": "Riley Minix",
+          "playerHref": "/players/m/minixri01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -100,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -100,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -100,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 12339.400000000012,
+        "vorp": 49.9
+      }
+    },
+    {
+      "id": "altmako01x-185",
+      "sourceId": 185,
+      "date": "2026-02-20",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Darius Brown II",
+      "participants": [
+        {
+          "name": "Darius Brown II",
+          "playerHref": "/players/b/brownda04.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -56.099999999999994,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -56.099999999999994,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": -56.099999999999994,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 12283.300000000012,
+        "vorp": 49.9
+      }
+    },
+    {
+      "id": "altmako01x-186",
+      "sourceId": 186,
+      "date": "2026-03-03",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Olivier Sarr",
+      "participants": [
+        {
+          "name": "Olivier Sarr",
+          "playerHref": "/players/s/sarrol01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 101.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 101.4,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 101.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 12384.700000000012,
+        "vorp": 49.9
+      }
+    },
+    {
+      "id": "altmako01x-187",
+      "sourceId": 187,
+      "date": "2026-06-23",
+      "type": "draft",
+      "tenureTeam": "CLE",
+      "summary": "Drafted Alex Karaban",
+      "participants": [
+        {
+          "name": "Alex Karaban",
+          "playerHref": "/players/k/karabal01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 12384.700000000012,
+        "vorp": 49.9
+      }
+    },
+    {
+      "id": "altmako01x-188",
+      "sourceId": 188,
+      "date": "2026-06-24",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Meleek Thomas and future ('2032', '2nd') round pick; Sent out Alex Karaban",
+      "participants": [
+        {
+          "name": "Alex Karaban",
+          "playerHref": "/players/k/karabal01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 741,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Meleek Thomas",
+          "playerHref": "/players/t/thomame01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2032', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 741,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 741,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 13125.700000000012,
+        "vorp": 50
+      }
+    },
+    {
+      "id": "altmako01x-189",
+      "sourceId": 189,
+      "date": "2026-07-01",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Ernest Udeh Jr.",
+      "participants": [
+        {
+          "name": "Ernest Udeh Jr.",
+          "playerHref": "/players/u/udehjer01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 13125.700000000012,
+        "vorp": 50
+      }
+    },
+    {
+      "id": "altmako01x-190",
+      "sourceId": 190,
+      "date": "2026-07-01",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Meleek Thomas",
+      "participants": [
+        {
+          "name": "Meleek Thomas",
+          "playerHref": "/players/t/thomame01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -230.4,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -230.4,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": -230.4,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 12895.300000000012,
+        "vorp": 50.1
+      }
+    },
+    {
+      "id": "altmako01x-191",
+      "sourceId": 191,
+      "date": "2026-07-07",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Thomas Bryant",
+      "participants": [
+        {
+          "name": "Thomas Bryant",
+          "playerHref": "/players/b/bryanth01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 394.4,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 394.4,
+        "vorp": 0.2
+      },
+      "categoryValues": {
+        "bpm": 394.4,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 13289.700000000012,
+        "vorp": 50.300000000000004
+      }
+    },
+    {
+      "id": "altmako01x-192",
+      "sourceId": 192,
+      "date": "2026-07-31",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Mario Hezonja",
+      "participants": [
+        {
+          "name": "Mario Hezonja",
+          "playerHref": "/players/h/hezonma01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -285,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -285,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": -285,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 13004.700000000012,
+        "vorp": 50.400000000000006
+      }
+    },
+    {
+      "id": "altmako01x-193",
+      "sourceId": 193,
+      "date": "2026-08-20",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Peyton Watson, Ismael Kamagate, and Cam Whitmore; Sent out Max Strus and Dennis Schroder",
+      "participants": [
+        {
+          "name": "Max Strus",
+          "playerHref": "/players/s/strusma01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 156,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dennis Schroder",
+          "playerHref": "/players/s/schrode01.html",
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 2071.3,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Peyton Watson",
+          "playerHref": "/players/w/watsope01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1660,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ismael Kamagate",
+          "playerHref": "/players/k/kamagis01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cam Whitmore",
+          "playerHref": "/players/w/whitmca01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 567.3000000000002,
+        "vorp": 0.10000000000000003
+      },
+      "categoryValues": {
+        "bpm": 567.3000000000002,
+        "vorp": 0.10000000000000003
+      },
+      "runningValues": {
+        "bpm": 13572.000000000011,
+        "vorp": 50.50000000000001
+      }
+    },
+    {
+      "id": "altmako01x-194",
+      "sourceId": 194,
+      "date": "2026-09-02",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Rookie contract for Khalifa Diop",
+      "participants": [
+        {
+          "name": "Khalifa Diop",
+          "playerHref": "/players/d/diopkh01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "categoryValues": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 13572.000000000011,
+        "vorp": 50.50000000000001
+      }
+    },
+    {
+      "id": "altmako01x-195",
+      "sourceId": 195,
+      "date": "2026-09-08",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed James Harden",
+      "participants": [
+        {
+          "name": "James Harden",
+          "playerHref": "/players/h/hardeja01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -230.5,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -230.5,
+        "vorp": 0.2
+      },
+      "categoryValues": {
+        "bpm": -230.5,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 13341.500000000011,
+        "vorp": 50.70000000000001
+      }
+    },
+    {
+      "id": "altmako01x-196",
+      "sourceId": 196,
+      "date": "2026-11-05",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Norchad Omier",
+      "participants": [
+        {
+          "name": "Norchad Omier",
+          "playerHref": "/players/o/omierno01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 214.5,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 214.5,
+        "vorp": 0.1
+      },
+      "categoryValues": {
+        "bpm": 214.5,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 13556.000000000011,
+        "vorp": 50.80000000000001
+      }
+    },
+    {
+      "id": "altmako01x-197",
+      "sourceId": 197,
+      "date": "2026-11-07",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Riley Minix",
+      "participants": [
+        {
+          "name": "Riley Minix",
+          "playerHref": "/players/m/minixri01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -616,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -616,
+        "vorp": -0.1
+      },
+      "categoryValues": {
+        "bpm": -616,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 12940.000000000011,
+        "vorp": 50.70000000000001
+      }
+    }
+  ]
+}
