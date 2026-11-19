@@ -29,6 +29,15 @@ test("synchronizes metric, filters, search, pagination, and shareable URL state"
   await expect(page).toHaveURL(/metric=vorp/);
   await page.getByRole("button", { name: "Drafting", exact: true }).click();
   await expect(page).toHaveURL(/type=draft/);
+  await expect(page.locator(".move-highlight").first()).toContainText("draft");
+  await expect(page.locator(".move-highlight").last()).toContainText("draft");
+  await page.getByRole("button", { name: "Trades", exact: true }).click();
+  await expect(page.locator(".move-highlight").first()).toContainText("trade");
+  await expect(page.locator(".move-highlight").last()).toContainText("trade");
+  await page.getByRole("button", { name: "Signings", exact: true }).click();
+  await expect(page.locator(".move-highlight").first()).toContainText("signing");
+  await expect(page.locator(".move-highlight").last()).toContainText("signing");
+  await page.getByRole("button", { name: "Drafting", exact: true }).click();
   await page.getByRole("searchbox", { name: "Find a player or pick" }).fill("Tyrese Maxey");
   await expect(page).toHaveURL(/q=Tyrese\+Maxey/);
   await expect(page.getByTestId("timeline-event")).toHaveCount(1);

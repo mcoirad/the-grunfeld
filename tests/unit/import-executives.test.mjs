@@ -65,6 +65,8 @@ describe("executive detail normalization", () => {
     transaction_id: "1.0",
     transaction_type: "trade",
     did_bpm_replace_for_draft_transaction: "False",
+    draft_bpm: "0",
+    draft_vorp: "0",
     actual_bpm: "0",
     actual_vorp: "0",
     running_bpm: "0",
@@ -94,6 +96,7 @@ describe("executive detail normalization", () => {
     expect(detail.tenures.map(({ teamCode }) => teamCode)).toEqual(["HOU", "PHI"]);
     expect(detail.transactions).toHaveLength(2);
     expect(detail.transactions[0].values).toEqual({ bpm: 7, vorp: 0.7 });
+    expect(detail.transactions[0].categoryValues).toEqual({ bpm: 7, vorp: 0.7 });
     expect(detail.transactions[0].participants.map(({ direction }) => direction)).toEqual(["in", "out"]);
   });
 
@@ -130,6 +133,19 @@ describe("executive detail normalization", () => {
       );
       expect(detail.transactions[0].type).toBe("trade");
     }
+  });
+
+  it("assigns category value to the draft choice instead of its rookie signing", () => {
+    const detail = normalizeDetailRecords(
+      [
+        boundary("2020-01-01 00:00:00"),
+        row({ transaction_type: "draft", draft_bpm: "7", draft_vorp: "0.7", actual_bpm: "0", actual_vorp: "0" }),
+        row({ transaction_id: "2.0", transaction_type: "signing", did_bpm_replace_for_draft_transaction: "True", transaction_date: "2020-01-02 00:00:00", actual_bpm: "7", actual_vorp: "0.7", running_bpm: "7", running_vorp: "0.7" }),
+      ],
+      { ...executive, teams: executive.teams.slice(0, 1) },
+    );
+    expect(detail.transactions[0].categoryValues).toEqual({ bpm: 7, vorp: 0.7 });
+    expect(detail.transactions[1].categoryValues).toEqual({ bpm: 0, vorp: 0 });
   });
 
   it("rejects invalid calendar dates and non-numeric impacts", () => {

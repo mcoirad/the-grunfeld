@@ -331,6 +331,27 @@ export function normalizeDetailRecords(records, executive) {
         };
       });
       const last = group.records.at(-1);
+      const values = participants.reduce(
+        (sum, participant) => ({
+          bpm: sum.bpm + participant.values.bpm,
+          vorp: sum.vorp + participant.values.vorp,
+        }),
+        { bpm: 0, vorp: 0 },
+      );
+      const draftValues = group.records.reduce(
+        (sum, record) => ({
+          bpm: sum.bpm + parseNumber(record.draft_bpm, "draft_bpm"),
+          vorp: sum.vorp + parseNumber(record.draft_vorp, "draft_vorp"),
+        }),
+        { bpm: 0, vorp: 0 },
+      );
+      const signingValues = participants.reduce(
+        (sum, participant) => participant.creditedToDraft ? sum : ({
+          bpm: sum.bpm + participant.values.bpm,
+          vorp: sum.vorp + participant.values.vorp,
+        }),
+        { bpm: 0, vorp: 0 },
+      );
       return {
         id: `${executive.slug}-${group.sourceId}`,
         sourceId: group.sourceId,
@@ -339,13 +360,8 @@ export function normalizeDetailRecords(records, executive) {
         tenureTeam: boundaries[group.tenureIndex].teamCode,
         summary: summarizeTransaction(type, participants),
         participants,
-        values: participants.reduce(
-          (sum, participant) => ({
-            bpm: sum.bpm + participant.values.bpm,
-            vorp: sum.vorp + participant.values.vorp,
-          }),
-          { bpm: 0, vorp: 0 },
-        ),
+        values,
+        categoryValues: type === "draft" ? draftValues : type === "signing" ? signingValues : values,
         runningValues: {
           bpm: parseNumber(last.running_bpm, "running_bpm"),
           vorp: parseNumber(last.running_vorp, "running_vorp"),

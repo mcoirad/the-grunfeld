@@ -81,6 +81,7 @@ export interface ExecutiveTransaction {
   summary: string;
   participants: ExecutiveParticipant[];
   values: MetricValues;
+  categoryValues: MetricValues;
   runningValues: MetricValues;
 }
 

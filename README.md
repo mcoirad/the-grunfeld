@@ -38,7 +38,7 @@ npm run data:refresh -- \
   --generated-at 2026-11-18T00:00:00Z
 ```
 
-The importer writes `src/data/executives.json`, `src/data/snapshot.json`, and one normalized detail document per executive under `src/data/executive-details`. When `--details-dir` points outside the committed source directory, it also refreshes the checked-in `data/source/executive_details_v2` snapshot. It groups whole trades, preserves tenure boundaries, validates every metric and transaction, and verifies each final running score against the aggregate executive record.
+The importer writes `src/data/executives.json`, `src/data/snapshot.json`, and one normalized detail document per executive under `src/data/executive-details`. When `--details-dir` points outside the committed source directory, it also refreshes the checked-in `data/source/executive_details_v2` snapshot. It groups whole trades, preserves tenure boundaries, validates every metric and transaction, and verifies each final running score against the aggregate executive record. Detail events retain chronological impact for the cumulative chart plus category impact that credits player value to the original draft choice and excludes draft-credit bookkeeping rows from signing views.
 
 To refresh directly from a completed backend analysis run, point `--details-dir` at that run’s `exec_data2` directory—not `exec_data`—and keep the remaining provenance arguments aligned with the same run.
 

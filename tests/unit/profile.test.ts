@@ -28,6 +28,7 @@ function transaction(id: number, type: ExecutiveTransaction["type"], bpm: number
       },
     ],
     values: { bpm, vorp: bpm / 10 },
+    categoryValues: { bpm, vorp: bpm / 10 },
     runningValues: { bpm, vorp: bpm / 10 },
   };
 }
@@ -54,6 +55,30 @@ describe("profile state and transaction helpers", () => {
       best: transactions[2],
       worst: transactions[0],
     });
+    expect(findHighlights(transactions, "bpm", "trade")).toEqual({
+      best: transactions[1],
+      worst: null,
+    });
+    expect(findHighlights(transactions, "bpm", "draft")).toEqual({
+      best: null,
+      worst: transactions[0],
+    });
+    expect(findHighlights(transactions, "bpm", "signing")).toEqual({
+      best: transactions[2],
+      worst: null,
+    });
+  });
+
+  it("excludes draft-credited rookie contracts from signing views", () => {
+    const rookieContract = {
+      ...transactions[2],
+      participants: transactions[2].participants.map((participant) => ({
+        ...participant,
+        creditedToDraft: true,
+      })),
+      categoryValues: { bpm: 0, vorp: 0 },
+    };
+    expect(filterTransactions([rookieContract], "signing", "")).toEqual([]);
   });
 
   it("assigns impact tiers from absolute within-executive magnitude", () => {

@@ -8,6 +8,7 @@ import {
   impactTier,
   parseProfileState,
   serializeProfileState,
+  transactionImpact,
 } from "../lib/profile";
 import type {
   CategoryName,
@@ -292,17 +293,19 @@ function HighlightCard({
   label,
   transaction,
   metric,
+  type,
 }: {
   label: string;
   transaction: ExecutiveTransaction | null;
   metric: MetricName;
+  type: ProfileState["type"];
 }) {
   return (
     <article class={`move-highlight move-highlight--${label === "Biggest win" ? "positive" : "negative"}`}>
       <p class="eyebrow">{label}</p>
       {transaction ? (
         <>
-          <strong>{formatValue(transaction.values[metric], metric, true)}</strong>
+          <strong>{formatValue(transactionImpact(transaction, metric, type), metric, true)}</strong>
           <h3>{transaction.summary}</h3>
           <p>{formatDate(transaction.date)} · {transaction.type} · {transaction.tenureTeam}</p>
         </>
@@ -344,8 +347,8 @@ export function ExecutiveProfile({
     ? rankExecutives(ALL_EXECUTIVES, "current", state.metric).find(({ slug }) => slug === executive.slug)
     : null;
   const highlights = useMemo(
-    () => findHighlights(detail.transactions, state.metric),
-    [detail.transactions, state.metric],
+    () => findHighlights(detail.transactions, state.metric, state.type),
+    [detail.transactions, state.metric, state.type],
   );
   const filtered = useMemo(
     () => filterTransactions(detail.transactions, state.type, state.query).toReversed(),
@@ -433,8 +436,8 @@ export function ExecutiveProfile({
           <h2 id="moves-title">The wins. The losses. Everything between.</h2>
         </div>
         <div class="move-highlights">
-          <HighlightCard label="Biggest win" transaction={highlights.best} metric={state.metric} />
-          <HighlightCard label="Biggest loss" transaction={highlights.worst} metric={state.metric} />
+          <HighlightCard label="Biggest win" transaction={highlights.best} metric={state.metric} type={state.type} />
+          <HighlightCard label="Biggest loss" transaction={highlights.worst} metric={state.metric} type={state.type} />
         </div>
         <div class="timeline-controls" aria-label="Transaction filters">
           <fieldset class="segmented-control">
@@ -472,10 +475,10 @@ export function ExecutiveProfile({
                     </div>
                     <div class="timeline-event__body">
                       <h3>{transaction.summary}</h3>
-                      {draftCredit && <p class="draft-credit">Rookie-contract value from this entry is credited to drafting in the category report.</p>}
+                      {draftCredit && <p class="draft-credit">This chronological contract adjustment prevents double-counting. Drafting views and grades attach the player’s draft value to the original pick.</p>}
                     </div>
-                    <strong class={transaction.values[state.metric] < 0 ? "is-negative" : "is-positive"}>
-                      {formatValue(transaction.values[state.metric], state.metric, true)}
+                    <strong class={transactionImpact(transaction, state.metric, state.type) < 0 ? "is-negative" : "is-positive"}>
+                      {formatValue(transactionImpact(transaction, state.metric, state.type), state.metric, true)}
                     </strong>
                   </article>
                 );
@@ -493,7 +496,7 @@ export function ExecutiveProfile({
 
       <aside class="profile-methodology">
         <strong>How to read this page</strong>
-        <p>BPM is shown as the analysis’s cumulative BPM-derived player value, not raw single-season BPM. Whole trades combine every incoming and outgoing row sharing a transaction ID. Missing efficiency ratings remain unscored.</p>
+        <p>BPM is shown as the analysis’s cumulative BPM-derived player value, not raw single-season BPM. Drafting views attach player value to the original pick; the unfiltered cumulative timeline retains later contract adjustments so the same production is not counted twice. Whole trades combine every incoming and outgoing row sharing a transaction ID. Missing efficiency ratings remain unscored.</p>
         <span>Snapshot {metadataRunId} · {detail.transactions.length} grouped moves</span>
       </aside>
     </div>

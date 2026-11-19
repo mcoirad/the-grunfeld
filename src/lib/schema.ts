@@ -112,6 +112,7 @@ const transactionSchema = z.object({
   summary: z.string().min(1),
   participants: z.array(participantSchema).min(1),
   values: metricValuesSchema,
+  categoryValues: metricValuesSchema,
   runningValues: metricValuesSchema,
 });
 

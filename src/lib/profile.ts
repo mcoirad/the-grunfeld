@@ -39,7 +39,12 @@ export function filterTransactions(
 ) {
   const normalizedQuery = query.trim().toLocaleLowerCase();
   return transactions.filter((transaction) => {
-    const matchesType = type === "all" || transaction.type === type;
+    const isDraftCreditedSigning =
+      transaction.type === "signing" &&
+      transaction.participants.every(({ creditedToDraft }) => creditedToDraft);
+    const matchesType =
+      type === "all" ||
+      (transaction.type === type && !(type === "signing" && isDraftCreditedSigning));
     const matchesQuery =
       !normalizedQuery ||
       transaction.summary.toLocaleLowerCase().includes(normalizedQuery) ||
@@ -53,26 +58,37 @@ export function filterTransactions(
 export function findHighlights(
   transactions: ExecutiveTransaction[],
   metric: MetricName,
+  type: ProfileState["type"] = "all",
 ) {
-  const populated = transactions.filter(({ values }) => values[metric] !== 0);
+  const populated = filterTransactions(transactions, type, "").filter(
+    (transaction) => transactionImpact(transaction, metric, type) !== 0,
+  );
   const best = populated.reduce<ExecutiveTransaction | null>(
     (winner, transaction) =>
-      !winner || transaction.values[metric] > winner.values[metric]
+      !winner || transactionImpact(transaction, metric, type) > transactionImpact(winner, metric, type)
         ? transaction
         : winner,
     null,
   );
   const worst = populated.reduce<ExecutiveTransaction | null>(
     (loser, transaction) =>
-      !loser || transaction.values[metric] < loser.values[metric]
+      !loser || transactionImpact(transaction, metric, type) < transactionImpact(loser, metric, type)
         ? transaction
         : loser,
     null,
   );
   return {
-    best: best && best.values[metric] > 0 ? best : null,
-    worst: worst && worst.values[metric] < 0 ? worst : null,
+    best: best && transactionImpact(best, metric, type) > 0 ? best : null,
+    worst: worst && transactionImpact(worst, metric, type) < 0 ? worst : null,
   };
+}
+
+export function transactionImpact(
+  transaction: ExecutiveTransaction,
+  metric: MetricName,
+  type: ProfileState["type"],
+) {
+  return (type === "all" ? transaction.values : transaction.categoryValues)[metric];
 }
 
 export function impactTier(
