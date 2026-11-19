@@ -1,0 +1,42 @@
+{
+  "name": "the-grunfeld",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "^22.22.2 || ^24.15.0 || >=26.0.0"
+  },
+  "scripts": {
+    "dev": "ASTRO_TELEMETRY_DISABLED=1 astro dev",
+    "start": "ASTRO_TELEMETRY_DISABLED=1 astro dev",
+    "build": "ASTRO_TELEMETRY_DISABLED=1 astro build",
+    "preview": "ASTRO_TELEMETRY_DISABLED=1 astro preview",
+    "check": "ASTRO_TELEMETRY_DISABLED=1 astro check",
+    "data:refresh": "node scripts/import-executives.mjs",
+    "portraits:build": "node scripts/prepare-portraits.mjs",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "playwright test",
+    "test:e2e:update": "playwright test --update-snapshots",
+    "test:lighthouse": "node scripts/run-lighthouse.mjs",
+    "validate": "npm run check && npm test && npm run build"
+  },
+  "dependencies": {
+    "@astrojs/preact": "6.1.6",
+    "@fontsource-variable/archivo": "5.3.0",
+    "@fontsource/league-gothic": "5.3.0",
+    "astro": "7.4.13",
+    "preact": "11.2.0",
+    "zod": "4.6.7"
+  },
+  "devDependencies": {
+    "@astrojs/check": "0.9.12",
+    "@lhci/cli": "0.16.1",
+    "@playwright/test": "1.65.1",
+    "@types/node": "26.6.6",
+    "csv-parse": "7.0.3",
+    "sharp": "0.35.5",
+    "typescript": "6.0.3",
+    "vitest": "5.1.1"
+  }
+}
