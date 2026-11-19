@@ -1,0 +1,84 @@
+name: Validate and deploy Astro site
+
+on:
+  pull_request:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Set up Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: 22.23.4
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install browser
+        run: npx playwright install --with-deps chromium
+
+      - name: Type-check Astro
+        run: npm run check
+
+      - name: Run unit tests
+        run: npm test
+
+      - name: Build static site
+        run: npm run build
+
+      - name: Run browser tests
+        run: npm run test:e2e
+
+      - name: Check performance and accessibility budgets
+        run: npm run test:lighthouse
+
+      - name: Upload browser test artifacts
+        if: always()
+        uses: actions/upload-artifact@v6
+        with:
+          name: browser-test-artifacts
+          path: |
+            playwright-report
+            test-results
+          if-no-files-found: ignore
+
+      - name: Configure Pages
+        if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+
+  deploy:
+    if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+    needs: validate
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

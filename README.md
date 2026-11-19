@@ -1,17 +1,58 @@
-# the-grunfeld
-Advanced stats for unadvanced managers.
+# Front Office, Ranked
 
-### Link
-(https://mcoirad.github.io/the-grunfeld)
+The Grunfeld is a static Astro site that ranks NBA executives by the player value connected to their drafts, trades, and signings. The current frontend is intentionally data-led; hand-written executive profiles and detail routes are planned as a later editorial layer.
 
-#### Hello!
-This site was made by a long suffering Wizards fan. By “long” I mean my entire life. Well… I mean the Gilbert Arena years were fun. And John Wall and Co. did win 49 games, once. But really, Jan Vesely? There were so many years of squandered picks, draft capital, and just very mediocre management. Thus the creation of “The Grunfeld,” a site that aims to highlight poor performance of NBA higher-ups.
+## Local development
 
-Its well-known that we track and quantify the performance of players with countless statistics, perhaps overly so. It is only fair that we put the same effort into tracking the performance of managers. At the end they are the ones that should be held the most accountable by fanbases. Here we use the stats that we can find to create a systems of hierarchy.
+This project requires a supported Node release from `package.json`.
 
-#### And hey, for any NBA owner reading this: I will work for half of what any NBA GM makes, and can guarantee you I won’t take Jan Vesely!
+```sh
+npm ci
+npm run dev
+```
 
-Our core ranking methodology is pretty simple:
-* We build a database of transactions: trades, draft picks, free agency signings (TODO: departures)
-* We calculate the value of a transaction with a player’s BPM * minutes played for their tenure
-* We sum up the value of all the rankings over the tenure of an executive’s tenure
+Astro serves the site at `http://localhost:4321/the-grunfeld/` to match its GitHub Pages base path.
+
+Useful checks:
+
+```sh
+npm run check
+npm test
+npm run build
+npm run test:e2e
+npm run test:lighthouse
+```
+
+## Refreshing the data snapshot
+
+V1 reads a committed, validated snapshot. It does not connect to BigQuery at build time or in the browser.
+
+```sh
+npm run data:refresh -- \
+  --input data/source/executive_stats_v2.csv \
+  --run-id analysis-v2-first-20261118 \
+  --backend-commit 98ab7e84f6a949ef17bf802dfa28992e69df3232 \
+  --input-table the-grunfeld.executive_data.player_advanced_stats_v2 \
+  --draft-end-year 2026 \
+  --generated-at 2026-11-18T00:00:00Z
+```
+
+The importer writes `src/data/executives.json` and `src/data/snapshot.json`. It refuses an unexpected row count, an unexpected active count, duplicate slugs, mismatched team arrays, invalid grades, or percentiles outside 0–100. A future BigQuery adapter should write the same normalized JSON contract through `loadExecutiveSnapshot()`.
+
+The backend analysis publisher still emits Jekyll-shaped artifacts and must not target this Astro branch.
+
+## Portraits
+
+The optimized WebP portraits under `public/images/executives` were derived from the previous frontend’s checked-in images. The source files were removed from this branch after conversion. Executives without a matching portrait receive a branded initials fallback.
+
+To prepare a future portrait batch from an external source directory:
+
+```sh
+node scripts/prepare-portraits.mjs /absolute/path/to/headshots
+```
+
+## Deployment
+
+Pull requests run validation and build the static site. GitHub Pages deploys only from `master`, so this branch cannot alter the live site until it is explicitly reviewed and merged.
+
+This is an independent fan project and is not affiliated with The Ringer, the NBA, or any NBA team.
