@@ -5,7 +5,10 @@
       "numberOfRuns": 1,
       "startServerCommand": "npm run preview -- --host 127.0.0.1 --port 4321",
       "startServerReadyPattern": "Local|server running at",
-      "startServerReadyTimeout": 120000
+      "startServerReadyTimeout": 120000,
+      "settings": {
+        "chromeFlags": "--no-sandbox"
+      }
     },
     "assert": {
       "assertions": {
