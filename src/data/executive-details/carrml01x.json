@@ -1,0 +1,1113 @@
+{
+  "slug": "carrml01x",
+  "sourceRowCount": 47,
+  "tenures": [
+    {
+      "teamCode": "BOS",
+      "startDate": "1994-06-29",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "carrml01x-0",
+      "sourceId": 0,
+      "date": "1994-06-29",
+      "type": "draft",
+      "tenureTeam": "BOS",
+      "summary": "Drafted Eric Montross and Andrei Fetisov",
+      "participants": [
+        {
+          "name": "Eric Montross",
+          "playerHref": "/players/m/montrer01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": -12529.8,
+            "vorp": -1.2999999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Andrei Fetisov",
+          "playerHref": "/players/f/fetisan01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -12529.8,
+        "vorp": -1.2999999999999998
+      },
+      "runningValues": {
+        "bpm": -12529.8,
+        "vorp": -1.2999999999999998
+      }
+    },
+    {
+      "id": "carrml01x-1",
+      "sourceId": 1,
+      "date": "1994-06-29",
+      "type": "trade",
+      "tenureTeam": "BOS",
+      "summary": "Added Blue Edwards and Derek Strong; Sent out Andrei Fetisov and Ed Pinckney",
+      "participants": [
+        {
+          "name": "Andrei Fetisov",
+          "playerHref": "/players/f/fetisan01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ed Pinckney",
+          "playerHref": "/players/p/pincked01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 584.5,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Blue Edwards",
+          "playerHref": "/players/e/edwarbl01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": -1115.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Derek Strong",
+          "playerHref": "/players/s/stronde01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": -3763.2,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4294.1,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": -16823.899999999998,
+        "vorp": -1.9
+      }
+    },
+    {
+      "id": "carrml01x-2",
+      "sourceId": 2,
+      "date": "1994-07-20",
+      "type": "signing",
+      "tenureTeam": "BOS",
+      "summary": "Signed David Wesley",
+      "participants": [
+        {
+          "name": "David Wesley",
+          "playerHref": "/players/w/wesleda01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 8165.4,
+            "vorp": 5.199999999999999
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 8165.4,
+        "vorp": 5.199999999999999
+      },
+      "runningValues": {
+        "bpm": -8658.499999999998,
+        "vorp": 3.2999999999999994
+      }
+    },
+    {
+      "id": "carrml01x-3",
+      "sourceId": 3,
+      "date": "1994-07-25",
+      "type": "signing",
+      "tenureTeam": "BOS",
+      "summary": "Signed Dominique Wilkins",
+      "participants": [
+        {
+          "name": "Dominique Wilkins",
+          "playerHref": "/players/w/wilkido01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 242.3,
+            "vorp": 1.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 242.3,
+        "vorp": 1.3
+      },
+      "runningValues": {
+        "bpm": -8416.199999999999,
+        "vorp": 4.6
+      }
+    },
+    {
+      "id": "carrml01x-4",
+      "sourceId": 4,
+      "date": "1994-08-01",
+      "type": "signing",
+      "tenureTeam": "BOS",
+      "summary": "Signed Pervis Ellison",
+      "participants": [
+        {
+          "name": "Pervis Ellison",
+          "playerHref": "/players/e/ellispe01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": -6881.599999999999,
+            "vorp": 0.09999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6881.599999999999,
+        "vorp": 0.09999999999999998
+      },
+      "runningValues": {
+        "bpm": -15297.8,
+        "vorp": 4.699999999999999
+      }
+    },
+    {
+      "id": "carrml01x-5",
+      "sourceId": 5,
+      "date": "1994-10-19",
+      "type": "signing",
+      "tenureTeam": "BOS",
+      "summary": "Signed Greg Minor",
+      "participants": [
+        {
+          "name": "Greg Minor",
+          "playerHref": "/players/m/minorgr01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": -7454,
+            "vorp": 0.5999999999999999
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -7454,
+        "vorp": 0.5999999999999999
+      },
+      "runningValues": {
+        "bpm": -22751.8,
+        "vorp": 5.299999999999999
+      }
+    },
+    {
+      "id": "carrml01x-6",
+      "sourceId": 6,
+      "date": "1995-02-03",
+      "type": "trade",
+      "tenureTeam": "BOS",
+      "summary": "Added Jay Humphries and Junior Burrough; Sent out Blue Edwards",
+      "participants": [
+        {
+          "name": "Blue Edwards",
+          "playerHref": "/players/e/edwarbl01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 1573,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jay Humphries",
+          "playerHref": "/players/h/humphja01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": -260,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Junior Burrough",
+          "playerHref": "/players/b/burroju01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1313,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -21438.8,
+        "vorp": 5.399999999999999
+      }
+    },
+    {
+      "id": "carrml01x-7",
+      "sourceId": 7,
+      "date": "1995-02-28",
+      "type": "signing",
+      "tenureTeam": "BOS",
+      "summary": "Signed Tony Dawson",
+      "participants": [
+        {
+          "name": "Tony Dawson",
+          "playerHref": "/players/d/dawsoto01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": -202.79999999999998,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -202.79999999999998,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -21641.6,
+        "vorp": 5.399999999999999
+      }
+    },
+    {
+      "id": "carrml01x-8",
+      "sourceId": 8,
+      "date": "1995-02-28",
+      "type": "signing",
+      "tenureTeam": "BOS",
+      "summary": "Signed James Blackwell",
+      "participants": [
+        {
+          "name": "James Blackwell",
+          "playerHref": "/players/b/blackja01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 30.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 30.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -21611.1,
+        "vorp": 5.399999999999999
+      }
+    },
+    {
+      "id": "carrml01x-10",
+      "sourceId": 10,
+      "date": "1995-06-28",
+      "type": "draft",
+      "tenureTeam": "BOS",
+      "summary": "Drafted Eric Williams and Junior Burrough",
+      "participants": [
+        {
+          "name": "Eric Williams",
+          "playerHref": "/players/w/willier01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": -26647.899999999998,
+            "vorp": -0.8000000000000002
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Junior Burrough",
+          "playerHref": "/players/b/burroju01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": -3663,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -30310.899999999998,
+        "vorp": -1.5
+      },
+      "runningValues": {
+        "bpm": -51922,
+        "vorp": 3.8999999999999986
+      }
+    },
+    {
+      "id": "carrml01x-11",
+      "sourceId": 11,
+      "date": "1995-09-22",
+      "type": "signing",
+      "tenureTeam": "BOS",
+      "summary": "Signed Dana Barros",
+      "participants": [
+        {
+          "name": "Dana Barros",
+          "playerHref": "/players/b/barroda01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 11468.900000000001,
+            "vorp": 6.3999999999999995
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 11468.900000000001,
+        "vorp": 6.3999999999999995
+      },
+      "runningValues": {
+        "bpm": -40453.1,
+        "vorp": 10.299999999999997
+      }
+    },
+    {
+      "id": "carrml01x-12",
+      "sourceId": 12,
+      "date": "1995-10-04",
+      "type": "signing",
+      "tenureTeam": "BOS",
+      "summary": "Signed Doug Smith",
+      "participants": [
+        {
+          "name": "Doug Smith",
+          "playerHref": "/players/s/smithdo03.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": -1113.2,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1113.2,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -41566.299999999996,
+        "vorp": 10.099999999999998
+      }
+    },
+    {
+      "id": "carrml01x-13",
+      "sourceId": 13,
+      "date": "1995-10-05",
+      "type": "signing",
+      "tenureTeam": "BOS",
+      "summary": "Signed Fred Vinson",
+      "participants": [
+        {
+          "name": "Fred Vinson",
+          "playerHref": "/players/v/vinsofr01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -41566.299999999996,
+        "vorp": 10.099999999999998
+      }
+    },
+    {
+      "id": "carrml01x-14",
+      "sourceId": 14,
+      "date": "1995-10-24",
+      "type": "signing",
+      "tenureTeam": "BOS",
+      "summary": "Signed Charles Claxton",
+      "participants": [
+        {
+          "name": "Charles Claxton",
+          "playerHref": "/players/c/claxtch01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": -132.29999999999998,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -132.29999999999998,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -41698.6,
+        "vorp": 10.099999999999998
+      }
+    },
+    {
+      "id": "carrml01x-15",
+      "sourceId": 15,
+      "date": "1995-11-08",
+      "type": "signing",
+      "tenureTeam": "BOS",
+      "summary": "Signed Larry Sykes",
+      "participants": [
+        {
+          "name": "Larry Sykes",
+          "playerHref": "/players/s/sykesla01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": -35.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -35.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -41734,
+        "vorp": 10.099999999999998
+      }
+    },
+    {
+      "id": "carrml01x-16",
+      "sourceId": 16,
+      "date": "1995-11-24",
+      "type": "signing",
+      "tenureTeam": "BOS",
+      "summary": "Signed Thomas Hamilton",
+      "participants": [
+        {
+          "name": "Thomas Hamilton",
+          "playerHref": "/players/h/hamilth01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": -1022,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1022,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -42756,
+        "vorp": 9.899999999999999
+      }
+    },
+    {
+      "id": "carrml01x-17",
+      "sourceId": 17,
+      "date": "1995-11-26",
+      "type": "trade",
+      "tenureTeam": "BOS",
+      "summary": "Added Todd Day and Alton Lister; Sent out Sherman Douglas",
+      "participants": [
+        {
+          "name": "Sherman Douglas",
+          "playerHref": "/players/d/douglsh01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 1513.7,
+            "vorp": -1.9000000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Todd Day",
+          "playerHref": "/players/d/dayto01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": -2219.6000000000004,
+            "vorp": 1.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alton Lister",
+          "playerHref": "/players/l/listeal01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": -6045.200000000001,
+            "vorp": -0.8999999999999999
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6751.100000000001,
+        "vorp": -1.4000000000000001
+      },
+      "runningValues": {
+        "bpm": -49507.100000000006,
+        "vorp": 8.499999999999998
+      }
+    },
+    {
+      "id": "carrml01x-18",
+      "sourceId": 18,
+      "date": "1996-03-23",
+      "type": "signing",
+      "tenureTeam": "BOS",
+      "summary": "Signed Todd Mundt",
+      "participants": [
+        {
+          "name": "Todd Mundt",
+          "playerHref": "/players/m/mundtto01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -49507.100000000006,
+        "vorp": 8.499999999999998
+      }
+    },
+    {
+      "id": "carrml01x-19",
+      "sourceId": 19,
+      "date": "1996-04-12",
+      "type": "signing",
+      "tenureTeam": "BOS",
+      "summary": "Signed Todd Mundt",
+      "participants": [
+        {
+          "name": "Todd Mundt",
+          "playerHref": "/players/m/mundtto01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": -277.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -277.2,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -49784.3,
+        "vorp": 8.399999999999999
+      }
+    },
+    {
+      "id": "carrml01x-20",
+      "sourceId": 20,
+      "date": "1996-06-21",
+      "type": "trade",
+      "tenureTeam": "BOS",
+      "summary": "Added Antoine Walker and Ron Mercer; Sent out Eric Montross and Samaki Walker",
+      "participants": [
+        {
+          "name": "Eric Montross",
+          "playerHref": "/players/m/montrer01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 5805.6,
+            "vorp": 1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Samaki Walker",
+          "playerHref": "/players/w/walkesa01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 8650.699999999999,
+            "vorp": 1.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Antoine Walker",
+          "playerHref": "/players/w/walkean02.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ron Mercer",
+          "playerHref": "/players/m/mercero01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": -7294.099999999999,
+            "vorp": 0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 7162.2,
+        "vorp": 2.4000000000000004
+      },
+      "runningValues": {
+        "bpm": -42622.100000000006,
+        "vorp": 10.799999999999999
+      }
+    },
+    {
+      "id": "carrml01x-21",
+      "sourceId": 21,
+      "date": "1996-06-26",
+      "type": "draft",
+      "tenureTeam": "BOS",
+      "summary": "Drafted Antoine Walker and Steve Hamer",
+      "participants": [
+        {
+          "name": "Antoine Walker",
+          "playerHref": "/players/w/walkean02.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 14859.7,
+            "vorp": 14.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Hamer",
+          "playerHref": "/players/h/hamerst01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": -1742,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 13117.7,
+        "vorp": 14.5
+      },
+      "runningValues": {
+        "bpm": -29504.400000000005,
+        "vorp": 25.3
+      }
+    },
+    {
+      "id": "carrml01x-22",
+      "sourceId": 22,
+      "date": "1996-08-01",
+      "type": "signing",
+      "tenureTeam": "BOS",
+      "summary": "Signed Frank Brickowski",
+      "participants": [
+        {
+          "name": "Frank Brickowski",
+          "playerHref": "/players/b/brickfr01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": -1428,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1428,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -30932.400000000005,
+        "vorp": 25.1
+      }
+    },
+    {
+      "id": "carrml01x-23",
+      "sourceId": 23,
+      "date": "1996-09-10",
+      "type": "signing",
+      "tenureTeam": "BOS",
+      "summary": "Signed Nate Driggers",
+      "participants": [
+        {
+          "name": "Nate Driggers",
+          "playerHref": "/players/d/driggna01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -30932.400000000005,
+        "vorp": 25.1
+      }
+    },
+    {
+      "id": "carrml01x-24",
+      "sourceId": 24,
+      "date": "1996-10-08",
+      "type": "signing",
+      "tenureTeam": "BOS",
+      "summary": "Signed Brett Szabo",
+      "participants": [
+        {
+          "name": "Brett Szabo",
+          "playerHref": "/players/s/szabobr01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -30932.400000000005,
+        "vorp": 25.1
+      }
+    },
+    {
+      "id": "carrml01x-25",
+      "sourceId": 25,
+      "date": "1996-11-02",
+      "type": "signing",
+      "tenureTeam": "BOS",
+      "summary": "Signed Marty Conlon",
+      "participants": [
+        {
+          "name": "Marty Conlon",
+          "playerHref": "/players/c/conloma01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": -5003.400000000001,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5003.400000000001,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -35935.8,
+        "vorp": 24.6
+      }
+    },
+    {
+      "id": "carrml01x-26",
+      "sourceId": 26,
+      "date": "1996-11-08",
+      "type": "signing",
+      "tenureTeam": "BOS",
+      "summary": "Signed Nate Driggers",
+      "participants": [
+        {
+          "name": "Nate Driggers",
+          "playerHref": "/players/d/driggna01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -35935.8,
+        "vorp": 24.6
+      }
+    },
+    {
+      "id": "carrml01x-27",
+      "sourceId": 27,
+      "date": "1997-01-10",
+      "type": "signing",
+      "tenureTeam": "BOS",
+      "summary": "Signed Brett Szabo",
+      "participants": [
+        {
+          "name": "Brett Szabo",
+          "playerHref": "/players/s/szabobr01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -35935.8,
+        "vorp": 24.6
+      }
+    },
+    {
+      "id": "carrml01x-28",
+      "sourceId": 28,
+      "date": "1997-01-30",
+      "type": "signing",
+      "tenureTeam": "BOS",
+      "summary": "Signed Brett Szabo",
+      "participants": [
+        {
+          "name": "Brett Szabo",
+          "playerHref": "/players/s/szabobr01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": -3972,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3972,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": -39907.8,
+        "vorp": 23.900000000000002
+      }
+    },
+    {
+      "id": "carrml01x-29",
+      "sourceId": 29,
+      "date": "1997-02-08",
+      "type": "signing",
+      "tenureTeam": "BOS",
+      "summary": "Signed Michael Hawkins",
+      "participants": [
+        {
+          "name": "Michael Hawkins",
+          "playerHref": "/players/h/hawkimi01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -39907.8,
+        "vorp": 23.900000000000002
+      }
+    },
+    {
+      "id": "carrml01x-30",
+      "sourceId": 30,
+      "date": "1997-03-07",
+      "type": "signing",
+      "tenureTeam": "BOS",
+      "summary": "Signed Michael Hawkins",
+      "participants": [
+        {
+          "name": "Michael Hawkins",
+          "playerHref": "/players/h/hawkimi01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": -1271.3999999999999,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1271.3999999999999,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -41179.200000000004,
+        "vorp": 23.700000000000003
+      }
+    },
+    {
+      "id": "carrml01x-31",
+      "sourceId": 31,
+      "date": "1997-03-10",
+      "type": "signing",
+      "tenureTeam": "BOS",
+      "summary": "Signed Stacey King",
+      "participants": [
+        {
+          "name": "Stacey King",
+          "playerHref": "/players/k/kingst01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": -33,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -33,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -41212.200000000004,
+        "vorp": 23.700000000000003
+      }
+    },
+    {
+      "id": "carrml01x-32",
+      "sourceId": 32,
+      "date": "1997-04-04",
+      "type": "signing",
+      "tenureTeam": "BOS",
+      "summary": "Signed Nate Driggers",
+      "participants": [
+        {
+          "name": "Nate Driggers",
+          "playerHref": "/players/d/driggna01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -41212.200000000004,
+        "vorp": 23.700000000000003
+      }
+    },
+    {
+      "id": "carrml01x-33",
+      "sourceId": 33,
+      "date": "1997-04-14",
+      "type": "signing",
+      "tenureTeam": "BOS",
+      "summary": "Signed Nate Driggers",
+      "participants": [
+        {
+          "name": "Nate Driggers",
+          "playerHref": "/players/d/driggna01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": -990,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -990,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -42202.200000000004,
+        "vorp": 23.500000000000004
+      }
+    }
+  ]
+}

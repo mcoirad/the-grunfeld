@@ -1,0 +1,4945 @@
+{
+  "slug": "schletr01x",
+  "sourceRowCount": 235,
+  "tenures": [
+    {
+      "teamCode": "ATL",
+      "startDate": "2017-06-20",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "schletr01x-0",
+      "sourceId": 0,
+      "date": "2017-06-20",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Marco Belinelli, Miles Plumlee, and Tyler Dorsey; Sent out Dwight Howard and Frank Jackson",
+      "participants": [
+        {
+          "name": "Dwight Howard",
+          "playerHref": "/players/h/howardw01.html",
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 246.3,
+            "vorp": -1.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Frank Jackson",
+          "playerHref": "/players/j/jacksfr01.html",
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Marco Belinelli",
+          "playerHref": "/players/b/belinma01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -242,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Miles Plumlee",
+          "playerHref": "/players/p/plumlmi01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -3211.5999999999995,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tyler Dorsey",
+          "playerHref": "/players/d/dorsety01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3207.2999999999993,
+        "vorp": -0.8999999999999999
+      },
+      "runningValues": {
+        "bpm": -3207.2999999999993,
+        "vorp": -0.8999999999999999
+      }
+    },
+    {
+      "id": "schletr01x-1",
+      "sourceId": 1,
+      "date": "2017-06-22",
+      "type": "draft",
+      "tenureTeam": "ATL",
+      "summary": "Drafted John Collins, Tyler Dorsey, and Alpha Kaba",
+      "participants": [
+        {
+          "name": "John Collins",
+          "playerHref": "/players/c/collijo01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tyler Dorsey",
+          "playerHref": "/players/d/dorsety01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alpha Kaba",
+          "playerHref": "/players/k/kabaal01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -3207.2999999999993,
+        "vorp": -0.8999999999999999
+      }
+    },
+    {
+      "id": "schletr01x-2",
+      "sourceId": 2,
+      "date": "2017-06-28",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Sent out Ryan Kelly",
+      "participants": [
+        {
+          "name": "Ryan Kelly",
+          "playerHref": "/players/k/kellyry01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -3207.2999999999993,
+        "vorp": -0.8999999999999999
+      }
+    },
+    {
+      "id": "schletr01x-3",
+      "sourceId": 3,
+      "date": "2017-07-01",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Rookie contract for John Collins",
+      "participants": [
+        {
+          "name": "John Collins",
+          "playerHref": "/players/c/collijo01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 9764.8,
+            "vorp": 5.800000000000001
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 9764.8,
+        "vorp": 5.800000000000001
+      },
+      "runningValues": {
+        "bpm": 6557.5,
+        "vorp": 4.9
+      }
+    },
+    {
+      "id": "schletr01x-4",
+      "sourceId": 4,
+      "date": "2017-07-06",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Jamal Crawford, Diamond Stone, and Omari Spellman; Sent out Cody Martin",
+      "participants": [
+        {
+          "name": "Cody Martin",
+          "playerHref": "/players/m/martico01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jamal Crawford",
+          "playerHref": "/players/c/crawfja01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Diamond Stone",
+          "playerHref": "/players/s/stonedi01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Omari Spellman",
+          "playerHref": "/players/s/spellom01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 6557.5,
+        "vorp": 4.9
+      }
+    },
+    {
+      "id": "schletr01x-5",
+      "sourceId": 5,
+      "date": "2017-07-14",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Rookie contract for Tyler Dorsey",
+      "participants": [
+        {
+          "name": "Tyler Dorsey",
+          "playerHref": "/players/d/dorsety01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -4054.5,
+            "vorp": -0.4
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -4054.5,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": 2503,
+        "vorp": 4.5
+      }
+    },
+    {
+      "id": "schletr01x-6",
+      "sourceId": 6,
+      "date": "2017-07-21",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Dewayne Dedmon",
+      "participants": [
+        {
+          "name": "Dewayne Dedmon",
+          "playerHref": "/players/d/dedmode01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 958.7,
+            "vorp": 1.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 958.7,
+        "vorp": 1.8
+      },
+      "runningValues": {
+        "bpm": 3461.7,
+        "vorp": 6.3
+      }
+    },
+    {
+      "id": "schletr01x-7",
+      "sourceId": 7,
+      "date": "2017-07-21",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Ersan İlyasova",
+      "participants": [
+        {
+          "name": "Ersan İlyasova",
+          "playerHref": "/players/i/ilyaser01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -117.5,
+            "vorp": 0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -117.5,
+        "vorp": 0.6
+      },
+      "runningValues": {
+        "bpm": 3344.2,
+        "vorp": 6.8999999999999995
+      }
+    },
+    {
+      "id": "schletr01x-8",
+      "sourceId": 8,
+      "date": "2017-07-25",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Mike Muscala",
+      "participants": [
+        {
+          "name": "Mike Muscala",
+          "playerHref": "/players/m/muscami01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 318,
+            "vorp": 0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 318,
+        "vorp": 0.6
+      },
+      "runningValues": {
+        "bpm": 3662.2,
+        "vorp": 7.499999999999999
+      }
+    },
+    {
+      "id": "schletr01x-9",
+      "sourceId": 9,
+      "date": "2017-08-09",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Luke Babbitt",
+      "participants": [
+        {
+          "name": "Luke Babbitt",
+          "playerHref": "/players/b/babbilu01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -399,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -399,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 3263.2,
+        "vorp": 7.699999999999999
+      }
+    },
+    {
+      "id": "schletr01x-10",
+      "sourceId": 10,
+      "date": "2017-09-05",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Tyler Cavanaugh",
+      "participants": [
+        {
+          "name": "Tyler Cavanaugh",
+          "playerHref": "/players/c/cavanty01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 3263.2,
+        "vorp": 7.699999999999999
+      }
+    },
+    {
+      "id": "schletr01x-11",
+      "sourceId": 11,
+      "date": "2017-09-05",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Quinn Cook",
+      "participants": [
+        {
+          "name": "Quinn Cook",
+          "playerHref": "/players/c/cookqu01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 3263.2,
+        "vorp": 7.699999999999999
+      }
+    },
+    {
+      "id": "schletr01x-12",
+      "sourceId": 12,
+      "date": "2017-09-05",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Josh Magette",
+      "participants": [
+        {
+          "name": "Josh Magette",
+          "playerHref": "/players/m/magetjo01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -561.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -561.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 2701.6,
+        "vorp": 7.699999999999999
+      }
+    },
+    {
+      "id": "schletr01x-13",
+      "sourceId": 13,
+      "date": "2017-09-13",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Jeremy Evans",
+      "participants": [
+        {
+          "name": "Jeremy Evans",
+          "playerHref": "/players/e/evansje01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 2701.6,
+        "vorp": 7.699999999999999
+      }
+    },
+    {
+      "id": "schletr01x-14",
+      "sourceId": 14,
+      "date": "2017-09-21",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Jordan Mathews",
+      "participants": [
+        {
+          "name": "Jordan Mathews",
+          "playerHref": "/players/m/mathejo01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 2701.6,
+        "vorp": 7.699999999999999
+      }
+    },
+    {
+      "id": "schletr01x-15",
+      "sourceId": 15,
+      "date": "2017-09-25",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed John Jenkins",
+      "participants": [
+        {
+          "name": "John Jenkins",
+          "playerHref": "/players/j/jenkijo01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 2701.6,
+        "vorp": 7.699999999999999
+      }
+    },
+    {
+      "id": "schletr01x-16",
+      "sourceId": 16,
+      "date": "2017-09-25",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added DeAndre Liggins",
+      "participants": [
+        {
+          "name": "DeAndre Liggins",
+          "playerHref": "/players/l/liggide01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 2701.6,
+        "vorp": 7.699999999999999
+      }
+    },
+    {
+      "id": "schletr01x-17",
+      "sourceId": 17,
+      "date": "2017-10-14",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Kay Felder, Richard Jefferson, and Eric Paschall; Sent out Dimitrios Agravanis and Sergiy Gladyr",
+      "participants": [
+        {
+          "name": "Dimitrios Agravanis",
+          "playerHref": "/players/a/agravdi01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sergiy Gladyr",
+          "playerHref": "/players/g/gladyse01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kay Felder",
+          "playerHref": "/players/f/feldeka01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Richard Jefferson",
+          "playerHref": "/players/j/jefferi01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eric Paschall",
+          "playerHref": "/players/p/pascher01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 2701.6,
+        "vorp": 7.699999999999999
+      }
+    },
+    {
+      "id": "schletr01x-18",
+      "sourceId": 18,
+      "date": "2017-10-17",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Isaiah Taylor",
+      "participants": [
+        {
+          "name": "Isaiah Taylor",
+          "playerHref": "/players/t/taylois01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -5134.8,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5134.8,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": -2433.2000000000003,
+        "vorp": 6.999999999999999
+      }
+    },
+    {
+      "id": "schletr01x-19",
+      "sourceId": 19,
+      "date": "2017-11-05",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Tyler Cavanaugh",
+      "participants": [
+        {
+          "name": "Tyler Cavanaugh",
+          "playerHref": "/players/c/cavanty01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -984.1999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -984.1999999999999,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -3417.4,
+        "vorp": 6.999999999999999
+      }
+    },
+    {
+      "id": "schletr01x-20",
+      "sourceId": 20,
+      "date": "2018-01-15",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Andrew White",
+      "participants": [
+        {
+          "name": "Andrew White",
+          "playerHref": "/players/w/whitean01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -1149.5,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1149.5,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -4566.9,
+        "vorp": 6.799999999999999
+      }
+    },
+    {
+      "id": "schletr01x-21",
+      "sourceId": 21,
+      "date": "2018-02-08",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Okaro White; Sent out Luke Babbitt",
+      "participants": [
+        {
+          "name": "Luke Babbitt",
+          "playerHref": "/players/b/babbilu01.html",
+          "direction": "out",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": 1334,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Okaro White",
+          "playerHref": "/players/w/whiteok01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1334,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": -3232.8999999999996,
+        "vorp": 7.099999999999999
+      }
+    },
+    {
+      "id": "schletr01x-22",
+      "sourceId": 22,
+      "date": "2018-02-08",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Sheldon Mac",
+      "participants": [
+        {
+          "name": "Sheldon Mac",
+          "playerHref": "/players/m/mcclesh01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -3232.8999999999996,
+        "vorp": 7.099999999999999
+      }
+    },
+    {
+      "id": "schletr01x-23",
+      "sourceId": 23,
+      "date": "2018-02-22",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Antonius Cleveland",
+      "participants": [
+        {
+          "name": "Antonius Cleveland",
+          "playerHref": "/players/c/clevean01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -3232.8999999999996,
+        "vorp": 7.099999999999999
+      }
+    },
+    {
+      "id": "schletr01x-24",
+      "sourceId": 24,
+      "date": "2018-02-28",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Jaylen Morris",
+      "participants": [
+        {
+          "name": "Jaylen Morris",
+          "playerHref": "/players/m/morrija01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -3232.8999999999996,
+        "vorp": 7.099999999999999
+      }
+    },
+    {
+      "id": "schletr01x-25",
+      "sourceId": 25,
+      "date": "2018-03-13",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Damion Lee",
+      "participants": [
+        {
+          "name": "Damion Lee",
+          "playerHref": "/players/l/leeda03.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -3232.8999999999996,
+        "vorp": 7.099999999999999
+      }
+    },
+    {
+      "id": "schletr01x-26",
+      "sourceId": 26,
+      "date": "2018-03-14",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Antonius Cleveland",
+      "participants": [
+        {
+          "name": "Antonius Cleveland",
+          "playerHref": "/players/c/clevean01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -378,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -378,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -3610.8999999999996,
+        "vorp": 6.999999999999999
+      }
+    },
+    {
+      "id": "schletr01x-27",
+      "sourceId": 27,
+      "date": "2018-03-21",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Jaylen Morris",
+      "participants": [
+        {
+          "name": "Jaylen Morris",
+          "playerHref": "/players/m/morrija01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -529.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -529.2,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -4140.099999999999,
+        "vorp": 6.8999999999999995
+      }
+    },
+    {
+      "id": "schletr01x-28",
+      "sourceId": 28,
+      "date": "2018-04-01",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Jeremy Evans",
+      "participants": [
+        {
+          "name": "Jeremy Evans",
+          "playerHref": "/players/e/evansje01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -49,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -49,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -4189.099999999999,
+        "vorp": 6.8999999999999995
+      }
+    },
+    {
+      "id": "schletr01x-29",
+      "sourceId": 29,
+      "date": "2018-04-02",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Damion Lee",
+      "participants": [
+        {
+          "name": "Damion Lee",
+          "playerHref": "/players/l/leeda03.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -767.5999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -767.5999999999999,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -4956.699999999999,
+        "vorp": 6.8999999999999995
+      }
+    },
+    {
+      "id": "schletr01x-32",
+      "sourceId": 32,
+      "date": "2018-06-21",
+      "type": "draft",
+      "tenureTeam": "ATL",
+      "summary": "Drafted Luka Dončić, Kevin Huerter, Omari Spellman, and Devonte' Graham",
+      "participants": [
+        {
+          "name": "Luka Dončić",
+          "playerHref": "/players/d/doncilu01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kevin Huerter",
+          "playerHref": "/players/h/huertke01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Omari Spellman",
+          "playerHref": "/players/s/spellom01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Devonte' Graham",
+          "playerHref": "/players/g/grahade01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -4956.699999999999,
+        "vorp": 6.8999999999999995
+      }
+    },
+    {
+      "id": "schletr01x-33",
+      "sourceId": 33,
+      "date": "2018-06-21",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Trae Young and Cam Reddish; Sent out Luka Dončić",
+      "participants": [
+        {
+          "name": "Luka Dončić",
+          "playerHref": "/players/d/doncilu01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -112696.9,
+            "vorp": -35.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Trae Young",
+          "playerHref": "/players/y/youngtr01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cam Reddish",
+          "playerHref": "/players/r/reddica01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -112696.9,
+        "vorp": -35.8
+      },
+      "runningValues": {
+        "bpm": -117653.59999999999,
+        "vorp": -28.9
+      }
+    },
+    {
+      "id": "schletr01x-34",
+      "sourceId": 34,
+      "date": "2018-06-21",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Bol Bol and Colby Jones; Sent out Devonte' Graham",
+      "participants": [
+        {
+          "name": "Devonte' Graham",
+          "playerHref": "/players/g/grahade01.html",
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 590.7,
+            "vorp": -2.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bol Bol",
+          "playerHref": "/players/b/bolbo01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Colby Jones",
+          "playerHref": "/players/j/jonesco02.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 590.7,
+        "vorp": -2.2
+      },
+      "runningValues": {
+        "bpm": -117062.9,
+        "vorp": -31.099999999999998
+      }
+    },
+    {
+      "id": "schletr01x-35",
+      "sourceId": 35,
+      "date": "2018-07-01",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Trae Young",
+      "participants": [
+        {
+          "name": "Trae Young",
+          "playerHref": "/players/y/youngtr01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 43249.399999999994,
+            "vorp": 19.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 43249.399999999994,
+        "vorp": 19.4
+      },
+      "runningValues": {
+        "bpm": -73813.5,
+        "vorp": -11.7
+      }
+    },
+    {
+      "id": "schletr01x-36",
+      "sourceId": 36,
+      "date": "2018-07-01",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Rookie contract for Kevin Huerter",
+      "participants": [
+        {
+          "name": "Kevin Huerter",
+          "playerHref": "/players/h/huertke01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -10994.6,
+            "vorp": 1.3
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -10994.6,
+        "vorp": 1.3
+      },
+      "runningValues": {
+        "bpm": -84808.1,
+        "vorp": -10.399999999999999
+      }
+    },
+    {
+      "id": "schletr01x-37",
+      "sourceId": 37,
+      "date": "2018-07-01",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Rookie contract for Omari Spellman",
+      "participants": [
+        {
+          "name": "Omari Spellman",
+          "playerHref": "/players/s/spellom01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -885.5000000000001,
+            "vorp": 0.2
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -885.5000000000001,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -85693.6,
+        "vorp": -10.2
+      }
+    },
+    {
+      "id": "schletr01x-38",
+      "sourceId": 38,
+      "date": "2018-07-01",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Jaylen Adams",
+      "participants": [
+        {
+          "name": "Jaylen Adams",
+          "playerHref": "/players/a/adamsja01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -1840.3999999999999,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1840.3999999999999,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -87534,
+        "vorp": -10.399999999999999
+      }
+    },
+    {
+      "id": "schletr01x-39",
+      "sourceId": 39,
+      "date": "2018-07-13",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Jeremy Lin, Adou Thiero, and future ('2025', '2nd') round pick; Sent out Isaïa Cordinier",
+      "participants": [
+        {
+          "name": "Isaïa Cordinier",
+          "playerHref": "/players/c/cordiis01.html",
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jeremy Lin",
+          "playerHref": "/players/l/linje01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -601.8,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Adou Thiero",
+          "playerHref": "/players/t/thierad01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -601.8,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": -88135.8,
+        "vorp": -10.099999999999998
+      }
+    },
+    {
+      "id": "schletr01x-40",
+      "sourceId": 40,
+      "date": "2018-07-25",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Carmelo Anthony, Ulrich Chomche, Jahmai Mashack, future ('2025', '2nd') round pick, and Justin Anderson; Sent out Mike Muscala and Dennis Schröder",
+      "participants": [
+        {
+          "name": "Mike Muscala",
+          "playerHref": "/players/m/muscami01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 1561.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dennis Schröder",
+          "playerHref": "/players/s/schrode01.html",
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 4827.9,
+            "vorp": -1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Carmelo Anthony",
+          "playerHref": "/players/a/anthoca01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ulrich Chomche",
+          "playerHref": "/players/c/chomcul01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jahmai Mashack",
+          "playerHref": "/players/m/mashaja01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Justin Anderson",
+          "playerHref": "/players/a/anderju01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 6389.4,
+        "vorp": -1.1
+      },
+      "runningValues": {
+        "bpm": -81746.40000000001,
+        "vorp": -11.199999999999998
+      }
+    },
+    {
+      "id": "schletr01x-41",
+      "sourceId": 41,
+      "date": "2018-08-03",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Alex Len",
+      "participants": [
+        {
+          "name": "Alex Len",
+          "playerHref": "/players/l/lenal01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -2150.8,
+            "vorp": 0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2150.8,
+        "vorp": 0.6
+      },
+      "runningValues": {
+        "bpm": -83897.20000000001,
+        "vorp": -10.599999999999998
+      }
+    },
+    {
+      "id": "schletr01x-42",
+      "sourceId": 42,
+      "date": "2018-08-20",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Daniel Hamilton",
+      "participants": [
+        {
+          "name": "Daniel Hamilton",
+          "playerHref": "/players/h/hamilda02.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -836.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -836.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -84733.6,
+        "vorp": -10.699999999999998
+      }
+    },
+    {
+      "id": "schletr01x-43",
+      "sourceId": 43,
+      "date": "2018-08-20",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Alex Poythress",
+      "participants": [
+        {
+          "name": "Alex Poythress",
+          "playerHref": "/players/p/poythal01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -1067.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1067.5,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -85801.1,
+        "vorp": -10.799999999999997
+      }
+    },
+    {
+      "id": "schletr01x-44",
+      "sourceId": 44,
+      "date": "2018-08-24",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Vince Carter",
+      "participants": [
+        {
+          "name": "Vince Carter",
+          "playerHref": "/players/c/cartevi01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -930.9999999999995,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -930.9999999999995,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": -86732.1,
+        "vorp": -10.299999999999997
+      }
+    },
+    {
+      "id": "schletr01x-45",
+      "sourceId": 45,
+      "date": "2018-08-30",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Thomas Robinson",
+      "participants": [
+        {
+          "name": "Thomas Robinson",
+          "playerHref": "/players/r/robinth01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -86732.1,
+        "vorp": -10.299999999999997
+      }
+    },
+    {
+      "id": "schletr01x-46",
+      "sourceId": 46,
+      "date": "2018-09-07",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed R.J. Hunter",
+      "participants": [
+        {
+          "name": "R.J. Hunter",
+          "playerHref": "/players/h/hunterj01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -86732.1,
+        "vorp": -10.299999999999997
+      }
+    },
+    {
+      "id": "schletr01x-47",
+      "sourceId": 47,
+      "date": "2018-09-18",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Cole Aldrich",
+      "participants": [
+        {
+          "name": "Cole Aldrich",
+          "playerHref": "/players/a/aldrico01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -86732.1,
+        "vorp": -10.299999999999997
+      }
+    },
+    {
+      "id": "schletr01x-48",
+      "sourceId": 48,
+      "date": "2019-02-07",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Shelvin Mack; Sent out Tyler Dorsey",
+      "participants": [
+        {
+          "name": "Tyler Dorsey",
+          "playerHref": "/players/d/dorsety01.html",
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 1206.9,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Shelvin Mack",
+          "playerHref": "/players/m/macksh01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1206.9,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -85525.20000000001,
+        "vorp": -10.199999999999998
+      }
+    },
+    {
+      "id": "schletr01x-49",
+      "sourceId": 49,
+      "date": "2019-02-07",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Jabari Bird",
+      "participants": [
+        {
+          "name": "Jabari Bird",
+          "playerHref": "/players/b/birdja01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -85525.20000000001,
+        "vorp": -10.199999999999998
+      }
+    },
+    {
+      "id": "schletr01x-50",
+      "sourceId": 50,
+      "date": "2019-02-20",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Jordan Sibert",
+      "participants": [
+        {
+          "name": "Jordan Sibert",
+          "playerHref": "/players/s/siberjo01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 63.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 63.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -85461.6,
+        "vorp": -10.199999999999998
+      }
+    },
+    {
+      "id": "schletr01x-51",
+      "sourceId": 51,
+      "date": "2019-03-01",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed B.J. Johnson",
+      "participants": [
+        {
+          "name": "B.J. Johnson",
+          "playerHref": "/players/j/johnsbj01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -124.7,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -124.7,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -85586.3,
+        "vorp": -10.199999999999998
+      }
+    },
+    {
+      "id": "schletr01x-52",
+      "sourceId": 52,
+      "date": "2019-03-08",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Tyler Zeller",
+      "participants": [
+        {
+          "name": "Tyler Zeller",
+          "playerHref": "/players/z/zellety01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -112.19999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -112.19999999999999,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -85698.5,
+        "vorp": -10.199999999999998
+      }
+    },
+    {
+      "id": "schletr01x-53",
+      "sourceId": 53,
+      "date": "2019-03-19",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Deyonta Davis",
+      "participants": [
+        {
+          "name": "Deyonta Davis",
+          "playerHref": "/players/d/davisde01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -85698.5,
+        "vorp": -10.199999999999998
+      }
+    },
+    {
+      "id": "schletr01x-54",
+      "sourceId": 54,
+      "date": "2019-04-01",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Isaac Humphries",
+      "participants": [
+        {
+          "name": "Isaac Humphries",
+          "playerHref": "/players/h/humphis01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -610.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -610.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -86308.9,
+        "vorp": -10.299999999999997
+      }
+    },
+    {
+      "id": "schletr01x-55",
+      "sourceId": 55,
+      "date": "2019-04-08",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Deyonta Davis",
+      "participants": [
+        {
+          "name": "Deyonta Davis",
+          "playerHref": "/players/d/davisde01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -236,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -236,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -86544.9,
+        "vorp": -10.299999999999997
+      }
+    },
+    {
+      "id": "schletr01x-56",
+      "sourceId": 56,
+      "date": "2019-06-19",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Sent out Bol Bol",
+      "participants": [
+        {
+          "name": "Bol Bol",
+          "playerHref": "/players/b/bolbo01.html",
+          "direction": "out",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -86544.9,
+        "vorp": -10.299999999999997
+      }
+    },
+    {
+      "id": "schletr01x-57",
+      "sourceId": 57,
+      "date": "2019-06-20",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Pelle Larsson; Sent out Eric Paschall",
+      "participants": [
+        {
+          "name": "Eric Paschall",
+          "playerHref": "/players/p/pascher01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 6342.3,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Pelle Larsson",
+          "playerHref": "/players/l/larsspe01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 6342.3,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": -80202.59999999999,
+        "vorp": -9.899999999999997
+      }
+    },
+    {
+      "id": "schletr01x-58",
+      "sourceId": 58,
+      "date": "2019-06-20",
+      "type": "draft",
+      "tenureTeam": "ATL",
+      "summary": "Drafted Jaxson Hayes, Cam Reddish, and Marcos Louzada Silva",
+      "participants": [
+        {
+          "name": "Jaxson Hayes",
+          "playerHref": "/players/h/hayesja02.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cam Reddish",
+          "playerHref": "/players/r/reddica01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Marcos Louzada Silva",
+          "playerHref": "/players/l/louzama01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -80202.59999999999,
+        "vorp": -9.899999999999997
+      }
+    },
+    {
+      "id": "schletr01x-59",
+      "sourceId": 59,
+      "date": "2019-06-24",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Evan Turner; Sent out Kent Bazemore",
+      "participants": [
+        {
+          "name": "Kent Bazemore",
+          "playerHref": "/players/b/bazemke01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 3555.2000000000003,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Evan Turner",
+          "playerHref": "/players/t/turneev01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -1380.5,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2174.7000000000003,
+        "vorp": 0.09999999999999998
+      },
+      "runningValues": {
+        "bpm": -78027.9,
+        "vorp": -9.799999999999995
+      }
+    },
+    {
+      "id": "schletr01x-60",
+      "sourceId": 60,
+      "date": "2019-07-01",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Rookie contract for Cam Reddish",
+      "participants": [
+        {
+          "name": "Cam Reddish",
+          "playerHref": "/players/r/reddica01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -10109.7,
+            "vorp": -1
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -10109.7,
+        "vorp": -1
+      },
+      "runningValues": {
+        "bpm": -88137.59999999999,
+        "vorp": -10.799999999999995
+      }
+    },
+    {
+      "id": "schletr01x-61",
+      "sourceId": 61,
+      "date": "2019-07-01",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Charlie Brown Jr.",
+      "participants": [
+        {
+          "name": "Charlie Brown Jr.",
+          "playerHref": "/players/b/brownch02.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -100,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -100,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -88237.59999999999,
+        "vorp": -10.799999999999995
+      }
+    },
+    {
+      "id": "schletr01x-62",
+      "sourceId": 62,
+      "date": "2019-07-06",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Nickeil Alexander-Walker, Allen Crabbe, and Aleksej Pokusevski; Sent out Taurean Prince and Marcus Zegarowski",
+      "participants": [
+        {
+          "name": "Taurean Prince",
+          "playerHref": "/players/p/princta02.html",
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 5843.1,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Marcus Zegarowski",
+          "playerHref": "/players/z/zegarma01.html",
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Nickeil Alexander-Walker",
+          "playerHref": "/players/a/alexani01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 3079,
+            "vorp": 2.3000000000000003
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Allen Crabbe",
+          "playerHref": "/players/c/crabbal01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -2140.2,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Aleksej Pokusevski",
+          "playerHref": "/players/p/pokusal01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 6781.900000000001,
+        "vorp": 2.4000000000000004
+      },
+      "runningValues": {
+        "bpm": -81455.69999999998,
+        "vorp": -8.399999999999995
+      }
+    },
+    {
+      "id": "schletr01x-63",
+      "sourceId": 63,
+      "date": "2019-07-07",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed De'Andre Hunter",
+      "participants": [
+        {
+          "name": "De'Andre Hunter",
+          "playerHref": "/players/h/huntede01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -81455.69999999998,
+        "vorp": -8.399999999999995
+      }
+    },
+    {
+      "id": "schletr01x-64",
+      "sourceId": 64,
+      "date": "2019-07-07",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Jordan Bone, Solomon Hill, De'Andre Hunter, and Seth Lundy; Sent out Nickeil Alexander-Walker, Jaxson Hayes, Marcos Louzada Silva, Herbert Jones, and Vince Williams Jr.",
+      "participants": [
+        {
+          "name": "Nickeil Alexander-Walker",
+          "playerHref": "/players/a/alexani01.html",
+          "direction": "out",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 7978.7,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jaxson Hayes",
+          "playerHref": "/players/h/hayesja02.html",
+          "direction": "out",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 198,
+            "vorp": -2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Marcos Louzada Silva",
+          "playerHref": "/players/l/louzama01.html",
+          "direction": "out",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 624.4,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Herbert Jones",
+          "playerHref": "/players/j/joneshe01.html",
+          "direction": "out",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 10132.6,
+            "vorp": -2.1000000000000005
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Vince Williams Jr.",
+          "playerHref": "/players/w/willivi01.html",
+          "direction": "out",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jordan Bone",
+          "playerHref": "/players/b/bonejo01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Solomon Hill",
+          "playerHref": "/players/h/hillso01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -4173.3,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "De'Andre Hunter",
+          "playerHref": "/players/h/huntede01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -26084.5,
+            "vorp": -2.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Seth Lundy",
+          "playerHref": "/players/l/lundyse01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -650,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -11974.099999999999,
+        "vorp": -6
+      },
+      "runningValues": {
+        "bpm": -93429.79999999999,
+        "vorp": -14.399999999999995
+      }
+    },
+    {
+      "id": "schletr01x-65",
+      "sourceId": 65,
+      "date": "2019-07-07",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Bruno Fernando; Sent out Jordan Bone, Théo Maledon, and Colby Jones",
+      "participants": [
+        {
+          "name": "Jordan Bone",
+          "playerHref": "/players/b/bonejo01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Théo Maledon",
+          "playerHref": "/players/m/maledth01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Colby Jones",
+          "playerHref": "/players/j/jonesco02.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bruno Fernando",
+          "playerHref": "/players/f/fernabr01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -93429.79999999999,
+        "vorp": -14.399999999999995
+      }
+    },
+    {
+      "id": "schletr01x-66",
+      "sourceId": 66,
+      "date": "2019-07-07",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Chandler Parsons; Sent out Solomon Hill and Miles Plumlee",
+      "participants": [
+        {
+          "name": "Solomon Hill",
+          "playerHref": "/players/h/hillso01.html",
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 1261.3999999999999,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Miles Plumlee",
+          "playerHref": "/players/p/plumlmi01.html",
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chandler Parsons",
+          "playerHref": "/players/p/parsoch01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -324,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 937.3999999999999,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -92492.4,
+        "vorp": -14.599999999999994
+      }
+    },
+    {
+      "id": "schletr01x-67",
+      "sourceId": 67,
+      "date": "2019-07-07",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Bruno Fernando",
+      "participants": [
+        {
+          "name": "Bruno Fernando",
+          "playerHref": "/players/f/fernabr01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -6071,
+            "vorp": -0.7999999999999999
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6071,
+        "vorp": -0.7999999999999999
+      },
+      "runningValues": {
+        "bpm": -98563.4,
+        "vorp": -15.399999999999995
+      }
+    },
+    {
+      "id": "schletr01x-68",
+      "sourceId": 68,
+      "date": "2019-07-08",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Damian Jones, Otega Oweh, and future ('2026', '2nd') round pick; Sent out Omari Spellman",
+      "participants": [
+        {
+          "name": "Omari Spellman",
+          "playerHref": "/players/s/spellom01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 1506.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Damian Jones",
+          "playerHref": "/players/j/jonesda03.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -1330.5,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Otega Oweh",
+          "playerHref": "/players/o/owehot01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 175.70000000000005,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -98387.7,
+        "vorp": -15.399999999999995
+      }
+    },
+    {
+      "id": "schletr01x-69",
+      "sourceId": 69,
+      "date": "2019-07-11",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Jabari Parker",
+      "participants": [
+        {
+          "name": "Jabari Parker",
+          "playerHref": "/players/p/parkeja01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": -98387.7,
+        "vorp": -14.999999999999995
+      }
+    },
+    {
+      "id": "schletr01x-70",
+      "sourceId": 70,
+      "date": "2019-08-06",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Brandon Goodwin",
+      "participants": [
+        {
+          "name": "Brandon Goodwin",
+          "playerHref": "/players/g/goodwbr01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -3169,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3169,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -101556.7,
+        "vorp": -15.299999999999995
+      }
+    },
+    {
+      "id": "schletr01x-71",
+      "sourceId": 71,
+      "date": "2019-09-20",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Vince Carter",
+      "participants": [
+        {
+          "name": "Vince Carter",
+          "playerHref": "/players/c/cartevi01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -3766.7999999999997,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3766.7999999999997,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -105323.5,
+        "vorp": -15.799999999999995
+      }
+    },
+    {
+      "id": "schletr01x-72",
+      "sourceId": 72,
+      "date": "2019-10-19",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Mark Ogden Jr.",
+      "participants": [
+        {
+          "name": "Mark Ogden Jr.",
+          "playerHref": "/players/o/ogdenma01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -105323.5,
+        "vorp": -15.799999999999995
+      }
+    },
+    {
+      "id": "schletr01x-73",
+      "sourceId": 73,
+      "date": "2020-01-06",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Paul Watson",
+      "participants": [
+        {
+          "name": "Paul Watson",
+          "playerHref": "/players/w/watsopa01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -221,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -221,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -105544.5,
+        "vorp": -15.799999999999995
+      }
+    },
+    {
+      "id": "schletr01x-74",
+      "sourceId": 74,
+      "date": "2020-01-16",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Treveon Graham and Jeff Teague; Sent out Allen Crabbe",
+      "participants": [
+        {
+          "name": "Allen Crabbe",
+          "playerHref": "/players/c/crabbal01.html",
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 1257.6,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Treveon Graham",
+          "playerHref": "/players/g/grahatr01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -1303.4,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jeff Teague",
+          "playerHref": "/players/t/teaguje01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -1660.8000000000002,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1706.6000000000004,
+        "vorp": -0.10000000000000003
+      },
+      "runningValues": {
+        "bpm": -107251.09999999999,
+        "vorp": -15.899999999999993
+      }
+    },
+    {
+      "id": "schletr01x-75",
+      "sourceId": 75,
+      "date": "2020-02-05",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Clint Capela and Nene; Sent out Evan Turner, Aleksej Pokusevski, and Pelle Larsson",
+      "participants": [
+        {
+          "name": "Evan Turner",
+          "playerHref": "/players/t/turneev01.html",
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Aleksej Pokusevski",
+          "playerHref": "/players/p/pokusal01.html",
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Pelle Larsson",
+          "playerHref": "/players/l/larsspe01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Clint Capela",
+          "playerHref": "/players/c/capelca01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 2399,
+            "vorp": 1.8000000000000003
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Nene",
+          "playerHref": "/players/h/hilarne01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2399,
+        "vorp": 1.8000000000000003
+      },
+      "runningValues": {
+        "bpm": -104852.09999999999,
+        "vorp": -14.099999999999993
+      }
+    },
+    {
+      "id": "schletr01x-76",
+      "sourceId": 76,
+      "date": "2020-02-06",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Derrick Walton",
+      "participants": [
+        {
+          "name": "Derrick Walton",
+          "playerHref": "/players/w/waltode01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -104852.09999999999,
+        "vorp": -14.099999999999993
+      }
+    },
+    {
+      "id": "schletr01x-77",
+      "sourceId": 77,
+      "date": "2020-02-06",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Skal Labissiere",
+      "participants": [
+        {
+          "name": "Skal Labissiere",
+          "playerHref": "/players/l/labissk01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -104852.09999999999,
+        "vorp": -14.099999999999993
+      }
+    },
+    {
+      "id": "schletr01x-78",
+      "sourceId": 78,
+      "date": "2020-02-06",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Dewayne Dedmon, Skylar Mays, and Sharife Cooper; Sent out Alex Len and Jabari Parker",
+      "participants": [
+        {
+          "name": "Alex Len",
+          "playerHref": "/players/l/lenal01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 2635.7999999999997,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jabari Parker",
+          "playerHref": "/players/p/parkeja01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 35,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dewayne Dedmon",
+          "playerHref": "/players/d/dedmode01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -1025.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Skylar Mays",
+          "playerHref": "/players/m/mayssk01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sharife Cooper",
+          "playerHref": "/players/c/coopesh01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1645.5999999999997,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -103206.49999999999,
+        "vorp": -14.499999999999991
+      }
+    },
+    {
+      "id": "schletr01x-79",
+      "sourceId": 79,
+      "date": "2020-11-18",
+      "type": "draft",
+      "tenureTeam": "ATL",
+      "summary": "Drafted Onyeka Okongwu and Skylar Mays",
+      "participants": [
+        {
+          "name": "Onyeka Okongwu",
+          "playerHref": "/players/o/okongon01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Skylar Mays",
+          "playerHref": "/players/m/mayssk01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -103206.49999999999,
+        "vorp": -14.499999999999991
+      }
+    },
+    {
+      "id": "schletr01x-80",
+      "sourceId": 80,
+      "date": "2020-11-20",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Tony Snell and Khyri Thomas; Sent out Dewayne Dedmon",
+      "participants": [
+        {
+          "name": "Dewayne Dedmon",
+          "playerHref": "/players/d/dedmode01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tony Snell",
+          "playerHref": "/players/s/snellto01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -496,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Khyri Thomas",
+          "playerHref": "/players/t/thomakh01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -496,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": -103702.49999999999,
+        "vorp": -14.09999999999999
+      }
+    },
+    {
+      "id": "schletr01x-81",
+      "sourceId": 81,
+      "date": "2020-11-23",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Rajon Rondo",
+      "participants": [
+        {
+          "name": "Rajon Rondo",
+          "playerHref": "/players/r/rondora01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -1005,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1005,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -104707.49999999999,
+        "vorp": -14.09999999999999
+      }
+    },
+    {
+      "id": "schletr01x-82",
+      "sourceId": 82,
+      "date": "2020-11-24",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Rookie contract for Onyeka Okongwu",
+      "participants": [
+        {
+          "name": "Onyeka Okongwu",
+          "playerHref": "/players/o/okongon01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 5476.200000000001,
+            "vorp": 6.2
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 5476.200000000001,
+        "vorp": 6.2
+      },
+      "runningValues": {
+        "bpm": -99231.29999999999,
+        "vorp": -7.899999999999991
+      }
+    },
+    {
+      "id": "schletr01x-83",
+      "sourceId": 83,
+      "date": "2020-11-24",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Rookie contract for Skylar Mays",
+      "participants": [
+        {
+          "name": "Skylar Mays",
+          "playerHref": "/players/m/mayssk01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 511.09999999999997,
+            "vorp": 0.3
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 511.09999999999997,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": -98720.19999999998,
+        "vorp": -7.599999999999991
+      }
+    },
+    {
+      "id": "schletr01x-84",
+      "sourceId": 84,
+      "date": "2020-11-24",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Nathan Knight",
+      "participants": [
+        {
+          "name": "Nathan Knight",
+          "playerHref": "/players/k/knighna01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -1032.3,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1032.3,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -99752.49999999999,
+        "vorp": -7.69999999999999
+      }
+    },
+    {
+      "id": "schletr01x-85",
+      "sourceId": 85,
+      "date": "2020-11-24",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Bogdan Bogdanovic",
+      "participants": [
+        {
+          "name": "Bogdan Bogdanovic",
+          "playerHref": "/players/b/bogdabo01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 5188.4,
+            "vorp": 5.199999999999999
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5188.4,
+        "vorp": 5.199999999999999
+      },
+      "runningValues": {
+        "bpm": -94564.09999999999,
+        "vorp": -2.499999999999991
+      }
+    },
+    {
+      "id": "schletr01x-86",
+      "sourceId": 86,
+      "date": "2020-11-24",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Danilo Gallinari; Sent out Brooks Barnhizer and future ('2025', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Brooks Barnhizer",
+          "playerHref": "/players/b/barnhbr01.html",
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 951.9,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Danilo Gallinari",
+          "playerHref": "/players/g/gallida01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 1009.8,
+            "vorp": 1.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1961.6999999999998,
+        "vorp": 1.8
+      },
+      "runningValues": {
+        "bpm": -92602.4,
+        "vorp": -0.6999999999999911
+      }
+    },
+    {
+      "id": "schletr01x-87",
+      "sourceId": 87,
+      "date": "2020-11-25",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Solomon Hill",
+      "participants": [
+        {
+          "name": "Solomon Hill",
+          "playerHref": "/players/h/hillso01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -3631.2000000000003,
+            "vorp": -0.20000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3631.2000000000003,
+        "vorp": -0.20000000000000004
+      },
+      "runningValues": {
+        "bpm": -96233.59999999999,
+        "vorp": -0.8999999999999911
+      }
+    },
+    {
+      "id": "schletr01x-88",
+      "sourceId": 88,
+      "date": "2020-11-28",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Kris Dunn",
+      "participants": [
+        {
+          "name": "Kris Dunn",
+          "playerHref": "/players/d/dunnkr01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -612,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -612,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -96845.59999999999,
+        "vorp": -0.9999999999999911
+      }
+    },
+    {
+      "id": "schletr01x-90",
+      "sourceId": 90,
+      "date": "2021-03-25",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Lou Williams, Julian Phillips, and future ('2027', '2nd') round pick; Sent out Rajon Rondo",
+      "participants": [
+        {
+          "name": "Rajon Rondo",
+          "playerHref": "/players/r/rondora01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -846.4,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lou Williams",
+          "playerHref": "/players/w/willilo02.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -2171.5000000000005,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Julian Phillips",
+          "playerHref": "/players/p/phillju01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3017.9000000000005,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": -99863.49999999999,
+        "vorp": -1.699999999999991
+      }
+    },
+    {
+      "id": "schletr01x-92",
+      "sourceId": 92,
+      "date": "2021-07-29",
+      "type": "draft",
+      "tenureTeam": "ATL",
+      "summary": "Drafted Jalen Johnson and Sharife Cooper",
+      "participants": [
+        {
+          "name": "Jalen Johnson",
+          "playerHref": "/players/j/johnsja05.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sharife Cooper",
+          "playerHref": "/players/c/coopesh01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -99863.49999999999,
+        "vorp": -1.699999999999991
+      }
+    },
+    {
+      "id": "schletr01x-93",
+      "sourceId": 93,
+      "date": "2021-08-04",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Rookie contract for Jalen Johnson",
+      "participants": [
+        {
+          "name": "Jalen Johnson",
+          "playerHref": "/players/j/johnsja05.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 15012.6,
+            "vorp": 7.4
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 15012.6,
+        "vorp": 7.4
+      },
+      "runningValues": {
+        "bpm": -84850.89999999998,
+        "vorp": 5.700000000000009
+      }
+    },
+    {
+      "id": "schletr01x-94",
+      "sourceId": 94,
+      "date": "2021-08-04",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Rookie contract for Sharife Cooper",
+      "participants": [
+        {
+          "name": "Sharife Cooper",
+          "playerHref": "/players/c/coopesh01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -631.8,
+            "vorp": -0.1
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -631.8,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -85482.69999999998,
+        "vorp": 5.600000000000009
+      }
+    },
+    {
+      "id": "schletr01x-95",
+      "sourceId": 95,
+      "date": "2021-08-05",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Solomon Hill",
+      "participants": [
+        {
+          "name": "Solomon Hill",
+          "playerHref": "/players/h/hillso01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -542.1,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -542.1,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -86024.79999999999,
+        "vorp": 5.50000000000001
+      }
+    },
+    {
+      "id": "schletr01x-96",
+      "sourceId": 96,
+      "date": "2021-08-06",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Lou Williams",
+      "participants": [
+        {
+          "name": "Lou Williams",
+          "playerHref": "/players/w/willilo02.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -2716.6,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2716.6,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -88741.4,
+        "vorp": 5.20000000000001
+      }
+    },
+    {
+      "id": "schletr01x-97",
+      "sourceId": 97,
+      "date": "2021-08-06",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed John Collins",
+      "participants": [
+        {
+          "name": "John Collins",
+          "playerHref": "/players/c/collijo01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -61.5,
+            "vorp": 1.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -61.5,
+        "vorp": 1.9
+      },
+      "runningValues": {
+        "bpm": -88802.9,
+        "vorp": 7.10000000000001
+      }
+    },
+    {
+      "id": "schletr01x-98",
+      "sourceId": 98,
+      "date": "2021-08-07",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Delon Wright; Sent out Kris Dunn, Bruno Fernando, and Julian Phillips",
+      "participants": [
+        {
+          "name": "Kris Dunn",
+          "playerHref": "/players/d/dunnkr01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bruno Fernando",
+          "playerHref": "/players/f/fernabr01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 162.39999999999998,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Julian Phillips",
+          "playerHref": "/players/p/phillju01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Delon Wright",
+          "playerHref": "/players/w/wrighde01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 162.39999999999998,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -88640.5,
+        "vorp": 7.10000000000001
+      }
+    },
+    {
+      "id": "schletr01x-99",
+      "sourceId": 99,
+      "date": "2021-08-09",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Gorgui Dieng",
+      "participants": [
+        {
+          "name": "Gorgui Dieng",
+          "playerHref": "/players/d/dienggo01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 779.1,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 779.1,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": -87861.4,
+        "vorp": 7.500000000000011
+      }
+    },
+    {
+      "id": "schletr01x-100",
+      "sourceId": 100,
+      "date": "2021-08-11",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Johnny Hamilton",
+      "participants": [
+        {
+          "name": "Johnny Hamilton",
+          "playerHref": "/players/h/hamiljo03.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -87861.4,
+        "vorp": 7.500000000000011
+      }
+    },
+    {
+      "id": "schletr01x-101",
+      "sourceId": 101,
+      "date": "2021-08-18",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed A.J. Lawson",
+      "participants": [
+        {
+          "name": "A.J. Lawson",
+          "playerHref": "/players/l/lawsoaj01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -87861.4,
+        "vorp": 7.500000000000011
+      }
+    },
+    {
+      "id": "schletr01x-102",
+      "sourceId": 102,
+      "date": "2021-08-26",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Skylar Mays",
+      "participants": [
+        {
+          "name": "Skylar Mays",
+          "playerHref": "/players/m/mayssk01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -440,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -440,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -88301.4,
+        "vorp": 7.500000000000011
+      }
+    },
+    {
+      "id": "schletr01x-103",
+      "sourceId": 103,
+      "date": "2021-09-09",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Timothé Luwawu-Cabarrot",
+      "participants": [
+        {
+          "name": "Timothé Luwawu-Cabarrot",
+          "playerHref": "/players/l/luwawti01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -2260.5,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2260.5,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -90561.9,
+        "vorp": 7.3000000000000105
+      }
+    },
+    {
+      "id": "schletr01x-104",
+      "sourceId": 104,
+      "date": "2021-09-21",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Jahlil Okafor",
+      "participants": [
+        {
+          "name": "Jahlil Okafor",
+          "playerHref": "/players/o/okafoja01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -90561.9,
+        "vorp": 7.3000000000000105
+      }
+    },
+    {
+      "id": "schletr01x-105",
+      "sourceId": 105,
+      "date": "2021-10-07",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed DaQuan Jeffries",
+      "participants": [
+        {
+          "name": "DaQuan Jeffries",
+          "playerHref": "/players/j/jeffrda01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -90561.9,
+        "vorp": 7.3000000000000105
+      }
+    },
+    {
+      "id": "schletr01x-106",
+      "sourceId": 106,
+      "date": "2021-10-12",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Ibi Watson",
+      "participants": [
+        {
+          "name": "Ibi Watson",
+          "playerHref": "/players/w/watsoib01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -90561.9,
+        "vorp": 7.3000000000000105
+      }
+    },
+    {
+      "id": "schletr01x-107",
+      "sourceId": 107,
+      "date": "2021-12-22",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Malcolm Hill",
+      "participants": [
+        {
+          "name": "Malcolm Hill",
+          "playerHref": "/players/h/hillma01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 174.79999999999998,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 174.79999999999998,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -90387.09999999999,
+        "vorp": 7.40000000000001
+      }
+    },
+    {
+      "id": "schletr01x-108",
+      "sourceId": 108,
+      "date": "2021-12-22",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Lance Stephenson",
+      "participants": [
+        {
+          "name": "Lance Stephenson",
+          "playerHref": "/players/s/stephla01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -525,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -525,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -90912.09999999999,
+        "vorp": 7.3000000000000105
+      }
+    },
+    {
+      "id": "schletr01x-109",
+      "sourceId": 109,
+      "date": "2021-12-23",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Wes Iwundu",
+      "participants": [
+        {
+          "name": "Wes Iwundu",
+          "playerHref": "/players/i/iwundwe01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -549.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -549.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -91461.49999999999,
+        "vorp": 7.200000000000011
+      }
+    },
+    {
+      "id": "schletr01x-110",
+      "sourceId": 110,
+      "date": "2021-12-25",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Malik Ellison",
+      "participants": [
+        {
+          "name": "Malik Ellison",
+          "playerHref": "/players/e/ellisma01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -91461.49999999999,
+        "vorp": 7.200000000000011
+      }
+    },
+    {
+      "id": "schletr01x-111",
+      "sourceId": 111,
+      "date": "2021-12-25",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Cat Barber",
+      "participants": [
+        {
+          "name": "Cat Barber",
+          "playerHref": "/players/b/barbeca01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -301.59999999999997,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -301.59999999999997,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -91763.09999999999,
+        "vorp": 7.100000000000011
+      }
+    },
+    {
+      "id": "schletr01x-112",
+      "sourceId": 112,
+      "date": "2021-12-27",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Chaundee Brown Jr.",
+      "participants": [
+        {
+          "name": "Chaundee Brown Jr.",
+          "playerHref": "/players/b/brownch05.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -91763.09999999999,
+        "vorp": 7.100000000000011
+      }
+    },
+    {
+      "id": "schletr01x-113",
+      "sourceId": 113,
+      "date": "2021-12-28",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Justin Tillman",
+      "participants": [
+        {
+          "name": "Justin Tillman",
+          "playerHref": "/players/t/tillmju01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -91763.09999999999,
+        "vorp": 7.100000000000011
+      }
+    },
+    {
+      "id": "schletr01x-114",
+      "sourceId": 114,
+      "date": "2021-12-29",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Chris Clemons",
+      "participants": [
+        {
+          "name": "Chris Clemons",
+          "playerHref": "/players/c/clemoch01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -91763.09999999999,
+        "vorp": 7.100000000000011
+      }
+    },
+    {
+      "id": "schletr01x-115",
+      "sourceId": 115,
+      "date": "2021-12-29",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Cameron Oliver",
+      "participants": [
+        {
+          "name": "Cameron Oliver",
+          "playerHref": "/players/o/oliveca01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 73.1,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 73.1,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -91689.99999999999,
+        "vorp": 7.100000000000011
+      }
+    },
+    {
+      "id": "schletr01x-116",
+      "sourceId": 116,
+      "date": "2022-01-13",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Kevin Knox, Emanuel Sharp, future ('2026', '2nd') round pick, and future ('2027', '2nd') round pick; Sent out Solomon Hill, Cam Reddish, Adou Thiero, and future ('2025', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Solomon Hill",
+          "playerHref": "/players/h/hillso01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cam Reddish",
+          "playerHref": "/players/r/reddica01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 1135.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Adou Thiero",
+          "playerHref": "/players/t/thierad01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kevin Knox",
+          "playerHref": "/players/k/knoxke01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -754.8,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Emanuel Sharp",
+          "playerHref": "/players/s/sharpem01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 380.79999999999995,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -91309.19999999998,
+        "vorp": 6.900000000000012
+      }
+    },
+    {
+      "id": "schletr01x-117",
+      "sourceId": 117,
+      "date": "2022-04-09",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Chaundee Brown Jr.",
+      "participants": [
+        {
+          "name": "Chaundee Brown Jr.",
+          "playerHref": "/players/b/brownch05.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -340.29999999999995,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -340.29999999999995,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -91649.49999999999,
+        "vorp": 6.900000000000012
+      }
+    },
+    {
+      "id": "schletr01x-118",
+      "sourceId": 118,
+      "date": "2022-06-23",
+      "type": "draft",
+      "tenureTeam": "ATL",
+      "summary": "Drafted A.J. Griffin and Ryan Rollins",
+      "participants": [
+        {
+          "name": "A.J. Griffin",
+          "playerHref": "/players/g/griffaj01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ryan Rollins",
+          "playerHref": "/players/r/rolliry01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -91649.49999999999,
+        "vorp": 6.900000000000012
+      }
+    },
+    {
+      "id": "schletr01x-119",
+      "sourceId": 119,
+      "date": "2022-06-23",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Tyrese Martin; Sent out Ryan Rollins",
+      "participants": [
+        {
+          "name": "Ryan Rollins",
+          "playerHref": "/players/r/rolliry01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 923.8000000000001,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tyrese Martin",
+          "playerHref": "/players/m/martity01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 923.8000000000001,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -90725.69999999998,
+        "vorp": 7.100000000000012
+      }
+    },
+    {
+      "id": "schletr01x-120",
+      "sourceId": 120,
+      "date": "2022-06-30",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Jock Landale, Dejounte Murray, Alex Karaban, and future ('2026', '1st') round pick; Sent out Danilo Gallinari, Carter Bryant, Jayden Quaintance, Emanuel Sharp, future ('2025', '1st') round pick, future ('2026', '1st') round pick, future ('2026', '2nd') round pick, future ('2027', '1st') round pick, and future ('2027', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Danilo Gallinari",
+          "playerHref": "/players/g/gallida01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Carter Bryant",
+          "playerHref": "/players/b/bryanca01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 3030,
+            "vorp": 0.30000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jayden Quaintance",
+          "playerHref": "/players/q/quainja01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Emanuel Sharp",
+          "playerHref": "/players/s/sharpem01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jock Landale",
+          "playerHref": "/players/l/landajo01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -539.2,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dejounte Murray",
+          "playerHref": "/players/m/murrade01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 7424.099999999999,
+            "vorp": 4.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alex Karaban",
+          "playerHref": "/players/k/karabal01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '1st') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 9914.9,
+        "vorp": 5.1000000000000005
+      },
+      "runningValues": {
+        "bpm": -80810.79999999997,
+        "vorp": 12.200000000000012
+      }
+    },
+    {
+      "id": "schletr01x-121",
+      "sourceId": 121,
+      "date": "2022-07-03",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Rookie contract for AJ Griffin",
+      "participants": [
+        {
+          "name": "AJ Griffin",
+          "playerHref": "/players/g/griffaj01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -2728.2,
+            "vorp": 0.10000000000000003
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -2728.2,
+        "vorp": 0.10000000000000003
+      },
+      "runningValues": {
+        "bpm": -83538.99999999997,
+        "vorp": 12.300000000000011
+      }
+    },
+    {
+      "id": "schletr01x-122",
+      "sourceId": 122,
+      "date": "2022-07-06",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Sent out Jock Landale",
+      "participants": [
+        {
+          "name": "Jock Landale",
+          "playerHref": "/players/l/landajo01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 1076.9,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1076.9,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -82462.09999999998,
+        "vorp": 12.100000000000012
+      }
+    },
+    {
+      "id": "schletr01x-123",
+      "sourceId": 123,
+      "date": "2022-07-06",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Maurice Harkless, Justin Holiday, Derik Queen, and future ('2025', '1st') round pick; Sent out Kevin Huerter",
+      "participants": [
+        {
+          "name": "Kevin Huerter",
+          "playerHref": "/players/h/huertke01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 1114.3,
+            "vorp": -2.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Maurice Harkless",
+          "playerHref": "/players/h/harklma01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Justin Holiday",
+          "playerHref": "/players/h/holidju01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -1479.6000000000001,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Derik Queen",
+          "playerHref": "/players/q/queende01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '1st') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -365.3000000000002,
+        "vorp": -2.3000000000000003
+      },
+      "runningValues": {
+        "bpm": -82827.39999999998,
+        "vorp": 9.800000000000013
+      }
+    },
+    {
+      "id": "schletr01x-124",
+      "sourceId": 124,
+      "date": "2022-07-06",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Aaron Holiday",
+      "participants": [
+        {
+          "name": "Aaron Holiday",
+          "playerHref": "/players/h/holidaa01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -1690,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1690,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -84517.39999999998,
+        "vorp": 9.800000000000013
+      }
+    },
+    {
+      "id": "schletr01x-125",
+      "sourceId": 125,
+      "date": "2022-07-11",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Frank Kaminsky",
+      "participants": [
+        {
+          "name": "Frank Kaminsky",
+          "playerHref": "/players/k/kaminfr01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 440,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 440,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -84077.39999999998,
+        "vorp": 10.000000000000012
+      }
+    },
+    {
+      "id": "schletr01x-126",
+      "sourceId": 126,
+      "date": "2022-07-15",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Tyrese Martin",
+      "participants": [
+        {
+          "name": "Tyrese Martin",
+          "playerHref": "/players/m/martity01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -481.8,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -481.8,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -84559.19999999998,
+        "vorp": 9.900000000000013
+      }
+    },
+    {
+      "id": "schletr01x-127",
+      "sourceId": 127,
+      "date": "2022-07-21",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Sharife Cooper",
+      "participants": [
+        {
+          "name": "Sharife Cooper",
+          "playerHref": "/players/c/coopesh01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -84559.19999999998,
+        "vorp": 9.900000000000013
+      }
+    },
+    {
+      "id": "schletr01x-128",
+      "sourceId": 128,
+      "date": "2022-08-08",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Trent Forrest",
+      "participants": [
+        {
+          "name": "Trent Forrest",
+          "playerHref": "/players/f/forretr01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -3206.6000000000004,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3206.6000000000004,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -87765.79999999999,
+        "vorp": 9.400000000000013
+      }
+    },
+    {
+      "id": "schletr01x-129",
+      "sourceId": 129,
+      "date": "2022-08-22",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Tyson Etienne",
+      "participants": [
+        {
+          "name": "Tyson Etienne",
+          "playerHref": "/players/e/etienty01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -87765.79999999999,
+        "vorp": 9.400000000000013
+      }
+    },
+    {
+      "id": "schletr01x-130",
+      "sourceId": 130,
+      "date": "2022-08-25",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Chris Silva",
+      "participants": [
+        {
+          "name": "Chris Silva",
+          "playerHref": "/players/s/silvach01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -87765.79999999999,
+        "vorp": 9.400000000000013
+      }
+    },
+    {
+      "id": "schletr01x-131",
+      "sourceId": 131,
+      "date": "2022-09-12",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Jarrett Culver",
+      "participants": [
+        {
+          "name": "Jarrett Culver",
+          "playerHref": "/players/c/culveja01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -575.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -575.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -88341.19999999998,
+        "vorp": 9.300000000000013
+      }
+    },
+    {
+      "id": "schletr01x-132",
+      "sourceId": 132,
+      "date": "2022-09-16",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Malik Ellison",
+      "participants": [
+        {
+          "name": "Malik Ellison",
+          "playerHref": "/players/e/ellisma01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -88341.19999999998,
+        "vorp": 9.300000000000013
+      }
+    },
+    {
+      "id": "schletr01x-133",
+      "sourceId": 133,
+      "date": "2022-09-22",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Armoni Brooks",
+      "participants": [
+        {
+          "name": "Armoni Brooks",
+          "playerHref": "/players/b/brookar01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -88341.19999999998,
+        "vorp": 9.300000000000013
+      }
+    },
+    {
+      "id": "schletr01x-134",
+      "sourceId": 134,
+      "date": "2022-09-27",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Vit Krejci; Sent out Maurice Harkless",
+      "participants": [
+        {
+          "name": "Maurice Harkless",
+          "playerHref": "/players/h/harklma01.html",
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Vit Krejci",
+          "playerHref": "/players/k/krejcvi01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -3125,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3125,
+        "vorp": 0.7
+      },
+      "runningValues": {
+        "bpm": -91466.19999999998,
+        "vorp": 10.000000000000012
+      }
+    }
+  ]
+}

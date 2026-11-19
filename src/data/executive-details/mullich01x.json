@@ -1,0 +1,1827 @@
+{
+  "slug": "mullich01x",
+  "sourceRowCount": 89,
+  "tenures": [
+    {
+      "teamCode": "GSW",
+      "startDate": "2004-06-24",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "mullich01x-0",
+      "sourceId": 0,
+      "date": "2004-06-24",
+      "type": "draft",
+      "tenureTeam": "GSW",
+      "summary": "Drafted Andris Biedriņš",
+      "participants": [
+        {
+          "name": "Andris Biedriņš",
+          "playerHref": "/players/b/biedran01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -3746.1999999999994,
+            "vorp": 4.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3746.1999999999994,
+        "vorp": 4.6
+      },
+      "runningValues": {
+        "bpm": -3746.1999999999994,
+        "vorp": 4.6
+      }
+    },
+    {
+      "id": "mullich01x-1",
+      "sourceId": 1,
+      "date": "2004-07-16",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Derek Fisher",
+      "participants": [
+        {
+          "name": "Derek Fisher",
+          "playerHref": "/players/f/fishede01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1408.6000000000001,
+            "vorp": 2.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1408.6000000000001,
+        "vorp": 2.1
+      },
+      "runningValues": {
+        "bpm": -5154.799999999999,
+        "vorp": 6.699999999999999
+      }
+    },
+    {
+      "id": "mullich01x-2",
+      "sourceId": 2,
+      "date": "2004-07-20",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Dale Davis and Dan Dickau; Sent out Nick Van Exel",
+      "participants": [
+        {
+          "name": "Nick Van Exel",
+          "playerHref": "/players/v/vanexni01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 1619,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dale Davis",
+          "playerHref": "/players/d/davisda01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1731,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dan Dickau",
+          "playerHref": "/players/d/dickada01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -112,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -5266.799999999999,
+        "vorp": 6.199999999999999
+      }
+    },
+    {
+      "id": "mullich01x-3",
+      "sourceId": 3,
+      "date": "2004-08-24",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Luis Flores, Christian Laettner, Eduardo Nájera, Mladen Sekularac, and Petteri Koponen; Sent out Erick Dampier, Dan Dickau, Evan Eschmeyer, and Steve Logan",
+      "participants": [
+        {
+          "name": "Erick Dampier",
+          "playerHref": "/players/d/dampier01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 1767.4,
+            "vorp": -4.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dan Dickau",
+          "playerHref": "/players/d/dickada01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 244.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Evan Eschmeyer",
+          "playerHref": "/players/e/eschmev01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Logan",
+          "playerHref": "/players/l/loganst01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Luis Flores",
+          "playerHref": "/players/f/florelu01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -445.29999999999995,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Christian Laettner",
+          "playerHref": "/players/l/laettch01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eduardo Nájera",
+          "playerHref": "/players/n/najered01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -2074,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mladen Sekularac",
+          "playerHref": "/players/s/sekulml01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Petteri Koponen",
+          "playerHref": "/players/k/koponpe01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -507.0999999999999,
+        "vorp": -5.2
+      },
+      "runningValues": {
+        "bpm": -5773.899999999999,
+        "vorp": 0.9999999999999989
+      }
+    },
+    {
+      "id": "mullich01x-4",
+      "sourceId": 4,
+      "date": "2004-10-04",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Ansu Sesay",
+      "participants": [
+        {
+          "name": "Ansu Sesay",
+          "playerHref": "/players/s/sesayan01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 12.8,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 12.8,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -5761.0999999999985,
+        "vorp": 1.099999999999999
+      }
+    },
+    {
+      "id": "mullich01x-5",
+      "sourceId": 5,
+      "date": "2004-10-04",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Brandon Armstrong",
+      "participants": [
+        {
+          "name": "Brandon Armstrong",
+          "playerHref": "/players/a/armstbr01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -5761.0999999999985,
+        "vorp": 1.099999999999999
+      }
+    },
+    {
+      "id": "mullich01x-6",
+      "sourceId": 6,
+      "date": "2005-01-03",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Žarko Čabarkapa; Sent out Aaron Gray and DeJuan Blair",
+      "participants": [
+        {
+          "name": "Aaron Gray",
+          "playerHref": "/players/g/grayaa01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "DeJuan Blair",
+          "playerHref": "/players/b/blairde01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Žarko Čabarkapa",
+          "playerHref": "/players/c/cabarza01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -2858,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2858,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -8619.099999999999,
+        "vorp": 0.899999999999999
+      }
+    },
+    {
+      "id": "mullich01x-7",
+      "sourceId": 7,
+      "date": "2005-02-14",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Chris Taft and Stéphane Lasme; Sent out Clifford Robinson",
+      "participants": [
+        {
+          "name": "Clifford Robinson",
+          "playerHref": "/players/r/robincl02.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 9036.9,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chris Taft",
+          "playerHref": "/players/t/taftch01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Stéphane Lasme",
+          "playerHref": "/players/l/lasmest01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 9036.9,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": 417.8000000000011,
+        "vorp": 1.399999999999999
+      }
+    },
+    {
+      "id": "mullich01x-8",
+      "sourceId": 8,
+      "date": "2005-02-24",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Baron Davis; Sent out Speedy Claxton and Dale Davis",
+      "participants": [
+        {
+          "name": "Speedy Claxton",
+          "playerHref": "/players/c/claxtsp01.html",
+          "direction": "out",
+          "teamCode": "NOH",
+          "values": {
+            "bpm": 146,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dale Davis",
+          "playerHref": "/players/d/davisda01.html",
+          "direction": "out",
+          "teamCode": "NOH",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Baron Davis",
+          "playerHref": "/players/d/davisba01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 27665.4,
+            "vorp": 11.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 27811.4,
+        "vorp": 11.1
+      },
+      "runningValues": {
+        "bpm": 28229.200000000004,
+        "vorp": 12.499999999999998
+      }
+    },
+    {
+      "id": "mullich01x-9",
+      "sourceId": 9,
+      "date": "2005-02-24",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Nikoloz Tskitishvili and Rodney White; Sent out Luis Flores, Eduardo Nájera, and Petteri Koponen",
+      "participants": [
+        {
+          "name": "Luis Flores",
+          "playerHref": "/players/f/florelu01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -81.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eduardo Nájera",
+          "playerHref": "/players/n/najered01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 3215.5,
+            "vorp": -1.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Petteri Koponen",
+          "playerHref": "/players/k/koponpe01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Nikoloz Tskitishvili",
+          "playerHref": "/players/t/tskitni01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -477.40000000000003,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rodney White",
+          "playerHref": "/players/w/whitero02.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1168,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1488.5,
+        "vorp": -2.2
+      },
+      "runningValues": {
+        "bpm": 29717.700000000004,
+        "vorp": 10.299999999999999
+      }
+    },
+    {
+      "id": "mullich01x-10",
+      "sourceId": 10,
+      "date": "2005-06-28",
+      "type": "draft",
+      "tenureTeam": "GSW",
+      "summary": "Drafted Ike Diogu, Monta Ellis, and Chris Taft",
+      "participants": [
+        {
+          "name": "Ike Diogu",
+          "playerHref": "/players/d/dioguik01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -2320.5,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Monta Ellis",
+          "playerHref": "/players/e/ellismo01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -3373,
+            "vorp": 6.600000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chris Taft",
+          "playerHref": "/players/t/taftch01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -86.39999999999999,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5779.9,
+        "vorp": 6.800000000000001
+      },
+      "runningValues": {
+        "bpm": 23937.800000000003,
+        "vorp": 17.1
+      }
+    },
+    {
+      "id": "mullich01x-11",
+      "sourceId": 11,
+      "date": "2005-09-27",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Ray Young",
+      "participants": [
+        {
+          "name": "Ray Young",
+          "playerHref": "/players/y/youngra01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 23937.800000000003,
+        "vorp": 17.1
+      }
+    },
+    {
+      "id": "mullich01x-12",
+      "sourceId": 12,
+      "date": "2005-09-27",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Justin Davis",
+      "participants": [
+        {
+          "name": "Justin Davis",
+          "playerHref": "/players/d/davisju01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 23937.800000000003,
+        "vorp": 17.1
+      }
+    },
+    {
+      "id": "mullich01x-13",
+      "sourceId": 13,
+      "date": "2005-09-27",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Deji Akindele",
+      "participants": [
+        {
+          "name": "Deji Akindele",
+          "playerHref": "/players/a/akindja01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 23937.800000000003,
+        "vorp": 17.1
+      }
+    },
+    {
+      "id": "mullich01x-14",
+      "sourceId": 14,
+      "date": "2005-09-29",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Aaron Miles",
+      "participants": [
+        {
+          "name": "Aaron Miles",
+          "playerHref": "/players/m/milesaa01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -590,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -590,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 23347.800000000003,
+        "vorp": 17
+      }
+    },
+    {
+      "id": "mullich01x-15",
+      "sourceId": 15,
+      "date": "2005-10-03",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Mamadou N'Diaye",
+      "participants": [
+        {
+          "name": "Mamadou N'Diaye",
+          "playerHref": "/players/n/ndiayma02.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 23347.800000000003,
+        "vorp": 17
+      }
+    },
+    {
+      "id": "mullich01x-16",
+      "sourceId": 16,
+      "date": "2006-01-02",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Dijon Thompson",
+      "participants": [
+        {
+          "name": "Dijon Thompson",
+          "playerHref": "/players/t/thompdi01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 23347.800000000003,
+        "vorp": 17
+      }
+    },
+    {
+      "id": "mullich01x-17",
+      "sourceId": 17,
+      "date": "2006-03-17",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Will Bynum",
+      "participants": [
+        {
+          "name": "Will Bynum",
+          "playerHref": "/players/b/bynumwi01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 23347.800000000003,
+        "vorp": 17
+      }
+    },
+    {
+      "id": "mullich01x-18",
+      "sourceId": 18,
+      "date": "2006-04-17",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Will Bynum",
+      "participants": [
+        {
+          "name": "Will Bynum",
+          "playerHref": "/players/b/bynumwi01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -810,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -810,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 22537.800000000003,
+        "vorp": 16.9
+      }
+    },
+    {
+      "id": "mullich01x-19",
+      "sourceId": 19,
+      "date": "2006-06-28",
+      "type": "draft",
+      "tenureTeam": "GSW",
+      "summary": "Drafted Patrick O'Bryant and Kosta Perović",
+      "participants": [
+        {
+          "name": "Patrick O'Bryant",
+          "playerHref": "/players/o/obryapa01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -921.5999999999999,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kosta Perović",
+          "playerHref": "/players/p/perovko01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -220.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1142,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 21395.800000000003,
+        "vorp": 16.799999999999997
+      }
+    },
+    {
+      "id": "mullich01x-20",
+      "sourceId": 20,
+      "date": "2006-07-12",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Devin Brown, Keith McLeod, and Andre Owens; Sent out Derek Fisher",
+      "participants": [
+        {
+          "name": "Derek Fisher",
+          "playerHref": "/players/f/fishede01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 3659.2000000000003,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Devin Brown",
+          "playerHref": "/players/b/brownde02.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Keith McLeod",
+          "playerHref": "/players/m/mcleoke01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -682.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Andre Owens",
+          "playerHref": "/players/o/owensan01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2977,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 24372.800000000003,
+        "vorp": 16.599999999999998
+      }
+    },
+    {
+      "id": "mullich01x-21",
+      "sourceId": 21,
+      "date": "2006-09-22",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Dajuan Wagner",
+      "participants": [
+        {
+          "name": "Dajuan Wagner",
+          "playerHref": "/players/w/wagneda02.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 29.400000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 29.400000000000002,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 24402.200000000004,
+        "vorp": 16.599999999999998
+      }
+    },
+    {
+      "id": "mullich01x-22",
+      "sourceId": 22,
+      "date": "2006-10-02",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Anthony Roberson",
+      "participants": [
+        {
+          "name": "Anthony Roberson",
+          "playerHref": "/players/r/roberan02.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -522.0999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -522.0999999999999,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 23880.100000000006,
+        "vorp": 16.599999999999998
+      }
+    },
+    {
+      "id": "mullich01x-23",
+      "sourceId": 23,
+      "date": "2006-10-20",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Matt Barnes",
+      "participants": [
+        {
+          "name": "Matt Barnes",
+          "playerHref": "/players/b/barnema02.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 1061.9,
+            "vorp": 2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1061.9,
+        "vorp": 2
+      },
+      "runningValues": {
+        "bpm": 24942.000000000007,
+        "vorp": 18.599999999999998
+      }
+    },
+    {
+      "id": "mullich01x-24",
+      "sourceId": 24,
+      "date": "2007-01-02",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Kelenna Azubuike",
+      "participants": [
+        {
+          "name": "Kelenna Azubuike",
+          "playerHref": "/players/a/azubuke01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -602.0999999999999,
+            "vorp": 0.20000000000000018
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -602.0999999999999,
+        "vorp": 0.20000000000000018
+      },
+      "runningValues": {
+        "bpm": 24339.90000000001,
+        "vorp": 18.799999999999997
+      }
+    },
+    {
+      "id": "mullich01x-25",
+      "sourceId": 25,
+      "date": "2007-01-16",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Al Harrington, Stephen Jackson, Šarūnas Jasikevičius, and Josh Powell; Sent out Ike Diogu, Mike Dunleavy, Keith McLeod, and Troy Murphy",
+      "participants": [
+        {
+          "name": "Ike Diogu",
+          "playerHref": "/players/d/dioguik01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 3397,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Dunleavy",
+          "playerHref": "/players/d/dunlemi02.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -5723.299999999999,
+            "vorp": -5.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Keith McLeod",
+          "playerHref": "/players/m/mcleoke01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 1728.8999999999999,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Troy Murphy",
+          "playerHref": "/players/m/murphtr01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -17385.7,
+            "vorp": -8.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Al Harrington",
+          "playerHref": "/players/h/harrial01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -350.29999999999995,
+            "vorp": 1.7999999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Stephen Jackson",
+          "playerHref": "/players/j/jacksst02.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -2050.6,
+            "vorp": 2.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Šarūnas Jasikevičius",
+          "playerHref": "/players/j/jasiksa01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1112.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Josh Powell",
+          "playerHref": "/players/p/poweljo01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1184.8999999999999,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -22681.3,
+        "vorp": -8.7
+      },
+      "runningValues": {
+        "bpm": 1658.6000000000101,
+        "vorp": 10.099999999999996
+      }
+    },
+    {
+      "id": "mullich01x-26",
+      "sourceId": 26,
+      "date": "2007-01-17",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Renaldo Major",
+      "participants": [
+        {
+          "name": "Renaldo Major",
+          "playerHref": "/players/m/majorre01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -359.1,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -359.1,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 1299.50000000001,
+        "vorp": 9.999999999999996
+      }
+    },
+    {
+      "id": "mullich01x-27",
+      "sourceId": 27,
+      "date": "2007-06-28",
+      "type": "draft",
+      "tenureTeam": "GSW",
+      "summary": "Drafted Marco Belinelli, Jermareo Davidson, and Stéphane Lasme",
+      "participants": [
+        {
+          "name": "Marco Belinelli",
+          "playerHref": "/players/b/belinma01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -3137.2,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jermareo Davidson",
+          "playerHref": "/players/d/davidje01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -566.0999999999999,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Stéphane Lasme",
+          "playerHref": "/players/l/lasmest01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3703.2999999999997,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -2403.7999999999897,
+        "vorp": 9.599999999999996
+      }
+    },
+    {
+      "id": "mullich01x-28",
+      "sourceId": 28,
+      "date": "2007-06-28",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Brandan Wright; Sent out Jermareo Davidson and Jason Richardson",
+      "participants": [
+        {
+          "name": "Jermareo Davidson",
+          "playerHref": "/players/d/davidje01.html",
+          "direction": "out",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 1642.1999999999998,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jason Richardson",
+          "playerHref": "/players/r/richaja01.html",
+          "direction": "out",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -10085.3,
+            "vorp": -4.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Brandan Wright",
+          "playerHref": "/players/w/wrighbr03.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -374.1,
+            "vorp": 0.6000000000000001
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -8817.199999999999,
+        "vorp": -3.5000000000000004
+      },
+      "runningValues": {
+        "bpm": -11220.999999999989,
+        "vorp": 6.099999999999996
+      }
+    },
+    {
+      "id": "mullich01x-29",
+      "sourceId": 29,
+      "date": "2007-07-17",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Kelenna Azubuike",
+      "participants": [
+        {
+          "name": "Kelenna Azubuike",
+          "playerHref": "/players/a/azubuke01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1385.6000000000004,
+            "vorp": 0.4999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1385.6000000000004,
+        "vorp": 0.4999999999999998
+      },
+      "runningValues": {
+        "bpm": -12606.59999999999,
+        "vorp": 6.599999999999996
+      }
+    },
+    {
+      "id": "mullich01x-30",
+      "sourceId": 30,
+      "date": "2007-08-03",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Austin Croshere",
+      "participants": [
+        {
+          "name": "Austin Croshere",
+          "playerHref": "/players/c/croshau01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -457,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -457,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -13063.59999999999,
+        "vorp": 6.699999999999996
+      }
+    },
+    {
+      "id": "mullich01x-31",
+      "sourceId": 31,
+      "date": "2007-09-24",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Troy Hudson",
+      "participants": [
+        {
+          "name": "Troy Hudson",
+          "playerHref": "/players/h/hudsotr01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -585.9,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -585.9,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -13649.499999999989,
+        "vorp": 6.599999999999996
+      }
+    },
+    {
+      "id": "mullich01x-32",
+      "sourceId": 32,
+      "date": "2007-10-01",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Tierre Brown",
+      "participants": [
+        {
+          "name": "Tierre Brown",
+          "playerHref": "/players/b/brownti01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -13649.499999999989,
+        "vorp": 6.599999999999996
+      }
+    },
+    {
+      "id": "mullich01x-33",
+      "sourceId": 33,
+      "date": "2007-11-17",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed D.J. Mbenga",
+      "participants": [
+        {
+          "name": "D.J. Mbenga",
+          "playerHref": "/players/m/mbengdj01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -650,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -650,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -14299.499999999989,
+        "vorp": 6.4999999999999964
+      }
+    },
+    {
+      "id": "mullich01x-34",
+      "sourceId": 34,
+      "date": "2008-01-08",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed C.J. Watson",
+      "participants": [
+        {
+          "name": "C.J. Watson",
+          "playerHref": "/players/w/watsocj01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -2687.1,
+            "vorp": 1.2999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2687.1,
+        "vorp": 1.2999999999999998
+      },
+      "runningValues": {
+        "bpm": -16986.599999999988,
+        "vorp": 7.799999999999996
+      }
+    },
+    {
+      "id": "mullich01x-35",
+      "sourceId": 35,
+      "date": "2008-01-26",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Chris Webber",
+      "participants": [
+        {
+          "name": "Chris Webber",
+          "playerHref": "/players/w/webbech01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -138.60000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -138.60000000000002,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -17125.199999999986,
+        "vorp": 7.799999999999996
+      }
+    },
+    {
+      "id": "mullich01x-36",
+      "sourceId": 36,
+      "date": "2008-06-26",
+      "type": "draft",
+      "tenureTeam": "GSW",
+      "summary": "Drafted Anthony Randolph and Richard Hendrix",
+      "participants": [
+        {
+          "name": "Anthony Randolph",
+          "playerHref": "/players/r/randoan01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -2971.2,
+            "vorp": 0.19999999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Richard Hendrix",
+          "playerHref": "/players/h/hendrri02.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2971.2,
+        "vorp": 0.19999999999999998
+      },
+      "runningValues": {
+        "bpm": -20096.399999999987,
+        "vorp": 7.9999999999999964
+      }
+    },
+    {
+      "id": "mullich01x-37",
+      "sourceId": 37,
+      "date": "2008-07-10",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Corey Maggette",
+      "participants": [
+        {
+          "name": "Corey Maggette",
+          "playerHref": "/players/m/maggeco01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -2551.7,
+            "vorp": 1.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2551.7,
+        "vorp": 1.2
+      },
+      "runningValues": {
+        "bpm": -22648.099999999988,
+        "vorp": 9.199999999999996
+      }
+    },
+    {
+      "id": "mullich01x-38",
+      "sourceId": 38,
+      "date": "2008-07-19",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Ronny Turiaf",
+      "participants": [
+        {
+          "name": "Ronny Turiaf",
+          "playerHref": "/players/t/turiaro01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 2292,
+            "vorp": 1.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2292,
+        "vorp": 1.9
+      },
+      "runningValues": {
+        "bpm": -20356.099999999988,
+        "vorp": 11.099999999999996
+      }
+    },
+    {
+      "id": "mullich01x-39",
+      "sourceId": 39,
+      "date": "2008-07-22",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Marcus Williams; Sent out Darius Morris and Gorgui Dieng",
+      "participants": [
+        {
+          "name": "Darius Morris",
+          "playerHref": "/players/m/morrida01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 1883.7,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Gorgui Dieng",
+          "playerHref": "/players/d/dienggo01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Marcus Williams",
+          "playerHref": "/players/w/willima03.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -437.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1446.3000000000002,
+        "vorp": 0.19999999999999998
+      },
+      "runningValues": {
+        "bpm": -18909.79999999999,
+        "vorp": 11.299999999999997
+      }
+    },
+    {
+      "id": "mullich01x-40",
+      "sourceId": 40,
+      "date": "2008-07-25",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Kelenna Azubuike",
+      "participants": [
+        {
+          "name": "Kelenna Azubuike",
+          "playerHref": "/players/a/azubuke01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -702.4,
+            "vorp": 1.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -702.4,
+        "vorp": 1.1
+      },
+      "runningValues": {
+        "bpm": -19612.19999999999,
+        "vorp": 12.399999999999997
+      }
+    },
+    {
+      "id": "mullich01x-41",
+      "sourceId": 41,
+      "date": "2008-08-04",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Anthony Morrow",
+      "participants": [
+        {
+          "name": "Anthony Morrow",
+          "playerHref": "/players/m/morroan01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1110.2,
+            "vorp": 1.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1110.2,
+        "vorp": 1.5
+      },
+      "runningValues": {
+        "bpm": -20722.39999999999,
+        "vorp": 13.899999999999997
+      }
+    },
+    {
+      "id": "mullich01x-42",
+      "sourceId": 42,
+      "date": "2008-09-09",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed DeMarcus Nelson",
+      "participants": [
+        {
+          "name": "DeMarcus Nelson",
+          "playerHref": "/players/n/nelsode01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -940.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -940.5,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -21662.89999999999,
+        "vorp": 13.799999999999997
+      }
+    },
+    {
+      "id": "mullich01x-43",
+      "sourceId": 43,
+      "date": "2008-10-01",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Dan Dickau",
+      "participants": [
+        {
+          "name": "Dan Dickau",
+          "playerHref": "/players/d/dickada01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -21662.89999999999,
+        "vorp": 13.799999999999997
+      }
+    },
+    {
+      "id": "mullich01x-44",
+      "sourceId": 44,
+      "date": "2008-11-02",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Rob Kurz",
+      "participants": [
+        {
+          "name": "Rob Kurz",
+          "playerHref": "/players/k/kurzro01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1193.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1193.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -22856.299999999992,
+        "vorp": 13.699999999999998
+      }
+    },
+    {
+      "id": "mullich01x-45",
+      "sourceId": 45,
+      "date": "2008-11-21",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Jamal Crawford; Sent out Al Harrington",
+      "participants": [
+        {
+          "name": "Al Harrington",
+          "playerHref": "/players/h/harrial01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 1756,
+            "vorp": -1.7999999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jamal Crawford",
+          "playerHref": "/players/c/crawfja01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -3339.2000000000003,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1583.2000000000003,
+        "vorp": -1.5999999999999999
+      },
+      "runningValues": {
+        "bpm": -24439.499999999993,
+        "vorp": 12.099999999999998
+      }
+    },
+    {
+      "id": "mullich01x-46",
+      "sourceId": 46,
+      "date": "2009-01-05",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Jermareo Davidson",
+      "participants": [
+        {
+          "name": "Jermareo Davidson",
+          "playerHref": "/players/d/davidje01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -566.0999999999999,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -566.0999999999999,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -25005.59999999999,
+        "vorp": 11.999999999999998
+      }
+    }
+  ]
+}

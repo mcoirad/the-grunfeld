@@ -1,0 +1,7186 @@
+{
+  "slug": "horstjo01x",
+  "sourceRowCount": 316,
+  "tenures": [
+    {
+      "teamCode": "MIL",
+      "startDate": "2017-06-22",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "horstjo01x-0",
+      "sourceId": 0,
+      "date": "2017-06-22",
+      "type": "draft",
+      "tenureTeam": "MIL",
+      "summary": "Drafted D.J. Wilson and Sindarius Thornwell",
+      "participants": [
+        {
+          "name": "D.J. Wilson",
+          "playerHref": "/players/w/wilsodj01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sindarius Thornwell",
+          "playerHref": "/players/t/thornsi01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "horstjo01x-1",
+      "sourceId": 1,
+      "date": "2017-06-23",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Sent out Sindarius Thornwell",
+      "participants": [
+        {
+          "name": "Sindarius Thornwell",
+          "playerHref": "/players/t/thornsi01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 4245.5,
+            "vorp": 0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4245.5,
+        "vorp": 0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": 4245.5,
+        "vorp": 0.30000000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-2",
+      "sourceId": 2,
+      "date": "2017-07-06",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Sterling Brown",
+      "participants": [
+        {
+          "name": "Sterling Brown",
+          "playerHref": "/players/b/brownst02.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 4245.5,
+        "vorp": 0.30000000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-3",
+      "sourceId": 3,
+      "date": "2017-07-06",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Rookie contract for D.J. Wilson",
+      "participants": [
+        {
+          "name": "D.J. Wilson",
+          "playerHref": "/players/w/wilsodj01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -3971.2,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -3971.2,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": 274.3000000000002,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "horstjo01x-4",
+      "sourceId": 4,
+      "date": "2017-07-06",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Bronson Koenig",
+      "participants": [
+        {
+          "name": "Bronson Koenig",
+          "playerHref": "/players/k/koenibr01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 274.3000000000002,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "horstjo01x-5",
+      "sourceId": 5,
+      "date": "2017-07-07",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed JeQuan Lewis",
+      "participants": [
+        {
+          "name": "JeQuan Lewis",
+          "playerHref": "/players/l/lewisje01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 274.3000000000002,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "horstjo01x-6",
+      "sourceId": 6,
+      "date": "2017-07-07",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Sterling Brown",
+      "participants": [
+        {
+          "name": "Sterling Brown",
+          "playerHref": "/players/b/brownst02.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -5413,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5413,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -5138.7,
+        "vorp": -0.1
+      }
+    },
+    {
+      "id": "horstjo01x-7",
+      "sourceId": 7,
+      "date": "2017-07-08",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Jalen Moore",
+      "participants": [
+        {
+          "name": "Jalen Moore",
+          "playerHref": "/players/m/mooreja02.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -5138.7,
+        "vorp": -0.1
+      }
+    },
+    {
+      "id": "horstjo01x-8",
+      "sourceId": 8,
+      "date": "2017-07-31",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Tony Snell",
+      "participants": [
+        {
+          "name": "Tony Snell",
+          "playerHref": "/players/s/snellto01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -5634.7,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5634.7,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": -10773.4,
+        "vorp": 0.30000000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-9",
+      "sourceId": 9,
+      "date": "2017-09-06",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed James Young",
+      "participants": [
+        {
+          "name": "James Young",
+          "playerHref": "/players/y/youngja01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -10773.4,
+        "vorp": 0.30000000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-10",
+      "sourceId": 10,
+      "date": "2017-09-18",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Jason Terry",
+      "participants": [
+        {
+          "name": "Jason Terry",
+          "playerHref": "/players/t/terryja01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -1546.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1546.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -12320,
+        "vorp": 0.30000000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-11",
+      "sourceId": 11,
+      "date": "2017-09-19",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Brandon Rush",
+      "participants": [
+        {
+          "name": "Brandon Rush",
+          "playerHref": "/players/r/rushbr01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -12320,
+        "vorp": 0.30000000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-12",
+      "sourceId": 12,
+      "date": "2017-09-21",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Kendall Marshall",
+      "participants": [
+        {
+          "name": "Kendall Marshall",
+          "playerHref": "/players/m/marshke01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -12320,
+        "vorp": 0.30000000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-13",
+      "sourceId": 13,
+      "date": "2017-09-24",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Gerald Green",
+      "participants": [
+        {
+          "name": "Gerald Green",
+          "playerHref": "/players/g/greenge01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -12320,
+        "vorp": 0.30000000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-14",
+      "sourceId": 14,
+      "date": "2017-09-24",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Joel Anthony",
+      "participants": [
+        {
+          "name": "Joel Anthony",
+          "playerHref": "/players/a/anthojo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -12320,
+        "vorp": 0.30000000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-15",
+      "sourceId": 15,
+      "date": "2017-10-05",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Xavier Munford",
+      "participants": [
+        {
+          "name": "Xavier Munford",
+          "playerHref": "/players/m/munfoxa02.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -12320,
+        "vorp": 0.30000000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-16",
+      "sourceId": 16,
+      "date": "2017-10-17",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Gary Payton II",
+      "participants": [
+        {
+          "name": "Gary Payton II",
+          "playerHref": "/players/p/paytoga02.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -561.8,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -561.8,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -12881.8,
+        "vorp": 0.20000000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-17",
+      "sourceId": 17,
+      "date": "2017-10-20",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Joel Bolomboy",
+      "participants": [
+        {
+          "name": "Joel Bolomboy",
+          "playerHref": "/players/b/bolomjo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -190,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -190,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -13071.8,
+        "vorp": 0.20000000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-18",
+      "sourceId": 18,
+      "date": "2017-11-07",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Eric Bledsoe; Sent out Greg Monroe and Desmond Bane",
+      "participants": [
+        {
+          "name": "Greg Monroe",
+          "playerHref": "/players/m/monrogr01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -976.5,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Desmond Bane",
+          "playerHref": "/players/b/banede01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eric Bledsoe",
+          "playerHref": "/players/b/bledser01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 6045.299999999999,
+            "vorp": 2.5999999999999996
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5068.799999999999,
+        "vorp": 2.0999999999999996
+      },
+      "runningValues": {
+        "bpm": -8003,
+        "vorp": 2.3
+      }
+    },
+    {
+      "id": "horstjo01x-19",
+      "sourceId": 19,
+      "date": "2017-12-18",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Sean Kilpatrick",
+      "participants": [
+        {
+          "name": "Sean Kilpatrick",
+          "playerHref": "/players/k/kilpase01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -533,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -533,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -8536,
+        "vorp": 2.3
+      }
+    },
+    {
+      "id": "horstjo01x-20",
+      "sourceId": 20,
+      "date": "2018-01-07",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Xavier Munford",
+      "participants": [
+        {
+          "name": "Xavier Munford",
+          "playerHref": "/players/m/munfoxa02.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -235.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -235.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -8771.2,
+        "vorp": 2.3
+      }
+    },
+    {
+      "id": "horstjo01x-21",
+      "sourceId": 21,
+      "date": "2018-01-15",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Marshall Plumlee",
+      "participants": [
+        {
+          "name": "Marshall Plumlee",
+          "playerHref": "/players/p/plumlma02.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -234,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -234,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -9005.2,
+        "vorp": 2.3
+      }
+    },
+    {
+      "id": "horstjo01x-24",
+      "sourceId": 24,
+      "date": "2018-02-05",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Tyler Zeller; Sent out Rashad Vaughn and Hamidou Diallo",
+      "participants": [
+        {
+          "name": "Rashad Vaughn",
+          "playerHref": "/players/v/vaughra01.html",
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 21.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Hamidou Diallo",
+          "playerHref": "/players/d/diallha01.html",
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tyler Zeller",
+          "playerHref": "/players/z/zellety01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -852.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -831.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -9836.6,
+        "vorp": 2.3
+      }
+    },
+    {
+      "id": "horstjo01x-25",
+      "sourceId": 25,
+      "date": "2018-03-04",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Shabazz Muhammad",
+      "participants": [
+        {
+          "name": "Shabazz Muhammad",
+          "playerHref": "/players/m/muhamsh01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 690.3000000000001,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 690.3000000000001,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -9146.300000000001,
+        "vorp": 2.5
+      }
+    },
+    {
+      "id": "horstjo01x-26",
+      "sourceId": 26,
+      "date": "2018-03-11",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Brandon Jennings",
+      "participants": [
+        {
+          "name": "Brandon Jennings",
+          "playerHref": "/players/j/jennibr01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -9146.300000000001,
+        "vorp": 2.5
+      }
+    },
+    {
+      "id": "horstjo01x-27",
+      "sourceId": 27,
+      "date": "2018-04-01",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Brandon Jennings",
+      "participants": [
+        {
+          "name": "Brandon Jennings",
+          "playerHref": "/players/j/jennibr01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -697,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -697,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -9843.300000000001,
+        "vorp": 2.4
+      }
+    },
+    {
+      "id": "horstjo01x-29",
+      "sourceId": 29,
+      "date": "2018-06-21",
+      "type": "draft",
+      "tenureTeam": "MIL",
+      "summary": "Drafted Donte DiVincenzo",
+      "participants": [
+        {
+          "name": "Donte DiVincenzo",
+          "playerHref": "/players/d/divindo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -9843.300000000001,
+        "vorp": 2.4
+      }
+    },
+    {
+      "id": "horstjo01x-30",
+      "sourceId": 30,
+      "date": "2018-07-10",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Rookie contract for Donte DiVincenzo",
+      "participants": [
+        {
+          "name": "Donte DiVincenzo",
+          "playerHref": "/players/d/divindo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -225.4000000000001,
+            "vorp": 1.9999999999999998
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -225.4000000000001,
+        "vorp": 1.9999999999999998
+      },
+      "runningValues": {
+        "bpm": -10068.7,
+        "vorp": 4.3999999999999995
+      }
+    },
+    {
+      "id": "horstjo01x-31",
+      "sourceId": 31,
+      "date": "2018-07-16",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Ersan İlyasova",
+      "participants": [
+        {
+          "name": "Ersan İlyasova",
+          "playerHref": "/players/i/ilyaser01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -2436.8999999999996,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2436.8999999999996,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": -12505.6,
+        "vorp": 4.8999999999999995
+      }
+    },
+    {
+      "id": "horstjo01x-32",
+      "sourceId": 32,
+      "date": "2018-07-17",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Brook Lopez",
+      "participants": [
+        {
+          "name": "Brook Lopez",
+          "playerHref": "/players/l/lopezbr01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 5108.4000000000015,
+            "vorp": 2.4000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5108.4000000000015,
+        "vorp": 2.4000000000000004
+      },
+      "runningValues": {
+        "bpm": -7397.199999999999,
+        "vorp": 7.3
+      }
+    },
+    {
+      "id": "horstjo01x-33",
+      "sourceId": 33,
+      "date": "2018-07-23",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Travis Trice",
+      "participants": [
+        {
+          "name": "Travis Trice",
+          "playerHref": "/players/t/tricetr01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -7397.199999999999,
+        "vorp": 7.3
+      }
+    },
+    {
+      "id": "horstjo01x-34",
+      "sourceId": 34,
+      "date": "2018-07-24",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Trevon Duval",
+      "participants": [
+        {
+          "name": "Trevon Duval",
+          "playerHref": "/players/d/duvaltr01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 145.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 145.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -7251.399999999999,
+        "vorp": 7.3
+      }
+    },
+    {
+      "id": "horstjo01x-35",
+      "sourceId": 35,
+      "date": "2018-07-26",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Jaylen Morris",
+      "participants": [
+        {
+          "name": "Jaylen Morris",
+          "playerHref": "/players/m/morrija01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -8.7,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -8.7,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -7260.0999999999985,
+        "vorp": 7.3
+      }
+    },
+    {
+      "id": "horstjo01x-36",
+      "sourceId": 36,
+      "date": "2018-07-31",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Brandon McCoy",
+      "participants": [
+        {
+          "name": "Brandon McCoy",
+          "playerHref": "/players/m/mccoybr01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -7260.0999999999985,
+        "vorp": 7.3
+      }
+    },
+    {
+      "id": "horstjo01x-37",
+      "sourceId": 37,
+      "date": "2018-08-01",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Pat Connaughton",
+      "participants": [
+        {
+          "name": "Pat Connaughton",
+          "playerHref": "/players/c/connapa01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 2259,
+            "vorp": 1.8000000000000003
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2259,
+        "vorp": 1.8000000000000003
+      },
+      "runningValues": {
+        "bpm": -5001.0999999999985,
+        "vorp": 9.1
+      }
+    },
+    {
+      "id": "horstjo01x-38",
+      "sourceId": 38,
+      "date": "2018-08-07",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Jordan Barnett",
+      "participants": [
+        {
+          "name": "Jordan Barnett",
+          "playerHref": "/players/b/barnejo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -5001.0999999999985,
+        "vorp": 9.1
+      }
+    },
+    {
+      "id": "horstjo01x-39",
+      "sourceId": 39,
+      "date": "2018-09-17",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Robert Johnson",
+      "participants": [
+        {
+          "name": "Robert Johnson",
+          "playerHref": "/players/j/johnsro02.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -5001.0999999999985,
+        "vorp": 9.1
+      }
+    },
+    {
+      "id": "horstjo01x-40",
+      "sourceId": 40,
+      "date": "2018-09-17",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed James Young",
+      "participants": [
+        {
+          "name": "James Young",
+          "playerHref": "/players/y/youngja01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -5001.0999999999985,
+        "vorp": 9.1
+      }
+    },
+    {
+      "id": "horstjo01x-41",
+      "sourceId": 41,
+      "date": "2018-09-19",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Ike Nwamu",
+      "participants": [
+        {
+          "name": "Ike Nwamu",
+          "playerHref": "/players/n/nwamuik01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -5001.0999999999985,
+        "vorp": 9.1
+      }
+    },
+    {
+      "id": "horstjo01x-42",
+      "sourceId": 42,
+      "date": "2018-09-21",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Christian Wood",
+      "participants": [
+        {
+          "name": "Christian Wood",
+          "playerHref": "/players/w/woodch01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -80.60000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -80.60000000000001,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -5081.699999999999,
+        "vorp": 9.1
+      }
+    },
+    {
+      "id": "horstjo01x-43",
+      "sourceId": 43,
+      "date": "2018-09-21",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Tim Frazier",
+      "participants": [
+        {
+          "name": "Tim Frazier",
+          "playerHref": "/players/f/fraziti01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -5081.699999999999,
+        "vorp": 9.1
+      }
+    },
+    {
+      "id": "horstjo01x-44",
+      "sourceId": 44,
+      "date": "2018-09-21",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Shabazz Muhammad",
+      "participants": [
+        {
+          "name": "Shabazz Muhammad",
+          "playerHref": "/players/m/muhamsh01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -5081.699999999999,
+        "vorp": 9.1
+      }
+    },
+    {
+      "id": "horstjo01x-45",
+      "sourceId": 45,
+      "date": "2018-10-15",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Jodie Meeks",
+      "participants": [
+        {
+          "name": "Jodie Meeks",
+          "playerHref": "/players/m/meeksjo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -5081.699999999999,
+        "vorp": 9.1
+      }
+    },
+    {
+      "id": "horstjo01x-46",
+      "sourceId": 46,
+      "date": "2018-12-07",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added George Hill, Greg Brown III, and Jason Smith; Sent out Matthew Dellavedova, John Henson, Sandro Mamukelashvili, and MarJon Beauchamp",
+      "participants": [
+        {
+          "name": "Matthew Dellavedova",
+          "playerHref": "/players/d/dellama01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 8920.3,
+            "vorp": 1.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Henson",
+          "playerHref": "/players/h/hensojo01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -453.20000000000005,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sandro Mamukelashvili",
+          "playerHref": "/players/m/mamuksa01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "MarJon Beauchamp",
+          "playerHref": "/players/b/beaucma01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "George Hill",
+          "playerHref": "/players/h/hillge01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -688,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Greg Brown III",
+          "playerHref": "/players/b/browngr01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jason Smith",
+          "playerHref": "/players/s/smithja02.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -442,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 7337.0999999999985,
+        "vorp": 1
+      },
+      "runningValues": {
+        "bpm": 2255.4000000000005,
+        "vorp": 10.1
+      }
+    },
+    {
+      "id": "horstjo01x-47",
+      "sourceId": 47,
+      "date": "2019-01-15",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Bonzie Colson",
+      "participants": [
+        {
+          "name": "Bonzie Colson",
+          "playerHref": "/players/c/colsobo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -333.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -333.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 1922.2000000000005,
+        "vorp": 10.1
+      }
+    },
+    {
+      "id": "horstjo01x-48",
+      "sourceId": 48,
+      "date": "2019-02-07",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Nikola Mirotić; Sent out Jason Smith, Jordan Bone, Elijah Hughes, Sam Merrill, Greg Brown III, and Thon Maker",
+      "participants": [
+        {
+          "name": "Jason Smith",
+          "playerHref": "/players/s/smithja02.html",
+          "direction": "out",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 176,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jordan Bone",
+          "playerHref": "/players/b/bonejo01.html",
+          "direction": "out",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Elijah Hughes",
+          "playerHref": "/players/h/hugheel01.html",
+          "direction": "out",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sam Merrill",
+          "playerHref": "/players/m/merrisa01.html",
+          "direction": "out",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Greg Brown III",
+          "playerHref": "/players/b/browngr01.html",
+          "direction": "out",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Thon Maker",
+          "playerHref": "/players/m/makerth01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 2212.3999999999996,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Nikola Mirotić",
+          "playerHref": "/players/m/mirotni01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 1295,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3683.3999999999996,
+        "vorp": 0.7000000000000001
+      },
+      "runningValues": {
+        "bpm": 5605.6,
+        "vorp": 10.8
+      }
+    },
+    {
+      "id": "horstjo01x-49",
+      "sourceId": 49,
+      "date": "2019-02-25",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Isaiah Canaan",
+      "participants": [
+        {
+          "name": "Isaiah Canaan",
+          "playerHref": "/players/c/canaais01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -124,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -124,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 5481.6,
+        "vorp": 10.8
+      }
+    },
+    {
+      "id": "horstjo01x-50",
+      "sourceId": 50,
+      "date": "2019-03-03",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Pau Gasol",
+      "participants": [
+        {
+          "name": "Pau Gasol",
+          "playerHref": "/players/g/gasolpa01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -141,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -141,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 5340.6,
+        "vorp": 10.8
+      }
+    },
+    {
+      "id": "horstjo01x-51",
+      "sourceId": 51,
+      "date": "2019-03-04",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Eric Bledsoe",
+      "participants": [
+        {
+          "name": "Eric Bledsoe",
+          "playerHref": "/players/b/bledser01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 10006,
+            "vorp": 4.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 10006,
+        "vorp": 4.5
+      },
+      "runningValues": {
+        "bpm": 15346.6,
+        "vorp": 15.3
+      }
+    },
+    {
+      "id": "horstjo01x-52",
+      "sourceId": 52,
+      "date": "2019-03-19",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Tim Frazier",
+      "participants": [
+        {
+          "name": "Tim Frazier",
+          "playerHref": "/players/f/fraziti01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -759.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -759.6,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 14587,
+        "vorp": 15.200000000000001
+      }
+    },
+    {
+      "id": "horstjo01x-53",
+      "sourceId": 53,
+      "date": "2019-06-20",
+      "type": "draft",
+      "tenureTeam": "MIL",
+      "summary": "Drafted Kevin Porter Jr.",
+      "participants": [
+        {
+          "name": "Kevin Porter Jr.",
+          "playerHref": "/players/p/porteke02.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 3903.8999999999996,
+            "vorp": 1.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3903.8999999999996,
+        "vorp": 1.9
+      },
+      "runningValues": {
+        "bpm": 18490.9,
+        "vorp": 17.1
+      }
+    },
+    {
+      "id": "horstjo01x-54",
+      "sourceId": 54,
+      "date": "2019-06-20",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Jon Leuer; Sent out Kevin Porter Jr. and Tony Snell",
+      "participants": [
+        {
+          "name": "Kevin Porter Jr.",
+          "playerHref": "/players/p/porteke02.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tony Snell",
+          "playerHref": "/players/s/snellto01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 2953.8,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jon Leuer",
+          "playerHref": "/players/l/leuerjo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2953.8,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 21444.7,
+        "vorp": 17
+      }
+    },
+    {
+      "id": "horstjo01x-55",
+      "sourceId": 55,
+      "date": "2019-07-06",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Malcolm Brogdon",
+      "participants": [
+        {
+          "name": "Malcolm Brogdon",
+          "playerHref": "/players/b/brogdma01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 21444.7,
+        "vorp": 17
+      }
+    },
+    {
+      "id": "horstjo01x-56",
+      "sourceId": 56,
+      "date": "2019-07-06",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added R.J. Hampton, Max Christie, Taelon Peter, and future ('2025', '2nd') round pick; Sent out Malcolm Brogdon",
+      "participants": [
+        {
+          "name": "Malcolm Brogdon",
+          "playerHref": "/players/b/brogdma01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -9632.6,
+            "vorp": -4.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "R.J. Hampton",
+          "playerHref": "/players/h/hamptrj01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Max Christie",
+          "playerHref": "/players/c/chrisma02.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Taelon Peter",
+          "playerHref": "/players/p/peterta01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -9632.6,
+        "vorp": -4.9
+      },
+      "runningValues": {
+        "bpm": 11812.1,
+        "vorp": 12.1
+      }
+    },
+    {
+      "id": "horstjo01x-57",
+      "sourceId": 57,
+      "date": "2019-07-06",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Brook Lopez",
+      "participants": [
+        {
+          "name": "Brook Lopez",
+          "playerHref": "/players/l/lopezbr01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 8229.900000000001,
+            "vorp": 5.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 8229.900000000001,
+        "vorp": 5.4
+      },
+      "runningValues": {
+        "bpm": 20042,
+        "vorp": 17.5
+      }
+    },
+    {
+      "id": "horstjo01x-58",
+      "sourceId": 58,
+      "date": "2019-07-08",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed George Hill",
+      "participants": [
+        {
+          "name": "George Hill",
+          "playerHref": "/players/h/hillge01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 485.1999999999996,
+            "vorp": 1.8000000000000003
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 485.1999999999996,
+        "vorp": 1.8000000000000003
+      },
+      "runningValues": {
+        "bpm": 20527.2,
+        "vorp": 19.3
+      }
+    },
+    {
+      "id": "horstjo01x-59",
+      "sourceId": 59,
+      "date": "2019-07-11",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Khris Middleton",
+      "participants": [
+        {
+          "name": "Khris Middleton",
+          "playerHref": "/players/m/middlkh01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 14613.400000000001,
+            "vorp": 7.199999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 14613.400000000001,
+        "vorp": 7.199999999999998
+      },
+      "runningValues": {
+        "bpm": 35140.600000000006,
+        "vorp": 26.5
+      }
+    },
+    {
+      "id": "horstjo01x-60",
+      "sourceId": 60,
+      "date": "2019-07-12",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Robin Lopez",
+      "participants": [
+        {
+          "name": "Robin Lopez",
+          "playerHref": "/players/l/lopezro01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -2490.8,
+            "vorp": -0.20000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2490.8,
+        "vorp": -0.20000000000000004
+      },
+      "runningValues": {
+        "bpm": 32649.800000000007,
+        "vorp": 26.3
+      }
+    },
+    {
+      "id": "horstjo01x-61",
+      "sourceId": 61,
+      "date": "2019-07-12",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Wesley Matthews",
+      "participants": [
+        {
+          "name": "Wesley Matthews",
+          "playerHref": "/players/m/matthwe02.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -2943,
+            "vorp": 0.10000000000000003
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2943,
+        "vorp": 0.10000000000000003
+      },
+      "runningValues": {
+        "bpm": 29706.800000000007,
+        "vorp": 26.400000000000002
+      }
+    },
+    {
+      "id": "horstjo01x-62",
+      "sourceId": 62,
+      "date": "2019-07-16",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Thanasis Antetokounmpo",
+      "participants": [
+        {
+          "name": "Thanasis Antetokounmpo",
+          "playerHref": "/players/a/antetth01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -2341.3,
+            "vorp": -0.19999999999999996
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2341.3,
+        "vorp": -0.19999999999999996
+      },
+      "runningValues": {
+        "bpm": 27365.500000000007,
+        "vorp": 26.200000000000003
+      }
+    },
+    {
+      "id": "horstjo01x-63",
+      "sourceId": 63,
+      "date": "2019-07-25",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Kyle Korver",
+      "participants": [
+        {
+          "name": "Kyle Korver",
+          "playerHref": "/players/k/korveky01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 96,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 96,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": 27461.500000000007,
+        "vorp": 26.700000000000003
+      }
+    },
+    {
+      "id": "horstjo01x-64",
+      "sourceId": 64,
+      "date": "2019-07-26",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Dragan Bender",
+      "participants": [
+        {
+          "name": "Dragan Bender",
+          "playerHref": "/players/b/bendedr01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -109.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -109.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 27352.300000000007,
+        "vorp": 26.700000000000003
+      }
+    },
+    {
+      "id": "horstjo01x-65",
+      "sourceId": 65,
+      "date": "2019-07-26",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Cameron Reynolds",
+      "participants": [
+        {
+          "name": "Cameron Reynolds",
+          "playerHref": "/players/r/reynoca01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 27352.300000000007,
+        "vorp": 26.700000000000003
+      }
+    },
+    {
+      "id": "horstjo01x-66",
+      "sourceId": 66,
+      "date": "2019-07-26",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Frank Mason III",
+      "participants": [
+        {
+          "name": "Frank Mason III",
+          "playerHref": "/players/m/masonfr01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 27352.300000000007,
+        "vorp": 26.800000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-67",
+      "sourceId": 67,
+      "date": "2019-08-20",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Jaylen Adams",
+      "participants": [
+        {
+          "name": "Jaylen Adams",
+          "playerHref": "/players/a/adamsja01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 27352.300000000007,
+        "vorp": 26.800000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-68",
+      "sourceId": 68,
+      "date": "2020-02-10",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Marvin Williams",
+      "participants": [
+        {
+          "name": "Marvin Williams",
+          "playerHref": "/players/w/willima02.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 288.90000000000003,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 288.90000000000003,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 27641.200000000008,
+        "vorp": 27.000000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-69",
+      "sourceId": 69,
+      "date": "2020-11-18",
+      "type": "draft",
+      "tenureTeam": "MIL",
+      "summary": "Drafted R.J. Hampton and Jordan Nwora",
+      "participants": [
+        {
+          "name": "R.J. Hampton",
+          "playerHref": "/players/h/hamptrj01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jordan Nwora",
+          "playerHref": "/players/n/nworajo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 27641.200000000008,
+        "vorp": 27.000000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-70",
+      "sourceId": 70,
+      "date": "2020-11-18",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Ilkan Karaman; Sent out Tyrese Proctor and future ('2025', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Tyrese Proctor",
+          "playerHref": "/players/p/proctty01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 914.4,
+            "vorp": -0.19999999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ilkan Karaman",
+          "playerHref": "/players/k/karamil01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 914.4,
+        "vorp": -0.19999999999999998
+      },
+      "runningValues": {
+        "bpm": 28555.60000000001,
+        "vorp": 26.800000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-71",
+      "sourceId": 71,
+      "date": "2020-11-18",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Jordan Nwora; Sent out Max Christie, Dillon Mitchell, and future ('2026', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Max Christie",
+          "playerHref": "/players/c/chrisma02.html",
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dillon Mitchell",
+          "playerHref": "/players/m/mitchdi01.html",
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jordan Nwora",
+          "playerHref": "/players/n/nworajo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 28555.60000000001,
+        "vorp": 26.800000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-72",
+      "sourceId": 72,
+      "date": "2020-11-23",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Pat Connaughton",
+      "participants": [
+        {
+          "name": "Pat Connaughton",
+          "playerHref": "/players/c/connapa01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -3482.3,
+            "vorp": 2.8000000000000003
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3482.3,
+        "vorp": 2.8000000000000003
+      },
+      "runningValues": {
+        "bpm": 25073.30000000001,
+        "vorp": 29.600000000000005
+      }
+    },
+    {
+      "id": "horstjo01x-73",
+      "sourceId": 73,
+      "date": "2020-11-23",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Jordan Nwora",
+      "participants": [
+        {
+          "name": "Jordan Nwora",
+          "playerHref": "/players/n/nworajo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -5159.9,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5159.9,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": 19913.40000000001,
+        "vorp": 29.100000000000005
+      }
+    },
+    {
+      "id": "horstjo01x-74",
+      "sourceId": 74,
+      "date": "2020-11-23",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Mamadi Diakite",
+      "participants": [
+        {
+          "name": "Mamadi Diakite",
+          "playerHref": "/players/d/diakima01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -338.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -338.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 19575.000000000007,
+        "vorp": 29.100000000000005
+      }
+    },
+    {
+      "id": "horstjo01x-75",
+      "sourceId": 75,
+      "date": "2020-11-23",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Jrue Holiday, Sam Merrill, and A.J. Johnson; Sent out George Hill, Eric Bledsoe, Yves Missi, Nolan Traoré, future ('2025', '1st') round pick, future ('2026', '1st') round pick, future ('2027', '1st') round pick, and R.J. Hampton",
+      "participants": [
+        {
+          "name": "George Hill",
+          "playerHref": "/players/h/hillge01.html",
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": -369,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eric Bledsoe",
+          "playerHref": "/players/b/bledser01.html",
+          "direction": "out",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 4222,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Yves Missi",
+          "playerHref": "/players/m/missiyv01.html",
+          "direction": "out",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 7795.7,
+            "vorp": 0.30000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Nolan Traoré",
+          "playerHref": "/players/t/traorno01.html",
+          "direction": "out",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "R.J. Hampton",
+          "playerHref": "/players/h/hamptrj01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 1234.8999999999999,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jrue Holiday",
+          "playerHref": "/players/h/holidjr01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sam Merrill",
+          "playerHref": "/players/m/merrisa01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "A.J. Johnson",
+          "playerHref": "/players/j/johnsaj01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": -269.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 12614.1,
+        "vorp": 0.10000000000000006
+      },
+      "runningValues": {
+        "bpm": 32189.10000000001,
+        "vorp": 29.200000000000003
+      }
+    },
+    {
+      "id": "horstjo01x-76",
+      "sourceId": 76,
+      "date": "2020-11-24",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Bryn Forbes",
+      "participants": [
+        {
+          "name": "Bryn Forbes",
+          "playerHref": "/players/f/forbebr01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -1760.2,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1760.2,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 30428.90000000001,
+        "vorp": 29.400000000000002
+      }
+    },
+    {
+      "id": "horstjo01x-77",
+      "sourceId": 77,
+      "date": "2020-11-24",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Bobby Portis",
+      "participants": [
+        {
+          "name": "Bobby Portis",
+          "playerHref": "/players/p/portibo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 1920.8000000000004,
+            "vorp": 1.2000000000000002
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1920.8000000000004,
+        "vorp": 1.2000000000000002
+      },
+      "runningValues": {
+        "bpm": 32349.700000000008,
+        "vorp": 30.6
+      }
+    },
+    {
+      "id": "horstjo01x-78",
+      "sourceId": 78,
+      "date": "2020-11-24",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Jaylen Adams",
+      "participants": [
+        {
+          "name": "Jaylen Adams",
+          "playerHref": "/players/a/adamsja01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -352.8,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -352.8,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 31996.90000000001,
+        "vorp": 30.5
+      }
+    },
+    {
+      "id": "horstjo01x-79",
+      "sourceId": 79,
+      "date": "2020-11-25",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Torrey Craig",
+      "participants": [
+        {
+          "name": "Torrey Craig",
+          "playerHref": "/players/c/craigto01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -120.6,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -120.6,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 31876.30000000001,
+        "vorp": 30.6
+      }
+    },
+    {
+      "id": "horstjo01x-80",
+      "sourceId": 80,
+      "date": "2020-11-25",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed D.J. Augustin",
+      "participants": [
+        {
+          "name": "D.J. Augustin",
+          "playerHref": "/players/a/augusdj01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -1568.6000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1568.6000000000001,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 30307.70000000001,
+        "vorp": 30.6
+      }
+    },
+    {
+      "id": "horstjo01x-81",
+      "sourceId": 81,
+      "date": "2020-11-30",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Sam Merrill",
+      "participants": [
+        {
+          "name": "Sam Merrill",
+          "playerHref": "/players/m/merrisa01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -233,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -233,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 30074.70000000001,
+        "vorp": 30.700000000000003
+      }
+    },
+    {
+      "id": "horstjo01x-82",
+      "sourceId": 82,
+      "date": "2020-11-30",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Nik Stauskas",
+      "participants": [
+        {
+          "name": "Nik Stauskas",
+          "playerHref": "/players/s/stausni01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 30074.70000000001,
+        "vorp": 30.700000000000003
+      }
+    },
+    {
+      "id": "horstjo01x-83",
+      "sourceId": 83,
+      "date": "2021-03-14",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Axel Toupane",
+      "participants": [
+        {
+          "name": "Axel Toupane",
+          "playerHref": "/players/t/toupaax01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -176.9,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -176.9,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 29897.80000000001,
+        "vorp": 30.700000000000003
+      }
+    },
+    {
+      "id": "horstjo01x-84",
+      "sourceId": 84,
+      "date": "2021-03-18",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Sent out Torrey Craig",
+      "participants": [
+        {
+          "name": "Torrey Craig",
+          "playerHref": "/players/c/craigto01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 1305.4,
+            "vorp": -1.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1305.4,
+        "vorp": -1.2
+      },
+      "runningValues": {
+        "bpm": 31203.20000000001,
+        "vorp": 29.500000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-85",
+      "sourceId": 85,
+      "date": "2021-03-19",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Rodions Kurucs, P.J. Tucker, Isaiah Todd, and MarJon Beauchamp; Sent out D.J. Augustin, D.J. Wilson, Josh Christopher, and Kobe Brown",
+      "participants": [
+        {
+          "name": "D.J. Augustin",
+          "playerHref": "/players/a/augusdj01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 3025,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "D.J. Wilson",
+          "playerHref": "/players/w/wilsodj01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 885.6,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Josh Christopher",
+          "playerHref": "/players/c/chrisjo01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 8048.799999999999,
+            "vorp": 1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kobe Brown",
+          "playerHref": "/players/b/brownko01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rodions Kurucs",
+          "playerHref": "/players/k/kurucro01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 74.80000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "P.J. Tucker",
+          "playerHref": "/players/t/tuckepj01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -1151.3,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Isaiah Todd",
+          "playerHref": "/players/t/toddis01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "MarJon Beauchamp",
+          "playerHref": "/players/b/beaucma01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 10882.9,
+        "vorp": 1.2999999999999998
+      },
+      "runningValues": {
+        "bpm": 42086.100000000006,
+        "vorp": 30.800000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-86",
+      "sourceId": 86,
+      "date": "2021-04-01",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Jeff Teague",
+      "participants": [
+        {
+          "name": "Jeff Teague",
+          "playerHref": "/players/t/teaguje01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -467.59999999999997,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -467.59999999999997,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 41618.50000000001,
+        "vorp": 30.900000000000006
+      }
+    },
+    {
+      "id": "horstjo01x-87",
+      "sourceId": 87,
+      "date": "2021-04-21",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Justin Jackson",
+      "participants": [
+        {
+          "name": "Justin Jackson",
+          "playerHref": "/players/j/jacksju01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -260.7,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -260.7,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 41357.80000000001,
+        "vorp": 30.900000000000006
+      }
+    },
+    {
+      "id": "horstjo01x-88",
+      "sourceId": 88,
+      "date": "2021-05-13",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Elijah Bryant",
+      "participants": [
+        {
+          "name": "Elijah Bryant",
+          "playerHref": "/players/b/bryanel01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 41357.80000000001,
+        "vorp": 30.900000000000006
+      }
+    },
+    {
+      "id": "horstjo01x-89",
+      "sourceId": 89,
+      "date": "2021-07-29",
+      "type": "draft",
+      "tenureTeam": "MIL",
+      "summary": "Drafted Isaiah Todd",
+      "participants": [
+        {
+          "name": "Isaiah Todd",
+          "playerHref": "/players/t/toddis01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 41357.80000000001,
+        "vorp": 30.900000000000006
+      }
+    },
+    {
+      "id": "horstjo01x-90",
+      "sourceId": 90,
+      "date": "2021-07-30",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Georgios Kalaitzakis, Sandro Mamukelashvili, Cam Christie, Richie Saunders, and future ('2026', '2nd') round pick; Sent out Isaiah Todd",
+      "participants": [
+        {
+          "name": "Isaiah Todd",
+          "playerHref": "/players/t/toddis01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Georgios Kalaitzakis",
+          "playerHref": "/players/k/kalaige01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sandro Mamukelashvili",
+          "playerHref": "/players/m/mamuksa01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cam Christie",
+          "playerHref": "/players/c/chrisca02.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Richie Saunders",
+          "playerHref": "/players/s/saundri01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 41357.80000000001,
+        "vorp": 30.900000000000006
+      }
+    },
+    {
+      "id": "horstjo01x-91",
+      "sourceId": 91,
+      "date": "2021-08-03",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Sandro Mamukelashvili",
+      "participants": [
+        {
+          "name": "Sandro Mamukelashvili",
+          "playerHref": "/players/m/mamuksa01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -903.3000000000001,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -903.3000000000001,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 40454.50000000001,
+        "vorp": 31.000000000000007
+      }
+    },
+    {
+      "id": "horstjo01x-92",
+      "sourceId": 92,
+      "date": "2021-08-06",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Semi Ojeleye",
+      "participants": [
+        {
+          "name": "Semi Ojeleye",
+          "playerHref": "/players/o/ojelese01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -2002,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2002,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": 38452.50000000001,
+        "vorp": 30.60000000000001
+      }
+    },
+    {
+      "id": "horstjo01x-93",
+      "sourceId": 93,
+      "date": "2021-08-06",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Rodney Hood",
+      "participants": [
+        {
+          "name": "Rodney Hood",
+          "playerHref": "/players/h/hoodro01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -1975.3999999999999,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1975.3999999999999,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 36477.100000000006,
+        "vorp": 30.40000000000001
+      }
+    },
+    {
+      "id": "horstjo01x-94",
+      "sourceId": 94,
+      "date": "2021-08-06",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed George Hill",
+      "participants": [
+        {
+          "name": "George Hill",
+          "playerHref": "/players/h/hillge01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -3073.6000000000004,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3073.6000000000004,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 33403.50000000001,
+        "vorp": 30.60000000000001
+      }
+    },
+    {
+      "id": "horstjo01x-95",
+      "sourceId": 95,
+      "date": "2021-08-06",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Bobby Portis",
+      "participants": [
+        {
+          "name": "Bobby Portis",
+          "playerHref": "/players/p/portibo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 405.5999999999999,
+            "vorp": 1.0999999999999996
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 405.5999999999999,
+        "vorp": 1.0999999999999996
+      },
+      "runningValues": {
+        "bpm": 33809.100000000006,
+        "vorp": 31.70000000000001
+      }
+    },
+    {
+      "id": "horstjo01x-96",
+      "sourceId": 96,
+      "date": "2021-08-07",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Grayson Allen; Sent out Sam Merrill, Cam Christie, Richie Saunders, and future ('2026', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Sam Merrill",
+          "playerHref": "/players/m/merrisa01.html",
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 324.79999999999995,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cam Christie",
+          "playerHref": "/players/c/chrisca02.html",
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Richie Saunders",
+          "playerHref": "/players/s/saundri01.html",
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Grayson Allen",
+          "playerHref": "/players/a/allengr01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 1099.7,
+            "vorp": 2.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1424.5,
+        "vorp": 2.2
+      },
+      "runningValues": {
+        "bpm": 35233.600000000006,
+        "vorp": 33.90000000000001
+      }
+    },
+    {
+      "id": "horstjo01x-97",
+      "sourceId": 97,
+      "date": "2021-08-10",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Georgios Kalaitzakis",
+      "participants": [
+        {
+          "name": "Georgios Kalaitzakis",
+          "playerHref": "/players/k/kalaige01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -374.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -374.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 34859.200000000004,
+        "vorp": 33.80000000000001
+      }
+    },
+    {
+      "id": "horstjo01x-98",
+      "sourceId": 98,
+      "date": "2021-08-12",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Thanasis Antetokounmpo",
+      "participants": [
+        {
+          "name": "Thanasis Antetokounmpo",
+          "playerHref": "/players/a/antetth01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -3200.5000000000005,
+            "vorp": -0.49999999999999994
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3200.5000000000005,
+        "vorp": -0.49999999999999994
+      },
+      "runningValues": {
+        "bpm": 31658.700000000004,
+        "vorp": 33.30000000000001
+      }
+    },
+    {
+      "id": "horstjo01x-99",
+      "sourceId": 99,
+      "date": "2021-09-07",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Tremont Waters",
+      "participants": [
+        {
+          "name": "Tremont Waters",
+          "playerHref": "/players/w/watertr01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 31658.700000000004,
+        "vorp": 33.30000000000001
+      }
+    },
+    {
+      "id": "horstjo01x-100",
+      "sourceId": 100,
+      "date": "2021-09-14",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Justin Robinson",
+      "participants": [
+        {
+          "name": "Justin Robinson",
+          "playerHref": "/players/r/robinju01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -1287,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1287,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 30371.700000000004,
+        "vorp": 33.10000000000001
+      }
+    },
+    {
+      "id": "horstjo01x-101",
+      "sourceId": 101,
+      "date": "2021-09-23",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Javin DeLaurier",
+      "participants": [
+        {
+          "name": "Javin DeLaurier",
+          "playerHref": "/players/d/delauja01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 30371.700000000004,
+        "vorp": 33.10000000000001
+      }
+    },
+    {
+      "id": "horstjo01x-102",
+      "sourceId": 102,
+      "date": "2021-09-28",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Johnny O'Bryant",
+      "participants": [
+        {
+          "name": "Johnny O'Bryant",
+          "playerHref": "/players/o/obryajo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 30371.700000000004,
+        "vorp": 33.10000000000001
+      }
+    },
+    {
+      "id": "horstjo01x-103",
+      "sourceId": 103,
+      "date": "2021-09-29",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Elijah Bryant",
+      "participants": [
+        {
+          "name": "Elijah Bryant",
+          "playerHref": "/players/b/bryanel01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 30371.700000000004,
+        "vorp": 33.10000000000001
+      }
+    },
+    {
+      "id": "horstjo01x-104",
+      "sourceId": 104,
+      "date": "2021-10-11",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Jemerrio Jones",
+      "participants": [
+        {
+          "name": "Jemerrio Jones",
+          "playerHref": "/players/j/jonesje01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 30371.700000000004,
+        "vorp": 33.10000000000001
+      }
+    },
+    {
+      "id": "horstjo01x-105",
+      "sourceId": 105,
+      "date": "2021-10-12",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Rayjon Tucker",
+      "participants": [
+        {
+          "name": "Rayjon Tucker",
+          "playerHref": "/players/t/tuckera01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 30371.700000000004,
+        "vorp": 33.10000000000001
+      }
+    },
+    {
+      "id": "horstjo01x-106",
+      "sourceId": 106,
+      "date": "2021-10-13",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Jalen Lecque",
+      "participants": [
+        {
+          "name": "Jalen Lecque",
+          "playerHref": "/players/l/lecquja01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 30371.700000000004,
+        "vorp": 33.10000000000001
+      }
+    },
+    {
+      "id": "horstjo01x-107",
+      "sourceId": 107,
+      "date": "2021-10-16",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Wenyen Gabriel",
+      "participants": [
+        {
+          "name": "Wenyen Gabriel",
+          "playerHref": "/players/g/gabriwe01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 30371.700000000004,
+        "vorp": 33.10000000000001
+      }
+    },
+    {
+      "id": "horstjo01x-108",
+      "sourceId": 108,
+      "date": "2021-11-29",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Javonte Smart",
+      "participants": [
+        {
+          "name": "Javonte Smart",
+          "playerHref": "/players/s/smartja01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -1280,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1280,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 29091.700000000004,
+        "vorp": 32.900000000000006
+      }
+    },
+    {
+      "id": "horstjo01x-109",
+      "sourceId": 109,
+      "date": "2021-11-30",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed DeMarcus Cousins",
+      "participants": [
+        {
+          "name": "DeMarcus Cousins",
+          "playerHref": "/players/c/couside01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 172.2,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 172.2,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 29263.900000000005,
+        "vorp": 33.10000000000001
+      }
+    },
+    {
+      "id": "horstjo01x-110",
+      "sourceId": 110,
+      "date": "2021-12-03",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Wesley Matthews",
+      "participants": [
+        {
+          "name": "Wesley Matthews",
+          "playerHref": "/players/m/matthwe02.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -3306.6000000000004,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3306.6000000000004,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": 25957.300000000003,
+        "vorp": 32.80000000000001
+      }
+    },
+    {
+      "id": "horstjo01x-111",
+      "sourceId": 111,
+      "date": "2021-12-23",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Javin DeLaurier",
+      "participants": [
+        {
+          "name": "Javin DeLaurier",
+          "playerHref": "/players/d/delauja01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 20.700000000000003,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 20.700000000000003,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 25978.000000000004,
+        "vorp": 32.80000000000001
+      }
+    },
+    {
+      "id": "horstjo01x-112",
+      "sourceId": 112,
+      "date": "2022-01-03",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Luke Kornet",
+      "participants": [
+        {
+          "name": "Luke Kornet",
+          "playerHref": "/players/k/kornelu01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -73.19999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -73.19999999999999,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 25904.800000000003,
+        "vorp": 32.80000000000001
+      }
+    },
+    {
+      "id": "horstjo01x-113",
+      "sourceId": 113,
+      "date": "2022-01-07",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Jeff Dowtin",
+      "participants": [
+        {
+          "name": "Jeff Dowtin",
+          "playerHref": "/players/d/dowtije01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -66.9,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -66.9,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 25837.9,
+        "vorp": 32.80000000000001
+      }
+    },
+    {
+      "id": "horstjo01x-114",
+      "sourceId": 114,
+      "date": "2022-01-07",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Langston Galloway",
+      "participants": [
+        {
+          "name": "Langston Galloway",
+          "playerHref": "/players/g/gallola01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -441,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -441,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 25396.9,
+        "vorp": 32.70000000000001
+      }
+    },
+    {
+      "id": "horstjo01x-115",
+      "sourceId": 115,
+      "date": "2022-01-13",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Lindell Wigginton",
+      "participants": [
+        {
+          "name": "Lindell Wigginton",
+          "playerHref": "/players/w/wiggili01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -995.0000000000002,
+            "vorp": -0.20000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -995.0000000000002,
+        "vorp": -0.20000000000000004
+      },
+      "runningValues": {
+        "bpm": 24401.9,
+        "vorp": 32.50000000000001
+      }
+    },
+    {
+      "id": "horstjo01x-116",
+      "sourceId": 116,
+      "date": "2022-02-05",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Greg Monroe",
+      "participants": [
+        {
+          "name": "Greg Monroe",
+          "playerHref": "/players/m/monrogr01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -315,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -315,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 24086.9,
+        "vorp": 32.50000000000001
+      }
+    },
+    {
+      "id": "horstjo01x-117",
+      "sourceId": 117,
+      "date": "2022-02-10",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Isaiah Wong, Serge Ibaka, and Tyler Smith; Sent out Donte DiVincenzo, Rodney Hood, and Semi Ojeleye",
+      "participants": [
+        {
+          "name": "Donte DiVincenzo",
+          "playerHref": "/players/d/divindo01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 399,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rodney Hood",
+          "playerHref": "/players/h/hoodro01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 294.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Semi Ojeleye",
+          "playerHref": "/players/o/ojelese01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 294,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Isaiah Wong",
+          "playerHref": "/players/w/wongis01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Serge Ibaka",
+          "playerHref": "/players/i/ibakase01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -538,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tyler Smith",
+          "playerHref": "/players/s/smithty02.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 449.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 24536.300000000003,
+        "vorp": 32.400000000000006
+      }
+    },
+    {
+      "id": "horstjo01x-118",
+      "sourceId": 118,
+      "date": "2022-02-16",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed DeAndre' Bembry",
+      "participants": [
+        {
+          "name": "DeAndre' Bembry",
+          "playerHref": "/players/b/bembrde01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -300.3,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -300.3,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 24236.000000000004,
+        "vorp": 32.400000000000006
+      }
+    },
+    {
+      "id": "horstjo01x-119",
+      "sourceId": 119,
+      "date": "2022-02-24",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Jevon Carter",
+      "participants": [
+        {
+          "name": "Jevon Carter",
+          "playerHref": "/players/c/carteje01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 388.29999999999995,
+            "vorp": 0.29999999999999993
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 388.29999999999995,
+        "vorp": 0.29999999999999993
+      },
+      "runningValues": {
+        "bpm": 24624.300000000003,
+        "vorp": 32.7
+      }
+    },
+    {
+      "id": "horstjo01x-120",
+      "sourceId": 120,
+      "date": "2022-04-06",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Luca Vildoza",
+      "participants": [
+        {
+          "name": "Luca Vildoza",
+          "playerHref": "/players/v/vildolu01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 24624.300000000003,
+        "vorp": 32.7
+      }
+    },
+    {
+      "id": "horstjo01x-121",
+      "sourceId": 121,
+      "date": "2022-04-08",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Rayjon Tucker",
+      "participants": [
+        {
+          "name": "Rayjon Tucker",
+          "playerHref": "/players/t/tuckera01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 189,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 189,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 24813.300000000003,
+        "vorp": 32.800000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-122",
+      "sourceId": 122,
+      "date": "2022-06-23",
+      "type": "draft",
+      "tenureTeam": "MIL",
+      "summary": "Drafted MarJon Beauchamp",
+      "participants": [
+        {
+          "name": "MarJon Beauchamp",
+          "playerHref": "/players/b/beaucma01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 24813.300000000003,
+        "vorp": 32.800000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-123",
+      "sourceId": 123,
+      "date": "2022-06-24",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Hugo Besson",
+      "participants": [
+        {
+          "name": "Hugo Besson",
+          "playerHref": "/players/b/bessohu01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 24813.300000000003,
+        "vorp": 32.800000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-124",
+      "sourceId": 124,
+      "date": "2022-07-01",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed AJ Green",
+      "participants": [
+        {
+          "name": "AJ Green",
+          "playerHref": "/players/g/greenaj01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -310.5,
+            "vorp": 0.10000000000000009
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -310.5,
+        "vorp": 0.10000000000000009
+      },
+      "runningValues": {
+        "bpm": 24502.800000000003,
+        "vorp": 32.900000000000006
+      }
+    },
+    {
+      "id": "horstjo01x-125",
+      "sourceId": 125,
+      "date": "2022-07-06",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Joe Ingles",
+      "participants": [
+        {
+          "name": "Joe Ingles",
+          "playerHref": "/players/i/inglejo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -730.8,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -730.8,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": 23772.000000000004,
+        "vorp": 33.2
+      }
+    },
+    {
+      "id": "horstjo01x-126",
+      "sourceId": 126,
+      "date": "2022-07-06",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Jevon Carter",
+      "participants": [
+        {
+          "name": "Jevon Carter",
+          "playerHref": "/players/c/carteje01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -1086,
+            "vorp": 0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1086,
+        "vorp": 0.6
+      },
+      "runningValues": {
+        "bpm": 22686.000000000004,
+        "vorp": 33.800000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-127",
+      "sourceId": 127,
+      "date": "2022-07-06",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Bobby Portis",
+      "participants": [
+        {
+          "name": "Bobby Portis",
+          "playerHref": "/players/p/portibo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -85.00000000000017,
+            "vorp": 2.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -85.00000000000017,
+        "vorp": 2.5
+      },
+      "runningValues": {
+        "bpm": 22601.000000000004,
+        "vorp": 36.300000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-128",
+      "sourceId": 128,
+      "date": "2022-07-06",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Wesley Matthews",
+      "participants": [
+        {
+          "name": "Wesley Matthews",
+          "playerHref": "/players/m/matthwe02.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -2214,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2214,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 20387.000000000004,
+        "vorp": 36.2
+      }
+    },
+    {
+      "id": "horstjo01x-129",
+      "sourceId": 129,
+      "date": "2022-07-07",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Rookie contract for MarJon Beauchamp",
+      "participants": [
+        {
+          "name": "MarJon Beauchamp",
+          "playerHref": "/players/b/beaucma01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -5972.5,
+            "vorp": -0.7999999999999999
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -5972.5,
+        "vorp": -0.7999999999999999
+      },
+      "runningValues": {
+        "bpm": 14414.500000000004,
+        "vorp": 35.400000000000006
+      }
+    },
+    {
+      "id": "horstjo01x-130",
+      "sourceId": 130,
+      "date": "2022-07-19",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Serge Ibaka",
+      "participants": [
+        {
+          "name": "Serge Ibaka",
+          "playerHref": "/players/i/ibakase01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -832.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -832.5,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 13582.000000000004,
+        "vorp": 35.300000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-131",
+      "sourceId": 131,
+      "date": "2022-09-16",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Rob Edwards",
+      "participants": [
+        {
+          "name": "Rob Edwards",
+          "playerHref": "/players/e/edwarro01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 13582.000000000004,
+        "vorp": 35.300000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-132",
+      "sourceId": 132,
+      "date": "2022-09-16",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Alex AntetoKounmpo",
+      "participants": [
+        {
+          "name": "Alex AntetoKounmpo",
+          "playerHref": "/players/a/antetal01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 13582.000000000004,
+        "vorp": 35.300000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-133",
+      "sourceId": 133,
+      "date": "2022-09-17",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Iverson Molinar",
+      "participants": [
+        {
+          "name": "Iverson Molinar",
+          "playerHref": "/players/m/moliniv01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 13582.000000000004,
+        "vorp": 35.300000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-134",
+      "sourceId": 134,
+      "date": "2022-09-18",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Ibou Badji",
+      "participants": [
+        {
+          "name": "Ibou Badji",
+          "playerHref": "/players/b/badjiib01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 13582.000000000004,
+        "vorp": 35.300000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-135",
+      "sourceId": 135,
+      "date": "2022-09-20",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Marques Bolden",
+      "participants": [
+        {
+          "name": "Marques Bolden",
+          "playerHref": "/players/b/boldema01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 13582.000000000004,
+        "vorp": 35.300000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-136",
+      "sourceId": 136,
+      "date": "2022-09-26",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Jordan Nwora",
+      "participants": [
+        {
+          "name": "Jordan Nwora",
+          "playerHref": "/players/n/nworajo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -1432.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1432.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 12149.200000000004,
+        "vorp": 35.300000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-137",
+      "sourceId": 137,
+      "date": "2022-10-14",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Jontay Porter",
+      "participants": [
+        {
+          "name": "Jontay Porter",
+          "playerHref": "/players/p/portejo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 12149.200000000004,
+        "vorp": 35.300000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-138",
+      "sourceId": 138,
+      "date": "2022-10-15",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Elijah Hughes",
+      "participants": [
+        {
+          "name": "Elijah Hughes",
+          "playerHref": "/players/h/hugheel01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 12149.200000000004,
+        "vorp": 35.300000000000004
+      }
+    },
+    {
+      "id": "horstjo01x-139",
+      "sourceId": 139,
+      "date": "2023-02-09",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Jae Crowder; Sent out George Hill, Serge Ibaka, Jordan Nwora, Isaiah Wong, Quinten Post, Taelon Peter, future ('2025', '2nd') round pick, future ('2028', '2nd') round pick, and future ('2029', '2nd') round pick",
+      "participants": [
+        {
+          "name": "George Hill",
+          "playerHref": "/players/h/hillge01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 99.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Serge Ibaka",
+          "playerHref": "/players/i/ibakase01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jordan Nwora",
+          "playerHref": "/players/n/nworajo01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 1777.5,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Isaiah Wong",
+          "playerHref": "/players/w/wongis01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 75.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Quinten Post",
+          "playerHref": "/players/p/postqu01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Taelon Peter",
+          "playerHref": "/players/p/peterta01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 2263.2,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2028', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2029', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jae Crowder",
+          "playerHref": "/players/c/crowdja01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4215.9,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": 16365.100000000006,
+        "vorp": 35.6
+      }
+    },
+    {
+      "id": "horstjo01x-140",
+      "sourceId": 140,
+      "date": "2023-02-22",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Meyers Leonard",
+      "participants": [
+        {
+          "name": "Meyers Leonard",
+          "playerHref": "/players/l/leoname01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 16365.100000000006,
+        "vorp": 35.6
+      }
+    },
+    {
+      "id": "horstjo01x-141",
+      "sourceId": 141,
+      "date": "2023-03-04",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Goran Dragic",
+      "participants": [
+        {
+          "name": "Goran Dragic",
+          "playerHref": "/players/d/dragigo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -431.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -431.6,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 15933.500000000005,
+        "vorp": 35.5
+      }
+    },
+    {
+      "id": "horstjo01x-142",
+      "sourceId": 142,
+      "date": "2023-03-07",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Lindell Wigginton",
+      "participants": [
+        {
+          "name": "Lindell Wigginton",
+          "playerHref": "/players/w/wiggili01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -773.3,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -773.3,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 15160.200000000006,
+        "vorp": 35.4
+      }
+    },
+    {
+      "id": "horstjo01x-143",
+      "sourceId": 143,
+      "date": "2023-03-14",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Meyers Leonard",
+      "participants": [
+        {
+          "name": "Meyers Leonard",
+          "playerHref": "/players/l/leoname01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -570,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -570,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 14590.200000000006,
+        "vorp": 35.3
+      }
+    },
+    {
+      "id": "horstjo01x-145",
+      "sourceId": 145,
+      "date": "2023-06-22",
+      "type": "draft",
+      "tenureTeam": "MIL",
+      "summary": "Drafted Chris Livingston",
+      "participants": [
+        {
+          "name": "Chris Livingston",
+          "playerHref": "/players/l/livinch01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 14590.200000000006,
+        "vorp": 35.3
+      }
+    },
+    {
+      "id": "horstjo01x-146",
+      "sourceId": 146,
+      "date": "2023-06-22",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Andre Jackson; Sent out future ('2030', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Andre Jackson",
+          "playerHref": "/players/j/jacksan01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2030', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 14590.200000000006,
+        "vorp": 35.3
+      }
+    },
+    {
+      "id": "horstjo01x-147",
+      "sourceId": 147,
+      "date": "2023-07-05",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Omari Moore",
+      "participants": [
+        {
+          "name": "Omari Moore",
+          "playerHref": "/players/m/mooreom01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 14590.200000000006,
+        "vorp": 35.3
+      }
+    },
+    {
+      "id": "horstjo01x-148",
+      "sourceId": 148,
+      "date": "2023-07-06",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Robin Lopez",
+      "participants": [
+        {
+          "name": "Robin Lopez",
+          "playerHref": "/players/l/lopezro01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -390,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -390,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 14200.200000000006,
+        "vorp": 35.199999999999996
+      }
+    },
+    {
+      "id": "horstjo01x-149",
+      "sourceId": 149,
+      "date": "2023-07-06",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Malik Beasley",
+      "participants": [
+        {
+          "name": "Malik Beasley",
+          "playerHref": "/players/b/beaslma01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -4206.6,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4206.6,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 9993.600000000006,
+        "vorp": 35.3
+      }
+    },
+    {
+      "id": "horstjo01x-150",
+      "sourceId": 150,
+      "date": "2023-07-06",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Brook Lopez",
+      "participants": [
+        {
+          "name": "Brook Lopez",
+          "playerHref": "/players/l/lopezbr01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 4447.8,
+            "vorp": 3.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4447.8,
+        "vorp": 3.6
+      },
+      "runningValues": {
+        "bpm": 14441.400000000005,
+        "vorp": 38.9
+      }
+    },
+    {
+      "id": "horstjo01x-151",
+      "sourceId": 151,
+      "date": "2023-07-06",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Khris Middleton",
+      "participants": [
+        {
+          "name": "Khris Middleton",
+          "playerHref": "/players/m/middlkh01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 2661.8,
+            "vorp": 1.7999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2661.8,
+        "vorp": 1.7999999999999998
+      },
+      "runningValues": {
+        "bpm": 17103.200000000004,
+        "vorp": 40.699999999999996
+      }
+    },
+    {
+      "id": "horstjo01x-152",
+      "sourceId": 152,
+      "date": "2023-07-07",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Andre Jackson Jr.",
+      "participants": [
+        {
+          "name": "Andre Jackson Jr.",
+          "playerHref": "/players/j/jacksan01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -8288,
+            "vorp": -1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -8288,
+        "vorp": -1
+      },
+      "runningValues": {
+        "bpm": 8815.200000000004,
+        "vorp": 39.699999999999996
+      }
+    },
+    {
+      "id": "horstjo01x-153",
+      "sourceId": 153,
+      "date": "2023-07-07",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed A.J. Green",
+      "participants": [
+        {
+          "name": "A.J. Green",
+          "playerHref": "/players/g/greenaj01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -13459.199999999999,
+            "vorp": -1.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -13459.199999999999,
+        "vorp": -1.1
+      },
+      "runningValues": {
+        "bpm": -4643.9999999999945,
+        "vorp": 38.599999999999994
+      }
+    },
+    {
+      "id": "horstjo01x-154",
+      "sourceId": 154,
+      "date": "2023-07-08",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Rookie contract for Chris Livingston",
+      "participants": [
+        {
+          "name": "Chris Livingston",
+          "playerHref": "/players/l/livinch01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -1366.6,
+            "vorp": -0.2
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -1366.6,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -6010.599999999995,
+        "vorp": 38.39999999999999
+      }
+    },
+    {
+      "id": "horstjo01x-155",
+      "sourceId": 155,
+      "date": "2023-07-08",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Jae Crowder",
+      "participants": [
+        {
+          "name": "Jae Crowder",
+          "playerHref": "/players/c/crowdja01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -2890,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2890,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -8900.599999999995,
+        "vorp": 38.19999999999999
+      }
+    },
+    {
+      "id": "horstjo01x-156",
+      "sourceId": 156,
+      "date": "2023-07-28",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Thanasis Antetokounmpo",
+      "participants": [
+        {
+          "name": "Thanasis Antetokounmpo",
+          "playerHref": "/players/a/antetth01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -991.9999999999999,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -991.9999999999999,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -9892.599999999995,
+        "vorp": 37.999999999999986
+      }
+    },
+    {
+      "id": "horstjo01x-157",
+      "sourceId": 157,
+      "date": "2023-08-29",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed TyTy Washington Jr.",
+      "participants": [
+        {
+          "name": "TyTy Washington Jr.",
+          "playerHref": "/players/w/washity02.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -453.59999999999997,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -453.59999999999997,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -10346.199999999995,
+        "vorp": 37.899999999999984
+      }
+    },
+    {
+      "id": "horstjo01x-158",
+      "sourceId": 158,
+      "date": "2023-09-27",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Damian Lillard; Sent out Jrue Holiday, future ('2028', '1st') round pick, future ('2029', '1st') round pick, future ('2030', '1st') round pick, and Grayson Allen",
+      "participants": [
+        {
+          "name": "Jrue Holiday",
+          "playerHref": "/players/h/holidjr01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -4222,
+            "vorp": -2.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2028', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2029', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2030', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Grayson Allen",
+          "playerHref": "/players/a/allengr01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -5633.1,
+            "vorp": -4.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Damian Lillard",
+          "playerHref": "/players/l/lillada01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 1052.8,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -8802.300000000001,
+        "vorp": -5.800000000000001
+      },
+      "runningValues": {
+        "bpm": -19148.499999999996,
+        "vorp": 32.09999999999998
+      }
+    },
+    {
+      "id": "horstjo01x-159",
+      "sourceId": 159,
+      "date": "2023-10-01",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Cameron Payne",
+      "participants": [
+        {
+          "name": "Cameron Payne",
+          "playerHref": "/players/p/payneca01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -1053,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1053,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -20201.499999999996,
+        "vorp": 32.19999999999998
+      }
+    },
+    {
+      "id": "horstjo01x-160",
+      "sourceId": 160,
+      "date": "2023-10-21",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Marques Bolden",
+      "participants": [
+        {
+          "name": "Marques Bolden",
+          "playerHref": "/players/b/boldema01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -16.200000000000003,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -16.200000000000003,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -20217.699999999997,
+        "vorp": 32.19999999999998
+      }
+    },
+    {
+      "id": "horstjo01x-164",
+      "sourceId": 164,
+      "date": "2024-02-08",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Patrick Beverley; Sent out Cameron Payne and future ('2027', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Cameron Payne",
+          "playerHref": "/players/p/payneca01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 369.40000000000003,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Patrick Beverley",
+          "playerHref": "/players/b/beverpa01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -217.20000000000002,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 152.20000000000002,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -20065.499999999996,
+        "vorp": 31.999999999999982
+      }
+    },
+    {
+      "id": "horstjo01x-165",
+      "sourceId": 165,
+      "date": "2024-02-08",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Dimitrios Agravanis; Sent out Robin Lopez",
+      "participants": [
+        {
+          "name": "Robin Lopez",
+          "playerHref": "/players/l/lopezro01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dimitrios Agravanis",
+          "playerHref": "/players/a/agravdi01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -20065.499999999996,
+        "vorp": 31.999999999999982
+      }
+    },
+    {
+      "id": "horstjo01x-166",
+      "sourceId": 166,
+      "date": "2024-02-18",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Danilo Gallinari",
+      "participants": [
+        {
+          "name": "Danilo Gallinari",
+          "playerHref": "/players/g/gallida01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -806,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -806,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -20871.499999999996,
+        "vorp": 31.89999999999998
+      }
+    },
+    {
+      "id": "horstjo01x-167",
+      "sourceId": 167,
+      "date": "2024-02-20",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Ryan Rollins",
+      "participants": [
+        {
+          "name": "Ryan Rollins",
+          "playerHref": "/players/r/rolliry01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -300.79999999999995,
+            "vorp": 0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -300.79999999999995,
+        "vorp": 0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -21172.299999999996,
+        "vorp": 32.19999999999998
+      }
+    },
+    {
+      "id": "horstjo01x-168",
+      "sourceId": 168,
+      "date": "2024-03-02",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Jaylin Galloway",
+      "participants": [
+        {
+          "name": "Jaylin Galloway",
+          "playerHref": "/players/g/galloja01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -21172.299999999996,
+        "vorp": 32.19999999999998
+      }
+    },
+    {
+      "id": "horstjo01x-169",
+      "sourceId": 169,
+      "date": "2024-06-26",
+      "type": "draft",
+      "tenureTeam": "MIL",
+      "summary": "Drafted AJ Johnson and Tyler Smith",
+      "participants": [
+        {
+          "name": "AJ Johnson",
+          "playerHref": "/players/j/johnsaj01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tyler Smith",
+          "playerHref": "/players/s/smithty02.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -21172.299999999996,
+        "vorp": 32.19999999999998
+      }
+    },
+    {
+      "id": "horstjo01x-170",
+      "sourceId": 170,
+      "date": "2024-06-26",
+      "type": "draft",
+      "tenureTeam": "MIL",
+      "summary": "Drafted AJ Johnson and Tyler Smith",
+      "participants": [
+        {
+          "name": "AJ Johnson",
+          "playerHref": "/players/j/johnsaj01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        },
+        {
+          "name": "Tyler Smith",
+          "playerHref": "/players/s/smithty02.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -21172.299999999996,
+        "vorp": 32.19999999999998
+      }
+    },
+    {
+      "id": "horstjo01x-172",
+      "sourceId": 172,
+      "date": "2024-07-05",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Rookie contract for Tyler Smith",
+      "participants": [
+        {
+          "name": "Tyler Smith",
+          "playerHref": "/players/s/smithty02.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -109.8,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -109.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -21282.099999999995,
+        "vorp": 32.19999999999998
+      }
+    },
+    {
+      "id": "horstjo01x-173",
+      "sourceId": 173,
+      "date": "2024-07-05",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Rookie contract for A.J. Johnson",
+      "participants": [
+        {
+          "name": "A.J. Johnson",
+          "playerHref": "/players/j/johnsaj01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -215.60000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -215.60000000000002,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -21497.699999999993,
+        "vorp": 32.19999999999998
+      }
+    },
+    {
+      "id": "horstjo01x-174",
+      "sourceId": 174,
+      "date": "2024-07-06",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Delon Wright",
+      "participants": [
+        {
+          "name": "Delon Wright",
+          "playerHref": "/players/w/wrighde01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -1012.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1012.5,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -22510.199999999993,
+        "vorp": 32.09999999999998
+      }
+    },
+    {
+      "id": "horstjo01x-175",
+      "sourceId": 175,
+      "date": "2024-07-09",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Taurean Prince",
+      "participants": [
+        {
+          "name": "Taurean Prince",
+          "playerHref": "/players/p/princta02.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -3682.2,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3682.2,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -26192.399999999994,
+        "vorp": 32.19999999999998
+      }
+    },
+    {
+      "id": "horstjo01x-176",
+      "sourceId": 176,
+      "date": "2024-07-09",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Stanley Umude",
+      "participants": [
+        {
+          "name": "Stanley Umude",
+          "playerHref": "/players/u/umudest01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -696.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -696.6,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -26888.999999999993,
+        "vorp": 32.09999999999998
+      }
+    },
+    {
+      "id": "horstjo01x-177",
+      "sourceId": 177,
+      "date": "2024-07-20",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Gary Trent Jr.",
+      "participants": [
+        {
+          "name": "Gary Trent Jr.",
+          "playerHref": "/players/t/trentga02.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -3028.8,
+            "vorp": 0.19999999999999996
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3028.8,
+        "vorp": 0.19999999999999996
+      },
+      "runningValues": {
+        "bpm": -29917.799999999992,
+        "vorp": 32.29999999999998
+      }
+    },
+    {
+      "id": "horstjo01x-178",
+      "sourceId": 178,
+      "date": "2024-08-10",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Anžejs Pasečņiks",
+      "participants": [
+        {
+          "name": "Anžejs Pasečņiks",
+          "playerHref": "/players/p/pasecan01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -29917.799999999992,
+        "vorp": 32.29999999999998
+      }
+    },
+    {
+      "id": "horstjo01x-179",
+      "sourceId": 179,
+      "date": "2024-10-19",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Liam Robbins",
+      "participants": [
+        {
+          "name": "Liam Robbins",
+          "playerHref": "/players/r/robbili01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -598.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -598.5,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -30516.299999999992,
+        "vorp": 32.19999999999998
+      }
+    },
+    {
+      "id": "horstjo01x-180",
+      "sourceId": 180,
+      "date": "2025-02-06",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Kevin Porter Jr.; Sent out MarJon Beauchamp",
+      "participants": [
+        {
+          "name": "MarJon Beauchamp",
+          "playerHref": "/players/b/beaucma01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -68,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kevin Porter Jr.",
+          "playerHref": "/players/p/porteke02.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 1255.7999999999997,
+            "vorp": 0.5999999999999999
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1187.7999999999997,
+        "vorp": 0.5999999999999999
+      },
+      "runningValues": {
+        "bpm": -29328.499999999993,
+        "vorp": 32.79999999999998
+      }
+    },
+    {
+      "id": "horstjo01x-181",
+      "sourceId": 181,
+      "date": "2025-02-06",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Jericho Sims, Kyle Kuzma, Bogoljub Markovic, future ('2025', '2nd') round pick, and future ('2026', '2nd') round pick; Sent out A.J. Johnson, Khris Middleton, future ('2028', '1st') round pick, Hugo Besson, and Delon Wright",
+      "participants": [
+        {
+          "name": "A.J. Johnson",
+          "playerHref": "/players/j/johnsaj01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 7185.5,
+            "vorp": 1.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Khris Middleton",
+          "playerHref": "/players/m/middlkh01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 4425.2,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2028', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Hugo Besson",
+          "playerHref": "/players/b/bessohu01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Delon Wright",
+          "playerHref": "/players/w/wrighde01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -115,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jericho Sims",
+          "playerHref": "/players/s/simsje01.html",
+          "direction": "in",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -1477,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kyle Kuzma",
+          "playerHref": "/players/k/kuzmaky01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -4612.400000000001,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bogoljub Markovic",
+          "playerHref": "/players/m/markobo01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5406.3,
+        "vorp": 0.8999999999999999
+      },
+      "runningValues": {
+        "bpm": -23922.199999999993,
+        "vorp": 33.699999999999974
+      }
+    },
+    {
+      "id": "horstjo01x-182",
+      "sourceId": 182,
+      "date": "2025-02-27",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Pete Nance",
+      "participants": [
+        {
+          "name": "Pete Nance",
+          "playerHref": "/players/n/nancepe01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -1940.1,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1940.1,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -25862.299999999992,
+        "vorp": 33.59999999999997
+      }
+    },
+    {
+      "id": "horstjo01x-183",
+      "sourceId": 183,
+      "date": "2025-03-04",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Jamaree Bouyea",
+      "participants": [
+        {
+          "name": "Jamaree Bouyea",
+          "playerHref": "/players/b/bouyeja01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -334.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -334.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -26197.09999999999,
+        "vorp": 33.59999999999997
+      }
+    },
+    {
+      "id": "horstjo01x-184",
+      "sourceId": 184,
+      "date": "2025-06-25",
+      "type": "draft",
+      "tenureTeam": "MIL",
+      "summary": "Drafted Bogoljub Markovic",
+      "participants": [
+        {
+          "name": "Bogoljub Markovic",
+          "playerHref": "/players/m/markobo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -26197.09999999999,
+        "vorp": 33.59999999999997
+      }
+    },
+    {
+      "id": "horstjo01x-185",
+      "sourceId": 185,
+      "date": "2025-07-03",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Mark Sears",
+      "participants": [
+        {
+          "name": "Mark Sears",
+          "playerHref": "/players/s/searsma01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -57.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -57.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -26254.299999999992,
+        "vorp": 33.59999999999997
+      }
+    },
+    {
+      "id": "horstjo01x-186",
+      "sourceId": 186,
+      "date": "2025-07-06",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Vasilije Micić; Sent out Pat Connaughton, future ('2031', '2nd') round pick, and future ('2032', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Pat Connaughton",
+          "playerHref": "/players/c/connapa01.html",
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": -29.700000000000003,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Vasilije Micić",
+          "playerHref": "/players/m/micicva01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2031', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2032', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -29.700000000000003,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -26283.999999999993,
+        "vorp": 33.39999999999997
+      }
+    },
+    {
+      "id": "horstjo01x-187",
+      "sourceId": 187,
+      "date": "2025-07-06",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Myles Turner",
+      "participants": [
+        {
+          "name": "Myles Turner",
+          "playerHref": "/players/t/turnemy01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -3023.2,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3023.2,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": -29307.199999999993,
+        "vorp": 33.69999999999997
+      }
+    },
+    {
+      "id": "horstjo01x-188",
+      "sourceId": 188,
+      "date": "2025-07-06",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Bobby Portis",
+      "participants": [
+        {
+          "name": "Bobby Portis",
+          "playerHref": "/players/p/portibo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0.8
+      },
+      "runningValues": {
+        "bpm": -29307.199999999993,
+        "vorp": 34.499999999999964
+      }
+    },
+    {
+      "id": "horstjo01x-189",
+      "sourceId": 189,
+      "date": "2025-07-07",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Kevin Porter Jr.",
+      "participants": [
+        {
+          "name": "Kevin Porter Jr.",
+          "playerHref": "/players/p/porteke02.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 2648.1,
+            "vorp": 1.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2648.1,
+        "vorp": 1.3
+      },
+      "runningValues": {
+        "bpm": -26659.099999999995,
+        "vorp": 35.79999999999996
+      }
+    },
+    {
+      "id": "horstjo01x-190",
+      "sourceId": 190,
+      "date": "2025-07-07",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Gary Trent Jr.",
+      "participants": [
+        {
+          "name": "Gary Trent Jr.",
+          "playerHref": "/players/t/trentga02.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -7435.8,
+            "vorp": -1.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -7435.8,
+        "vorp": -1.2
+      },
+      "runningValues": {
+        "bpm": -34094.899999999994,
+        "vorp": 34.59999999999996
+      }
+    },
+    {
+      "id": "horstjo01x-191",
+      "sourceId": 191,
+      "date": "2025-07-08",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Ryan Rollins",
+      "participants": [
+        {
+          "name": "Ryan Rollins",
+          "playerHref": "/players/r/rolliry01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -606.3,
+            "vorp": 1.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -606.3,
+        "vorp": 1.2
+      },
+      "runningValues": {
+        "bpm": -34701.2,
+        "vorp": 35.79999999999996
+      }
+    },
+    {
+      "id": "horstjo01x-192",
+      "sourceId": 192,
+      "date": "2025-07-08",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Gary Harris",
+      "participants": [
+        {
+          "name": "Gary Harris",
+          "playerHref": "/players/h/harriga01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -1652.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1652.5,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -36353.7,
+        "vorp": 35.69999999999996
+      }
+    },
+    {
+      "id": "horstjo01x-193",
+      "sourceId": 193,
+      "date": "2025-07-08",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Taurean Prince",
+      "participants": [
+        {
+          "name": "Taurean Prince",
+          "playerHref": "/players/p/princta02.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -1894.1000000000001,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1894.1000000000001,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -38247.799999999996,
+        "vorp": 35.49999999999996
+      }
+    },
+    {
+      "id": "horstjo01x-194",
+      "sourceId": 194,
+      "date": "2025-07-09",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Jericho Sims",
+      "participants": [
+        {
+          "name": "Jericho Sims",
+          "playerHref": "/players/s/simsje01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -4959.400000000001,
+            "vorp": -0.6000000000000001
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4959.400000000001,
+        "vorp": -0.6000000000000001
+      },
+      "runningValues": {
+        "bpm": -43207.2,
+        "vorp": 34.899999999999956
+      }
+    },
+    {
+      "id": "horstjo01x-195",
+      "sourceId": 195,
+      "date": "2025-07-16",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Chris Livingston",
+      "participants": [
+        {
+          "name": "Chris Livingston",
+          "playerHref": "/players/l/livinch01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -43207.2,
+        "vorp": 34.899999999999956
+      }
+    },
+    {
+      "id": "horstjo01x-196",
+      "sourceId": 196,
+      "date": "2025-07-16",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Cole Anthony",
+      "participants": [
+        {
+          "name": "Cole Anthony",
+          "playerHref": "/players/a/anthoco01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -2476.9,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2476.9,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -45684.1,
+        "vorp": 34.49999999999996
+      }
+    },
+    {
+      "id": "horstjo01x-197",
+      "sourceId": 197,
+      "date": "2025-08-31",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Thanasis Antetokounmpo",
+      "participants": [
+        {
+          "name": "Thanasis Antetokounmpo",
+          "playerHref": "/players/a/antetth01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -251.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -251.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -45935.7,
+        "vorp": 34.49999999999996
+      }
+    },
+    {
+      "id": "horstjo01x-198",
+      "sourceId": 198,
+      "date": "2025-10-16",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Alex Antetokounmpo",
+      "participants": [
+        {
+          "name": "Alex Antetokounmpo",
+          "playerHref": "/players/a/antetal01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 113.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 113.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -45822.299999999996,
+        "vorp": 34.49999999999996
+      }
+    },
+    {
+      "id": "horstjo01x-199",
+      "sourceId": 199,
+      "date": "2026-02-05",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Ousmane Dieng and Nigel Hayes-Davis; Sent out Cole Anthony and Amir Coffey",
+      "participants": [
+        {
+          "name": "Cole Anthony",
+          "playerHref": "/players/a/anthoco01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Amir Coffey",
+          "playerHref": "/players/c/coffeam01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 112.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ousmane Dieng",
+          "playerHref": "/players/d/diengou01.html",
+          "direction": "in",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Nigel Hayes-Davis",
+          "playerHref": "/players/h/hayesni01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -1423.5,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1311,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -47133.299999999996,
+        "vorp": 34.09999999999996
+      }
+    },
+    {
+      "id": "horstjo01x-200",
+      "sourceId": 200,
+      "date": "2026-02-08",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Cam Thomas",
+      "participants": [
+        {
+          "name": "Cam Thomas",
+          "playerHref": "/players/t/thomaca02.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -1584.7,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1584.7,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -48717.99999999999,
+        "vorp": 33.79999999999996
+      }
+    },
+    {
+      "id": "horstjo01x-201",
+      "sourceId": 201,
+      "date": "2026-02-26",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Cormac Ryan",
+      "participants": [
+        {
+          "name": "Cormac Ryan",
+          "playerHref": "/players/r/ryanco01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -216.8,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -216.8,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -48934.799999999996,
+        "vorp": 33.89999999999996
+      }
+    },
+    {
+      "id": "horstjo01x-202",
+      "sourceId": 202,
+      "date": "2026-06-23",
+      "type": "draft",
+      "tenureTeam": "MIL",
+      "summary": "Drafted Brayden Burries",
+      "participants": [
+        {
+          "name": "Brayden Burries",
+          "playerHref": "/players/b/burribr01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -48934.799999999996,
+        "vorp": 33.89999999999996
+      }
+    },
+    {
+      "id": "horstjo01x-203",
+      "sourceId": 203,
+      "date": "2026-06-24",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Malique Lewis",
+      "participants": [
+        {
+          "name": "Malique Lewis",
+          "playerHref": "/players/l/lewisma06.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -48934.799999999996,
+        "vorp": 33.89999999999996
+      }
+    },
+    {
+      "id": "horstjo01x-204",
+      "sourceId": 204,
+      "date": "2026-07-01",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Rookie contract for Bogoljub Markovic",
+      "participants": [
+        {
+          "name": "Bogoljub Markovic",
+          "playerHref": "/players/m/markobo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -18.2,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -18.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -48952.99999999999,
+        "vorp": 33.89999999999996
+      }
+    },
+    {
+      "id": "horstjo01x-205",
+      "sourceId": 205,
+      "date": "2026-07-05",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Rookie contract for Brayden Burries",
+      "participants": [
+        {
+          "name": "Brayden Burries",
+          "playerHref": "/players/b/burribr01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -644.7,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -644.7,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -49597.69999999999,
+        "vorp": 33.89999999999996
+      }
+    },
+    {
+      "id": "horstjo01x-206",
+      "sourceId": 206,
+      "date": "2026-07-06",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Nate Ament, Tyler Herro, Kasparas Jakucionis, Jaime Jaquez Jr., Kel'el Ware, future ('2030', '1st') round pick, future ('2031', '1st') round pick, future ('2033', '1st') round pick, and future ('2033', '2nd') round pick; Sent out Giannis Antetokounmpo and Bobby Portis",
+      "participants": [
+        {
+          "name": "Giannis Antetokounmpo",
+          "playerHref": "/players/a/antetgi01.html",
+          "direction": "out",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": -3726.7000000000003,
+            "vorp": -1.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bobby Portis",
+          "playerHref": "/players/p/portibo01.html",
+          "direction": "out",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": 868,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Nate Ament",
+          "playerHref": "/players/a/amentna01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tyler Herro",
+          "playerHref": "/players/h/herroty01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 158.4,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kasparas Jakucionis",
+          "playerHref": "/players/j/jakucka01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -669.1999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jaime Jaquez Jr.",
+          "playerHref": "/players/j/jaqueja01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -156.8,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kel'el Ware",
+          "playerHref": "/players/w/wareke01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -1295.3999999999999,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2030', '1st') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2031', '1st') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2033', '1st') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2033', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4821.7,
+        "vorp": -0.8999999999999999
+      },
+      "runningValues": {
+        "bpm": -54419.39999999999,
+        "vorp": 32.999999999999964
+      }
+    },
+    {
+      "id": "horstjo01x-207",
+      "sourceId": 207,
+      "date": "2026-07-06",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Kam Jones",
+      "participants": [
+        {
+          "name": "Kam Jones",
+          "playerHref": "/players/j/joneska03.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -54419.39999999999,
+        "vorp": 32.999999999999964
+      }
+    },
+    {
+      "id": "horstjo01x-208",
+      "sourceId": 208,
+      "date": "2026-07-08",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Caris LeVert and future ('2027', '2nd') round pick; Sent out Gary Harris and Taurean Prince",
+      "participants": [
+        {
+          "name": "Gary Harris",
+          "playerHref": "/players/h/harriga01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Taurean Prince",
+          "playerHref": "/players/p/princta02.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 59.400000000000006,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Caris LeVert",
+          "playerHref": "/players/l/leverca01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 59.400000000000006,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -54359.999999999985,
+        "vorp": 32.999999999999964
+      }
+    },
+    {
+      "id": "horstjo01x-209",
+      "sourceId": 209,
+      "date": "2026-07-08",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Nate Ament",
+      "participants": [
+        {
+          "name": "Nate Ament",
+          "playerHref": "/players/a/amentna01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -987,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -987,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -55346.999999999985,
+        "vorp": 32.89999999999996
+      }
+    },
+    {
+      "id": "horstjo01x-210",
+      "sourceId": 210,
+      "date": "2026-07-08",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Pete Nance",
+      "participants": [
+        {
+          "name": "Pete Nance",
+          "playerHref": "/players/n/nancepe01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -55346.999999999985,
+        "vorp": 32.89999999999996
+      }
+    },
+    {
+      "id": "horstjo01x-211",
+      "sourceId": 211,
+      "date": "2026-07-09",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Ousmane Dieng",
+      "participants": [
+        {
+          "name": "Ousmane Dieng",
+          "playerHref": "/players/d/diengou01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -756.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -756.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -56103.39999999999,
+        "vorp": 32.79999999999996
+      }
+    },
+    {
+      "id": "horstjo01x-212",
+      "sourceId": 212,
+      "date": "2026-07-15",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Gary Trent Jr.",
+      "participants": [
+        {
+          "name": "Gary Trent Jr.",
+          "playerHref": "/players/t/trentga02.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -110.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -110.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -56213.79999999999,
+        "vorp": 32.79999999999996
+      }
+    },
+    {
+      "id": "horstjo01x-213",
+      "sourceId": 213,
+      "date": "2026-10-19",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Pete Nance",
+      "participants": [
+        {
+          "name": "Pete Nance",
+          "playerHref": "/players/n/nancepe01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 14,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 14,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -56199.79999999999,
+        "vorp": 32.79999999999996
+      }
+    }
+  ]
+}

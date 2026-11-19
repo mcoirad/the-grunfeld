@@ -1,0 +1,5671 @@
+{
+  "slug": "weltmje01x",
+  "sourceRowCount": 247,
+  "tenures": [
+    {
+      "teamCode": "ORL",
+      "startDate": "2017-06-22",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "weltmje01x-0",
+      "sourceId": 0,
+      "date": "2017-06-22",
+      "type": "draft",
+      "tenureTeam": "ORL",
+      "summary": "Drafted Jonathan Isaac, Anžejs Pasečņiks, Wesley Iwundu, and Ivan Rabb",
+      "participants": [
+        {
+          "name": "Jonathan Isaac",
+          "playerHref": "/players/i/isaacjo01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Anžejs Pasečņiks",
+          "playerHref": "/players/p/pasecan01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Wesley Iwundu",
+          "playerHref": "/players/i/iwundwe01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ivan Rabb",
+          "playerHref": "/players/r/rabbiv01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "weltmje01x-1",
+      "sourceId": 1,
+      "date": "2017-06-22",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Talen Horton-Tucker; Sent out Ivan Rabb",
+      "participants": [
+        {
+          "name": "Ivan Rabb",
+          "playerHref": "/players/r/rabbiv01.html",
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 2041.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Talen Horton-Tucker",
+          "playerHref": "/players/h/hortota01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2041.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 2041.4,
+        "vorp": -0.1
+      }
+    },
+    {
+      "id": "weltmje01x-2",
+      "sourceId": 2,
+      "date": "2017-06-22",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Tyrese Maxey and Yam Madar; Sent out Anžejs Pasečņiks",
+      "participants": [
+        {
+          "name": "Anžejs Pasečņiks",
+          "playerHref": "/players/p/pasecan01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tyrese Maxey",
+          "playerHref": "/players/m/maxeyty01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Yam Madar",
+          "playerHref": "/players/m/madarya01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 2041.4,
+        "vorp": -0.1
+      }
+    },
+    {
+      "id": "weltmje01x-3",
+      "sourceId": 3,
+      "date": "2017-07-01",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Rookie contract for Jonathan Isaac",
+      "participants": [
+        {
+          "name": "Jonathan Isaac",
+          "playerHref": "/players/i/isaacjo01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 4591.4,
+            "vorp": 4.3
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 4591.4,
+        "vorp": 4.3
+      },
+      "runningValues": {
+        "bpm": 6632.799999999999,
+        "vorp": 4.2
+      }
+    },
+    {
+      "id": "weltmje01x-4",
+      "sourceId": 4,
+      "date": "2017-07-09",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Shelvin Mack",
+      "participants": [
+        {
+          "name": "Shelvin Mack",
+          "playerHref": "/players/m/macksh01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -1910.9999999999998,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1910.9999999999998,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 4721.799999999999,
+        "vorp": 4.4
+      }
+    },
+    {
+      "id": "weltmje01x-5",
+      "sourceId": 5,
+      "date": "2017-07-14",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Jonathon Simmons",
+      "participants": [
+        {
+          "name": "Jonathon Simmons",
+          "playerHref": "/players/s/simmojo02.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -10599.400000000001,
+            "vorp": -1.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -10599.400000000001,
+        "vorp": -1.2
+      },
+      "runningValues": {
+        "bpm": -5877.600000000002,
+        "vorp": 3.2
+      }
+    },
+    {
+      "id": "weltmje01x-6",
+      "sourceId": 6,
+      "date": "2017-07-24",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Rookie contract for Wesley Iwundu",
+      "participants": [
+        {
+          "name": "Wesley Iwundu",
+          "playerHref": "/players/i/iwundwe01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -10809.400000000001,
+            "vorp": -1.1
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -10809.400000000001,
+        "vorp": -1.1
+      },
+      "runningValues": {
+        "bpm": -16687.000000000004,
+        "vorp": 2.1
+      }
+    },
+    {
+      "id": "weltmje01x-7",
+      "sourceId": 7,
+      "date": "2017-07-27",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Marreese Speights",
+      "participants": [
+        {
+          "name": "Marreese Speights",
+          "playerHref": "/players/s/speigma01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -742.5000000000001,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -742.5000000000001,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -17429.500000000004,
+        "vorp": 2.2
+      }
+    },
+    {
+      "id": "weltmje01x-8",
+      "sourceId": 8,
+      "date": "2017-07-27",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Arron Afflalo",
+      "participants": [
+        {
+          "name": "Arron Afflalo",
+          "playerHref": "/players/a/afflaar01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -3614.6,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3614.6,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": -21044.100000000002,
+        "vorp": 1.6
+      }
+    },
+    {
+      "id": "weltmje01x-9",
+      "sourceId": 9,
+      "date": "2017-07-27",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Khem Birch",
+      "participants": [
+        {
+          "name": "Khem Birch",
+          "playerHref": "/players/b/birchkh01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 251.40000000000055,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 251.40000000000055,
+        "vorp": 0.7
+      },
+      "runningValues": {
+        "bpm": -20792.7,
+        "vorp": 2.3
+      }
+    },
+    {
+      "id": "weltmje01x-10",
+      "sourceId": 10,
+      "date": "2017-08-16",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Troy Caupain",
+      "participants": [
+        {
+          "name": "Troy Caupain",
+          "playerHref": "/players/c/caupatr01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -20792.7,
+        "vorp": 2.3
+      }
+    },
+    {
+      "id": "weltmje01x-11",
+      "sourceId": 11,
+      "date": "2017-08-21",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Adreian Payne",
+      "participants": [
+        {
+          "name": "Adreian Payne",
+          "playerHref": "/players/p/paynead01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 98.89999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 98.89999999999999,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -20693.8,
+        "vorp": 2.3
+      }
+    },
+    {
+      "id": "weltmje01x-12",
+      "sourceId": 12,
+      "date": "2017-08-31",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Kalin Lucas",
+      "participants": [
+        {
+          "name": "Kalin Lucas",
+          "playerHref": "/players/l/lucaska01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -20693.8,
+        "vorp": 2.3
+      }
+    },
+    {
+      "id": "weltmje01x-13",
+      "sourceId": 13,
+      "date": "2017-09-07",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Damjan Rudež",
+      "participants": [
+        {
+          "name": "Damjan Rudež",
+          "playerHref": "/players/r/rudezda01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -20693.8,
+        "vorp": 2.3
+      }
+    },
+    {
+      "id": "weltmje01x-14",
+      "sourceId": 14,
+      "date": "2017-10-09",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Rodney Purvis",
+      "participants": [
+        {
+          "name": "Rodney Purvis",
+          "playerHref": "/players/p/purviro01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -20693.8,
+        "vorp": 2.3
+      }
+    },
+    {
+      "id": "weltmje01x-15",
+      "sourceId": 15,
+      "date": "2017-10-16",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Jamel Artis",
+      "participants": [
+        {
+          "name": "Jamel Artis",
+          "playerHref": "/players/a/artisja01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -1506.6000000000001,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1506.6000000000001,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -22200.399999999998,
+        "vorp": 2.0999999999999996
+      }
+    },
+    {
+      "id": "weltmje01x-16",
+      "sourceId": 16,
+      "date": "2018-02-08",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Jarred Vanderbilt; Sent out Elfrid Payton",
+      "participants": [
+        {
+          "name": "Elfrid Payton",
+          "playerHref": "/players/p/paytoel01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 3629.8,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jarred Vanderbilt",
+          "playerHref": "/players/v/vandeja01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3629.8,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": -18570.6,
+        "vorp": 2.4999999999999996
+      }
+    },
+    {
+      "id": "weltmje01x-17",
+      "sourceId": 17,
+      "date": "2018-02-20",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Rashad Vaughn",
+      "participants": [
+        {
+          "name": "Rashad Vaughn",
+          "playerHref": "/players/v/vaughra01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -315,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -315,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -18885.6,
+        "vorp": 2.3999999999999995
+      }
+    },
+    {
+      "id": "weltmje01x-18",
+      "sourceId": 18,
+      "date": "2018-03-08",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Rodney Purvis",
+      "participants": [
+        {
+          "name": "Rodney Purvis",
+          "playerHref": "/players/p/purviro01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -18885.6,
+        "vorp": 2.3999999999999995
+      }
+    },
+    {
+      "id": "weltmje01x-19",
+      "sourceId": 19,
+      "date": "2018-03-28",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Rodney Purvis",
+      "participants": [
+        {
+          "name": "Rodney Purvis",
+          "playerHref": "/players/p/purviro01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -2349,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2349,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -21234.6,
+        "vorp": 1.8999999999999995
+      }
+    },
+    {
+      "id": "weltmje01x-22",
+      "sourceId": 22,
+      "date": "2018-06-21",
+      "type": "draft",
+      "tenureTeam": "ORL",
+      "summary": "Drafted Mohamed Bamba, Melvin Frazier, and Jarred Vanderbilt",
+      "participants": [
+        {
+          "name": "Mohamed Bamba",
+          "playerHref": "/players/b/bambamo01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Melvin Frazier",
+          "playerHref": "/players/f/frazime01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jarred Vanderbilt",
+          "playerHref": "/players/v/vandeja01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -21234.6,
+        "vorp": 1.8999999999999995
+      }
+    },
+    {
+      "id": "weltmje01x-23",
+      "sourceId": 23,
+      "date": "2018-06-21",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Justin Jackson and Cody Martin; Sent out Jarred Vanderbilt",
+      "participants": [
+        {
+          "name": "Jarred Vanderbilt",
+          "playerHref": "/players/v/vandeja01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 548.1,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Justin Jackson",
+          "playerHref": "/players/j/jacksju02.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cody Martin",
+          "playerHref": "/players/m/martico01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 548.1,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -20686.5,
+        "vorp": 1.8999999999999995
+      }
+    },
+    {
+      "id": "weltmje01x-24",
+      "sourceId": 24,
+      "date": "2018-07-03",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Rookie contract for Mohamed Bamba",
+      "participants": [
+        {
+          "name": "Mohamed Bamba",
+          "playerHref": "/players/b/bambamo01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 792.4999999999999,
+            "vorp": 2.2
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 792.4999999999999,
+        "vorp": 2.2
+      },
+      "runningValues": {
+        "bpm": -19894,
+        "vorp": 4.1
+      }
+    },
+    {
+      "id": "weltmje01x-25",
+      "sourceId": 25,
+      "date": "2018-07-06",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Isaiah Briscoe",
+      "participants": [
+        {
+          "name": "Isaiah Briscoe",
+          "playerHref": "/players/b/briscis01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -2795,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2795,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -22689,
+        "vorp": 3.6999999999999997
+      }
+    },
+    {
+      "id": "weltmje01x-26",
+      "sourceId": 26,
+      "date": "2018-07-06",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Rookie contract for Melvin Frazier",
+      "participants": [
+        {
+          "name": "Melvin Frazier",
+          "playerHref": "/players/f/frazime01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -923.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -923.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -23612.4,
+        "vorp": 3.5999999999999996
+      }
+    },
+    {
+      "id": "weltmje01x-27",
+      "sourceId": 27,
+      "date": "2018-07-06",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Aaron Gordon",
+      "participants": [
+        {
+          "name": "Aaron Gordon",
+          "playerHref": "/players/g/gordoaa01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 1947.8,
+            "vorp": 3.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1947.8,
+        "vorp": 3.2
+      },
+      "runningValues": {
+        "bpm": -21664.600000000002,
+        "vorp": 6.8
+      }
+    },
+    {
+      "id": "weltmje01x-28",
+      "sourceId": 28,
+      "date": "2018-07-08",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Jerian Grant and Timofey Mozgov; Sent out Bismack Biyombo, Cody Martin, and Yam Madar",
+      "participants": [
+        {
+          "name": "Bismack Biyombo",
+          "playerHref": "/players/b/biyombi01.html",
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 8577,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cody Martin",
+          "playerHref": "/players/m/martico01.html",
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 8850.9,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Yam Madar",
+          "playerHref": "/players/m/madarya01.html",
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jerian Grant",
+          "playerHref": "/players/g/grantje02.html",
+          "direction": "in",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Timofey Mozgov",
+          "playerHref": "/players/m/mozgoti01.html",
+          "direction": "in",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 17427.9,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -4236.700000000003,
+        "vorp": 6.8
+      }
+    },
+    {
+      "id": "weltmje01x-29",
+      "sourceId": 29,
+      "date": "2018-07-11",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Troy Caupain",
+      "participants": [
+        {
+          "name": "Troy Caupain",
+          "playerHref": "/players/c/caupatr01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 212.8,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 212.8,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -4023.9000000000024,
+        "vorp": 6.8999999999999995
+      }
+    },
+    {
+      "id": "weltmje01x-30",
+      "sourceId": 30,
+      "date": "2018-07-20",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Dakari Johnson; Sent out Rodney Purvis",
+      "participants": [
+        {
+          "name": "Rodney Purvis",
+          "playerHref": "/players/p/purviro01.html",
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dakari Johnson",
+          "playerHref": "/players/j/johnsda04.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -4023.9000000000024,
+        "vorp": 6.8999999999999995
+      }
+    },
+    {
+      "id": "weltmje01x-31",
+      "sourceId": 31,
+      "date": "2018-07-23",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Jarell Martin; Sent out Tyler Harvey and Dakari Johnson",
+      "participants": [
+        {
+          "name": "Tyler Harvey",
+          "playerHref": "/players/h/harvety01.html",
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dakari Johnson",
+          "playerHref": "/players/j/johnsda04.html",
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jarell Martin",
+          "playerHref": "/players/m/martija01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -1246.3999999999999,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1246.3999999999999,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -5270.300000000002,
+        "vorp": 6.699999999999999
+      }
+    },
+    {
+      "id": "weltmje01x-32",
+      "sourceId": 32,
+      "date": "2018-08-07",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Amile Jefferson",
+      "participants": [
+        {
+          "name": "Amile Jefferson",
+          "playerHref": "/players/j/jeffeam01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 170,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 170,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -5100.300000000002,
+        "vorp": 6.799999999999999
+      }
+    },
+    {
+      "id": "weltmje01x-33",
+      "sourceId": 33,
+      "date": "2018-09-27",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Devin Davis",
+      "participants": [
+        {
+          "name": "Devin Davis",
+          "playerHref": "/players/d/davisde02.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -5100.300000000002,
+        "vorp": 6.799999999999999
+      }
+    },
+    {
+      "id": "weltmje01x-34",
+      "sourceId": 34,
+      "date": "2019-02-07",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Markelle Fultz; Sent out Jonathon Simmons, Carsen Edwards, and Tyrese Maxey",
+      "participants": [
+        {
+          "name": "Jonathon Simmons",
+          "playerHref": "/players/s/simmojo02.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 175.20000000000002,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Carsen Edwards",
+          "playerHref": "/players/e/edwarca01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tyrese Maxey",
+          "playerHref": "/players/m/maxeyty01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -30377.7,
+            "vorp": -14.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Markelle Fultz",
+          "playerHref": "/players/f/fultzma01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -4851.8,
+            "vorp": 1.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -35054.3,
+        "vorp": -12.9
+      },
+      "runningValues": {
+        "bpm": -40154.600000000006,
+        "vorp": -6.100000000000001
+      }
+    },
+    {
+      "id": "weltmje01x-35",
+      "sourceId": 35,
+      "date": "2019-03-15",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Michael Carter-Williams",
+      "participants": [
+        {
+          "name": "Michael Carter-Williams",
+          "playerHref": "/players/c/cartemi01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -40154.600000000006,
+        "vorp": -6.100000000000001
+      }
+    },
+    {
+      "id": "weltmje01x-36",
+      "sourceId": 36,
+      "date": "2019-04-04",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Michael Carter-Williams",
+      "participants": [
+        {
+          "name": "Michael Carter-Williams",
+          "playerHref": "/players/c/cartemi01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 544.7999999999997,
+            "vorp": 0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 544.7999999999997,
+        "vorp": 0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -39609.8,
+        "vorp": -5.800000000000002
+      }
+    },
+    {
+      "id": "weltmje01x-37",
+      "sourceId": 37,
+      "date": "2019-06-20",
+      "type": "draft",
+      "tenureTeam": "ORL",
+      "summary": "Drafted Chuma Okeke and Talen Horton-Tucker",
+      "participants": [
+        {
+          "name": "Chuma Okeke",
+          "playerHref": "/players/o/okekech01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Talen Horton-Tucker",
+          "playerHref": "/players/h/hortota01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -39609.8,
+        "vorp": -5.800000000000002
+      }
+    },
+    {
+      "id": "weltmje01x-38",
+      "sourceId": 38,
+      "date": "2019-06-20",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Paul Reed; Sent out Talen Horton-Tucker",
+      "participants": [
+        {
+          "name": "Talen Horton-Tucker",
+          "playerHref": "/players/h/hortota01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 6721.2,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Paul Reed",
+          "playerHref": "/players/r/reedpa01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 6721.2,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -32888.600000000006,
+        "vorp": -5.600000000000001
+      }
+    },
+    {
+      "id": "weltmje01x-39",
+      "sourceId": 39,
+      "date": "2019-07-06",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Al-Farouq Aminu",
+      "participants": [
+        {
+          "name": "Al-Farouq Aminu",
+          "playerHref": "/players/a/aminual01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -2277.7,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2277.7,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -35166.3,
+        "vorp": -5.800000000000002
+      }
+    },
+    {
+      "id": "weltmje01x-40",
+      "sourceId": 40,
+      "date": "2019-07-06",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Nikola Vučević",
+      "participants": [
+        {
+          "name": "Nikola Vučević",
+          "playerHref": "/players/v/vucevni01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 16887.6,
+            "vorp": 6.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 16887.6,
+        "vorp": 6.1
+      },
+      "runningValues": {
+        "bpm": -18278.700000000004,
+        "vorp": 0.29999999999999805
+      }
+    },
+    {
+      "id": "weltmje01x-41",
+      "sourceId": 41,
+      "date": "2019-07-06",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Terrence Ross",
+      "participants": [
+        {
+          "name": "Terrence Ross",
+          "playerHref": "/players/r/rosste01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -12137.699999999999,
+            "vorp": -0.1999999999999999
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -12137.699999999999,
+        "vorp": -0.1999999999999999
+      },
+      "runningValues": {
+        "bpm": -30416.4,
+        "vorp": 0.09999999999999815
+      }
+    },
+    {
+      "id": "weltmje01x-42",
+      "sourceId": 42,
+      "date": "2019-07-10",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Michael Carter-Williams",
+      "participants": [
+        {
+          "name": "Michael Carter-Williams",
+          "playerHref": "/players/c/cartemi01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 83.30000000000018,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 83.30000000000018,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": -30333.100000000002,
+        "vorp": 0.5999999999999981
+      }
+    },
+    {
+      "id": "weltmje01x-43",
+      "sourceId": 43,
+      "date": "2019-07-10",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Khem Birch",
+      "participants": [
+        {
+          "name": "Khem Birch",
+          "playerHref": "/players/b/birchkh01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -3643.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3643.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -33976.9,
+        "vorp": 0.5999999999999981
+      }
+    },
+    {
+      "id": "weltmje01x-44",
+      "sourceId": 44,
+      "date": "2019-07-21",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed DaQuan Jeffries",
+      "participants": [
+        {
+          "name": "DaQuan Jeffries",
+          "playerHref": "/players/j/jeffrda01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -33976.9,
+        "vorp": 0.5999999999999981
+      }
+    },
+    {
+      "id": "weltmje01x-45",
+      "sourceId": 45,
+      "date": "2019-07-21",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Vic Law",
+      "participants": [
+        {
+          "name": "Vic Law",
+          "playerHref": "/players/l/lawvi01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -33976.9,
+        "vorp": 0.5999999999999981
+      }
+    },
+    {
+      "id": "weltmje01x-46",
+      "sourceId": 46,
+      "date": "2019-07-23",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Josh Magette",
+      "participants": [
+        {
+          "name": "Josh Magette",
+          "playerHref": "/players/m/magetjo01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -33976.9,
+        "vorp": 0.5999999999999981
+      }
+    },
+    {
+      "id": "weltmje01x-47",
+      "sourceId": 47,
+      "date": "2019-07-30",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Amile Jefferson",
+      "participants": [
+        {
+          "name": "Amile Jefferson",
+          "playerHref": "/players/j/jeffeam01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -33976.9,
+        "vorp": 0.5999999999999981
+      }
+    },
+    {
+      "id": "weltmje01x-48",
+      "sourceId": 48,
+      "date": "2019-11-01",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Amile Jefferson",
+      "participants": [
+        {
+          "name": "Amile Jefferson",
+          "playerHref": "/players/j/jeffeam01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -429.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -429.2,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -34406.1,
+        "vorp": 0.4999999999999981
+      }
+    },
+    {
+      "id": "weltmje01x-49",
+      "sourceId": 49,
+      "date": "2019-11-04",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed B.J. Johnson",
+      "participants": [
+        {
+          "name": "B.J. Johnson",
+          "playerHref": "/players/j/johnsbj01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -738.7,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -738.7,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -35144.799999999996,
+        "vorp": 0.39999999999999813
+      }
+    },
+    {
+      "id": "weltmje01x-50",
+      "sourceId": 50,
+      "date": "2020-01-11",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Josh Magette",
+      "participants": [
+        {
+          "name": "Josh Magette",
+          "playerHref": "/players/m/magetjo01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -235.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -235.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -35380.399999999994,
+        "vorp": 0.39999999999999813
+      }
+    },
+    {
+      "id": "weltmje01x-51",
+      "sourceId": 51,
+      "date": "2020-01-11",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Vic Law",
+      "participants": [
+        {
+          "name": "Vic Law",
+          "playerHref": "/players/l/lawvi01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -589,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -589,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -35969.399999999994,
+        "vorp": 0.29999999999999816
+      }
+    },
+    {
+      "id": "weltmje01x-52",
+      "sourceId": 52,
+      "date": "2020-01-14",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Gary Clark",
+      "participants": [
+        {
+          "name": "Gary Clark",
+          "playerHref": "/players/c/clarkga01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -35969.399999999994,
+        "vorp": 0.29999999999999816
+      }
+    },
+    {
+      "id": "weltmje01x-53",
+      "sourceId": 53,
+      "date": "2020-02-06",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added James Ennis; Sent out Paul Reed",
+      "participants": [
+        {
+          "name": "Paul Reed",
+          "playerHref": "/players/r/reedpa01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -1017.7,
+            "vorp": -1.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "James Ennis",
+          "playerHref": "/players/e/ennisja01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -2102.6999999999994,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3120.3999999999996,
+        "vorp": -1.9000000000000001
+      },
+      "runningValues": {
+        "bpm": -39089.79999999999,
+        "vorp": -1.600000000000002
+      }
+    },
+    {
+      "id": "weltmje01x-54",
+      "sourceId": 54,
+      "date": "2020-02-08",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Gary Clark",
+      "participants": [
+        {
+          "name": "Gary Clark",
+          "playerHref": "/players/c/clarkga01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -923,
+            "vorp": -0.09999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -923,
+        "vorp": -0.09999999999999998
+      },
+      "runningValues": {
+        "bpm": -40012.79999999999,
+        "vorp": -1.700000000000002
+      }
+    },
+    {
+      "id": "weltmje01x-55",
+      "sourceId": 55,
+      "date": "2020-11-16",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Rookie contract for Chuma Okeke",
+      "participants": [
+        {
+          "name": "Chuma Okeke",
+          "playerHref": "/players/o/okekech01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -4172,
+            "vorp": 0.8
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -4172,
+        "vorp": 0.8
+      },
+      "runningValues": {
+        "bpm": -44184.79999999999,
+        "vorp": -0.9000000000000019
+      }
+    },
+    {
+      "id": "weltmje01x-56",
+      "sourceId": 56,
+      "date": "2020-11-18",
+      "type": "draft",
+      "tenureTeam": "ORL",
+      "summary": "Drafted Cole Anthony",
+      "participants": [
+        {
+          "name": "Cole Anthony",
+          "playerHref": "/players/a/anthoco01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44184.79999999999,
+        "vorp": -0.9000000000000019
+      }
+    },
+    {
+      "id": "weltmje01x-57",
+      "sourceId": 57,
+      "date": "2020-11-18",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Max Christie, Dillon Mitchell, and future ('2026', '2nd') round pick; Sent out Jordan Nwora",
+      "participants": [
+        {
+          "name": "Jordan Nwora",
+          "playerHref": "/players/n/nworajo01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 6592.7,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Max Christie",
+          "playerHref": "/players/c/chrisma02.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dillon Mitchell",
+          "playerHref": "/players/m/mitchdi01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 6592.7,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": -37592.09999999999,
+        "vorp": -0.4000000000000019
+      }
+    },
+    {
+      "id": "weltmje01x-58",
+      "sourceId": 58,
+      "date": "2020-11-21",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Rookie contract for Cole Anthony",
+      "participants": [
+        {
+          "name": "Cole Anthony",
+          "playerHref": "/players/a/anthoco01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -4504.2,
+            "vorp": 3
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -4504.2,
+        "vorp": 3
+      },
+      "runningValues": {
+        "bpm": -42096.29999999999,
+        "vorp": 2.599999999999998
+      }
+    },
+    {
+      "id": "weltmje01x-59",
+      "sourceId": 59,
+      "date": "2020-11-23",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Gary Clark",
+      "participants": [
+        {
+          "name": "Gary Clark",
+          "playerHref": "/players/c/clarkga01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -3057.6,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3057.6,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -45153.89999999999,
+        "vorp": 2.099999999999998
+      }
+    },
+    {
+      "id": "weltmje01x-60",
+      "sourceId": 60,
+      "date": "2020-11-24",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Michael Carter-Williams",
+      "participants": [
+        {
+          "name": "Michael Carter-Williams",
+          "playerHref": "/players/c/cartemi01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -3840,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3840,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": -48993.89999999999,
+        "vorp": 1.4999999999999978
+      }
+    },
+    {
+      "id": "weltmje01x-61",
+      "sourceId": 61,
+      "date": "2020-11-24",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Dwayne Bacon",
+      "participants": [
+        {
+          "name": "Dwayne Bacon",
+          "playerHref": "/players/b/bacondw01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -9450.3,
+            "vorp": -1.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -9450.3,
+        "vorp": -1.5
+      },
+      "runningValues": {
+        "bpm": -58444.19999999998,
+        "vorp": -2.220446049250313e-15
+      }
+    },
+    {
+      "id": "weltmje01x-62",
+      "sourceId": 62,
+      "date": "2020-11-25",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed James Ennis",
+      "participants": [
+        {
+          "name": "James Ennis",
+          "playerHref": "/players/e/ennisja01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -2169.2000000000003,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2169.2000000000003,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -60613.39999999998,
+        "vorp": -2.220446049250313e-15
+      }
+    },
+    {
+      "id": "weltmje01x-63",
+      "sourceId": 63,
+      "date": "2020-11-27",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Karim Mané",
+      "participants": [
+        {
+          "name": "Karim Mané",
+          "playerHref": "/players/m/maneka01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -862.4000000000001,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -862.4000000000001,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -61475.79999999998,
+        "vorp": -0.20000000000000223
+      }
+    },
+    {
+      "id": "weltmje01x-64",
+      "sourceId": 64,
+      "date": "2020-11-27",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Jordan Bone",
+      "participants": [
+        {
+          "name": "Jordan Bone",
+          "playerHref": "/players/b/bonejo01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -823.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -823.2,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -62298.99999999998,
+        "vorp": -0.30000000000000226
+      }
+    },
+    {
+      "id": "weltmje01x-65",
+      "sourceId": 65,
+      "date": "2021-02-03",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Frank Mason",
+      "participants": [
+        {
+          "name": "Frank Mason",
+          "playerHref": "/players/m/masonfr01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -600.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -600.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -62899.39999999998,
+        "vorp": -0.40000000000000224
+      }
+    },
+    {
+      "id": "weltmje01x-66",
+      "sourceId": 66,
+      "date": "2021-02-15",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Chasson Randle",
+      "participants": [
+        {
+          "name": "Chasson Randle",
+          "playerHref": "/players/r/randlch01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -4938.3,
+            "vorp": -0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4938.3,
+        "vorp": -0.8
+      },
+      "runningValues": {
+        "bpm": -67837.69999999998,
+        "vorp": -1.2000000000000024
+      }
+    },
+    {
+      "id": "weltmje01x-67",
+      "sourceId": 67,
+      "date": "2021-03-25",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Wendell Carter Jr., Otto Porter, Franz Wagner, and Jett Howard; Sent out Al-Farouq Aminu and Nikola Vučević",
+      "participants": [
+        {
+          "name": "Al-Farouq Aminu",
+          "playerHref": "/players/a/aminual01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 482.40000000000003,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Nikola Vučević",
+          "playerHref": "/players/v/vucevni01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": -21894.8,
+            "vorp": -11.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Wendell Carter Jr.",
+          "playerHref": "/players/c/cartewe01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 800.5000000000007,
+            "vorp": 5.199999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Otto Porter",
+          "playerHref": "/players/p/porteot01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -112.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Franz Wagner",
+          "playerHref": "/players/w/wagnefr01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jett Howard",
+          "playerHref": "/players/h/howarje01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -20724.1,
+        "vorp": -6.600000000000001
+      },
+      "runningValues": {
+        "bpm": -88561.79999999999,
+        "vorp": -7.800000000000004
+      }
+    },
+    {
+      "id": "weltmje01x-68",
+      "sourceId": 68,
+      "date": "2021-03-25",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added R.J. Hampton, Gary Harris, Jase Richardson, and future ('2025', '1st') round pick; Sent out Gary Clark and Aaron Gordon",
+      "participants": [
+        {
+          "name": "Gary Clark",
+          "playerHref": "/players/c/clarkga01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 25.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Aaron Gordon",
+          "playerHref": "/players/g/gordoaa01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -7614,
+            "vorp": -7.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "R.J. Hampton",
+          "playerHref": "/players/h/hamptrj01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -8342.9,
+            "vorp": -0.7999999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Gary Harris",
+          "playerHref": "/players/h/harriga01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -9431.4,
+            "vorp": 5.551115123125783e-17
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jase Richardson",
+          "playerHref": "/players/r/richaja02.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '1st') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -25362.699999999997,
+        "vorp": -8
+      },
+      "runningValues": {
+        "bpm": -113924.49999999997,
+        "vorp": -15.800000000000004
+      }
+    },
+    {
+      "id": "weltmje01x-69",
+      "sourceId": 69,
+      "date": "2021-03-25",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Jeff Teague, Max Shulga, future ('2025', '2nd') round pick, and future ('2027', '2nd') round pick; Sent out Evan Fournier",
+      "participants": [
+        {
+          "name": "Evan Fournier",
+          "playerHref": "/players/f/fournev01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": -141.6,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jeff Teague",
+          "playerHref": "/players/t/teaguje01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Max Shulga",
+          "playerHref": "/players/s/shulgma01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -141.6,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -114066.09999999998,
+        "vorp": -16.100000000000005
+      }
+    },
+    {
+      "id": "weltmje01x-70",
+      "sourceId": 70,
+      "date": "2021-04-06",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Devin Cannady",
+      "participants": [
+        {
+          "name": "Devin Cannady",
+          "playerHref": "/players/c/cannade01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -114066.09999999998,
+        "vorp": -16.100000000000005
+      }
+    },
+    {
+      "id": "weltmje01x-71",
+      "sourceId": 71,
+      "date": "2021-04-12",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Robert Franks",
+      "participants": [
+        {
+          "name": "Robert Franks",
+          "playerHref": "/players/f/frankro01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -20.200000000000003,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -20.200000000000003,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -114086.29999999997,
+        "vorp": -16.100000000000005
+      }
+    },
+    {
+      "id": "weltmje01x-72",
+      "sourceId": 72,
+      "date": "2021-04-13",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Donta Hall",
+      "participants": [
+        {
+          "name": "Donta Hall",
+          "playerHref": "/players/h/halldo01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 286.40000000000003,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 286.40000000000003,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -113799.89999999998,
+        "vorp": -15.900000000000006
+      }
+    },
+    {
+      "id": "weltmje01x-73",
+      "sourceId": 73,
+      "date": "2021-04-16",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Devin Cannady",
+      "participants": [
+        {
+          "name": "Devin Cannady",
+          "playerHref": "/players/c/cannade01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -229.39999999999998,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -229.39999999999998,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -114029.29999999997,
+        "vorp": -15.900000000000006
+      }
+    },
+    {
+      "id": "weltmje01x-74",
+      "sourceId": 74,
+      "date": "2021-04-27",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Moritz Wagner",
+      "participants": [
+        {
+          "name": "Moritz Wagner",
+          "playerHref": "/players/w/wagnemo01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -1144,
+            "vorp": -0.10000000000000009
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1144,
+        "vorp": -0.10000000000000009
+      },
+      "runningValues": {
+        "bpm": -115173.29999999997,
+        "vorp": -16.000000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-75",
+      "sourceId": 75,
+      "date": "2021-05-02",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Ignas Brazdeikis",
+      "participants": [
+        {
+          "name": "Ignas Brazdeikis",
+          "playerHref": "/players/b/brazdig01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -115173.29999999997,
+        "vorp": -16.000000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-76",
+      "sourceId": 76,
+      "date": "2021-05-04",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Sindarius Thornwell",
+      "participants": [
+        {
+          "name": "Sindarius Thornwell",
+          "playerHref": "/players/t/thornsi01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -115173.29999999997,
+        "vorp": -16.000000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-77",
+      "sourceId": 77,
+      "date": "2021-05-09",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Donta Hall",
+      "participants": [
+        {
+          "name": "Donta Hall",
+          "playerHref": "/players/h/halldo01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -115173.29999999997,
+        "vorp": -16.000000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-78",
+      "sourceId": 78,
+      "date": "2021-05-12",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Ignas Brazdeikis",
+      "participants": [
+        {
+          "name": "Ignas Brazdeikis",
+          "playerHref": "/players/b/brazdig01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -115173.29999999997,
+        "vorp": -16.000000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-79",
+      "sourceId": 79,
+      "date": "2021-07-29",
+      "type": "draft",
+      "tenureTeam": "ORL",
+      "summary": "Drafted Jalen Suggs, Franz Wagner, and Jason Preston",
+      "participants": [
+        {
+          "name": "Jalen Suggs",
+          "playerHref": "/players/s/suggsja01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Franz Wagner",
+          "playerHref": "/players/w/wagnefr01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jason Preston",
+          "playerHref": "/players/p/prestja01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -115173.29999999997,
+        "vorp": -16.000000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-80",
+      "sourceId": 80,
+      "date": "2021-07-29",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Jaron Pierre Jr. and future ('2026', '2nd') round pick; Sent out Jason Preston",
+      "participants": [
+        {
+          "name": "Jason Preston",
+          "playerHref": "/players/p/prestja01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 322.40000000000003,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jaron Pierre Jr.",
+          "playerHref": "/players/p/pierrja01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 322.40000000000003,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -114850.89999999998,
+        "vorp": -16.000000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-81",
+      "sourceId": 81,
+      "date": "2021-08-03",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Rookie contract for Jalen Suggs",
+      "participants": [
+        {
+          "name": "Jalen Suggs",
+          "playerHref": "/players/s/suggsja01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -2460.0999999999995,
+            "vorp": 2.9
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -2460.0999999999995,
+        "vorp": 2.9
+      },
+      "runningValues": {
+        "bpm": -117310.99999999999,
+        "vorp": -13.100000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-82",
+      "sourceId": 82,
+      "date": "2021-08-03",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Rookie contract for Franz Wagner",
+      "participants": [
+        {
+          "name": "Franz Wagner",
+          "playerHref": "/players/w/wagnefr01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 10141,
+            "vorp": 8.2
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 10141,
+        "vorp": 8.2
+      },
+      "runningValues": {
+        "bpm": -107169.99999999999,
+        "vorp": -4.9000000000000075
+      }
+    },
+    {
+      "id": "weltmje01x-83",
+      "sourceId": 83,
+      "date": "2021-08-06",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Robin Lopez",
+      "participants": [
+        {
+          "name": "Robin Lopez",
+          "playerHref": "/players/l/lopezro01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -2325.6,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2325.6,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -109495.59999999999,
+        "vorp": -5.200000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-84",
+      "sourceId": 84,
+      "date": "2021-08-11",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Ignas Brazdeikis",
+      "participants": [
+        {
+          "name": "Ignas Brazdeikis",
+          "playerHref": "/players/b/brazdig01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -2304.7999999999997,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2304.7999999999997,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -111800.4,
+        "vorp": -5.500000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-85",
+      "sourceId": 85,
+      "date": "2021-08-23",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Moritz Wagner",
+      "participants": [
+        {
+          "name": "Moritz Wagner",
+          "playerHref": "/players/w/wagnemo01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 2105.4,
+            "vorp": 1.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2105.4,
+        "vorp": 1.5
+      },
+      "runningValues": {
+        "bpm": -109695,
+        "vorp": -4.000000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-86",
+      "sourceId": 86,
+      "date": "2021-09-07",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Hassani Gravett",
+      "participants": [
+        {
+          "name": "Hassani Gravett",
+          "playerHref": "/players/g/graveha01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -109695,
+        "vorp": -4.000000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-87",
+      "sourceId": 87,
+      "date": "2021-09-07",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Jon Teske",
+      "participants": [
+        {
+          "name": "Jon Teske",
+          "playerHref": "/players/t/teskejo01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -109695,
+        "vorp": -4.000000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-88",
+      "sourceId": 88,
+      "date": "2021-09-07",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Jeff Dowtin",
+      "participants": [
+        {
+          "name": "Jeff Dowtin",
+          "playerHref": "/players/d/dowtije01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -109695,
+        "vorp": -4.000000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-89",
+      "sourceId": 89,
+      "date": "2021-09-09",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed E'Twaun Moore",
+      "participants": [
+        {
+          "name": "E'Twaun Moore",
+          "playerHref": "/players/m/mooreet01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -109695,
+        "vorp": -4.000000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-90",
+      "sourceId": 90,
+      "date": "2021-09-21",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Admiral Schofield",
+      "participants": [
+        {
+          "name": "Admiral Schofield",
+          "playerHref": "/players/s/schofad01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -109695,
+        "vorp": -4.000000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-91",
+      "sourceId": 91,
+      "date": "2021-10-07",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Jeremiah Tilmon",
+      "participants": [
+        {
+          "name": "Jeremiah Tilmon",
+          "playerHref": "/players/t/tilmoje01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -109695,
+        "vorp": -4.000000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-92",
+      "sourceId": 92,
+      "date": "2021-10-12",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Devin Cannady",
+      "participants": [
+        {
+          "name": "Devin Cannady",
+          "playerHref": "/players/c/cannade01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -109695,
+        "vorp": -4.000000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-93",
+      "sourceId": 93,
+      "date": "2021-10-15",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed B.J. Johnson",
+      "participants": [
+        {
+          "name": "B.J. Johnson",
+          "playerHref": "/players/j/johnsbj01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -109695,
+        "vorp": -4.000000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-94",
+      "sourceId": 94,
+      "date": "2021-10-26",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Mychal Mulder",
+      "participants": [
+        {
+          "name": "Mychal Mulder",
+          "playerHref": "/players/m/muldemy01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -1657.5,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1657.5,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -111352.5,
+        "vorp": -4.300000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-95",
+      "sourceId": 95,
+      "date": "2021-12-17",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Admiral Schofield",
+      "participants": [
+        {
+          "name": "Admiral Schofield",
+          "playerHref": "/players/s/schofad01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -111352.5,
+        "vorp": -4.300000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-96",
+      "sourceId": 96,
+      "date": "2021-12-17",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed B.J. Johnson",
+      "participants": [
+        {
+          "name": "B.J. Johnson",
+          "playerHref": "/players/j/johnsbj01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -299,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -299,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -111651.5,
+        "vorp": -4.300000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-97",
+      "sourceId": 97,
+      "date": "2021-12-17",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Hassani Gravett",
+      "participants": [
+        {
+          "name": "Hassani Gravett",
+          "playerHref": "/players/g/graveha01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -393.29999999999995,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -393.29999999999995,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -112044.8,
+        "vorp": -4.300000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-98",
+      "sourceId": 98,
+      "date": "2021-12-17",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Aleem Ford",
+      "participants": [
+        {
+          "name": "Aleem Ford",
+          "playerHref": "/players/f/fordal03.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -836.2,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -836.2,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -112881,
+        "vorp": -4.500000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-99",
+      "sourceId": 99,
+      "date": "2021-12-21",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Tim Frazier",
+      "participants": [
+        {
+          "name": "Tim Frazier",
+          "playerHref": "/players/f/fraziti01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -1600,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1600,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -114481,
+        "vorp": -4.800000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-100",
+      "sourceId": 100,
+      "date": "2021-12-21",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Freddie Gillespie",
+      "participants": [
+        {
+          "name": "Freddie Gillespie",
+          "playerHref": "/players/g/gillefr01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -547.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -547.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -115028.4,
+        "vorp": -4.900000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-101",
+      "sourceId": 101,
+      "date": "2022-01-06",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Admiral Schofield",
+      "participants": [
+        {
+          "name": "Admiral Schofield",
+          "playerHref": "/players/s/schofad01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -2532.6000000000004,
+            "vorp": -0.39999999999999997
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2532.6000000000004,
+        "vorp": -0.39999999999999997
+      },
+      "runningValues": {
+        "bpm": -117561,
+        "vorp": -5.300000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-102",
+      "sourceId": 102,
+      "date": "2022-02-10",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Bol Bol, PJ Dozier, and future ('2028', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Bol Bol",
+          "playerHref": "/players/b/bolbo01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "PJ Dozier",
+          "playerHref": "/players/d/doziepj01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2028', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -117561,
+        "vorp": -5.300000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-103",
+      "sourceId": 103,
+      "date": "2022-03-22",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Jeff Dowtin",
+      "participants": [
+        {
+          "name": "Jeff Dowtin",
+          "playerHref": "/players/d/dowtije01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -431.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -431.2,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -117992.2,
+        "vorp": -5.400000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-104",
+      "sourceId": 104,
+      "date": "2022-03-31",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Devin Cannady",
+      "participants": [
+        {
+          "name": "Devin Cannady",
+          "playerHref": "/players/c/cannade01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -117992.2,
+        "vorp": -5.400000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-105",
+      "sourceId": 105,
+      "date": "2022-04-10",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Devin Cannady",
+      "participants": [
+        {
+          "name": "Devin Cannady",
+          "playerHref": "/players/c/cannade01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -464,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -464,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -118456.2,
+        "vorp": -5.400000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-106",
+      "sourceId": 106,
+      "date": "2022-06-23",
+      "type": "draft",
+      "tenureTeam": "ORL",
+      "summary": "Drafted Paolo Banchero and Caleb Houstan",
+      "participants": [
+        {
+          "name": "Paolo Banchero",
+          "playerHref": "/players/b/banchpa01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Caleb Houstan",
+          "playerHref": "/players/h/houstca01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -118456.2,
+        "vorp": -5.400000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-107",
+      "sourceId": 107,
+      "date": "2022-06-23",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added future ('2028', '2nd') round pick; Sent out Max Christie",
+      "participants": [
+        {
+          "name": "Max Christie",
+          "playerHref": "/players/c/chrisma02.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 7062.800000000001,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2028', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 7062.800000000001,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": -111393.4,
+        "vorp": -4.900000000000007
+      }
+    },
+    {
+      "id": "weltmje01x-108",
+      "sourceId": 108,
+      "date": "2022-07-01",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Rookie contract for Paolo Banchero",
+      "participants": [
+        {
+          "name": "Paolo Banchero",
+          "playerHref": "/players/b/banchpa01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 9536.7,
+            "vorp": 7.1000000000000005
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 9536.7,
+        "vorp": 7.1000000000000005
+      },
+      "runningValues": {
+        "bpm": -101856.7,
+        "vorp": 2.199999999999994
+      }
+    },
+    {
+      "id": "weltmje01x-109",
+      "sourceId": 109,
+      "date": "2022-07-07",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Mo Bamba",
+      "participants": [
+        {
+          "name": "Mo Bamba",
+          "playerHref": "/players/b/bambamo01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 817.1999999999999,
+            "vorp": 0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 817.1999999999999,
+        "vorp": 0.6
+      },
+      "runningValues": {
+        "bpm": -101039.5,
+        "vorp": 2.799999999999994
+      }
+    },
+    {
+      "id": "weltmje01x-110",
+      "sourceId": 110,
+      "date": "2022-07-07",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Bol Bol",
+      "participants": [
+        {
+          "name": "Bol Bol",
+          "playerHref": "/players/b/bolbo01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -1354.5,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1354.5,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": -102394,
+        "vorp": 3.199999999999994
+      }
+    },
+    {
+      "id": "weltmje01x-111",
+      "sourceId": 111,
+      "date": "2022-07-10",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Rookie contract for Caleb Houstan",
+      "participants": [
+        {
+          "name": "Caleb Houstan",
+          "playerHref": "/players/h/houstca01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -6530.1,
+            "vorp": -0.4
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -6530.1,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -108924.1,
+        "vorp": 2.799999999999994
+      }
+    },
+    {
+      "id": "weltmje01x-112",
+      "sourceId": 112,
+      "date": "2022-07-22",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Admiral Schofield",
+      "participants": [
+        {
+          "name": "Admiral Schofield",
+          "playerHref": "/players/s/schofad01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -1307.9,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1307.9,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -110232,
+        "vorp": 2.699999999999994
+      }
+    },
+    {
+      "id": "weltmje01x-113",
+      "sourceId": 113,
+      "date": "2022-07-25",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Kevon Harris",
+      "participants": [
+        {
+          "name": "Kevon Harris",
+          "playerHref": "/players/h/harrike01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -1739.4,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1739.4,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -111971.4,
+        "vorp": 2.499999999999994
+      }
+    },
+    {
+      "id": "weltmje01x-114",
+      "sourceId": 114,
+      "date": "2022-09-12",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Joel Ayayi",
+      "participants": [
+        {
+          "name": "Joel Ayayi",
+          "playerHref": "/players/a/ayayijo01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -111971.4,
+        "vorp": 2.499999999999994
+      }
+    },
+    {
+      "id": "weltmje01x-115",
+      "sourceId": 115,
+      "date": "2022-09-24",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Aleem Ford",
+      "participants": [
+        {
+          "name": "Aleem Ford",
+          "playerHref": "/players/f/fordal03.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -111971.4,
+        "vorp": 2.499999999999994
+      }
+    },
+    {
+      "id": "weltmje01x-116",
+      "sourceId": 116,
+      "date": "2022-09-24",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Zavier Simpson",
+      "participants": [
+        {
+          "name": "Zavier Simpson",
+          "playerHref": "/players/s/simpsza01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -111971.4,
+        "vorp": 2.499999999999994
+      }
+    },
+    {
+      "id": "weltmje01x-117",
+      "sourceId": 117,
+      "date": "2022-10-08",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Alex Morales",
+      "participants": [
+        {
+          "name": "Alex Morales",
+          "playerHref": "/players/m/moralal01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -111971.4,
+        "vorp": 2.499999999999994
+      }
+    },
+    {
+      "id": "weltmje01x-118",
+      "sourceId": 118,
+      "date": "2022-10-08",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Jay Scrubb",
+      "participants": [
+        {
+          "name": "Jay Scrubb",
+          "playerHref": "/players/s/scrubja01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -111971.4,
+        "vorp": 2.499999999999994
+      }
+    },
+    {
+      "id": "weltmje01x-119",
+      "sourceId": 119,
+      "date": "2022-10-10",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Drake Jeffries",
+      "participants": [
+        {
+          "name": "Drake Jeffries",
+          "playerHref": "/players/j/jeffrdr01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -111971.4,
+        "vorp": 2.499999999999994
+      }
+    },
+    {
+      "id": "weltmje01x-120",
+      "sourceId": 120,
+      "date": "2022-10-12",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Simisola Shittu",
+      "participants": [
+        {
+          "name": "Simisola Shittu",
+          "playerHref": "/players/s/shittsi01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -111971.4,
+        "vorp": 2.499999999999994
+      }
+    },
+    {
+      "id": "weltmje01x-121",
+      "sourceId": 121,
+      "date": "2023-02-09",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Patrick Beverley; Sent out Mo Bamba",
+      "participants": [
+        {
+          "name": "Mo Bamba",
+          "playerHref": "/players/b/bambamo01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 484,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Patrick Beverley",
+          "playerHref": "/players/b/beverpa01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -2058.7,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1574.6999999999998,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -113546.09999999999,
+        "vorp": 2.699999999999994
+      }
+    },
+    {
+      "id": "weltmje01x-122",
+      "sourceId": 122,
+      "date": "2023-02-13",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Goga Bitadze",
+      "participants": [
+        {
+          "name": "Goga Bitadze",
+          "playerHref": "/players/b/bitadgo01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 2341.199999999999,
+            "vorp": 1.1999999999999997
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2341.199999999999,
+        "vorp": 1.1999999999999997
+      },
+      "runningValues": {
+        "bpm": -111204.9,
+        "vorp": 3.8999999999999937
+      }
+    },
+    {
+      "id": "weltmje01x-123",
+      "sourceId": 123,
+      "date": "2023-02-26",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Michael Carter-Williams",
+      "participants": [
+        {
+          "name": "Michael Carter-Williams",
+          "playerHref": "/players/c/cartemi01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -277.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -277.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -111482.09999999999,
+        "vorp": 3.8999999999999937
+      }
+    },
+    {
+      "id": "weltmje01x-124",
+      "sourceId": 124,
+      "date": "2023-03-24",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Jay Scrubb",
+      "participants": [
+        {
+          "name": "Jay Scrubb",
+          "playerHref": "/players/s/scrubja01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -60,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -60,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -111542.09999999999,
+        "vorp": 3.8999999999999937
+      }
+    },
+    {
+      "id": "weltmje01x-125",
+      "sourceId": 125,
+      "date": "2023-06-22",
+      "type": "draft",
+      "tenureTeam": "ORL",
+      "summary": "Drafted Anthony Black, Jett Howard, and Andre Jackson Jr.",
+      "participants": [
+        {
+          "name": "Anthony Black",
+          "playerHref": "/players/b/blackan01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jett Howard",
+          "playerHref": "/players/h/howarje01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Andre Jackson Jr.",
+          "playerHref": "/players/j/jacksan01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -111542.09999999999,
+        "vorp": 3.8999999999999937
+      }
+    },
+    {
+      "id": "weltmje01x-126",
+      "sourceId": 126,
+      "date": "2023-06-22",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added future ('2030', '2nd') round pick; Sent out Andre Jackson",
+      "participants": [
+        {
+          "name": "Andre Jackson",
+          "playerHref": "/players/j/jacksan01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 8288,
+            "vorp": 1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2030', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 8288,
+        "vorp": 1
+      },
+      "runningValues": {
+        "bpm": -103254.09999999999,
+        "vorp": 4.899999999999993
+      }
+    },
+    {
+      "id": "weltmje01x-127",
+      "sourceId": 127,
+      "date": "2023-07-01",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Rookie contract for Jett Howard",
+      "participants": [
+        {
+          "name": "Jett Howard",
+          "playerHref": "/players/h/howarje01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -5080.2,
+            "vorp": -0.6
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -5080.2,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": -108334.29999999999,
+        "vorp": 4.299999999999994
+      }
+    },
+    {
+      "id": "weltmje01x-128",
+      "sourceId": 128,
+      "date": "2023-07-01",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Rookie contract for Anthony Black",
+      "participants": [
+        {
+          "name": "Anthony Black",
+          "playerHref": "/players/b/blackan01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -7301.9,
+            "vorp": 0.8
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -7301.9,
+        "vorp": 0.8
+      },
+      "runningValues": {
+        "bpm": -115636.19999999998,
+        "vorp": 5.099999999999993
+      }
+    },
+    {
+      "id": "weltmje01x-129",
+      "sourceId": 129,
+      "date": "2023-07-07",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Joe Ingles",
+      "participants": [
+        {
+          "name": "Joe Ingles",
+          "playerHref": "/players/i/inglejo01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -584.5,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -584.5,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": -116220.69999999998,
+        "vorp": 5.599999999999993
+      }
+    },
+    {
+      "id": "weltmje01x-130",
+      "sourceId": 130,
+      "date": "2023-07-11",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Moritz Wagner",
+      "participants": [
+        {
+          "name": "Moritz Wagner",
+          "playerHref": "/players/w/wagnemo01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 2688.5,
+            "vorp": 1.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2688.5,
+        "vorp": 1.4
+      },
+      "runningValues": {
+        "bpm": -113532.19999999998,
+        "vorp": 6.999999999999993
+      }
+    },
+    {
+      "id": "weltmje01x-131",
+      "sourceId": 131,
+      "date": "2023-07-17",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Bennett Stirtz and future ('2026', '1st') round pick; Sent out Christian Anderson Jr., Jaron Pierre Jr., future ('2026', '1st') round pick, future ('2026', '2nd') round pick, and future ('2028', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Christian Anderson Jr.",
+          "playerHref": "/players/a/anderch02.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jaron Pierre Jr.",
+          "playerHref": "/players/p/pierrja01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bennett Stirtz",
+          "playerHref": "/players/s/stirtbe01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '1st') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2028', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -113532.19999999998,
+        "vorp": 6.999999999999993
+      }
+    },
+    {
+      "id": "weltmje01x-132",
+      "sourceId": 132,
+      "date": "2023-07-20",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Admiral Schofield",
+      "participants": [
+        {
+          "name": "Admiral Schofield",
+          "playerHref": "/players/s/schofad01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -411.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -411.6,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -113943.79999999999,
+        "vorp": 6.899999999999993
+      }
+    },
+    {
+      "id": "weltmje01x-133",
+      "sourceId": 133,
+      "date": "2023-10-21",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Trevelin Queen",
+      "participants": [
+        {
+          "name": "Trevelin Queen",
+          "playerHref": "/players/q/queentr01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -544.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -544.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -114488.29999999999,
+        "vorp": 6.899999999999993
+      }
+    },
+    {
+      "id": "weltmje01x-134",
+      "sourceId": 134,
+      "date": "2024-06-26",
+      "type": "draft",
+      "tenureTeam": "ORL",
+      "summary": "Drafted Tristan da Silva and Antonio Reeves",
+      "participants": [
+        {
+          "name": "Tristan da Silva",
+          "playerHref": "/players/d/dasiltr01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Antonio Reeves",
+          "playerHref": "/players/r/reevean01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -114488.29999999999,
+        "vorp": 6.899999999999993
+      }
+    },
+    {
+      "id": "weltmje01x-135",
+      "sourceId": 135,
+      "date": "2024-06-26",
+      "type": "draft",
+      "tenureTeam": "ORL",
+      "summary": "Drafted Tristan da Silva and Antonio Reeves",
+      "participants": [
+        {
+          "name": "Tristan da Silva",
+          "playerHref": "/players/d/dasiltr01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        },
+        {
+          "name": "Antonio Reeves",
+          "playerHref": "/players/r/reevean01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -114488.29999999999,
+        "vorp": 6.899999999999993
+      }
+    },
+    {
+      "id": "weltmje01x-137",
+      "sourceId": 137,
+      "date": "2024-06-27",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added future ('2030', '2nd') round pick and future ('2031', '2nd') round pick; Sent out Antonio Reeves",
+      "participants": [
+        {
+          "name": "Antonio Reeves",
+          "playerHref": "/players/r/reevean01.html",
+          "direction": "out",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 2112,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2030', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2031', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2112,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -112376.29999999999,
+        "vorp": 7.099999999999993
+      }
+    },
+    {
+      "id": "weltmje01x-138",
+      "sourceId": 138,
+      "date": "2024-07-05",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Trevelin Queen",
+      "participants": [
+        {
+          "name": "Trevelin Queen",
+          "playerHref": "/players/q/queentr01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -129,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -129,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -112505.29999999999,
+        "vorp": 7.299999999999994
+      }
+    },
+    {
+      "id": "weltmje01x-139",
+      "sourceId": 139,
+      "date": "2024-07-06",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Goga Bitadze",
+      "participants": [
+        {
+          "name": "Goga Bitadze",
+          "playerHref": "/players/b/bitadgo01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 6418.1,
+            "vorp": 2.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 6418.1,
+        "vorp": 2.9
+      },
+      "runningValues": {
+        "bpm": -106087.19999999998,
+        "vorp": 10.199999999999994
+      }
+    },
+    {
+      "id": "weltmje01x-140",
+      "sourceId": 140,
+      "date": "2024-07-06",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Kentavious Caldwell-Pope",
+      "participants": [
+        {
+          "name": "Kentavious Caldwell-Pope",
+          "playerHref": "/players/c/caldwke01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -3190.6,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3190.6,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": -109277.79999999999,
+        "vorp": 10.499999999999995
+      }
+    },
+    {
+      "id": "weltmje01x-141",
+      "sourceId": 141,
+      "date": "2024-07-06",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Moe Wagner",
+      "participants": [
+        {
+          "name": "Moe Wagner",
+          "playerHref": "/players/w/wagnemo01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 2256,
+            "vorp": 0.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2256,
+        "vorp": 0.9
+      },
+      "runningValues": {
+        "bpm": -107021.79999999999,
+        "vorp": 11.399999999999995
+      }
+    },
+    {
+      "id": "weltmje01x-142",
+      "sourceId": 142,
+      "date": "2024-07-06",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Gary Harris",
+      "participants": [
+        {
+          "name": "Gary Harris",
+          "playerHref": "/players/h/harriga01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -1919.7,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1919.7,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -108941.49999999999,
+        "vorp": 11.299999999999995
+      }
+    },
+    {
+      "id": "weltmje01x-143",
+      "sourceId": 143,
+      "date": "2024-07-06",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Rookie contract for Tristan Da Silva",
+      "participants": [
+        {
+          "name": "Tristan Da Silva",
+          "playerHref": "/players/d/dasiltr01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -5475.900000000001,
+            "vorp": 0.5
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -5475.900000000001,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": -114417.39999999998,
+        "vorp": 11.799999999999995
+      }
+    },
+    {
+      "id": "weltmje01x-144",
+      "sourceId": 144,
+      "date": "2024-07-19",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Cory Joseph",
+      "participants": [
+        {
+          "name": "Cory Joseph",
+          "playerHref": "/players/j/josepco01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -489.6,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -489.6,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -114906.99999999999,
+        "vorp": 11.999999999999995
+      }
+    },
+    {
+      "id": "weltmje01x-145",
+      "sourceId": 145,
+      "date": "2024-10-19",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Mac McClung",
+      "participants": [
+        {
+          "name": "Mac McClung",
+          "playerHref": "/players/m/mccluma01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -110,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -110,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -115016.99999999999,
+        "vorp": 11.999999999999995
+      }
+    },
+    {
+      "id": "weltmje01x-146",
+      "sourceId": 146,
+      "date": "2025-02-07",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Ethan Thompson",
+      "participants": [
+        {
+          "name": "Ethan Thompson",
+          "playerHref": "/players/t/thompet01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -115016.99999999999,
+        "vorp": 11.999999999999995
+      }
+    },
+    {
+      "id": "weltmje01x-147",
+      "sourceId": 147,
+      "date": "2025-06-15",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Desmond Bane; Sent out Cole Anthony, Kentavious Caldwell-Pope, Yang Hansen, Bennett Stirtz, future ('2025', '1st') round pick, future ('2026', '1st') round pick, future ('2028', '1st') round pick, future ('2029', '1st') round pick, and future ('2030', '1st') round pick",
+      "participants": [
+        {
+          "name": "Cole Anthony",
+          "playerHref": "/players/a/anthoco01.html",
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kentavious Caldwell-Pope",
+          "playerHref": "/players/c/caldwke01.html",
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 2720,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Yang Hansen",
+          "playerHref": "/players/y/yangha01.html",
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bennett Stirtz",
+          "playerHref": "/players/s/stirtbe01.html",
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Desmond Bane",
+          "playerHref": "/players/b/banede01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 3564.3999999999996,
+            "vorp": 2.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2028', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2029', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2030', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 6284.4,
+        "vorp": 2.5
+      },
+      "runningValues": {
+        "bpm": -108732.59999999999,
+        "vorp": 14.499999999999995
+      }
+    },
+    {
+      "id": "weltmje01x-148",
+      "sourceId": 148,
+      "date": "2025-06-25",
+      "type": "draft",
+      "tenureTeam": "ORL",
+      "summary": "Drafted Jase Richardson, Amari Williams, and Max Shulga",
+      "participants": [
+        {
+          "name": "Jase Richardson",
+          "playerHref": "/players/r/richaja02.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Amari Williams",
+          "playerHref": "/players/w/william01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Max Shulga",
+          "playerHref": "/players/s/shulgma01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -108732.59999999999,
+        "vorp": 14.499999999999995
+      }
+    },
+    {
+      "id": "weltmje01x-149",
+      "sourceId": 149,
+      "date": "2025-06-26",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Noah Penda; Sent out Max Shulga, Amari Williams, Dillon Mitchell, future ('2026', '2nd') round pick, and future ('2027', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Max Shulga",
+          "playerHref": "/players/s/shulgma01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 414,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Amari Williams",
+          "playerHref": "/players/w/william01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 306.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dillon Mitchell",
+          "playerHref": "/players/m/mitchdi01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 14,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Noah Penda",
+          "playerHref": "/players/p/pendano01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 734.6,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -107997.99999999999,
+        "vorp": 14.599999999999994
+      }
+    },
+    {
+      "id": "weltmje01x-150",
+      "sourceId": 150,
+      "date": "2025-07-03",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Rookie contract for Jase Richardson",
+      "participants": [
+        {
+          "name": "Jase Richardson",
+          "playerHref": "/players/r/richaja02.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -2590.8,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -2590.8,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -110588.79999999999,
+        "vorp": 14.299999999999994
+      }
+    },
+    {
+      "id": "weltmje01x-151",
+      "sourceId": 151,
+      "date": "2025-07-04",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Noah Penda",
+      "participants": [
+        {
+          "name": "Noah Penda",
+          "playerHref": "/players/p/pendano01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -1135.5,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1135.5,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -111724.29999999999,
+        "vorp": 14.399999999999993
+      }
+    },
+    {
+      "id": "weltmje01x-152",
+      "sourceId": 152,
+      "date": "2025-07-06",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Tyus Jones",
+      "participants": [
+        {
+          "name": "Tyus Jones",
+          "playerHref": "/players/j/jonesty01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -1281.8,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1281.8,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -113006.09999999999,
+        "vorp": 14.499999999999993
+      }
+    },
+    {
+      "id": "weltmje01x-153",
+      "sourceId": 153,
+      "date": "2025-07-07",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Moe Wagner",
+      "participants": [
+        {
+          "name": "Moe Wagner",
+          "playerHref": "/players/w/wagnemo01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -939.4000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -939.4000000000001,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -113945.49999999999,
+        "vorp": 14.499999999999993
+      }
+    },
+    {
+      "id": "weltmje01x-154",
+      "sourceId": 154,
+      "date": "2025-07-21",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Orlando Robinson",
+      "participants": [
+        {
+          "name": "Orlando Robinson",
+          "playerHref": "/players/r/robinor01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 35,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 35,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -113910.49999999999,
+        "vorp": 14.499999999999993
+      }
+    },
+    {
+      "id": "weltmje01x-155",
+      "sourceId": 155,
+      "date": "2025-07-25",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Jamal Cain",
+      "participants": [
+        {
+          "name": "Jamal Cain",
+          "playerHref": "/players/c/cainja01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -1970.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1970.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -115880.89999999998,
+        "vorp": 14.399999999999993
+      }
+    },
+    {
+      "id": "weltmje01x-156",
+      "sourceId": 156,
+      "date": "2025-10-18",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Colin Castleton",
+      "participants": [
+        {
+          "name": "Colin Castleton",
+          "playerHref": "/players/c/castlco01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -161.70000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -161.70000000000002,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -116042.59999999998,
+        "vorp": 14.399999999999993
+      }
+    },
+    {
+      "id": "weltmje01x-157",
+      "sourceId": 157,
+      "date": "2026-02-04",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Sent out Tyus Jones, future ('2027', '2nd') round pick, and future ('2028', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Tyus Jones",
+          "playerHref": "/players/j/jonesty01.html",
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2028', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -116042.59999999998,
+        "vorp": 14.399999999999993
+      }
+    },
+    {
+      "id": "weltmje01x-158",
+      "sourceId": 158,
+      "date": "2026-02-06",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Jevon Carter",
+      "participants": [
+        {
+          "name": "Jevon Carter",
+          "playerHref": "/players/c/carteje01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -674.3000000000001,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -674.3000000000001,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -116716.89999999998,
+        "vorp": 14.499999999999993
+      }
+    },
+    {
+      "id": "weltmje01x-159",
+      "sourceId": 159,
+      "date": "2026-02-17",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Alex Morales",
+      "participants": [
+        {
+          "name": "Alex Morales",
+          "playerHref": "/players/m/moralal01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -894,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -894,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -117610.89999999998,
+        "vorp": 14.299999999999994
+      }
+    },
+    {
+      "id": "weltmje01x-160",
+      "sourceId": 160,
+      "date": "2026-06-24",
+      "type": "draft",
+      "tenureTeam": "ORL",
+      "summary": "Drafted Felix Okpara",
+      "participants": [
+        {
+          "name": "Felix Okpara",
+          "playerHref": "/players/o/okparfe01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -117610.89999999998,
+        "vorp": 14.299999999999994
+      }
+    },
+    {
+      "id": "weltmje01x-161",
+      "sourceId": 161,
+      "date": "2026-06-24",
+      "type": "trade",
+      "tenureTeam": "ORL",
+      "summary": "Added Izaiyah Nelson; Sent out Felix Okpara",
+      "participants": [
+        {
+          "name": "Felix Okpara",
+          "playerHref": "/players/o/okparfe01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 35,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Izaiyah Nelson",
+          "playerHref": "/players/n/nelsoiz01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 35,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -117575.89999999998,
+        "vorp": 14.299999999999994
+      }
+    },
+    {
+      "id": "weltmje01x-162",
+      "sourceId": 162,
+      "date": "2026-07-01",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Izaiyah Nelson",
+      "participants": [
+        {
+          "name": "Izaiyah Nelson",
+          "playerHref": "/players/n/nelsoiz01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -117575.89999999998,
+        "vorp": 14.299999999999994
+      }
+    },
+    {
+      "id": "weltmje01x-163",
+      "sourceId": 163,
+      "date": "2026-07-01",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Colin Castleton",
+      "participants": [
+        {
+          "name": "Colin Castleton",
+          "playerHref": "/players/c/castlco01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 119.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 119.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -117456.29999999997,
+        "vorp": 14.299999999999994
+      }
+    },
+    {
+      "id": "weltmje01x-164",
+      "sourceId": 164,
+      "date": "2026-07-01",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Nikola Vucevic",
+      "participants": [
+        {
+          "name": "Nikola Vucevic",
+          "playerHref": "/players/v/vucevni01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -204,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -204,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -117660.29999999997,
+        "vorp": 14.299999999999994
+      }
+    },
+    {
+      "id": "weltmje01x-165",
+      "sourceId": 165,
+      "date": "2026-07-01",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Jevon Carter",
+      "participants": [
+        {
+          "name": "Jevon Carter",
+          "playerHref": "/players/c/carteje01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -327.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -327.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -117987.79999999997,
+        "vorp": 14.299999999999994
+      }
+    },
+    {
+      "id": "weltmje01x-166",
+      "sourceId": 166,
+      "date": "2026-07-01",
+      "type": "signing",
+      "tenureTeam": "ORL",
+      "summary": "Signed Jonathan Isaac",
+      "participants": [
+        {
+          "name": "Jonathan Isaac",
+          "playerHref": "/players/i/isaacjo01.html",
+          "direction": "in",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -117987.79999999997,
+        "vorp": 14.299999999999994
+      }
+    }
+  ]
+}

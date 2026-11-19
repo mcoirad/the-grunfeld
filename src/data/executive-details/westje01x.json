@@ -1,0 +1,6765 @@
+{
+  "slug": "westje01x",
+  "sourceRowCount": 311,
+  "tenures": [
+    {
+      "teamCode": "LAL",
+      "startDate": "1982-06-29",
+      "endDate": "2002-06-26"
+    },
+    {
+      "teamCode": "MEM",
+      "startDate": "2002-06-26",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "westje01x-0",
+      "sourceId": 0,
+      "date": "1982-06-29",
+      "type": "draft",
+      "tenureTeam": "LAL",
+      "summary": "Drafted James Worthy, Hutch Jones, Mike Hackett, Craig McCormick, Howard McNeill, Lynden Rose, Maurice Williams, Micah Blunt, and Tim Byrne",
+      "participants": [
+        {
+          "name": "James Worthy",
+          "playerHref": "/players/w/worthja01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 56174.8,
+            "vorp": 29.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Hutch Jones",
+          "playerHref": "/players/j/joneshu01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Hackett",
+          "playerHref": "/players/h/hackemi01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Craig McCormick",
+          "playerHref": "/players/m/mccorcr01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Howard McNeill",
+          "playerHref": "/players/m/mcneiho01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lynden Rose",
+          "playerHref": "/players/r/rosely01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Maurice Williams",
+          "playerHref": "/players/w/willima06.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Micah Blunt",
+          "playerHref": "/players/b/bluntmi01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tim Byrne",
+          "playerHref": "/players/b/byrneti01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 56174.8,
+        "vorp": 29.1
+      },
+      "runningValues": {
+        "bpm": 56174.8,
+        "vorp": 29.1
+      }
+    },
+    {
+      "id": "westje01x-1",
+      "sourceId": 1,
+      "date": "1982-09-20",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Joe Cooper",
+      "participants": [
+        {
+          "name": "Joe Cooper",
+          "playerHref": "/players/c/coopejo01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -60.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -60.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 56114.3,
+        "vorp": 29.1
+      }
+    },
+    {
+      "id": "westje01x-2",
+      "sourceId": 2,
+      "date": "1983-02-15",
+      "type": "trade",
+      "tenureTeam": "LAL",
+      "summary": "Added Dwight Jones; Sent out Adrian Branch",
+      "participants": [
+        {
+          "name": "Adrian Branch",
+          "playerHref": "/players/b/brancad01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dwight Jones",
+          "playerHref": "/players/j/jonesdw01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -2209.5,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2209.5,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": 53904.8,
+        "vorp": 28.8
+      }
+    },
+    {
+      "id": "westje01x-3",
+      "sourceId": 3,
+      "date": "1983-04-06",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Billy Ray Bates",
+      "participants": [
+        {
+          "name": "Billy Ray Bates",
+          "playerHref": "/players/b/batesbi01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -183.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -183.6,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 53721.200000000004,
+        "vorp": 28.7
+      }
+    },
+    {
+      "id": "westje01x-4",
+      "sourceId": 4,
+      "date": "1983-04-16",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Steve Mix",
+      "participants": [
+        {
+          "name": "Steve Mix",
+          "playerHref": "/players/m/mixst01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 53721.200000000004,
+        "vorp": 28.7
+      }
+    },
+    {
+      "id": "westje01x-5",
+      "sourceId": 5,
+      "date": "1983-06-28",
+      "type": "draft",
+      "tenureTeam": "LAL",
+      "summary": "Drafted Orlando Phillips, Terry Lewis, Danny Dixon, Mark Steele, and Ricky Mixon",
+      "participants": [
+        {
+          "name": "Orlando Phillips",
+          "playerHref": "/players/p/phillor01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Terry Lewis",
+          "playerHref": "/players/l/lewiste01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Danny Dixon",
+          "playerHref": "/players/d/dixonda02.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mark Steele",
+          "playerHref": "/players/s/steelma01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ricky Mixon",
+          "playerHref": "/players/m/mixonri01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 53721.200000000004,
+        "vorp": 28.7
+      }
+    },
+    {
+      "id": "westje01x-6",
+      "sourceId": 6,
+      "date": "1983-08-24",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Larry Spriggs",
+      "participants": [
+        {
+          "name": "Larry Spriggs",
+          "playerHref": "/players/s/sprigla01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -5086,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5086,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 48635.200000000004,
+        "vorp": 28.5
+      }
+    },
+    {
+      "id": "westje01x-7",
+      "sourceId": 7,
+      "date": "1983-08-25",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Calvin Garrett",
+      "participants": [
+        {
+          "name": "Calvin Garrett",
+          "playerHref": "/players/g/garreca01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -1577.3999999999999,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1577.3999999999999,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 47057.8,
+        "vorp": 28.3
+      }
+    },
+    {
+      "id": "westje01x-8",
+      "sourceId": 8,
+      "date": "1983-09-27",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Dale Wilkinson",
+      "participants": [
+        {
+          "name": "Dale Wilkinson",
+          "playerHref": "/players/w/wilkida01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 47057.8,
+        "vorp": 28.3
+      }
+    },
+    {
+      "id": "westje01x-9",
+      "sourceId": 9,
+      "date": "1983-10-10",
+      "type": "trade",
+      "tenureTeam": "LAL",
+      "summary": "Added Swen Nater and Byron Scott; Sent out Eddie Jordan, Norm Nixon, Jeff Hornacek, and Bruce Dalrymple",
+      "participants": [
+        {
+          "name": "Eddie Jordan",
+          "playerHref": "/players/j/jordaed01.html",
+          "direction": "out",
+          "teamCode": "SDC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Norm Nixon",
+          "playerHref": "/players/n/nixonno01.html",
+          "direction": "out",
+          "teamCode": "SDC",
+          "values": {
+            "bpm": -2747.7000000000003,
+            "vorp": -2.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jeff Hornacek",
+          "playerHref": "/players/h/hornaje01.html",
+          "direction": "out",
+          "teamCode": "SDC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bruce Dalrymple",
+          "playerHref": "/players/d/dalrybr01.html",
+          "direction": "out",
+          "teamCode": "SDC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Swen Nater",
+          "playerHref": "/players/n/natersw01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -3979.2,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Byron Scott",
+          "playerHref": "/players/s/scottby01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 20360,
+            "vorp": 17.200000000000003
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 13633.1,
+        "vorp": 14.400000000000002
+      },
+      "runningValues": {
+        "bpm": 60690.90000000001,
+        "vorp": 42.7
+      }
+    },
+    {
+      "id": "westje01x-10",
+      "sourceId": 10,
+      "date": "1984-04-11",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Eddie Jordan",
+      "participants": [
+        {
+          "name": "Eddie Jordan",
+          "playerHref": "/players/j/jordaed01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -124.19999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -124.19999999999999,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 60566.70000000001,
+        "vorp": 42.7
+      }
+    },
+    {
+      "id": "westje01x-11",
+      "sourceId": 11,
+      "date": "1984-06-19",
+      "type": "draft",
+      "tenureTeam": "LAL",
+      "summary": "Drafted Earl Jones, George Singleton, John Revelli, Lance Berwald, Keith Jones, and Richard Haenisch",
+      "participants": [
+        {
+          "name": "Earl Jones",
+          "playerHref": "/players/j/jonesea01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -126.70000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "George Singleton",
+          "playerHref": "/players/s/singlge01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Revelli",
+          "playerHref": "/players/r/reveljo01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lance Berwald",
+          "playerHref": "/players/b/berwala01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Keith Jones",
+          "playerHref": "/players/j/joneske04.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Richard Haenisch",
+          "playerHref": "/players/h/haeniri01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -126.70000000000002,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 60440.000000000015,
+        "vorp": 42.7
+      }
+    },
+    {
+      "id": "westje01x-12",
+      "sourceId": 12,
+      "date": "1984-09-15",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Chuck Nevitt",
+      "participants": [
+        {
+          "name": "Chuck Nevitt",
+          "playerHref": "/players/n/nevitch01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 60440.000000000015,
+        "vorp": 42.7
+      }
+    },
+    {
+      "id": "westje01x-13",
+      "sourceId": 13,
+      "date": "1984-11-28",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Ronnie Lester",
+      "participants": [
+        {
+          "name": "Ronnie Lester",
+          "playerHref": "/players/l/lestero01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -2266,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2266,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": 58174.000000000015,
+        "vorp": 42.400000000000006
+      }
+    },
+    {
+      "id": "westje01x-14",
+      "sourceId": 14,
+      "date": "1985-03-05",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Chuck Nevitt",
+      "participants": [
+        {
+          "name": "Chuck Nevitt",
+          "playerHref": "/players/n/nevitch01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 58174.000000000015,
+        "vorp": 42.400000000000006
+      }
+    },
+    {
+      "id": "westje01x-15",
+      "sourceId": 15,
+      "date": "1985-03-25",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Chuck Nevitt",
+      "participants": [
+        {
+          "name": "Chuck Nevitt",
+          "playerHref": "/players/n/nevitch01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -690.3,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -690.3,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 57483.70000000001,
+        "vorp": 42.300000000000004
+      }
+    },
+    {
+      "id": "westje01x-16",
+      "sourceId": 16,
+      "date": "1985-06-18",
+      "type": "draft",
+      "tenureTeam": "LAL",
+      "summary": "Drafted A.C. Green, Dexter Shouse, Timo Saarelainen, Tony Neal, and Keith Cieplicki",
+      "participants": [
+        {
+          "name": "A.C. Green",
+          "playerHref": "/players/g/greenac01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 6958.900000000001,
+            "vorp": 11.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dexter Shouse",
+          "playerHref": "/players/s/shousde01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Timo Saarelainen",
+          "playerHref": "/players/s/saareti01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tony Neal",
+          "playerHref": "/players/n/nealto01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Keith Cieplicki",
+          "playerHref": "/players/c/cleplke01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 6958.900000000001,
+        "vorp": 11.7
+      },
+      "runningValues": {
+        "bpm": 64442.60000000001,
+        "vorp": 54
+      }
+    },
+    {
+      "id": "westje01x-17",
+      "sourceId": 17,
+      "date": "1985-08-19",
+      "type": "trade",
+      "tenureTeam": "LAL",
+      "summary": "Added Maurice Lucas; Sent out Steve Kerr and Greg Grant",
+      "participants": [
+        {
+          "name": "Steve Kerr",
+          "playerHref": "/players/k/kerrst01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -423.90000000000003,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Greg Grant",
+          "playerHref": "/players/g/grantgr01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 2101.8,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Maurice Lucas",
+          "playerHref": "/players/l/lucasma01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -4024.9999999999995,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2347.0999999999995,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 62095.500000000015,
+        "vorp": 53.9
+      }
+    },
+    {
+      "id": "westje01x-18",
+      "sourceId": 18,
+      "date": "1985-09-10",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Chuck Nevitt",
+      "participants": [
+        {
+          "name": "Chuck Nevitt",
+          "playerHref": "/players/n/nevitch01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -285,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -285,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 61810.500000000015,
+        "vorp": 53.8
+      }
+    },
+    {
+      "id": "westje01x-19",
+      "sourceId": 19,
+      "date": "1985-09-18",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Rookie contract for Earl Jones",
+      "participants": [
+        {
+          "name": "Earl Jones",
+          "playerHref": "/players/j/jonesea01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 61810.500000000015,
+        "vorp": 53.8
+      }
+    },
+    {
+      "id": "westje01x-20",
+      "sourceId": 20,
+      "date": "1985-10-09",
+      "type": "trade",
+      "tenureTeam": "LAL",
+      "summary": "Sent out Earl Jones",
+      "participants": [
+        {
+          "name": "Earl Jones",
+          "playerHref": "/players/j/jonesea01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 61810.500000000015,
+        "vorp": 53.8
+      }
+    },
+    {
+      "id": "westje01x-21",
+      "sourceId": 21,
+      "date": "1986-03-10",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Jerome Henderson",
+      "participants": [
+        {
+          "name": "Jerome Henderson",
+          "playerHref": "/players/h/hendeje01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 10.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 10.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 61821.30000000002,
+        "vorp": 53.8
+      }
+    },
+    {
+      "id": "westje01x-22",
+      "sourceId": 22,
+      "date": "1986-03-19",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Pétur Guðmundsson",
+      "participants": [
+        {
+          "name": "Pétur Guðmundsson",
+          "playerHref": "/players/g/gudmupe01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -435.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -435.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 61386.10000000002,
+        "vorp": 53.8
+      }
+    },
+    {
+      "id": "westje01x-23",
+      "sourceId": 23,
+      "date": "1986-06-17",
+      "type": "draft",
+      "tenureTeam": "LAL",
+      "summary": "Drafted Ken Barlow, Andre Turner, Dale Blaney, Roger Harden, Walter Downing, and Mark Coleman",
+      "participants": [
+        {
+          "name": "Ken Barlow",
+          "playerHref": "/players/b/barloke01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Andre Turner",
+          "playerHref": "/players/t/turnean01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dale Blaney",
+          "playerHref": "/players/b/blaneda01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Roger Harden",
+          "playerHref": "/players/h/hardero01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Walter Downing",
+          "playerHref": "/players/d/downiwa01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mark Coleman",
+          "playerHref": "/players/c/colemma03.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 61386.10000000002,
+        "vorp": 53.8
+      }
+    },
+    {
+      "id": "westje01x-24",
+      "sourceId": 24,
+      "date": "1986-06-17",
+      "type": "trade",
+      "tenureTeam": "LAL",
+      "summary": "Added Ron Kellogg and Billy Thompson; Sent out Ken Barlow and Mike McGee",
+      "participants": [
+        {
+          "name": "Ken Barlow",
+          "playerHref": "/players/b/barloke01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike McGee",
+          "playerHref": "/players/m/mcgeemi01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -2038,
+            "vorp": -1.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ron Kellogg",
+          "playerHref": "/players/k/kelloro01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Billy Thompson",
+          "playerHref": "/players/t/thompbi01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -2673,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4711,
+        "vorp": -1.5
+      },
+      "runningValues": {
+        "bpm": 56675.10000000002,
+        "vorp": 52.3
+      }
+    },
+    {
+      "id": "westje01x-25",
+      "sourceId": 25,
+      "date": "1986-09-18",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Adrian Branch",
+      "participants": [
+        {
+          "name": "Adrian Branch",
+          "playerHref": "/players/b/brancad01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -87.60000000000001,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -87.60000000000001,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 56587.50000000002,
+        "vorp": 52.4
+      }
+    },
+    {
+      "id": "westje01x-26",
+      "sourceId": 26,
+      "date": "1986-09-24",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Michael Cooper",
+      "participants": [
+        {
+          "name": "Michael Cooper",
+          "playerHref": "/players/c/coopemi01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 6813.000000000001,
+            "vorp": 5.699999999999999
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 6813.000000000001,
+        "vorp": 5.699999999999999
+      },
+      "runningValues": {
+        "bpm": 63400.50000000002,
+        "vorp": 58.099999999999994
+      }
+    },
+    {
+      "id": "westje01x-27",
+      "sourceId": 27,
+      "date": "1986-10-02",
+      "type": "trade",
+      "tenureTeam": "LAL",
+      "summary": "Sent out Ronnie Lester",
+      "participants": [
+        {
+          "name": "Ronnie Lester",
+          "playerHref": "/players/l/lestero01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 63400.50000000002,
+        "vorp": 58.099999999999994
+      }
+    },
+    {
+      "id": "westje01x-28",
+      "sourceId": 28,
+      "date": "1986-10-08",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Frank Brickowski",
+      "participants": [
+        {
+          "name": "Frank Brickowski",
+          "playerHref": "/players/b/brickfr01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -1737.1999999999998,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1737.1999999999998,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 61663.300000000025,
+        "vorp": 57.89999999999999
+      }
+    },
+    {
+      "id": "westje01x-29",
+      "sourceId": 29,
+      "date": "1986-10-13",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Wes Matthews",
+      "participants": [
+        {
+          "name": "Wes Matthews",
+          "playerHref": "/players/m/matthwe01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -3361,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3361,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 58302.300000000025,
+        "vorp": 57.69999999999999
+      }
+    },
+    {
+      "id": "westje01x-30",
+      "sourceId": 30,
+      "date": "1986-11-07",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Mike Smrek",
+      "participants": [
+        {
+          "name": "Mike Smrek",
+          "playerHref": "/players/s/smrekmi01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -1700.8999999999996,
+            "vorp": -0.29999999999999993
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1700.8999999999996,
+        "vorp": -0.29999999999999993
+      },
+      "runningValues": {
+        "bpm": 56601.40000000002,
+        "vorp": 57.39999999999999
+      }
+    },
+    {
+      "id": "westje01x-31",
+      "sourceId": 31,
+      "date": "1987-02-13",
+      "type": "trade",
+      "tenureTeam": "LAL",
+      "summary": "Added Mychal Thompson; Sent out Frank Brickowski, Pétur Guðmundsson, Greg Anderson, and Sean Higgins",
+      "participants": [
+        {
+          "name": "Frank Brickowski",
+          "playerHref": "/players/b/brickfr01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 2407.8,
+            "vorp": -2.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Pétur Guðmundsson",
+          "playerHref": "/players/g/gudmupe01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 3501.9,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Greg Anderson",
+          "playerHref": "/players/a/andergr01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 17003.399999999998,
+            "vorp": 1.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sean Higgins",
+          "playerHref": "/players/h/higgise01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 3264.4,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mychal Thompson",
+          "playerHref": "/players/t/thompmy01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -15465.499999999998,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 10712.000000000002,
+        "vorp": -0.30000000000000016
+      },
+      "runningValues": {
+        "bpm": 67313.40000000002,
+        "vorp": 57.09999999999999
+      }
+    },
+    {
+      "id": "westje01x-32",
+      "sourceId": 32,
+      "date": "1987-06-22",
+      "type": "draft",
+      "tenureTeam": "LAL",
+      "summary": "Drafted Willie Glass, Ralph Tally, Kenny Travis, Frank Ford, and Ron Vanderschaaf",
+      "participants": [
+        {
+          "name": "Willie Glass",
+          "playerHref": "/players/g/glasswi01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ralph Tally",
+          "playerHref": "/players/t/tallyra01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kenny Travis",
+          "playerHref": "/players/t/travike01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Frank Ford",
+          "playerHref": "/players/f/fordfr01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ron Vanderschaaf",
+          "playerHref": "/players/v/vandero01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 67313.40000000002,
+        "vorp": 57.09999999999999
+      }
+    },
+    {
+      "id": "westje01x-33",
+      "sourceId": 33,
+      "date": "1987-10-01",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Mike Smrek",
+      "participants": [
+        {
+          "name": "Mike Smrek",
+          "playerHref": "/players/s/smrekmi01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -2526,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2526,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": 64787.40000000002,
+        "vorp": 56.69999999999999
+      }
+    },
+    {
+      "id": "westje01x-34",
+      "sourceId": 34,
+      "date": "1987-10-07",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Jeff Lamp",
+      "participants": [
+        {
+          "name": "Jeff Lamp",
+          "playerHref": "/players/l/lampje01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -1206,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1206,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 63581.40000000002,
+        "vorp": 56.499999999999986
+      }
+    },
+    {
+      "id": "westje01x-35",
+      "sourceId": 35,
+      "date": "1987-10-07",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Milt Wagner",
+      "participants": [
+        {
+          "name": "Milt Wagner",
+          "playerHref": "/players/w/wagnemi01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -1710,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1710,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 61871.40000000002,
+        "vorp": 56.29999999999998
+      }
+    },
+    {
+      "id": "westje01x-36",
+      "sourceId": 36,
+      "date": "1987-11-05",
+      "type": "trade",
+      "tenureTeam": "LAL",
+      "summary": "Sent out Adrian Branch",
+      "participants": [
+        {
+          "name": "Adrian Branch",
+          "playerHref": "/players/b/brancad01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 1324.3999999999999,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1324.3999999999999,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 63195.800000000025,
+        "vorp": 56.499999999999986
+      }
+    },
+    {
+      "id": "westje01x-37",
+      "sourceId": 37,
+      "date": "1987-12-12",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Ray Tolbert",
+      "participants": [
+        {
+          "name": "Ray Tolbert",
+          "playerHref": "/players/t/tolbera01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -246,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -246,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 62949.800000000025,
+        "vorp": 56.499999999999986
+      }
+    },
+    {
+      "id": "westje01x-38",
+      "sourceId": 38,
+      "date": "1988-03-30",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Tony Campbell",
+      "participants": [
+        {
+          "name": "Tony Campbell",
+          "playerHref": "/players/c/campbto01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -3680.2000000000003,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3680.2000000000003,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": 59269.60000000003,
+        "vorp": 56.09999999999999
+      }
+    },
+    {
+      "id": "westje01x-39",
+      "sourceId": 39,
+      "date": "1988-06-23",
+      "type": "trade",
+      "tenureTeam": "LAL",
+      "summary": "Sent out Matt Geiger",
+      "participants": [
+        {
+          "name": "Matt Geiger",
+          "playerHref": "/players/g/geigema01.html",
+          "direction": "out",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": 6949.200000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 6949.200000000001,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 66218.80000000003,
+        "vorp": 56.09999999999999
+      }
+    },
+    {
+      "id": "westje01x-40",
+      "sourceId": 40,
+      "date": "1988-06-28",
+      "type": "draft",
+      "tenureTeam": "LAL",
+      "summary": "Drafted David Rivers",
+      "participants": [
+        {
+          "name": "David Rivers",
+          "playerHref": "/players/r/riverda01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -1496,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1496,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 64722.80000000003,
+        "vorp": 55.899999999999984
+      }
+    },
+    {
+      "id": "westje01x-41",
+      "sourceId": 41,
+      "date": "1988-08-10",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Orlando Woolridge",
+      "participants": [
+        {
+          "name": "Orlando Woolridge",
+          "playerHref": "/players/w/woolror01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -701.4000000000001,
+            "vorp": 1.4000000000000001
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -701.4000000000001,
+        "vorp": 1.4000000000000001
+      },
+      "runningValues": {
+        "bpm": 64021.40000000003,
+        "vorp": 57.29999999999998
+      }
+    },
+    {
+      "id": "westje01x-42",
+      "sourceId": 42,
+      "date": "1988-08-29",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Kannard Johnson",
+      "participants": [
+        {
+          "name": "Kannard Johnson",
+          "playerHref": "/players/j/johnska01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 64021.40000000003,
+        "vorp": 57.29999999999998
+      }
+    },
+    {
+      "id": "westje01x-43",
+      "sourceId": 43,
+      "date": "1988-08-30",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Scott Meents",
+      "participants": [
+        {
+          "name": "Scott Meents",
+          "playerHref": "/players/m/meentsc01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 64021.40000000003,
+        "vorp": 57.29999999999998
+      }
+    },
+    {
+      "id": "westje01x-44",
+      "sourceId": 44,
+      "date": "1988-10-03",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Mark McNamara",
+      "participants": [
+        {
+          "name": "Mark McNamara",
+          "playerHref": "/players/m/mcnamma01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -3236.3999999999996,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3236.3999999999996,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": 60785.00000000003,
+        "vorp": 56.79999999999998
+      }
+    },
+    {
+      "id": "westje01x-45",
+      "sourceId": 45,
+      "date": "1988-11-02",
+      "type": "trade",
+      "tenureTeam": "LAL",
+      "summary": "Added Tony Smith; Sent out Mike Smrek",
+      "participants": [
+        {
+          "name": "Mike Smrek",
+          "playerHref": "/players/s/smrekmi01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 2865.7999999999997,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tony Smith",
+          "playerHref": "/players/s/smithto02.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2865.7999999999997,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": 63650.80000000003,
+        "vorp": 57.19999999999998
+      }
+    },
+    {
+      "id": "westje01x-46",
+      "sourceId": 46,
+      "date": "1989-06-27",
+      "type": "draft",
+      "tenureTeam": "LAL",
+      "summary": "Drafted Vlade Divac",
+      "participants": [
+        {
+          "name": "Vlade Divac",
+          "playerHref": "/players/d/divacvl01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 30107,
+            "vorp": 15.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 30107,
+        "vorp": 15.3
+      },
+      "runningValues": {
+        "bpm": 93757.80000000003,
+        "vorp": 72.49999999999999
+      }
+    },
+    {
+      "id": "westje01x-47",
+      "sourceId": 47,
+      "date": "1989-08-04",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Larry Drew",
+      "participants": [
+        {
+          "name": "Larry Drew",
+          "playerHref": "/players/d/drewla01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -3341.8,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3341.8,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 90416.00000000003,
+        "vorp": 72.59999999999998
+      }
+    },
+    {
+      "id": "westje01x-48",
+      "sourceId": 48,
+      "date": "1989-09-12",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Quintin Dailey",
+      "participants": [
+        {
+          "name": "Quintin Dailey",
+          "playerHref": "/players/d/dailequ01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 90416.00000000003,
+        "vorp": 72.59999999999998
+      }
+    },
+    {
+      "id": "westje01x-49",
+      "sourceId": 49,
+      "date": "1989-09-18",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Mike Higgins",
+      "participants": [
+        {
+          "name": "Mike Higgins",
+          "playerHref": "/players/h/higgimi01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 63,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 63,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 90479.00000000003,
+        "vorp": 72.59999999999998
+      }
+    },
+    {
+      "id": "westje01x-50",
+      "sourceId": 50,
+      "date": "1989-09-28",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Steve Bucknall",
+      "participants": [
+        {
+          "name": "Steve Bucknall",
+          "playerHref": "/players/b/bucknst01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -997.5,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -997.5,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 89481.50000000003,
+        "vorp": 72.39999999999998
+      }
+    },
+    {
+      "id": "westje01x-51",
+      "sourceId": 51,
+      "date": "1989-09-28",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Milt Newton",
+      "participants": [
+        {
+          "name": "Milt Newton",
+          "playerHref": "/players/n/newtomi01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 89481.50000000003,
+        "vorp": 72.39999999999998
+      }
+    },
+    {
+      "id": "westje01x-52",
+      "sourceId": 52,
+      "date": "1989-10-02",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Mel McCants",
+      "participants": [
+        {
+          "name": "Mel McCants",
+          "playerHref": "/players/m/mccanme01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -474.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -474.5,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 89007.00000000003,
+        "vorp": 72.29999999999998
+      }
+    },
+    {
+      "id": "westje01x-53",
+      "sourceId": 53,
+      "date": "1989-12-24",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Jay Vincent",
+      "participants": [
+        {
+          "name": "Jay Vincent",
+          "playerHref": "/players/v/vinceja01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -1080,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1080,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 87927.00000000003,
+        "vorp": 72.09999999999998
+      }
+    },
+    {
+      "id": "westje01x-54",
+      "sourceId": 54,
+      "date": "1990-03-05",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Jawann Oldham",
+      "participants": [
+        {
+          "name": "Jawann Oldham",
+          "playerHref": "/players/o/oldhaja01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -63.9,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -63.9,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 87863.10000000003,
+        "vorp": 72.09999999999998
+      }
+    },
+    {
+      "id": "westje01x-56",
+      "sourceId": 56,
+      "date": "1990-06-27",
+      "type": "draft",
+      "tenureTeam": "LAL",
+      "summary": "Drafted Elden Campbell and Tony Smith",
+      "participants": [
+        {
+          "name": "Elden Campbell",
+          "playerHref": "/players/c/campbel01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -11861.2,
+            "vorp": 5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tony Smith",
+          "playerHref": "/players/s/smithto02.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -9516.6,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -21377.800000000003,
+        "vorp": 5.1
+      },
+      "runningValues": {
+        "bpm": 66485.30000000003,
+        "vorp": 77.19999999999997
+      }
+    },
+    {
+      "id": "westje01x-57",
+      "sourceId": 57,
+      "date": "1990-08-03",
+      "type": "trade",
+      "tenureTeam": "LAL",
+      "summary": "Sent out Orlando Woolridge",
+      "participants": [
+        {
+          "name": "Orlando Woolridge",
+          "playerHref": "/players/w/woolror01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -546.9,
+            "vorp": -1.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -546.9,
+        "vorp": -1.1
+      },
+      "runningValues": {
+        "bpm": 65938.40000000004,
+        "vorp": 76.09999999999998
+      }
+    },
+    {
+      "id": "westje01x-58",
+      "sourceId": 58,
+      "date": "1990-08-06",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Sam Perkins",
+      "participants": [
+        {
+          "name": "Sam Perkins",
+          "playerHref": "/players/p/perkisa01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 7584.1,
+            "vorp": 5.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 7584.1,
+        "vorp": 5.2
+      },
+      "runningValues": {
+        "bpm": 73522.50000000004,
+        "vorp": 81.29999999999998
+      }
+    },
+    {
+      "id": "westje01x-59",
+      "sourceId": 59,
+      "date": "1990-09-01",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Michael Young",
+      "participants": [
+        {
+          "name": "Michael Young",
+          "playerHref": "/players/y/youngmi01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 73522.50000000004,
+        "vorp": 81.29999999999998
+      }
+    },
+    {
+      "id": "westje01x-60",
+      "sourceId": 60,
+      "date": "1990-09-01",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Steve Bucknall",
+      "participants": [
+        {
+          "name": "Steve Bucknall",
+          "playerHref": "/players/b/bucknst01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 73522.50000000004,
+        "vorp": 81.29999999999998
+      }
+    },
+    {
+      "id": "westje01x-61",
+      "sourceId": 61,
+      "date": "1990-09-25",
+      "type": "trade",
+      "tenureTeam": "LAL",
+      "summary": "Sent out Mark McNamara",
+      "participants": [
+        {
+          "name": "Mark McNamara",
+          "playerHref": "/players/m/mcnamma01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 73522.50000000004,
+        "vorp": 81.29999999999998
+      }
+    },
+    {
+      "id": "westje01x-62",
+      "sourceId": 62,
+      "date": "1990-09-25",
+      "type": "trade",
+      "tenureTeam": "LAL",
+      "summary": "Added Terry Teagle; Sent out Shaun Vandiver",
+      "participants": [
+        {
+          "name": "Shaun Vandiver",
+          "playerHref": "/players/v/vandish01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Terry Teagle",
+          "playerHref": "/players/t/teaglte01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -10007.4,
+            "vorp": -0.8999999999999999
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -10007.4,
+        "vorp": -0.8999999999999999
+      },
+      "runningValues": {
+        "bpm": 63515.10000000004,
+        "vorp": 80.39999999999998
+      }
+    },
+    {
+      "id": "westje01x-63",
+      "sourceId": 63,
+      "date": "1990-10-02",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Tony Brown",
+      "participants": [
+        {
+          "name": "Tony Brown",
+          "playerHref": "/players/b/brownto01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -207.9,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -207.9,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 63307.20000000004,
+        "vorp": 80.39999999999998
+      }
+    },
+    {
+      "id": "westje01x-64",
+      "sourceId": 64,
+      "date": "1990-10-02",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Mario Elie",
+      "participants": [
+        {
+          "name": "Mario Elie",
+          "playerHref": "/players/e/eliema01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 63307.20000000004,
+        "vorp": 80.39999999999998
+      }
+    },
+    {
+      "id": "westje01x-65",
+      "sourceId": 65,
+      "date": "1990-10-16",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Irving Thomas",
+      "participants": [
+        {
+          "name": "Irving Thomas",
+          "playerHref": "/players/t/thomair01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -1112.4,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1112.4,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 62194.80000000004,
+        "vorp": 80.19999999999997
+      }
+    },
+    {
+      "id": "westje01x-66",
+      "sourceId": 66,
+      "date": "1991-06-26",
+      "type": "draft",
+      "tenureTeam": "LAL",
+      "summary": "Drafted Anthony Jones",
+      "participants": [
+        {
+          "name": "Anthony Jones",
+          "playerHref": "/players/j/jonesan02.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 62194.80000000004,
+        "vorp": 80.19999999999997
+      }
+    },
+    {
+      "id": "westje01x-67",
+      "sourceId": 67,
+      "date": "1991-09-30",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Demetrius Calip",
+      "participants": [
+        {
+          "name": "Demetrius Calip",
+          "playerHref": "/players/c/calipde01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 62194.80000000004,
+        "vorp": 80.19999999999997
+      }
+    },
+    {
+      "id": "westje01x-68",
+      "sourceId": 68,
+      "date": "1991-09-30",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Keith Owens",
+      "participants": [
+        {
+          "name": "Keith Owens",
+          "playerHref": "/players/o/owenske01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -384,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -384,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 61810.80000000004,
+        "vorp": 80.09999999999998
+      }
+    },
+    {
+      "id": "westje01x-69",
+      "sourceId": 69,
+      "date": "1991-09-30",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Irving Thomas",
+      "participants": [
+        {
+          "name": "Irving Thomas",
+          "playerHref": "/players/t/thomair01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 61810.80000000004,
+        "vorp": 80.09999999999998
+      }
+    },
+    {
+      "id": "westje01x-70",
+      "sourceId": 70,
+      "date": "1991-10-01",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Rookie contract for Anthony Jones",
+      "participants": [
+        {
+          "name": "Anthony Jones",
+          "playerHref": "/players/j/jonesan02.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 61810.80000000004,
+        "vorp": 80.09999999999998
+      }
+    },
+    {
+      "id": "westje01x-71",
+      "sourceId": 71,
+      "date": "1991-10-02",
+      "type": "trade",
+      "tenureTeam": "LAL",
+      "summary": "Added Sedale Threatt; Sent out Dontonio Wingfield, Martin Lewis, and Jeff Nordgaard",
+      "participants": [
+        {
+          "name": "Dontonio Wingfield",
+          "playerHref": "/players/w/wingfdo01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 899.1,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Martin Lewis",
+          "playerHref": "/players/l/lewisma01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jeff Nordgaard",
+          "playerHref": "/players/n/nordgje01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sedale Threatt",
+          "playerHref": "/players/t/threase01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 4447.400000000001,
+            "vorp": 6.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5346.500000000001,
+        "vorp": 7.1000000000000005
+      },
+      "runningValues": {
+        "bpm": 67157.30000000003,
+        "vorp": 87.19999999999999
+      }
+    },
+    {
+      "id": "westje01x-72",
+      "sourceId": 72,
+      "date": "1991-10-04",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Jack Haley",
+      "participants": [
+        {
+          "name": "Jack Haley",
+          "playerHref": "/players/h/haleyja01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -4097.6,
+            "vorp": -0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4097.6,
+        "vorp": -0.8
+      },
+      "runningValues": {
+        "bpm": 63059.70000000003,
+        "vorp": 86.39999999999999
+      }
+    },
+    {
+      "id": "westje01x-73",
+      "sourceId": 73,
+      "date": "1991-10-29",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Demetrius Calip",
+      "participants": [
+        {
+          "name": "Demetrius Calip",
+          "playerHref": "/players/c/calipde01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 63059.70000000003,
+        "vorp": 86.39999999999999
+      }
+    },
+    {
+      "id": "westje01x-74",
+      "sourceId": 74,
+      "date": "1991-11-19",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Demetrius Calip",
+      "participants": [
+        {
+          "name": "Demetrius Calip",
+          "playerHref": "/players/c/calipde01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -609,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -609,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 62450.70000000003,
+        "vorp": 86.3
+      }
+    },
+    {
+      "id": "westje01x-75",
+      "sourceId": 75,
+      "date": "1991-12-05",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Chucky Brown",
+      "participants": [
+        {
+          "name": "Chucky Brown",
+          "playerHref": "/players/b/brownch01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -1447.8,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1447.8,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 61002.90000000003,
+        "vorp": 86.1
+      }
+    },
+    {
+      "id": "westje01x-76",
+      "sourceId": 76,
+      "date": "1991-12-06",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Rory Sparrow",
+      "participants": [
+        {
+          "name": "Rory Sparrow",
+          "playerHref": "/players/s/sparrro01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -2967.2999999999997,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2967.2999999999997,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": 58035.60000000003,
+        "vorp": 85.6
+      }
+    },
+    {
+      "id": "westje01x-77",
+      "sourceId": 77,
+      "date": "1992-03-29",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Cliff Robinson",
+      "participants": [
+        {
+          "name": "Cliff Robinson",
+          "playerHref": "/players/r/robincl01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 58035.60000000003,
+        "vorp": 85.6
+      }
+    },
+    {
+      "id": "westje01x-78",
+      "sourceId": 78,
+      "date": "1992-04-08",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Cliff Robinson",
+      "participants": [
+        {
+          "name": "Cliff Robinson",
+          "playerHref": "/players/r/robincl01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 7.800000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 7.800000000000001,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 58043.40000000003,
+        "vorp": 85.6
+      }
+    },
+    {
+      "id": "westje01x-79",
+      "sourceId": 79,
+      "date": "1992-05-11",
+      "type": "trade",
+      "tenureTeam": "LAL",
+      "summary": "Added Duane Cooper and Dwayne Whitfield; Sent out Mike Dunleavy",
+      "participants": [
+        {
+          "name": "Mike Dunleavy",
+          "playerHref": "/coaches/dunlemi01c.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Duane Cooper",
+          "playerHref": "/players/c/coopedu01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dwayne Whitfield",
+          "playerHref": "/players/w/whitfdw01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 58043.40000000003,
+        "vorp": 85.6
+      }
+    },
+    {
+      "id": "westje01x-81",
+      "sourceId": 81,
+      "date": "1992-06-24",
+      "type": "draft",
+      "tenureTeam": "LAL",
+      "summary": "Drafted Anthony Peeler and Duane Cooper",
+      "participants": [
+        {
+          "name": "Anthony Peeler",
+          "playerHref": "/players/p/peelean01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -5333.9,
+            "vorp": 1.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Duane Cooper",
+          "playerHref": "/players/c/coopedu01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5333.9,
+        "vorp": 1.6
+      },
+      "runningValues": {
+        "bpm": 52709.50000000003,
+        "vorp": 87.19999999999999
+      }
+    },
+    {
+      "id": "westje01x-82",
+      "sourceId": 82,
+      "date": "1992-08-11",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Alex Blackwell",
+      "participants": [
+        {
+          "name": "Alex Blackwell",
+          "playerHref": "/players/b/blackal01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -621.3000000000001,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -621.3000000000001,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 52088.200000000026,
+        "vorp": 87.1
+      }
+    },
+    {
+      "id": "westje01x-83",
+      "sourceId": 83,
+      "date": "1992-08-13",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Sean Higgins",
+      "participants": [
+        {
+          "name": "Sean Higgins",
+          "playerHref": "/players/h/higgise01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 52088.200000000026,
+        "vorp": 87.1
+      }
+    },
+    {
+      "id": "westje01x-84",
+      "sourceId": 84,
+      "date": "1992-08-13",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed James Edwards",
+      "participants": [
+        {
+          "name": "James Edwards",
+          "playerHref": "/players/e/edwarja01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -6227.3,
+            "vorp": -1.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6227.3,
+        "vorp": -1.1
+      },
+      "runningValues": {
+        "bpm": 45860.90000000002,
+        "vorp": 86
+      }
+    },
+    {
+      "id": "westje01x-85",
+      "sourceId": 85,
+      "date": "1992-10-01",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Rookie contract for Duane Cooper",
+      "participants": [
+        {
+          "name": "Duane Cooper",
+          "playerHref": "/players/c/coopedu01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -3805.5000000000005,
+            "vorp": -0.6
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -3805.5000000000005,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": 42055.40000000002,
+        "vorp": 85.4
+      }
+    },
+    {
+      "id": "westje01x-86",
+      "sourceId": 86,
+      "date": "1993-02-22",
+      "type": "trade",
+      "tenureTeam": "LAL",
+      "summary": "Added Benoit Benjamin and Doug Christie; Sent out Sam Perkins",
+      "participants": [
+        {
+          "name": "Sam Perkins",
+          "playerHref": "/players/p/perkisa01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": -23189.8,
+            "vorp": -11.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Benoit Benjamin",
+          "playerHref": "/players/b/benjabe01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -1866.6,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Doug Christie",
+          "playerHref": "/players/c/chrisdo01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -2496.5,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -27552.899999999998,
+        "vorp": -11.5
+      },
+      "runningValues": {
+        "bpm": 14502.500000000025,
+        "vorp": 73.9
+      }
+    },
+    {
+      "id": "westje01x-87",
+      "sourceId": 87,
+      "date": "1993-06-21",
+      "type": "trade",
+      "tenureTeam": "LAL",
+      "summary": "Added Sam Bowie and Toby Bailey; Sent out Benoit Benjamin",
+      "participants": [
+        {
+          "name": "Benoit Benjamin",
+          "playerHref": "/players/b/benjabe01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 8108.4,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sam Bowie",
+          "playerHref": "/players/b/bowiesa01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -3940.8,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Toby Bailey",
+          "playerHref": "/players/b/baileto01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4167.599999999999,
+        "vorp": 0.19999999999999998
+      },
+      "runningValues": {
+        "bpm": 18670.100000000024,
+        "vorp": 74.10000000000001
+      }
+    },
+    {
+      "id": "westje01x-88",
+      "sourceId": 88,
+      "date": "1993-06-30",
+      "type": "draft",
+      "tenureTeam": "LAL",
+      "summary": "Drafted George Lynch and Nick Van Exel",
+      "participants": [
+        {
+          "name": "George Lynch",
+          "playerHref": "/players/l/lynchge01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -4045.6000000000004,
+            "vorp": 0.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Nick Van Exel",
+          "playerHref": "/players/v/vanexni01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 8578.3,
+            "vorp": 8.799999999999999
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4532.699999999999,
+        "vorp": 9.7
+      },
+      "runningValues": {
+        "bpm": 23202.800000000025,
+        "vorp": 83.80000000000001
+      }
+    },
+    {
+      "id": "westje01x-89",
+      "sourceId": 89,
+      "date": "1993-07-15",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Antonio Harvey",
+      "participants": [
+        {
+          "name": "Antonio Harvey",
+          "playerHref": "/players/h/harvean01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -4082,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4082,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": 19120.800000000025,
+        "vorp": 83.20000000000002
+      }
+    },
+    {
+      "id": "westje01x-90",
+      "sourceId": 90,
+      "date": "1993-08-30",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Trevor Wilson",
+      "participants": [
+        {
+          "name": "Trevor Wilson",
+          "playerHref": "/players/w/wilsotr01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -37.8,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -37.8,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 19083.000000000025,
+        "vorp": 83.30000000000001
+      }
+    },
+    {
+      "id": "westje01x-91",
+      "sourceId": 91,
+      "date": "1993-10-01",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Kurt Rambis",
+      "participants": [
+        {
+          "name": "Kurt Rambis",
+          "playerHref": "/players/r/rambiku01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -1264,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1264,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 17819.000000000025,
+        "vorp": 83.4
+      }
+    },
+    {
+      "id": "westje01x-92",
+      "sourceId": 92,
+      "date": "1993-10-01",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Duane Cooper",
+      "participants": [
+        {
+          "name": "Duane Cooper",
+          "playerHref": "/players/c/coopedu01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 17819.000000000025,
+        "vorp": 83.4
+      }
+    },
+    {
+      "id": "westje01x-93",
+      "sourceId": 93,
+      "date": "1994-01-22",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Reggie Jordan",
+      "participants": [
+        {
+          "name": "Reggie Jordan",
+          "playerHref": "/players/j/jordare01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 17819.000000000025,
+        "vorp": 83.4
+      }
+    },
+    {
+      "id": "westje01x-94",
+      "sourceId": 94,
+      "date": "1994-02-08",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Reggie Jordan",
+      "participants": [
+        {
+          "name": "Reggie Jordan",
+          "playerHref": "/players/j/jordare01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 802.9,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 802.9,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": 18621.900000000027,
+        "vorp": 83.7
+      }
+    },
+    {
+      "id": "westje01x-95",
+      "sourceId": 95,
+      "date": "1994-02-24",
+      "type": "trade",
+      "tenureTeam": "LAL",
+      "summary": "Added Danny Schayes",
+      "participants": [
+        {
+          "name": "Danny Schayes",
+          "playerHref": "/players/s/schayda01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -678.3,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -678.3,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 17943.600000000028,
+        "vorp": 83.60000000000001
+      }
+    },
+    {
+      "id": "westje01x-100",
+      "sourceId": 100,
+      "date": "1994-06-29",
+      "type": "draft",
+      "tenureTeam": "LAL",
+      "summary": "Drafted Eddie Jones",
+      "participants": [
+        {
+          "name": "Eddie Jones",
+          "playerHref": "/players/j/jonesed02.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 35321.5,
+            "vorp": 14.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 35321.5,
+        "vorp": 14.4
+      },
+      "runningValues": {
+        "bpm": 53265.10000000003,
+        "vorp": 98.00000000000001
+      }
+    },
+    {
+      "id": "westje01x-101",
+      "sourceId": 101,
+      "date": "1994-07-01",
+      "type": "trade",
+      "tenureTeam": "LAL",
+      "summary": "Added Anthony Miller; Sent out Dwayne Whitfield",
+      "participants": [
+        {
+          "name": "Dwayne Whitfield",
+          "playerHref": "/players/w/whitfdw01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Anthony Miller",
+          "playerHref": "/players/m/millean01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -1906.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1906.2,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 51358.90000000003,
+        "vorp": 97.90000000000002
+      }
+    },
+    {
+      "id": "westje01x-102",
+      "sourceId": 102,
+      "date": "1994-07-21",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Trevor Ruffin",
+      "participants": [
+        {
+          "name": "Trevor Ruffin",
+          "playerHref": "/players/r/ruffitr01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 51358.90000000003,
+        "vorp": 97.90000000000002
+      }
+    },
+    {
+      "id": "westje01x-103",
+      "sourceId": 103,
+      "date": "1994-09-23",
+      "type": "trade",
+      "tenureTeam": "LAL",
+      "summary": "Added Cedric Ceballos; Sent out Michael Finley",
+      "participants": [
+        {
+          "name": "Michael Finley",
+          "playerHref": "/players/f/finlemi01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 562.8000000000001,
+            "vorp": -1.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cedric Ceballos",
+          "playerHref": "/players/c/cebalce01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 8240.4,
+            "vorp": 4.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 8803.199999999999,
+        "vorp": 2.6999999999999997
+      },
+      "runningValues": {
+        "bpm": 60162.100000000035,
+        "vorp": 100.60000000000001
+      }
+    },
+    {
+      "id": "westje01x-104",
+      "sourceId": 104,
+      "date": "1994-10-13",
+      "type": "trade",
+      "tenureTeam": "LAL",
+      "summary": "Added Paul Rogers; Sent out Doug Christie",
+      "participants": [
+        {
+          "name": "Doug Christie",
+          "playerHref": "/players/c/chrisdo01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 906.0000000000001,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Paul Rogers",
+          "playerHref": "/players/r/rogerpa01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 906.0000000000001,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 61068.100000000035,
+        "vorp": 100.7
+      }
+    },
+    {
+      "id": "westje01x-105",
+      "sourceId": 105,
+      "date": "1995-01-10",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Lester Conner",
+      "participants": [
+        {
+          "name": "Lester Conner",
+          "playerHref": "/players/c/connele01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 20.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 20.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 61088.600000000035,
+        "vorp": 100.7
+      }
+    },
+    {
+      "id": "westje01x-106",
+      "sourceId": 106,
+      "date": "1995-01-20",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Danny Young",
+      "participants": [
+        {
+          "name": "Danny Young",
+          "playerHref": "/players/y/youngda01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 61088.600000000035,
+        "vorp": 100.7
+      }
+    },
+    {
+      "id": "westje01x-107",
+      "sourceId": 107,
+      "date": "1995-02-22",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Lloyd Daniels",
+      "participants": [
+        {
+          "name": "Lloyd Daniels",
+          "playerHref": "/players/d/daniell01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 61088.600000000035,
+        "vorp": 100.7
+      }
+    },
+    {
+      "id": "westje01x-108",
+      "sourceId": 108,
+      "date": "1995-02-28",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Randolph Keys",
+      "participants": [
+        {
+          "name": "Randolph Keys",
+          "playerHref": "/players/k/keysra01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 61088.600000000035,
+        "vorp": 100.7
+      }
+    },
+    {
+      "id": "westje01x-109",
+      "sourceId": 109,
+      "date": "1995-03-14",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Randolph Keys",
+      "participants": [
+        {
+          "name": "Randolph Keys",
+          "playerHref": "/players/k/keysra01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -730.4000000000001,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -730.4000000000001,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 60358.20000000003,
+        "vorp": 100.60000000000001
+      }
+    },
+    {
+      "id": "westje01x-110",
+      "sourceId": 110,
+      "date": "1995-03-14",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Lloyd Daniels",
+      "participants": [
+        {
+          "name": "Lloyd Daniels",
+          "playerHref": "/players/d/daniell01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -1244.3,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1244.3,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 59113.90000000003,
+        "vorp": 100.60000000000001
+      }
+    },
+    {
+      "id": "westje01x-111",
+      "sourceId": 111,
+      "date": "1995-06-28",
+      "type": "draft",
+      "tenureTeam": "LAL",
+      "summary": "Drafted Frankie King",
+      "participants": [
+        {
+          "name": "Frankie King",
+          "playerHref": "/players/k/kingfr01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -286,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -286,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 58827.90000000003,
+        "vorp": 100.50000000000001
+      }
+    },
+    {
+      "id": "westje01x-112",
+      "sourceId": 112,
+      "date": "1995-06-30",
+      "type": "trade",
+      "tenureTeam": "LAL",
+      "summary": "Added Corie Blount",
+      "participants": [
+        {
+          "name": "Corie Blount",
+          "playerHref": "/players/b/blounco01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -7122.3,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -7122.3,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": 51705.60000000003,
+        "vorp": 100.20000000000002
+      }
+    },
+    {
+      "id": "westje01x-113",
+      "sourceId": 113,
+      "date": "1995-09-29",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Gerard King",
+      "participants": [
+        {
+          "name": "Gerard King",
+          "playerHref": "/players/k/kingge02.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 51705.60000000003,
+        "vorp": 100.20000000000002
+      }
+    },
+    {
+      "id": "westje01x-114",
+      "sourceId": 114,
+      "date": "1995-10-03",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Fred Roberts",
+      "participants": [
+        {
+          "name": "Fred Roberts",
+          "playerHref": "/players/r/roberfr01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -31.700000000000003,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -31.700000000000003,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 51673.90000000003,
+        "vorp": 100.30000000000001
+      }
+    },
+    {
+      "id": "westje01x-115",
+      "sourceId": 115,
+      "date": "1995-10-26",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Derek Strong",
+      "participants": [
+        {
+          "name": "Derek Strong",
+          "playerHref": "/players/s/stronde01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -1342.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1342.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 50331.10000000003,
+        "vorp": 100.30000000000001
+      }
+    },
+    {
+      "id": "westje01x-116",
+      "sourceId": 116,
+      "date": "1996-01-29",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Magic Johnson",
+      "participants": [
+        {
+          "name": "Magic Johnson",
+          "playerHref": "/players/j/johnsma02.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 4981.6,
+            "vorp": 1.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4981.6,
+        "vorp": 1.7
+      },
+      "runningValues": {
+        "bpm": 55312.700000000026,
+        "vorp": 102.00000000000001
+      }
+    },
+    {
+      "id": "westje01x-117",
+      "sourceId": 117,
+      "date": "1996-06-26",
+      "type": "draft",
+      "tenureTeam": "LAL",
+      "summary": "Drafted Derek Fisher",
+      "participants": [
+        {
+          "name": "Derek Fisher",
+          "playerHref": "/players/f/fishede01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -20036.1,
+            "vorp": 6.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -20036.1,
+        "vorp": 6.5
+      },
+      "runningValues": {
+        "bpm": 35276.60000000003,
+        "vorp": 108.50000000000001
+      }
+    },
+    {
+      "id": "westje01x-118",
+      "sourceId": 118,
+      "date": "1996-07-11",
+      "type": "trade",
+      "tenureTeam": "LAL",
+      "summary": "Added Kobe Bryant; Sent out Vlade Divac",
+      "participants": [
+        {
+          "name": "Vlade Divac",
+          "playerHref": "/players/d/divacvl01.html",
+          "direction": "out",
+          "teamCode": "CHH",
+          "values": {
+            "bpm": -14320,
+            "vorp": -6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kobe Bryant",
+          "playerHref": "/players/b/bryanko01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 219800.49999999997,
+            "vorp": 79.70000000000002
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 205480.49999999997,
+        "vorp": 73.70000000000002
+      },
+      "runningValues": {
+        "bpm": 240757.1,
+        "vorp": 182.20000000000005
+      }
+    },
+    {
+      "id": "westje01x-119",
+      "sourceId": 119,
+      "date": "1996-07-16",
+      "type": "trade",
+      "tenureTeam": "LAL",
+      "summary": "Added Ruben Patterson and John Celestand; Sent out George Lynch, Anthony Peeler, J.R. Henderson, and Antwain Smith",
+      "participants": [
+        {
+          "name": "George Lynch",
+          "playerHref": "/players/l/lynchge01.html",
+          "direction": "out",
+          "teamCode": "VAN",
+          "values": {
+            "bpm": 1357.6,
+            "vorp": -1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Anthony Peeler",
+          "playerHref": "/players/p/peelean01.html",
+          "direction": "out",
+          "teamCode": "VAN",
+          "values": {
+            "bpm": 3841,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "J.R. Henderson",
+          "playerHref": "/players/h/hendejr01.html",
+          "direction": "out",
+          "teamCode": "VAN",
+          "values": {
+            "bpm": 1555.7,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Antwain Smith",
+          "playerHref": "/players/s/smithan03.html",
+          "direction": "out",
+          "teamCode": "VAN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ruben Patterson",
+          "playerHref": "/players/p/patteru01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Celestand",
+          "playerHref": "/players/c/celesjo01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 6754.3,
+        "vorp": -1.1
+      },
+      "runningValues": {
+        "bpm": 247511.40000000002,
+        "vorp": 181.10000000000002
+      }
+    },
+    {
+      "id": "westje01x-120",
+      "sourceId": 120,
+      "date": "1996-07-16",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Sean Rooks",
+      "participants": [
+        {
+          "name": "Sean Rooks",
+          "playerHref": "/players/r/rooksse01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -5254,
+            "vorp": -0.6000000000000001
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5254,
+        "vorp": -0.6000000000000001
+      },
+      "runningValues": {
+        "bpm": 242257.40000000002,
+        "vorp": 180.50000000000003
+      }
+    },
+    {
+      "id": "westje01x-121",
+      "sourceId": 121,
+      "date": "1996-07-18",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Shaquille O'Neal",
+      "participants": [
+        {
+          "name": "Shaquille O'Neal",
+          "playerHref": "/players/o/onealsh01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 136215.5,
+            "vorp": 43.900000000000006
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 136215.5,
+        "vorp": 43.900000000000006
+      },
+      "runningValues": {
+        "bpm": 378472.9,
+        "vorp": 224.40000000000003
+      }
+    },
+    {
+      "id": "westje01x-122",
+      "sourceId": 122,
+      "date": "1996-07-31",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Travis Knight",
+      "participants": [
+        {
+          "name": "Travis Knight",
+          "playerHref": "/players/k/knightr01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -2080.8,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2080.8,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 376392.10000000003,
+        "vorp": 224.50000000000003
+      }
+    },
+    {
+      "id": "westje01x-123",
+      "sourceId": 123,
+      "date": "1996-08-09",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Rumeal Robinson",
+      "participants": [
+        {
+          "name": "Rumeal Robinson",
+          "playerHref": "/players/r/robinru01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -567,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -567,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 375825.10000000003,
+        "vorp": 224.40000000000003
+      }
+    },
+    {
+      "id": "westje01x-124",
+      "sourceId": 124,
+      "date": "1996-08-12",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Jerome Kersey",
+      "participants": [
+        {
+          "name": "Jerome Kersey",
+          "playerHref": "/players/k/kerseje01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0.9
+      },
+      "runningValues": {
+        "bpm": 375825.10000000003,
+        "vorp": 225.30000000000004
+      }
+    },
+    {
+      "id": "westje01x-125",
+      "sourceId": 125,
+      "date": "1996-08-15",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Trevor Wilson",
+      "participants": [
+        {
+          "name": "Trevor Wilson",
+          "playerHref": "/players/w/wilsotr01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 375825.10000000003,
+        "vorp": 225.30000000000004
+      }
+    },
+    {
+      "id": "westje01x-126",
+      "sourceId": 126,
+      "date": "1996-09-11",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Juaquin Hawkins",
+      "participants": [
+        {
+          "name": "Juaquin Hawkins",
+          "playerHref": "/players/h/hawkiju01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 375825.10000000003,
+        "vorp": 225.30000000000004
+      }
+    },
+    {
+      "id": "westje01x-127",
+      "sourceId": 127,
+      "date": "1996-09-30",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Byron Scott",
+      "participants": [
+        {
+          "name": "Byron Scott",
+          "playerHref": "/players/s/scottby01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 1440,
+            "vorp": 1.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1440,
+        "vorp": 1.1
+      },
+      "runningValues": {
+        "bpm": 377265.10000000003,
+        "vorp": 226.40000000000003
+      }
+    },
+    {
+      "id": "westje01x-128",
+      "sourceId": 128,
+      "date": "1997-01-10",
+      "type": "trade",
+      "tenureTeam": "LAL",
+      "summary": "Added Robert Horry and Joe Kleine; Sent out Cedric Ceballos and Rumeal Robinson",
+      "participants": [
+        {
+          "name": "Cedric Ceballos",
+          "playerHref": "/players/c/cebalce01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 614.2999999999997,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rumeal Robinson",
+          "playerHref": "/players/r/robinru01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 487.2,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Robert Horry",
+          "playerHref": "/players/h/horryro01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 22630.6,
+            "vorp": 11.499999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Joe Kleine",
+          "playerHref": "/players/k/kleinjo01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -342,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 23390.1,
+        "vorp": 10.799999999999999
+      },
+      "runningValues": {
+        "bpm": 400655.2,
+        "vorp": 237.20000000000005
+      }
+    },
+    {
+      "id": "westje01x-129",
+      "sourceId": 129,
+      "date": "1997-02-20",
+      "type": "trade",
+      "tenureTeam": "LAL",
+      "summary": "Added George McCloud; Sent out Joe Kleine and Anthony Parker",
+      "participants": [
+        {
+          "name": "Joe Kleine",
+          "playerHref": "/players/k/kleinjo01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 1812,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Anthony Parker",
+          "playerHref": "/players/p/parkean01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "George McCloud",
+          "playerHref": "/players/m/mccloge01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -629.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1182.8,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 401838,
+        "vorp": 237.40000000000003
+      }
+    },
+    {
+      "id": "westje01x-130",
+      "sourceId": 130,
+      "date": "1997-02-24",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Larry Krystkowiak",
+      "participants": [
+        {
+          "name": "Larry Krystkowiak",
+          "playerHref": "/players/k/krystla01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 113.30000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 113.30000000000001,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 401951.3,
+        "vorp": 237.40000000000003
+      }
+    },
+    {
+      "id": "westje01x-131",
+      "sourceId": 131,
+      "date": "1997-06-25",
+      "type": "draft",
+      "tenureTeam": "LAL",
+      "summary": "Drafted DeJuan Wheat and Paul Rogers",
+      "participants": [
+        {
+          "name": "DeJuan Wheat",
+          "playerHref": "/players/w/wheatde01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Paul Rogers",
+          "playerHref": "/players/r/rogerpa01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 401951.3,
+        "vorp": 237.40000000000003
+      }
+    },
+    {
+      "id": "westje01x-132",
+      "sourceId": 132,
+      "date": "1997-07-24",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed James Forrest",
+      "participants": [
+        {
+          "name": "James Forrest",
+          "playerHref": "/players/f/forreja01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 401951.3,
+        "vorp": 237.40000000000003
+      }
+    },
+    {
+      "id": "westje01x-133",
+      "sourceId": 133,
+      "date": "1997-08-27",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Jon Barry",
+      "participants": [
+        {
+          "name": "Jon Barry",
+          "playerHref": "/players/b/barryjo01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 74.8,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 74.8,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 402026.1,
+        "vorp": 237.60000000000002
+      }
+    },
+    {
+      "id": "westje01x-134",
+      "sourceId": 134,
+      "date": "1997-08-28",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Rick Fox",
+      "participants": [
+        {
+          "name": "Rick Fox",
+          "playerHref": "/players/f/foxri01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -8191.4,
+            "vorp": 4.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -8191.4,
+        "vorp": 4.3
+      },
+      "runningValues": {
+        "bpm": 393834.69999999995,
+        "vorp": 241.90000000000003
+      }
+    },
+    {
+      "id": "westje01x-135",
+      "sourceId": 135,
+      "date": "1997-09-17",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Shea Seals",
+      "participants": [
+        {
+          "name": "Shea Seals",
+          "playerHref": "/players/s/sealssh01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -156.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -156.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 393678.1,
+        "vorp": 241.90000000000003
+      }
+    },
+    {
+      "id": "westje01x-136",
+      "sourceId": 136,
+      "date": "1997-09-22",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Mario Bennett",
+      "participants": [
+        {
+          "name": "Mario Bennett",
+          "playerHref": "/players/b/bennema01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 318.6,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 318.6,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": 393996.69999999995,
+        "vorp": 242.20000000000005
+      }
+    },
+    {
+      "id": "westje01x-137",
+      "sourceId": 137,
+      "date": "1998-06-24",
+      "type": "draft",
+      "tenureTeam": "LAL",
+      "summary": "Drafted Sam Jacobson, Ruben Patterson, and Toby Bailey",
+      "participants": [
+        {
+          "name": "Sam Jacobson",
+          "playerHref": "/players/j/jacobsa01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -122.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ruben Patterson",
+          "playerHref": "/players/p/patteru01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -576,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Toby Bailey",
+          "playerHref": "/players/b/baileto01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -698.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 393298.29999999993,
+        "vorp": 242.10000000000005
+      }
+    },
+    {
+      "id": "westje01x-138",
+      "sourceId": 138,
+      "date": "1998-06-24",
+      "type": "trade",
+      "tenureTeam": "LAL",
+      "summary": "Added Tony Battie and Tyronn Lue; Sent out Nick Van Exel",
+      "participants": [
+        {
+          "name": "Nick Van Exel",
+          "playerHref": "/players/v/vanexni01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -6727.5,
+            "vorp": -6.3999999999999995
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tony Battie",
+          "playerHref": "/players/b/battito01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tyronn Lue",
+          "playerHref": "/players/l/luety01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -2840.8,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -9568.3,
+        "vorp": -6.699999999999999
+      },
+      "runningValues": {
+        "bpm": 383729.99999999994,
+        "vorp": 235.40000000000003
+      }
+    },
+    {
+      "id": "westje01x-139",
+      "sourceId": 139,
+      "date": "1998-06-24",
+      "type": "trade",
+      "tenureTeam": "LAL",
+      "summary": "Sent out Toby Bailey",
+      "participants": [
+        {
+          "name": "Toby Bailey",
+          "playerHref": "/players/b/baileto01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 2437.7,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2437.7,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 386167.69999999995,
+        "vorp": 235.60000000000002
+      }
+    },
+    {
+      "id": "westje01x-140",
+      "sourceId": 140,
+      "date": "1999-01-21",
+      "type": "trade",
+      "tenureTeam": "LAL",
+      "summary": "Added Travis Knight; Sent out Tony Battie",
+      "participants": [
+        {
+          "name": "Tony Battie",
+          "playerHref": "/players/b/battito01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 5454.9,
+            "vorp": -2.3000000000000003
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Travis Knight",
+          "playerHref": "/players/k/knightr01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -2709.5,
+            "vorp": -0.19999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2745.3999999999996,
+        "vorp": -2.5000000000000004
+      },
+      "runningValues": {
+        "bpm": 388913.1,
+        "vorp": 233.10000000000002
+      }
+    },
+    {
+      "id": "westje01x-141",
+      "sourceId": 141,
+      "date": "1999-01-21",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Derek Harper",
+      "participants": [
+        {
+          "name": "Derek Harper",
+          "playerHref": "/players/h/harpede01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -112,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -112,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": 388801.1,
+        "vorp": 233.60000000000002
+      }
+    },
+    {
+      "id": "westje01x-142",
+      "sourceId": 142,
+      "date": "1999-02-23",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Dennis Rodman",
+      "participants": [
+        {
+          "name": "Dennis Rodman",
+          "playerHref": "/players/r/rodmade01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -1314,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1314,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 387487.1,
+        "vorp": 233.60000000000002
+      }
+    },
+    {
+      "id": "westje01x-143",
+      "sourceId": 143,
+      "date": "1999-03-10",
+      "type": "trade",
+      "tenureTeam": "LAL",
+      "summary": "Added B.J. Armstrong, J.R. Reid, and Glen Rice; Sent out Elden Campbell and Eddie Jones",
+      "participants": [
+        {
+          "name": "Elden Campbell",
+          "playerHref": "/players/c/campbel01.html",
+          "direction": "out",
+          "teamCode": "CHH",
+          "values": {
+            "bpm": -2471.899999999999,
+            "vorp": -4.800000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eddie Jones",
+          "playerHref": "/players/j/jonesed02.html",
+          "direction": "out",
+          "teamCode": "CHH",
+          "values": {
+            "bpm": -19539.300000000003,
+            "vorp": -6.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "B.J. Armstrong",
+          "playerHref": "/players/a/armstbj01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "J.R. Reid",
+          "playerHref": "/players/r/reidjr01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -1797.3999999999999,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Glen Rice",
+          "playerHref": "/players/r/ricegl01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 1981.5,
+            "vorp": 2.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -21827.100000000002,
+        "vorp": -9.600000000000001
+      },
+      "runningValues": {
+        "bpm": 365659.99999999994,
+        "vorp": 224
+      }
+    },
+    {
+      "id": "westje01x-144",
+      "sourceId": 144,
+      "date": "1999-06-30",
+      "type": "draft",
+      "tenureTeam": "LAL",
+      "summary": "Drafted Devean George and John Celestand",
+      "participants": [
+        {
+          "name": "Devean George",
+          "playerHref": "/players/g/georgde01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -10813.5,
+            "vorp": 1.3000000000000003
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Celestand",
+          "playerHref": "/players/c/celesjo01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -1387.5,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -12201,
+        "vorp": 1.0000000000000002
+      },
+      "runningValues": {
+        "bpm": 353458.99999999994,
+        "vorp": 225
+      }
+    },
+    {
+      "id": "westje01x-145",
+      "sourceId": 145,
+      "date": "1999-09-01",
+      "type": "trade",
+      "tenureTeam": "LAL",
+      "summary": "Added A.C. Green; Sent out Sean Rooks and Pete Mickeal",
+      "participants": [
+        {
+          "name": "Sean Rooks",
+          "playerHref": "/players/r/rooksse01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 2802.7999999999997,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Pete Mickeal",
+          "playerHref": "/players/m/mickepe01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "A.C. Green",
+          "playerHref": "/players/g/greenac01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -578.6999999999999,
+            "vorp": 0.8
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 2224.1,
+        "vorp": 1
+      },
+      "runningValues": {
+        "bpm": 355683.0999999999,
+        "vorp": 226
+      }
+    },
+    {
+      "id": "westje01x-146",
+      "sourceId": 146,
+      "date": "1999-09-28",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Benoit Benjamin",
+      "participants": [
+        {
+          "name": "Benoit Benjamin",
+          "playerHref": "/players/b/benjabe01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 355683.0999999999,
+        "vorp": 226
+      }
+    },
+    {
+      "id": "westje01x-147",
+      "sourceId": 147,
+      "date": "1999-09-29",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed John Salley",
+      "participants": [
+        {
+          "name": "John Salley",
+          "playerHref": "/players/s/sallejo01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -878.6999999999999,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -878.6999999999999,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 354804.3999999999,
+        "vorp": 225.9
+      }
+    },
+    {
+      "id": "westje01x-148",
+      "sourceId": 148,
+      "date": "1999-10-13",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Ron Harper",
+      "participants": [
+        {
+          "name": "Ron Harper",
+          "playerHref": "/players/h/harpero01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 1453,
+            "vorp": 1.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1453,
+        "vorp": 1.9
+      },
+      "runningValues": {
+        "bpm": 356257.3999999999,
+        "vorp": 227.8
+      }
+    },
+    {
+      "id": "westje01x-149",
+      "sourceId": 149,
+      "date": "1999-10-20",
+      "type": "signing",
+      "tenureTeam": "LAL",
+      "summary": "Signed Brian Shaw",
+      "participants": [
+        {
+          "name": "Brian Shaw",
+          "playerHref": "/players/s/shawbr01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -3728.9,
+            "vorp": 1.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3728.9,
+        "vorp": 1.4
+      },
+      "runningValues": {
+        "bpm": 352528.4999999999,
+        "vorp": 229.20000000000002
+      }
+    },
+    {
+      "id": "westje01x-150",
+      "sourceId": 150,
+      "date": "2000-06-28",
+      "type": "draft",
+      "tenureTeam": "LAL",
+      "summary": "Drafted Mark Madsen",
+      "participants": [
+        {
+          "name": "Mark Madsen",
+          "playerHref": "/players/m/madsema01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -6958.2,
+            "vorp": -0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6958.2,
+        "vorp": -0.8
+      },
+      "runningValues": {
+        "bpm": 345570.2999999999,
+        "vorp": 228.4
+      }
+    },
+    {
+      "id": "westje01x-151",
+      "sourceId": 151,
+      "date": "2000-06-28",
+      "type": "trade",
+      "tenureTeam": "LAL",
+      "summary": "Added Cory Hightower; Sent out Robetas Javtokas and Randy Holcomb",
+      "participants": [
+        {
+          "name": "Robetas Javtokas",
+          "playerHref": "/players/j/javtoro01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Randy Holcomb",
+          "playerHref": "/players/h/holcora01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cory Hightower",
+          "playerHref": "/players/h/hightco01.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 345570.2999999999,
+        "vorp": 228.4
+      }
+    },
+    {
+      "id": "westje01x-152",
+      "sourceId": 152,
+      "date": "2002-06-26",
+      "type": "draft",
+      "tenureTeam": "MEM",
+      "summary": "Drafted Drew Gooden, Robert Archibald, and Matt Barnes",
+      "participants": [
+        {
+          "name": "Drew Gooden",
+          "playerHref": "/players/g/goodedr01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -4385.7,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Robert Archibald",
+          "playerHref": "/players/a/archiro01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -856.8000000000001,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Matt Barnes",
+          "playerHref": "/players/b/barnema02.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -1971,
+            "vorp": 0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -7213.5,
+        "vorp": -1.1102230246251565e-16
+      },
+      "runningValues": {
+        "bpm": 338356.7999999999,
+        "vorp": 228.4
+      }
+    },
+    {
+      "id": "westje01x-153",
+      "sourceId": 153,
+      "date": "2002-06-26",
+      "type": "trade",
+      "tenureTeam": "MEM",
+      "summary": "Added Wesley Person; Sent out Nick Anderson and Matt Barnes",
+      "participants": [
+        {
+          "name": "Nick Anderson",
+          "playerHref": "/players/a/anderni01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Matt Barnes",
+          "playerHref": "/players/b/barnema02.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Wesley Person",
+          "playerHref": "/players/p/persowe01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -3010.6,
+            "vorp": 0.39999999999999997
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3010.6,
+        "vorp": 0.39999999999999997
+      },
+      "runningValues": {
+        "bpm": 335346.1999999999,
+        "vorp": 228.8
+      }
+    },
+    {
+      "id": "westje01x-154",
+      "sourceId": 154,
+      "date": "2002-06-26",
+      "type": "trade",
+      "tenureTeam": "MEM",
+      "summary": "Added Chris Owens; Sent out Szymon Szewczyk",
+      "participants": [
+        {
+          "name": "Szymon Szewczyk",
+          "playerHref": "/players/s/szewcsz01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chris Owens",
+          "playerHref": "/players/o/owensch01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -3,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 335343.1999999999,
+        "vorp": 228.8
+      }
+    },
+    {
+      "id": "westje01x-155",
+      "sourceId": 155,
+      "date": "2002-06-28",
+      "type": "trade",
+      "tenureTeam": "MEM",
+      "summary": "Added Gordan Giriček; Sent out Romain Sato",
+      "participants": [
+        {
+          "name": "Romain Sato",
+          "playerHref": "/players/s/satoro01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Gordan Giriček",
+          "playerHref": "/players/g/giricgo01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -5104.099999999999,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5104.099999999999,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": 330239.0999999999,
+        "vorp": 228.10000000000002
+      }
+    },
+    {
+      "id": "westje01x-156",
+      "sourceId": 156,
+      "date": "2002-07-20",
+      "type": "signing",
+      "tenureTeam": "MEM",
+      "summary": "Signed Earl Watson",
+      "participants": [
+        {
+          "name": "Earl Watson",
+          "playerHref": "/players/w/watsoea01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -2251.6,
+            "vorp": 1.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2251.6,
+        "vorp": 1.9
+      },
+      "runningValues": {
+        "bpm": 327987.49999999994,
+        "vorp": 230.00000000000003
+      }
+    },
+    {
+      "id": "westje01x-157",
+      "sourceId": 157,
+      "date": "2002-07-22",
+      "type": "signing",
+      "tenureTeam": "MEM",
+      "summary": "Signed Cezary Trybański",
+      "participants": [
+        {
+          "name": "Cezary Trybański",
+          "playerHref": "/players/t/trybace01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -1032,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1032,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 326955.49999999994,
+        "vorp": 229.80000000000004
+      }
+    },
+    {
+      "id": "westje01x-158",
+      "sourceId": 158,
+      "date": "2002-09-30",
+      "type": "signing",
+      "tenureTeam": "MEM",
+      "summary": "Signed Tang Hamilton",
+      "participants": [
+        {
+          "name": "Tang Hamilton",
+          "playerHref": "/players/h/hamilta01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 326955.49999999994,
+        "vorp": 229.80000000000004
+      }
+    },
+    {
+      "id": "westje01x-159",
+      "sourceId": 159,
+      "date": "2002-10-30",
+      "type": "signing",
+      "tenureTeam": "MEM",
+      "summary": "Signed Mike Batiste",
+      "participants": [
+        {
+          "name": "Mike Batiste",
+          "playerHref": "/players/b/batismi01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -4368,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4368,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": 322587.49999999994,
+        "vorp": 229.30000000000004
+      }
+    },
+    {
+      "id": "westje01x-160",
+      "sourceId": 160,
+      "date": "2003-02-19",
+      "type": "trade",
+      "tenureTeam": "MEM",
+      "summary": "Added Ryan Humphrey, Mike Miller, Kendrick Perkins, and Sergei Lishouk; Sent out Gordan Giriček and Drew Gooden",
+      "participants": [
+        {
+          "name": "Gordan Giriček",
+          "playerHref": "/players/g/giricgo01.html",
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 4357.599999999999,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Drew Gooden",
+          "playerHref": "/players/g/goodedr01.html",
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 6209.599999999999,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ryan Humphrey",
+          "playerHref": "/players/h/humphry01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -2922.7999999999997,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Miller",
+          "playerHref": "/players/m/millemi01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 22216.4,
+            "vorp": 12.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kendrick Perkins",
+          "playerHref": "/players/p/perkike01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sergei Lishouk",
+          "playerHref": "/players/l/lishcse01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 29860.800000000003,
+        "vorp": 12
+      },
+      "runningValues": {
+        "bpm": 352448.29999999993,
+        "vorp": 241.30000000000004
+      }
+    },
+    {
+      "id": "westje01x-161",
+      "sourceId": 161,
+      "date": "2003-06-26",
+      "type": "draft",
+      "tenureTeam": "MEM",
+      "summary": "Drafted Marcus Banks and Kendrick Perkins",
+      "participants": [
+        {
+          "name": "Marcus Banks",
+          "playerHref": "/players/b/banksma01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kendrick Perkins",
+          "playerHref": "/players/p/perkike01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 352448.29999999993,
+        "vorp": 241.30000000000004
+      }
+    },
+    {
+      "id": "westje01x-162",
+      "sourceId": 162,
+      "date": "2003-06-26",
+      "type": "trade",
+      "tenureTeam": "MEM",
+      "summary": "Added Troy Bell and Dahntay Jones; Sent out Marcus Banks and Kendrick Perkins",
+      "participants": [
+        {
+          "name": "Marcus Banks",
+          "playerHref": "/players/b/banksma01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 6631.2,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kendrick Perkins",
+          "playerHref": "/players/p/perkike01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 9098.000000000002,
+            "vorp": -2.6999999999999997
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Troy Bell",
+          "playerHref": "/players/b/belltr01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dahntay Jones",
+          "playerHref": "/players/j/jonesda02.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -15086.4,
+            "vorp": -2.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 642.8000000000011,
+        "vorp": -4.4
+      },
+      "runningValues": {
+        "bpm": 353091.0999999999,
+        "vorp": 236.90000000000006
+      }
+    },
+    {
+      "id": "westje01x-163",
+      "sourceId": 163,
+      "date": "2003-07-05",
+      "type": "signing",
+      "tenureTeam": "MEM",
+      "summary": "Signed Troy Bell",
+      "participants": [
+        {
+          "name": "Troy Bell",
+          "playerHref": "/players/b/belltr01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -659.5999999999999,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -659.5999999999999,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 352431.49999999994,
+        "vorp": 236.70000000000007
+      }
+    },
+    {
+      "id": "westje01x-164",
+      "sourceId": 164,
+      "date": "2003-07-16",
+      "type": "signing",
+      "tenureTeam": "MEM",
+      "summary": "Signed Theron Smith",
+      "participants": [
+        {
+          "name": "Theron Smith",
+          "playerHref": "/players/s/smithth01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -587.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -587.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 351844.0999999999,
+        "vorp": 236.60000000000008
+      }
+    },
+    {
+      "id": "westje01x-165",
+      "sourceId": 165,
+      "date": "2003-08-09",
+      "type": "signing",
+      "tenureTeam": "MEM",
+      "summary": "Signed James Posey",
+      "participants": [
+        {
+          "name": "James Posey",
+          "playerHref": "/players/p/poseyja01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 8101.300000000001,
+            "vorp": 4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 8101.300000000001,
+        "vorp": 4
+      },
+      "runningValues": {
+        "bpm": 359945.3999999999,
+        "vorp": 240.60000000000008
+      }
+    },
+    {
+      "id": "westje01x-166",
+      "sourceId": 166,
+      "date": "2003-09-24",
+      "type": "signing",
+      "tenureTeam": "MEM",
+      "summary": "Signed Shelton Jones",
+      "participants": [
+        {
+          "name": "Shelton Jones",
+          "playerHref": "/players/j/jonessh01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 359945.3999999999,
+        "vorp": 240.60000000000008
+      }
+    },
+    {
+      "id": "westje01x-167",
+      "sourceId": 167,
+      "date": "2003-09-30",
+      "type": "trade",
+      "tenureTeam": "MEM",
+      "summary": "Added Bo Outlaw and Jake Tsakalidis; Sent out Robert Archibald, Brevin Knight, and Cezary Trybański",
+      "participants": [
+        {
+          "name": "Robert Archibald",
+          "playerHref": "/players/a/archiro01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 78,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Brevin Knight",
+          "playerHref": "/players/k/knighbr01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -131.1,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cezary Trybański",
+          "playerHref": "/players/t/trybace01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 255,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bo Outlaw",
+          "playerHref": "/players/o/outlabo01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 1445.4,
+            "vorp": 1.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jake Tsakalidis",
+          "playerHref": "/players/t/tsakaja01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -3585.3,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1938,
+        "vorp": 1.2
+      },
+      "runningValues": {
+        "bpm": 358007.39999999997,
+        "vorp": 241.80000000000007
+      }
+    },
+    {
+      "id": "westje01x-168",
+      "sourceId": 168,
+      "date": "2003-12-03",
+      "type": "trade",
+      "tenureTeam": "MEM",
+      "summary": "Added Bonzi Wells; Sent out Wesley Person and Sergei Monia",
+      "participants": [
+        {
+          "name": "Wesley Person",
+          "playerHref": "/players/p/persowe01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -745.1999999999999,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sergei Monia",
+          "playerHref": "/players/m/moniase01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 1747.2,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bonzi Wells",
+          "playerHref": "/players/w/wellsbo01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -2776.6,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1774.6,
+        "vorp": 0.6000000000000001
+      },
+      "runningValues": {
+        "bpm": 356232.8,
+        "vorp": 242.4000000000001
+      }
+    },
+    {
+      "id": "westje01x-169",
+      "sourceId": 169,
+      "date": "2004-06-24",
+      "type": "draft",
+      "tenureTeam": "MEM",
+      "summary": "Drafted Sergei Lishouk",
+      "participants": [
+        {
+          "name": "Sergei Lishouk",
+          "playerHref": "/players/l/lishcse01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 356232.8,
+        "vorp": 242.4000000000001
+      }
+    },
+    {
+      "id": "westje01x-170",
+      "sourceId": 170,
+      "date": "2004-06-24",
+      "type": "trade",
+      "tenureTeam": "MEM",
+      "summary": "Added Andre Emmett; Sent out Mickaël Gelabale",
+      "participants": [
+        {
+          "name": "Mickaël Gelabale",
+          "playerHref": "/players/g/gelabmi01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 4616.4,
+            "vorp": 0.30000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Andre Emmett",
+          "playerHref": "/players/e/emmetan01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -324.8,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4291.599999999999,
+        "vorp": 0.20000000000000004
+      },
+      "runningValues": {
+        "bpm": 360524.4,
+        "vorp": 242.6000000000001
+      }
+    },
+    {
+      "id": "westje01x-171",
+      "sourceId": 171,
+      "date": "2004-06-24",
+      "type": "trade",
+      "tenureTeam": "MEM",
+      "summary": "Added Antonio Burks",
+      "participants": [
+        {
+          "name": "Antonio Burks",
+          "playerHref": "/players/b/burksan01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -3862.8,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3862.8,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": 356661.60000000003,
+        "vorp": 242.0000000000001
+      }
+    },
+    {
+      "id": "westje01x-172",
+      "sourceId": 172,
+      "date": "2004-07-14",
+      "type": "signing",
+      "tenureTeam": "MEM",
+      "summary": "Signed Brian Cardinal",
+      "participants": [
+        {
+          "name": "Brian Cardinal",
+          "playerHref": "/players/c/cardibr01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -840.5999999999999,
+            "vorp": 0.9999999999999999
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -840.5999999999999,
+        "vorp": 0.9999999999999999
+      },
+      "runningValues": {
+        "bpm": 355821.00000000006,
+        "vorp": 243.0000000000001
+      }
+    },
+    {
+      "id": "westje01x-173",
+      "sourceId": 173,
+      "date": "2005-06-28",
+      "type": "draft",
+      "tenureTeam": "MEM",
+      "summary": "Drafted Hakim Warrick",
+      "participants": [
+        {
+          "name": "Hakim Warrick",
+          "playerHref": "/players/w/warriha01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -12401.6,
+            "vorp": 0.19999999999999996
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -12401.6,
+        "vorp": 0.19999999999999996
+      },
+      "runningValues": {
+        "bpm": 343419.4000000001,
+        "vorp": 243.2000000000001
+      }
+    },
+    {
+      "id": "westje01x-174",
+      "sourceId": 174,
+      "date": "2005-06-28",
+      "type": "trade",
+      "tenureTeam": "MEM",
+      "summary": "Added Lawrence Roberts; Sent out Yotam Halperin and Carl Landry",
+      "participants": [
+        {
+          "name": "Yotam Halperin",
+          "playerHref": "/players/h/halpeyo01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Carl Landry",
+          "playerHref": "/players/l/landrca01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lawrence Roberts",
+          "playerHref": "/players/r/roberla01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -2172.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2172.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 341247.20000000007,
+        "vorp": 243.2000000000001
+      }
+    },
+    {
+      "id": "westje01x-175",
+      "sourceId": 175,
+      "date": "2005-08-02",
+      "type": "trade",
+      "tenureTeam": "MEM",
+      "summary": "Added Eddie Jones and Raül López; Sent out Greg Ostertag, Andre Emmett, James Posey, and Jason Williams",
+      "participants": [
+        {
+          "name": "Greg Ostertag",
+          "playerHref": "/players/o/ostergr01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 1049.1000000000001,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Andre Emmett",
+          "playerHref": "/players/e/emmetan01.html",
+          "direction": "out",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "James Posey",
+          "playerHref": "/players/p/poseyja01.html",
+          "direction": "out",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": -1918.5000000000002,
+            "vorp": -2.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jason Williams",
+          "playerHref": "/players/w/willija02.html",
+          "direction": "out",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": -1110,
+            "vorp": -3.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eddie Jones",
+          "playerHref": "/players/j/jonesed02.html",
+          "direction": "in",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": 2375.8999999999996,
+            "vorp": 1.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Raül López",
+          "playerHref": "/players/l/lopezra01.html",
+          "direction": "in",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 396.49999999999955,
+        "vorp": -4.6
+      },
+      "runningValues": {
+        "bpm": 341643.70000000007,
+        "vorp": 238.6000000000001
+      }
+    },
+    {
+      "id": "westje01x-176",
+      "sourceId": 176,
+      "date": "2005-08-02",
+      "type": "trade",
+      "tenureTeam": "MEM",
+      "summary": "Added Bobby Jackson and Greg Ostertag; Sent out Bonzi Wells",
+      "participants": [
+        {
+          "name": "Bonzi Wells",
+          "playerHref": "/players/w/wellsbo01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -673.6,
+            "vorp": -1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bobby Jackson",
+          "playerHref": "/players/j/jacksbo01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 710,
+            "vorp": 1.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Greg Ostertag",
+          "playerHref": "/players/o/ostergr01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 36.39999999999998,
+        "vorp": 0.10000000000000009
+      },
+      "runningValues": {
+        "bpm": 341680.1000000001,
+        "vorp": 238.7000000000001
+      }
+    },
+    {
+      "id": "westje01x-177",
+      "sourceId": 177,
+      "date": "2005-08-05",
+      "type": "signing",
+      "tenureTeam": "MEM",
+      "summary": "Signed Damon Stoudamire",
+      "participants": [
+        {
+          "name": "Damon Stoudamire",
+          "playerHref": "/players/s/stoudda01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -4310.9,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4310.9,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": 337369.20000000007,
+        "vorp": 239.2000000000001
+      }
+    },
+    {
+      "id": "westje01x-178",
+      "sourceId": 178,
+      "date": "2005-08-18",
+      "type": "signing",
+      "tenureTeam": "MEM",
+      "summary": "Signed Anthony Roberson",
+      "participants": [
+        {
+          "name": "Anthony Roberson",
+          "playerHref": "/players/r/roberan02.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -202.39999999999998,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -202.39999999999998,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 337166.80000000005,
+        "vorp": 239.2000000000001
+      }
+    },
+    {
+      "id": "westje01x-179",
+      "sourceId": 179,
+      "date": "2005-09-06",
+      "type": "signing",
+      "tenureTeam": "MEM",
+      "summary": "Signed Kimani Ffriend",
+      "participants": [
+        {
+          "name": "Kimani Ffriend",
+          "playerHref": "/players/f/ffrieki01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 337166.80000000005,
+        "vorp": 239.2000000000001
+      }
+    },
+    {
+      "id": "westje01x-180",
+      "sourceId": 180,
+      "date": "2005-09-28",
+      "type": "signing",
+      "tenureTeam": "MEM",
+      "summary": "Signed Kennedy Winston",
+      "participants": [
+        {
+          "name": "Kennedy Winston",
+          "playerHref": "/players/w/winstke01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 337166.80000000005,
+        "vorp": 239.2000000000001
+      }
+    },
+    {
+      "id": "westje01x-181",
+      "sourceId": 181,
+      "date": "2005-10-02",
+      "type": "signing",
+      "tenureTeam": "MEM",
+      "summary": "Signed John Thomas",
+      "participants": [
+        {
+          "name": "John Thomas",
+          "playerHref": "/players/t/thomajo02.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -137.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -137.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 337029.30000000005,
+        "vorp": 239.2000000000001
+      }
+    },
+    {
+      "id": "westje01x-182",
+      "sourceId": 182,
+      "date": "2006-01-23",
+      "type": "signing",
+      "tenureTeam": "MEM",
+      "summary": "Signed Chucky Atkins",
+      "participants": [
+        {
+          "name": "Chucky Atkins",
+          "playerHref": "/players/a/atkinch01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 129,
+            "vorp": 1.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 129,
+        "vorp": 1.6
+      },
+      "runningValues": {
+        "bpm": 337158.30000000005,
+        "vorp": 240.8000000000001
+      }
+    },
+    {
+      "id": "westje01x-183",
+      "sourceId": 183,
+      "date": "2006-06-28",
+      "type": "draft",
+      "tenureTeam": "MEM",
+      "summary": "Drafted Kyle Lowry",
+      "participants": [
+        {
+          "name": "Kyle Lowry",
+          "playerHref": "/players/l/lowryky01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -1931.9000000000005,
+            "vorp": 1.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1931.9000000000005,
+        "vorp": 1.2
+      },
+      "runningValues": {
+        "bpm": 335226.4,
+        "vorp": 242.00000000000009
+      }
+    },
+    {
+      "id": "westje01x-184",
+      "sourceId": 184,
+      "date": "2006-06-28",
+      "type": "trade",
+      "tenureTeam": "MEM",
+      "summary": "Added Alexander Johnson; Sent out Joey Dorsey",
+      "participants": [
+        {
+          "name": "Joey Dorsey",
+          "playerHref": "/players/d/dorsejo01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alexander Johnson",
+          "playerHref": "/players/j/johnsal01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -2635.5,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2635.5,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": 332590.9,
+        "vorp": 241.70000000000007
+      }
+    },
+    {
+      "id": "westje01x-185",
+      "sourceId": 185,
+      "date": "2006-07-12",
+      "type": "trade",
+      "tenureTeam": "MEM",
+      "summary": "Added Rudy Gay and Stromile Swift; Sent out Shane Battier",
+      "participants": [
+        {
+          "name": "Shane Battier",
+          "playerHref": "/players/b/battish01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -23454.600000000002,
+            "vorp": -11.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rudy Gay",
+          "playerHref": "/players/g/gayru01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 7118.1,
+            "vorp": 10.600000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Stromile Swift",
+          "playerHref": "/players/s/swiftst01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -5056.2,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -21392.7,
+        "vorp": -1.6999999999999993
+      },
+      "runningValues": {
+        "bpm": 311198.2,
+        "vorp": 240.00000000000006
+      }
+    },
+    {
+      "id": "westje01x-186",
+      "sourceId": 186,
+      "date": "2006-07-13",
+      "type": "signing",
+      "tenureTeam": "MEM",
+      "summary": "Signed Tarence Kinsey",
+      "participants": [
+        {
+          "name": "Tarence Kinsey",
+          "playerHref": "/players/k/kinseta01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -2241.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2241.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 308957,
+        "vorp": 240.00000000000006
+      }
+    },
+    {
+      "id": "westje01x-187",
+      "sourceId": 187,
+      "date": "2006-08-01",
+      "type": "signing",
+      "tenureTeam": "MEM",
+      "summary": "Signed Junior Harrington",
+      "participants": [
+        {
+          "name": "Junior Harrington",
+          "playerHref": "/players/h/harriju01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 308957,
+        "vorp": 240.00000000000006
+      }
+    },
+    {
+      "id": "westje01x-188",
+      "sourceId": 188,
+      "date": "2006-10-02",
+      "type": "signing",
+      "tenureTeam": "MEM",
+      "summary": "Signed Kimani Ffriend",
+      "participants": [
+        {
+          "name": "Kimani Ffriend",
+          "playerHref": "/players/f/ffrieki01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 308957,
+        "vorp": 240.00000000000006
+      }
+    },
+    {
+      "id": "westje01x-189",
+      "sourceId": 189,
+      "date": "2007-01-30",
+      "type": "signing",
+      "tenureTeam": "MEM",
+      "summary": "Signed Will Conroy",
+      "participants": [
+        {
+          "name": "Will Conroy",
+          "playerHref": "/players/c/conrowi01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -45.900000000000006,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -45.900000000000006,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 308911.1,
+        "vorp": 240.00000000000006
+      }
+    },
+    {
+      "id": "westje01x-190",
+      "sourceId": 190,
+      "date": "2007-02-09",
+      "type": "signing",
+      "tenureTeam": "MEM",
+      "summary": "Signed Junior Harrington",
+      "participants": [
+        {
+          "name": "Junior Harrington",
+          "playerHref": "/players/h/harriju01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -2497.7999999999997,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2497.7999999999997,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": 306413.3,
+        "vorp": 239.60000000000005
+      }
+    },
+    {
+      "id": "westje01x-191",
+      "sourceId": 191,
+      "date": "2007-02-13",
+      "type": "trade",
+      "tenureTeam": "MEM",
+      "summary": "Added Scott Padgett; Sent out Jake Tsakalidis",
+      "participants": [
+        {
+          "name": "Jake Tsakalidis",
+          "playerHref": "/players/t/tsakaja01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 422.40000000000003,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Scott Padgett",
+          "playerHref": "/players/p/padgesc01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -310.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 112.20000000000005,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 306525.5,
+        "vorp": 239.50000000000006
+      }
+    }
+  ]
+}

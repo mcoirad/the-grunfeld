@@ -1,0 +1,1560 @@
+{
+  "slug": "unselwe01x",
+  "sourceRowCount": 68,
+  "tenures": [
+    {
+      "teamCode": "WAS",
+      "startDate": "1996-06-26",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "unselwe01x-0",
+      "sourceId": 0,
+      "date": "1996-06-26",
+      "type": "draft",
+      "tenureTeam": "WAS",
+      "summary": "Drafted Ronnie Henderson",
+      "participants": [
+        {
+          "name": "Ronnie Henderson",
+          "playerHref": "/players/h/hendero02.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "unselwe01x-1",
+      "sourceId": 1,
+      "date": "1996-07-15",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Harvey Grant and Rod Strickland; Sent out Mitchell Butler and Rasheed Wallace",
+      "participants": [
+        {
+          "name": "Mitchell Butler",
+          "playerHref": "/players/b/butlemi02.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 1771.5,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rasheed Wallace",
+          "playerHref": "/players/w/wallara01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -45784.8,
+            "vorp": -21.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Harvey Grant",
+          "playerHref": "/players/g/grantha01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -3132.5,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rod Strickland",
+          "playerHref": "/players/s/stricro02.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 17270,
+            "vorp": 8.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -29875.800000000003,
+        "vorp": -13.3
+      },
+      "runningValues": {
+        "bpm": -29875.800000000003,
+        "vorp": -13.3
+      }
+    },
+    {
+      "id": "unselwe01x-2",
+      "sourceId": 2,
+      "date": "1996-07-15",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Tracy Murray",
+      "participants": [
+        {
+          "name": "Tracy Murray",
+          "playerHref": "/players/m/murratr01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 3737,
+            "vorp": 3.3999999999999995
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3737,
+        "vorp": 3.3999999999999995
+      },
+      "runningValues": {
+        "bpm": -26138.800000000003,
+        "vorp": -9.900000000000002
+      }
+    },
+    {
+      "id": "unselwe01x-3",
+      "sourceId": 3,
+      "date": "1996-07-26",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Lorenzo Williams",
+      "participants": [
+        {
+          "name": "Lorenzo Williams",
+          "playerHref": "/players/w/willilo01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 55.000000000000014,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 55.000000000000014,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -26083.800000000003,
+        "vorp": -9.800000000000002
+      }
+    },
+    {
+      "id": "unselwe01x-4",
+      "sourceId": 4,
+      "date": "1996-09-04",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Ashraf Amaya",
+      "participants": [
+        {
+          "name": "Ashraf Amaya",
+          "playerHref": "/players/a/amayaas01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -26083.800000000003,
+        "vorp": -9.800000000000002
+      }
+    },
+    {
+      "id": "unselwe01x-5",
+      "sourceId": 5,
+      "date": "1996-10-02",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Matt Fish",
+      "participants": [
+        {
+          "name": "Matt Fish",
+          "playerHref": "/players/f/fishma01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -26083.800000000003,
+        "vorp": -9.800000000000002
+      }
+    },
+    {
+      "id": "unselwe01x-6",
+      "sourceId": 6,
+      "date": "1996-10-02",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Jaren Jackson",
+      "participants": [
+        {
+          "name": "Jaren Jackson",
+          "playerHref": "/players/j/jacksja01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -26083.800000000003,
+        "vorp": -9.800000000000002
+      }
+    },
+    {
+      "id": "unselwe01x-7",
+      "sourceId": 7,
+      "date": "1996-10-02",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Ben Wallace",
+      "participants": [
+        {
+          "name": "Ben Wallace",
+          "playerHref": "/players/w/wallabe01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 2879.5,
+            "vorp": 2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2879.5,
+        "vorp": 2
+      },
+      "runningValues": {
+        "bpm": -23204.300000000003,
+        "vorp": -7.8000000000000025
+      }
+    },
+    {
+      "id": "unselwe01x-8",
+      "sourceId": 8,
+      "date": "1996-10-02",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Richard Petruška",
+      "participants": [
+        {
+          "name": "Richard Petruška",
+          "playerHref": "/players/p/petruri01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -23204.300000000003,
+        "vorp": -7.8000000000000025
+      }
+    },
+    {
+      "id": "unselwe01x-12",
+      "sourceId": 12,
+      "date": "1997-02-20",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Gaylon Nickerson",
+      "participants": [
+        {
+          "name": "Gaylon Nickerson",
+          "playerHref": "/players/n/nickega01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -23204.300000000003,
+        "vorp": -7.8000000000000025
+      }
+    },
+    {
+      "id": "unselwe01x-13",
+      "sourceId": 13,
+      "date": "1997-06-25",
+      "type": "draft",
+      "tenureTeam": "WAS",
+      "summary": "Drafted God Shammgod and Predrag Drobnjak",
+      "participants": [
+        {
+          "name": "God Shammgod",
+          "playerHref": "/players/s/shammgo01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -905.2,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Predrag Drobnjak",
+          "playerHref": "/players/d/drobnpr01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -905.2,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -24109.500000000004,
+        "vorp": -8.000000000000002
+      }
+    },
+    {
+      "id": "unselwe01x-14",
+      "sourceId": 14,
+      "date": "1997-09-29",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Amal McCaskill",
+      "participants": [
+        {
+          "name": "Amal McCaskill",
+          "playerHref": "/players/m/mccasam01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -24109.500000000004,
+        "vorp": -8.000000000000002
+      }
+    },
+    {
+      "id": "unselwe01x-15",
+      "sourceId": 15,
+      "date": "1997-09-30",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Darvin Ham",
+      "participants": [
+        {
+          "name": "Darvin Ham",
+          "playerHref": "/players/h/hamda01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -2540,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2540,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -26649.500000000004,
+        "vorp": -8.300000000000002
+      }
+    },
+    {
+      "id": "unselwe01x-16",
+      "sourceId": 16,
+      "date": "1997-10-07",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Charles Shackleford",
+      "participants": [
+        {
+          "name": "Charles Shackleford",
+          "playerHref": "/players/s/shackch01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -26649.500000000004,
+        "vorp": -8.300000000000002
+      }
+    },
+    {
+      "id": "unselwe01x-17",
+      "sourceId": 17,
+      "date": "1997-10-27",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Terry Davis",
+      "participants": [
+        {
+          "name": "Terry Davis",
+          "playerHref": "/players/d/daviste01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -5932.9,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5932.9,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -32582.4,
+        "vorp": -8.600000000000003
+      }
+    },
+    {
+      "id": "unselwe01x-18",
+      "sourceId": 18,
+      "date": "1997-10-30",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Jimmy Oliver",
+      "participants": [
+        {
+          "name": "Jimmy Oliver",
+          "playerHref": "/players/o/oliveji01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 75,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 75,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -32507.4,
+        "vorp": -8.600000000000003
+      }
+    },
+    {
+      "id": "unselwe01x-19",
+      "sourceId": 19,
+      "date": "1998-02-09",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Lawrence Moten",
+      "participants": [
+        {
+          "name": "Lawrence Moten",
+          "playerHref": "/players/m/motenla01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -394.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -394.2,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -32901.6,
+        "vorp": -8.700000000000003
+      }
+    },
+    {
+      "id": "unselwe01x-20",
+      "sourceId": 20,
+      "date": "1998-05-14",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Mitch Richmond and Otis Thorpe; Sent out Chris Webber",
+      "participants": [
+        {
+          "name": "Chris Webber",
+          "playerHref": "/players/w/webbech01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -58478.1,
+            "vorp": -22.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mitch Richmond",
+          "playerHref": "/players/r/richmmi01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 1889.5000000000002,
+            "vorp": 3.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Otis Thorpe",
+          "playerHref": "/players/t/thorpot01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -461.7,
+            "vorp": 0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -57050.299999999996,
+        "vorp": -18.299999999999997
+      },
+      "runningValues": {
+        "bpm": -89951.9,
+        "vorp": -27
+      }
+    },
+    {
+      "id": "unselwe01x-21",
+      "sourceId": 21,
+      "date": "1998-06-24",
+      "type": "draft",
+      "tenureTeam": "WAS",
+      "summary": "Drafted Jahidi White",
+      "participants": [
+        {
+          "name": "Jahidi White",
+          "playerHref": "/players/w/whiteja01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -89951.9,
+        "vorp": -27
+      }
+    },
+    {
+      "id": "unselwe01x-22",
+      "sourceId": 22,
+      "date": "1999-01-21",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Etdrick Bohannon",
+      "participants": [
+        {
+          "name": "Etdrick Bohannon",
+          "playerHref": "/players/b/bohanet01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -18.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -18.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -89970.29999999999,
+        "vorp": -27
+      }
+    },
+    {
+      "id": "unselwe01x-23",
+      "sourceId": 23,
+      "date": "1999-01-21",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Jeff McInnis",
+      "participants": [
+        {
+          "name": "Jeff McInnis",
+          "playerHref": "/players/m/mcinnje01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -768.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -768.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -90738.9,
+        "vorp": -27
+      }
+    },
+    {
+      "id": "unselwe01x-24",
+      "sourceId": 24,
+      "date": "1999-01-21",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Randell Jackson",
+      "participants": [
+        {
+          "name": "Randell Jackson",
+          "playerHref": "/players/j/jacksra02.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -1490.5,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1490.5,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -92229.4,
+        "vorp": -27.2
+      }
+    },
+    {
+      "id": "unselwe01x-25",
+      "sourceId": 25,
+      "date": "1999-01-21",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Ivano Newbill",
+      "participants": [
+        {
+          "name": "Ivano Newbill",
+          "playerHref": "/players/n/newbiiv01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -92229.4,
+        "vorp": -27.2
+      }
+    },
+    {
+      "id": "unselwe01x-26",
+      "sourceId": 26,
+      "date": "1999-01-21",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Rookie contract for Jahidi White",
+      "participants": [
+        {
+          "name": "Jahidi White",
+          "playerHref": "/players/w/whiteja01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -13513.7,
+            "vorp": -0.9
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -13513.7,
+        "vorp": -0.9
+      },
+      "runningValues": {
+        "bpm": -105743.09999999999,
+        "vorp": -28.099999999999998
+      }
+    },
+    {
+      "id": "unselwe01x-27",
+      "sourceId": 27,
+      "date": "1999-03-18",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed John Coker",
+      "participants": [
+        {
+          "name": "John Coker",
+          "playerHref": "/players/c/cokerjo01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -105743.09999999999,
+        "vorp": -28.099999999999998
+      }
+    },
+    {
+      "id": "unselwe01x-28",
+      "sourceId": 28,
+      "date": "1999-04-08",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed John Coker",
+      "participants": [
+        {
+          "name": "John Coker",
+          "playerHref": "/players/c/cokerjo01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -499.79999999999995,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -499.79999999999995,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -106242.9,
+        "vorp": -28.2
+      }
+    },
+    {
+      "id": "unselwe01x-30",
+      "sourceId": 30,
+      "date": "1999-06-30",
+      "type": "draft",
+      "tenureTeam": "WAS",
+      "summary": "Drafted Richard Hamilton and Calvin Booth",
+      "participants": [
+        {
+          "name": "Richard Hamilton",
+          "playerHref": "/players/h/hamilri01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -12467.300000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Calvin Booth",
+          "playerHref": "/players/b/boothca01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -2552.4,
+            "vorp": 0.09999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -15019.7,
+        "vorp": 0.09999999999999998
+      },
+      "runningValues": {
+        "bpm": -121262.59999999999,
+        "vorp": -28.099999999999998
+      }
+    },
+    {
+      "id": "unselwe01x-31",
+      "sourceId": 31,
+      "date": "1999-08-11",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Isaac Austin; Sent out Terry Davis, Tim Legler, Jeff McInnis, and Ben Wallace",
+      "participants": [
+        {
+          "name": "Terry Davis",
+          "playerHref": "/players/d/daviste01.html",
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tim Legler",
+          "playerHref": "/players/l/legleti01.html",
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jeff McInnis",
+          "playerHref": "/players/m/mcinnje01.html",
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ben Wallace",
+          "playerHref": "/players/w/wallabe01.html",
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -3526.2000000000003,
+            "vorp": -1.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Isaac Austin",
+          "playerHref": "/players/a/austiis01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -3753.6000000000004,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -7279.800000000001,
+        "vorp": -2.3
+      },
+      "runningValues": {
+        "bpm": -128542.4,
+        "vorp": -30.399999999999995
+      }
+    },
+    {
+      "id": "unselwe01x-32",
+      "sourceId": 32,
+      "date": "1999-08-17",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Aaron Williams",
+      "participants": [
+        {
+          "name": "Aaron Williams",
+          "playerHref": "/players/w/williaa01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 463.5,
+            "vorp": 0.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 463.5,
+        "vorp": 0.9
+      },
+      "runningValues": {
+        "bpm": -128078.9,
+        "vorp": -29.499999999999996
+      }
+    },
+    {
+      "id": "unselwe01x-33",
+      "sourceId": 33,
+      "date": "1999-08-19",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Jonathan Kerner",
+      "participants": [
+        {
+          "name": "Jonathan Kerner",
+          "playerHref": "/players/k/kernejo01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -128078.9,
+        "vorp": -29.499999999999996
+      }
+    },
+    {
+      "id": "unselwe01x-34",
+      "sourceId": 34,
+      "date": "1999-09-20",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Gerard King",
+      "participants": [
+        {
+          "name": "Gerard King",
+          "playerHref": "/players/k/kingge02.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -3213.2000000000003,
+            "vorp": 0.09999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3213.2000000000003,
+        "vorp": 0.09999999999999998
+      },
+      "runningValues": {
+        "bpm": -131292.1,
+        "vorp": -29.399999999999995
+      }
+    },
+    {
+      "id": "unselwe01x-35",
+      "sourceId": 35,
+      "date": "1999-09-22",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Laron Profit; Sent out Omar Cook",
+      "participants": [
+        {
+          "name": "Omar Cook",
+          "playerHref": "/players/c/cookom01.html",
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Laron Profit",
+          "playerHref": "/players/p/profila01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -2723.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2723.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -134015.30000000002,
+        "vorp": -29.399999999999995
+      }
+    },
+    {
+      "id": "unselwe01x-36",
+      "sourceId": 36,
+      "date": "1999-09-28",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed James Collins",
+      "participants": [
+        {
+          "name": "James Collins",
+          "playerHref": "/players/c/collija01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -134015.30000000002,
+        "vorp": -29.399999999999995
+      }
+    },
+    {
+      "id": "unselwe01x-37",
+      "sourceId": 37,
+      "date": "1999-10-01",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Michael Smith",
+      "participants": [
+        {
+          "name": "Michael Smith",
+          "playerHref": "/players/s/smithmi02.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 894.5,
+            "vorp": 1.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 894.5,
+        "vorp": 1.6
+      },
+      "runningValues": {
+        "bpm": -133120.80000000002,
+        "vorp": -27.799999999999994
+      }
+    },
+    {
+      "id": "unselwe01x-38",
+      "sourceId": 38,
+      "date": "1999-10-01",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Reggie Jordan",
+      "participants": [
+        {
+          "name": "Reggie Jordan",
+          "playerHref": "/players/j/jordare01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -729,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -729,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -133849.80000000002,
+        "vorp": -27.899999999999995
+      }
+    },
+    {
+      "id": "unselwe01x-39",
+      "sourceId": 39,
+      "date": "2002-06-25",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Juan Dixon; Sent out Courtney Alexander",
+      "participants": [
+        {
+          "name": "Courtney Alexander",
+          "playerHref": "/players/a/alexaco02.html",
+          "direction": "out",
+          "teamCode": "CHH",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Juan Dixon",
+          "playerHref": "/players/d/dixonju01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -133849.80000000002,
+        "vorp": -27.899999999999995
+      }
+    },
+    {
+      "id": "unselwe01x-40",
+      "sourceId": 40,
+      "date": "2002-06-26",
+      "type": "draft",
+      "tenureTeam": "WAS",
+      "summary": "Drafted Jared Jeffries, Juan Dixon, Rod Grizzard, and Juan Carlos Navarro",
+      "participants": [
+        {
+          "name": "Jared Jeffries",
+          "playerHref": "/players/j/jeffrja01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -14052.100000000002,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Juan Dixon",
+          "playerHref": "/players/d/dixonju01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -9172.199999999999,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rod Grizzard",
+          "playerHref": "/players/g/grizzro01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Juan Carlos Navarro",
+          "playerHref": "/players/n/navarju01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -23224.300000000003,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": -157074.10000000003,
+        "vorp": -28.599999999999994
+      }
+    },
+    {
+      "id": "unselwe01x-41",
+      "sourceId": 41,
+      "date": "2002-07-18",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Larry Hughes",
+      "participants": [
+        {
+          "name": "Larry Hughes",
+          "playerHref": "/players/h/hughela01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 12421.7,
+            "vorp": 6.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 12421.7,
+        "vorp": 6.4
+      },
+      "runningValues": {
+        "bpm": -144652.40000000002,
+        "vorp": -22.199999999999996
+      }
+    },
+    {
+      "id": "unselwe01x-42",
+      "sourceId": 42,
+      "date": "2002-09-10",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Bryon Russell",
+      "participants": [
+        {
+          "name": "Bryon Russell",
+          "playerHref": "/players/r/russebr01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -2220.8,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2220.8,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -146873.2,
+        "vorp": -22.099999999999994
+      }
+    },
+    {
+      "id": "unselwe01x-43",
+      "sourceId": 43,
+      "date": "2002-09-11",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Brian Cardinal, Jerry Stackhouse, and Ratko Varda; Sent out Hubert Davis, Richard Hamilton, and Bobby Simmons",
+      "participants": [
+        {
+          "name": "Hubert Davis",
+          "playerHref": "/players/d/davishu01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 1150.1,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Richard Hamilton",
+          "playerHref": "/players/h/hamilri01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -10982.899999999998,
+            "vorp": -13.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bobby Simmons",
+          "playerHref": "/players/s/simmobo01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Brian Cardinal",
+          "playerHref": "/players/c/cardibr01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -42,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jerry Stackhouse",
+          "playerHref": "/players/s/stackje01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 707.2999999999997,
+            "vorp": 1.9999999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ratko Varda",
+          "playerHref": "/players/v/vardara01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -9167.499999999998,
+        "vorp": -11.4
+      },
+      "runningValues": {
+        "bpm": -156040.7,
+        "vorp": -33.49999999999999
+      }
+    },
+    {
+      "id": "unselwe01x-44",
+      "sourceId": 44,
+      "date": "2002-10-01",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Bobby Simmons",
+      "participants": [
+        {
+          "name": "Bobby Simmons",
+          "playerHref": "/players/s/simmobo01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -156040.7,
+        "vorp": -33.49999999999999
+      }
+    },
+    {
+      "id": "unselwe01x-45",
+      "sourceId": 45,
+      "date": "2002-10-11",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Charles Oakley",
+      "participants": [
+        {
+          "name": "Charles Oakley",
+          "playerHref": "/players/o/oaklech01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -1387.8000000000002,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1387.8000000000002,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -157428.5,
+        "vorp": -33.599999999999994
+      }
+    },
+    {
+      "id": "unselwe01x-46",
+      "sourceId": 46,
+      "date": "2002-10-24",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added George McCloud; Sent out Chris Whitney",
+      "participants": [
+        {
+          "name": "Chris Whitney",
+          "playerHref": "/players/w/whitnch01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 2667,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "George McCloud",
+          "playerHref": "/players/m/mccloge01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2667,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": -154761.5,
+        "vorp": -33.3
+      }
+    },
+    {
+      "id": "unselwe01x-47",
+      "sourceId": 47,
+      "date": "2002-12-27",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Bobby Simmons",
+      "participants": [
+        {
+          "name": "Bobby Simmons",
+          "playerHref": "/players/s/simmobo01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -1058.3999999999999,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1058.3999999999999,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -155819.9,
+        "vorp": -33.4
+      }
+    },
+    {
+      "id": "unselwe01x-48",
+      "sourceId": 48,
+      "date": "2003-03-01",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Anthony Goldwire",
+      "participants": [
+        {
+          "name": "Anthony Goldwire",
+          "playerHref": "/players/g/goldwan01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -156.39999999999998,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -156.39999999999998,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -155976.3,
+        "vorp": -33.4
+      }
+    }
+  ]
+}

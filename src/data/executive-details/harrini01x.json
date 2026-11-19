@@ -1,0 +1,3373 @@
+{
+  "slug": "harrini01x",
+  "sourceRowCount": 151,
+  "tenures": [
+    {
+      "teamCode": "DAL",
+      "startDate": "2021-07-31",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "harrini01x-1",
+      "sourceId": 1,
+      "date": "2021-07-31",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Moses Brown; Sent out Josh Richardson",
+      "participants": [
+        {
+          "name": "Josh Richardson",
+          "playerHref": "/players/r/richajo01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": -326.09999999999997,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Moses Brown",
+          "playerHref": "/players/b/brownmo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -811.1999999999999,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1137.3,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": -1137.3,
+        "vorp": -0.7
+      }
+    },
+    {
+      "id": "harrini01x-2",
+      "sourceId": 2,
+      "date": "2021-08-03",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Nate Hinton",
+      "participants": [
+        {
+          "name": "Nate Hinton",
+          "playerHref": "/players/h/hintona01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -1137.3,
+        "vorp": -0.7
+      }
+    },
+    {
+      "id": "harrini01x-3",
+      "sourceId": 3,
+      "date": "2021-08-06",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Reggie Bullock",
+      "participants": [
+        {
+          "name": "Reggie Bullock",
+          "playerHref": "/players/b/bullore01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -8809.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -8809.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -9946.5,
+        "vorp": -0.7
+      }
+    },
+    {
+      "id": "harrini01x-4",
+      "sourceId": 4,
+      "date": "2021-08-09",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Tim Hardaway Jr.",
+      "participants": [
+        {
+          "name": "Tim Hardaway Jr.",
+          "playerHref": "/players/h/hardati02.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -10270.6,
+            "vorp": 0.19999999999999996
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -10270.6,
+        "vorp": 0.19999999999999996
+      },
+      "runningValues": {
+        "bpm": -20217.1,
+        "vorp": -0.5
+      }
+    },
+    {
+      "id": "harrini01x-5",
+      "sourceId": 5,
+      "date": "2021-08-09",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Sterling Brown",
+      "participants": [
+        {
+          "name": "Sterling Brown",
+          "playerHref": "/players/b/brownst02.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -1821.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1821.2,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -22038.3,
+        "vorp": -0.6
+      }
+    },
+    {
+      "id": "harrini01x-6",
+      "sourceId": 6,
+      "date": "2021-08-09",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Boban Marjanović",
+      "participants": [
+        {
+          "name": "Boban Marjanović",
+          "playerHref": "/players/m/marjabo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -563.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -563.2,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -22601.5,
+        "vorp": -0.7
+      }
+    },
+    {
+      "id": "harrini01x-7",
+      "sourceId": 7,
+      "date": "2021-08-13",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Eugene Omoruyi",
+      "participants": [
+        {
+          "name": "Eugene Omoruyi",
+          "playerHref": "/players/o/omorueu01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 72,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 72,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -22529.5,
+        "vorp": -0.7
+      }
+    },
+    {
+      "id": "harrini01x-8",
+      "sourceId": 8,
+      "date": "2021-08-18",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed E.J. Onu",
+      "participants": [
+        {
+          "name": "E.J. Onu",
+          "playerHref": "/players/o/onuej01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -22529.5,
+        "vorp": -0.7
+      }
+    },
+    {
+      "id": "harrini01x-9",
+      "sourceId": 9,
+      "date": "2021-08-18",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Feron Hunt",
+      "participants": [
+        {
+          "name": "Feron Hunt",
+          "playerHref": "/players/h/huntfe01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -22529.5,
+        "vorp": -0.7
+      }
+    },
+    {
+      "id": "harrini01x-10",
+      "sourceId": 10,
+      "date": "2021-08-18",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Carlik Jones",
+      "participants": [
+        {
+          "name": "Carlik Jones",
+          "playerHref": "/players/j/jonesca03.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -22529.5,
+        "vorp": -0.7
+      }
+    },
+    {
+      "id": "harrini01x-11",
+      "sourceId": 11,
+      "date": "2021-09-03",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed JaQuori McLaughlin",
+      "participants": [
+        {
+          "name": "JaQuori McLaughlin",
+          "playerHref": "/players/m/mclauja01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -148.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -148.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -22678,
+        "vorp": -0.7
+      }
+    },
+    {
+      "id": "harrini01x-12",
+      "sourceId": 12,
+      "date": "2021-09-16",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Frank Ntilikina",
+      "participants": [
+        {
+          "name": "Frank Ntilikina",
+          "playerHref": "/players/n/ntilila01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -5368.4,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5368.4,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": -28046.4,
+        "vorp": -1.4
+      }
+    },
+    {
+      "id": "harrini01x-13",
+      "sourceId": 13,
+      "date": "2021-10-15",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Justin Jackson",
+      "participants": [
+        {
+          "name": "Justin Jackson",
+          "playerHref": "/players/j/jacksju01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -28046.4,
+        "vorp": -1.4
+      }
+    },
+    {
+      "id": "harrini01x-14",
+      "sourceId": 14,
+      "date": "2021-10-15",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed E.J. Onu",
+      "participants": [
+        {
+          "name": "E.J. Onu",
+          "playerHref": "/players/o/onuej01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -28046.4,
+        "vorp": -1.4
+      }
+    },
+    {
+      "id": "harrini01x-15",
+      "sourceId": 15,
+      "date": "2021-12-20",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Theo Pinson",
+      "participants": [
+        {
+          "name": "Theo Pinson",
+          "playerHref": "/players/p/pinsoth01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -28046.4,
+        "vorp": -1.4
+      }
+    },
+    {
+      "id": "harrini01x-16",
+      "sourceId": 16,
+      "date": "2021-12-21",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Marquese Chriss",
+      "participants": [
+        {
+          "name": "Marquese Chriss",
+          "playerHref": "/players/c/chrisma01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -28046.4,
+        "vorp": -1.4
+      }
+    },
+    {
+      "id": "harrini01x-17",
+      "sourceId": 17,
+      "date": "2021-12-22",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed George King",
+      "participants": [
+        {
+          "name": "George King",
+          "playerHref": "/players/k/kingge03.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -380,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -380,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -28426.4,
+        "vorp": -1.5
+      }
+    },
+    {
+      "id": "harrini01x-18",
+      "sourceId": 18,
+      "date": "2021-12-23",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Carlik Jones",
+      "participants": [
+        {
+          "name": "Carlik Jones",
+          "playerHref": "/players/j/jonesca03.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -326.8,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -326.8,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -28753.2,
+        "vorp": -1.6
+      }
+    },
+    {
+      "id": "harrini01x-19",
+      "sourceId": 19,
+      "date": "2021-12-23",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Brandon Knight",
+      "participants": [
+        {
+          "name": "Brandon Knight",
+          "playerHref": "/players/k/knighbr03.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -299,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -299,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -29052.2,
+        "vorp": -1.6
+      }
+    },
+    {
+      "id": "harrini01x-20",
+      "sourceId": 20,
+      "date": "2021-12-23",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Charlie Brown Jr.",
+      "participants": [
+        {
+          "name": "Charlie Brown Jr.",
+          "playerHref": "/players/b/brownch02.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -39,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -39,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -29091.2,
+        "vorp": -1.6
+      }
+    },
+    {
+      "id": "harrini01x-21",
+      "sourceId": 21,
+      "date": "2021-12-29",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Isaiah Thomas",
+      "participants": [
+        {
+          "name": "Isaiah Thomas",
+          "playerHref": "/players/t/thomais02.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -54.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -54.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -29145.8,
+        "vorp": -1.6
+      }
+    },
+    {
+      "id": "harrini01x-22",
+      "sourceId": 22,
+      "date": "2021-12-31",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Theo Pinson",
+      "participants": [
+        {
+          "name": "Theo Pinson",
+          "playerHref": "/players/p/pinsoth01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -29145.8,
+        "vorp": -1.6
+      }
+    },
+    {
+      "id": "harrini01x-23",
+      "sourceId": 23,
+      "date": "2021-12-31",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Marquese Chriss",
+      "participants": [
+        {
+          "name": "Marquese Chriss",
+          "playerHref": "/players/c/chrisma01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -29145.8,
+        "vorp": -1.6
+      }
+    },
+    {
+      "id": "harrini01x-24",
+      "sourceId": 24,
+      "date": "2022-01-10",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Marquese Chriss",
+      "participants": [
+        {
+          "name": "Marquese Chriss",
+          "playerHref": "/players/c/chrisma01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -29145.8,
+        "vorp": -1.6
+      }
+    },
+    {
+      "id": "harrini01x-25",
+      "sourceId": 25,
+      "date": "2022-01-10",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Theo Pinson",
+      "participants": [
+        {
+          "name": "Theo Pinson",
+          "playerHref": "/players/p/pinsoth01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -74,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -74,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -29219.8,
+        "vorp": -1.5
+      }
+    },
+    {
+      "id": "harrini01x-26",
+      "sourceId": 26,
+      "date": "2022-01-15",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Marquese Chriss",
+      "participants": [
+        {
+          "name": "Marquese Chriss",
+          "playerHref": "/players/c/chrisma01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -1280.2,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1280.2,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -30500,
+        "vorp": -1.7
+      }
+    },
+    {
+      "id": "harrini01x-27",
+      "sourceId": 27,
+      "date": "2022-02-10",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Davis Bertans and Spencer Dinwiddie; Sent out Kristaps Porzingis and Yannick Nzosa",
+      "participants": [
+        {
+          "name": "Kristaps Porzingis",
+          "playerHref": "/players/p/porzikr01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -11798.4,
+            "vorp": -4.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Yannick Nzosa",
+          "playerHref": "/players/n/nzosaya01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Davis Bertans",
+          "playerHref": "/players/b/bertada01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -774,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Spencer Dinwiddie",
+          "playerHref": "/players/d/dinwisp01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -151.20000000000073,
+            "vorp": 2.3000000000000003
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -12723.6,
+        "vorp": -1.7999999999999994
+      },
+      "runningValues": {
+        "bpm": -43223.600000000006,
+        "vorp": -3.4999999999999996
+      }
+    },
+    {
+      "id": "harrini01x-28",
+      "sourceId": 28,
+      "date": "2022-02-25",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Moses Wright",
+      "participants": [
+        {
+          "name": "Moses Wright",
+          "playerHref": "/players/w/wrighmo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -3.9,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3.9,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -43227.50000000001,
+        "vorp": -3.4999999999999996
+      }
+    },
+    {
+      "id": "harrini01x-29",
+      "sourceId": 29,
+      "date": "2022-06-23",
+      "type": "draft",
+      "tenureTeam": "DAL",
+      "summary": "Drafted Wendell Moore Jr.",
+      "participants": [
+        {
+          "name": "Wendell Moore Jr.",
+          "playerHref": "/players/m/moorewe01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -43227.50000000001,
+        "vorp": -3.4999999999999996
+      }
+    },
+    {
+      "id": "harrini01x-30",
+      "sourceId": 30,
+      "date": "2022-06-23",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Jaden Hardy; Sent out Anton Watson and future ('2028', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Anton Watson",
+          "playerHref": "/players/w/watsoan02.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jaden Hardy",
+          "playerHref": "/players/h/hardyja02.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2028', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -43227.50000000001,
+        "vorp": -3.4999999999999996
+      }
+    },
+    {
+      "id": "harrini01x-31",
+      "sourceId": 31,
+      "date": "2022-06-24",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Christian Wood; Sent out Sterling Brown, Trey Burke, Marquese Chriss, Boban Marjanović, and Wendell Moore Jr.",
+      "participants": [
+        {
+          "name": "Sterling Brown",
+          "playerHref": "/players/b/brownst02.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Trey Burke",
+          "playerHref": "/players/b/burketr01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Marquese Chriss",
+          "playerHref": "/players/c/chrisma01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Boban Marjanović",
+          "playerHref": "/players/m/marjabo01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -259.40000000000003,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Wendell Moore Jr.",
+          "playerHref": "/players/m/moorewe01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Christian Wood",
+          "playerHref": "/players/w/woodch01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 2780.8,
+            "vorp": 1.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2521.4,
+        "vorp": 1.3
+      },
+      "runningValues": {
+        "bpm": -40706.100000000006,
+        "vorp": -2.1999999999999997
+      }
+    },
+    {
+      "id": "harrini01x-32",
+      "sourceId": 32,
+      "date": "2022-07-06",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Theo Pinson",
+      "participants": [
+        {
+          "name": "Theo Pinson",
+          "playerHref": "/players/p/pinsoth01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -1098.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1098.2,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -41804.3,
+        "vorp": -2.3
+      }
+    },
+    {
+      "id": "harrini01x-33",
+      "sourceId": 33,
+      "date": "2022-07-06",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Jaden Hardy",
+      "participants": [
+        {
+          "name": "Jaden Hardy",
+          "playerHref": "/players/h/hardyja02.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -11501.800000000001,
+            "vorp": -1.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -11501.800000000001,
+        "vorp": -1.3
+      },
+      "runningValues": {
+        "bpm": -53306.100000000006,
+        "vorp": -3.5999999999999996
+      }
+    },
+    {
+      "id": "harrini01x-34",
+      "sourceId": 34,
+      "date": "2022-07-09",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed JaVale McGee",
+      "participants": [
+        {
+          "name": "JaVale McGee",
+          "playerHref": "/players/m/mcgeeja01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -1313.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1313.5,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -54619.600000000006,
+        "vorp": -3.6999999999999997
+      }
+    },
+    {
+      "id": "harrini01x-35",
+      "sourceId": 35,
+      "date": "2022-07-23",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Tyler Dorsey",
+      "participants": [
+        {
+          "name": "Tyler Dorsey",
+          "playerHref": "/players/d/dorsety01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 143.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 143.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -54476.40000000001,
+        "vorp": -3.6999999999999997
+      }
+    },
+    {
+      "id": "harrini01x-36",
+      "sourceId": 36,
+      "date": "2022-08-12",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Mouhamadou Gueye",
+      "participants": [
+        {
+          "name": "Mouhamadou Gueye",
+          "playerHref": "/players/g/gueyemo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -54476.40000000001,
+        "vorp": -3.6999999999999997
+      }
+    },
+    {
+      "id": "harrini01x-37",
+      "sourceId": 37,
+      "date": "2022-08-15",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed McKinley Wright",
+      "participants": [
+        {
+          "name": "McKinley Wright",
+          "playerHref": "/players/w/wrighmc01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -54476.40000000001,
+        "vorp": -3.6999999999999997
+      }
+    },
+    {
+      "id": "harrini01x-38",
+      "sourceId": 38,
+      "date": "2022-08-16",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Tyler Hall",
+      "participants": [
+        {
+          "name": "Tyler Hall",
+          "playerHref": "/players/h/hallty01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -54476.40000000001,
+        "vorp": -3.6999999999999997
+      }
+    },
+    {
+      "id": "harrini01x-39",
+      "sourceId": 39,
+      "date": "2022-09-20",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed D.J. Stewart Jr.",
+      "participants": [
+        {
+          "name": "D.J. Stewart Jr.",
+          "playerHref": "/players/s/stewadj02.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -54476.40000000001,
+        "vorp": -3.6999999999999997
+      }
+    },
+    {
+      "id": "harrini01x-40",
+      "sourceId": 40,
+      "date": "2022-09-20",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Marcus Bingham Jr.",
+      "participants": [
+        {
+          "name": "Marcus Bingham Jr.",
+          "playerHref": "/players/b/binghma01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -54476.40000000001,
+        "vorp": -3.6999999999999997
+      }
+    },
+    {
+      "id": "harrini01x-41",
+      "sourceId": 41,
+      "date": "2022-10-15",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed McKinley Wright",
+      "participants": [
+        {
+          "name": "McKinley Wright",
+          "playerHref": "/players/w/wrighmc01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -904.5000000000001,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -904.5000000000001,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -55380.90000000001,
+        "vorp": -3.8
+      }
+    },
+    {
+      "id": "harrini01x-42",
+      "sourceId": 42,
+      "date": "2022-10-15",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Grant Riller",
+      "participants": [
+        {
+          "name": "Grant Riller",
+          "playerHref": "/players/r/rillegr01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -55380.90000000001,
+        "vorp": -3.8
+      }
+    },
+    {
+      "id": "harrini01x-43",
+      "sourceId": 43,
+      "date": "2022-10-18",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Facundo Campazzo",
+      "participants": [
+        {
+          "name": "Facundo Campazzo",
+          "playerHref": "/players/c/campafa01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -62.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -62.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -55443.30000000001,
+        "vorp": -3.8
+      }
+    },
+    {
+      "id": "harrini01x-44",
+      "sourceId": 44,
+      "date": "2022-11-29",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Kemba Walker",
+      "participants": [
+        {
+          "name": "Kemba Walker",
+          "playerHref": "/players/w/walkeke02.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -57.6,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -57.6,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -55500.90000000001,
+        "vorp": -3.6999999999999997
+      }
+    },
+    {
+      "id": "harrini01x-45",
+      "sourceId": 45,
+      "date": "2022-12-26",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed A.J. Lawson",
+      "participants": [
+        {
+          "name": "A.J. Lawson",
+          "playerHref": "/players/l/lawsoaj01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -1907.6,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1907.6,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -57408.50000000001,
+        "vorp": -4
+      }
+    },
+    {
+      "id": "harrini01x-46",
+      "sourceId": 46,
+      "date": "2023-01-31",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Chris Silva",
+      "participants": [
+        {
+          "name": "Chris Silva",
+          "playerHref": "/players/s/silvach01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -67.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -67.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -57476.00000000001,
+        "vorp": -4
+      }
+    },
+    {
+      "id": "harrini01x-47",
+      "sourceId": 47,
+      "date": "2023-02-06",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Kyrie Irving and Markieff Morris; Sent out Spencer Dinwiddie, Dorian Finney-Smith, future ('2027', '2nd') round pick, future ('2029', '1st') round pick, and future ('2029', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Spencer Dinwiddie",
+          "playerHref": "/players/d/dinwisp01.html",
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 1732.8,
+            "vorp": -0.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dorian Finney-Smith",
+          "playerHref": "/players/f/finnedo01.html",
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 6463.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kyrie Irving",
+          "playerHref": "/players/i/irvinky01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 3662.4000000000015,
+            "vorp": 1.2999999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Markieff Morris",
+          "playerHref": "/players/m/morrima02.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -406,
+            "vorp": -0.09999999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2029', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2029', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 11452.800000000001,
+        "vorp": 0.3999999999999998
+      },
+      "runningValues": {
+        "bpm": -46023.200000000004,
+        "vorp": -3.6
+      }
+    },
+    {
+      "id": "harrini01x-48",
+      "sourceId": 48,
+      "date": "2023-02-15",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Justin Holiday",
+      "participants": [
+        {
+          "name": "Justin Holiday",
+          "playerHref": "/players/h/holidju01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -1209.5,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1209.5,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -47232.700000000004,
+        "vorp": -3.8000000000000003
+      }
+    },
+    {
+      "id": "harrini01x-49",
+      "sourceId": 49,
+      "date": "2023-06-22",
+      "type": "draft",
+      "tenureTeam": "DAL",
+      "summary": "Drafted Cason Wallace",
+      "participants": [
+        {
+          "name": "Cason Wallace",
+          "playerHref": "/players/w/wallaca01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -47232.700000000004,
+        "vorp": -3.8000000000000003
+      }
+    },
+    {
+      "id": "harrini01x-50",
+      "sourceId": 50,
+      "date": "2023-07-06",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Richaun Holmes and Olivier-Maxence Prosper",
+      "participants": [
+        {
+          "name": "Richaun Holmes",
+          "playerHref": "/players/h/holmeri01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -711,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Olivier-Maxence Prosper",
+          "playerHref": "/players/p/prospol01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -711,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -47943.700000000004,
+        "vorp": -3.9000000000000004
+      }
+    },
+    {
+      "id": "harrini01x-51",
+      "sourceId": 51,
+      "date": "2023-07-06",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Dereck Lively II; Sent out Davis Bertans and Cason Wallace",
+      "participants": [
+        {
+          "name": "Davis Bertans",
+          "playerHref": "/players/b/bertada01.html",
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": -364,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cason Wallace",
+          "playerHref": "/players/w/wallaca01.html",
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": -4647.4,
+            "vorp": -4.199999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dereck Lively II",
+          "playerHref": "/players/l/livelde01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5011.4,
+        "vorp": -4.299999999999999
+      },
+      "runningValues": {
+        "bpm": -52955.100000000006,
+        "vorp": -8.2
+      }
+    },
+    {
+      "id": "harrini01x-52",
+      "sourceId": 52,
+      "date": "2023-07-07",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Kyrie Irving",
+      "participants": [
+        {
+          "name": "Kyrie Irving",
+          "playerHref": "/players/i/irvinky01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 16080.6,
+            "vorp": 6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 16080.6,
+        "vorp": 6
+      },
+      "runningValues": {
+        "bpm": -36874.50000000001,
+        "vorp": -2.1999999999999993
+      }
+    },
+    {
+      "id": "harrini01x-53",
+      "sourceId": 53,
+      "date": "2023-07-08",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Dereck Lively II",
+      "participants": [
+        {
+          "name": "Dereck Lively II",
+          "playerHref": "/players/l/livelde01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 3464.8999999999996,
+            "vorp": 2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3464.8999999999996,
+        "vorp": 2
+      },
+      "runningValues": {
+        "bpm": -33409.600000000006,
+        "vorp": -0.1999999999999993
+      }
+    },
+    {
+      "id": "harrini01x-54",
+      "sourceId": 54,
+      "date": "2023-07-09",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Dwight Powell",
+      "participants": [
+        {
+          "name": "Dwight Powell",
+          "playerHref": "/players/p/poweldw01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -1516.3999999999999,
+            "vorp": 0.7999999999999999
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1516.3999999999999,
+        "vorp": 0.7999999999999999
+      },
+      "runningValues": {
+        "bpm": -34926.00000000001,
+        "vorp": 0.6000000000000006
+      }
+    },
+    {
+      "id": "harrini01x-55",
+      "sourceId": 55,
+      "date": "2023-07-12",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Grant Williams, Chaz Lanier, future ('2025', '2nd') round pick, and future ('2028', '2nd') round pick; Sent out Reggie Bullock, future ('2030', '1st') round pick, future ('2025', '2nd') round pick, and future ('2030', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Reggie Bullock",
+          "playerHref": "/players/b/bullore01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2030', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2030', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Grant Williams",
+          "playerHref": "/players/w/willigr01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chaz Lanier",
+          "playerHref": "/players/l/laniech01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2028', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -34926.00000000001,
+        "vorp": 0.6000000000000006
+      }
+    },
+    {
+      "id": "harrini01x-56",
+      "sourceId": 56,
+      "date": "2023-07-14",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Dante Exum",
+      "participants": [
+        {
+          "name": "Dante Exum",
+          "playerHref": "/players/e/exumda01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -1508.3999999999999,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1508.3999999999999,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": -36434.40000000001,
+        "vorp": 1.0000000000000007
+      }
+    },
+    {
+      "id": "harrini01x-57",
+      "sourceId": 57,
+      "date": "2023-07-14",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Mike Miles Jr.",
+      "participants": [
+        {
+          "name": "Mike Miles Jr.",
+          "playerHref": "/players/m/milesmi01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -36434.40000000001,
+        "vorp": 1.0000000000000007
+      }
+    },
+    {
+      "id": "harrini01x-58",
+      "sourceId": 58,
+      "date": "2023-07-14",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Seth Curry",
+      "participants": [
+        {
+          "name": "Seth Curry",
+          "playerHref": "/players/c/curryse01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -1828,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1828,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -38262.40000000001,
+        "vorp": 0.8000000000000007
+      }
+    },
+    {
+      "id": "harrini01x-59",
+      "sourceId": 59,
+      "date": "2023-07-16",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Olivier-Maxence Prosper",
+      "participants": [
+        {
+          "name": "Olivier-Maxence Prosper",
+          "playerHref": "/players/p/prospol01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -2200.8,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2200.8,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -40463.20000000001,
+        "vorp": 0.7000000000000007
+      }
+    },
+    {
+      "id": "harrini01x-60",
+      "sourceId": 60,
+      "date": "2023-08-14",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Jordan Walker",
+      "participants": [
+        {
+          "name": "Jordan Walker",
+          "playerHref": "/players/w/walkejo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -40463.20000000001,
+        "vorp": 0.7000000000000007
+      }
+    },
+    {
+      "id": "harrini01x-61",
+      "sourceId": 61,
+      "date": "2023-08-18",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Derrick Jones Jr.",
+      "participants": [
+        {
+          "name": "Derrick Jones Jr.",
+          "playerHref": "/players/j/jonesde02.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -2674.5,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2674.5,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -43137.70000000001,
+        "vorp": 0.9000000000000008
+      }
+    },
+    {
+      "id": "harrini01x-62",
+      "sourceId": 62,
+      "date": "2023-09-16",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Markieff Morris",
+      "participants": [
+        {
+          "name": "Markieff Morris",
+          "playerHref": "/players/m/morrima02.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -1123.2000000000003,
+            "vorp": -0.20000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1123.2000000000003,
+        "vorp": -0.20000000000000004
+      },
+      "runningValues": {
+        "bpm": -44260.90000000001,
+        "vorp": 0.7000000000000007
+      }
+    },
+    {
+      "id": "harrini01x-63",
+      "sourceId": 63,
+      "date": "2023-10-21",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Dexter Dennis",
+      "participants": [
+        {
+          "name": "Dexter Dennis",
+          "playerHref": "/players/d/dennide01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 48,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 48,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44212.90000000001,
+        "vorp": 0.7000000000000007
+      }
+    },
+    {
+      "id": "harrini01x-64",
+      "sourceId": 64,
+      "date": "2023-10-21",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Greg Brown III",
+      "participants": [
+        {
+          "name": "Greg Brown III",
+          "playerHref": "/players/b/browngr01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -176,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -176,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44388.90000000001,
+        "vorp": 0.7000000000000007
+      }
+    },
+    {
+      "id": "harrini01x-65",
+      "sourceId": 65,
+      "date": "2023-12-28",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Brandon Williams",
+      "participants": [
+        {
+          "name": "Brandon Williams",
+          "playerHref": "/players/w/willibr03.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -621.5,
+            "vorp": -0.09999999999999987
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -621.5,
+        "vorp": -0.09999999999999987
+      },
+      "runningValues": {
+        "bpm": -45010.40000000001,
+        "vorp": 0.6000000000000009
+      }
+    },
+    {
+      "id": "harrini01x-66",
+      "sourceId": 66,
+      "date": "2024-02-08",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added P.J. Washington, Ariel Hukporti, and future ('2028', '2nd') round pick; Sent out Seth Curry, Grant Williams, and future ('2027', '1st') round pick",
+      "participants": [
+        {
+          "name": "Seth Curry",
+          "playerHref": "/players/c/curryse01.html",
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 1980.3,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Grant Williams",
+          "playerHref": "/players/w/willigr01.html",
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 960.8,
+            "vorp": -0.8999999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "P.J. Washington",
+          "playerHref": "/players/w/washipj01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -6731,
+            "vorp": 0.7999999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ariel Hukporti",
+          "playerHref": "/players/h/hukpoar01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2028', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3789.9,
+        "vorp": -0.19999999999999996
+      },
+      "runningValues": {
+        "bpm": -48800.3,
+        "vorp": 0.4000000000000009
+      }
+    },
+    {
+      "id": "harrini01x-67",
+      "sourceId": 67,
+      "date": "2024-02-08",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Daniel Gafford; Sent out Richaun Holmes and Dillon Jones",
+      "participants": [
+        {
+          "name": "Richaun Holmes",
+          "playerHref": "/players/h/holmeri01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 493.79999999999995,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dillon Jones",
+          "playerHref": "/players/j/jonesdi01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Daniel Gafford",
+          "playerHref": "/players/g/gaffoda01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 9788.4,
+            "vorp": 4.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 10282.199999999999,
+        "vorp": 3.8
+      },
+      "runningValues": {
+        "bpm": -38518.1,
+        "vorp": 4.2
+      }
+    },
+    {
+      "id": "harrini01x-68",
+      "sourceId": 68,
+      "date": "2024-02-08",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Sent out future ('2028', '1st') round pick",
+      "participants": [
+        {
+          "name": "future ('2028', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -38518.1,
+        "vorp": 4.2
+      }
+    },
+    {
+      "id": "harrini01x-69",
+      "sourceId": 69,
+      "date": "2024-03-04",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Alex Fudge",
+      "participants": [
+        {
+          "name": "Alex Fudge",
+          "playerHref": "/players/f/fudgeal01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 44.199999999999996,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 44.199999999999996,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -38473.9,
+        "vorp": 4.2
+      }
+    },
+    {
+      "id": "harrini01x-70",
+      "sourceId": 70,
+      "date": "2024-06-27",
+      "type": "draft",
+      "tenureTeam": "DAL",
+      "summary": "Drafted Ariel Hukporti",
+      "participants": [
+        {
+          "name": "Ariel Hukporti",
+          "playerHref": "/players/h/hukpoar01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -38473.9,
+        "vorp": 4.2
+      }
+    },
+    {
+      "id": "harrini01x-71",
+      "sourceId": 71,
+      "date": "2024-06-27",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Melvin Ajinca; Sent out Ariel Hukporti and Petteri Koponen",
+      "participants": [
+        {
+          "name": "Ariel Hukporti",
+          "playerHref": "/players/h/hukpoar01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 2360.5999999999995,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Petteri Koponen",
+          "playerHref": "/players/k/koponpe01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Melvin Ajinca",
+          "playerHref": "/players/a/ajincme01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2360.5999999999995,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -36113.3,
+        "vorp": 4.4
+      }
+    },
+    {
+      "id": "harrini01x-72",
+      "sourceId": 72,
+      "date": "2024-07-06",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Johni Broome, future ('2025', '2nd') round pick, and Klay Thompson; Sent out future ('2031', '2nd') round pick and Josh Green",
+      "participants": [
+        {
+          "name": "future ('2031', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Josh Green",
+          "playerHref": "/players/g/greenjo02.html",
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 8749.699999999999,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Johni Broome",
+          "playerHref": "/players/b/broomjo01.html",
+          "direction": "in",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Klay Thompson",
+          "playerHref": "/players/t/thompkl01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 8749.699999999999,
+        "vorp": 0.8
+      },
+      "runningValues": {
+        "bpm": -27363.600000000006,
+        "vorp": 5.2
+      }
+    },
+    {
+      "id": "harrini01x-73",
+      "sourceId": 73,
+      "date": "2024-07-06",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Quentin Grimes; Sent out Tim Hardaway, Chaz Lanier, future ('2025', '2nd') round pick, and future ('2028', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Tim Hardaway",
+          "playerHref": "/players/h/hardati02.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 4521.3,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chaz Lanier",
+          "playerHref": "/players/l/laniech01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 1190.6,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Quentin Grimes",
+          "playerHref": "/players/g/grimequ01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -321,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2028', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2028', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5390.9,
+        "vorp": 0.7
+      },
+      "runningValues": {
+        "bpm": -21972.700000000008,
+        "vorp": 5.9
+      }
+    },
+    {
+      "id": "harrini01x-74",
+      "sourceId": 74,
+      "date": "2024-07-06",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Naji Marshall",
+      "participants": [
+        {
+          "name": "Naji Marshall",
+          "playerHref": "/players/m/marshna01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -3256.6,
+            "vorp": 1.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3256.6,
+        "vorp": 1.4
+      },
+      "runningValues": {
+        "bpm": -25229.300000000007,
+        "vorp": 7.300000000000001
+      }
+    },
+    {
+      "id": "harrini01x-75",
+      "sourceId": 75,
+      "date": "2024-07-10",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Brandon Williams",
+      "participants": [
+        {
+          "name": "Brandon Williams",
+          "playerHref": "/players/w/willibr03.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 1072.2,
+            "vorp": 1.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1072.2,
+        "vorp": 1.3
+      },
+      "runningValues": {
+        "bpm": -24157.100000000006,
+        "vorp": 8.600000000000001
+      }
+    },
+    {
+      "id": "harrini01x-76",
+      "sourceId": 76,
+      "date": "2024-07-12",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Emanuel Miller",
+      "participants": [
+        {
+          "name": "Emanuel Miller",
+          "playerHref": "/players/m/milleem01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -24157.100000000006,
+        "vorp": 8.600000000000001
+      }
+    },
+    {
+      "id": "harrini01x-77",
+      "sourceId": 77,
+      "date": "2024-08-03",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Spencer Dinwiddie",
+      "participants": [
+        {
+          "name": "Spencer Dinwiddie",
+          "playerHref": "/players/d/dinwisp01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -3417.6000000000004,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3417.6000000000004,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -27574.700000000004,
+        "vorp": 8.8
+      }
+    },
+    {
+      "id": "harrini01x-78",
+      "sourceId": 78,
+      "date": "2024-08-07",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Kessler Edwards",
+      "participants": [
+        {
+          "name": "Kessler Edwards",
+          "playerHref": "/players/e/edwarke02.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -851.1999999999999,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -851.1999999999999,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -28425.900000000005,
+        "vorp": 8.9
+      }
+    },
+    {
+      "id": "harrini01x-79",
+      "sourceId": 79,
+      "date": "2024-09-09",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Markieff Morris",
+      "participants": [
+        {
+          "name": "Markieff Morris",
+          "playerHref": "/players/m/morrima02.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -537.1,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -537.1,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -28963.000000000004,
+        "vorp": 8.8
+      }
+    },
+    {
+      "id": "harrini01x-80",
+      "sourceId": 80,
+      "date": "2024-10-10",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed A.J. Lawson",
+      "participants": [
+        {
+          "name": "A.J. Lawson",
+          "playerHref": "/players/l/lawsoaj01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -28963.000000000004,
+        "vorp": 8.8
+      }
+    },
+    {
+      "id": "harrini01x-81",
+      "sourceId": 81,
+      "date": "2024-10-18",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Jazian Gortman",
+      "participants": [
+        {
+          "name": "Jazian Gortman",
+          "playerHref": "/players/g/gortmja01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -359.09999999999997,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -359.09999999999997,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -29322.100000000002,
+        "vorp": 8.700000000000001
+      }
+    },
+    {
+      "id": "harrini01x-82",
+      "sourceId": 82,
+      "date": "2025-01-26",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Kylor Kelley",
+      "participants": [
+        {
+          "name": "Kylor Kelley",
+          "playerHref": "/players/k/kelleky01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -154.1,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -154.1,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -29476.2,
+        "vorp": 8.700000000000001
+      }
+    },
+    {
+      "id": "harrini01x-83",
+      "sourceId": 83,
+      "date": "2025-02-02",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Max Christie, Anthony Davis, future ('2029', '1st') round pick, Jamir Watkins, and future ('2025', '2nd') round pick; Sent out Luka Doncic, Maxi Kleber, and Markieff Morris",
+      "participants": [
+        {
+          "name": "Luka Doncic",
+          "playerHref": "/players/d/doncilu01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -32381.600000000002,
+            "vorp": -10.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Maxi Kleber",
+          "playerHref": "/players/k/klebima01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 1797.8999999999999,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Markieff Morris",
+          "playerHref": "/players/m/morrima02.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 719.1999999999999,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Max Christie",
+          "playerHref": "/players/c/chrisma02.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -2077.2000000000003,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Anthony Davis",
+          "playerHref": "/players/d/davisan02.html",
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 8640,
+            "vorp": 2.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2029', '1st') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jamir Watkins",
+          "playerHref": "/players/w/watkija01.html",
+          "direction": "in",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -23301.7,
+        "vorp": -6.9
+      },
+      "runningValues": {
+        "bpm": -52777.9,
+        "vorp": 1.8000000000000014
+      }
+    },
+    {
+      "id": "harrini01x-84",
+      "sourceId": 84,
+      "date": "2025-02-04",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Caleb Martin; Sent out Quentin Grimes, Johni Broome, and future ('2025', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Quentin Grimes",
+          "playerHref": "/players/g/grimequ01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 2398.0000000000005,
+            "vorp": -1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Johni Broome",
+          "playerHref": "/players/b/broomjo01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 891,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Caleb Martin",
+          "playerHref": "/players/m/martica02.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -3427.1,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -138.09999999999945,
+        "vorp": -0.9
+      },
+      "runningValues": {
+        "bpm": -52916,
+        "vorp": 0.9000000000000014
+      }
+    },
+    {
+      "id": "harrini01x-85",
+      "sourceId": 85,
+      "date": "2025-02-20",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Moses Brown",
+      "participants": [
+        {
+          "name": "Moses Brown",
+          "playerHref": "/players/b/brownmo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 255.5,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 255.5,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -52660.5,
+        "vorp": 1.0000000000000013
+      }
+    },
+    {
+      "id": "harrini01x-86",
+      "sourceId": 86,
+      "date": "2025-03-03",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Kai Jones",
+      "participants": [
+        {
+          "name": "Kai Jones",
+          "playerHref": "/players/j/joneska01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 1248,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1248,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": -51412.5,
+        "vorp": 1.4000000000000012
+      }
+    },
+    {
+      "id": "harrini01x-87",
+      "sourceId": 87,
+      "date": "2025-06-25",
+      "type": "draft",
+      "tenureTeam": "DAL",
+      "summary": "Drafted Cooper Flagg",
+      "participants": [
+        {
+          "name": "Cooper Flagg",
+          "playerHref": "/players/f/flaggco01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -51412.5,
+        "vorp": 1.4000000000000012
+      }
+    },
+    {
+      "id": "harrini01x-88",
+      "sourceId": 88,
+      "date": "2025-07-02",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Rookie contract for Cooper Flagg",
+      "participants": [
+        {
+          "name": "Cooper Flagg",
+          "playerHref": "/players/f/flaggco01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 5706.4,
+            "vorp": 2.8
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 5706.4,
+        "vorp": 2.8
+      },
+      "runningValues": {
+        "bpm": -45706.1,
+        "vorp": 4.200000000000001
+      }
+    },
+    {
+      "id": "harrini01x-89",
+      "sourceId": 89,
+      "date": "2025-07-03",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Miles Kelly",
+      "participants": [
+        {
+          "name": "Miles Kelly",
+          "playerHref": "/players/k/kellymi02.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -683.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -683.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -46389.5,
+        "vorp": 4.100000000000001
+      }
+    },
+    {
+      "id": "harrini01x-90",
+      "sourceId": 90,
+      "date": "2025-07-03",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Ryan Nembhard",
+      "participants": [
+        {
+          "name": "Ryan Nembhard",
+          "playerHref": "/players/n/nembhry01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -4801.099999999999,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4801.099999999999,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": -51190.6,
+        "vorp": 3.5000000000000013
+      }
+    },
+    {
+      "id": "harrini01x-91",
+      "sourceId": 91,
+      "date": "2025-07-06",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Kyrie Irving",
+      "participants": [
+        {
+          "name": "Kyrie Irving",
+          "playerHref": "/players/i/irvinky01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 1960.3999999999999,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1960.3999999999999,
+        "vorp": 0.7
+      },
+      "runningValues": {
+        "bpm": -49230.2,
+        "vorp": 4.200000000000001
+      }
+    },
+    {
+      "id": "harrini01x-92",
+      "sourceId": 92,
+      "date": "2025-07-06",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed D'Angelo Russell",
+      "participants": [
+        {
+          "name": "D'Angelo Russell",
+          "playerHref": "/players/r/russeda01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -1138.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1138.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -50368.7,
+        "vorp": 4.200000000000001
+      }
+    },
+    {
+      "id": "harrini01x-93",
+      "sourceId": 93,
+      "date": "2025-08-30",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Dante Exum",
+      "participants": [
+        {
+          "name": "Dante Exum",
+          "playerHref": "/players/e/exumda01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -50368.7,
+        "vorp": 4.200000000000001
+      }
+    },
+    {
+      "id": "harrini01x-94",
+      "sourceId": 94,
+      "date": "2025-09-25",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Dennis Smith",
+      "participants": [
+        {
+          "name": "Dennis Smith",
+          "playerHref": "/players/s/smithde03.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -50368.7,
+        "vorp": 4.200000000000001
+      }
+    },
+    {
+      "id": "harrini01x-95",
+      "sourceId": 95,
+      "date": "2025-10-18",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Moussa Cisse",
+      "participants": [
+        {
+          "name": "Moussa Cisse",
+          "playerHref": "/players/c/cissemo01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -1642.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1642.6,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -52011.299999999996,
+        "vorp": 4.100000000000001
+      }
+    }
+  ]
+}

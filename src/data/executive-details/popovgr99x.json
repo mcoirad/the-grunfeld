@@ -1,0 +1,2623 @@
+{
+  "slug": "popovgr99x",
+  "sourceRowCount": 109,
+  "tenures": [
+    {
+      "teamCode": "SAS",
+      "startDate": "1994-06-29",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "popovgr99x-0",
+      "sourceId": 0,
+      "date": "1994-06-29",
+      "type": "draft",
+      "tenureTeam": "SAS",
+      "summary": "Drafted Bill Curley",
+      "participants": [
+        {
+          "name": "Bill Curley",
+          "playerHref": "/players/c/curlebi01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "popovgr99x-1",
+      "sourceId": 1,
+      "date": "1994-07-19",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added Sean Elliott; Sent out Bill Curley and Charles O'Bannon",
+      "participants": [
+        {
+          "name": "Bill Curley",
+          "playerHref": "/players/c/curlebi01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 3094,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Charles O'Bannon",
+          "playerHref": "/players/o/obannch01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 821.4000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sean Elliott",
+          "playerHref": "/players/e/elliose01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 6894.1,
+            "vorp": 7.500000000000001
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 10809.5,
+        "vorp": 8
+      },
+      "runningValues": {
+        "bpm": 10809.5,
+        "vorp": 8
+      }
+    },
+    {
+      "id": "popovgr99x-2",
+      "sourceId": 2,
+      "date": "1994-07-22",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Avery Johnson",
+      "participants": [
+        {
+          "name": "Avery Johnson",
+          "playerHref": "/players/j/johnsav01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 6288.5,
+            "vorp": 10.200000000000001
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 6288.5,
+        "vorp": 10.200000000000001
+      },
+      "runningValues": {
+        "bpm": 17098,
+        "vorp": 18.200000000000003
+      }
+    },
+    {
+      "id": "popovgr99x-3",
+      "sourceId": 3,
+      "date": "1994-07-25",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Chuck Person",
+      "participants": [
+        {
+          "name": "Chuck Person",
+          "playerHref": "/players/p/persoch01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -148,
+            "vorp": 2.9000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -148,
+        "vorp": 2.9000000000000004
+      },
+      "runningValues": {
+        "bpm": 16950,
+        "vorp": 21.1
+      }
+    },
+    {
+      "id": "popovgr99x-4",
+      "sourceId": 4,
+      "date": "1994-08-10",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Moses Malone",
+      "participants": [
+        {
+          "name": "Moses Malone",
+          "playerHref": "/players/m/malonmo01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -476.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -476.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 16473.2,
+        "vorp": 21.1
+      }
+    },
+    {
+      "id": "popovgr99x-6",
+      "sourceId": 6,
+      "date": "1994-10-06",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Julius Nwosu",
+      "participants": [
+        {
+          "name": "Julius Nwosu",
+          "playerHref": "/players/n/nwosuju01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -781.2,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -781.2,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 15692,
+        "vorp": 20.900000000000002
+      }
+    },
+    {
+      "id": "popovgr99x-7",
+      "sourceId": 7,
+      "date": "1994-10-06",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Corey Crowder",
+      "participants": [
+        {
+          "name": "Corey Crowder",
+          "playerHref": "/players/c/crowdco01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 15692,
+        "vorp": 20.900000000000002
+      }
+    },
+    {
+      "id": "popovgr99x-8",
+      "sourceId": 8,
+      "date": "1994-11-12",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Corey Crowder",
+      "participants": [
+        {
+          "name": "Corey Crowder",
+          "playerHref": "/players/c/crowdco01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -408.9,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -408.9,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 15283.1,
+        "vorp": 20.8
+      }
+    },
+    {
+      "id": "popovgr99x-9",
+      "sourceId": 9,
+      "date": "1994-12-26",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Doc Rivers",
+      "participants": [
+        {
+          "name": "Doc Rivers",
+          "playerHref": "/players/r/riverdo01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 847.8000000000002,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 847.8000000000002,
+        "vorp": 0.7
+      },
+      "runningValues": {
+        "bpm": 16130.900000000001,
+        "vorp": 21.5
+      }
+    },
+    {
+      "id": "popovgr99x-10",
+      "sourceId": 10,
+      "date": "1995-02-26",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Howard Eisley",
+      "participants": [
+        {
+          "name": "Howard Eisley",
+          "playerHref": "/players/e/eisleho01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 16130.900000000001,
+        "vorp": 21.5
+      }
+    },
+    {
+      "id": "popovgr99x-11",
+      "sourceId": 11,
+      "date": "1995-03-18",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Howard Eisley",
+      "participants": [
+        {
+          "name": "Howard Eisley",
+          "playerHref": "/players/e/eisleho01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -537.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -537.6,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 15593.300000000001,
+        "vorp": 21.4
+      }
+    },
+    {
+      "id": "popovgr99x-12",
+      "sourceId": 12,
+      "date": "1995-06-28",
+      "type": "draft",
+      "tenureTeam": "SAS",
+      "summary": "Drafted Cory Alexander",
+      "participants": [
+        {
+          "name": "Cory Alexander",
+          "playerHref": "/players/a/alexaco01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -3881.6,
+            "vorp": 0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3881.6,
+        "vorp": 0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": 11711.7,
+        "vorp": 21.7
+      }
+    },
+    {
+      "id": "popovgr99x-13",
+      "sourceId": 13,
+      "date": "1995-09-29",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Greg Anderson",
+      "participants": [
+        {
+          "name": "Greg Anderson",
+          "playerHref": "/players/a/andergr01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -6844.599999999999,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6844.599999999999,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": 4867.100000000001,
+        "vorp": 21
+      }
+    },
+    {
+      "id": "popovgr99x-14",
+      "sourceId": 14,
+      "date": "1995-09-29",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Carl Herrera",
+      "participants": [
+        {
+          "name": "Carl Herrera",
+          "playerHref": "/players/h/herreca01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -14400.5,
+            "vorp": -2.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -14400.5,
+        "vorp": -2.3
+      },
+      "runningValues": {
+        "bpm": -9533.399999999998,
+        "vorp": 18.7
+      }
+    },
+    {
+      "id": "popovgr99x-15",
+      "sourceId": 15,
+      "date": "1995-09-29",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Brad Lohaus",
+      "participants": [
+        {
+          "name": "Brad Lohaus",
+          "playerHref": "/players/l/lohaubr01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -373.8,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -373.8,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -9907.199999999997,
+        "vorp": 18.8
+      }
+    },
+    {
+      "id": "popovgr99x-16",
+      "sourceId": 16,
+      "date": "1995-09-29",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Doc Rivers",
+      "participants": [
+        {
+          "name": "Doc Rivers",
+          "playerHref": "/players/r/riverdo01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 370.5,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 370.5,
+        "vorp": 0.7
+      },
+      "runningValues": {
+        "bpm": -9536.699999999997,
+        "vorp": 19.5
+      }
+    },
+    {
+      "id": "popovgr99x-17",
+      "sourceId": 17,
+      "date": "1995-10-02",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added Will Perdue; Sent out Dennis Rodman",
+      "participants": [
+        {
+          "name": "Dennis Rodman",
+          "playerHref": "/players/r/rodmade01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": -402.29999999999995,
+            "vorp": -3.5999999999999996
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Will Perdue",
+          "playerHref": "/players/p/perduwi01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -4585.3,
+            "vorp": 1.4000000000000001
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4987.6,
+        "vorp": -2.1999999999999993
+      },
+      "runningValues": {
+        "bpm": -14524.299999999996,
+        "vorp": 17.3
+      }
+    },
+    {
+      "id": "popovgr99x-18",
+      "sourceId": 18,
+      "date": "1995-10-06",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Dell Demps",
+      "participants": [
+        {
+          "name": "Dell Demps",
+          "playerHref": "/players/d/dempsde01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -156.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -156.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -14680.899999999996,
+        "vorp": 17.3
+      }
+    },
+    {
+      "id": "popovgr99x-19",
+      "sourceId": 19,
+      "date": "1996-02-08",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added Charles Smith and Monty Williams; Sent out Brad Lohaus, J.R. Reid, and John Wallace",
+      "participants": [
+        {
+          "name": "Brad Lohaus",
+          "playerHref": "/players/l/lohaubr01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -487.5,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "J.R. Reid",
+          "playerHref": "/players/r/reidjr01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 1273,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Wallace",
+          "playerHref": "/players/w/wallajo01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 3257.4999999999995,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Charles Smith",
+          "playerHref": "/players/s/smithch01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -2753.8,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Monty Williams",
+          "playerHref": "/players/w/willimo01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -4123.8,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2834.600000000001,
+        "vorp": 0.10000000000000003
+      },
+      "runningValues": {
+        "bpm": -17515.499999999996,
+        "vorp": 17.4
+      }
+    },
+    {
+      "id": "popovgr99x-20",
+      "sourceId": 20,
+      "date": "1996-08-29",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Vernon Maxwell",
+      "participants": [
+        {
+          "name": "Vernon Maxwell",
+          "playerHref": "/players/m/maxweve01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -6410.8,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6410.8,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": -23926.299999999996,
+        "vorp": 16.799999999999997
+      }
+    },
+    {
+      "id": "popovgr99x-21",
+      "sourceId": 21,
+      "date": "1996-10-03",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Dexter Boney",
+      "participants": [
+        {
+          "name": "Dexter Boney",
+          "playerHref": "/players/b/boneyde01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -23926.299999999996,
+        "vorp": 16.799999999999997
+      }
+    },
+    {
+      "id": "popovgr99x-22",
+      "sourceId": 22,
+      "date": "1996-10-03",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Elmer Bennett",
+      "participants": [
+        {
+          "name": "Elmer Bennett",
+          "playerHref": "/players/b/benneel01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -23926.299999999996,
+        "vorp": 16.799999999999997
+      }
+    },
+    {
+      "id": "popovgr99x-23",
+      "sourceId": 23,
+      "date": "1996-10-04",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Dominique Wilkins",
+      "participants": [
+        {
+          "name": "Dominique Wilkins",
+          "playerHref": "/players/w/wilkido01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 583.5,
+            "vorp": 1.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 583.5,
+        "vorp": 1.1
+      },
+      "runningValues": {
+        "bpm": -23342.799999999996,
+        "vorp": 17.9
+      }
+    },
+    {
+      "id": "popovgr99x-24",
+      "sourceId": 24,
+      "date": "1996-10-30",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Tim Kempton",
+      "participants": [
+        {
+          "name": "Tim Kempton",
+          "playerHref": "/players/k/kemptti01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -643.1,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -643.1,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -23985.899999999994,
+        "vorp": 17.799999999999997
+      }
+    },
+    {
+      "id": "popovgr99x-26",
+      "sourceId": 26,
+      "date": "1996-12-18",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Stephen Howard",
+      "participants": [
+        {
+          "name": "Stephen Howard",
+          "playerHref": "/players/h/howarst01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 400.2,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 400.2,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -23585.699999999993,
+        "vorp": 17.9
+      }
+    },
+    {
+      "id": "popovgr99x-27",
+      "sourceId": 27,
+      "date": "1996-12-26",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Gaylon Nickerson",
+      "participants": [
+        {
+          "name": "Gaylon Nickerson",
+          "playerHref": "/players/n/nickega01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -23585.699999999993,
+        "vorp": 17.9
+      }
+    },
+    {
+      "id": "popovgr99x-28",
+      "sourceId": 28,
+      "date": "1997-01-06",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Jason Sasser",
+      "participants": [
+        {
+          "name": "Jason Sasser",
+          "playerHref": "/players/s/sasseja01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -496,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -496,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -24081.699999999993,
+        "vorp": 17.799999999999997
+      }
+    },
+    {
+      "id": "popovgr99x-29",
+      "sourceId": 29,
+      "date": "1997-01-08",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Devin Gray",
+      "participants": [
+        {
+          "name": "Devin Gray",
+          "playerHref": "/players/g/grayde01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -640.8,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -640.8,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -24722.499999999993,
+        "vorp": 17.599999999999998
+      }
+    },
+    {
+      "id": "popovgr99x-30",
+      "sourceId": 30,
+      "date": "1997-01-28",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Darrin Hancock",
+      "participants": [
+        {
+          "name": "Darrin Hancock",
+          "playerHref": "/players/h/hancoda01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -28.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -28.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -24751.299999999992,
+        "vorp": 17.599999999999998
+      }
+    },
+    {
+      "id": "popovgr99x-31",
+      "sourceId": 31,
+      "date": "1997-01-28",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Jamie Feick",
+      "participants": [
+        {
+          "name": "Jamie Feick",
+          "playerHref": "/players/f/feickja01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -24751.299999999992,
+        "vorp": 17.599999999999998
+      }
+    },
+    {
+      "id": "popovgr99x-32",
+      "sourceId": 32,
+      "date": "1997-02-20",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Jamie Feick",
+      "participants": [
+        {
+          "name": "Jamie Feick",
+          "playerHref": "/players/f/feickja01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -3561.2,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3561.2,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": -28312.499999999993,
+        "vorp": 16.999999999999996
+      }
+    },
+    {
+      "id": "popovgr99x-33",
+      "sourceId": 33,
+      "date": "1997-03-02",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Joe Courtney",
+      "participants": [
+        {
+          "name": "Joe Courtney",
+          "playerHref": "/players/c/courtjo01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -552,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -552,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -28864.499999999993,
+        "vorp": 16.899999999999995
+      }
+    },
+    {
+      "id": "popovgr99x-34",
+      "sourceId": 34,
+      "date": "1997-06-25",
+      "type": "draft",
+      "tenureTeam": "SAS",
+      "summary": "Drafted Tim Duncan",
+      "participants": [
+        {
+          "name": "Tim Duncan",
+          "playerHref": "/players/d/duncati01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 264273.1,
+            "vorp": 90.70000000000002
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 264273.1,
+        "vorp": 90.70000000000002
+      },
+      "runningValues": {
+        "bpm": 235408.59999999998,
+        "vorp": 107.60000000000001
+      }
+    },
+    {
+      "id": "popovgr99x-35",
+      "sourceId": 35,
+      "date": "1997-09-29",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Reggie Geary",
+      "participants": [
+        {
+          "name": "Reggie Geary",
+          "playerHref": "/players/g/gearyre01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -1986.5,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1986.5,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 233422.09999999998,
+        "vorp": 107.4
+      }
+    },
+    {
+      "id": "popovgr99x-36",
+      "sourceId": 36,
+      "date": "1997-09-29",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Jaren Jackson",
+      "participants": [
+        {
+          "name": "Jaren Jackson",
+          "playerHref": "/players/j/jacksja01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -3517.3,
+            "vorp": 1.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3517.3,
+        "vorp": 1.6
+      },
+      "runningValues": {
+        "bpm": 229904.8,
+        "vorp": 109
+      }
+    },
+    {
+      "id": "popovgr99x-37",
+      "sourceId": 37,
+      "date": "1997-09-29",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Malik Rose",
+      "participants": [
+        {
+          "name": "Malik Rose",
+          "playerHref": "/players/r/rosema01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -10200.400000000001,
+            "vorp": 2.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -10200.400000000001,
+        "vorp": 2.1
+      },
+      "runningValues": {
+        "bpm": 219704.4,
+        "vorp": 111.1
+      }
+    },
+    {
+      "id": "popovgr99x-38",
+      "sourceId": 38,
+      "date": "1997-10-02",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed David Wood",
+      "participants": [
+        {
+          "name": "David Wood",
+          "playerHref": "/players/w/woodda01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 219704.4,
+        "vorp": 111.1
+      }
+    },
+    {
+      "id": "popovgr99x-39",
+      "sourceId": 39,
+      "date": "1998-02-24",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Willie Burton",
+      "participants": [
+        {
+          "name": "Willie Burton",
+          "playerHref": "/players/b/burtowi01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 219704.4,
+        "vorp": 111.1
+      }
+    },
+    {
+      "id": "popovgr99x-40",
+      "sourceId": 40,
+      "date": "1998-03-16",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Willie Burton",
+      "participants": [
+        {
+          "name": "Willie Burton",
+          "playerHref": "/players/b/burtowi01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 180.6,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 180.6,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 219885,
+        "vorp": 111.19999999999999
+      }
+    },
+    {
+      "id": "popovgr99x-41",
+      "sourceId": 41,
+      "date": "1998-04-01",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Brad Lohaus",
+      "participants": [
+        {
+          "name": "Brad Lohaus",
+          "playerHref": "/players/l/lohaubr01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 219885,
+        "vorp": 111.19999999999999
+      }
+    },
+    {
+      "id": "popovgr99x-42",
+      "sourceId": 42,
+      "date": "1998-04-11",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Brad Lohaus",
+      "participants": [
+        {
+          "name": "Brad Lohaus",
+          "playerHref": "/players/l/lohaubr01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -428.40000000000003,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -428.40000000000003,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 219456.6,
+        "vorp": 111.1
+      }
+    },
+    {
+      "id": "popovgr99x-43",
+      "sourceId": 43,
+      "date": "1998-06-24",
+      "type": "draft",
+      "tenureTeam": "SAS",
+      "summary": "Drafted Felipe López and Derrick Dial",
+      "participants": [
+        {
+          "name": "Felipe López",
+          "playerHref": "/players/l/lopezfe01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Derrick Dial",
+          "playerHref": "/players/d/dialde01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -726.8,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -726.8,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 218729.80000000002,
+        "vorp": 111
+      }
+    },
+    {
+      "id": "popovgr99x-44",
+      "sourceId": 44,
+      "date": "1998-06-24",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added Antonio Daniels; Sent out Carl Herrera and Felipe López",
+      "participants": [
+        {
+          "name": "Carl Herrera",
+          "playerHref": "/players/h/herreca01.html",
+          "direction": "out",
+          "teamCode": "VAN",
+          "values": {
+            "bpm": 529.1999999999999,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Felipe López",
+          "playerHref": "/players/l/lopezfe01.html",
+          "direction": "out",
+          "teamCode": "VAN",
+          "values": {
+            "bpm": 5928.200000000001,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Antonio Daniels",
+          "playerHref": "/players/d/daniean01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 7146.9,
+            "vorp": 4.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 13604.3,
+        "vorp": 5.3999999999999995
+      },
+      "runningValues": {
+        "bpm": 232334.10000000003,
+        "vorp": 116.39999999999999
+      }
+    },
+    {
+      "id": "popovgr99x-45",
+      "sourceId": 45,
+      "date": "1999-01-21",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Mario Elie",
+      "participants": [
+        {
+          "name": "Mario Elie",
+          "playerHref": "/players/e/eliema01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 2525.8999999999996,
+            "vorp": 2.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2525.8999999999996,
+        "vorp": 2.4
+      },
+      "runningValues": {
+        "bpm": 234860.00000000003,
+        "vorp": 118.8
+      }
+    },
+    {
+      "id": "popovgr99x-46",
+      "sourceId": 46,
+      "date": "1999-01-21",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Andrew Gaze",
+      "participants": [
+        {
+          "name": "Andrew Gaze",
+          "playerHref": "/players/g/gazean01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -168.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -168.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 234691.80000000002,
+        "vorp": 118.8
+      }
+    },
+    {
+      "id": "popovgr99x-47",
+      "sourceId": 47,
+      "date": "1999-01-21",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added Steve Kerr; Sent out Chuck Person and Dalibor Bagarić",
+      "participants": [
+        {
+          "name": "Chuck Person",
+          "playerHref": "/players/p/persoch01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dalibor Bagarić",
+          "playerHref": "/players/b/bagarda01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 7618.299999999999,
+            "vorp": 1.4000000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Kerr",
+          "playerHref": "/players/k/kerrst01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -459.40000000000003,
+            "vorp": 1.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 7158.9,
+        "vorp": 2.6
+      },
+      "runningValues": {
+        "bpm": 241850.7,
+        "vorp": 121.4
+      }
+    },
+    {
+      "id": "popovgr99x-48",
+      "sourceId": 48,
+      "date": "1999-01-21",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Brandon Williams",
+      "participants": [
+        {
+          "name": "Brandon Williams",
+          "playerHref": "/players/w/willibr01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 29.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 29.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 241880.30000000002,
+        "vorp": 121.4
+      }
+    },
+    {
+      "id": "popovgr99x-49",
+      "sourceId": 49,
+      "date": "1999-01-21",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Gerard King",
+      "participants": [
+        {
+          "name": "Gerard King",
+          "playerHref": "/players/k/kingge02.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -119.69999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -119.69999999999999,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 241760.6,
+        "vorp": 121.4
+      }
+    },
+    {
+      "id": "popovgr99x-50",
+      "sourceId": 50,
+      "date": "1999-01-22",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Chris Garner",
+      "participants": [
+        {
+          "name": "Chris Garner",
+          "playerHref": "/players/g/garnech01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 241760.6,
+        "vorp": 121.4
+      }
+    },
+    {
+      "id": "popovgr99x-51",
+      "sourceId": 51,
+      "date": "1999-01-22",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Jerome Kersey",
+      "participants": [
+        {
+          "name": "Jerome Kersey",
+          "playerHref": "/players/k/kerseje01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -2350.2,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2350.2,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": 239410.4,
+        "vorp": 121.9
+      }
+    },
+    {
+      "id": "popovgr99x-52",
+      "sourceId": 52,
+      "date": "1999-06-30",
+      "type": "draft",
+      "tenureTeam": "SAS",
+      "summary": "Drafted Leon Smith and Manu Ginóbili",
+      "participants": [
+        {
+          "name": "Leon Smith",
+          "playerHref": "/players/s/smithle01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Manu Ginóbili",
+          "playerHref": "/players/g/ginobma01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 132945.3,
+            "vorp": 47.300000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 132945.3,
+        "vorp": 47.300000000000004
+      },
+      "runningValues": {
+        "bpm": 372355.69999999995,
+        "vorp": 169.20000000000002
+      }
+    },
+    {
+      "id": "popovgr99x-53",
+      "sourceId": 53,
+      "date": "1999-06-30",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added Gordan Giriček and Chris Carrawell; Sent out Leon Smith",
+      "participants": [
+        {
+          "name": "Leon Smith",
+          "playerHref": "/players/s/smithle01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Gordan Giriček",
+          "playerHref": "/players/g/giricgo01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chris Carrawell",
+          "playerHref": "/players/c/carrach01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 372355.69999999995,
+        "vorp": 169.20000000000002
+      }
+    },
+    {
+      "id": "popovgr99x-54",
+      "sourceId": 54,
+      "date": "1999-08-05",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Terry Porter",
+      "participants": [
+        {
+          "name": "Terry Porter",
+          "playerHref": "/players/p/portete01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 11885.5,
+            "vorp": 5.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 11885.5,
+        "vorp": 5.3
+      },
+      "runningValues": {
+        "bpm": 384241.19999999995,
+        "vorp": 174.50000000000003
+      }
+    },
+    {
+      "id": "popovgr99x-55",
+      "sourceId": 55,
+      "date": "1999-08-26",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Samaki Walker",
+      "participants": [
+        {
+          "name": "Samaki Walker",
+          "playerHref": "/players/w/walkesa01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -5149.8,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5149.8,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": 379091.39999999997,
+        "vorp": 174.20000000000002
+      }
+    },
+    {
+      "id": "popovgr99x-56",
+      "sourceId": 56,
+      "date": "1999-08-31",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Felton Spencer",
+      "participants": [
+        {
+          "name": "Felton Spencer",
+          "playerHref": "/players/s/spencfe01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -283.09999999999997,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -283.09999999999997,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 378808.3,
+        "vorp": 174.20000000000002
+      }
+    },
+    {
+      "id": "popovgr99x-57",
+      "sourceId": 57,
+      "date": "1999-09-25",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Ira Newble",
+      "participants": [
+        {
+          "name": "Ira Newble",
+          "playerHref": "/players/n/newblir01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 378808.3,
+        "vorp": 174.20000000000002
+      }
+    },
+    {
+      "id": "popovgr99x-58",
+      "sourceId": 58,
+      "date": "1999-10-01",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Chucky Brown",
+      "participants": [
+        {
+          "name": "Chucky Brown",
+          "playerHref": "/players/b/brownch01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -1264.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1264.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 377544.1,
+        "vorp": 174.20000000000002
+      }
+    },
+    {
+      "id": "popovgr99x-59",
+      "sourceId": 59,
+      "date": "2000-06-28",
+      "type": "draft",
+      "tenureTeam": "SAS",
+      "summary": "Drafted Chris Carrawell and Cory Hightower",
+      "participants": [
+        {
+          "name": "Chris Carrawell",
+          "playerHref": "/players/c/carrach01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cory Hightower",
+          "playerHref": "/players/h/hightco01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 377544.1,
+        "vorp": 174.20000000000002
+      }
+    },
+    {
+      "id": "popovgr99x-60",
+      "sourceId": 60,
+      "date": "2000-06-28",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added Robetas Javtokas and Randy Holcomb; Sent out Cory Hightower",
+      "participants": [
+        {
+          "name": "Cory Hightower",
+          "playerHref": "/players/h/hightco01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Robetas Javtokas",
+          "playerHref": "/players/j/javtoro01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Randy Holcomb",
+          "playerHref": "/players/h/holcora01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 377544.1,
+        "vorp": 174.20000000000002
+      }
+    },
+    {
+      "id": "popovgr99x-61",
+      "sourceId": 61,
+      "date": "2000-08-02",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Raja Bell",
+      "participants": [
+        {
+          "name": "Raja Bell",
+          "playerHref": "/players/b/bellra01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 377544.1,
+        "vorp": 174.20000000000002
+      }
+    },
+    {
+      "id": "popovgr99x-62",
+      "sourceId": 62,
+      "date": "2000-08-04",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Derek Anderson",
+      "participants": [
+        {
+          "name": "Derek Anderson",
+          "playerHref": "/players/a/anderde01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 6861.599999999999,
+            "vorp": 3.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 6861.599999999999,
+        "vorp": 3.2
+      },
+      "runningValues": {
+        "bpm": 384405.69999999995,
+        "vorp": 177.4
+      }
+    },
+    {
+      "id": "popovgr99x-63",
+      "sourceId": 63,
+      "date": "2000-08-10",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Danny Ferry",
+      "participants": [
+        {
+          "name": "Danny Ferry",
+          "playerHref": "/players/f/ferryda01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -1603.6,
+            "vorp": 1.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1603.6,
+        "vorp": 1.1
+      },
+      "runningValues": {
+        "bpm": 382802.1,
+        "vorp": 178.5
+      }
+    },
+    {
+      "id": "popovgr99x-64",
+      "sourceId": 64,
+      "date": "2000-08-11",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Shawnelle Scott",
+      "participants": [
+        {
+          "name": "Shawnelle Scott",
+          "playerHref": "/players/s/scottsh01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -734.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -734.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 382067.69999999995,
+        "vorp": 178.4
+      }
+    },
+    {
+      "id": "popovgr99x-65",
+      "sourceId": 65,
+      "date": "2000-08-11",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Ira Newble",
+      "participants": [
+        {
+          "name": "Ira Newble",
+          "playerHref": "/players/n/newblir01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 382067.69999999995,
+        "vorp": 178.4
+      }
+    },
+    {
+      "id": "popovgr99x-66",
+      "sourceId": 66,
+      "date": "2000-08-12",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Ira Newble",
+      "participants": [
+        {
+          "name": "Ira Newble",
+          "playerHref": "/players/n/newblir01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -736,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -736,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 381331.69999999995,
+        "vorp": 178.3
+      }
+    },
+    {
+      "id": "popovgr99x-67",
+      "sourceId": 67,
+      "date": "2001-06-27",
+      "type": "draft",
+      "tenureTeam": "SAS",
+      "summary": "Drafted Tony Parker, Robertas Javtokas, and Bryan Bracey",
+      "participants": [
+        {
+          "name": "Tony Parker",
+          "playerHref": "/players/p/parketo01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 44872.4,
+            "vorp": 30.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Robertas Javtokas",
+          "playerHref": "/players/j/javtoro01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bryan Bracey",
+          "playerHref": "/players/b/bracebr01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 44872.4,
+        "vorp": 30.1
+      },
+      "runningValues": {
+        "bpm": 426204.1,
+        "vorp": 208.4
+      }
+    },
+    {
+      "id": "popovgr99x-68",
+      "sourceId": 68,
+      "date": "2001-07-25",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added Steve Smith; Sent out Derek Anderson, Steve Kerr, and Andreas Glyniadakis",
+      "participants": [
+        {
+          "name": "Derek Anderson",
+          "playerHref": "/players/a/anderde01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -7910.999999999999,
+            "vorp": -5.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Kerr",
+          "playerHref": "/players/k/kerrst01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 1007.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Andreas Glyniadakis",
+          "playerHref": "/players/g/glynian01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Smith",
+          "playerHref": "/players/s/smithst01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 1577.1000000000001,
+            "vorp": 2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5326.399999999999,
+        "vorp": -3.8
+      },
+      "runningValues": {
+        "bpm": 420877.69999999995,
+        "vorp": 204.60000000000002
+      }
+    },
+    {
+      "id": "popovgr99x-69",
+      "sourceId": 69,
+      "date": "2001-07-31",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Bruce Bowen",
+      "participants": [
+        {
+          "name": "Bruce Bowen",
+          "playerHref": "/players/b/bowenbr01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -11788.5,
+            "vorp": 6.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -11788.5,
+        "vorp": 6.5
+      },
+      "runningValues": {
+        "bpm": 409089.19999999995,
+        "vorp": 211.10000000000002
+      }
+    },
+    {
+      "id": "popovgr99x-70",
+      "sourceId": 70,
+      "date": "2001-08-01",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Mark Bryant",
+      "participants": [
+        {
+          "name": "Mark Bryant",
+          "playerHref": "/players/b/bryanma01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -556.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -556.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 408532.99999999994,
+        "vorp": 211.10000000000002
+      }
+    },
+    {
+      "id": "popovgr99x-71",
+      "sourceId": 71,
+      "date": "2001-08-02",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Charles Smith",
+      "participants": [
+        {
+          "name": "Charles Smith",
+          "playerHref": "/players/s/smithch04.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 1026.9,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1026.9,
+        "vorp": 0.8
+      },
+      "runningValues": {
+        "bpm": 409559.89999999997,
+        "vorp": 211.90000000000003
+      }
+    },
+    {
+      "id": "popovgr99x-72",
+      "sourceId": 72,
+      "date": "2001-08-02",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Stephen Jackson",
+      "participants": [
+        {
+          "name": "Stephen Jackson",
+          "playerHref": "/players/j/jacksst02.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -2510.3,
+            "vorp": 1.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2510.3,
+        "vorp": 1.4
+      },
+      "runningValues": {
+        "bpm": 407049.6,
+        "vorp": 213.30000000000004
+      }
+    },
+    {
+      "id": "popovgr99x-73",
+      "sourceId": 73,
+      "date": "2001-08-03",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Amal McCaskill",
+      "participants": [
+        {
+          "name": "Amal McCaskill",
+          "playerHref": "/players/m/mccasam01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -1040.3999999999999,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1040.3999999999999,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 406009.19999999995,
+        "vorp": 213.10000000000005
+      }
+    },
+    {
+      "id": "popovgr99x-74",
+      "sourceId": 74,
+      "date": "2001-08-03",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Cherokee Parks",
+      "participants": [
+        {
+          "name": "Cherokee Parks",
+          "playerHref": "/players/p/parksch02.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -1240.2,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1240.2,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 404768.99999999994,
+        "vorp": 212.90000000000006
+      }
+    },
+    {
+      "id": "popovgr99x-75",
+      "sourceId": 75,
+      "date": "2001-09-25",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Rookie contract for Derick Dial",
+      "participants": [
+        {
+          "name": "Derick Dial",
+          "playerHref": "/players/d/dialde01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 404768.99999999994,
+        "vorp": 212.90000000000006
+      }
+    },
+    {
+      "id": "popovgr99x-76",
+      "sourceId": 76,
+      "date": "2001-10-01",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Gerald Brown",
+      "participants": [
+        {
+          "name": "Gerald Brown",
+          "playerHref": "/players/b/brownge02.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 404768.99999999994,
+        "vorp": 212.90000000000006
+      }
+    },
+    {
+      "id": "popovgr99x-77",
+      "sourceId": 77,
+      "date": "2001-12-19",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Jason Hart",
+      "participants": [
+        {
+          "name": "Jason Hart",
+          "playerHref": "/players/h/hartja01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 132,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 132,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": 404900.99999999994,
+        "vorp": 213.30000000000007
+      }
+    },
+    {
+      "id": "popovgr99x-78",
+      "sourceId": 78,
+      "date": "2002-06-26",
+      "type": "draft",
+      "tenureTeam": "SAS",
+      "summary": "Drafted John Salmons, Luis Scola, and Randy Holcomb",
+      "participants": [
+        {
+          "name": "John Salmons",
+          "playerHref": "/players/s/salmojo01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Luis Scola",
+          "playerHref": "/players/s/scolalu01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Randy Holcomb",
+          "playerHref": "/players/h/holcora01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 404900.99999999994,
+        "vorp": 213.30000000000007
+      }
+    },
+    {
+      "id": "popovgr99x-79",
+      "sourceId": 79,
+      "date": "2002-06-26",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added Speedy Claxton; Sent out Mark Bryant, Randy Holcomb, and John Salmons",
+      "participants": [
+        {
+          "name": "Mark Bryant",
+          "playerHref": "/players/b/bryanma01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 716.1,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Randy Holcomb",
+          "playerHref": "/players/h/holcora01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Salmons",
+          "playerHref": "/players/s/salmojo01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 8390.6,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Speedy Claxton",
+          "playerHref": "/players/c/claxtsp01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 565.1999999999999,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 9671.900000000001,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 414572.8999999999,
+        "vorp": 213.30000000000007
+      }
+    },
+    {
+      "id": "popovgr99x-80",
+      "sourceId": 80,
+      "date": "2002-06-28",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added Romain Sato; Sent out Gordan Giriček",
+      "participants": [
+        {
+          "name": "Gordan Giriček",
+          "playerHref": "/players/g/giricgo01.html",
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 5104.099999999999,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Romain Sato",
+          "playerHref": "/players/s/satoro01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5104.099999999999,
+        "vorp": 0.7
+      },
+      "runningValues": {
+        "bpm": 419676.9999999999,
+        "vorp": 214.00000000000006
+      }
+    }
+  ]
+}

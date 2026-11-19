@@ -1,0 +1,580 @@
+{
+  "slug": "babcoro99x",
+  "sourceRowCount": 28,
+  "tenures": [
+    {
+      "teamCode": "TOR",
+      "startDate": "2004-06-24",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "babcoro99x-0",
+      "sourceId": 0,
+      "date": "2004-06-24",
+      "type": "draft",
+      "tenureTeam": "TOR",
+      "summary": "Drafted Rafael Araújo and Albert Miralles",
+      "participants": [
+        {
+          "name": "Rafael Araújo",
+          "playerHref": "/players/a/araujra01.html",
+          "direction": "in",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": -10000.5,
+            "vorp": -1.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Albert Miralles",
+          "playerHref": "/players/m/miralal01.html",
+          "direction": "in",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -10000.5,
+        "vorp": -1.9
+      },
+      "runningValues": {
+        "bpm": -10000.5,
+        "vorp": -1.9
+      }
+    },
+    {
+      "id": "babcoro99x-1",
+      "sourceId": 1,
+      "date": "2004-06-24",
+      "type": "trade",
+      "tenureTeam": "TOR",
+      "summary": "Added Pape Sow and Uroš Slokar; Sent out Albert Miralles",
+      "participants": [
+        {
+          "name": "Albert Miralles",
+          "playerHref": "/players/m/miralal01.html",
+          "direction": "out",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Pape Sow",
+          "playerHref": "/players/s/sowpa01.html",
+          "direction": "in",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": -4946.9,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Uroš Slokar",
+          "playerHref": "/players/s/slokaur01.html",
+          "direction": "in",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4946.9,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": -14947.4,
+        "vorp": -2.5999999999999996
+      }
+    },
+    {
+      "id": "babcoro99x-2",
+      "sourceId": 2,
+      "date": "2004-07-14",
+      "type": "signing",
+      "tenureTeam": "TOR",
+      "summary": "Signed Rafer Alston",
+      "participants": [
+        {
+          "name": "Rafer Alston",
+          "playerHref": "/players/a/alstora01.html",
+          "direction": "in",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 2445.3,
+            "vorp": 2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2445.3,
+        "vorp": 2
+      },
+      "runningValues": {
+        "bpm": -12502.099999999999,
+        "vorp": -0.5999999999999996
+      }
+    },
+    {
+      "id": "babcoro99x-3",
+      "sourceId": 3,
+      "date": "2004-08-18",
+      "type": "signing",
+      "tenureTeam": "TOR",
+      "summary": "Signed Loren Woods",
+      "participants": [
+        {
+          "name": "Loren Woods",
+          "playerHref": "/players/w/woodslo01.html",
+          "direction": "in",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": -2913.6,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2913.6,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -15415.699999999999,
+        "vorp": -0.7999999999999996
+      }
+    },
+    {
+      "id": "babcoro99x-4",
+      "sourceId": 4,
+      "date": "2004-12-17",
+      "type": "trade",
+      "tenureTeam": "TOR",
+      "summary": "Added Alonzo Mourning, Aaron Williams, Eric Williams, Joey Graham, and Renaldo Balkman; Sent out Vince Carter",
+      "participants": [
+        {
+          "name": "Vince Carter",
+          "playerHref": "/players/c/cartevi01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": -55898.8,
+            "vorp": -21.400000000000002
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alonzo Mourning",
+          "playerHref": "/players/m/mournal01.html",
+          "direction": "in",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Aaron Williams",
+          "playerHref": "/players/w/williaa01.html",
+          "direction": "in",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": -2184.6,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eric Williams",
+          "playerHref": "/players/w/willier01.html",
+          "direction": "in",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": -3778.5,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Joey Graham",
+          "playerHref": "/players/g/grahajo01.html",
+          "direction": "in",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Renaldo Balkman",
+          "playerHref": "/players/b/balkmre01.html",
+          "direction": "in",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -61861.9,
+        "vorp": -22.3
+      },
+      "runningValues": {
+        "bpm": -77277.6,
+        "vorp": -23.1
+      }
+    },
+    {
+      "id": "babcoro99x-5",
+      "sourceId": 5,
+      "date": "2005-04-09",
+      "type": "signing",
+      "tenureTeam": "TOR",
+      "summary": "Signed Omar Cook",
+      "participants": [
+        {
+          "name": "Omar Cook",
+          "playerHref": "/players/c/cookom01.html",
+          "direction": "in",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 155.4,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 155.4,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -77122.20000000001,
+        "vorp": -23
+      }
+    },
+    {
+      "id": "babcoro99x-6",
+      "sourceId": 6,
+      "date": "2005-06-28",
+      "type": "draft",
+      "tenureTeam": "TOR",
+      "summary": "Drafted Charlie Villanueva, Joey Graham, Roko Ukić, and Uroš Slokar",
+      "participants": [
+        {
+          "name": "Charlie Villanueva",
+          "playerHref": "/players/v/villach01.html",
+          "direction": "in",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": -2124.9,
+            "vorp": 0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Joey Graham",
+          "playerHref": "/players/g/grahajo01.html",
+          "direction": "in",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": -16025.8,
+            "vorp": -1.7000000000000002
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Roko Ukić",
+          "playerHref": "/players/u/ukicro01.html",
+          "direction": "in",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": -4005,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Uroš Slokar",
+          "playerHref": "/players/s/slokaur01.html",
+          "direction": "in",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": -403.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -22558.9,
+        "vorp": -1.8000000000000003
+      },
+      "runningValues": {
+        "bpm": -99681.1,
+        "vorp": -24.8
+      }
+    },
+    {
+      "id": "babcoro99x-7",
+      "sourceId": 7,
+      "date": "2005-08-03",
+      "type": "signing",
+      "tenureTeam": "TOR",
+      "summary": "Signed José Calderón",
+      "participants": [
+        {
+          "name": "José Calderón",
+          "playerHref": "/players/c/caldejo01.html",
+          "direction": "in",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 26688.800000000003,
+            "vorp": 14.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 26688.800000000003,
+        "vorp": 14.3
+      },
+      "runningValues": {
+        "bpm": -72992.3,
+        "vorp": -10.5
+      }
+    },
+    {
+      "id": "babcoro99x-8",
+      "sourceId": 8,
+      "date": "2005-10-03",
+      "type": "signing",
+      "tenureTeam": "TOR",
+      "summary": "Signed Robert Pack",
+      "participants": [
+        {
+          "name": "Robert Pack",
+          "playerHref": "/players/p/packro01.html",
+          "direction": "in",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -72992.3,
+        "vorp": -10.5
+      }
+    },
+    {
+      "id": "babcoro99x-9",
+      "sourceId": 9,
+      "date": "2005-10-03",
+      "type": "signing",
+      "tenureTeam": "TOR",
+      "summary": "Signed Corey Williams",
+      "participants": [
+        {
+          "name": "Corey Williams",
+          "playerHref": "/players/w/willico05.html",
+          "direction": "in",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -72992.3,
+        "vorp": -10.5
+      }
+    },
+    {
+      "id": "babcoro99x-10",
+      "sourceId": 10,
+      "date": "2005-10-03",
+      "type": "signing",
+      "tenureTeam": "TOR",
+      "summary": "Signed Bryant Matthews",
+      "participants": [
+        {
+          "name": "Bryant Matthews",
+          "playerHref": "/players/m/matthbr01.html",
+          "direction": "in",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -72992.3,
+        "vorp": -10.5
+      }
+    },
+    {
+      "id": "babcoro99x-11",
+      "sourceId": 11,
+      "date": "2005-10-03",
+      "type": "signing",
+      "tenureTeam": "TOR",
+      "summary": "Signed Toree Morris",
+      "participants": [
+        {
+          "name": "Toree Morris",
+          "playerHref": "/players/m/morrito01.html",
+          "direction": "in",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -72992.3,
+        "vorp": -10.5
+      }
+    },
+    {
+      "id": "babcoro99x-12",
+      "sourceId": 12,
+      "date": "2005-10-03",
+      "type": "signing",
+      "tenureTeam": "TOR",
+      "summary": "Signed Tierre Brown",
+      "participants": [
+        {
+          "name": "Tierre Brown",
+          "playerHref": "/players/b/brownti01.html",
+          "direction": "in",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -72992.3,
+        "vorp": -10.5
+      }
+    },
+    {
+      "id": "babcoro99x-13",
+      "sourceId": 13,
+      "date": "2005-10-04",
+      "type": "trade",
+      "tenureTeam": "TOR",
+      "summary": "Added Mike James; Sent out Rafer Alston",
+      "participants": [
+        {
+          "name": "Rafer Alston",
+          "playerHref": "/players/a/alstora01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -2432.8,
+            "vorp": -5.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike James",
+          "playerHref": "/players/j/jamesmi01.html",
+          "direction": "in",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 5265,
+            "vorp": 2.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2832.2,
+        "vorp": -2.7
+      },
+      "runningValues": {
+        "bpm": -70160.1,
+        "vorp": -13.2
+      }
+    },
+    {
+      "id": "babcoro99x-14",
+      "sourceId": 14,
+      "date": "2005-11-16",
+      "type": "signing",
+      "tenureTeam": "TOR",
+      "summary": "Signed Darrick Martin",
+      "participants": [
+        {
+          "name": "Darrick Martin",
+          "playerHref": "/players/m/martida01.html",
+          "direction": "in",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": -2064.5,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2064.5,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -72224.6,
+        "vorp": -13.399999999999999
+      }
+    }
+  ]
+}

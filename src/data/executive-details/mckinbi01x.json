@@ -1,0 +1,2158 @@
+{
+  "slug": "mckinbi01x",
+  "sourceRowCount": 100,
+  "tenures": [
+    {
+      "teamCode": "MIN",
+      "startDate": "1989-06-15",
+      "endDate": "1992-06-24"
+    },
+    {
+      "teamCode": "DET",
+      "startDate": "1992-06-24",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "mckinbi01x-1",
+      "sourceId": 1,
+      "date": "1989-06-15",
+      "type": "trade",
+      "tenureTeam": "MIN",
+      "summary": "Added Gary Leonard",
+      "participants": [
+        {
+          "name": "Gary Leonard",
+          "playerHref": "/players/l/leonaga01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "mckinbi01x-2",
+      "sourceId": 2,
+      "date": "1989-06-27",
+      "type": "draft",
+      "tenureTeam": "MIN",
+      "summary": "Drafted Pooh Richardson, Gary Leonard, and Doug West",
+      "participants": [
+        {
+          "name": "Pooh Richardson",
+          "playerHref": "/players/r/richapo01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 13720,
+            "vorp": 7.800000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Gary Leonard",
+          "playerHref": "/players/l/leonaga01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": -1066.8,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Doug West",
+          "playerHref": "/players/w/westdo01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": -46149.8,
+            "vorp": -3.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -33496.600000000006,
+        "vorp": 3.9000000000000004
+      },
+      "runningValues": {
+        "bpm": -33496.600000000006,
+        "vorp": 3.9000000000000004
+      }
+    },
+    {
+      "id": "mckinbi01x-3",
+      "sourceId": 3,
+      "date": "1989-07-23",
+      "type": "signing",
+      "tenureTeam": "MIN",
+      "summary": "Signed Sam Mitchell",
+      "participants": [
+        {
+          "name": "Sam Mitchell",
+          "playerHref": "/players/m/mitchsa01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": -47771.799999999996,
+            "vorp": -2.6999999999999997
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -47771.799999999996,
+        "vorp": -2.6999999999999997
+      },
+      "runningValues": {
+        "bpm": -81268.4,
+        "vorp": 1.2000000000000006
+      }
+    },
+    {
+      "id": "mckinbi01x-4",
+      "sourceId": 4,
+      "date": "1989-07-24",
+      "type": "signing",
+      "tenureTeam": "MIN",
+      "summary": "Signed Shelton Jones",
+      "participants": [
+        {
+          "name": "Shelton Jones",
+          "playerHref": "/players/j/jonessh01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -81268.4,
+        "vorp": 1.2000000000000006
+      }
+    },
+    {
+      "id": "mckinbi01x-5",
+      "sourceId": 5,
+      "date": "1989-08-03",
+      "type": "signing",
+      "tenureTeam": "MIN",
+      "summary": "Signed Sidney Lowe",
+      "participants": [
+        {
+          "name": "Sidney Lowe",
+          "playerHref": "/players/l/lowesi01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": -4708.8,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4708.8,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -85977.2,
+        "vorp": 0.9000000000000006
+      }
+    },
+    {
+      "id": "mckinbi01x-6",
+      "sourceId": 6,
+      "date": "1989-08-16",
+      "type": "signing",
+      "tenureTeam": "MIN",
+      "summary": "Signed Tod Murphy",
+      "participants": [
+        {
+          "name": "Tod Murphy",
+          "playerHref": "/players/m/murphto01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": -5712,
+            "vorp": 0.6000000000000001
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5712,
+        "vorp": 0.6000000000000001
+      },
+      "runningValues": {
+        "bpm": -91689.2,
+        "vorp": 1.5000000000000007
+      }
+    },
+    {
+      "id": "mckinbi01x-7",
+      "sourceId": 7,
+      "date": "1989-08-30",
+      "type": "signing",
+      "tenureTeam": "MIN",
+      "summary": "Signed Jim Farmer",
+      "participants": [
+        {
+          "name": "Jim Farmer",
+          "playerHref": "/players/f/farmeji01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -91689.2,
+        "vorp": 1.5000000000000007
+      }
+    },
+    {
+      "id": "mckinbi01x-8",
+      "sourceId": 8,
+      "date": "1989-09-12",
+      "type": "signing",
+      "tenureTeam": "MIN",
+      "summary": "Signed Donald Royal",
+      "participants": [
+        {
+          "name": "Donald Royal",
+          "playerHref": "/players/r/royaldo01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": -1268.2,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1268.2,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -92957.4,
+        "vorp": 1.6000000000000008
+      }
+    },
+    {
+      "id": "mckinbi01x-9",
+      "sourceId": 9,
+      "date": "1989-09-13",
+      "type": "signing",
+      "tenureTeam": "MIN",
+      "summary": "Signed Tony Campbell",
+      "participants": [
+        {
+          "name": "Tony Campbell",
+          "playerHref": "/players/c/campbto01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": -2558.6,
+            "vorp": 3.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2558.6,
+        "vorp": 3.6
+      },
+      "runningValues": {
+        "bpm": -95516,
+        "vorp": 5.200000000000001
+      }
+    },
+    {
+      "id": "mckinbi01x-10",
+      "sourceId": 10,
+      "date": "1989-10-03",
+      "type": "signing",
+      "tenureTeam": "MIN",
+      "summary": "Signed Jim Thomas",
+      "participants": [
+        {
+          "name": "Jim Thomas",
+          "playerHref": "/players/t/thomaji01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -95516,
+        "vorp": 5.200000000000001
+      }
+    },
+    {
+      "id": "mckinbi01x-11",
+      "sourceId": 11,
+      "date": "1989-10-20",
+      "type": "signing",
+      "tenureTeam": "MIN",
+      "summary": "Signed Adrian Branch",
+      "participants": [
+        {
+          "name": "Adrian Branch",
+          "playerHref": "/players/b/brancad01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": -182,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -182,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -95698,
+        "vorp": 5.200000000000001
+      }
+    },
+    {
+      "id": "mckinbi01x-12",
+      "sourceId": 12,
+      "date": "1989-10-27",
+      "type": "trade",
+      "tenureTeam": "MIN",
+      "summary": "Added Gerald Glass, Alvaro Teheran, and Duane Cooper; Sent out Rick Mahorn",
+      "participants": [
+        {
+          "name": "Rick Mahorn",
+          "playerHref": "/players/m/mahorri01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 6007.200000000001,
+            "vorp": -0.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Gerald Glass",
+          "playerHref": "/players/g/glassge01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alvaro Teheran",
+          "playerHref": "/players/t/teheral01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Duane Cooper",
+          "playerHref": "/players/c/coopedu01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 6007.200000000001,
+        "vorp": -0.8
+      },
+      "runningValues": {
+        "bpm": -89690.8,
+        "vorp": 4.400000000000001
+      }
+    },
+    {
+      "id": "mckinbi01x-13",
+      "sourceId": 13,
+      "date": "1990-01-04",
+      "type": "trade",
+      "tenureTeam": "MIN",
+      "summary": "Added Randy Breuer and Chris Smith; Sent out Brad Lohaus and Duane Cooper",
+      "participants": [
+        {
+          "name": "Brad Lohaus",
+          "playerHref": "/players/l/lohaubr01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 376.0999999999999,
+            "vorp": -3.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Duane Cooper",
+          "playerHref": "/players/c/coopedu01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Randy Breuer",
+          "playerHref": "/players/b/breuera01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": -5761.8,
+            "vorp": 0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chris Smith",
+          "playerHref": "/players/s/smithch03.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": -9013.3,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -14399,
+        "vorp": -2.9
+      },
+      "runningValues": {
+        "bpm": -104089.8,
+        "vorp": 1.500000000000001
+      }
+    },
+    {
+      "id": "mckinbi01x-14",
+      "sourceId": 14,
+      "date": "1990-02-22",
+      "type": "trade",
+      "tenureTeam": "MIN",
+      "summary": "Added Brad Sellers; Sent out Steve Johnson",
+      "participants": [
+        {
+          "name": "Steve Johnson",
+          "playerHref": "/players/j/johnsst03.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 871.2,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Brad Sellers",
+          "playerHref": "/players/s/sellebr01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": -3368.6,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2497.3999999999996,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -106587.20000000001,
+        "vorp": 1.1000000000000012
+      }
+    },
+    {
+      "id": "mckinbi01x-15",
+      "sourceId": 15,
+      "date": "1990-06-25",
+      "type": "trade",
+      "tenureTeam": "MIN",
+      "summary": "Added Scott Brooks; Sent out Brian Oliver",
+      "participants": [
+        {
+          "name": "Brian Oliver",
+          "playerHref": "/players/o/olivebr01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 6170.5,
+            "vorp": 1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Scott Brooks",
+          "playerHref": "/players/b/brooksc01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 3454.3999999999996,
+            "vorp": 1.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 9624.9,
+        "vorp": 2.9
+      },
+      "runningValues": {
+        "bpm": -96962.30000000002,
+        "vorp": 4.000000000000002
+      }
+    },
+    {
+      "id": "mckinbi01x-16",
+      "sourceId": 16,
+      "date": "1990-06-27",
+      "type": "draft",
+      "tenureTeam": "MIN",
+      "summary": "Drafted Felton Spencer and Gerald Glass",
+      "participants": [
+        {
+          "name": "Felton Spencer",
+          "playerHref": "/players/s/spencfe01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": -19472.100000000002,
+            "vorp": -2.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Gerald Glass",
+          "playerHref": "/players/g/glassge01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": -5813.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -25285.5,
+        "vorp": -2.6
+      },
+      "runningValues": {
+        "bpm": -122247.80000000002,
+        "vorp": 1.4000000000000017
+      }
+    },
+    {
+      "id": "mckinbi01x-17",
+      "sourceId": 17,
+      "date": "1990-07-20",
+      "type": "signing",
+      "tenureTeam": "MIN",
+      "summary": "Signed Tim Legler",
+      "participants": [
+        {
+          "name": "Tim Legler",
+          "playerHref": "/players/l/legleti01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -122247.80000000002,
+        "vorp": 1.4000000000000017
+      }
+    },
+    {
+      "id": "mckinbi01x-18",
+      "sourceId": 18,
+      "date": "1990-08-20",
+      "type": "signing",
+      "tenureTeam": "MIN",
+      "summary": "Signed Leon Wood",
+      "participants": [
+        {
+          "name": "Leon Wood",
+          "playerHref": "/players/w/woodle01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -122247.80000000002,
+        "vorp": 1.4000000000000017
+      }
+    },
+    {
+      "id": "mckinbi01x-19",
+      "sourceId": 19,
+      "date": "1990-09-01",
+      "type": "signing",
+      "tenureTeam": "MIN",
+      "summary": "Signed Anthony Bowie",
+      "participants": [
+        {
+          "name": "Anthony Bowie",
+          "playerHref": "/players/b/bowiean01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -122247.80000000002,
+        "vorp": 1.4000000000000017
+      }
+    },
+    {
+      "id": "mckinbi01x-20",
+      "sourceId": 20,
+      "date": "1990-10-02",
+      "type": "signing",
+      "tenureTeam": "MIN",
+      "summary": "Signed Richard Coffey",
+      "participants": [
+        {
+          "name": "Richard Coffey",
+          "playerHref": "/players/c/cofferi01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": -2240,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2240,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -124487.80000000002,
+        "vorp": 1.0000000000000018
+      }
+    },
+    {
+      "id": "mckinbi01x-21",
+      "sourceId": 21,
+      "date": "1990-10-03",
+      "type": "signing",
+      "tenureTeam": "MIN",
+      "summary": "Signed Jim Thomas",
+      "participants": [
+        {
+          "name": "Jim Thomas",
+          "playerHref": "/players/t/thomaji01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": -103.60000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -103.60000000000001,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -124591.40000000002,
+        "vorp": 1.0000000000000018
+      }
+    },
+    {
+      "id": "mckinbi01x-22",
+      "sourceId": 22,
+      "date": "1990-11-10",
+      "type": "trade",
+      "tenureTeam": "MIN",
+      "summary": "Added Bob Thornton; Sent out Alvaro Teheran",
+      "participants": [
+        {
+          "name": "Alvaro Teheran",
+          "playerHref": "/players/t/teheral01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bob Thornton",
+          "playerHref": "/players/t/thornbo01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": -1243,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1243,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -125834.40000000002,
+        "vorp": 0.7000000000000017
+      }
+    },
+    {
+      "id": "mckinbi01x-23",
+      "sourceId": 23,
+      "date": "1992-06-24",
+      "type": "draft",
+      "tenureTeam": "DET",
+      "summary": "Drafted Don MacLean",
+      "participants": [
+        {
+          "name": "Don MacLean",
+          "playerHref": "/players/m/macledo01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -125834.40000000002,
+        "vorp": 0.7000000000000017
+      }
+    },
+    {
+      "id": "mckinbi01x-24",
+      "sourceId": 24,
+      "date": "1992-06-24",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Olden Polynice, Russ Millard, and Eddie Elisma; Sent out William Bedford and Don MacLean",
+      "participants": [
+        {
+          "name": "William Bedford",
+          "playerHref": "/players/b/bedfowi01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Don MacLean",
+          "playerHref": "/players/m/macledo01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Olden Polynice",
+          "playerHref": "/players/p/polynol01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -3662.7,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Russ Millard",
+          "playerHref": "/players/m/millaru01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eddie Elisma",
+          "playerHref": "/players/e/elismed01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3662.7,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": -129497.10000000002,
+        "vorp": 1.1000000000000019
+      }
+    },
+    {
+      "id": "mckinbi01x-25",
+      "sourceId": 25,
+      "date": "1992-09-08",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Isaiah Morris and Lindsey Hunter; Sent out John Salley",
+      "participants": [
+        {
+          "name": "John Salley",
+          "playerHref": "/players/s/sallejo01.html",
+          "direction": "out",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": 2479.8,
+            "vorp": -2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Isaiah Morris",
+          "playerHref": "/players/m/morriis01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lindsey Hunter",
+          "playerHref": "/players/h/hunteli01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2479.8,
+        "vorp": -2
+      },
+      "runningValues": {
+        "bpm": -127017.30000000002,
+        "vorp": -0.8999999999999981
+      }
+    },
+    {
+      "id": "mckinbi01x-26",
+      "sourceId": 26,
+      "date": "1992-09-15",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Isaiah Morris",
+      "participants": [
+        {
+          "name": "Isaiah Morris",
+          "playerHref": "/players/m/morriis01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -581.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -581.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -127598.70000000001,
+        "vorp": -0.9999999999999981
+      }
+    },
+    {
+      "id": "mckinbi01x-27",
+      "sourceId": 27,
+      "date": "1992-10-01",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Terry Mills",
+      "participants": [
+        {
+          "name": "Terry Mills",
+          "playerHref": "/players/m/millste01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -284.79999999999967,
+            "vorp": 6.3999999999999995
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -284.79999999999967,
+        "vorp": 6.3999999999999995
+      },
+      "runningValues": {
+        "bpm": -127883.50000000001,
+        "vorp": 5.400000000000001
+      }
+    },
+    {
+      "id": "mckinbi01x-28",
+      "sourceId": 28,
+      "date": "1992-10-07",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Earl Cureton",
+      "participants": [
+        {
+          "name": "Earl Cureton",
+          "playerHref": "/players/c/curetea01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -127883.50000000001,
+        "vorp": 5.400000000000001
+      }
+    },
+    {
+      "id": "mckinbi01x-29",
+      "sourceId": 29,
+      "date": "1992-10-09",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Jimmy Oliver",
+      "participants": [
+        {
+          "name": "Jimmy Oliver",
+          "playerHref": "/players/o/oliveji01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -127883.50000000001,
+        "vorp": 5.400000000000001
+      }
+    },
+    {
+      "id": "mckinbi01x-30",
+      "sourceId": 30,
+      "date": "1992-10-11",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Tharon Mayes",
+      "participants": [
+        {
+          "name": "Tharon Mayes",
+          "playerHref": "/players/m/mayesth01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -127883.50000000001,
+        "vorp": 5.400000000000001
+      }
+    },
+    {
+      "id": "mckinbi01x-31",
+      "sourceId": 31,
+      "date": "1992-11-15",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Gerald Glass and Mark Randall; Sent out Lance Blanks and Brad Sellers",
+      "participants": [
+        {
+          "name": "Lance Blanks",
+          "playerHref": "/players/b/blankla01.html",
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 2375.4,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Brad Sellers",
+          "playerHref": "/players/s/sellebr01.html",
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 2238.6,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Gerald Glass",
+          "playerHref": "/players/g/glassge01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -466.2,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mark Randall",
+          "playerHref": "/players/r/randama01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -912,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3235.8,
+        "vorp": 0.7999999999999999
+      },
+      "runningValues": {
+        "bpm": -124647.70000000001,
+        "vorp": 6.200000000000001
+      }
+    },
+    {
+      "id": "mckinbi01x-32",
+      "sourceId": 32,
+      "date": "1992-11-25",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Danny Young",
+      "participants": [
+        {
+          "name": "Danny Young",
+          "playerHref": "/players/y/youngda01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -418,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -418,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": -125065.70000000001,
+        "vorp": 6.500000000000001
+      }
+    },
+    {
+      "id": "mckinbi01x-33",
+      "sourceId": 33,
+      "date": "1992-12-30",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Jeff Ruland",
+      "participants": [
+        {
+          "name": "Jeff Ruland",
+          "playerHref": "/players/r/rulanje01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -544.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -544.5,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -125610.20000000001,
+        "vorp": 6.400000000000001
+      }
+    },
+    {
+      "id": "mckinbi01x-34",
+      "sourceId": 34,
+      "date": "1993-01-18",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Melvin Newbern",
+      "participants": [
+        {
+          "name": "Melvin Newbern",
+          "playerHref": "/players/n/newbeme01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -125610.20000000001,
+        "vorp": 6.400000000000001
+      }
+    },
+    {
+      "id": "mckinbi01x-35",
+      "sourceId": 35,
+      "date": "1993-02-14",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Melvin Newbern",
+      "participants": [
+        {
+          "name": "Melvin Newbern",
+          "playerHref": "/players/n/newbeme01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -746.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -746.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -126356.6,
+        "vorp": 6.400000000000001
+      }
+    },
+    {
+      "id": "mckinbi01x-36",
+      "sourceId": 36,
+      "date": "1993-02-25",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Alvin Robertson; Sent out Orlando Woolridge",
+      "participants": [
+        {
+          "name": "Orlando Woolridge",
+          "playerHref": "/players/w/woolror01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 241.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alvin Robertson",
+          "playerHref": "/players/r/roberal01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 1035.1000000000001,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1276.9,
+        "vorp": 0.8
+      },
+      "runningValues": {
+        "bpm": -125079.7,
+        "vorp": 7.200000000000001
+      }
+    },
+    {
+      "id": "mckinbi01x-39",
+      "sourceId": 39,
+      "date": "1993-06-30",
+      "type": "draft",
+      "tenureTeam": "DET",
+      "summary": "Drafted Lindsey Hunter and Allan Houston",
+      "participants": [
+        {
+          "name": "Lindsey Hunter",
+          "playerHref": "/players/h/hunteli01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -4786.200000000001,
+            "vorp": 8.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Allan Houston",
+          "playerHref": "/players/h/houstal01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -4340.999999999999,
+            "vorp": 2.1999999999999997
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -9127.2,
+        "vorp": 10.299999999999999
+      },
+      "runningValues": {
+        "bpm": -134206.9,
+        "vorp": 17.5
+      }
+    },
+    {
+      "id": "mckinbi01x-40",
+      "sourceId": 40,
+      "date": "1993-09-08",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Greg Anderson",
+      "participants": [
+        {
+          "name": "Greg Anderson",
+          "playerHref": "/players/a/andergr01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -2598.4,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2598.4,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -136805.3,
+        "vorp": 17.7
+      }
+    },
+    {
+      "id": "mckinbi01x-41",
+      "sourceId": 41,
+      "date": "1993-10-01",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Sean Elliott, David Wood, and Jerome Williams; Sent out Isaiah Morris, Dennis Rodman, Antonio Lang, and John Wallace",
+      "participants": [
+        {
+          "name": "Isaiah Morris",
+          "playerHref": "/players/m/morriis01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dennis Rodman",
+          "playerHref": "/players/r/rodmade01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -5811.4,
+            "vorp": -3.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Antonio Lang",
+          "playerHref": "/players/l/langan02.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Wallace",
+          "playerHref": "/players/w/wallajo01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sean Elliott",
+          "playerHref": "/players/e/elliose01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -5781.599999999999,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "David Wood",
+          "playerHref": "/players/w/woodda01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -2836.7999999999997,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jerome Williams",
+          "playerHref": "/players/w/willije01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 4467.7,
+            "vorp": 4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -9962.099999999999,
+        "vorp": -0.09999999999999964
+      },
+      "runningValues": {
+        "bpm": -146767.39999999997,
+        "vorp": 17.6
+      }
+    },
+    {
+      "id": "mckinbi01x-42",
+      "sourceId": 42,
+      "date": "1993-11-01",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Tracy Moore",
+      "participants": [
+        {
+          "name": "Tracy Moore",
+          "playerHref": "/players/m/mooretr01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 167,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 167,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -146600.39999999997,
+        "vorp": 17.6
+      }
+    },
+    {
+      "id": "mckinbi01x-43",
+      "sourceId": 43,
+      "date": "1993-11-01",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Dan O'Sullivan",
+      "participants": [
+        {
+          "name": "Dan O'Sullivan",
+          "playerHref": "/players/o/osullda01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -431.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -431.2,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -147031.59999999998,
+        "vorp": 17.5
+      }
+    },
+    {
+      "id": "mckinbi01x-44",
+      "sourceId": 44,
+      "date": "1993-11-19",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Marcus Liberty and Mark Macon; Sent out Alvin Robertson",
+      "participants": [
+        {
+          "name": "Alvin Robertson",
+          "playerHref": "/players/r/roberal01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Marcus Liberty",
+          "playerHref": "/players/l/liberma01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -2000.2,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mark Macon",
+          "playerHref": "/players/m/maconma01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -3092.7999999999997,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5093,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -152124.59999999998,
+        "vorp": 17
+      }
+    },
+    {
+      "id": "mckinbi01x-45",
+      "sourceId": 45,
+      "date": "1993-12-17",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Tod Murphy",
+      "participants": [
+        {
+          "name": "Tod Murphy",
+          "playerHref": "/players/m/murphto01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -136.79999999999998,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -136.79999999999998,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -152261.39999999997,
+        "vorp": 17
+      }
+    },
+    {
+      "id": "mckinbi01x-46",
+      "sourceId": 46,
+      "date": "1994-01-17",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Ben Coleman",
+      "participants": [
+        {
+          "name": "Ben Coleman",
+          "playerHref": "/players/c/colembe01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -523.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -523.6,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -152784.99999999997,
+        "vorp": 16.9
+      }
+    },
+    {
+      "id": "mckinbi01x-47",
+      "sourceId": 47,
+      "date": "1994-01-21",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Charles Jones",
+      "participants": [
+        {
+          "name": "Charles Jones",
+          "playerHref": "/players/j/jonesch01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -152784.99999999997,
+        "vorp": 16.9
+      }
+    },
+    {
+      "id": "mckinbi01x-48",
+      "sourceId": 48,
+      "date": "1994-02-10",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Charles Jones",
+      "participants": [
+        {
+          "name": "Charles Jones",
+          "playerHref": "/players/j/jonesch01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -2543.2999999999997,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2543.2999999999997,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -155328.29999999996,
+        "vorp": 16.7
+      }
+    },
+    {
+      "id": "mckinbi01x-49",
+      "sourceId": 49,
+      "date": "1994-02-20",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Pete Chilcutt, Jevon Crudup, and Cal Bowdler; Sent out Olden Polynice",
+      "participants": [
+        {
+          "name": "Olden Polynice",
+          "playerHref": "/players/p/polynol01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 19772.9,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Pete Chilcutt",
+          "playerHref": "/players/c/chilcpe01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1798.6,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jevon Crudup",
+          "playerHref": "/players/c/cruduje01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cal Bowdler",
+          "playerHref": "/players/b/bowdlca01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 17974.300000000003,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -137353.99999999997,
+        "vorp": 16.3
+      }
+    },
+    {
+      "id": "mckinbi01x-50",
+      "sourceId": 50,
+      "date": "1994-06-29",
+      "type": "draft",
+      "tenureTeam": "DET",
+      "summary": "Drafted Grant Hill and Jevon Crudup",
+      "participants": [
+        {
+          "name": "Grant Hill",
+          "playerHref": "/players/h/hillgr01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 87934.70000000001,
+            "vorp": 30.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jevon Crudup",
+          "playerHref": "/players/c/cruduje01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 87934.70000000001,
+        "vorp": 30.8
+      },
+      "runningValues": {
+        "bpm": -49419.29999999996,
+        "vorp": 47.1
+      }
+    },
+    {
+      "id": "mckinbi01x-51",
+      "sourceId": 51,
+      "date": "1994-07-19",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Bill Curley and Charles O'Bannon; Sent out Sean Elliott",
+      "participants": [
+        {
+          "name": "Sean Elliott",
+          "playerHref": "/players/e/elliose01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -6894.1,
+            "vorp": -7.500000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bill Curley",
+          "playerHref": "/players/c/curlebi01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -3094,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Charles O'Bannon",
+          "playerHref": "/players/o/obannch01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -821.4000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -10809.5,
+        "vorp": -8
+      },
+      "runningValues": {
+        "bpm": -60228.79999999996,
+        "vorp": 39.1
+      }
+    },
+    {
+      "id": "mckinbi01x-52",
+      "sourceId": 52,
+      "date": "1994-07-25",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Eric Leckner; Sent out Jamie Feick",
+      "participants": [
+        {
+          "name": "Jamie Feick",
+          "playerHref": "/players/f/feickja01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eric Leckner",
+          "playerHref": "/players/l/leckner01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -4357.1,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4357.1,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": -64585.89999999996,
+        "vorp": 38.4
+      }
+    },
+    {
+      "id": "mckinbi01x-53",
+      "sourceId": 53,
+      "date": "1994-07-27",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Rafael Addison",
+      "participants": [
+        {
+          "name": "Rafael Addison",
+          "playerHref": "/players/a/addisra01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -5860.799999999999,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5860.799999999999,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": -70446.69999999995,
+        "vorp": 37.8
+      }
+    },
+    {
+      "id": "mckinbi01x-54",
+      "sourceId": 54,
+      "date": "1994-08-01",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Mark West; Sent out Russ Millard",
+      "participants": [
+        {
+          "name": "Russ Millard",
+          "playerHref": "/players/m/millaru01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mark West",
+          "playerHref": "/players/w/westma01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -9599.9,
+            "vorp": -1.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -9599.9,
+        "vorp": -1.3
+      },
+      "runningValues": {
+        "bpm": -80046.59999999995,
+        "vorp": 36.5
+      }
+    },
+    {
+      "id": "mckinbi01x-55",
+      "sourceId": 55,
+      "date": "1994-09-06",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Oliver Miller",
+      "participants": [
+        {
+          "name": "Oliver Miller",
+          "playerHref": "/players/m/milleol01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 155.8,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 155.8,
+        "vorp": 0.8
+      },
+      "runningValues": {
+        "bpm": -79890.79999999994,
+        "vorp": 37.3
+      }
+    },
+    {
+      "id": "mckinbi01x-56",
+      "sourceId": 56,
+      "date": "1994-10-06",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Ivano Newbill",
+      "participants": [
+        {
+          "name": "Ivano Newbill",
+          "playerHref": "/players/n/newbiiv01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1820.5,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1820.5,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -81711.29999999994,
+        "vorp": 37
+      }
+    },
+    {
+      "id": "mckinbi01x-57",
+      "sourceId": 57,
+      "date": "1994-10-10",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Johnny Dawkins",
+      "participants": [
+        {
+          "name": "Johnny Dawkins",
+          "playerHref": "/players/d/dawkijo01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -2223,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2223,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -83934.29999999994,
+        "vorp": 37
+      }
+    },
+    {
+      "id": "mckinbi01x-58",
+      "sourceId": 58,
+      "date": "1994-12-12",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Walter Bond",
+      "participants": [
+        {
+          "name": "Walter Bond",
+          "playerHref": "/players/b/bondwa01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -418.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -418.2,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -84352.49999999994,
+        "vorp": 36.9
+      }
+    },
+    {
+      "id": "mckinbi01x-59",
+      "sourceId": 59,
+      "date": "1994-12-30",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Mike Peplowski",
+      "participants": [
+        {
+          "name": "Mike Peplowski",
+          "playerHref": "/players/p/peplomi01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -84352.49999999994,
+        "vorp": 36.9
+      }
+    },
+    {
+      "id": "mckinbi01x-60",
+      "sourceId": 60,
+      "date": "1994-12-30",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Negele Knight",
+      "participants": [
+        {
+          "name": "Negele Knight",
+          "playerHref": "/players/k/knighne01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -2926.0000000000005,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2926.0000000000005,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -87278.49999999994,
+        "vorp": 36.5
+      }
+    },
+    {
+      "id": "mckinbi01x-61",
+      "sourceId": 61,
+      "date": "1995-01-10",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Mike Peplowski",
+      "participants": [
+        {
+          "name": "Mike Peplowski",
+          "playerHref": "/players/p/peplomi01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -109.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -109.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -87387.69999999994,
+        "vorp": 36.5
+      }
+    }
+  ]
+}

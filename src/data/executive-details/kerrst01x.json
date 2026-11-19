@@ -1,0 +1,1031 @@
+{
+  "slug": "kerrst01x",
+  "sourceRowCount": 51,
+  "tenures": [
+    {
+      "teamCode": "PHO",
+      "startDate": "2007-06-28",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "kerrst01x-0",
+      "sourceId": 0,
+      "date": "2007-06-28",
+      "type": "draft",
+      "tenureTeam": "PHO",
+      "summary": "Drafted Rudy Fernández, Alando Tucker, and D.J. Strawberry",
+      "participants": [
+        {
+          "name": "Rudy Fernández",
+          "playerHref": "/players/f/fernaru01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alando Tucker",
+          "playerHref": "/players/t/tuckeal02.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -1650.8999999999996,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "D.J. Strawberry",
+          "playerHref": "/players/s/strawdj01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -1485,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3135.8999999999996,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -3135.8999999999996,
+        "vorp": -0.5
+      }
+    },
+    {
+      "id": "kerrst01x-1",
+      "sourceId": 1,
+      "date": "2007-07-11",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Grant Hill",
+      "participants": [
+        {
+          "name": "Grant Hill",
+          "playerHref": "/players/h/hillgr01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 4080.0999999999995,
+            "vorp": 6.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4080.0999999999995,
+        "vorp": 6.5
+      },
+      "runningValues": {
+        "bpm": 944.1999999999998,
+        "vorp": 6
+      }
+    },
+    {
+      "id": "kerrst01x-2",
+      "sourceId": 2,
+      "date": "2007-07-11",
+      "type": "trade",
+      "tenureTeam": "PHO",
+      "summary": "Sent out Rudy Fernández and James Jones",
+      "participants": [
+        {
+          "name": "Rudy Fernández",
+          "playerHref": "/players/f/fernaru01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -9779.4,
+            "vorp": -5.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "James Jones",
+          "playerHref": "/players/j/jonesja02.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -1658.8,
+            "vorp": -1.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -11438.199999999999,
+        "vorp": -6.199999999999999
+      },
+      "runningValues": {
+        "bpm": -10494,
+        "vorp": -0.19999999999999973
+      }
+    },
+    {
+      "id": "kerrst01x-3",
+      "sourceId": 3,
+      "date": "2007-07-20",
+      "type": "trade",
+      "tenureTeam": "PHO",
+      "summary": "Added Emir Preldžić; Sent out Kurt Thomas, Serge Ibaka, and Quincy Pondexter",
+      "participants": [
+        {
+          "name": "Kurt Thomas",
+          "playerHref": "/players/t/thomaku01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": -848,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Serge Ibaka",
+          "playerHref": "/players/i/ibakase01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Quincy Pondexter",
+          "playerHref": "/players/p/pondequ01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Emir Preldžić",
+          "playerHref": "/players/p/preldem01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -848,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": -11342,
+        "vorp": -0.8999999999999997
+      }
+    },
+    {
+      "id": "kerrst01x-4",
+      "sourceId": 4,
+      "date": "2007-10-01",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Richie Frahm",
+      "participants": [
+        {
+          "name": "Richie Frahm",
+          "playerHref": "/players/f/frahmri01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -11342,
+        "vorp": -0.8999999999999997
+      }
+    },
+    {
+      "id": "kerrst01x-5",
+      "sourceId": 5,
+      "date": "2007-10-01",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Brian Skinner",
+      "participants": [
+        {
+          "name": "Brian Skinner",
+          "playerHref": "/players/s/skinnbr01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -2447.6,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2447.6,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -13789.6,
+        "vorp": -1.0999999999999996
+      }
+    },
+    {
+      "id": "kerrst01x-6",
+      "sourceId": 6,
+      "date": "2008-02-06",
+      "type": "trade",
+      "tenureTeam": "PHO",
+      "summary": "Added Shaquille O'Neal; Sent out Marcus Banks and Shawn Marion",
+      "participants": [
+        {
+          "name": "Marcus Banks",
+          "playerHref": "/players/b/banksma01.html",
+          "direction": "out",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": 488.70000000000005,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Shawn Marion",
+          "playerHref": "/players/m/mariosh01.html",
+          "direction": "out",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": -425.79999999999995,
+            "vorp": -1.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "playerHref": "/players/o/onealsh01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 3346.6000000000004,
+            "vorp": 2.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3409.5000000000005,
+        "vorp": 1.0999999999999999
+      },
+      "runningValues": {
+        "bpm": -10380.099999999999,
+        "vorp": 4.440892098500626e-16
+      }
+    },
+    {
+      "id": "kerrst01x-7",
+      "sourceId": 7,
+      "date": "2008-02-22",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Linton Johnson",
+      "participants": [
+        {
+          "name": "Linton Johnson",
+          "playerHref": "/players/j/johnsli01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -10380.099999999999,
+        "vorp": 4.440892098500626e-16
+      }
+    },
+    {
+      "id": "kerrst01x-8",
+      "sourceId": 8,
+      "date": "2008-03-24",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Gordan Giriček",
+      "participants": [
+        {
+          "name": "Gordan Giriček",
+          "playerHref": "/players/g/giricgo01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -1016.5999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1016.5999999999999,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -11396.699999999999,
+        "vorp": 4.440892098500626e-16
+      }
+    },
+    {
+      "id": "kerrst01x-9",
+      "sourceId": 9,
+      "date": "2008-04-16",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Linton Johnson",
+      "participants": [
+        {
+          "name": "Linton Johnson",
+          "playerHref": "/players/j/johnsli01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -222.60000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -222.60000000000002,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -11619.3,
+        "vorp": 4.440892098500626e-16
+      }
+    },
+    {
+      "id": "kerrst01x-10",
+      "sourceId": 10,
+      "date": "2008-06-26",
+      "type": "draft",
+      "tenureTeam": "PHO",
+      "summary": "Drafted Robin Lopez and Malik Hairston",
+      "participants": [
+        {
+          "name": "Robin Lopez",
+          "playerHref": "/players/l/lopezro01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -8612.2,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Malik Hairston",
+          "playerHref": "/players/h/hairsma01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -8612.2,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -20231.5,
+        "vorp": -0.29999999999999954
+      }
+    },
+    {
+      "id": "kerrst01x-11",
+      "sourceId": 11,
+      "date": "2008-06-28",
+      "type": "trade",
+      "tenureTeam": "PHO",
+      "summary": "Added Goran Dragić; Sent out Malik Hairston and DeJuan Blair",
+      "participants": [
+        {
+          "name": "Malik Hairston",
+          "playerHref": "/players/h/hairsma01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 912.3,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "DeJuan Blair",
+          "playerHref": "/players/b/blairde01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 3683.3,
+            "vorp": -1.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Goran Dragić",
+          "playerHref": "/players/d/dragigo01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 8209.899999999998,
+            "vorp": 7.1000000000000005
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 12805.499999999998,
+        "vorp": 5.200000000000001
+      },
+      "runningValues": {
+        "bpm": -7426.000000000004,
+        "vorp": 4.900000000000001
+      }
+    },
+    {
+      "id": "kerrst01x-12",
+      "sourceId": 12,
+      "date": "2008-07-22",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Matt Barnes",
+      "participants": [
+        {
+          "name": "Matt Barnes",
+          "playerHref": "/players/b/barnema02.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -832.8000000000001,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -832.8000000000001,
+        "vorp": 0.8
+      },
+      "runningValues": {
+        "bpm": -8258.800000000003,
+        "vorp": 5.700000000000001
+      }
+    },
+    {
+      "id": "kerrst01x-13",
+      "sourceId": 13,
+      "date": "2008-08-14",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Lou Amundson",
+      "participants": [
+        {
+          "name": "Lou Amundson",
+          "playerHref": "/players/a/amundlo01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -3790.4,
+            "vorp": 0.19999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3790.4,
+        "vorp": 0.19999999999999998
+      },
+      "runningValues": {
+        "bpm": -12049.200000000003,
+        "vorp": 5.900000000000001
+      }
+    },
+    {
+      "id": "kerrst01x-14",
+      "sourceId": 14,
+      "date": "2008-08-25",
+      "type": "trade",
+      "tenureTeam": "PHO",
+      "summary": "Added Sean Singletary; Sent out D.J. Strawberry",
+      "participants": [
+        {
+          "name": "D.J. Strawberry",
+          "playerHref": "/players/s/strawdj01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sean Singletary",
+          "playerHref": "/players/s/singlse01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -451.40000000000003,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -451.40000000000003,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -12500.600000000002,
+        "vorp": 5.800000000000002
+      }
+    },
+    {
+      "id": "kerrst01x-15",
+      "sourceId": 15,
+      "date": "2008-12-10",
+      "type": "trade",
+      "tenureTeam": "PHO",
+      "summary": "Added Jared Dudley, Jason Richardson, and Gani Lawal; Sent out Raja Bell, Boris Diaw, and Sean Singletary",
+      "participants": [
+        {
+          "name": "Raja Bell",
+          "playerHref": "/players/b/bellra01.html",
+          "direction": "out",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 1210.5,
+            "vorp": -0.6000000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Boris Diaw",
+          "playerHref": "/players/d/diawbo01.html",
+          "direction": "out",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -4567,
+            "vorp": -5.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sean Singletary",
+          "playerHref": "/players/s/singlse01.html",
+          "direction": "out",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 1086,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jared Dudley",
+          "playerHref": "/players/d/dudleja01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 9118.900000000001,
+            "vorp": 8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jason Richardson",
+          "playerHref": "/players/r/richaja01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 7880.499999999999,
+            "vorp": 4.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Gani Lawal",
+          "playerHref": "/players/l/lawalga01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -30,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 14698.900000000001,
+        "vorp": 6.7
+      },
+      "runningValues": {
+        "bpm": 2198.2999999999984,
+        "vorp": 12.5
+      }
+    },
+    {
+      "id": "kerrst01x-16",
+      "sourceId": 16,
+      "date": "2008-12-24",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Dee Brown",
+      "participants": [
+        {
+          "name": "Dee Brown",
+          "playerHref": "/players/b/brownde03.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -327.59999999999997,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -327.59999999999997,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 1870.6999999999985,
+        "vorp": 12.4
+      }
+    },
+    {
+      "id": "kerrst01x-17",
+      "sourceId": 17,
+      "date": "2009-01-20",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Courtney Sims",
+      "participants": [
+        {
+          "name": "Courtney Sims",
+          "playerHref": "/players/s/simsco01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -57,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -57,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 1813.6999999999985,
+        "vorp": 12.4
+      }
+    },
+    {
+      "id": "kerrst01x-18",
+      "sourceId": 18,
+      "date": "2009-03-04",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Stromile Swift",
+      "participants": [
+        {
+          "name": "Stromile Swift",
+          "playerHref": "/players/s/swiftst01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -1149.5,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1149.5,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 664.1999999999985,
+        "vorp": 12.200000000000001
+      }
+    },
+    {
+      "id": "kerrst01x-19",
+      "sourceId": 19,
+      "date": "2009-06-25",
+      "type": "draft",
+      "tenureTeam": "PHO",
+      "summary": "Drafted Earl Clark, Taylor Griffin, and Emir Preldžić",
+      "participants": [
+        {
+          "name": "Earl Clark",
+          "playerHref": "/players/c/clarkea01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -2336.9,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Taylor Griffin",
+          "playerHref": "/players/g/griffta01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -259.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Emir Preldžić",
+          "playerHref": "/players/p/preldem01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2596.1,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -1931.9000000000017,
+        "vorp": 11.8
+      }
+    },
+    {
+      "id": "kerrst01x-20",
+      "sourceId": 20,
+      "date": "2009-06-26",
+      "type": "trade",
+      "tenureTeam": "PHO",
+      "summary": "Added Sasha Pavlović, Ben Wallace, and Dwayne Collins; Sent out Shaquille O'Neal",
+      "participants": [
+        {
+          "name": "Shaquille O'Neal",
+          "playerHref": "/players/o/onealsh01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 248,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sasha Pavlović",
+          "playerHref": "/players/p/pavloal01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ben Wallace",
+          "playerHref": "/players/w/wallabe01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dwayne Collins",
+          "playerHref": "/players/c/collidw01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 248,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": -1683.9000000000017,
+        "vorp": 11.200000000000001
+      }
+    },
+    {
+      "id": "kerrst01x-21",
+      "sourceId": 21,
+      "date": "2009-06-26",
+      "type": "trade",
+      "tenureTeam": "PHO",
+      "summary": "Sent out Emir Preldžić",
+      "participants": [
+        {
+          "name": "Emir Preldžić",
+          "playerHref": "/players/p/preldem01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -1683.9000000000017,
+        "vorp": 11.200000000000001
+      }
+    },
+    {
+      "id": "kerrst01x-22",
+      "sourceId": 22,
+      "date": "2009-07-14",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Channing Frye",
+      "participants": [
+        {
+          "name": "Channing Frye",
+          "playerHref": "/players/f/fryech01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 8271.2,
+            "vorp": 6.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 8271.2,
+        "vorp": 6.5
+      },
+      "runningValues": {
+        "bpm": 6587.299999999999,
+        "vorp": 17.700000000000003
+      }
+    },
+    {
+      "id": "kerrst01x-23",
+      "sourceId": 23,
+      "date": "2009-12-29",
+      "type": "trade",
+      "tenureTeam": "PHO",
+      "summary": "Added Jason Hart; Sent out Alando Tucker and Hamady N'Diaye",
+      "participants": [
+        {
+          "name": "Alando Tucker",
+          "playerHref": "/players/t/tuckeal02.html",
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 235,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Hamady N'Diaye",
+          "playerHref": "/players/n/ndiayha01.html",
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jason Hart",
+          "playerHref": "/players/h/hartja01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 235,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 6822.299999999999,
+        "vorp": 17.700000000000003
+      }
+    },
+    {
+      "id": "kerrst01x-24",
+      "sourceId": 24,
+      "date": "2010-04-05",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Dwayne Jones",
+      "participants": [
+        {
+          "name": "Dwayne Jones",
+          "playerHref": "/players/j/jonesdw02.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 6822.299999999999,
+        "vorp": 17.700000000000003
+      }
+    },
+    {
+      "id": "kerrst01x-25",
+      "sourceId": 25,
+      "date": "2010-04-05",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Dwayne Jones",
+      "participants": [
+        {
+          "name": "Dwayne Jones",
+          "playerHref": "/players/j/jonesdw02.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -30.800000000000004,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -30.800000000000004,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 6791.499999999999,
+        "vorp": 17.700000000000003
+      }
+    }
+  ]
+}

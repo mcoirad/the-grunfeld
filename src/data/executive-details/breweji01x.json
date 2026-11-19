@@ -1,0 +1,191 @@
+{
+  "slug": "breweji01x",
+  "sourceRowCount": 9,
+  "tenures": [
+    {
+      "teamCode": "MIN",
+      "startDate": "1990-12-29",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "breweji01x-0",
+      "sourceId": 0,
+      "date": "1990-12-29",
+      "type": "signing",
+      "tenureTeam": "MIN",
+      "summary": "Signed Dan Godfread",
+      "participants": [
+        {
+          "name": "Dan Godfread",
+          "playerHref": "/players/g/godfrda01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "breweji01x-1",
+      "sourceId": 1,
+      "date": "1991-01-18",
+      "type": "signing",
+      "tenureTeam": "MIN",
+      "summary": "Signed Dan Godfread",
+      "participants": [
+        {
+          "name": "Dan Godfread",
+          "playerHref": "/players/g/godfrda01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 16,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 16,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 16,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "breweji01x-4",
+      "sourceId": 4,
+      "date": "1991-06-26",
+      "type": "draft",
+      "tenureTeam": "MIN",
+      "summary": "Drafted Luc Longley and Myron Brown",
+      "participants": [
+        {
+          "name": "Luc Longley",
+          "playerHref": "/players/l/longllu01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": -10600.500000000002,
+            "vorp": -1.2000000000000002
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Myron Brown",
+          "playerHref": "/players/b/brownmy01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": -41.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -10641.900000000001,
+        "vorp": -1.2000000000000002
+      },
+      "runningValues": {
+        "bpm": -10625.900000000001,
+        "vorp": -1.2000000000000002
+      }
+    },
+    {
+      "id": "breweji01x-5",
+      "sourceId": 5,
+      "date": "1991-10-03",
+      "type": "signing",
+      "tenureTeam": "MIN",
+      "summary": "Signed Tellis Frank",
+      "participants": [
+        {
+          "name": "Tellis Frank",
+          "playerHref": "/players/f/frankte01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": -2687.3,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2687.3,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -13313.2,
+        "vorp": -1.4000000000000001
+      }
+    },
+    {
+      "id": "breweji01x-6",
+      "sourceId": 6,
+      "date": "1991-11-25",
+      "type": "trade",
+      "tenureTeam": "MIN",
+      "summary": "Added Thurl Bailey and Tim Burroughs; Sent out Tyrone Corbin",
+      "participants": [
+        {
+          "name": "Tyrone Corbin",
+          "playerHref": "/players/c/corbity01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": -1203.6999999999998,
+            "vorp": -3.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Thurl Bailey",
+          "playerHref": "/players/b/baileth01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": -8021.6,
+            "vorp": 0.29999999999999993
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tim Burroughs",
+          "playerHref": "/players/b/burroti01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -9225.3,
+        "vorp": -3.4000000000000004
+      },
+      "runningValues": {
+        "bpm": -22538.5,
+        "vorp": -4.800000000000001
+      }
+    }
+  ]
+}

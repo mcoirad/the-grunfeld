@@ -1,0 +1,1133 @@
+{
+  "slug": "gregobr99x",
+  "sourceRowCount": 57,
+  "tenures": [
+    {
+      "teamCode": "PHO",
+      "startDate": "2025-06-25",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "gregobr99x-0",
+      "sourceId": 0,
+      "date": "2025-06-25",
+      "type": "draft",
+      "tenureTeam": "PHO",
+      "summary": "Drafted Liam McNeeley and Alex Toohey",
+      "participants": [
+        {
+          "name": "Liam McNeeley",
+          "playerHref": "/players/m/mcneeli01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alex Toohey",
+          "playerHref": "/players/t/tooheal01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "gregobr99x-1",
+      "sourceId": 1,
+      "date": "2025-06-30",
+      "type": "trade",
+      "tenureTeam": "PHO",
+      "summary": "Added Mark Williams and future ('2029', '2nd') round pick; Sent out Liam McNeeley, Vasilije Micić, and future ('2029', '1st') round pick",
+      "participants": [
+        {
+          "name": "Liam McNeeley",
+          "playerHref": "/players/m/mcneeli01.html",
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 1016,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Vasilije Micić",
+          "playerHref": "/players/m/micicva01.html",
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mark Williams",
+          "playerHref": "/players/w/willima07.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 2832,
+            "vorp": 1.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2029', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2029', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3848,
+        "vorp": 1.4
+      },
+      "runningValues": {
+        "bpm": 3848,
+        "vorp": 1.4
+      }
+    },
+    {
+      "id": "gregobr99x-2",
+      "sourceId": 2,
+      "date": "2025-07-02",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Collin Gillespie",
+      "participants": [
+        {
+          "name": "Collin Gillespie",
+          "playerHref": "/players/g/gilleco01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 5705,
+            "vorp": 2.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5705,
+        "vorp": 2.6
+      },
+      "runningValues": {
+        "bpm": 9553,
+        "vorp": 4
+      }
+    },
+    {
+      "id": "gregobr99x-3",
+      "sourceId": 3,
+      "date": "2025-07-03",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed CJ Huntley",
+      "participants": [
+        {
+          "name": "CJ Huntley",
+          "playerHref": "/players/h/huntlcj01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 9553,
+        "vorp": 4
+      }
+    },
+    {
+      "id": "gregobr99x-4",
+      "sourceId": 4,
+      "date": "2025-07-06",
+      "type": "trade",
+      "tenureTeam": "PHO",
+      "summary": "Added Daeqwon Plowden, Koby Brea, Dillon Brooks, Jalen Green, Khaman Maluach, Tyler Nickel, future ('2026', '2nd') round pick, future ('2032', '2nd') round pick, and Rasheer Fleming; Sent out Vsevolod Ishchenko, future ('2026', '2nd') round pick, future ('2032', '2nd') round pick, Kevin Durant, and Alex Toohey",
+      "participants": [
+        {
+          "name": "Vsevolod Ishchenko",
+          "playerHref": "/players/i/ishchvs01.html",
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2032', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kevin Durant",
+          "playerHref": "/players/d/duranke01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -13984.8,
+            "vorp": -5.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alex Toohey",
+          "playerHref": "/players/t/tooheal01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Daeqwon Plowden",
+          "playerHref": "/players/p/plowdda01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Koby Brea",
+          "playerHref": "/players/b/breako01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dillon Brooks",
+          "playerHref": "/players/b/brookdi01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jalen Green",
+          "playerHref": "/players/g/greenja05.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Khaman Maluach",
+          "playerHref": "/players/m/maluakh01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tyler Nickel",
+          "playerHref": "/players/n/nickety01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2032', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rasheer Fleming",
+          "playerHref": "/players/f/flemira01.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -13984.8,
+        "vorp": -5.3
+      },
+      "runningValues": {
+        "bpm": -4431.799999999999,
+        "vorp": -1.2999999999999998
+      }
+    },
+    {
+      "id": "gregobr99x-5",
+      "sourceId": 5,
+      "date": "2025-07-07",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Koby Brea",
+      "participants": [
+        {
+          "name": "Koby Brea",
+          "playerHref": "/players/b/breako01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 16.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 16.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -4414.999999999999,
+        "vorp": -1.2999999999999998
+      }
+    },
+    {
+      "id": "gregobr99x-6",
+      "sourceId": 6,
+      "date": "2025-07-07",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Rasheer Fleming",
+      "participants": [
+        {
+          "name": "Rasheer Fleming",
+          "playerHref": "/players/f/flemira01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -2879.4,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2879.4,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -7294.4,
+        "vorp": -1.6999999999999997
+      }
+    },
+    {
+      "id": "gregobr99x-7",
+      "sourceId": 7,
+      "date": "2025-07-07",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Khaman Maluach",
+      "participants": [
+        {
+          "name": "Khaman Maluach",
+          "playerHref": "/players/m/maluakh01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -1783.6000000000001,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1783.6000000000001,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -9078,
+        "vorp": -1.7999999999999998
+      }
+    },
+    {
+      "id": "gregobr99x-8",
+      "sourceId": 8,
+      "date": "2025-07-08",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Isaiah Livers",
+      "participants": [
+        {
+          "name": "Isaiah Livers",
+          "playerHref": "/players/l/liveris01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -867.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -867.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -9945.5,
+        "vorp": -1.7999999999999998
+      }
+    },
+    {
+      "id": "gregobr99x-9",
+      "sourceId": 9,
+      "date": "2025-07-09",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Nigel Hayes-Davis",
+      "participants": [
+        {
+          "name": "Nigel Hayes-Davis",
+          "playerHref": "/players/h/hayesni01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -1423.5,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1423.5,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -11369,
+        "vorp": -2.0999999999999996
+      }
+    },
+    {
+      "id": "gregobr99x-10",
+      "sourceId": 10,
+      "date": "2025-07-24",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Jared Butler",
+      "participants": [
+        {
+          "name": "Jared Butler",
+          "playerHref": "/players/b/butleja02.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -11369,
+        "vorp": -2.0999999999999996
+      }
+    },
+    {
+      "id": "gregobr99x-11",
+      "sourceId": 11,
+      "date": "2025-11-18",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Jamaree Bouyea",
+      "participants": [
+        {
+          "name": "Jamaree Bouyea",
+          "playerHref": "/players/b/bouyeja01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 27.599999999999966,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 27.599999999999966,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": -11341.4,
+        "vorp": -1.6999999999999997
+      }
+    },
+    {
+      "id": "gregobr99x-12",
+      "sourceId": 12,
+      "date": "2026-02-05",
+      "type": "trade",
+      "tenureTeam": "PHO",
+      "summary": "Added Cole Anthony and Amir Coffey; Sent out Nigel Hayes-Davis and Nick Richards",
+      "participants": [
+        {
+          "name": "Nigel Hayes-Davis",
+          "playerHref": "/players/h/hayesni01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Nick Richards",
+          "playerHref": "/players/r/richani01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 2592.6,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cole Anthony",
+          "playerHref": "/players/a/anthoco01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -2476.9,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Amir Coffey",
+          "playerHref": "/players/c/coffeam01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -1378,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1262.3000000000002,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -12603.699999999999,
+        "vorp": -1.8999999999999997
+      }
+    },
+    {
+      "id": "gregobr99x-13",
+      "sourceId": 13,
+      "date": "2026-02-18",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Haywood Highsmith",
+      "participants": [
+        {
+          "name": "Haywood Highsmith",
+          "playerHref": "/players/h/highsha01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 345.8,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 345.8,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -12257.9,
+        "vorp": -1.7999999999999996
+      }
+    },
+    {
+      "id": "gregobr99x-14",
+      "sourceId": 14,
+      "date": "2026-03-02",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed CJ Huntley",
+      "participants": [
+        {
+          "name": "CJ Huntley",
+          "playerHref": "/players/h/huntlcj01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -176,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -176,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -12433.9,
+        "vorp": -1.7999999999999996
+      }
+    },
+    {
+      "id": "gregobr99x-15",
+      "sourceId": 15,
+      "date": "2026-06-24",
+      "type": "draft",
+      "tenureTeam": "PHO",
+      "summary": "Drafted Tyler Nickel",
+      "participants": [
+        {
+          "name": "Tyler Nickel",
+          "playerHref": "/players/n/nickety01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -12433.9,
+        "vorp": -1.7999999999999996
+      }
+    },
+    {
+      "id": "gregobr99x-16",
+      "sourceId": 16,
+      "date": "2026-06-24",
+      "type": "trade",
+      "tenureTeam": "PHO",
+      "summary": "Added Koa Peat; Sent out Tyler Nickel, future ('2029', '2nd') round pick, and future ('2033', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Tyler Nickel",
+          "playerHref": "/players/n/nickety01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2029', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2033', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Koa Peat",
+          "playerHref": "/players/p/peatko01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -12433.9,
+        "vorp": -1.7999999999999996
+      }
+    },
+    {
+      "id": "gregobr99x-17",
+      "sourceId": 17,
+      "date": "2026-07-01",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Koa Peat",
+      "participants": [
+        {
+          "name": "Koa Peat",
+          "playerHref": "/players/p/peatko01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -10.799999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -10.799999999999999,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -12444.699999999999,
+        "vorp": -1.7999999999999996
+      }
+    },
+    {
+      "id": "gregobr99x-18",
+      "sourceId": 18,
+      "date": "2026-07-03",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Pat Spencer",
+      "participants": [
+        {
+          "name": "Pat Spencer",
+          "playerHref": "/players/s/spencpa01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 37.800000000000004,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 37.800000000000004,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -12406.9,
+        "vorp": -1.7999999999999996
+      }
+    },
+    {
+      "id": "gregobr99x-19",
+      "sourceId": 19,
+      "date": "2026-07-06",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Koby Brea",
+      "participants": [
+        {
+          "name": "Koby Brea",
+          "playerHref": "/players/b/breako01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -12406.9,
+        "vorp": -1.7999999999999996
+      }
+    },
+    {
+      "id": "gregobr99x-20",
+      "sourceId": 20,
+      "date": "2026-07-07",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Collin Gillespie",
+      "participants": [
+        {
+          "name": "Collin Gillespie",
+          "playerHref": "/players/g/gilleco01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -226.1,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -226.1,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -12633,
+        "vorp": -1.6999999999999995
+      }
+    },
+    {
+      "id": "gregobr99x-21",
+      "sourceId": 21,
+      "date": "2026-07-07",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Jordan Goodwin",
+      "participants": [
+        {
+          "name": "Jordan Goodwin",
+          "playerHref": "/players/g/goodwjo01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 768.6,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 768.6,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": -11864.4,
+        "vorp": -1.3999999999999995
+      }
+    },
+    {
+      "id": "gregobr99x-22",
+      "sourceId": 22,
+      "date": "2026-07-07",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Mark Williams",
+      "participants": [
+        {
+          "name": "Mark Williams",
+          "playerHref": "/players/w/willima07.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -11864.4,
+        "vorp": -1.3999999999999995
+      }
+    },
+    {
+      "id": "gregobr99x-23",
+      "sourceId": 23,
+      "date": "2026-07-13",
+      "type": "trade",
+      "tenureTeam": "PHO",
+      "summary": "Added Miles Bridges and future ('2027', '2nd') round pick; Sent out Grayson Allen, Royce O'Neale, and future ('2033', '1st') round pick",
+      "participants": [
+        {
+          "name": "Grayson Allen",
+          "playerHref": "/players/a/allengr01.html",
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": -739.2,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Royce O'Neale",
+          "playerHref": "/players/o/onealro01.html",
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 602.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Miles Bridges",
+          "playerHref": "/players/b/bridgmi02.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 909.6,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2033', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 772.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -11091.6,
+        "vorp": -1.3999999999999995
+      }
+    },
+    {
+      "id": "gregobr99x-24",
+      "sourceId": 24,
+      "date": "2026-07-14",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Luke Kennard",
+      "participants": [
+        {
+          "name": "Luke Kennard",
+          "playerHref": "/players/k/kennalu01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 482.99999999999994,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 482.99999999999994,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -10608.6,
+        "vorp": -1.1999999999999995
+      }
+    },
+    {
+      "id": "gregobr99x-25",
+      "sourceId": 25,
+      "date": "2026-08-17",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Haywood Highsmith",
+      "participants": [
+        {
+          "name": "Haywood Highsmith",
+          "playerHref": "/players/h/highsha01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -10608.6,
+        "vorp": -1.1999999999999995
+      }
+    },
+    {
+      "id": "gregobr99x-26",
+      "sourceId": 26,
+      "date": "2026-10-19",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Drew Timme",
+      "participants": [
+        {
+          "name": "Drew Timme",
+          "playerHref": "/players/t/timmedr01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -10608.6,
+        "vorp": -1.1999999999999995
+      }
+    },
+    {
+      "id": "gregobr99x-27",
+      "sourceId": 27,
+      "date": "2026-10-19",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Duop Reath",
+      "participants": [
+        {
+          "name": "Duop Reath",
+          "playerHref": "/players/r/reathdu01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -19.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -19.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -10628.4,
+        "vorp": -1.1999999999999995
+      }
+    }
+  ]
+}

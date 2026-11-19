@@ -21,11 +21,19 @@ const gradeSchema = z
   .nullable();
 
 const categorySchema = z.object({
-  total: z.number().nullable(),
+  total: z.number(),
   rating: z.number().nullable(),
-  percentile: z.number().min(0).max(100).nullable(),
-  grade: gradeSchema,
-  count: z.number().int().nonnegative().nullable(),
+  percentiles: z.object({
+    rating: z.number().min(0).max(100).nullable(),
+    total: z.number().min(0).max(100),
+    overall: z.number().min(0).max(100).nullable(),
+  }),
+  grades: z.object({
+    rating: gradeSchema,
+    total: gradeSchema.unwrap(),
+    overall: gradeSchema,
+  }),
+  count: z.number().int().nonnegative(),
 });
 
 const metricSchema = z.object({
@@ -78,4 +86,46 @@ export const snapshotMetadataSchema = z.object({
   rowCount: z.literal(173),
   activeCount: z.literal(30),
   sourceFile: z.string().min(1),
+  detailSourceDirectory: z.string().min(1),
+  detailFileCount: z.literal(173),
+  transactionCount: z.number().int().positive(),
+  detailSourceRowCount: z.number().int().positive(),
+});
+
+const metricValuesSchema = z.object({ bpm: z.number(), vorp: z.number() });
+
+const participantSchema = z.object({
+  name: z.string().min(1),
+  playerHref: z.string().nullable(),
+  direction: z.enum(["in", "out"]),
+  teamCode: z.string().nullable(),
+  values: metricValuesSchema,
+  creditedToDraft: z.boolean(),
+});
+
+const transactionSchema = z.object({
+  id: z.string().min(1),
+  sourceId: z.number().int().nonnegative(),
+  date: z.iso.date(),
+  type: z.enum(["draft", "trade", "signing"]),
+  tenureTeam: z.string().min(2),
+  summary: z.string().min(1),
+  participants: z.array(participantSchema).min(1),
+  values: metricValuesSchema,
+  runningValues: metricValuesSchema,
+});
+
+export const executiveDetailSchema = z.object({
+  slug: z.string().regex(/^[a-z0-9]+$/i),
+  sourceRowCount: z.number().int().positive(),
+  tenures: z
+    .array(
+      z.object({
+        teamCode: z.string().min(2),
+        startDate: z.iso.date(),
+        endDate: z.iso.date().nullable(),
+      }),
+    )
+    .min(1),
+  transactions: z.array(transactionSchema).min(1),
 });

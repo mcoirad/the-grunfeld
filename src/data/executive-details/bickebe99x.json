@@ -1,0 +1,4122 @@
+{
+  "slug": "bickebe99x",
+  "sourceRowCount": 182,
+  "tenures": [
+    {
+      "teamCode": "DEN",
+      "startDate": "1990-08-01",
+      "endDate": "2004-06-22"
+    },
+    {
+      "teamCode": "CHA",
+      "startDate": "2004-06-22",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "bickebe99x-0",
+      "sourceId": 0,
+      "date": "1990-08-01",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Terry Mills; Sent out Danny Schayes",
+      "participants": [
+        {
+          "name": "Danny Schayes",
+          "playerHref": "/players/s/schayda01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 9223.8,
+            "vorp": 0.09999999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Terry Mills",
+          "playerHref": "/players/m/millste01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -669.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 8554.199999999999,
+        "vorp": 0.09999999999999998
+      },
+      "runningValues": {
+        "bpm": 8554.199999999999,
+        "vorp": 0.09999999999999998
+      }
+    },
+    {
+      "id": "bickebe99x-1",
+      "sourceId": 1,
+      "date": "1990-08-03",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Orlando Woolridge",
+      "participants": [
+        {
+          "name": "Orlando Woolridge",
+          "playerHref": "/players/w/woolror01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 546.9,
+            "vorp": 1.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 546.9,
+        "vorp": 1.1
+      },
+      "runningValues": {
+        "bpm": 9101.099999999999,
+        "vorp": 1.2000000000000002
+      }
+    },
+    {
+      "id": "bickebe99x-2",
+      "sourceId": 2,
+      "date": "1990-08-17",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Clifford Lett",
+      "participants": [
+        {
+          "name": "Clifford Lett",
+          "playerHref": "/players/l/lettcl01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 9101.099999999999,
+        "vorp": 1.2000000000000002
+      }
+    },
+    {
+      "id": "bickebe99x-3",
+      "sourceId": 3,
+      "date": "1990-08-22",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Corey Gaines",
+      "participants": [
+        {
+          "name": "Corey Gaines",
+          "playerHref": "/players/g/gaineco01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -271.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -271.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 8829.899999999998,
+        "vorp": 1.2000000000000002
+      }
+    },
+    {
+      "id": "bickebe99x-4",
+      "sourceId": 4,
+      "date": "1990-09-01",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Dallas Comegys",
+      "participants": [
+        {
+          "name": "Dallas Comegys",
+          "playerHref": "/players/c/comegda01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 8829.899999999998,
+        "vorp": 1.2000000000000002
+      }
+    },
+    {
+      "id": "bickebe99x-5",
+      "sourceId": 5,
+      "date": "1990-09-01",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Wayne Englestad",
+      "participants": [
+        {
+          "name": "Wayne Englestad",
+          "playerHref": "/players/e/englewa01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 8829.899999999998,
+        "vorp": 1.2000000000000002
+      }
+    },
+    {
+      "id": "bickebe99x-6",
+      "sourceId": 6,
+      "date": "1990-09-01",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Ron Moore",
+      "participants": [
+        {
+          "name": "Ron Moore",
+          "playerHref": "/players/m/moorero01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 8829.899999999998,
+        "vorp": 1.2000000000000002
+      }
+    },
+    {
+      "id": "bickebe99x-7",
+      "sourceId": 7,
+      "date": "1990-09-04",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Stephen Thompson",
+      "participants": [
+        {
+          "name": "Stephen Thompson",
+          "playerHref": "/players/t/thompst01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 8829.899999999998,
+        "vorp": 1.2000000000000002
+      }
+    },
+    {
+      "id": "bickebe99x-10",
+      "sourceId": 10,
+      "date": "1990-09-26",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Jawann Oldham",
+      "participants": [
+        {
+          "name": "Jawann Oldham",
+          "playerHref": "/players/o/oldhaja01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 8829.899999999998,
+        "vorp": 1.2000000000000002
+      }
+    },
+    {
+      "id": "bickebe99x-11",
+      "sourceId": 11,
+      "date": "1990-09-28",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Anthony Cook",
+      "participants": [
+        {
+          "name": "Anthony Cook",
+          "playerHref": "/players/c/cookan01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -4199.4,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4199.4,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": 4630.499999999998,
+        "vorp": 0.7000000000000002
+      }
+    },
+    {
+      "id": "bickebe99x-12",
+      "sourceId": 12,
+      "date": "1990-10-01",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Randy Allen",
+      "participants": [
+        {
+          "name": "Randy Allen",
+          "playerHref": "/players/a/allenra01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 4630.499999999998,
+        "vorp": 0.7000000000000002
+      }
+    },
+    {
+      "id": "bickebe99x-13",
+      "sourceId": 13,
+      "date": "1990-10-04",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Jim Farmer",
+      "participants": [
+        {
+          "name": "Jim Farmer",
+          "playerHref": "/players/f/farmeji01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 4630.499999999998,
+        "vorp": 0.7000000000000002
+      }
+    },
+    {
+      "id": "bickebe99x-14",
+      "sourceId": 14,
+      "date": "1990-10-05",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Joe Wolf",
+      "participants": [
+        {
+          "name": "Joe Wolf",
+          "playerHref": "/players/w/wolfjo01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -15733.899999999998,
+            "vorp": -2.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -15733.899999999998,
+        "vorp": -2.3
+      },
+      "runningValues": {
+        "bpm": -11103.4,
+        "vorp": -1.5999999999999996
+      }
+    },
+    {
+      "id": "bickebe99x-15",
+      "sourceId": 15,
+      "date": "1990-10-24",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Avery Johnson",
+      "participants": [
+        {
+          "name": "Avery Johnson",
+          "playerHref": "/players/j/johnsav01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 35.799999999999955,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 35.799999999999955,
+        "vorp": 0.8
+      },
+      "runningValues": {
+        "bpm": -11067.6,
+        "vorp": -0.7999999999999996
+      }
+    },
+    {
+      "id": "bickebe99x-16",
+      "sourceId": 16,
+      "date": "1990-12-28",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Tim Legler",
+      "participants": [
+        {
+          "name": "Tim Legler",
+          "playerHref": "/players/l/legleti01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1258,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1258,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -12325.6,
+        "vorp": -0.9999999999999996
+      }
+    },
+    {
+      "id": "bickebe99x-17",
+      "sourceId": 17,
+      "date": "1990-12-28",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Anthony Mason",
+      "participants": [
+        {
+          "name": "Anthony Mason",
+          "playerHref": "/players/m/masonan01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -50.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -50.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -12376,
+        "vorp": -0.9999999999999996
+      }
+    },
+    {
+      "id": "bickebe99x-18",
+      "sourceId": 18,
+      "date": "1991-01-04",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Reggie Williams",
+      "participants": [
+        {
+          "name": "Reggie Williams",
+          "playerHref": "/players/w/willire01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 15940.399999999998,
+            "vorp": 10.299999999999999
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 15940.399999999998,
+        "vorp": 10.299999999999999
+      },
+      "runningValues": {
+        "bpm": 3564.399999999998,
+        "vorp": 9.299999999999999
+      }
+    },
+    {
+      "id": "bickebe99x-19",
+      "sourceId": 19,
+      "date": "1991-01-23",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Greg Anderson and Bryant Stith; Sent out Walter Davis, Reggie Smith, and Terry Mills",
+      "participants": [
+        {
+          "name": "Walter Davis",
+          "playerHref": "/players/d/daviswa03.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 965.8000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Reggie Smith",
+          "playerHref": "/players/s/smithre01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 1957.6,
+            "vorp": 0.30000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Terry Mills",
+          "playerHref": "/players/m/millste01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 4083,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Greg Anderson",
+          "playerHref": "/players/a/andergr01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -13384.3,
+            "vorp": -1.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bryant Stith",
+          "playerHref": "/players/s/stithbr01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6377.9,
+        "vorp": -1.5
+      },
+      "runningValues": {
+        "bpm": -2813.500000000002,
+        "vorp": 7.8
+      }
+    },
+    {
+      "id": "bickebe99x-20",
+      "sourceId": 20,
+      "date": "1991-02-12",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Craig Neal",
+      "participants": [
+        {
+          "name": "Craig Neal",
+          "playerHref": "/players/n/nealcr01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1025,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1025,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -3838.500000000002,
+        "vorp": 7.6
+      }
+    },
+    {
+      "id": "bickebe99x-21",
+      "sourceId": 21,
+      "date": "1991-03-07",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Jim Farmer",
+      "participants": [
+        {
+          "name": "Jim Farmer",
+          "playerHref": "/players/f/farmeji01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -3838.500000000002,
+        "vorp": 7.6
+      }
+    },
+    {
+      "id": "bickebe99x-22",
+      "sourceId": 22,
+      "date": "1991-03-17",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Jim Farmer",
+      "participants": [
+        {
+          "name": "Jim Farmer",
+          "playerHref": "/players/f/farmeji01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1550.5,
+            "vorp": -0.20000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1550.5,
+        "vorp": -0.20000000000000004
+      },
+      "runningValues": {
+        "bpm": -5389.000000000002,
+        "vorp": 7.3999999999999995
+      }
+    },
+    {
+      "id": "bickebe99x-23",
+      "sourceId": 23,
+      "date": "1991-06-11",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Mark Macon; Sent out Michael Adams, LaBradford Smith, and John Best",
+      "participants": [
+        {
+          "name": "Michael Adams",
+          "playerHref": "/players/a/adamsmi01.html",
+          "direction": "out",
+          "teamCode": "WSB",
+          "values": {
+            "bpm": -2694,
+            "vorp": -4.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "LaBradford Smith",
+          "playerHref": "/players/s/smithla02.html",
+          "direction": "out",
+          "teamCode": "WSB",
+          "values": {
+            "bpm": 9171,
+            "vorp": 1.0999999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Best",
+          "playerHref": "/players/b/bestjo01.html",
+          "direction": "out",
+          "teamCode": "WSB",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mark Macon",
+          "playerHref": "/players/m/maconma01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 6477,
+        "vorp": -3.4000000000000004
+      },
+      "runningValues": {
+        "bpm": 1087.9999999999982,
+        "vorp": 3.999999999999999
+      }
+    },
+    {
+      "id": "bickebe99x-24",
+      "sourceId": 24,
+      "date": "1991-06-26",
+      "type": "draft",
+      "tenureTeam": "DEN",
+      "summary": "Drafted Dikembe Mutombo and Mark Macon",
+      "participants": [
+        {
+          "name": "Dikembe Mutombo",
+          "playerHref": "/players/m/mutomdi01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 24968,
+            "vorp": 13.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mark Macon",
+          "playerHref": "/players/m/maconma01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -15557.000000000002,
+            "vorp": -2.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 9410.999999999998,
+        "vorp": 11.4
+      },
+      "runningValues": {
+        "bpm": 10498.999999999998,
+        "vorp": 15.4
+      }
+    },
+    {
+      "id": "bickebe99x-25",
+      "sourceId": 25,
+      "date": "1991-06-26",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Winston Garland; Sent out Russ Millard",
+      "participants": [
+        {
+          "name": "Russ Millard",
+          "playerHref": "/players/m/millaru01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Winston Garland",
+          "playerHref": "/players/g/garlawi01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -2871.7000000000003,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2871.7000000000003,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": 7627.299999999997,
+        "vorp": 15.8
+      }
+    },
+    {
+      "id": "bickebe99x-26",
+      "sourceId": 26,
+      "date": "1991-07-01",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Josh Grant, Kevin Brooks, and Rodney Dent; Sent out Blair Rasmussen",
+      "participants": [
+        {
+          "name": "Blair Rasmussen",
+          "playerHref": "/players/r/rasmubl01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 8309.5,
+            "vorp": 1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Josh Grant",
+          "playerHref": "/players/g/grantjo01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kevin Brooks",
+          "playerHref": "/players/b/brookke01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -6047.6,
+            "vorp": -1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rodney Dent",
+          "playerHref": "/players/d/dentro01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2261.8999999999996,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 9889.199999999997,
+        "vorp": 15.8
+      }
+    },
+    {
+      "id": "bickebe99x-27",
+      "sourceId": 27,
+      "date": "1991-08-13",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Scott Hastings and Robert Werdann; Sent out Orlando Woolridge",
+      "participants": [
+        {
+          "name": "Orlando Woolridge",
+          "playerHref": "/players/w/woolror01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 2385.8,
+            "vorp": -1.2000000000000002
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Scott Hastings",
+          "playerHref": "/players/h/hastisc01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -3785.8999999999996,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Robert Werdann",
+          "playerHref": "/players/w/werdaro01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1400.0999999999995,
+        "vorp": -1.6
+      },
+      "runningValues": {
+        "bpm": 8489.099999999997,
+        "vorp": 14.200000000000001
+      }
+    },
+    {
+      "id": "bickebe99x-28",
+      "sourceId": 28,
+      "date": "1991-08-15",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Howard Wright",
+      "participants": [
+        {
+          "name": "Howard Wright",
+          "playerHref": "/players/w/wrighho02.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 8489.099999999997,
+        "vorp": 14.200000000000001
+      }
+    },
+    {
+      "id": "bickebe99x-29",
+      "sourceId": 29,
+      "date": "1991-11-01",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Walter Davis",
+      "participants": [
+        {
+          "name": "Walter Davis",
+          "playerHref": "/players/d/daviswa03.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 74.10000000000001,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 74.10000000000001,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": 8563.199999999997,
+        "vorp": 14.600000000000001
+      }
+    },
+    {
+      "id": "bickebe99x-30",
+      "sourceId": 30,
+      "date": "1992-02-27",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Steve Scheffler",
+      "participants": [
+        {
+          "name": "Steve Scheffler",
+          "playerHref": "/players/s/schefst01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 8563.199999999997,
+        "vorp": 14.600000000000001
+      }
+    },
+    {
+      "id": "bickebe99x-31",
+      "sourceId": 31,
+      "date": "1992-03-17",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Steve Scheffler",
+      "participants": [
+        {
+          "name": "Steve Scheffler",
+          "playerHref": "/players/s/schefst01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -73.60000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -73.60000000000001,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 8489.599999999997,
+        "vorp": 14.600000000000001
+      }
+    },
+    {
+      "id": "bickebe99x-34",
+      "sourceId": 34,
+      "date": "1992-06-24",
+      "type": "draft",
+      "tenureTeam": "DEN",
+      "summary": "Drafted LaPhonso Ellis, Bryant Stith, and Robert Werdann",
+      "participants": [
+        {
+          "name": "LaPhonso Ellis",
+          "playerHref": "/players/e/ellisla01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -4771.2,
+            "vorp": 4.6000000000000005
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bryant Stith",
+          "playerHref": "/players/s/stithbr01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -9427.900000000001,
+            "vorp": 4.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Robert Werdann",
+          "playerHref": "/players/w/werdaro01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1266.5,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -15465.600000000002,
+        "vorp": 8.700000000000001
+      },
+      "runningValues": {
+        "bpm": -6976.000000000005,
+        "vorp": 23.300000000000004
+      }
+    },
+    {
+      "id": "bickebe99x-35",
+      "sourceId": 35,
+      "date": "1992-09-30",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Gary Plummer",
+      "participants": [
+        {
+          "name": "Gary Plummer",
+          "playerHref": "/players/p/plummga01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -4348.3,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4348.3,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": -11324.300000000005,
+        "vorp": 22.600000000000005
+      }
+    },
+    {
+      "id": "bickebe99x-36",
+      "sourceId": 36,
+      "date": "1992-10-23",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Robert Pack; Sent out Kevin Thompson",
+      "participants": [
+        {
+          "name": "Kevin Thompson",
+          "playerHref": "/players/t/thompke01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 464,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Robert Pack",
+          "playerHref": "/players/p/packro01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 157.9000000000001,
+            "vorp": 0.7999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 621.9000000000001,
+        "vorp": 0.8999999999999998
+      },
+      "runningValues": {
+        "bpm": -10702.400000000005,
+        "vorp": 23.500000000000007
+      }
+    },
+    {
+      "id": "bickebe99x-37",
+      "sourceId": 37,
+      "date": "1993-02-05",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Tom Hammonds",
+      "participants": [
+        {
+          "name": "Tom Hammonds",
+          "playerHref": "/players/h/hammoto01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -16792.4,
+            "vorp": -1.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -16792.4,
+        "vorp": -1.5
+      },
+      "runningValues": {
+        "bpm": -27494.800000000007,
+        "vorp": 22.000000000000007
+      }
+    },
+    {
+      "id": "bickebe99x-38",
+      "sourceId": 38,
+      "date": "1993-06-30",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Sent out John Best",
+      "participants": [
+        {
+          "name": "John Best",
+          "playerHref": "/players/b/bestjo01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -27494.800000000007,
+        "vorp": 22.000000000000007
+      }
+    },
+    {
+      "id": "bickebe99x-39",
+      "sourceId": 39,
+      "date": "1993-06-30",
+      "type": "draft",
+      "tenureTeam": "DEN",
+      "summary": "Drafted Rodney Rogers and Josh Grant",
+      "participants": [
+        {
+          "name": "Rodney Rogers",
+          "playerHref": "/players/r/rogerro01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -843.6,
+            "vorp": 1.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Josh Grant",
+          "playerHref": "/players/g/grantjo01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -843.6,
+        "vorp": 1.6
+      },
+      "runningValues": {
+        "bpm": -28338.400000000005,
+        "vorp": 23.60000000000001
+      }
+    },
+    {
+      "id": "bickebe99x-40",
+      "sourceId": 40,
+      "date": "1993-06-30",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Darnell Mee; Sent out Josh Grant and Anthony Miller",
+      "participants": [
+        {
+          "name": "Josh Grant",
+          "playerHref": "/players/g/grantjo01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 878.5999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Anthony Miller",
+          "playerHref": "/players/m/millean01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Darnell Mee",
+          "playerHref": "/players/m/meeda01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -795.3,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 83.29999999999995,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -28255.100000000006,
+        "vorp": 23.500000000000007
+      }
+    },
+    {
+      "id": "bickebe99x-41",
+      "sourceId": 41,
+      "date": "1993-08-19",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Bison Dele; Sent out Anthony Cook, Todd Lichti, and Rodney Dent",
+      "participants": [
+        {
+          "name": "Anthony Cook",
+          "playerHref": "/players/c/cookan01.html",
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 17.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Todd Lichti",
+          "playerHref": "/players/l/lichtto01.html",
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 28,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rodney Dent",
+          "playerHref": "/players/d/dentro01.html",
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bison Dele",
+          "playerHref": "/players/d/delebi01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -2045.2999999999997,
+            "vorp": 0.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1999.6999999999998,
+        "vorp": 0.9
+      },
+      "runningValues": {
+        "bpm": -30254.800000000007,
+        "vorp": 24.400000000000006
+      }
+    },
+    {
+      "id": "bickebe99x-42",
+      "sourceId": 42,
+      "date": "1993-11-19",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Alvin Robertson; Sent out Marcus Liberty and Mark Macon",
+      "participants": [
+        {
+          "name": "Marcus Liberty",
+          "playerHref": "/players/l/liberma01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 2000.2,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mark Macon",
+          "playerHref": "/players/m/maconma01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 3092.7999999999997,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alvin Robertson",
+          "playerHref": "/players/r/roberal01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5093,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": -25161.800000000007,
+        "vorp": 24.900000000000006
+      }
+    },
+    {
+      "id": "bickebe99x-43",
+      "sourceId": 43,
+      "date": "1993-11-20",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Adonis Jordan",
+      "participants": [
+        {
+          "name": "Adonis Jordan",
+          "playerHref": "/players/j/jordaad01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -25161.800000000007,
+        "vorp": 24.900000000000006
+      }
+    },
+    {
+      "id": "bickebe99x-44",
+      "sourceId": 44,
+      "date": "1993-11-29",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Mark Randall",
+      "participants": [
+        {
+          "name": "Mark Randall",
+          "playerHref": "/players/r/randama01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -341,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -341,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -25502.800000000007,
+        "vorp": 24.900000000000006
+      }
+    },
+    {
+      "id": "bickebe99x-45",
+      "sourceId": 45,
+      "date": "1993-11-30",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Robert Pack",
+      "participants": [
+        {
+          "name": "Robert Pack",
+          "playerHref": "/players/p/packro01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -840.5999999999999,
+            "vorp": 1.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -840.5999999999999,
+        "vorp": 1.6
+      },
+      "runningValues": {
+        "bpm": -26343.400000000005,
+        "vorp": 26.500000000000007
+      }
+    },
+    {
+      "id": "bickebe99x-46",
+      "sourceId": 46,
+      "date": "1994-01-11",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Adonis Jordan",
+      "participants": [
+        {
+          "name": "Adonis Jordan",
+          "playerHref": "/players/j/jordaad01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -410.8,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -410.8,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -26754.200000000004,
+        "vorp": 26.400000000000006
+      }
+    },
+    {
+      "id": "bickebe99x-47",
+      "sourceId": 47,
+      "date": "1994-01-21",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Roy Marble",
+      "participants": [
+        {
+          "name": "Roy Marble",
+          "playerHref": "/players/m/marblro01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -499.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -499.2,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -27253.400000000005,
+        "vorp": 26.300000000000004
+      }
+    },
+    {
+      "id": "bickebe99x-48",
+      "sourceId": 48,
+      "date": "1994-02-15",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Jim Farmer",
+      "participants": [
+        {
+          "name": "Jim Farmer",
+          "playerHref": "/players/f/farmeji01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -420.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -420.5,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -27673.900000000005,
+        "vorp": 26.200000000000003
+      }
+    },
+    {
+      "id": "bickebe99x-49",
+      "sourceId": 49,
+      "date": "1994-06-29",
+      "type": "draft",
+      "tenureTeam": "DEN",
+      "summary": "Drafted Jalen Rose",
+      "participants": [
+        {
+          "name": "Jalen Rose",
+          "playerHref": "/players/r/roseja01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -594.8,
+            "vorp": 1.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -594.8,
+        "vorp": 1.8
+      },
+      "runningValues": {
+        "bpm": -28268.700000000004,
+        "vorp": 28.000000000000004
+      }
+    },
+    {
+      "id": "bickebe99x-50",
+      "sourceId": 50,
+      "date": "1994-08-02",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Reggie Slater",
+      "participants": [
+        {
+          "name": "Reggie Slater",
+          "playerHref": "/players/s/slatere01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -708,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -708,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -28976.700000000004,
+        "vorp": 28.000000000000004
+      }
+    },
+    {
+      "id": "bickebe99x-51",
+      "sourceId": 51,
+      "date": "1994-09-29",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Cliff Levingston",
+      "participants": [
+        {
+          "name": "Cliff Levingston",
+          "playerHref": "/players/l/levincl01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1829.1,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1829.1,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -30805.800000000003,
+        "vorp": 27.800000000000004
+      }
+    },
+    {
+      "id": "bickebe99x-52",
+      "sourceId": 52,
+      "date": "1994-10-04",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Dale Ellis",
+      "participants": [
+        {
+          "name": "Dale Ellis",
+          "playerHref": "/players/e/ellisda01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -7004.4,
+            "vorp": 2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -7004.4,
+        "vorp": 2
+      },
+      "runningValues": {
+        "bpm": -37810.200000000004,
+        "vorp": 29.800000000000004
+      }
+    },
+    {
+      "id": "bickebe99x-55",
+      "sourceId": 55,
+      "date": "1995-02-23",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Mark Randall",
+      "participants": [
+        {
+          "name": "Mark Randall",
+          "playerHref": "/players/r/randama01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -37810.200000000004,
+        "vorp": 29.800000000000004
+      }
+    },
+    {
+      "id": "bickebe99x-56",
+      "sourceId": 56,
+      "date": "1995-03-03",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Eldridge Recasner",
+      "participants": [
+        {
+          "name": "Eldridge Recasner",
+          "playerHref": "/players/r/recasel01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -14.3,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -14.3,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -37824.50000000001,
+        "vorp": 29.800000000000004
+      }
+    },
+    {
+      "id": "bickebe99x-57",
+      "sourceId": 57,
+      "date": "1995-03-14",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Greg Grant",
+      "participants": [
+        {
+          "name": "Greg Grant",
+          "playerHref": "/players/g/grantgr01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -37824.50000000001,
+        "vorp": 29.800000000000004
+      }
+    },
+    {
+      "id": "bickebe99x-58",
+      "sourceId": 58,
+      "date": "1995-03-17",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Mark Randall",
+      "participants": [
+        {
+          "name": "Mark Randall",
+          "playerHref": "/players/r/randama01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -397.79999999999995,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -397.79999999999995,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -38222.30000000001,
+        "vorp": 29.700000000000003
+      }
+    },
+    {
+      "id": "bickebe99x-59",
+      "sourceId": 59,
+      "date": "1995-04-05",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Greg Grant",
+      "participants": [
+        {
+          "name": "Greg Grant",
+          "playerHref": "/players/g/grantgr01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -679.4999999999999,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -679.4999999999999,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -38901.80000000001,
+        "vorp": 29.6
+      }
+    },
+    {
+      "id": "bickebe99x-60",
+      "sourceId": 60,
+      "date": "1995-06-28",
+      "type": "draft",
+      "tenureTeam": "DEN",
+      "summary": "Drafted Brent Barry and Anthony Pelle",
+      "participants": [
+        {
+          "name": "Brent Barry",
+          "playerHref": "/players/b/barrybr01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Anthony Pelle",
+          "playerHref": "/players/p/pellean01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -38901.80000000001,
+        "vorp": 29.6
+      }
+    },
+    {
+      "id": "bickebe99x-61",
+      "sourceId": 61,
+      "date": "1995-06-28",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Antonio McDyess and Randy Woods; Sent out Brent Barry and Rodney Rogers",
+      "participants": [
+        {
+          "name": "Brent Barry",
+          "playerHref": "/players/b/barrybr01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -5093.900000000001,
+            "vorp": -3.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rodney Rogers",
+          "playerHref": "/players/r/rogerro01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 6710.900000000001,
+            "vorp": -2.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Antonio McDyess",
+          "playerHref": "/players/m/mcdyean01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -3052.8,
+            "vorp": 5.3999999999999995
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Randy Woods",
+          "playerHref": "/players/w/woodsra01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 108,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1327.8000000000002,
+        "vorp": -0.3000000000000004
+      },
+      "runningValues": {
+        "bpm": -40229.60000000001,
+        "vorp": 29.3
+      }
+    },
+    {
+      "id": "bickebe99x-62",
+      "sourceId": 62,
+      "date": "1995-09-19",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Elmore Spencer; Sent out Bison Dele",
+      "participants": [
+        {
+          "name": "Bison Dele",
+          "playerHref": "/players/d/delebi01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 1294.2,
+            "vorp": -0.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Elmore Spencer",
+          "playerHref": "/players/s/spencel01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -399,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 895.2,
+        "vorp": -0.9
+      },
+      "runningValues": {
+        "bpm": -39334.400000000016,
+        "vorp": 28.4
+      }
+    },
+    {
+      "id": "bickebe99x-63",
+      "sourceId": 63,
+      "date": "1995-09-26",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Rastko Cvetković",
+      "participants": [
+        {
+          "name": "Rastko Cvetković",
+          "playerHref": "/players/c/cvetkra01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -528,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -528,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -39862.400000000016,
+        "vorp": 28.299999999999997
+      }
+    },
+    {
+      "id": "bickebe99x-64",
+      "sourceId": 64,
+      "date": "1995-10-02",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Nate Driggers",
+      "participants": [
+        {
+          "name": "Nate Driggers",
+          "playerHref": "/players/d/driggna01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -39862.400000000016,
+        "vorp": 28.299999999999997
+      }
+    },
+    {
+      "id": "bickebe99x-65",
+      "sourceId": 65,
+      "date": "1995-10-30",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Don MacLean and Doug Overton; Sent out Robert Pack",
+      "participants": [
+        {
+          "name": "Robert Pack",
+          "playerHref": "/players/p/packro01.html",
+          "direction": "out",
+          "teamCode": "WSB",
+          "values": {
+            "bpm": -2059.6,
+            "vorp": -1.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Don MacLean",
+          "playerHref": "/players/m/macledo01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1439.1000000000001,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Doug Overton",
+          "playerHref": "/players/o/overtdo01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1942.4,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5441.1,
+        "vorp": -1.1
+      },
+      "runningValues": {
+        "bpm": -45303.500000000015,
+        "vorp": 27.199999999999996
+      }
+    },
+    {
+      "id": "bickebe99x-66",
+      "sourceId": 66,
+      "date": "1995-12-26",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Reggie Slater",
+      "participants": [
+        {
+          "name": "Reggie Slater",
+          "playerHref": "/players/s/slatere01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -33.800000000000004,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -33.800000000000004,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -45337.30000000002,
+        "vorp": 27.199999999999996
+      }
+    },
+    {
+      "id": "bickebe99x-67",
+      "sourceId": 67,
+      "date": "1996-03-07",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Matt Fish",
+      "participants": [
+        {
+          "name": "Matt Fish",
+          "playerHref": "/players/f/fishma01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -45337.30000000002,
+        "vorp": 27.199999999999996
+      }
+    },
+    {
+      "id": "bickebe99x-68",
+      "sourceId": 68,
+      "date": "1996-03-27",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Matt Fish",
+      "participants": [
+        {
+          "name": "Matt Fish",
+          "playerHref": "/players/f/fishma01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 81.89999999999999,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 81.89999999999999,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -45255.400000000016,
+        "vorp": 27.299999999999997
+      }
+    },
+    {
+      "id": "bickebe99x-69",
+      "sourceId": 69,
+      "date": "1996-03-29",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Greg Grant",
+      "participants": [
+        {
+          "name": "Greg Grant",
+          "playerHref": "/players/g/grantgr01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -752.1,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -752.1,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -46007.500000000015,
+        "vorp": 27.199999999999996
+      }
+    },
+    {
+      "id": "bickebe99x-70",
+      "sourceId": 70,
+      "date": "1996-06-13",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Šarūnas Marčiulionis and Jeff McInnis; Sent out Mahmoud Abdul-Rauf",
+      "participants": [
+        {
+          "name": "Mahmoud Abdul-Rauf",
+          "playerHref": "/players/a/abdulma02.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 8031.6,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Šarūnas Marčiulionis",
+          "playerHref": "/players/m/marcisa01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1224,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jeff McInnis",
+          "playerHref": "/players/m/mcinnje01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 6807.6,
+        "vorp": 0.6000000000000001
+      },
+      "runningValues": {
+        "bpm": -39199.900000000016,
+        "vorp": 27.799999999999997
+      }
+    },
+    {
+      "id": "bickebe99x-71",
+      "sourceId": 71,
+      "date": "1996-06-13",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Mark Jackson, Ricky Pierce, and Efthimis Rentzias; Sent out Jalen Rose, Reggie Williams, and Erick Dampier",
+      "participants": [
+        {
+          "name": "Jalen Rose",
+          "playerHref": "/players/r/roseja01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -7600.6,
+            "vorp": -7.800000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Reggie Williams",
+          "playerHref": "/players/w/willire01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 333.3,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Erick Dampier",
+          "playerHref": "/players/d/dampier01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 3787.2000000000003,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mark Jackson",
+          "playerHref": "/players/j/jacksma01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 1400.6999999999998,
+            "vorp": 1.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ricky Pierce",
+          "playerHref": "/players/p/piercri01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1320,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Efthimis Rentzias",
+          "playerHref": "/players/r/rentzef01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3399.4,
+        "vorp": -6.000000000000001
+      },
+      "runningValues": {
+        "bpm": -42599.30000000002,
+        "vorp": 21.799999999999997
+      }
+    },
+    {
+      "id": "bickebe99x-72",
+      "sourceId": 72,
+      "date": "1996-06-26",
+      "type": "draft",
+      "tenureTeam": "DEN",
+      "summary": "Drafted Efthimis Rentzias and Jeff McInnis",
+      "participants": [
+        {
+          "name": "Efthimis Rentzias",
+          "playerHref": "/players/r/rentzef01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jeff McInnis",
+          "playerHref": "/players/m/mcinnje01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 23.400000000000002,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 23.400000000000002,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -42575.900000000016,
+        "vorp": 21.9
+      }
+    },
+    {
+      "id": "bickebe99x-73",
+      "sourceId": 73,
+      "date": "1996-07-17",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Ervin Johnson",
+      "participants": [
+        {
+          "name": "Ervin Johnson",
+          "playerHref": "/players/j/johnser02.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -779.6999999999999,
+            "vorp": 1.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -779.6999999999999,
+        "vorp": 1.1
+      },
+      "runningValues": {
+        "bpm": -43355.60000000001,
+        "vorp": 23
+      }
+    },
+    {
+      "id": "bickebe99x-74",
+      "sourceId": 74,
+      "date": "1996-09-19",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Ed Stokes",
+      "participants": [
+        {
+          "name": "Ed Stokes",
+          "playerHref": "/players/s/stokeed01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -43355.60000000001,
+        "vorp": 23
+      }
+    },
+    {
+      "id": "bickebe99x-75",
+      "sourceId": 75,
+      "date": "1996-10-01",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Darvin Ham",
+      "participants": [
+        {
+          "name": "Darvin Ham",
+          "playerHref": "/players/h/hamda01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1471.1000000000001,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1471.1000000000001,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -44826.70000000001,
+        "vorp": 22.8
+      }
+    },
+    {
+      "id": "bickebe99x-76",
+      "sourceId": 76,
+      "date": "1996-10-01",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Eric Murdock",
+      "participants": [
+        {
+          "name": "Eric Murdock",
+          "playerHref": "/players/m/murdoer01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 615.6,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 615.6,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -44211.10000000001,
+        "vorp": 23
+      }
+    },
+    {
+      "id": "bickebe99x-77",
+      "sourceId": 77,
+      "date": "1996-10-02",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Todd Mundt",
+      "participants": [
+        {
+          "name": "Todd Mundt",
+          "playerHref": "/players/m/mundtto01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44211.10000000001,
+        "vorp": 23
+      }
+    },
+    {
+      "id": "bickebe99x-78",
+      "sourceId": 78,
+      "date": "1996-10-03",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Rich King",
+      "participants": [
+        {
+          "name": "Rich King",
+          "playerHref": "/players/k/kingri01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44211.10000000001,
+        "vorp": 23
+      }
+    },
+    {
+      "id": "bickebe99x-79",
+      "sourceId": 79,
+      "date": "1996-10-16",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed LaSalle Thompson",
+      "participants": [
+        {
+          "name": "LaSalle Thompson",
+          "playerHref": "/players/t/thompla01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1134,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1134,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -45345.10000000001,
+        "vorp": 22.8
+      }
+    },
+    {
+      "id": "bickebe99x-80",
+      "sourceId": 80,
+      "date": "1996-11-21",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Brooks Thompson",
+      "participants": [
+        {
+          "name": "Brooks Thompson",
+          "playerHref": "/players/t/thompbr01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1151.7,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1151.7,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -46496.80000000001,
+        "vorp": 23
+      }
+    },
+    {
+      "id": "bickebe99x-82",
+      "sourceId": 82,
+      "date": "1996-12-12",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Melvin Booker",
+      "participants": [
+        {
+          "name": "Melvin Booker",
+          "playerHref": "/players/b/bookeme01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -354.9,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -354.9,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -46851.70000000001,
+        "vorp": 22.9
+      }
+    },
+    {
+      "id": "bickebe99x-83",
+      "sourceId": 83,
+      "date": "1996-12-22",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Aaron Williams",
+      "participants": [
+        {
+          "name": "Aaron Williams",
+          "playerHref": "/players/w/williaa01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -55,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -55,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -46906.70000000001,
+        "vorp": 22.9
+      }
+    },
+    {
+      "id": "bickebe99x-84",
+      "sourceId": 84,
+      "date": "1997-01-07",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Elmer Bennett",
+      "participants": [
+        {
+          "name": "Elmer Bennett",
+          "playerHref": "/players/b/benneel01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -790.6,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -790.6,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -47697.30000000001,
+        "vorp": 22.7
+      }
+    },
+    {
+      "id": "bickebe99x-85",
+      "sourceId": 85,
+      "date": "1997-01-24",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Kenny Smith",
+      "participants": [
+        {
+          "name": "Kenny Smith",
+          "playerHref": "/players/s/smithke01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -47697.30000000001,
+        "vorp": 22.7
+      }
+    },
+    {
+      "id": "bickebe99x-86",
+      "sourceId": 86,
+      "date": "1997-02-03",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Kenny Smith",
+      "participants": [
+        {
+          "name": "Kenny Smith",
+          "playerHref": "/players/s/smithke01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1569.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1569.6,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -49266.90000000001,
+        "vorp": 22.599999999999998
+      }
+    },
+    {
+      "id": "bickebe99x-87",
+      "sourceId": 87,
+      "date": "2004-06-22",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Emeka Okafor; Sent out Shaun Livingston and Lionel Chalmers",
+      "participants": [
+        {
+          "name": "Shaun Livingston",
+          "playerHref": "/players/l/livinsh01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 4932.5,
+            "vorp": -0.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lionel Chalmers",
+          "playerHref": "/players/c/chalmli01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 2294.9,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Emeka Okafor",
+          "playerHref": "/players/o/okafoem01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 7227.4,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -42039.50000000001,
+        "vorp": 22.099999999999998
+      }
+    },
+    {
+      "id": "bickebe99x-88",
+      "sourceId": 88,
+      "date": "2004-06-22",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Sean May",
+      "participants": [
+        {
+          "name": "Sean May",
+          "playerHref": "/players/m/mayse01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -42039.50000000001,
+        "vorp": 22.099999999999998
+      }
+    },
+    {
+      "id": "bickebe99x-89",
+      "sourceId": 89,
+      "date": "2004-06-23",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Bernard Robinson; Sent out Zaza Pachulia",
+      "participants": [
+        {
+          "name": "Zaza Pachulia",
+          "playerHref": "/players/p/pachuza01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 3376.6000000000004,
+            "vorp": -1.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bernard Robinson",
+          "playerHref": "/players/r/robinbe01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3376.6000000000004,
+        "vorp": -1.4
+      },
+      "runningValues": {
+        "bpm": -38662.90000000001,
+        "vorp": 20.7
+      }
+    },
+    {
+      "id": "bickebe99x-90",
+      "sourceId": 90,
+      "date": "2004-06-23",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Jared Dudley; Sent out Sasha Pavlović",
+      "participants": [
+        {
+          "name": "Sasha Pavlović",
+          "playerHref": "/players/p/pavloal01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 15860.5,
+            "vorp": 1.2000000000000002
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jared Dudley",
+          "playerHref": "/players/d/dudleja01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -1139.6,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 14720.9,
+        "vorp": 1.9000000000000001
+      },
+      "runningValues": {
+        "bpm": -23942.000000000007,
+        "vorp": 22.599999999999998
+      }
+    },
+    {
+      "id": "bickebe99x-91",
+      "sourceId": 91,
+      "date": "2004-06-24",
+      "type": "draft",
+      "tenureTeam": "CHA",
+      "summary": "Drafted Emeka Okafor and Bernard Robinson",
+      "participants": [
+        {
+          "name": "Emeka Okafor",
+          "playerHref": "/players/o/okafoem01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -4324.299999999999,
+            "vorp": 4.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bernard Robinson",
+          "playerHref": "/players/r/robinbe01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -4059.1000000000004,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -8383.4,
+        "vorp": 4.300000000000001
+      },
+      "runningValues": {
+        "bpm": -32325.40000000001,
+        "vorp": 26.9
+      }
+    },
+    {
+      "id": "bickebe99x-92",
+      "sourceId": 92,
+      "date": "2004-07-14",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Melvin Ely and Eddie House; Sent out Daniel Ewing and Paul Davis",
+      "participants": [
+        {
+          "name": "Daniel Ewing",
+          "playerHref": "/players/e/ewingda01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 5029.6,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Paul Davis",
+          "playerHref": "/players/d/davispa01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 3053.6000000000004,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Melvin Ely",
+          "playerHref": "/players/e/elyme01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -11219.2,
+            "vorp": -1.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eddie House",
+          "playerHref": "/players/h/houseed01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 780,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2356,
+        "vorp": 5.551115123125783e-17
+      },
+      "runningValues": {
+        "bpm": -34681.40000000001,
+        "vorp": 26.9
+      }
+    },
+    {
+      "id": "bickebe99x-93",
+      "sourceId": 93,
+      "date": "2004-07-14",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Jason Hart",
+      "participants": [
+        {
+          "name": "Jason Hart",
+          "playerHref": "/players/h/hartja01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 2264.4,
+            "vorp": 1.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2264.4,
+        "vorp": 1.5
+      },
+      "runningValues": {
+        "bpm": -32417.000000000007,
+        "vorp": 28.4
+      }
+    },
+    {
+      "id": "bickebe99x-94",
+      "sourceId": 94,
+      "date": "2004-08-03",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Omar Cook",
+      "participants": [
+        {
+          "name": "Omar Cook",
+          "playerHref": "/players/c/cookom01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -32417.000000000007,
+        "vorp": 28.4
+      }
+    },
+    {
+      "id": "bickebe99x-95",
+      "sourceId": 95,
+      "date": "2004-08-16",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Ronny Turiaf; Sent out Predrag Drobnjak",
+      "participants": [
+        {
+          "name": "Predrag Drobnjak",
+          "playerHref": "/players/d/drobnpr01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 4592,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ronny Turiaf",
+          "playerHref": "/players/t/turiaro01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4592,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": -27825.000000000007,
+        "vorp": 28.799999999999997
+      }
+    },
+    {
+      "id": "bickebe99x-96",
+      "sourceId": 96,
+      "date": "2004-08-31",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Brevin Knight",
+      "participants": [
+        {
+          "name": "Brevin Knight",
+          "playerHref": "/players/k/knighbr01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 5517.6,
+            "vorp": 4.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5517.6,
+        "vorp": 4.1
+      },
+      "runningValues": {
+        "bpm": -22307.40000000001,
+        "vorp": 32.9
+      }
+    },
+    {
+      "id": "bickebe99x-97",
+      "sourceId": 97,
+      "date": "2004-09-16",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Steve Smith",
+      "participants": [
+        {
+          "name": "Steve Smith",
+          "playerHref": "/players/s/smithst01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 381.59999999999997,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 381.59999999999997,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": -21925.80000000001,
+        "vorp": 33.3
+      }
+    },
+    {
+      "id": "bickebe99x-98",
+      "sourceId": 98,
+      "date": "2004-11-01",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Keith Bogans; Sent out Brandon Hunter",
+      "participants": [
+        {
+          "name": "Brandon Hunter",
+          "playerHref": "/players/h/huntebr01.html",
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 1344,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Keith Bogans",
+          "playerHref": "/players/b/boganke01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -7832.9,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6488.9,
+        "vorp": -0.49999999999999994
+      },
+      "runningValues": {
+        "bpm": -28414.70000000001,
+        "vorp": 32.8
+      }
+    },
+    {
+      "id": "bickebe99x-99",
+      "sourceId": 99,
+      "date": "2004-12-06",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Kareem Rush; Sent out Ronny Turiaf and Patrick Beverley",
+      "participants": [
+        {
+          "name": "Ronny Turiaf",
+          "playerHref": "/players/t/turiaro01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 175,
+            "vorp": -1.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Patrick Beverley",
+          "playerHref": "/players/b/beverpa01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 2058.7,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kareem Rush",
+          "playerHref": "/players/r/rushka01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -6057.6,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3823.9000000000005,
+        "vorp": -2
+      },
+      "runningValues": {
+        "bpm": -32238.600000000013,
+        "vorp": 30.799999999999997
+      }
+    },
+    {
+      "id": "bickebe99x-100",
+      "sourceId": 100,
+      "date": "2005-02-23",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Matt Carroll",
+      "participants": [
+        {
+          "name": "Matt Carroll",
+          "playerHref": "/players/c/carroma01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -12725.6,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -12725.6,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": -44964.20000000001,
+        "vorp": 31.299999999999997
+      }
+    },
+    {
+      "id": "bickebe99x-101",
+      "sourceId": 101,
+      "date": "2005-02-24",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Malik Allen; Sent out Steve Smith",
+      "participants": [
+        {
+          "name": "Steve Smith",
+          "playerHref": "/players/s/smithst01.html",
+          "direction": "out",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": 444.59999999999997,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Malik Allen",
+          "playerHref": "/players/a/allenma01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -514.9,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -70.30000000000001,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -45034.500000000015,
+        "vorp": 31.4
+      }
+    },
+    {
+      "id": "bickebe99x-102",
+      "sourceId": 102,
+      "date": "2005-02-28",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Cory Alexander",
+      "participants": [
+        {
+          "name": "Cory Alexander",
+          "playerHref": "/players/a/alexaco01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -683.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -683.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -45717.900000000016,
+        "vorp": 31.299999999999997
+      }
+    },
+    {
+      "id": "bickebe99x-103",
+      "sourceId": 103,
+      "date": "2005-06-28",
+      "type": "draft",
+      "tenureTeam": "CHA",
+      "summary": "Drafted Raymond Felton and Sean May",
+      "participants": [
+        {
+          "name": "Raymond Felton",
+          "playerHref": "/players/f/feltora01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -6603.1,
+            "vorp": 5.199999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sean May",
+          "playerHref": "/players/m/mayse01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -2058.8999999999996,
+            "vorp": 0.29999999999999993
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -8662,
+        "vorp": 5.499999999999999
+      },
+      "runningValues": {
+        "bpm": -54379.900000000016,
+        "vorp": 36.8
+      }
+    },
+    {
+      "id": "bickebe99x-104",
+      "sourceId": 104,
+      "date": "2005-08-02",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Ryan Hollins; Sent out Jason Hart",
+      "participants": [
+        {
+          "name": "Jason Hart",
+          "playerHref": "/players/h/hartja01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 3892.7999999999997,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ryan Hollins",
+          "playerHref": "/players/h/holliry01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3892.7999999999997,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": -50487.10000000001,
+        "vorp": 37.3
+      }
+    },
+    {
+      "id": "bickebe99x-105",
+      "sourceId": 105,
+      "date": "2005-08-02",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Jake Voskuhl",
+      "participants": [
+        {
+          "name": "Jake Voskuhl",
+          "playerHref": "/players/v/voskuja01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -3599.2000000000007,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3599.2000000000007,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -54086.30000000002,
+        "vorp": 36.8
+      }
+    },
+    {
+      "id": "bickebe99x-106",
+      "sourceId": 106,
+      "date": "2005-08-05",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Antonio Meeking",
+      "participants": [
+        {
+          "name": "Antonio Meeking",
+          "playerHref": "/players/m/meekian01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -54086.30000000002,
+        "vorp": 36.8
+      }
+    },
+    {
+      "id": "bickebe99x-107",
+      "sourceId": 107,
+      "date": "2005-08-09",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Alan Anderson",
+      "participants": [
+        {
+          "name": "Alan Anderson",
+          "playerHref": "/players/a/anderal01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -54086.30000000002,
+        "vorp": 36.8
+      }
+    },
+    {
+      "id": "bickebe99x-108",
+      "sourceId": 108,
+      "date": "2005-08-09",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Alan Anderson",
+      "participants": [
+        {
+          "name": "Alan Anderson",
+          "playerHref": "/players/a/anderal01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -1861.1999999999998,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1861.1999999999998,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -55947.500000000015,
+        "vorp": 36.599999999999994
+      }
+    },
+    {
+      "id": "bickebe99x-109",
+      "sourceId": 109,
+      "date": "2005-08-31",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Kevin Burleson",
+      "participants": [
+        {
+          "name": "Kevin Burleson",
+          "playerHref": "/players/b/burleke01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -2074,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2074,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -58021.500000000015,
+        "vorp": 36.199999999999996
+      }
+    },
+    {
+      "id": "bickebe99x-110",
+      "sourceId": 110,
+      "date": "2005-09-17",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Matt Nelson",
+      "participants": [
+        {
+          "name": "Matt Nelson",
+          "playerHref": "/players/n/nelsoma03.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -58021.500000000015,
+        "vorp": 36.199999999999996
+      }
+    },
+    {
+      "id": "bickebe99x-111",
+      "sourceId": 111,
+      "date": "2005-09-17",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Marcus Campbell",
+      "participants": [
+        {
+          "name": "Marcus Campbell",
+          "playerHref": "/players/c/campbma01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -58021.500000000015,
+        "vorp": 36.199999999999996
+      }
+    },
+    {
+      "id": "bickebe99x-112",
+      "sourceId": 112,
+      "date": "2005-09-17",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed D'or Fischer",
+      "participants": [
+        {
+          "name": "D'or Fischer",
+          "playerHref": "/players/f/fischdo01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -58021.500000000015,
+        "vorp": 36.199999999999996
+      }
+    },
+    {
+      "id": "bickebe99x-113",
+      "sourceId": 113,
+      "date": "2005-09-27",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Jason Capel",
+      "participants": [
+        {
+          "name": "Jason Capel",
+          "playerHref": "/players/c/capelja01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -58021.500000000015,
+        "vorp": 36.199999999999996
+      }
+    },
+    {
+      "id": "bickebe99x-114",
+      "sourceId": 114,
+      "date": "2005-10-26",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Jumaine Jones; Sent out Sun Yue",
+      "participants": [
+        {
+          "name": "Sun Yue",
+          "playerHref": "/players/y/yuesu01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 540.4,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jumaine Jones",
+          "playerHref": "/players/j/jonesju01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -3551.2999999999997,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3010.8999999999996,
+        "vorp": 0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -61032.400000000016,
+        "vorp": 36.5
+      }
+    },
+    {
+      "id": "bickebe99x-115",
+      "sourceId": 115,
+      "date": "2006-02-09",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Lonny Baxter; Sent out Keith Bogans",
+      "participants": [
+        {
+          "name": "Keith Bogans",
+          "playerHref": "/players/b/boganke01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 1702.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lonny Baxter",
+          "playerHref": "/players/b/baxtelo01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -618.8000000000001,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1083.6,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -59948.80000000002,
+        "vorp": 36.3
+      }
+    },
+    {
+      "id": "bickebe99x-116",
+      "sourceId": 116,
+      "date": "2006-06-28",
+      "type": "draft",
+      "tenureTeam": "CHA",
+      "summary": "Drafted Adam Morrison and Ryan Hollins",
+      "participants": [
+        {
+          "name": "Adam Morrison",
+          "playerHref": "/players/m/morriad01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -14631.5,
+            "vorp": -2.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ryan Hollins",
+          "playerHref": "/players/h/holliry01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -3373.4,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -18004.9,
+        "vorp": -2.5
+      },
+      "runningValues": {
+        "bpm": -77953.70000000001,
+        "vorp": 33.8
+      }
+    },
+    {
+      "id": "bickebe99x-117",
+      "sourceId": 117,
+      "date": "2006-07-19",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Othella Harrington",
+      "participants": [
+        {
+          "name": "Othella Harrington",
+          "playerHref": "/players/h/harriot01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -3292.6,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3292.6,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": -81246.30000000002,
+        "vorp": 33.199999999999996
+      }
+    },
+    {
+      "id": "bickebe99x-118",
+      "sourceId": 118,
+      "date": "2006-08-14",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Jake Voskuhl",
+      "participants": [
+        {
+          "name": "Jake Voskuhl",
+          "playerHref": "/players/v/voskuja01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -3963.3999999999996,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3963.3999999999996,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -85209.70000000001,
+        "vorp": 32.699999999999996
+      }
+    },
+    {
+      "id": "bickebe99x-119",
+      "sourceId": 119,
+      "date": "2006-09-11",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Walter Herrmann",
+      "participants": [
+        {
+          "name": "Walter Herrmann",
+          "playerHref": "/players/h/herrmwa01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 574.8000000000001,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 574.8000000000001,
+        "vorp": 0.7
+      },
+      "runningValues": {
+        "bpm": -84634.90000000001,
+        "vorp": 33.4
+      }
+    },
+    {
+      "id": "bickebe99x-120",
+      "sourceId": 120,
+      "date": "2006-09-25",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Will Conroy",
+      "participants": [
+        {
+          "name": "Will Conroy",
+          "playerHref": "/players/c/conrowi01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -84634.90000000001,
+        "vorp": 33.4
+      }
+    },
+    {
+      "id": "bickebe99x-121",
+      "sourceId": 121,
+      "date": "2006-11-28",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Derek Anderson",
+      "participants": [
+        {
+          "name": "Derek Anderson",
+          "playerHref": "/players/a/anderde01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -791.2,
+            "vorp": 0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -791.2,
+        "vorp": 0.6
+      },
+      "runningValues": {
+        "bpm": -85426.1,
+        "vorp": 34
+      }
+    },
+    {
+      "id": "bickebe99x-122",
+      "sourceId": 122,
+      "date": "2007-01-03",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Jeff McInnis; Sent out Bernard Robinson",
+      "participants": [
+        {
+          "name": "Bernard Robinson",
+          "playerHref": "/players/r/robinbe01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": -151.7,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jeff McInnis",
+          "playerHref": "/players/m/mcinnje01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -11194.2,
+            "vorp": -1.7999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -11345.900000000001,
+        "vorp": -1.9
+      },
+      "runningValues": {
+        "bpm": -96772,
+        "vorp": 32.1
+      }
+    },
+    {
+      "id": "bickebe99x-123",
+      "sourceId": 123,
+      "date": "2007-02-13",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Eric Williams and Robert Vaden; Sent out Melvin Ely",
+      "participants": [
+        {
+          "name": "Melvin Ely",
+          "playerHref": "/players/e/elyme01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 507,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eric Williams",
+          "playerHref": "/players/w/willier01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -389.40000000000003,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Robert Vaden",
+          "playerHref": "/players/v/vadenro01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 117.59999999999997,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -96654.4,
+        "vorp": 32.1
+      }
+    },
+    {
+      "id": "bickebe99x-124",
+      "sourceId": 124,
+      "date": "2007-03-16",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Alan Anderson",
+      "participants": [
+        {
+          "name": "Alan Anderson",
+          "playerHref": "/players/a/anderal01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -1126.4,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1126.4,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -97780.79999999999,
+        "vorp": 31.900000000000002
+      }
+    }
+  ]
+}

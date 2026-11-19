@@ -1,0 +1,1265 @@
+{
+  "slug": "isselda01x",
+  "sourceRowCount": 69,
+  "tenures": [
+    {
+      "teamCode": "DEN",
+      "startDate": "1998-06-24",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "isselda01x-1",
+      "sourceId": 1,
+      "date": "1998-06-24",
+      "type": "draft",
+      "tenureTeam": "DEN",
+      "summary": "Drafted Raef LaFrentz, Tyronn Lue, Tremaine Fowlkes, and Ryan Bowen",
+      "participants": [
+        {
+          "name": "Raef LaFrentz",
+          "playerHref": "/players/l/lafrera01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 6997.6,
+            "vorp": 5.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tyronn Lue",
+          "playerHref": "/players/l/luety01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tremaine Fowlkes",
+          "playerHref": "/players/f/fowlktr01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ryan Bowen",
+          "playerHref": "/players/b/bowenry01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -158.6,
+            "vorp": 2.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 6839,
+        "vorp": 7.5
+      },
+      "runningValues": {
+        "bpm": 6839,
+        "vorp": 7.5
+      }
+    },
+    {
+      "id": "isselda01x-2",
+      "sourceId": 2,
+      "date": "1998-06-24",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Nick Van Exel; Sent out Tony Battie and Tyronn Lue",
+      "participants": [
+        {
+          "name": "Tony Battie",
+          "playerHref": "/players/b/battito01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tyronn Lue",
+          "playerHref": "/players/l/luety01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 2840.8,
+            "vorp": 0.30000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Nick Van Exel",
+          "playerHref": "/players/v/vanexni01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 6727.5,
+            "vorp": 6.3999999999999995
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 9568.3,
+        "vorp": 6.699999999999999
+      },
+      "runningValues": {
+        "bpm": 16407.3,
+        "vorp": 14.2
+      }
+    },
+    {
+      "id": "isselda01x-4",
+      "sourceId": 4,
+      "date": "1999-01-21",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Chauncey Billups and Tyson Wheeler; Sent out Jonathan Bender, Dean Garrett, and Bobby Jackson",
+      "participants": [
+        {
+          "name": "Jonathan Bender",
+          "playerHref": "/players/b/bendejo01.html",
+          "direction": "out",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dean Garrett",
+          "playerHref": "/players/g/garrede01.html",
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 4065.7999999999997,
+            "vorp": -0.19999999999999996
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bobby Jackson",
+          "playerHref": "/players/j/jacksbo01.html",
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 66.20000000000005,
+            "vorp": -1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chauncey Billups",
+          "playerHref": "/players/b/billuch01.html",
+          "direction": "in",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tyson Wheeler",
+          "playerHref": "/players/w/wheelty01.html",
+          "direction": "in",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4132,
+        "vorp": -1.2
+      },
+      "runningValues": {
+        "bpm": 20539.3,
+        "vorp": 13
+      }
+    },
+    {
+      "id": "isselda01x-5",
+      "sourceId": 5,
+      "date": "1999-01-21",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Keon Clark and Johnny Taylor; Sent out Keyon Dooling",
+      "participants": [
+        {
+          "name": "Keyon Dooling",
+          "playerHref": "/players/d/doolike01.html",
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 5602.4,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Keon Clark",
+          "playerHref": "/players/c/clarkke01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -4379.4,
+            "vorp": 0.4000000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Johnny Taylor",
+          "playerHref": "/players/t/taylojo01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -2289,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1066,
+        "vorp": -0.3999999999999999
+      },
+      "runningValues": {
+        "bpm": 19473.299999999996,
+        "vorp": 12.600000000000001
+      }
+    },
+    {
+      "id": "isselda01x-6",
+      "sourceId": 6,
+      "date": "1999-01-22",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Kelly McCarty",
+      "participants": [
+        {
+          "name": "Kelly McCarty",
+          "playerHref": "/players/m/mccarke01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -30.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -30.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 19442.899999999994,
+        "vorp": 12.600000000000001
+      }
+    },
+    {
+      "id": "isselda01x-7",
+      "sourceId": 7,
+      "date": "1999-01-22",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Cory Alexander",
+      "participants": [
+        {
+          "name": "Cory Alexander",
+          "playerHref": "/players/a/alexaco01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -3356.9999999999995,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3356.9999999999995,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": 16085.899999999994,
+        "vorp": 12.3
+      }
+    },
+    {
+      "id": "isselda01x-8",
+      "sourceId": 8,
+      "date": "1999-01-22",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Antonio McDyess",
+      "participants": [
+        {
+          "name": "Antonio McDyess",
+          "playerHref": "/players/m/mcdyean01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 8461.2,
+            "vorp": 5.8999999999999995
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 8461.2,
+        "vorp": 5.8999999999999995
+      },
+      "runningValues": {
+        "bpm": 24547.099999999995,
+        "vorp": 18.2
+      }
+    },
+    {
+      "id": "isselda01x-9",
+      "sourceId": 9,
+      "date": "1999-01-23",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Loren Meyer",
+      "participants": [
+        {
+          "name": "Loren Meyer",
+          "playerHref": "/players/m/meyerlo01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1162,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1162,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": 23385.099999999995,
+        "vorp": 17.9
+      }
+    },
+    {
+      "id": "isselda01x-10",
+      "sourceId": 10,
+      "date": "1999-01-23",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Monty Williams",
+      "participants": [
+        {
+          "name": "Monty Williams",
+          "playerHref": "/players/w/willimo01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -118.80000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -118.80000000000001,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 23266.299999999996,
+        "vorp": 17.9
+      }
+    },
+    {
+      "id": "isselda01x-11",
+      "sourceId": 11,
+      "date": "1999-03-03",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Carl Herrera",
+      "participants": [
+        {
+          "name": "Carl Herrera",
+          "playerHref": "/players/h/herreca01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1431,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1431,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 21835.299999999996,
+        "vorp": 17.7
+      }
+    },
+    {
+      "id": "isselda01x-12",
+      "sourceId": 12,
+      "date": "1999-06-30",
+      "type": "draft",
+      "tenureTeam": "DEN",
+      "summary": "Drafted James Posey, Chris Herren, and Francisco Elson",
+      "participants": [
+        {
+          "name": "James Posey",
+          "playerHref": "/players/p/poseyja01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1168.8000000000002,
+            "vorp": 3.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chris Herren",
+          "playerHref": "/players/h/herrech01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -2388,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Francisco Elson",
+          "playerHref": "/players/e/elsonfr01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -7396.3,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -10953.1,
+        "vorp": 3
+      },
+      "runningValues": {
+        "bpm": 10882.199999999997,
+        "vorp": 20.7
+      }
+    },
+    {
+      "id": "isselda01x-13",
+      "sourceId": 13,
+      "date": "1999-08-03",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Popeye Jones, Ron Mercer, and Dwayne Schintzius; Sent out Danny Fortson, Eric Washington, Eric Williams, and Kedrick Brown",
+      "participants": [
+        {
+          "name": "Danny Fortson",
+          "playerHref": "/players/f/fortsda01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 1027.2,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eric Washington",
+          "playerHref": "/players/w/washier01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eric Williams",
+          "playerHref": "/players/w/willier01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 15323.4,
+            "vorp": -0.0999999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kedrick Brown",
+          "playerHref": "/players/b/brownke01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 2319.8,
+            "vorp": -0.10000000000000003
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Popeye Jones",
+          "playerHref": "/players/j/jonespo01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1089,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ron Mercer",
+          "playerHref": "/players/m/mercero01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -3660.8,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dwayne Schintzius",
+          "playerHref": "/players/s/schindw01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 13920.600000000002,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": 24802.799999999996,
+        "vorp": 19.999999999999996
+      }
+    },
+    {
+      "id": "isselda01x-14",
+      "sourceId": 14,
+      "date": "1999-08-03",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed George McCloud",
+      "participants": [
+        {
+          "name": "George McCloud",
+          "playerHref": "/players/m/mccloge01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -8469.6,
+            "vorp": 0.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -8469.6,
+        "vorp": 0.9
+      },
+      "runningValues": {
+        "bpm": 16333.199999999995,
+        "vorp": 20.899999999999995
+      }
+    },
+    {
+      "id": "isselda01x-15",
+      "sourceId": 15,
+      "date": "1999-09-02",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Shawnelle Scott",
+      "participants": [
+        {
+          "name": "Shawnelle Scott",
+          "playerHref": "/players/s/scottsh01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1234.8000000000002,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1234.8000000000002,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 15098.399999999994,
+        "vorp": 20.699999999999996
+      }
+    },
+    {
+      "id": "isselda01x-17",
+      "sourceId": 17,
+      "date": "1999-10-01",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Roy Rogers",
+      "participants": [
+        {
+          "name": "Roy Rogers",
+          "playerHref": "/players/r/rogerro02.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -639,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -639,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 14459.399999999994,
+        "vorp": 20.699999999999996
+      }
+    },
+    {
+      "id": "isselda01x-18",
+      "sourceId": 18,
+      "date": "2000-02-01",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Tariq Abdul-Wahad, Omar Cook, and Chris Gatling; Sent out Chauncey Billups, Ron Mercer, and Johnny Taylor",
+      "participants": [
+        {
+          "name": "Chauncey Billups",
+          "playerHref": "/players/b/billuch01.html",
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ron Mercer",
+          "playerHref": "/players/m/mercero01.html",
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 3585.3,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Johnny Taylor",
+          "playerHref": "/players/t/taylojo01.html",
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 165.3,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tariq Abdul-Wahad",
+          "playerHref": "/players/a/abdulta01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -932.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Omar Cook",
+          "playerHref": "/players/c/cookom01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chris Gatling",
+          "playerHref": "/players/g/gatlich01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -770,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2048.1000000000004,
+        "vorp": 0.6000000000000001
+      },
+      "runningValues": {
+        "bpm": 16507.499999999993,
+        "vorp": 21.299999999999994
+      }
+    },
+    {
+      "id": "isselda01x-19",
+      "sourceId": 19,
+      "date": "2000-06-23",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Mamadou N'Diaye; Sent out Joseph Forte",
+      "participants": [
+        {
+          "name": "Joseph Forte",
+          "playerHref": "/players/f/fortejo01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mamadou N'Diaye",
+          "playerHref": "/players/n/ndiayma02.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 16507.499999999993,
+        "vorp": 21.299999999999994
+      }
+    },
+    {
+      "id": "isselda01x-20",
+      "sourceId": 20,
+      "date": "2000-06-27",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Voshon Lenard and Mark Strickland; Sent out Chris Gatling and Eddie House",
+      "participants": [
+        {
+          "name": "Chris Gatling",
+          "playerHref": "/players/g/gatlich01.html",
+          "direction": "out",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": 2427,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eddie House",
+          "playerHref": "/players/h/houseed01.html",
+          "direction": "out",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": 5162.9,
+            "vorp": -0.6000000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Voshon Lenard",
+          "playerHref": "/players/l/lenarvo01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -5231.299999999999,
+            "vorp": 1.9000000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mark Strickland",
+          "playerHref": "/players/s/stricma01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1395.9,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 962.7000000000003,
+        "vorp": 1.4
+      },
+      "runningValues": {
+        "bpm": 17470.199999999993,
+        "vorp": 22.69999999999999
+      }
+    },
+    {
+      "id": "isselda01x-21",
+      "sourceId": 21,
+      "date": "2000-06-28",
+      "type": "draft",
+      "tenureTeam": "DEN",
+      "summary": "Drafted Mamadou N'Diaye and Dan McClintock",
+      "participants": [
+        {
+          "name": "Mamadou N'Diaye",
+          "playerHref": "/players/n/ndiayma02.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dan McClintock",
+          "playerHref": "/players/m/mcclida01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -452.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -452.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 17017.799999999992,
+        "vorp": 22.599999999999987
+      }
+    },
+    {
+      "id": "isselda01x-22",
+      "sourceId": 22,
+      "date": "2000-08-01",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Tariq Abdul-Wahad",
+      "participants": [
+        {
+          "name": "Tariq Abdul-Wahad",
+          "playerHref": "/players/a/abdulta01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -3895.5,
+            "vorp": -0.6000000000000001
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3895.5,
+        "vorp": -0.6000000000000001
+      },
+      "runningValues": {
+        "bpm": 13122.299999999992,
+        "vorp": 21.999999999999986
+      }
+    },
+    {
+      "id": "isselda01x-23",
+      "sourceId": 23,
+      "date": "2000-09-25",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Tracy Murray; Sent out Popeye Jones and Rod Grizzard",
+      "participants": [
+        {
+          "name": "Popeye Jones",
+          "playerHref": "/players/j/jonespo01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 4218,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rod Grizzard",
+          "playerHref": "/players/g/grizzro01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tracy Murray",
+          "playerHref": "/players/m/murratr01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -324,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3894,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 17016.299999999992,
+        "vorp": 21.799999999999986
+      }
+    },
+    {
+      "id": "isselda01x-24",
+      "sourceId": 24,
+      "date": "2000-09-26",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Terry Davis",
+      "participants": [
+        {
+          "name": "Terry Davis",
+          "playerHref": "/players/d/daviste01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1254,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1254,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 15762.299999999992,
+        "vorp": 21.599999999999987
+      }
+    },
+    {
+      "id": "isselda01x-25",
+      "sourceId": 25,
+      "date": "2000-10-02",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Anthony Goldwire",
+      "participants": [
+        {
+          "name": "Anthony Goldwire",
+          "playerHref": "/players/g/goldwan01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 15762.299999999992,
+        "vorp": 21.599999999999987
+      }
+    },
+    {
+      "id": "isselda01x-26",
+      "sourceId": 26,
+      "date": "2000-10-16",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Calbert Cheaney and Robert Pack; Sent out Chris Herren and Bryant Stith",
+      "participants": [
+        {
+          "name": "Chris Herren",
+          "playerHref": "/players/h/herrech01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 2080.7999999999997,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bryant Stith",
+          "playerHref": "/players/s/stithbr01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 2504,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Calbert Cheaney",
+          "playerHref": "/players/c/cheanca01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -6550,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Robert Pack",
+          "playerHref": "/players/p/packro01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -2142,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4107.200000000001,
+        "vorp": -0.9
+      },
+      "runningValues": {
+        "bpm": 11655.099999999991,
+        "vorp": 20.69999999999999
+      }
+    },
+    {
+      "id": "isselda01x-27",
+      "sourceId": 27,
+      "date": "2001-01-12",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Garth Joseph, Aleksandar Radojević, Kevin Willis, and Ousmane Cisse; Sent out Keon Clark, Tracy Murray, and Mamadou N'Diaye",
+      "participants": [
+        {
+          "name": "Keon Clark",
+          "playerHref": "/players/c/clarkke01.html",
+          "direction": "out",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 561.5,
+            "vorp": -1.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tracy Murray",
+          "playerHref": "/players/m/murratr01.html",
+          "direction": "out",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 1404.3,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mamadou N'Diaye",
+          "playerHref": "/players/n/ndiayma02.html",
+          "direction": "out",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 1367.2,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Garth Joseph",
+          "playerHref": "/players/j/josepga01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -267.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Aleksandar Radojević",
+          "playerHref": "/players/r/radojal01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kevin Willis",
+          "playerHref": "/players/w/willike02.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -3706.5,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ousmane Cisse",
+          "playerHref": "/players/c/cisseou01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -640.6999999999998,
+        "vorp": -1.8000000000000003
+      },
+      "runningValues": {
+        "bpm": 11014.39999999999,
+        "vorp": 18.899999999999988
+      }
+    },
+    {
+      "id": "isselda01x-28",
+      "sourceId": 28,
+      "date": "2001-01-29",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Anthony Goldwire",
+      "participants": [
+        {
+          "name": "Anthony Goldwire",
+          "playerHref": "/players/g/goldwan01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -442.20000000000005,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -442.20000000000005,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 10572.19999999999,
+        "vorp": 18.899999999999988
+      }
+    },
+    {
+      "id": "isselda01x-29",
+      "sourceId": 29,
+      "date": "2001-06-27",
+      "type": "draft",
+      "tenureTeam": "DEN",
+      "summary": "Drafted Ousmane Cisse",
+      "participants": [
+        {
+          "name": "Ousmane Cisse",
+          "playerHref": "/players/c/cisseou01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 10572.19999999999,
+        "vorp": 18.899999999999988
+      }
+    },
+    {
+      "id": "isselda01x-30",
+      "sourceId": 30,
+      "date": "2001-07-19",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Avery Johnson",
+      "participants": [
+        {
+          "name": "Avery Johnson",
+          "playerHref": "/players/j/johnsav01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 600,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 600,
+        "vorp": 0.8
+      },
+      "runningValues": {
+        "bpm": 11172.19999999999,
+        "vorp": 19.69999999999999
+      }
+    }
+  ]
+}

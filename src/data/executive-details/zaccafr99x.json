@@ -1,0 +1,137 @@
+{
+  "slug": "zaccafr99x",
+  "sourceRowCount": 9,
+  "tenures": [
+    {
+      "teamCode": "DAL",
+      "startDate": "1996-10-17",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "zaccafr99x-0",
+      "sourceId": 0,
+      "date": "1996-10-17",
+      "type": "signing",
+      "tenureTeam": "DAL",
+      "summary": "Signed Oliver Miller",
+      "participants": [
+        {
+          "name": "Oliver Miller",
+          "playerHref": "/players/m/milleol01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -2090,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2090,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -2090,
+        "vorp": -0.1
+      }
+    },
+    {
+      "id": "zaccafr99x-1",
+      "sourceId": 1,
+      "date": "1996-12-26",
+      "type": "trade",
+      "tenureTeam": "DAL",
+      "summary": "Added Sam Cassell, Michael Finley, A.C. Green, and Greg Buckner; Sent out Tony Dumas, Jason Kidd, and Loren Meyer",
+      "participants": [
+        {
+          "name": "Tony Dumas",
+          "playerHref": "/players/d/dumasto01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 540.6,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jason Kidd",
+          "playerHref": "/players/k/kiddja01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -47316.100000000006,
+            "vorp": -18
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Loren Meyer",
+          "playerHref": "/players/m/meyerlo01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 3367.5,
+            "vorp": 0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sam Cassell",
+          "playerHref": "/players/c/cassesa01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -159.20000000000002,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Michael Finley",
+          "playerHref": "/players/f/finlemi01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 39185.4,
+            "vorp": 22.400000000000002
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "A.C. Green",
+          "playerHref": "/players/g/greenac01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -7981.799999999999,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Greg Buckner",
+          "playerHref": "/players/b/buckngr01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -3861.4,
+            "vorp": 1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -16225.000000000002,
+        "vorp": 7.100000000000004
+      },
+      "runningValues": {
+        "bpm": -18315.000000000004,
+        "vorp": 7.000000000000003
+      }
+    }
+  ]
+}

@@ -1,0 +1,416 @@
+{
+  "slug": "gansemi99x",
+  "sourceRowCount": 18,
+  "tenures": [
+    {
+      "teamCode": "PHI",
+      "startDate": "2026-06-23",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "gansemi99x-0",
+      "sourceId": 0,
+      "date": "2026-06-23",
+      "type": "draft",
+      "tenureTeam": "PHI",
+      "summary": "Drafted Labaron Philon Jr.",
+      "participants": [
+        {
+          "name": "Labaron Philon Jr.",
+          "playerHref": "/players/p/philola01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "gansemi99x-1",
+      "sourceId": 1,
+      "date": "2026-07-03",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Rookie contract for Labaron Philon Jr.",
+      "participants": [
+        {
+          "name": "Labaron Philon Jr.",
+          "playerHref": "/players/p/philola01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -483.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -483.6,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -483.6,
+        "vorp": -0.1
+      }
+    },
+    {
+      "id": "gansemi99x-2",
+      "sourceId": 2,
+      "date": "2026-07-05",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Caleb Love",
+      "participants": [
+        {
+          "name": "Caleb Love",
+          "playerHref": "/players/l/loveca01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -10,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -10,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -493.6,
+        "vorp": -0.1
+      }
+    },
+    {
+      "id": "gansemi99x-3",
+      "sourceId": 3,
+      "date": "2026-07-06",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Ariel Hukporti",
+      "participants": [
+        {
+          "name": "Ariel Hukporti",
+          "playerHref": "/players/h/hukpoar01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -493.6,
+        "vorp": -0.1
+      }
+    },
+    {
+      "id": "gansemi99x-4",
+      "sourceId": 4,
+      "date": "2026-07-06",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Dean Wade",
+      "participants": [
+        {
+          "name": "Dean Wade",
+          "playerHref": "/players/w/wadede01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 103.5,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 103.5,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -390.1,
+        "vorp": 0.1
+      }
+    },
+    {
+      "id": "gansemi99x-5",
+      "sourceId": 5,
+      "date": "2026-07-06",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Anfernee Simons",
+      "participants": [
+        {
+          "name": "Anfernee Simons",
+          "playerHref": "/players/s/simonan01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -550.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -550.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -940.9,
+        "vorp": 0.1
+      }
+    },
+    {
+      "id": "gansemi99x-6",
+      "sourceId": 6,
+      "date": "2026-07-06",
+      "type": "trade",
+      "tenureTeam": "PHI",
+      "summary": "Added Jaylen Brown; Sent out Paul George, future ('2028', '1st') round pick, future ('2028', '2nd') round pick, future ('2030', '2nd') round pick, and future ('2031', '1st') round pick",
+      "participants": [
+        {
+          "name": "Paul George",
+          "playerHref": "/players/g/georgpa01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": -1918.6,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jaylen Brown",
+          "playerHref": "/players/b/brownja02.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 339.5,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2028', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2028', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2030', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2031', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1579.1,
+        "vorp": -0.39999999999999997
+      },
+      "runningValues": {
+        "bpm": -2520,
+        "vorp": -0.3
+      }
+    },
+    {
+      "id": "gansemi99x-7",
+      "sourceId": 7,
+      "date": "2026-07-08",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Rayan Rupert",
+      "participants": [
+        {
+          "name": "Rayan Rupert",
+          "playerHref": "/players/r/ruperra01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 36,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 36,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -2484,
+        "vorp": -0.3
+      }
+    },
+    {
+      "id": "gansemi99x-8",
+      "sourceId": 8,
+      "date": "2026-07-26",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed LeBron James",
+      "participants": [
+        {
+          "name": "LeBron James",
+          "playerHref": "/players/j/jamesle01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 680.1999999999999,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 680.1999999999999,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": -1803.8000000000002,
+        "vorp": 0.10000000000000003
+      }
+    },
+    {
+      "id": "gansemi99x-9",
+      "sourceId": 9,
+      "date": "2026-07-28",
+      "type": "trade",
+      "tenureTeam": "PHI",
+      "summary": "Sent out Johni Broome",
+      "participants": [
+        {
+          "name": "Johni Broome",
+          "playerHref": "/players/b/broomjo01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -1803.8000000000002,
+        "vorp": 0.10000000000000003
+      }
+    },
+    {
+      "id": "gansemi99x-10",
+      "sourceId": 10,
+      "date": "2026-08-05",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Kentavious Caldwell-Pope",
+      "participants": [
+        {
+          "name": "Kentavious Caldwell-Pope",
+          "playerHref": "/players/c/caldwke01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -371.8,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -371.8,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -2175.6000000000004,
+        "vorp": 0.20000000000000004
+      }
+    },
+    {
+      "id": "gansemi99x-11",
+      "sourceId": 11,
+      "date": "2026-10-16",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Tacko Fall",
+      "participants": [
+        {
+          "name": "Tacko Fall",
+          "playerHref": "/players/f/fallta01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -87.3,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -87.3,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -2262.9000000000005,
+        "vorp": 0.20000000000000004
+      }
+    }
+  ]
+}

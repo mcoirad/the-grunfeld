@@ -1,0 +1,5260 @@
+{
+  "slug": "ferrybo01x",
+  "sourceRowCount": 298,
+  "tenures": [
+    {
+      "teamCode": "WAS",
+      "startDate": "1973-08-23",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "ferrybo01x-1",
+      "sourceId": 1,
+      "date": "1973-08-23",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Truck Robinson; Sent out Stan Love",
+      "participants": [
+        {
+          "name": "Stan Love",
+          "playerHref": "/players/l/lovest01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Truck Robinson",
+          "playerHref": "/players/r/robintr01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "ferrybo01x-2",
+      "sourceId": 2,
+      "date": "1973-09-04",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Sent out John Tresvant",
+      "participants": [
+        {
+          "name": "John Tresvant",
+          "playerHref": "/players/t/tresvjo01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "ferrybo01x-3",
+      "sourceId": 3,
+      "date": "1973-10-09",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Walt Wesley; Sent out Earl Williams and Bayard Forrest",
+      "participants": [
+        {
+          "name": "Earl Williams",
+          "playerHref": "/players/w/williea01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 1664,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bayard Forrest",
+          "playerHref": "/players/f/forreba01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 1456.0000000000002,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Walt Wesley",
+          "playerHref": "/players/w/weslewa01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3120,
+        "vorp": -0.7999999999999999
+      },
+      "runningValues": {
+        "bpm": 3120,
+        "vorp": -0.7999999999999999
+      }
+    },
+    {
+      "id": "ferrybo01x-4",
+      "sourceId": 4,
+      "date": "1973-10-18",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Manny Leaks",
+      "participants": [
+        {
+          "name": "Manny Leaks",
+          "playerHref": "/players/l/leaksma01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 3120,
+        "vorp": -0.7999999999999999
+      }
+    },
+    {
+      "id": "ferrybo01x-5",
+      "sourceId": 5,
+      "date": "1974-05-28",
+      "type": "draft",
+      "tenureTeam": "WAS",
+      "summary": "Drafted Len Elmore, Truck Robinson, Dennis DuVal, Stan Washington, Gary Anderson, Roy McPipe, Tom Turner, Steve Platt, Mark Raterink, and Pete Collins",
+      "participants": [
+        {
+          "name": "Len Elmore",
+          "playerHref": "/players/e/elmorle01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Truck Robinson",
+          "playerHref": "/players/r/robintr01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dennis DuVal",
+          "playerHref": "/players/d/duvalde01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Stan Washington",
+          "playerHref": "/players/w/washist01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Gary Anderson",
+          "playerHref": "/players/a/anderga01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Roy McPipe",
+          "playerHref": "/players/m/mcpipro01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tom Turner",
+          "playerHref": "/players/t/turneto01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Platt",
+          "playerHref": "/players/p/plattst01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mark Raterink",
+          "playerHref": "/players/r/raterma01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Pete Collins",
+          "playerHref": "/players/c/collipe01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 3120,
+        "vorp": -0.7999999999999999
+      }
+    },
+    {
+      "id": "ferrybo01x-6",
+      "sourceId": 6,
+      "date": "1974-08-20",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Dick Gibbs and Tom Kropp; Sent out Archie Clark",
+      "participants": [
+        {
+          "name": "Archie Clark",
+          "playerHref": "/players/c/clarkar01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dick Gibbs",
+          "playerHref": "/players/g/gibbsdi01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tom Kropp",
+          "playerHref": "/players/k/kroppto01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 3120,
+        "vorp": -0.7999999999999999
+      }
+    },
+    {
+      "id": "ferrybo01x-7",
+      "sourceId": 7,
+      "date": "1974-09-06",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Clem Haskins; Sent out Dave Stallworth and Allen Murphy",
+      "participants": [
+        {
+          "name": "Dave Stallworth",
+          "playerHref": "/players/s/stallda01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Allen Murphy",
+          "playerHref": "/players/m/murphal01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Clem Haskins",
+          "playerHref": "/players/h/haskicl01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 3120,
+        "vorp": -0.7999999999999999
+      }
+    },
+    {
+      "id": "ferrybo01x-8",
+      "sourceId": 8,
+      "date": "1975-05-29",
+      "type": "draft",
+      "tenureTeam": "WAS",
+      "summary": "Drafted Kevin Grevey, Tom Kropp, Fessor Leonard, Rich Jones, John Garrett, Fletcher Johnson, Bruce Hamming, Doug Brookins, and Mike Fahey",
+      "participants": [
+        {
+          "name": "Kevin Grevey",
+          "playerHref": "/players/g/greveke01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tom Kropp",
+          "playerHref": "/players/k/kroppto01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Fessor Leonard",
+          "playerHref": "/players/l/leonafe01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rich Jones",
+          "playerHref": "/players/j/jonesri02.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Garrett",
+          "playerHref": "/players/g/garrejo01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Fletcher Johnson",
+          "playerHref": "/players/j/johnsfl02.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bruce Hamming",
+          "playerHref": "/players/h/hammibr01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Doug Brookins",
+          "playerHref": "/players/b/brookdo01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Fahey",
+          "playerHref": "/players/f/faheymi01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 3120,
+        "vorp": -0.7999999999999999
+      }
+    },
+    {
+      "id": "ferrybo01x-9",
+      "sourceId": 9,
+      "date": "1975-07-30",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Mitch Kupchak; Sent out Dick Gibbs",
+      "participants": [
+        {
+          "name": "Dick Gibbs",
+          "playerHref": "/players/g/gibbsdi01.html",
+          "direction": "out",
+          "teamCode": "BUF",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mitch Kupchak",
+          "playerHref": "/players/k/kupchmi01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 3120,
+        "vorp": -0.7999999999999999
+      }
+    },
+    {
+      "id": "ferrybo01x-10",
+      "sourceId": 10,
+      "date": "1975-08-28",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Dave Bing and Tree Rollins; Sent out Kevin Porter",
+      "participants": [
+        {
+          "name": "Kevin Porter",
+          "playerHref": "/players/p/porteke01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 581.1000000000004,
+            "vorp": -2.9000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dave Bing",
+          "playerHref": "/players/b/bingda01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tree Rollins",
+          "playerHref": "/players/r/rollitr01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 581.1000000000004,
+        "vorp": -2.9000000000000004
+      },
+      "runningValues": {
+        "bpm": 3701.1000000000004,
+        "vorp": -3.7
+      }
+    },
+    {
+      "id": "ferrybo01x-11",
+      "sourceId": 11,
+      "date": "1975-09-17",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Greg Jackson",
+      "participants": [
+        {
+          "name": "Greg Jackson",
+          "playerHref": "/players/j/jacksgr01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 3701.1000000000004,
+        "vorp": -3.7
+      }
+    },
+    {
+      "id": "ferrybo01x-14",
+      "sourceId": 14,
+      "date": "1976-06-08",
+      "type": "draft",
+      "tenureTeam": "WAS",
+      "summary": "Drafted Mitch Kupchak, Larry Wright, Joe Pace, Bill Cook, Marion Hillard, L.C. Mason, Pat Tallent, Ralph Vallot, Merlin Wilson, Clyde Agnew, and Mike Buescher",
+      "participants": [
+        {
+          "name": "Mitch Kupchak",
+          "playerHref": "/players/k/kupchmi01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Larry Wright",
+          "playerHref": "/players/w/wrighla01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Joe Pace",
+          "playerHref": "/players/p/pacejo01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bill Cook",
+          "playerHref": "/players/c/cookbi01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Marion Hillard",
+          "playerHref": "/players/h/hillama01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "L.C. Mason",
+          "playerHref": "/players/m/masonlc01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Pat Tallent",
+          "playerHref": "/players/t/tallepa01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ralph Vallot",
+          "playerHref": "/players/v/vallora01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Merlin Wilson",
+          "playerHref": "/players/w/wilsome01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Clyde Agnew",
+          "playerHref": "/players/a/agnewcl01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Buescher",
+          "playerHref": "/players/b/beuscmi01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 3701.1000000000004,
+        "vorp": -3.7
+      }
+    },
+    {
+      "id": "ferrybo01x-15",
+      "sourceId": 15,
+      "date": "1976-09-13",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Steve Puidokas; Sent out Tom Kropp",
+      "participants": [
+        {
+          "name": "Tom Kropp",
+          "playerHref": "/players/k/kroppto01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 1392,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Puidokas",
+          "playerHref": "/players/p/puidost01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1392,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 5093.1,
+        "vorp": -3.6
+      }
+    },
+    {
+      "id": "ferrybo01x-16",
+      "sourceId": 16,
+      "date": "1976-11-15",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Bob Weiss",
+      "participants": [
+        {
+          "name": "Bob Weiss",
+          "playerHref": "/players/w/weissbo01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 5093.1,
+        "vorp": -3.6
+      }
+    },
+    {
+      "id": "ferrybo01x-17",
+      "sourceId": 17,
+      "date": "1976-12-13",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Leonard Gray; Sent out Nick Weatherspoon",
+      "participants": [
+        {
+          "name": "Nick Weatherspoon",
+          "playerHref": "/players/w/weathni01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 2408,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Leonard Gray",
+          "playerHref": "/players/g/grayle01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2408,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 7501.1,
+        "vorp": -3.7
+      }
+    },
+    {
+      "id": "ferrybo01x-18",
+      "sourceId": 18,
+      "date": "1977-01-20",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Tom Henderson and Greg Ballard; Sent out Truck Robinson and Tree Rollins",
+      "participants": [
+        {
+          "name": "Truck Robinson",
+          "playerHref": "/players/r/robintr01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -2318.4,
+            "vorp": -1.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tree Rollins",
+          "playerHref": "/players/r/rollitr01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -33898.3,
+            "vorp": -19.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tom Henderson",
+          "playerHref": "/players/h/hendeto01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Greg Ballard",
+          "playerHref": "/players/b/ballagr01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -36216.700000000004,
+        "vorp": -20.5
+      },
+      "runningValues": {
+        "bpm": -28715.600000000002,
+        "vorp": -24.2
+      }
+    },
+    {
+      "id": "ferrybo01x-19",
+      "sourceId": 19,
+      "date": "1977-06-10",
+      "type": "draft",
+      "tenureTeam": "WAS",
+      "summary": "Drafted Greg Ballard, Bo Ellis, Phil Walker, Steve Puidokas, Jerry Schellenberg, David Reavis, Bruce Parkinson, Ernie Wansley, Calvin Brown, and Pat McKinley",
+      "participants": [
+        {
+          "name": "Greg Ballard",
+          "playerHref": "/players/b/ballagr01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bo Ellis",
+          "playerHref": "/players/e/ellisbo02.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Phil Walker",
+          "playerHref": "/players/w/walkeph01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Puidokas",
+          "playerHref": "/players/p/puidost01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jerry Schellenberg",
+          "playerHref": "/players/s/schelje01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "David Reavis",
+          "playerHref": "/players/r/reavida01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bruce Parkinson",
+          "playerHref": "/players/p/parkibr01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ernie Wansley",
+          "playerHref": "/players/w/wansler01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Calvin Brown",
+          "playerHref": "/players/b/brownca03.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Pat McKinley",
+          "playerHref": "/players/m/mckinpa01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -28715.600000000002,
+        "vorp": -24.2
+      }
+    },
+    {
+      "id": "ferrybo01x-20",
+      "sourceId": 20,
+      "date": "1977-08-16",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Bob Dandridge",
+      "participants": [
+        {
+          "name": "Bob Dandridge",
+          "playerHref": "/players/d/dandrbo01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -28715.600000000002,
+        "vorp": -24.2
+      }
+    },
+    {
+      "id": "ferrybo01x-21",
+      "sourceId": 21,
+      "date": "1977-10-11",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Dave Corzine; Sent out Bo Ellis",
+      "participants": [
+        {
+          "name": "Bo Ellis",
+          "playerHref": "/players/e/ellisbo02.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 5117.1,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dave Corzine",
+          "playerHref": "/players/c/corzida01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5117.1,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": -23598.5,
+        "vorp": -23.9
+      }
+    },
+    {
+      "id": "ferrybo01x-22",
+      "sourceId": 22,
+      "date": "1978-01-24",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Charles Johnson",
+      "participants": [
+        {
+          "name": "Charles Johnson",
+          "playerHref": "/players/j/johnsch01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -23598.5,
+        "vorp": -23.9
+      }
+    },
+    {
+      "id": "ferrybo01x-23",
+      "sourceId": 23,
+      "date": "1978-06-09",
+      "type": "draft",
+      "tenureTeam": "WAS",
+      "summary": "Drafted Roger Phegley, Dave Corzine, Terry Sykes, Rick Apke, Lawrence Boston, Roger Dickens, Archie Aldridge, Ed Hopkins, Nestor Cora, Tim Claxton, and Steve Connor",
+      "participants": [
+        {
+          "name": "Roger Phegley",
+          "playerHref": "/players/p/pheglro01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dave Corzine",
+          "playerHref": "/players/c/corzida01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Terry Sykes",
+          "playerHref": "/players/s/sykeste01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rick Apke",
+          "playerHref": "/players/a/apkeri01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lawrence Boston",
+          "playerHref": "/players/b/bostola01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Roger Dickens",
+          "playerHref": "/players/d/dickero01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Archie Aldridge",
+          "playerHref": "/players/a/aldriar01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ed Hopkins",
+          "playerHref": "/players/h/hopkied01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Nestor Cora",
+          "playerHref": "/players/c/corane01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tim Claxton",
+          "playerHref": "/players/c/claxtti01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Connor",
+          "playerHref": "/players/c/connost01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -23598.5,
+        "vorp": -23.9
+      }
+    },
+    {
+      "id": "ferrybo01x-24",
+      "sourceId": 24,
+      "date": "1979-06-22",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Steve Malovic; Sent out Kyle Macy and John Campbell",
+      "participants": [
+        {
+          "name": "Kyle Macy",
+          "playerHref": "/players/m/macyky01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -11199.199999999999,
+            "vorp": -8.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Campbell",
+          "playerHref": "/players/c/campbjo01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Malovic",
+          "playerHref": "/players/m/malovst01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -11199.199999999999,
+        "vorp": -8.2
+      },
+      "runningValues": {
+        "bpm": -34797.7,
+        "vorp": -32.099999999999994
+      }
+    },
+    {
+      "id": "ferrybo01x-25",
+      "sourceId": 25,
+      "date": "1979-06-25",
+      "type": "draft",
+      "tenureTeam": "WAS",
+      "summary": "Drafted Joe DeSantis, Andrew Parker, Charles Floyd, Lamont Reid, Marshall Ashford, Garcia Hopkins, Jo Jo Walters, Ray Hooker, and Steve Martin",
+      "participants": [
+        {
+          "name": "Joe DeSantis",
+          "playerHref": "/players/d/desanjo01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Andrew Parker",
+          "playerHref": "/players/p/parkean02.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Charles Floyd",
+          "playerHref": "/players/f/floydch01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lamont Reid",
+          "playerHref": "/players/r/reidla01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Marshall Ashford",
+          "playerHref": "/players/a/ashfoma01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Garcia Hopkins",
+          "playerHref": "/players/h/hopkiga01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jo Jo Walters",
+          "playerHref": "/players/w/waltejo01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ray Hooker",
+          "playerHref": "/players/h/hookera01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Martin",
+          "playerHref": "/players/m/martist01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -34797.7,
+        "vorp": -32.099999999999994
+      }
+    },
+    {
+      "id": "ferrybo01x-26",
+      "sourceId": 26,
+      "date": "1979-07-12",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Kevin Porter",
+      "participants": [
+        {
+          "name": "Kevin Porter",
+          "playerHref": "/players/p/porteke01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -34797.7,
+        "vorp": -32.099999999999994
+      }
+    },
+    {
+      "id": "ferrybo01x-28",
+      "sourceId": 28,
+      "date": "1979-09-13",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Gus Bailey",
+      "participants": [
+        {
+          "name": "Gus Bailey",
+          "playerHref": "/players/b/bailegu01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -34797.7,
+        "vorp": -32.099999999999994
+      }
+    },
+    {
+      "id": "ferrybo01x-29",
+      "sourceId": 29,
+      "date": "1979-11-21",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Bryan Warrick; Sent out Steve Malovic",
+      "participants": [
+        {
+          "name": "Steve Malovic",
+          "playerHref": "/players/m/malovst01.html",
+          "direction": "out",
+          "teamCode": "SDC",
+          "values": {
+            "bpm": 941.8,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bryan Warrick",
+          "playerHref": "/players/w/warribr01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 941.8,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -33855.899999999994,
+        "vorp": -31.999999999999993
+      }
+    },
+    {
+      "id": "ferrybo01x-30",
+      "sourceId": 30,
+      "date": "1979-12-04",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Jim Cleamons; Sent out Frank Brickowski",
+      "participants": [
+        {
+          "name": "Frank Brickowski",
+          "playerHref": "/players/b/brickfr01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jim Cleamons",
+          "playerHref": "/players/c/cleamji01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -33855.899999999994,
+        "vorp": -31.999999999999993
+      }
+    },
+    {
+      "id": "ferrybo01x-31",
+      "sourceId": 31,
+      "date": "1979-12-05",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Sent out Phil Chenier",
+      "participants": [
+        {
+          "name": "Phil Chenier",
+          "playerHref": "/players/c/cheniph01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -33855.899999999994,
+        "vorp": -31.999999999999993
+      }
+    },
+    {
+      "id": "ferrybo01x-32",
+      "sourceId": 32,
+      "date": "1980-02-04",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added John Williamson and Steve Lingenfelter; Sent out Roger Phegley",
+      "participants": [
+        {
+          "name": "Roger Phegley",
+          "playerHref": "/players/p/pheglro01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 811.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Williamson",
+          "playerHref": "/players/w/willijo01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Lingenfelter",
+          "playerHref": "/players/l/lingest01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 811.5,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -33044.399999999994,
+        "vorp": -32.099999999999994
+      }
+    },
+    {
+      "id": "ferrybo01x-33",
+      "sourceId": 33,
+      "date": "1980-03-22",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Ron Behagen",
+      "participants": [
+        {
+          "name": "Ron Behagen",
+          "playerHref": "/players/b/behagro01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -33044.399999999994,
+        "vorp": -32.099999999999994
+      }
+    },
+    {
+      "id": "ferrybo01x-35",
+      "sourceId": 35,
+      "date": "1980-06-10",
+      "type": "draft",
+      "tenureTeam": "WAS",
+      "summary": "Drafted Wes Matthews, Rick Mahorn, Francois Wise, Daryl Strickland, Ken Dancy, Karl Godine, Rich Valavicious, Clinton Wyatt, and Don Youman",
+      "participants": [
+        {
+          "name": "Wes Matthews",
+          "playerHref": "/players/m/matthwe01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rick Mahorn",
+          "playerHref": "/players/m/mahorri01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Francois Wise",
+          "playerHref": "/players/w/wisefr01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Daryl Strickland",
+          "playerHref": "/players/s/stricda01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ken Dancy",
+          "playerHref": "/players/d/dancyke01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Karl Godine",
+          "playerHref": "/players/g/godinka01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rich Valavicious",
+          "playerHref": "/players/v/valavri01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Clinton Wyatt",
+          "playerHref": "/players/w/wyattcl01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Don Youman",
+          "playerHref": "/players/y/youmado01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -33044.399999999994,
+        "vorp": -32.099999999999994
+      }
+    },
+    {
+      "id": "ferrybo01x-36",
+      "sourceId": 36,
+      "date": "1980-06-10",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Jeff Ruland; Sent out Sam Williams",
+      "participants": [
+        {
+          "name": "Sam Williams",
+          "playerHref": "/players/w/willisa02.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -87.10000000000005,
+            "vorp": -1.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jeff Ruland",
+          "playerHref": "/players/r/rulanje01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -87.10000000000005,
+        "vorp": -1.5
+      },
+      "runningValues": {
+        "bpm": -33131.49999999999,
+        "vorp": -33.599999999999994
+      }
+    },
+    {
+      "id": "ferrybo01x-37",
+      "sourceId": 37,
+      "date": "1980-09-08",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Carlos Terry",
+      "participants": [
+        {
+          "name": "Carlos Terry",
+          "playerHref": "/players/t/terryca01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -33131.49999999999,
+        "vorp": -33.599999999999994
+      }
+    },
+    {
+      "id": "ferrybo01x-38",
+      "sourceId": 38,
+      "date": "1980-09-26",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Claude Gregory and Dwight Anderson; Sent out Dave Corzine",
+      "participants": [
+        {
+          "name": "Dave Corzine",
+          "playerHref": "/players/c/corzida01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 565.1,
+            "vorp": -1.9000000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Claude Gregory",
+          "playerHref": "/players/g/gregocl01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dwight Anderson",
+          "playerHref": "/players/a/anderdw01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 565.1,
+        "vorp": -1.9000000000000001
+      },
+      "runningValues": {
+        "bpm": -32566.399999999994,
+        "vorp": -35.49999999999999
+      }
+    },
+    {
+      "id": "ferrybo01x-39",
+      "sourceId": 39,
+      "date": "1980-11-06",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Austin Carr",
+      "participants": [
+        {
+          "name": "Austin Carr",
+          "playerHref": "/players/c/carrau01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -32566.399999999994,
+        "vorp": -35.49999999999999
+      }
+    },
+    {
+      "id": "ferrybo01x-41",
+      "sourceId": 41,
+      "date": "1980-12-15",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Dave Britton",
+      "participants": [
+        {
+          "name": "Dave Britton",
+          "playerHref": "/players/b/brittda01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -32566.399999999994,
+        "vorp": -35.49999999999999
+      }
+    },
+    {
+      "id": "ferrybo01x-42",
+      "sourceId": 42,
+      "date": "1980-12-17",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Keith McCord",
+      "participants": [
+        {
+          "name": "Keith McCord",
+          "playerHref": "/players/m/mccorke01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -32566.399999999994,
+        "vorp": -35.49999999999999
+      }
+    },
+    {
+      "id": "ferrybo01x-43",
+      "sourceId": 43,
+      "date": "1980-12-27",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Andre McCarter",
+      "participants": [
+        {
+          "name": "Andre McCarter",
+          "playerHref": "/players/m/mccaran01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -32566.399999999994,
+        "vorp": -35.49999999999999
+      }
+    },
+    {
+      "id": "ferrybo01x-44",
+      "sourceId": 44,
+      "date": "1980-12-27",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Anthony Roberts",
+      "participants": [
+        {
+          "name": "Anthony Roberts",
+          "playerHref": "/players/r/roberan01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -32566.399999999994,
+        "vorp": -35.49999999999999
+      }
+    },
+    {
+      "id": "ferrybo01x-45",
+      "sourceId": 45,
+      "date": "1981-01-15",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Lewis Brown",
+      "participants": [
+        {
+          "name": "Lewis Brown",
+          "playerHref": "/players/b/brownle02.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -32566.399999999994,
+        "vorp": -35.49999999999999
+      }
+    },
+    {
+      "id": "ferrybo01x-46",
+      "sourceId": 46,
+      "date": "1981-01-17",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Don Collins; Sent out Wes Matthews",
+      "participants": [
+        {
+          "name": "Wes Matthews",
+          "playerHref": "/players/m/matthwe01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 3937.9,
+            "vorp": -0.7000000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Don Collins",
+          "playerHref": "/players/c/collido02.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3937.9,
+        "vorp": -0.7000000000000001
+      },
+      "runningValues": {
+        "bpm": -28628.499999999993,
+        "vorp": -36.199999999999996
+      }
+    },
+    {
+      "id": "ferrybo01x-47",
+      "sourceId": 47,
+      "date": "1981-06-08",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Charles Davis and Sidney Lowe; Sent out Elvin Hayes",
+      "participants": [
+        {
+          "name": "Elvin Hayes",
+          "playerHref": "/players/h/hayesel01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Charles Davis",
+          "playerHref": "/players/d/davisch02.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sidney Lowe",
+          "playerHref": "/players/l/lowesi01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -28628.499999999993,
+        "vorp": -36.199999999999996
+      }
+    },
+    {
+      "id": "ferrybo01x-48",
+      "sourceId": 48,
+      "date": "1981-06-09",
+      "type": "draft",
+      "tenureTeam": "WAS",
+      "summary": "Drafted Frank Johnson, Charles Davis, Claude Gregory, Steve Lingenfelter, Mike Ferrara, Ron Davis, Garry Witts, Robert Williams, Randy Martel, Mike Howard, Eddie Brown, and Ralton Way",
+      "participants": [
+        {
+          "name": "Frank Johnson",
+          "playerHref": "/players/j/johnsfr01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Charles Davis",
+          "playerHref": "/players/d/davisch02.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Claude Gregory",
+          "playerHref": "/players/g/gregocl01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Lingenfelter",
+          "playerHref": "/players/l/lingest01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Ferrara",
+          "playerHref": "/players/f/ferrami01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ron Davis",
+          "playerHref": "/players/d/davisro02.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Garry Witts",
+          "playerHref": "/players/w/wittsga01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Robert Williams",
+          "playerHref": "/players/w/williro07.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Randy Martel",
+          "playerHref": "/players/m/martera01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Howard",
+          "playerHref": "/players/h/howarmi01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eddie Brown",
+          "playerHref": "/players/b/browned01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ralton Way",
+          "playerHref": "/players/w/wayra01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -28628.499999999993,
+        "vorp": -36.199999999999996
+      }
+    },
+    {
+      "id": "ferrybo01x-50",
+      "sourceId": 50,
+      "date": "1981-10-01",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Rookie contract for Frank Johnson",
+      "participants": [
+        {
+          "name": "Frank Johnson",
+          "playerHref": "/players/j/johnsfr01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -28628.499999999993,
+        "vorp": -36.199999999999996
+      }
+    },
+    {
+      "id": "ferrybo01x-51",
+      "sourceId": 51,
+      "date": "1981-10-20",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added John Lucas; Sent out Derek Smith and Steve Burtt",
+      "participants": [
+        {
+          "name": "Derek Smith",
+          "playerHref": "/players/s/smithde02.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 1062.6000000000001,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Burtt",
+          "playerHref": "/players/b/burttst01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 3135,
+            "vorp": 0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Lucas",
+          "playerHref": "/players/l/lucasjo01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4197.6,
+        "vorp": 0.8999999999999999
+      },
+      "runningValues": {
+        "bpm": -24430.899999999994,
+        "vorp": -35.3
+      }
+    },
+    {
+      "id": "ferrybo01x-52",
+      "sourceId": 52,
+      "date": "1981-10-24",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Spencer Haywood",
+      "participants": [
+        {
+          "name": "Spencer Haywood",
+          "playerHref": "/players/h/haywosp01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -24430.899999999994,
+        "vorp": -35.3
+      }
+    },
+    {
+      "id": "ferrybo01x-54",
+      "sourceId": 54,
+      "date": "1981-12-17",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Ronnie Valentine",
+      "participants": [
+        {
+          "name": "Ronnie Valentine",
+          "playerHref": "/players/v/valenro01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -24430.899999999994,
+        "vorp": -35.3
+      }
+    },
+    {
+      "id": "ferrybo01x-55",
+      "sourceId": 55,
+      "date": "1982-06-29",
+      "type": "draft",
+      "tenureTeam": "WAS",
+      "summary": "Drafted Bryan Warrick, Dwight Anderson, Mike Gibson, Mike Largey, Dino Gregory, Clarence Dickerson, Jerry Davis, Byron Williams, Wendell Gibson, Ken Luck, James Terry, and Donald Sinclair",
+      "participants": [
+        {
+          "name": "Bryan Warrick",
+          "playerHref": "/players/w/warribr01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dwight Anderson",
+          "playerHref": "/players/a/anderdw01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Gibson",
+          "playerHref": "/players/g/gibsomi01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Largey",
+          "playerHref": "/players/l/largemi01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dino Gregory",
+          "playerHref": "/players/g/gregodi01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Clarence Dickerson",
+          "playerHref": "/players/d/dickecl02.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jerry Davis",
+          "playerHref": "/players/d/davisje01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Byron Williams",
+          "playerHref": "/players/w/williby01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Wendell Gibson",
+          "playerHref": "/players/g/gibsowe01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ken Luck",
+          "playerHref": "/players/l/luckke01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "James Terry",
+          "playerHref": "/players/t/terryja02.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Donald Sinclair",
+          "playerHref": "/players/s/sincldo01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -24430.899999999994,
+        "vorp": -35.3
+      }
+    },
+    {
+      "id": "ferrybo01x-56",
+      "sourceId": 56,
+      "date": "1982-09-01",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Dave Batton",
+      "participants": [
+        {
+          "name": "Dave Batton",
+          "playerHref": "/players/b/battoda01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -24430.899999999994,
+        "vorp": -35.3
+      }
+    },
+    {
+      "id": "ferrybo01x-57",
+      "sourceId": 57,
+      "date": "1982-09-29",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Billy Ray Bates",
+      "participants": [
+        {
+          "name": "Billy Ray Bates",
+          "playerHref": "/players/b/batesbi01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -24430.899999999994,
+        "vorp": -35.3
+      }
+    },
+    {
+      "id": "ferrybo01x-58",
+      "sourceId": 58,
+      "date": "1982-11-16",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Carlos Terry",
+      "participants": [
+        {
+          "name": "Carlos Terry",
+          "playerHref": "/players/t/terryca01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -24430.899999999994,
+        "vorp": -35.3
+      }
+    },
+    {
+      "id": "ferrybo01x-59",
+      "sourceId": 59,
+      "date": "1982-11-18",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Joe Cooper",
+      "participants": [
+        {
+          "name": "Joe Cooper",
+          "playerHref": "/players/c/coopejo01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -24430.899999999994,
+        "vorp": -35.3
+      }
+    },
+    {
+      "id": "ferrybo01x-60",
+      "sourceId": 60,
+      "date": "1983-01-11",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Chubby Cox",
+      "participants": [
+        {
+          "name": "Chubby Cox",
+          "playerHref": "/players/c/coxch01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -24430.899999999994,
+        "vorp": -35.3
+      }
+    },
+    {
+      "id": "ferrybo01x-61",
+      "sourceId": 61,
+      "date": "1983-01-24",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Ricky Sobers",
+      "participants": [
+        {
+          "name": "Ricky Sobers",
+          "playerHref": "/players/s/soberri01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -24430.899999999994,
+        "vorp": -35.3
+      }
+    },
+    {
+      "id": "ferrybo01x-62",
+      "sourceId": 62,
+      "date": "1983-03-09",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Joe Kopicki",
+      "participants": [
+        {
+          "name": "Joe Kopicki",
+          "playerHref": "/players/k/kopicjo01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -24430.899999999994,
+        "vorp": -35.3
+      }
+    },
+    {
+      "id": "ferrybo01x-63",
+      "sourceId": 63,
+      "date": "1983-06-28",
+      "type": "draft",
+      "tenureTeam": "WAS",
+      "summary": "Drafted Jeff Malone, Randy Wittman, Michael Britt, Guy Williams, Darren Daye, Dan Gay, Robin Dixon, Donald Carroll, Danny Womack, Bernard Perry, Ricky Moreland, and Isaiah Singletary",
+      "participants": [
+        {
+          "name": "Jeff Malone",
+          "playerHref": "/players/m/malonje01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Randy Wittman",
+          "playerHref": "/players/w/wittmra01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Michael Britt",
+          "playerHref": "/players/b/brittmi02.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Guy Williams",
+          "playerHref": "/players/w/willigu02.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Darren Daye",
+          "playerHref": "/players/d/dayeda01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dan Gay",
+          "playerHref": "/players/g/gayda01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Robin Dixon",
+          "playerHref": "/players/d/dixonro01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Donald Carroll",
+          "playerHref": "/players/c/carrodo01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Danny Womack",
+          "playerHref": "/players/w/womacda01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bernard Perry",
+          "playerHref": "/players/p/perrybe01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ricky Moreland",
+          "playerHref": "/players/m/morelri01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Isaiah Singletary",
+          "playerHref": "/players/s/singlis01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -24430.899999999994,
+        "vorp": -35.3
+      }
+    },
+    {
+      "id": "ferrybo01x-64",
+      "sourceId": 64,
+      "date": "1983-07-05",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Tom McMillen and Tony Costner; Sent out Randy Wittman",
+      "participants": [
+        {
+          "name": "Randy Wittman",
+          "playerHref": "/players/w/wittmra01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 8068.9,
+            "vorp": -2.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tom McMillen",
+          "playerHref": "/players/m/mcmilto01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tony Costner",
+          "playerHref": "/players/c/costnto01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 8068.9,
+        "vorp": -2.7
+      },
+      "runningValues": {
+        "bpm": -16361.999999999995,
+        "vorp": -38
+      }
+    },
+    {
+      "id": "ferrybo01x-65",
+      "sourceId": 65,
+      "date": "1983-07-11",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Sent out Dave Batton",
+      "participants": [
+        {
+          "name": "Dave Batton",
+          "playerHref": "/players/b/battoda01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 130.20000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 130.20000000000002,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -16231.799999999994,
+        "vorp": -38
+      }
+    },
+    {
+      "id": "ferrybo01x-66",
+      "sourceId": 66,
+      "date": "1983-09-27",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Michael Wilson",
+      "participants": [
+        {
+          "name": "Michael Wilson",
+          "playerHref": "/players/w/wilsomi01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -16231.799999999994,
+        "vorp": -38
+      }
+    },
+    {
+      "id": "ferrybo01x-67",
+      "sourceId": 67,
+      "date": "1983-09-30",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Fred Reynolds; Sent out Kevin Grevey",
+      "participants": [
+        {
+          "name": "Kevin Grevey",
+          "playerHref": "/players/g/greveke01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 3353.3999999999996,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Fred Reynolds",
+          "playerHref": "/players/r/reynofr01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3353.3999999999996,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -12878.399999999994,
+        "vorp": -38.2
+      }
+    },
+    {
+      "id": "ferrybo01x-68",
+      "sourceId": 68,
+      "date": "1984-01-19",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed DeWayne Scales",
+      "participants": [
+        {
+          "name": "DeWayne Scales",
+          "playerHref": "/players/s/scalede01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -12878.399999999994,
+        "vorp": -38.2
+      }
+    },
+    {
+      "id": "ferrybo01x-69",
+      "sourceId": 69,
+      "date": "1984-06-19",
+      "type": "draft",
+      "tenureTeam": "WAS",
+      "summary": "Drafted Melvin Turpin, Tony Costner, Fred Reynolds, Ricky Ross, Jim Grandholm, Colin Irish, Blaise Bugajski, Tim Garrett, Darryl Odom, Mike Emanuel, and Glynn Myrick",
+      "participants": [
+        {
+          "name": "Melvin Turpin",
+          "playerHref": "/players/t/turpime01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tony Costner",
+          "playerHref": "/players/c/costnto01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Fred Reynolds",
+          "playerHref": "/players/r/reynofr01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ricky Ross",
+          "playerHref": "/players/r/rossri01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jim Grandholm",
+          "playerHref": "/players/g/grandji01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Colin Irish",
+          "playerHref": "/players/i/irishco01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Blaise Bugajski",
+          "playerHref": "/players/b/bugajbl01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tim Garrett",
+          "playerHref": "/players/g/garreti01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Darryl Odom",
+          "playerHref": "/players/o/odomda01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Emanuel",
+          "playerHref": "/players/e/emanumi01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Glynn Myrick",
+          "playerHref": "/players/m/myricgl01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -12878.399999999994,
+        "vorp": -38.2
+      }
+    },
+    {
+      "id": "ferrybo01x-70",
+      "sourceId": 70,
+      "date": "1984-06-19",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Gus Williams; Sent out Tim McCormick and Ricky Sobers",
+      "participants": [
+        {
+          "name": "Tim McCormick",
+          "playerHref": "/players/m/mccorti01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 4860.9,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ricky Sobers",
+          "playerHref": "/players/s/soberri01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 7026.7,
+            "vorp": 0.39999999999999997
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Gus Williams",
+          "playerHref": "/players/w/willigu01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 11887.599999999999,
+        "vorp": -5.551115123125783e-17
+      },
+      "runningValues": {
+        "bpm": -990.7999999999947,
+        "vorp": -38.2
+      }
+    },
+    {
+      "id": "ferrybo01x-71",
+      "sourceId": 71,
+      "date": "1984-06-19",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Tim McCormick and Cliff Robinson; Sent out Melvin Turpin",
+      "participants": [
+        {
+          "name": "Melvin Turpin",
+          "playerHref": "/players/t/turpime01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 5119.9,
+            "vorp": -1.2999999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tim McCormick",
+          "playerHref": "/players/m/mccorti01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cliff Robinson",
+          "playerHref": "/players/r/robincl01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5119.9,
+        "vorp": -1.2999999999999998
+      },
+      "runningValues": {
+        "bpm": 4129.100000000005,
+        "vorp": -39.5
+      }
+    },
+    {
+      "id": "ferrybo01x-72",
+      "sourceId": 72,
+      "date": "1984-06-19",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Tom Sewell; Sent out Harvey Grant",
+      "participants": [
+        {
+          "name": "Harvey Grant",
+          "playerHref": "/players/g/grantha01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 2234.3999999999996,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tom Sewell",
+          "playerHref": "/players/s/sewelto01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2234.3999999999996,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 6363.500000000005,
+        "vorp": -39.3
+      }
+    },
+    {
+      "id": "ferrybo01x-73",
+      "sourceId": 73,
+      "date": "1984-09-25",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Ken Perry; Sent out Bryan Warrick",
+      "participants": [
+        {
+          "name": "Bryan Warrick",
+          "playerHref": "/players/w/warribr01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 2352.9,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ken Perry",
+          "playerHref": "/players/p/perryke01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2352.9,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 8716.400000000005,
+        "vorp": -39.099999999999994
+      }
+    },
+    {
+      "id": "ferrybo01x-74",
+      "sourceId": 74,
+      "date": "1984-09-27",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Dudley Bradley",
+      "participants": [
+        {
+          "name": "Dudley Bradley",
+          "playerHref": "/players/b/bradldu01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 8716.400000000005,
+        "vorp": -39.099999999999994
+      }
+    },
+    {
+      "id": "ferrybo01x-75",
+      "sourceId": 75,
+      "date": "1985-02-14",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Charles Jones",
+      "participants": [
+        {
+          "name": "Charles Jones",
+          "playerHref": "/players/j/jonesch01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 8716.400000000005,
+        "vorp": -39.099999999999994
+      }
+    },
+    {
+      "id": "ferrybo01x-76",
+      "sourceId": 76,
+      "date": "1985-03-13",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Don Collins",
+      "participants": [
+        {
+          "name": "Don Collins",
+          "playerHref": "/players/c/collido02.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 8716.400000000005,
+        "vorp": -39.099999999999994
+      }
+    },
+    {
+      "id": "ferrybo01x-77",
+      "sourceId": 77,
+      "date": "1985-06-17",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Manute Bol and Duane Washington; Sent out Greg Ballard",
+      "participants": [
+        {
+          "name": "Greg Ballard",
+          "playerHref": "/players/b/ballagr01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 5107.9,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Manute Bol",
+          "playerHref": "/players/b/bolma01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Duane Washington",
+          "playerHref": "/players/w/washidu01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5107.9,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": 13824.300000000005,
+        "vorp": -39.39999999999999
+      }
+    },
+    {
+      "id": "ferrybo01x-78",
+      "sourceId": 78,
+      "date": "1985-06-17",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Dan Roundfield; Sent out Mike Gibson and Rick Mahorn",
+      "participants": [
+        {
+          "name": "Mike Gibson",
+          "playerHref": "/players/g/gibsomi01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 644,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rick Mahorn",
+          "playerHref": "/players/m/mahorri01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 11242.8,
+            "vorp": -0.9000000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dan Roundfield",
+          "playerHref": "/players/r/roundda01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 11886.8,
+        "vorp": -0.8000000000000002
+      },
+      "runningValues": {
+        "bpm": 25711.100000000006,
+        "vorp": -40.19999999999999
+      }
+    },
+    {
+      "id": "ferrybo01x-79",
+      "sourceId": 79,
+      "date": "1985-06-18",
+      "type": "draft",
+      "tenureTeam": "WAS",
+      "summary": "Drafted Kenny Green, Manute Bol, Vernon Moore, Kenny Perry, Richie Adams, Dean Shaffer, Matt England, and Keith Gray",
+      "participants": [
+        {
+          "name": "Kenny Green",
+          "playerHref": "/players/g/greenke02.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Manute Bol",
+          "playerHref": "/players/b/bolma01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Vernon Moore",
+          "playerHref": "/players/m/mooreve01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kenny Perry",
+          "playerHref": "/players/p/perryke01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Richie Adams",
+          "playerHref": "/players/a/adamsri02.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dean Shaffer",
+          "playerHref": "/players/s/shaffde01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Matt England",
+          "playerHref": "/players/e/englama01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Keith Gray",
+          "playerHref": "/players/g/grayke01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 25711.100000000006,
+        "vorp": -40.19999999999999
+      }
+    },
+    {
+      "id": "ferrybo01x-80",
+      "sourceId": 80,
+      "date": "1985-09-26",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Perry Moss",
+      "participants": [
+        {
+          "name": "Perry Moss",
+          "playerHref": "/players/m/mosspe01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 25711.100000000006,
+        "vorp": -40.19999999999999
+      }
+    },
+    {
+      "id": "ferrybo01x-81",
+      "sourceId": 81,
+      "date": "1985-11-14",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed George Johnson",
+      "participants": [
+        {
+          "name": "George Johnson",
+          "playerHref": "/players/j/johnsge03.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 25711.100000000006,
+        "vorp": -40.19999999999999
+      }
+    },
+    {
+      "id": "ferrybo01x-82",
+      "sourceId": 82,
+      "date": "1985-12-27",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Freeman Williams",
+      "participants": [
+        {
+          "name": "Freeman Williams",
+          "playerHref": "/players/w/willifr01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 25711.100000000006,
+        "vorp": -40.19999999999999
+      }
+    },
+    {
+      "id": "ferrybo01x-83",
+      "sourceId": 83,
+      "date": "1986-01-02",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Ennis Whatley",
+      "participants": [
+        {
+          "name": "Ennis Whatley",
+          "playerHref": "/players/w/whatlen01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 25711.100000000006,
+        "vorp": -40.19999999999999
+      }
+    },
+    {
+      "id": "ferrybo01x-84",
+      "sourceId": 84,
+      "date": "1986-01-10",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Leon Wood; Sent out Kenny Green",
+      "participants": [
+        {
+          "name": "Kenny Green",
+          "playerHref": "/players/g/greenke02.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 3440.8,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Leon Wood",
+          "playerHref": "/players/w/woodle01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3440.8,
+        "vorp": 0.7
+      },
+      "runningValues": {
+        "bpm": 29151.900000000005,
+        "vorp": -39.499999999999986
+      }
+    },
+    {
+      "id": "ferrybo01x-85",
+      "sourceId": 85,
+      "date": "1986-01-19",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Rookie contract for Claude Gregory",
+      "participants": [
+        {
+          "name": "Claude Gregory",
+          "playerHref": "/players/g/gregocl01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 29151.900000000005,
+        "vorp": -39.499999999999986
+      }
+    },
+    {
+      "id": "ferrybo01x-86",
+      "sourceId": 86,
+      "date": "1986-01-28",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Kevin McKenna",
+      "participants": [
+        {
+          "name": "Kevin McKenna",
+          "playerHref": "/players/m/mckenke01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 29151.900000000005,
+        "vorp": -39.499999999999986
+      }
+    },
+    {
+      "id": "ferrybo01x-89",
+      "sourceId": 89,
+      "date": "1986-05-13",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Michael Adams",
+      "participants": [
+        {
+          "name": "Michael Adams",
+          "playerHref": "/players/a/adamsmi01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 29151.900000000005,
+        "vorp": -39.499999999999986
+      }
+    },
+    {
+      "id": "ferrybo01x-90",
+      "sourceId": 90,
+      "date": "1986-06-16",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Terry Catledge, Moses Malone, Anthony Jones, and Harvey Grant; Sent out Cliff Robinson and Jeff Ruland",
+      "participants": [
+        {
+          "name": "Cliff Robinson",
+          "playerHref": "/players/r/robincl01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 7172.4,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jeff Ruland",
+          "playerHref": "/players/r/rulanje01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 1056.8,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Terry Catledge",
+          "playerHref": "/players/c/catlete01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Moses Malone",
+          "playerHref": "/players/m/malonmo01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Anthony Jones",
+          "playerHref": "/players/j/jonesan01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Harvey Grant",
+          "playerHref": "/players/g/grantha01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 8229.199999999999,
+        "vorp": -0.20000000000000004
+      },
+      "runningValues": {
+        "bpm": 37381.100000000006,
+        "vorp": -39.69999999999998
+      }
+    },
+    {
+      "id": "ferrybo01x-91",
+      "sourceId": 91,
+      "date": "1986-06-17",
+      "type": "draft",
+      "tenureTeam": "WAS",
+      "summary": "Drafted John Williams, Anthony Jones, Steve Mitchell, Dave Henderson, Barry Mungar, Paul Fortier, Lorenzo Duncan, and Joe Price",
+      "participants": [
+        {
+          "name": "John Williams",
+          "playerHref": "/players/w/willijo02.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Anthony Jones",
+          "playerHref": "/players/j/jonesan01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Mitchell",
+          "playerHref": "/players/m/mitchst02.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dave Henderson",
+          "playerHref": "/players/h/hendeda01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Barry Mungar",
+          "playerHref": "/players/m/mungaba01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Paul Fortier",
+          "playerHref": "/players/f/fortipa01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lorenzo Duncan",
+          "playerHref": "/players/d/duncalo01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Joe Price",
+          "playerHref": "/players/p/pricejo01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 37381.100000000006,
+        "vorp": -39.69999999999998
+      }
+    },
+    {
+      "id": "ferrybo01x-92",
+      "sourceId": 92,
+      "date": "1986-08-08",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Darwin Cook",
+      "participants": [
+        {
+          "name": "Darwin Cook",
+          "playerHref": "/players/c/cookda01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 37381.100000000006,
+        "vorp": -39.69999999999998
+      }
+    },
+    {
+      "id": "ferrybo01x-93",
+      "sourceId": 93,
+      "date": "1986-09-03",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Jay Murphy",
+      "participants": [
+        {
+          "name": "Jay Murphy",
+          "playerHref": "/players/m/murphja01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 37381.100000000006,
+        "vorp": -39.69999999999998
+      }
+    },
+    {
+      "id": "ferrybo01x-94",
+      "sourceId": 94,
+      "date": "1986-09-03",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Jay Vincent; Sent out Willie Burton",
+      "participants": [
+        {
+          "name": "Willie Burton",
+          "playerHref": "/players/b/burtowi01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jay Vincent",
+          "playerHref": "/players/v/vinceja01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 37381.100000000006,
+        "vorp": -39.69999999999998
+      }
+    },
+    {
+      "id": "ferrybo01x-95",
+      "sourceId": 95,
+      "date": "1986-09-04",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Ennis Whatley",
+      "participants": [
+        {
+          "name": "Ennis Whatley",
+          "playerHref": "/players/w/whatlen01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 37381.100000000006,
+        "vorp": -39.69999999999998
+      }
+    },
+    {
+      "id": "ferrybo01x-96",
+      "sourceId": 96,
+      "date": "1986-09-04",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Jim Lampley",
+      "participants": [
+        {
+          "name": "Jim Lampley",
+          "playerHref": "/players/l/lamplji01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 37381.100000000006,
+        "vorp": -39.69999999999998
+      }
+    },
+    {
+      "id": "ferrybo01x-97",
+      "sourceId": 97,
+      "date": "1986-10-14",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Frank Johnson",
+      "participants": [
+        {
+          "name": "Frank Johnson",
+          "playerHref": "/players/j/johnsfr01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 37381.100000000006,
+        "vorp": -39.69999999999998
+      }
+    },
+    {
+      "id": "ferrybo01x-99",
+      "sourceId": 99,
+      "date": "1986-10-30",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Mike O'Koren; Sent out Leon Wood",
+      "participants": [
+        {
+          "name": "Leon Wood",
+          "playerHref": "/players/w/woodle01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 2606.3,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike O'Koren",
+          "playerHref": "/players/o/okoremi01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2606.3,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": 39987.40000000001,
+        "vorp": -39.99999999999998
+      }
+    },
+    {
+      "id": "ferrybo01x-100",
+      "sourceId": 100,
+      "date": "1986-11-21",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Michael Adams",
+      "participants": [
+        {
+          "name": "Michael Adams",
+          "playerHref": "/players/a/adamsmi01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 39987.40000000001,
+        "vorp": -39.99999999999998
+      }
+    },
+    {
+      "id": "ferrybo01x-102",
+      "sourceId": 102,
+      "date": "1987-06-22",
+      "type": "draft",
+      "tenureTeam": "WAS",
+      "summary": "Drafted Muggsy Bogues, Duane Washington, Derrick Dowell, Danny Pearson, Scott Thompson, Patrick Fairs, Dwayne Scholten, and Jamie Dixon",
+      "participants": [
+        {
+          "name": "Muggsy Bogues",
+          "playerHref": "/players/b/boguemu01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Duane Washington",
+          "playerHref": "/players/w/washidu01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Derrick Dowell",
+          "playerHref": "/players/d/dowelde01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Danny Pearson",
+          "playerHref": "/players/p/pearsda01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Scott Thompson",
+          "playerHref": "/players/t/thompsc02.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Patrick Fairs",
+          "playerHref": "/players/f/fairspa01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dwayne Scholten",
+          "playerHref": "/players/s/scholdw01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jamie Dixon",
+          "playerHref": "/players/d/dixonja01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 39987.40000000001,
+        "vorp": -39.99999999999998
+      }
+    },
+    {
+      "id": "ferrybo01x-103",
+      "sourceId": 103,
+      "date": "1987-10-07",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Rookie contract for Dave Henderson",
+      "participants": [
+        {
+          "name": "Dave Henderson",
+          "playerHref": "/players/h/hendeda01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 39987.40000000001,
+        "vorp": -39.99999999999998
+      }
+    },
+    {
+      "id": "ferrybo01x-104",
+      "sourceId": 104,
+      "date": "1987-10-08",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Tony Campbell",
+      "participants": [
+        {
+          "name": "Tony Campbell",
+          "playerHref": "/players/c/campbto01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 39987.40000000001,
+        "vorp": -39.99999999999998
+      }
+    },
+    {
+      "id": "ferrybo01x-105",
+      "sourceId": 105,
+      "date": "1987-10-16",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Bernard King",
+      "participants": [
+        {
+          "name": "Bernard King",
+          "playerHref": "/players/k/kingbe01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 39987.40000000001,
+        "vorp": -39.99999999999998
+      }
+    },
+    {
+      "id": "ferrybo01x-106",
+      "sourceId": 106,
+      "date": "1987-11-02",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Mark Alarie and Darrell Walker; Sent out Michael Adams and Jay Vincent",
+      "participants": [
+        {
+          "name": "Michael Adams",
+          "playerHref": "/players/a/adamsmi01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -32025.3,
+            "vorp": -13.399999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jay Vincent",
+          "playerHref": "/players/v/vinceja01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 4270,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mark Alarie",
+          "playerHref": "/players/a/alarima01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Darrell Walker",
+          "playerHref": "/players/w/walkeda01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -27755.3,
+        "vorp": -13.299999999999999
+      },
+      "runningValues": {
+        "bpm": 12232.10000000001,
+        "vorp": -53.299999999999976
+      }
+    },
+    {
+      "id": "ferrybo01x-107",
+      "sourceId": 107,
+      "date": "1987-11-02",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Frank Johnson",
+      "participants": [
+        {
+          "name": "Frank Johnson",
+          "playerHref": "/players/j/johnsfr01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 12232.10000000001,
+        "vorp": -53.299999999999976
+      }
+    },
+    {
+      "id": "ferrybo01x-108",
+      "sourceId": 108,
+      "date": "1987-12-22",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Steve Colter",
+      "participants": [
+        {
+          "name": "Steve Colter",
+          "playerHref": "/players/c/coltest01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 12232.10000000001,
+        "vorp": -53.299999999999976
+      }
+    },
+    {
+      "id": "ferrybo01x-109",
+      "sourceId": 109,
+      "date": "1988-01-01",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Steve Colter",
+      "participants": [
+        {
+          "name": "Steve Colter",
+          "playerHref": "/players/c/coltest01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 12232.10000000001,
+        "vorp": -53.299999999999976
+      }
+    },
+    {
+      "id": "ferrybo01x-112",
+      "sourceId": 112,
+      "date": "1988-01-21",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Steve Colter",
+      "participants": [
+        {
+          "name": "Steve Colter",
+          "playerHref": "/players/c/coltest01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 12232.10000000001,
+        "vorp": -53.299999999999976
+      }
+    },
+    {
+      "id": "ferrybo01x-113",
+      "sourceId": 113,
+      "date": "1988-06-08",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Dave Feitl and Doug Roth; Sent out Manute Bol",
+      "participants": [
+        {
+          "name": "Manute Bol",
+          "playerHref": "/players/b/bolma01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 3268.1,
+            "vorp": -0.7999999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dave Feitl",
+          "playerHref": "/players/f/feitlda01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Doug Roth",
+          "playerHref": "/players/r/rothdo01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3268.1,
+        "vorp": -0.7999999999999999
+      },
+      "runningValues": {
+        "bpm": 15500.20000000001,
+        "vorp": -54.09999999999997
+      }
+    },
+    {
+      "id": "ferrybo01x-114",
+      "sourceId": 114,
+      "date": "1988-06-28",
+      "type": "draft",
+      "tenureTeam": "WAS",
+      "summary": "Drafted Harvey Grant, Ledell Eackles, and Ed Davender",
+      "participants": [
+        {
+          "name": "Harvey Grant",
+          "playerHref": "/players/g/grantha01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -3132.5,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ledell Eackles",
+          "playerHref": "/players/e/eacklle01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -929.9,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ed Davender",
+          "playerHref": "/players/d/davened01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4062.4,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": 11437.80000000001,
+        "vorp": -54.39999999999997
+      }
+    },
+    {
+      "id": "ferrybo01x-115",
+      "sourceId": 115,
+      "date": "1988-09-07",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Mike Williams",
+      "participants": [
+        {
+          "name": "Mike Williams",
+          "playerHref": "/players/w/willimi03.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 11437.80000000001,
+        "vorp": -54.39999999999997
+      }
+    },
+    {
+      "id": "ferrybo01x-116",
+      "sourceId": 116,
+      "date": "1988-09-23",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Vincent Askew",
+      "participants": [
+        {
+          "name": "Vincent Askew",
+          "playerHref": "/players/a/askewvi01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 11437.80000000001,
+        "vorp": -54.39999999999997
+      }
+    },
+    {
+      "id": "ferrybo01x-117",
+      "sourceId": 117,
+      "date": "1988-09-30",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Dominic Pressley",
+      "participants": [
+        {
+          "name": "Dominic Pressley",
+          "playerHref": "/players/p/pressdo01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 11437.80000000001,
+        "vorp": -54.39999999999997
+      }
+    },
+    {
+      "id": "ferrybo01x-118",
+      "sourceId": 118,
+      "date": "1988-10-06",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Charles Jones",
+      "participants": [
+        {
+          "name": "Charles Jones",
+          "playerHref": "/players/j/jonesch02.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 11437.80000000001,
+        "vorp": -54.39999999999997
+      }
+    },
+    {
+      "id": "ferrybo01x-119",
+      "sourceId": 119,
+      "date": "1988-10-06",
+      "type": "trade",
+      "tenureTeam": "WAS",
+      "summary": "Added Cedric Maxwell; Sent out Jim Grandholm",
+      "participants": [
+        {
+          "name": "Jim Grandholm",
+          "playerHref": "/players/g/grandji01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cedric Maxwell",
+          "playerHref": "/players/m/maxwece01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 11437.80000000001,
+        "vorp": -54.39999999999997
+      }
+    },
+    {
+      "id": "ferrybo01x-120",
+      "sourceId": 120,
+      "date": "1988-12-02",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Charles Jones",
+      "participants": [
+        {
+          "name": "Charles Jones",
+          "playerHref": "/players/j/jonesch02.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 11437.80000000001,
+        "vorp": -54.39999999999997
+      }
+    },
+    {
+      "id": "ferrybo01x-121",
+      "sourceId": 121,
+      "date": "1989-06-27",
+      "type": "draft",
+      "tenureTeam": "WAS",
+      "summary": "Drafted Tom Hammonds, Ed Horton, and Doug Roth",
+      "participants": [
+        {
+          "name": "Tom Hammonds",
+          "playerHref": "/players/h/hammoto01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ed Horton",
+          "playerHref": "/players/h/hortoed01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Doug Roth",
+          "playerHref": "/players/r/rothdo01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 11437.80000000001,
+        "vorp": -54.39999999999997
+      }
+    },
+    {
+      "id": "ferrybo01x-122",
+      "sourceId": 122,
+      "date": "1989-08-08",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Signed Melvin Turpin",
+      "participants": [
+        {
+          "name": "Melvin Turpin",
+          "playerHref": "/players/t/turpime01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 11437.80000000001,
+        "vorp": -54.39999999999997
+      }
+    },
+    {
+      "id": "ferrybo01x-123",
+      "sourceId": 123,
+      "date": "1989-08-11",
+      "type": "signing",
+      "tenureTeam": "WAS",
+      "summary": "Rookie contract for Doug Roth",
+      "participants": [
+        {
+          "name": "Doug Roth",
+          "playerHref": "/players/r/rothdo01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 11437.80000000001,
+        "vorp": -54.39999999999997
+      }
+    }
+  ]
+}

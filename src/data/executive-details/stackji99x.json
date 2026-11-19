@@ -1,0 +1,75 @@
+{
+  "slug": "stackji99x",
+  "sourceRowCount": 5,
+  "tenures": [
+    {
+      "teamCode": "MIN",
+      "startDate": "2009-02-19",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "stackji99x-0",
+      "sourceId": 0,
+      "date": "2009-02-19",
+      "type": "trade",
+      "tenureTeam": "MIN",
+      "summary": "Added Bobby Brown and Shelden Williams; Sent out Calvin Booth and Rashad McCants",
+      "participants": [
+        {
+          "name": "Calvin Booth",
+          "playerHref": "/players/b/boothca01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 275,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rashad McCants",
+          "playerHref": "/players/m/mccanra01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -279,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bobby Brown",
+          "playerHref": "/players/b/brownbo02.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": -563.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Shelden Williams",
+          "playerHref": "/players/w/willish02.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": -351.9,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -919.1,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -919.1,
+        "vorp": -0.3
+      }
+    }
+  ]
+}

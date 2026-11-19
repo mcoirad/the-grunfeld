@@ -1,0 +1,1492 @@
+{
+  "slug": "rileyla99x",
+  "sourceRowCount": 70,
+  "tenures": [
+    {
+      "teamCode": "GSW",
+      "startDate": "2009-06-25",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "rileyla99x-0",
+      "sourceId": 0,
+      "date": "2009-06-25",
+      "type": "draft",
+      "tenureTeam": "GSW",
+      "summary": "Drafted Stephen Curry",
+      "participants": [
+        {
+          "name": "Stephen Curry",
+          "playerHref": "/players/c/curryst01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 234949.69999999998,
+            "vorp": 77.79999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 234949.69999999998,
+        "vorp": 77.79999999999998
+      },
+      "runningValues": {
+        "bpm": 234949.69999999998,
+        "vorp": 77.79999999999998
+      }
+    },
+    {
+      "id": "rileyla99x-1",
+      "sourceId": 1,
+      "date": "2009-06-25",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Speedy Claxton and Acie Law; Sent out Jamal Crawford",
+      "participants": [
+        {
+          "name": "Jamal Crawford",
+          "playerHref": "/players/c/crawfja01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -3361,
+            "vorp": -3.3000000000000003
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Speedy Claxton",
+          "playerHref": "/players/c/claxtsp01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Acie Law",
+          "playerHref": "/players/l/lawac01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1844.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5205.2,
+        "vorp": -3.4000000000000004
+      },
+      "runningValues": {
+        "bpm": 229744.49999999997,
+        "vorp": 74.39999999999999
+      }
+    },
+    {
+      "id": "rileyla99x-2",
+      "sourceId": 2,
+      "date": "2009-07-29",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Devean George; Sent out Marco Belinelli",
+      "participants": [
+        {
+          "name": "Marco Belinelli",
+          "playerHref": "/players/b/belinma01.html",
+          "direction": "out",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 1457.3,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Devean George",
+          "playerHref": "/players/g/georgde01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -608.8000000000001,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 848.4999999999999,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 230592.99999999997,
+        "vorp": 74.39999999999999
+      }
+    },
+    {
+      "id": "rileyla99x-3",
+      "sourceId": 3,
+      "date": "2009-09-02",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Mikki Moore",
+      "participants": [
+        {
+          "name": "Mikki Moore",
+          "playerHref": "/players/m/mooremi01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -771.3999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -771.3999999999999,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 229821.59999999998,
+        "vorp": 74.39999999999999
+      }
+    },
+    {
+      "id": "rileyla99x-4",
+      "sourceId": 4,
+      "date": "2009-11-16",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Raja Bell and Vladimir Radmanović; Sent out Stephen Jackson and Acie Law",
+      "participants": [
+        {
+          "name": "Stephen Jackson",
+          "playerHref": "/players/j/jacksst02.html",
+          "direction": "out",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": -494.89999999999986,
+            "vorp": -2.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Acie Law",
+          "playerHref": "/players/l/lawac01.html",
+          "direction": "out",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 277.2,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Raja Bell",
+          "playerHref": "/players/b/bellra01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 200.1,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Vladimir Radmanović",
+          "playerHref": "/players/r/radmavl01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -3300.5,
+            "vorp": 0.19999999999999996
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3318.1,
+        "vorp": -2.3
+      },
+      "runningValues": {
+        "bpm": 226503.5,
+        "vorp": 72.09999999999998
+      }
+    },
+    {
+      "id": "rileyla99x-5",
+      "sourceId": 5,
+      "date": "2009-11-20",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Chris Hunter",
+      "participants": [
+        {
+          "name": "Chris Hunter",
+          "playerHref": "/players/h/huntech01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -3210.2999999999997,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3210.2999999999997,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": 223293.2,
+        "vorp": 71.69999999999997
+      }
+    },
+    {
+      "id": "rileyla99x-6",
+      "sourceId": 6,
+      "date": "2010-01-10",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Cartier Martin",
+      "participants": [
+        {
+          "name": "Cartier Martin",
+          "playerHref": "/players/m/martica01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1435.2,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1435.2,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 221858,
+        "vorp": 71.49999999999997
+      }
+    },
+    {
+      "id": "rileyla99x-7",
+      "sourceId": 7,
+      "date": "2010-01-17",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Anthony Tolliver",
+      "participants": [
+        {
+          "name": "Anthony Tolliver",
+          "playerHref": "/players/t/tollian01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -2276.8,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2276.8,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 219581.2,
+        "vorp": 71.69999999999997
+      }
+    },
+    {
+      "id": "rileyla99x-8",
+      "sourceId": 8,
+      "date": "2010-01-31",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Coby Karl",
+      "participants": [
+        {
+          "name": "Coby Karl",
+          "playerHref": "/players/k/karlco01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -432,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -432,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 219149.2,
+        "vorp": 71.59999999999998
+      }
+    },
+    {
+      "id": "rileyla99x-9",
+      "sourceId": 9,
+      "date": "2010-03-02",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Reggie Williams",
+      "participants": [
+        {
+          "name": "Reggie Williams",
+          "playerHref": "/players/w/willire02.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -794.4000000000001,
+            "vorp": 1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -794.4000000000001,
+        "vorp": 1
+      },
+      "runningValues": {
+        "bpm": 218354.80000000002,
+        "vorp": 72.59999999999998
+      }
+    },
+    {
+      "id": "rileyla99x-10",
+      "sourceId": 10,
+      "date": "2010-06-21",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Jerome Jordan; Sent out Armon Johnson",
+      "participants": [
+        {
+          "name": "Armon Johnson",
+          "playerHref": "/players/j/johnsar02.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 1388.6999999999998,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jerome Jordan",
+          "playerHref": "/players/j/jordaje01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1388.6999999999998,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 219743.50000000003,
+        "vorp": 72.79999999999998
+      }
+    },
+    {
+      "id": "rileyla99x-11",
+      "sourceId": 11,
+      "date": "2010-06-22",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Charlie Bell and Dan Gadzuric; Sent out Corey Maggette and Jerome Jordan",
+      "participants": [
+        {
+          "name": "Corey Maggette",
+          "playerHref": "/players/m/maggeco01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 1120.8,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jerome Jordan",
+          "playerHref": "/players/j/jordaje01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Charlie Bell",
+          "playerHref": "/players/b/bellch01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -855,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dan Gadzuric",
+          "playerHref": "/players/g/gadzuda01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1989.9,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1724.1000000000001,
+        "vorp": -0.9
+      },
+      "runningValues": {
+        "bpm": 218019.40000000002,
+        "vorp": 71.89999999999998
+      }
+    },
+    {
+      "id": "rileyla99x-12",
+      "sourceId": 12,
+      "date": "2010-06-24",
+      "type": "draft",
+      "tenureTeam": "GSW",
+      "summary": "Drafted Ekpe Udoh",
+      "participants": [
+        {
+          "name": "Ekpe Udoh",
+          "playerHref": "/players/u/udohek01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -5568,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5568,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": 212451.40000000002,
+        "vorp": 71.39999999999998
+      }
+    },
+    {
+      "id": "rileyla99x-13",
+      "sourceId": 13,
+      "date": "2010-07-09",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added David Lee; Sent out Kelenna Azubuike, Anthony Randolph, Ronny Turiaf, Quincy Miller, and Romero Osby",
+      "participants": [
+        {
+          "name": "Kelenna Azubuike",
+          "playerHref": "/players/a/azubuke01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Anthony Randolph",
+          "playerHref": "/players/r/randoan01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 825.5,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ronny Turiaf",
+          "playerHref": "/players/t/turiaro01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -1597.3999999999999,
+            "vorp": -1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Quincy Miller",
+          "playerHref": "/players/m/millequ01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Romero Osby",
+          "playerHref": "/players/o/osbyro01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "David Lee",
+          "playerHref": "/players/l/leeda02.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 7330.700000000001,
+            "vorp": 7.3999999999999995
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 6558.800000000001,
+        "vorp": 6.499999999999999
+      },
+      "runningValues": {
+        "bpm": 219010.20000000004,
+        "vorp": 77.89999999999998
+      }
+    },
+    {
+      "id": "rileyla99x-14",
+      "sourceId": 14,
+      "date": "2010-07-12",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Dorell Wright",
+      "participants": [
+        {
+          "name": "Dorell Wright",
+          "playerHref": "/players/w/wrighdo01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 4002.6000000000004,
+            "vorp": 3.4000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4002.6000000000004,
+        "vorp": 3.4000000000000004
+      },
+      "runningValues": {
+        "bpm": 223012.80000000005,
+        "vorp": 81.29999999999998
+      }
+    },
+    {
+      "id": "rileyla99x-15",
+      "sourceId": 15,
+      "date": "2010-07-13",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Sent out Anthony Morrow",
+      "participants": [
+        {
+          "name": "Anthony Morrow",
+          "playerHref": "/players/m/morroan01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 4964.4,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4964.4,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": 227977.20000000004,
+        "vorp": 80.79999999999998
+      }
+    },
+    {
+      "id": "rileyla99x-16",
+      "sourceId": 16,
+      "date": "2010-07-21",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Jeremy Lin",
+      "participants": [
+        {
+          "name": "Jeremy Lin",
+          "playerHref": "/players/l/linje01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 627,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 627,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": 228604.20000000004,
+        "vorp": 81.09999999999998
+      }
+    },
+    {
+      "id": "rileyla99x-17",
+      "sourceId": 17,
+      "date": "2010-07-22",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Charles Jenkins; Sent out C.J. Watson",
+      "participants": [
+        {
+          "name": "C.J. Watson",
+          "playerHref": "/players/w/watsocj01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 675,
+            "vorp": -1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Charles Jenkins",
+          "playerHref": "/players/j/jenkich01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 675,
+        "vorp": -1
+      },
+      "runningValues": {
+        "bpm": 229279.20000000004,
+        "vorp": 80.09999999999998
+      }
+    },
+    {
+      "id": "rileyla99x-18",
+      "sourceId": 18,
+      "date": "2010-09-08",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Rodney Carney",
+      "participants": [
+        {
+          "name": "Rodney Carney",
+          "playerHref": "/players/c/carnero01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -926.8,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -926.8,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 228352.40000000005,
+        "vorp": 79.99999999999999
+      }
+    },
+    {
+      "id": "rileyla99x-19",
+      "sourceId": 19,
+      "date": "2010-09-13",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Lou Amundson",
+      "participants": [
+        {
+          "name": "Lou Amundson",
+          "playerHref": "/players/a/amundlo01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -3109.5,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3109.5,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": 225242.90000000005,
+        "vorp": 79.59999999999998
+      }
+    },
+    {
+      "id": "rileyla99x-20",
+      "sourceId": 20,
+      "date": "2010-12-09",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Acie Law",
+      "participants": [
+        {
+          "name": "Acie Law",
+          "playerHref": "/players/l/lawac01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -2022.4,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2022.4,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 223220.50000000006,
+        "vorp": 79.39999999999998
+      }
+    },
+    {
+      "id": "rileyla99x-21",
+      "sourceId": 21,
+      "date": "2011-02-23",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Troy Murphy and Draymond Green; Sent out Dan Gadzuric and Brandan Wright",
+      "participants": [
+        {
+          "name": "Dan Gadzuric",
+          "playerHref": "/players/g/gadzuda01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 1211.8,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Brandan Wright",
+          "playerHref": "/players/w/wrighbr03.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 239.20000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Troy Murphy",
+          "playerHref": "/players/m/murphtr01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Draymond Green",
+          "playerHref": "/players/g/greendr01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 56490.4,
+            "vorp": 28.100000000000005
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 57941.4,
+        "vorp": 28.300000000000004
+      },
+      "runningValues": {
+        "bpm": 281161.9000000001,
+        "vorp": 107.69999999999999
+      }
+    },
+    {
+      "id": "rileyla99x-22",
+      "sourceId": 22,
+      "date": "2011-02-25",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Jeff Adrien",
+      "participants": [
+        {
+          "name": "Jeff Adrien",
+          "playerHref": "/players/a/adrieje01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1038.8,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1038.8,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 280123.1000000001,
+        "vorp": 107.49999999999999
+      }
+    },
+    {
+      "id": "rileyla99x-23",
+      "sourceId": 23,
+      "date": "2011-03-03",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Al Thornton",
+      "participants": [
+        {
+          "name": "Al Thornton",
+          "playerHref": "/players/t/thornal01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1695.6000000000001,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1695.6000000000001,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": 278427.5000000001,
+        "vorp": 107.19999999999999
+      }
+    },
+    {
+      "id": "rileyla99x-25",
+      "sourceId": 25,
+      "date": "2011-06-23",
+      "type": "draft",
+      "tenureTeam": "GSW",
+      "summary": "Drafted Klay Thompson and Charles Jenkins",
+      "participants": [
+        {
+          "name": "Klay Thompson",
+          "playerHref": "/players/t/thompkl01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 14787.399999999996,
+            "vorp": 16.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Charles Jenkins",
+          "playerHref": "/players/j/jenkich01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -5322,
+            "vorp": -0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 9465.399999999996,
+        "vorp": 15.899999999999999
+      },
+      "runningValues": {
+        "bpm": 287892.90000000014,
+        "vorp": 123.1
+      }
+    },
+    {
+      "id": "rileyla99x-26",
+      "sourceId": 26,
+      "date": "2011-06-23",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Jeremy Tyler",
+      "participants": [
+        {
+          "name": "Jeremy Tyler",
+          "playerHref": "/players/t/tylerje01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -5016.299999999999,
+            "vorp": -0.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5016.299999999999,
+        "vorp": -0.9
+      },
+      "runningValues": {
+        "bpm": 282876.60000000015,
+        "vorp": 122.19999999999999
+      }
+    },
+    {
+      "id": "rileyla99x-27",
+      "sourceId": 27,
+      "date": "2011-12-10",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Chris Wright",
+      "participants": [
+        {
+          "name": "Chris Wright",
+          "playerHref": "/players/w/wrighch01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 282876.60000000015,
+        "vorp": 122.29999999999998
+      }
+    },
+    {
+      "id": "rileyla99x-28",
+      "sourceId": 28,
+      "date": "2011-12-13",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Tommy Smith",
+      "participants": [
+        {
+          "name": "Tommy Smith",
+          "playerHref": "/players/s/smithto03.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 282876.60000000015,
+        "vorp": 122.29999999999998
+      }
+    },
+    {
+      "id": "rileyla99x-29",
+      "sourceId": 29,
+      "date": "2011-12-14",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Kwame Brown",
+      "participants": [
+        {
+          "name": "Kwame Brown",
+          "playerHref": "/players/b/brownkw01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -673.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -673.2,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 282203.40000000014,
+        "vorp": 122.19999999999999
+      }
+    },
+    {
+      "id": "rileyla99x-30",
+      "sourceId": 30,
+      "date": "2011-12-15",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Dominic McGuire",
+      "participants": [
+        {
+          "name": "Dominic McGuire",
+          "playerHref": "/players/m/mcguido01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -901.6,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -901.6,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": 281301.80000000016,
+        "vorp": 122.49999999999999
+      }
+    },
+    {
+      "id": "rileyla99x-31",
+      "sourceId": 31,
+      "date": "2011-12-16",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Ish Smith",
+      "participants": [
+        {
+          "name": "Ish Smith",
+          "playerHref": "/players/s/smithis01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 195.3,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 195.3,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 281497.10000000015,
+        "vorp": 122.59999999999998
+      }
+    },
+    {
+      "id": "rileyla99x-32",
+      "sourceId": 32,
+      "date": "2011-12-19",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Brandon Rush; Sent out Lou Amundson and Luka Mitrović",
+      "participants": [
+        {
+          "name": "Lou Amundson",
+          "playerHref": "/players/a/amundlo01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 2936.7,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Luka Mitrović",
+          "playerHref": "/players/m/mitrolu01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Brandon Rush",
+          "playerHref": "/players/r/rushbr01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 71.60000000000014,
+            "vorp": 1.5000000000000002
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3008.3,
+        "vorp": 1.9000000000000004
+      },
+      "runningValues": {
+        "bpm": 284505.40000000014,
+        "vorp": 124.49999999999999
+      }
+    },
+    {
+      "id": "rileyla99x-33",
+      "sourceId": 33,
+      "date": "2012-01-04",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Nate Robinson",
+      "participants": [
+        {
+          "name": "Nate Robinson",
+          "playerHref": "/players/r/robinna01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 476.8,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 476.8,
+        "vorp": 0.7
+      },
+      "runningValues": {
+        "bpm": 284982.2000000001,
+        "vorp": 125.19999999999999
+      }
+    },
+    {
+      "id": "rileyla99x-34",
+      "sourceId": 34,
+      "date": "2012-01-14",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Earl Barron",
+      "participants": [
+        {
+          "name": "Earl Barron",
+          "playerHref": "/players/b/barroea01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -146.70000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -146.70000000000002,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 284835.5000000001,
+        "vorp": 125.19999999999999
+      }
+    },
+    {
+      "id": "rileyla99x-35",
+      "sourceId": 35,
+      "date": "2012-03-13",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Andrew Bogut and Stephen Jackson; Sent out Kwame Brown, Monta Ellis, and Ekpe Udoh",
+      "participants": [
+        {
+          "name": "Kwame Brown",
+          "playerHref": "/players/b/brownkw01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Monta Ellis",
+          "playerHref": "/players/e/ellismo01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -486.5999999999999,
+            "vorp": -2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ekpe Udoh",
+          "playerHref": "/players/u/udohek01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 6236.200000000001,
+            "vorp": 0.29999999999999993
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Andrew Bogut",
+          "playerHref": "/players/b/bogutan01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 13300.399999999998,
+            "vorp": 6.300000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Stephen Jackson",
+          "playerHref": "/players/j/jacksst02.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 19050,
+        "vorp": 4.6000000000000005
+      },
+      "runningValues": {
+        "bpm": 303885.5000000002,
+        "vorp": 129.79999999999998
+      }
+    },
+    {
+      "id": "rileyla99x-36",
+      "sourceId": 36,
+      "date": "2012-03-15",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Ognjen Kuzmić",
+      "participants": [
+        {
+          "name": "Ognjen Kuzmić",
+          "playerHref": "/players/k/kuzmiog01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -910.4,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -910.4,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 302975.10000000015,
+        "vorp": 129.6
+      }
+    },
+    {
+      "id": "rileyla99x-37",
+      "sourceId": 37,
+      "date": "2012-03-15",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added T.J. Ford, Richard Jefferson, and Festus Ezeli; Sent out Stephen Jackson",
+      "participants": [
+        {
+          "name": "Stephen Jackson",
+          "playerHref": "/players/j/jacksst02.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 3812.5,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "T.J. Ford",
+          "playerHref": "/players/f/fordtj01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Richard Jefferson",
+          "playerHref": "/players/j/jefferi01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1898.4,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Festus Ezeli",
+          "playerHref": "/players/e/ezelife01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -4680.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2766.1,
+        "vorp": 0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": 300209.0000000001,
+        "vorp": 129.89999999999998
+      }
+    },
+    {
+      "id": "rileyla99x-38",
+      "sourceId": 38,
+      "date": "2012-03-22",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Mickell Gladness",
+      "participants": [
+        {
+          "name": "Mickell Gladness",
+          "playerHref": "/players/g/gladnmi01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1008,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1008,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 299201.0000000001,
+        "vorp": 129.79999999999998
+      }
+    },
+    {
+      "id": "rileyla99x-39",
+      "sourceId": 39,
+      "date": "2012-03-24",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Keith Benson",
+      "participants": [
+        {
+          "name": "Keith Benson",
+          "playerHref": "/players/b/bensoke02.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -69.3,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -69.3,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 299131.7000000001,
+        "vorp": 129.79999999999998
+      }
+    },
+    {
+      "id": "rileyla99x-40",
+      "sourceId": 40,
+      "date": "2012-04-16",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Mikki Moore",
+      "participants": [
+        {
+          "name": "Mikki Moore",
+          "playerHref": "/players/m/mooremi01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -814.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -814.2,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 298317.5000000001,
+        "vorp": 129.7
+      }
+    }
+  ]
+}

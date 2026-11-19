@@ -1,0 +1,1466 @@
+{
+  "slug": "boothca01x",
+  "sourceRowCount": 66,
+  "tenures": [
+    {
+      "teamCode": "DEN",
+      "startDate": "2022-06-23",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "boothca01x-0",
+      "sourceId": 0,
+      "date": "2022-06-23",
+      "type": "draft",
+      "tenureTeam": "DEN",
+      "summary": "Drafted Christian Braun",
+      "participants": [
+        {
+          "name": "Christian Braun",
+          "playerHref": "/players/b/braunch01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "boothca01x-1",
+      "sourceId": 1,
+      "date": "2022-06-23",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Peyton Watson, Maxwell Lewis, and Tyler Kolek; Sent out JaMychal Green and future ('2027', '1st') round pick",
+      "participants": [
+        {
+          "name": "JaMychal Green",
+          "playerHref": "/players/g/greenja01.html",
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Peyton Watson",
+          "playerHref": "/players/w/watsope01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Maxwell Lewis",
+          "playerHref": "/players/l/lewisma05.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tyler Kolek",
+          "playerHref": "/players/k/kolekty01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "boothca01x-2",
+      "sourceId": 2,
+      "date": "2022-07-03",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Rookie contract for Christian Braun",
+      "participants": [
+        {
+          "name": "Christian Braun",
+          "playerHref": "/players/b/braunch01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -7013.7,
+            "vorp": 2
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -7013.7,
+        "vorp": 2
+      },
+      "runningValues": {
+        "bpm": -7013.7,
+        "vorp": 2
+      }
+    },
+    {
+      "id": "boothca01x-3",
+      "sourceId": 3,
+      "date": "2022-07-03",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Peyton Watson",
+      "participants": [
+        {
+          "name": "Peyton Watson",
+          "playerHref": "/players/w/watsope01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -8674.2,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -8674.2,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": -15687.900000000001,
+        "vorp": 2.3
+      }
+    },
+    {
+      "id": "boothca01x-4",
+      "sourceId": 4,
+      "date": "2022-07-03",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Collin Gillespie",
+      "participants": [
+        {
+          "name": "Collin Gillespie",
+          "playerHref": "/players/g/gilleco01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -15687.900000000001,
+        "vorp": 2.3
+      }
+    },
+    {
+      "id": "boothca01x-5",
+      "sourceId": 5,
+      "date": "2022-07-06",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Kentavious Caldwell-Pope and Ish Smith; Sent out Will Barton and Monte Morris",
+      "participants": [
+        {
+          "name": "Will Barton",
+          "playerHref": "/players/b/bartowi01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 2111.4,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Monte Morris",
+          "playerHref": "/players/m/morrimo01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -847.5,
+            "vorp": -1.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kentavious Caldwell-Pope",
+          "playerHref": "/players/c/caldwke01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -5743.799999999999,
+            "vorp": 1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ish Smith",
+          "playerHref": "/players/s/smithis01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -2626.7999999999997,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -7106.699999999999,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -22794.600000000002,
+        "vorp": 1.7999999999999998
+      }
+    },
+    {
+      "id": "boothca01x-6",
+      "sourceId": 6,
+      "date": "2022-07-06",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Ismael Kamagate; Sent out Tyler Kolek",
+      "participants": [
+        {
+          "name": "Tyler Kolek",
+          "playerHref": "/players/k/kolekty01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ismael Kamagate",
+          "playerHref": "/players/k/kamagis01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -22794.600000000002,
+        "vorp": 1.7999999999999998
+      }
+    },
+    {
+      "id": "boothca01x-7",
+      "sourceId": 7,
+      "date": "2022-07-07",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Vlatko Čančar",
+      "participants": [
+        {
+          "name": "Vlatko Čančar",
+          "playerHref": "/players/c/cancavl01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1600.2000000000003,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1600.2000000000003,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -24394.800000000003,
+        "vorp": 1.7999999999999998
+      }
+    },
+    {
+      "id": "boothca01x-8",
+      "sourceId": 8,
+      "date": "2022-07-07",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Bruce Brown",
+      "participants": [
+        {
+          "name": "Bruce Brown",
+          "playerHref": "/players/b/brownbr01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -5935.2,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5935.2,
+        "vorp": 0.7
+      },
+      "runningValues": {
+        "bpm": -30330.000000000004,
+        "vorp": 2.5
+      }
+    },
+    {
+      "id": "boothca01x-9",
+      "sourceId": 9,
+      "date": "2022-07-09",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Davon Reed",
+      "participants": [
+        {
+          "name": "Davon Reed",
+          "playerHref": "/players/r/reedda01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1921.5,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1921.5,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -32251.500000000004,
+        "vorp": 2.2
+      }
+    },
+    {
+      "id": "boothca01x-10",
+      "sourceId": 10,
+      "date": "2022-07-11",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed DeAndre Jordan",
+      "participants": [
+        {
+          "name": "DeAndre Jordan",
+          "playerHref": "/players/j/jordade01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1054.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1054.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -33306.3,
+        "vorp": 2.2
+      }
+    },
+    {
+      "id": "boothca01x-11",
+      "sourceId": 11,
+      "date": "2022-07-19",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Jack White",
+      "participants": [
+        {
+          "name": "Jack White",
+          "playerHref": "/players/w/whiteja03.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -125.39999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -125.39999999999999,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -33431.700000000004,
+        "vorp": 2.2
+      }
+    },
+    {
+      "id": "boothca01x-12",
+      "sourceId": 12,
+      "date": "2022-08-25",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Justin Tillman",
+      "participants": [
+        {
+          "name": "Justin Tillman",
+          "playerHref": "/players/t/tillmju01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -33431.700000000004,
+        "vorp": 2.2
+      }
+    },
+    {
+      "id": "boothca01x-13",
+      "sourceId": 13,
+      "date": "2022-09-26",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Grant Golden",
+      "participants": [
+        {
+          "name": "Grant Golden",
+          "playerHref": "/players/g/goldegr01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -33431.700000000004,
+        "vorp": 2.2
+      }
+    },
+    {
+      "id": "boothca01x-14",
+      "sourceId": 14,
+      "date": "2022-10-10",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Chasson Randle",
+      "participants": [
+        {
+          "name": "Chasson Randle",
+          "playerHref": "/players/r/randlch01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -33431.700000000004,
+        "vorp": 2.2
+      }
+    },
+    {
+      "id": "boothca01x-15",
+      "sourceId": 15,
+      "date": "2022-10-10",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Grant Golden",
+      "participants": [
+        {
+          "name": "Grant Golden",
+          "playerHref": "/players/g/goldegr01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -33431.700000000004,
+        "vorp": 2.2
+      }
+    },
+    {
+      "id": "boothca01x-16",
+      "sourceId": 16,
+      "date": "2023-02-09",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Thomas Bryant; Sent out Davon Reed and Bones Hyland",
+      "participants": [
+        {
+          "name": "Davon Reed",
+          "playerHref": "/players/r/reedda01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": -113.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bones Hyland",
+          "playerHref": "/players/h/hylanbo01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 1520.8,
+            "vorp": -0.19999999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Thomas Bryant",
+          "playerHref": "/players/b/bryanth01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1353,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 54.399999999999864,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -33377.3,
+        "vorp": 1.8
+      }
+    },
+    {
+      "id": "boothca01x-17",
+      "sourceId": 17,
+      "date": "2023-02-14",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Reggie Jackson",
+      "participants": [
+        {
+          "name": "Reggie Jackson",
+          "playerHref": "/players/j/jacksre01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1626.8999999999996,
+            "vorp": -0.29999999999999993
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1626.8999999999996,
+        "vorp": -0.29999999999999993
+      },
+      "runningValues": {
+        "bpm": -35004.200000000004,
+        "vorp": 1.5
+      }
+    },
+    {
+      "id": "boothca01x-18",
+      "sourceId": 18,
+      "date": "2023-06-22",
+      "type": "draft",
+      "tenureTeam": "DEN",
+      "summary": "Drafted Maxwell Lewis",
+      "participants": [
+        {
+          "name": "Maxwell Lewis",
+          "playerHref": "/players/l/lewisma05.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -35004.200000000004,
+        "vorp": 1.5
+      }
+    },
+    {
+      "id": "boothca01x-19",
+      "sourceId": 19,
+      "date": "2023-06-23",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Jalen Pickett, Julian Strawther, Hunter Tyson, and Kevin McCullar Jr.; Sent out future ('2029', '1st') round pick and Maxwell Lewis",
+      "participants": [
+        {
+          "name": "future ('2029', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Maxwell Lewis",
+          "playerHref": "/players/l/lewisma05.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 1652.8000000000002,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jalen Pickett",
+          "playerHref": "/players/p/pickeja02.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Julian Strawther",
+          "playerHref": "/players/s/strawju01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Hunter Tyson",
+          "playerHref": "/players/t/tysonhu01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kevin McCullar Jr.",
+          "playerHref": "/players/m/mcculke01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1652.8000000000002,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": -33351.4,
+        "vorp": 1.9
+      }
+    },
+    {
+      "id": "boothca01x-20",
+      "sourceId": 20,
+      "date": "2023-07-06",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Hunter Tyson",
+      "participants": [
+        {
+          "name": "Hunter Tyson",
+          "playerHref": "/players/t/tysonhu01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -3444,
+            "vorp": -0.6000000000000001
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3444,
+        "vorp": -0.6000000000000001
+      },
+      "runningValues": {
+        "bpm": -36795.4,
+        "vorp": 1.2999999999999998
+      }
+    },
+    {
+      "id": "boothca01x-21",
+      "sourceId": 21,
+      "date": "2023-07-06",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Julian Strawther",
+      "participants": [
+        {
+          "name": "Julian Strawther",
+          "playerHref": "/players/s/strawju01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -11478.3,
+            "vorp": -1.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -11478.3,
+        "vorp": -1.6
+      },
+      "runningValues": {
+        "bpm": -48273.7,
+        "vorp": -0.30000000000000027
+      }
+    },
+    {
+      "id": "boothca01x-22",
+      "sourceId": 22,
+      "date": "2023-07-06",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Jalen Pickett",
+      "participants": [
+        {
+          "name": "Jalen Pickett",
+          "playerHref": "/players/p/pickeja02.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -3245.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3245.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -51519.2,
+        "vorp": -0.30000000000000027
+      }
+    },
+    {
+      "id": "boothca01x-23",
+      "sourceId": 23,
+      "date": "2023-07-06",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Justin Holiday",
+      "participants": [
+        {
+          "name": "Justin Holiday",
+          "playerHref": "/players/h/holidju01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1379.2,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1379.2,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -52898.399999999994,
+        "vorp": -0.20000000000000026
+      }
+    },
+    {
+      "id": "boothca01x-24",
+      "sourceId": 24,
+      "date": "2023-07-16",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Reggie Jackson",
+      "participants": [
+        {
+          "name": "Reggie Jackson",
+          "playerHref": "/players/j/jacksre01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -5814.400000000001,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5814.400000000001,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": -58712.799999999996,
+        "vorp": -0.8000000000000003
+      }
+    },
+    {
+      "id": "boothca01x-25",
+      "sourceId": 25,
+      "date": "2023-07-17",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Collin Gillespie",
+      "participants": [
+        {
+          "name": "Collin Gillespie",
+          "playerHref": "/players/g/gilleco01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -607.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -607.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -59320.299999999996,
+        "vorp": -0.8000000000000003
+      }
+    },
+    {
+      "id": "boothca01x-26",
+      "sourceId": 26,
+      "date": "2023-07-18",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Braxton Key",
+      "participants": [
+        {
+          "name": "Braxton Key",
+          "playerHref": "/players/k/keybr01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 126,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 126,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -59194.299999999996,
+        "vorp": -0.7000000000000003
+      }
+    },
+    {
+      "id": "boothca01x-27",
+      "sourceId": 27,
+      "date": "2023-07-18",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed James Huff",
+      "participants": [
+        {
+          "name": "James Huff",
+          "playerHref": "/players/h/huffja01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 63.7,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 63.7,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -59130.6,
+        "vorp": -0.7000000000000003
+      }
+    },
+    {
+      "id": "boothca01x-28",
+      "sourceId": 28,
+      "date": "2023-07-20",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed DeAndre Jordan",
+      "participants": [
+        {
+          "name": "DeAndre Jordan",
+          "playerHref": "/players/j/jordade01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -673.1999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -673.1999999999999,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -59803.799999999996,
+        "vorp": -0.7000000000000003
+      }
+    },
+    {
+      "id": "boothca01x-29",
+      "sourceId": 29,
+      "date": "2024-02-08",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Sent out Ismael Kamagate",
+      "participants": [
+        {
+          "name": "Ismael Kamagate",
+          "playerHref": "/players/k/kamagis01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -59803.799999999996,
+        "vorp": -0.7000000000000003
+      }
+    },
+    {
+      "id": "boothca01x-30",
+      "sourceId": 30,
+      "date": "2024-06-26",
+      "type": "draft",
+      "tenureTeam": "DEN",
+      "summary": "Drafted Ryan Dunn",
+      "participants": [
+        {
+          "name": "Ryan Dunn",
+          "playerHref": "/players/d/dunnry01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -59803.799999999996,
+        "vorp": -0.7000000000000003
+      }
+    },
+    {
+      "id": "boothca01x-31",
+      "sourceId": 31,
+      "date": "2024-06-26",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added DaRon Holmes; Sent out Ryan Dunn, Kevin McCullar Jr., Vsevolod Ishchenko, future ('2026', '2nd') round pick, and future ('2031', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Ryan Dunn",
+          "playerHref": "/players/d/dunnry01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 6867.299999999999,
+            "vorp": 0.19999999999999993
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kevin McCullar Jr.",
+          "playerHref": "/players/m/mcculke01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Vsevolod Ishchenko",
+          "playerHref": "/players/i/ishchvs01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "DaRon Holmes",
+          "playerHref": "/players/h/holmeda01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2031', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 6867.299999999999,
+        "vorp": 0.19999999999999993
+      },
+      "runningValues": {
+        "bpm": -52936.5,
+        "vorp": -0.5000000000000003
+      }
+    },
+    {
+      "id": "boothca01x-32",
+      "sourceId": 32,
+      "date": "2024-07-03",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Trey Alexander",
+      "participants": [
+        {
+          "name": "Trey Alexander",
+          "playerHref": "/players/a/alexatr01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1134.8999999999999,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1134.8999999999999,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -54071.4,
+        "vorp": -0.7000000000000004
+      }
+    },
+    {
+      "id": "boothca01x-33",
+      "sourceId": 33,
+      "date": "2024-07-06",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Sent out Alex Toohey, future ('2025', '2nd') round pick, Reggie Jackson, future ('2029', '2nd') round pick, and future ('2030', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Alex Toohey",
+          "playerHref": "/players/t/tooheal01.html",
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Reggie Jackson",
+          "playerHref": "/players/j/jacksre01.html",
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2029', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2030', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -54071.4,
+        "vorp": -0.7000000000000004
+      }
+    },
+    {
+      "id": "boothca01x-34",
+      "sourceId": 34,
+      "date": "2024-07-06",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Vlatko Cancar",
+      "participants": [
+        {
+          "name": "Vlatko Cancar",
+          "playerHref": "/players/c/cancavl01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -965.5999999999999,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -965.5999999999999,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -55037,
+        "vorp": -0.9000000000000004
+      }
+    },
+    {
+      "id": "boothca01x-35",
+      "sourceId": 35,
+      "date": "2024-07-09",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed DeRon Holmes",
+      "participants": [
+        {
+          "name": "DeRon Holmes",
+          "playerHref": "/players/h/holmeda01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -60,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -60,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -55097,
+        "vorp": -0.8000000000000004
+      }
+    },
+    {
+      "id": "boothca01x-36",
+      "sourceId": 36,
+      "date": "2024-07-10",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed P.J. Hall",
+      "participants": [
+        {
+          "name": "P.J. Hall",
+          "playerHref": "/players/h/hallpj01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -85.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -85.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -55182.8,
+        "vorp": -0.8000000000000004
+      }
+    },
+    {
+      "id": "boothca01x-37",
+      "sourceId": 37,
+      "date": "2024-07-12",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Dario Saric",
+      "participants": [
+        {
+          "name": "Dario Saric",
+          "playerHref": "/players/s/saricda01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1008,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1008,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -56190.8,
+        "vorp": -0.9000000000000004
+      }
+    },
+    {
+      "id": "boothca01x-38",
+      "sourceId": 38,
+      "date": "2024-07-24",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed DeAndre Jordan",
+      "participants": [
+        {
+          "name": "DeAndre Jordan",
+          "playerHref": "/players/j/jordade01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -829.1999999999999,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -829.1999999999999,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -57020,
+        "vorp": -0.7000000000000004
+      }
+    },
+    {
+      "id": "boothca01x-39",
+      "sourceId": 39,
+      "date": "2024-07-26",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Russell Westbrook",
+      "participants": [
+        {
+          "name": "Russell Westbrook",
+          "playerHref": "/players/w/westbru01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -2301.2000000000003,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2301.2000000000003,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": -59321.2,
+        "vorp": -0.2000000000000004
+      }
+    },
+    {
+      "id": "boothca01x-40",
+      "sourceId": 40,
+      "date": "2024-07-30",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Spencer Jones",
+      "participants": [
+        {
+          "name": "Spencer Jones",
+          "playerHref": "/players/j/jonessp01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -4641.299999999999,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4641.299999999999,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -63962.5,
+        "vorp": -0.5000000000000004
+      }
+    }
+  ]
+}

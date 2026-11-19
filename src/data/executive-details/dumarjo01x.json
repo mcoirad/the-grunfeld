@@ -1,0 +1,5216 @@
+{
+  "slug": "dumarjo01x",
+  "sourceRowCount": 252,
+  "tenures": [
+    {
+      "teamCode": "DET",
+      "startDate": "2000-06-28",
+      "endDate": "2025-06-17"
+    },
+    {
+      "teamCode": "NOP",
+      "startDate": "2025-06-17",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "dumarjo01x-0",
+      "sourceId": 0,
+      "date": "2000-06-28",
+      "type": "draft",
+      "tenureTeam": "DET",
+      "summary": "Drafted Mateen Cleaves and Brian Cardinal",
+      "participants": [
+        {
+          "name": "Mateen Cleaves",
+          "playerHref": "/players/c/cleavma01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -6593.6,
+            "vorp": -1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Brian Cardinal",
+          "playerHref": "/players/c/cardibr01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -699.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -7293.1,
+        "vorp": -1.1
+      },
+      "runningValues": {
+        "bpm": -7293.1,
+        "vorp": -1.1
+      }
+    },
+    {
+      "id": "dumarjo01x-1",
+      "sourceId": 1,
+      "date": "2000-08-03",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Chucky Atkins and Ben Wallace; Sent out Grant Hill",
+      "participants": [
+        {
+          "name": "Grant Hill",
+          "playerHref": "/players/h/hillgr01.html",
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -12639.4,
+            "vorp": -6.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chucky Atkins",
+          "playerHref": "/players/a/atkinch01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -10295.1,
+            "vorp": 1.2000000000000002
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ben Wallace",
+          "playerHref": "/players/w/wallabe01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 57569.899999999994,
+            "vorp": 23.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 34635.399999999994,
+        "vorp": 18.1
+      },
+      "runningValues": {
+        "bpm": 27342.299999999996,
+        "vorp": 17
+      }
+    },
+    {
+      "id": "dumarjo01x-2",
+      "sourceId": 2,
+      "date": "2000-08-11",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Torraye Braggs",
+      "participants": [
+        {
+          "name": "Torraye Braggs",
+          "playerHref": "/players/b/braggto01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 27342.299999999996,
+        "vorp": 17
+      }
+    },
+    {
+      "id": "dumarjo01x-3",
+      "sourceId": 3,
+      "date": "2000-08-22",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Billy Owens; Sent out Lindsey Hunter",
+      "participants": [
+        {
+          "name": "Lindsey Hunter",
+          "playerHref": "/players/h/hunteli01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -2402.4,
+            "vorp": -1.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Billy Owens",
+          "playerHref": "/players/o/owensbi01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1427.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3829.8,
+        "vorp": -1.6
+      },
+      "runningValues": {
+        "bpm": 23512.499999999993,
+        "vorp": 15.4
+      }
+    },
+    {
+      "id": "dumarjo01x-4",
+      "sourceId": 4,
+      "date": "2000-08-29",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Cedric Ceballos, Eric Murdock, and John Wallace; Sent out Christian Laettner and Terry Mills",
+      "participants": [
+        {
+          "name": "Christian Laettner",
+          "playerHref": "/players/l/laettch01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -744,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Terry Mills",
+          "playerHref": "/players/m/millste01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cedric Ceballos",
+          "playerHref": "/players/c/cebalce01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -66.4,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eric Murdock",
+          "playerHref": "/players/m/murdoer01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Wallace",
+          "playerHref": "/players/w/wallajo01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1897.2,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2707.6,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": 20804.89999999999,
+        "vorp": 14.700000000000001
+      }
+    },
+    {
+      "id": "dumarjo01x-5",
+      "sourceId": 5,
+      "date": "2000-10-02",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed David Vanterpool",
+      "participants": [
+        {
+          "name": "David Vanterpool",
+          "playerHref": "/players/v/vanteda01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 20804.89999999999,
+        "vorp": 14.700000000000001
+      }
+    },
+    {
+      "id": "dumarjo01x-6",
+      "sourceId": 6,
+      "date": "2000-10-17",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Dana Barros and Ansu Sesay; Sent out Loy Vaught",
+      "participants": [
+        {
+          "name": "Loy Vaught",
+          "playerHref": "/players/v/vaughlo01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 862.4000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dana Barros",
+          "playerHref": "/players/b/barroda01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1836.9,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ansu Sesay",
+          "playerHref": "/players/s/sesayan01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -974.5,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": 19830.39999999999,
+        "vorp": 15.100000000000001
+      }
+    },
+    {
+      "id": "dumarjo01x-7",
+      "sourceId": 7,
+      "date": "2000-11-20",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Joe Smith",
+      "participants": [
+        {
+          "name": "Joe Smith",
+          "playerHref": "/players/s/smithjo02.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -3493.8,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3493.8,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 16336.599999999991,
+        "vorp": 15.200000000000001
+      }
+    },
+    {
+      "id": "dumarjo01x-8",
+      "sourceId": 8,
+      "date": "2000-11-26",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Tito Maddox; Sent out Cedric Ceballos, Rasual Butler, and Tommy Smith",
+      "participants": [
+        {
+          "name": "Cedric Ceballos",
+          "playerHref": "/players/c/cebalce01.html",
+          "direction": "out",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": 196.5,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rasual Butler",
+          "playerHref": "/players/b/butlera01.html",
+          "direction": "out",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": 5370.6,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tommy Smith",
+          "playerHref": "/players/s/smithto03.html",
+          "direction": "out",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tito Maddox",
+          "playerHref": "/players/m/maddoti01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5567.1,
+        "vorp": -0.6000000000000001
+      },
+      "runningValues": {
+        "bpm": 21903.69999999999,
+        "vorp": 14.600000000000001
+      }
+    },
+    {
+      "id": "dumarjo01x-9",
+      "sourceId": 9,
+      "date": "2001-02-22",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Tyrone Corbin, Kornél Dávid, Corliss Williamson, and Fran Vázquez; Sent out Eric Montross and Jerome Williams",
+      "participants": [
+        {
+          "name": "Eric Montross",
+          "playerHref": "/players/m/montrer01.html",
+          "direction": "out",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 4226.9,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jerome Williams",
+          "playerHref": "/players/w/willije01.html",
+          "direction": "out",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": -71.49999999999989,
+            "vorp": -2.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tyrone Corbin",
+          "playerHref": "/players/c/corbity01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kornél Dávid",
+          "playerHref": "/players/d/davidko01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -89.7,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Corliss Williamson",
+          "playerHref": "/players/w/willico02.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -5221.1,
+            "vorp": 1.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Fran Vázquez",
+          "playerHref": "/players/v/vazqufr01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1155.4000000000005,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 20748.29999999999,
+        "vorp": 14.6
+      }
+    },
+    {
+      "id": "dumarjo01x-10",
+      "sourceId": 10,
+      "date": "2001-06-02",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Sent out Fran Vázquez",
+      "participants": [
+        {
+          "name": "Fran Vázquez",
+          "playerHref": "/players/v/vazqufr01.html",
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 20748.29999999999,
+        "vorp": 14.6
+      }
+    },
+    {
+      "id": "dumarjo01x-11",
+      "sourceId": 11,
+      "date": "2001-06-27",
+      "type": "draft",
+      "tenureTeam": "DET",
+      "summary": "Drafted Rodney White and Mehmet Okur",
+      "participants": [
+        {
+          "name": "Rodney White",
+          "playerHref": "/players/w/whitero02.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -567.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mehmet Okur",
+          "playerHref": "/players/o/okurme01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 1687,
+            "vorp": 1.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1119.4,
+        "vorp": 1.7999999999999998
+      },
+      "runningValues": {
+        "bpm": 21867.69999999999,
+        "vorp": 16.4
+      }
+    },
+    {
+      "id": "dumarjo01x-12",
+      "sourceId": 12,
+      "date": "2001-07-18",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Željko Rebrača; Sent out Tito Maddox",
+      "participants": [
+        {
+          "name": "Tito Maddox",
+          "playerHref": "/players/m/maddoti01.html",
+          "direction": "out",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Željko Rebrača",
+          "playerHref": "/players/r/rebraze01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -4775.299999999999,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4775.299999999999,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": 17092.39999999999,
+        "vorp": 16.099999999999998
+      }
+    },
+    {
+      "id": "dumarjo01x-13",
+      "sourceId": 13,
+      "date": "2001-07-18",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Clifford Robinson; Sent out Jud Buechler and John Wallace",
+      "participants": [
+        {
+          "name": "Jud Buechler",
+          "playerHref": "/players/b/buechju01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 199.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Wallace",
+          "playerHref": "/players/w/wallajo01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 1274,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Clifford Robinson",
+          "playerHref": "/players/r/robincl02.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1427.5,
+            "vorp": 2.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 46.299999999999955,
+        "vorp": 2.6
+      },
+      "runningValues": {
+        "bpm": 17138.69999999999,
+        "vorp": 18.7
+      }
+    },
+    {
+      "id": "dumarjo01x-14",
+      "sourceId": 14,
+      "date": "2001-07-24",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Ratko Varda",
+      "participants": [
+        {
+          "name": "Ratko Varda",
+          "playerHref": "/players/v/vardara01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -36,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -36,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 17102.69999999999,
+        "vorp": 18.7
+      }
+    },
+    {
+      "id": "dumarjo01x-15",
+      "sourceId": 15,
+      "date": "2001-09-07",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Jon Barry and Carlos Delfino; Sent out Mateen Cleaves",
+      "participants": [
+        {
+          "name": "Mateen Cleaves",
+          "playerHref": "/players/c/cleavma01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 1992.6000000000001,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jon Barry",
+          "playerHref": "/players/b/barryjo01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 13928.1,
+            "vorp": 5.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Carlos Delfino",
+          "playerHref": "/players/d/delfica01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 15920.7,
+        "vorp": 5.7
+      },
+      "runningValues": {
+        "bpm": 33023.39999999999,
+        "vorp": 24.4
+      }
+    },
+    {
+      "id": "dumarjo01x-16",
+      "sourceId": 16,
+      "date": "2001-09-10",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Victor Alexander",
+      "participants": [
+        {
+          "name": "Victor Alexander",
+          "playerHref": "/players/a/alexavi01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -843.9,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -843.9,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 32179.499999999985,
+        "vorp": 24.2
+      }
+    },
+    {
+      "id": "dumarjo01x-17",
+      "sourceId": 17,
+      "date": "2001-10-29",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Damon Jones",
+      "participants": [
+        {
+          "name": "Damon Jones",
+          "playerHref": "/players/j/jonesda01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1732.8000000000002,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1732.8000000000002,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 30446.699999999986,
+        "vorp": 24.3
+      }
+    },
+    {
+      "id": "dumarjo01x-18",
+      "sourceId": 18,
+      "date": "2002-06-26",
+      "type": "draft",
+      "tenureTeam": "DET",
+      "summary": "Drafted Tayshaun Prince",
+      "participants": [
+        {
+          "name": "Tayshaun Prince",
+          "playerHref": "/players/p/princta01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 18649.700000000004,
+            "vorp": 18.000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 18649.700000000004,
+        "vorp": 18.000000000000004
+      },
+      "runningValues": {
+        "bpm": 49096.399999999994,
+        "vorp": 42.300000000000004
+      }
+    },
+    {
+      "id": "dumarjo01x-19",
+      "sourceId": 19,
+      "date": "2002-07-17",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Chauncey Billups",
+      "participants": [
+        {
+          "name": "Chauncey Billups",
+          "playerHref": "/players/b/billuch01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 80124.7,
+            "vorp": 28.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 80124.7,
+        "vorp": 28.5
+      },
+      "runningValues": {
+        "bpm": 129221.09999999999,
+        "vorp": 70.80000000000001
+      }
+    },
+    {
+      "id": "dumarjo01x-20",
+      "sourceId": 20,
+      "date": "2002-09-11",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Hubert Davis, Richard Hamilton, and Bobby Simmons; Sent out Brian Cardinal, Jerry Stackhouse, and Ratko Varda",
+      "participants": [
+        {
+          "name": "Brian Cardinal",
+          "playerHref": "/players/c/cardibr01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 42,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jerry Stackhouse",
+          "playerHref": "/players/s/stackje01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -707.2999999999997,
+            "vorp": -1.9999999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ratko Varda",
+          "playerHref": "/players/v/vardara01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Hubert Davis",
+          "playerHref": "/players/d/davishu01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1150.1,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Richard Hamilton",
+          "playerHref": "/players/h/hamilri01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 10982.899999999998,
+            "vorp": 13.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bobby Simmons",
+          "playerHref": "/players/s/simmobo01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 9167.499999999998,
+        "vorp": 11.4
+      },
+      "runningValues": {
+        "bpm": 138388.59999999998,
+        "vorp": 82.2
+      }
+    },
+    {
+      "id": "dumarjo01x-21",
+      "sourceId": 21,
+      "date": "2002-10-01",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Mengke Bateer, Don Reid, and Josh Smith; Sent out Rodney White",
+      "participants": [
+        {
+          "name": "Rodney White",
+          "playerHref": "/players/w/whitero02.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 5444.400000000001,
+            "vorp": -0.20000000000000007
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mengke Bateer",
+          "playerHref": "/players/b/bateeme01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Don Reid",
+          "playerHref": "/players/r/reiddo01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -272,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Josh Smith",
+          "playerHref": "/players/s/smithjo03.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -840,
+            "vorp": 1.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4332.400000000001,
+        "vorp": 1.3
+      },
+      "runningValues": {
+        "bpm": 142720.99999999997,
+        "vorp": 83.5
+      }
+    },
+    {
+      "id": "dumarjo01x-22",
+      "sourceId": 22,
+      "date": "2002-10-03",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Andreas Glyniadakis; Sent out Mengke Bateer",
+      "participants": [
+        {
+          "name": "Mengke Bateer",
+          "playerHref": "/players/b/bateeme01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 759,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Andreas Glyniadakis",
+          "playerHref": "/players/g/glynian01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 759,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 143479.99999999997,
+        "vorp": 83.7
+      }
+    },
+    {
+      "id": "dumarjo01x-23",
+      "sourceId": 23,
+      "date": "2002-10-10",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Pepe Sánchez",
+      "participants": [
+        {
+          "name": "Pepe Sánchez",
+          "playerHref": "/players/s/sanchpe01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 148,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 148,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 143627.99999999997,
+        "vorp": 83.8
+      }
+    },
+    {
+      "id": "dumarjo01x-24",
+      "sourceId": 24,
+      "date": "2003-02-05",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Danny Manning",
+      "participants": [
+        {
+          "name": "Danny Manning",
+          "playerHref": "/players/m/mannida01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 302.59999999999997,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 302.59999999999997,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 143930.59999999998,
+        "vorp": 83.89999999999999
+      }
+    },
+    {
+      "id": "dumarjo01x-25",
+      "sourceId": 25,
+      "date": "2003-06-26",
+      "type": "draft",
+      "tenureTeam": "DET",
+      "summary": "Drafted Darko Miličić, Carlos Delfino, and Andreas Glyniadakis",
+      "participants": [
+        {
+          "name": "Darko Miličić",
+          "playerHref": "/players/m/milicda01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -4065,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Carlos Delfino",
+          "playerHref": "/players/d/delfica01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -3317.5,
+            "vorp": 0.49999999999999994
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Andreas Glyniadakis",
+          "playerHref": "/players/g/glynian01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -7382.5,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 136548.09999999998,
+        "vorp": 83.69999999999999
+      }
+    },
+    {
+      "id": "dumarjo01x-26",
+      "sourceId": 26,
+      "date": "2003-07-26",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Elden Campbell",
+      "participants": [
+        {
+          "name": "Elden Campbell",
+          "playerHref": "/players/c/campbel01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -3068,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3068,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 133480.09999999998,
+        "vorp": 83.49999999999999
+      }
+    },
+    {
+      "id": "dumarjo01x-27",
+      "sourceId": 27,
+      "date": "2003-08-21",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Bob Sura; Sent out Clifford Robinson and Pepe Sánchez",
+      "participants": [
+        {
+          "name": "Clifford Robinson",
+          "playerHref": "/players/r/robincl02.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 3566.6000000000004,
+            "vorp": -1.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Pepe Sánchez",
+          "playerHref": "/players/s/sanchpe01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bob Sura",
+          "playerHref": "/players/s/surabo01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 1060.5,
+            "vorp": 0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4627.1,
+        "vorp": -0.5000000000000001
+      },
+      "runningValues": {
+        "bpm": 138107.19999999998,
+        "vorp": 82.99999999999999
+      }
+    },
+    {
+      "id": "dumarjo01x-28",
+      "sourceId": 28,
+      "date": "2003-08-28",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Lindsey Hunter; Sent out Michael Curry",
+      "participants": [
+        {
+          "name": "Michael Curry",
+          "playerHref": "/players/c/currymi01.html",
+          "direction": "out",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 7496.9,
+            "vorp": 1.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lindsey Hunter",
+          "playerHref": "/players/h/hunteli01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -2797.8,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4699.099999999999,
+        "vorp": 2.1
+      },
+      "runningValues": {
+        "bpm": 142806.3,
+        "vorp": 85.09999999999998
+      }
+    },
+    {
+      "id": "dumarjo01x-29",
+      "sourceId": 29,
+      "date": "2003-09-05",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Tang Hamilton",
+      "participants": [
+        {
+          "name": "Tang Hamilton",
+          "playerHref": "/players/h/hamilta01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 142806.3,
+        "vorp": 85.09999999999998
+      }
+    },
+    {
+      "id": "dumarjo01x-30",
+      "sourceId": 30,
+      "date": "2003-09-23",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Darvin Ham",
+      "participants": [
+        {
+          "name": "Darvin Ham",
+          "playerHref": "/players/h/hamda01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -2607,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2607,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 140199.3,
+        "vorp": 84.89999999999998
+      }
+    },
+    {
+      "id": "dumarjo01x-31",
+      "sourceId": 31,
+      "date": "2003-09-29",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Ronald Dupree",
+      "participants": [
+        {
+          "name": "Ronald Dupree",
+          "playerHref": "/players/d/duprero01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 140199.3,
+        "vorp": 84.89999999999998
+      }
+    },
+    {
+      "id": "dumarjo01x-32",
+      "sourceId": 32,
+      "date": "2003-10-11",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Derrick Zimmerman",
+      "participants": [
+        {
+          "name": "Derrick Zimmerman",
+          "playerHref": "/players/z/zimmede01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 140199.3,
+        "vorp": 84.89999999999998
+      }
+    },
+    {
+      "id": "dumarjo01x-33",
+      "sourceId": 33,
+      "date": "2003-10-28",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Tremaine Fowlkes",
+      "participants": [
+        {
+          "name": "Tremaine Fowlkes",
+          "playerHref": "/players/f/fowlktr01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -678.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -678.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 139520.69999999998,
+        "vorp": 84.89999999999998
+      }
+    },
+    {
+      "id": "dumarjo01x-34",
+      "sourceId": 34,
+      "date": "2004-02-19",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Rasheed Wallace and Mike James; Sent out Chucky Atkins, Lindsey Hunter, Tony Allen, Željko Rebrača, Bob Sura, and Josh Smith",
+      "participants": [
+        {
+          "name": "Chucky Atkins",
+          "playerHref": "/players/a/atkinch01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 555.0999999999999,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lindsey Hunter",
+          "playerHref": "/players/h/hunteli01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tony Allen",
+          "playerHref": "/players/a/allento01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 2327.7999999999997,
+            "vorp": -2.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Željko Rebrača",
+          "playerHref": "/players/r/rebraze01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 198.9,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bob Sura",
+          "playerHref": "/players/s/surabo01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -669.1999999999999,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Josh Smith",
+          "playerHref": "/players/s/smithjo03.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -52714.6,
+            "vorp": -24.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rasheed Wallace",
+          "playerHref": "/players/w/wallara01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -138.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike James",
+          "playerHref": "/players/j/jamesmi01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 505.2,
+            "vorp": 1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -49935.4,
+        "vorp": -27.4
+      },
+      "runningValues": {
+        "bpm": 89585.29999999994,
+        "vorp": 57.49999999999998
+      }
+    },
+    {
+      "id": "dumarjo01x-35",
+      "sourceId": 35,
+      "date": "2004-02-26",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Lindsey Hunter",
+      "participants": [
+        {
+          "name": "Lindsey Hunter",
+          "playerHref": "/players/h/hunteli01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -2797.8,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2797.8,
+        "vorp": 0.8
+      },
+      "runningValues": {
+        "bpm": 86787.49999999994,
+        "vorp": 58.299999999999976
+      }
+    },
+    {
+      "id": "dumarjo01x-36",
+      "sourceId": 36,
+      "date": "2004-06-24",
+      "type": "draft",
+      "tenureTeam": "DET",
+      "summary": "Drafted Rickey Paulding",
+      "participants": [
+        {
+          "name": "Rickey Paulding",
+          "playerHref": "/players/p/pauldri01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 86787.49999999994,
+        "vorp": 58.299999999999976
+      }
+    },
+    {
+      "id": "dumarjo01x-37",
+      "sourceId": 37,
+      "date": "2004-07-16",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Antonio McDyess",
+      "participants": [
+        {
+          "name": "Antonio McDyess",
+          "playerHref": "/players/m/mcdyean01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1251.6999999999998,
+            "vorp": 4.3999999999999995
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1251.6999999999998,
+        "vorp": 4.3999999999999995
+      },
+      "runningValues": {
+        "bpm": 85535.79999999994,
+        "vorp": 62.699999999999974
+      }
+    },
+    {
+      "id": "dumarjo01x-38",
+      "sourceId": 38,
+      "date": "2004-07-21",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Ronald Dupree",
+      "participants": [
+        {
+          "name": "Ronald Dupree",
+          "playerHref": "/players/d/duprero01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1308.3,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1308.3,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 84227.49999999994,
+        "vorp": 62.59999999999997
+      }
+    },
+    {
+      "id": "dumarjo01x-39",
+      "sourceId": 39,
+      "date": "2004-08-04",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Derrick Coleman and Amal McCaskill; Sent out Corliss Williamson",
+      "participants": [
+        {
+          "name": "Corliss Williamson",
+          "playerHref": "/players/w/willico02.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 2534.4,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Derrick Coleman",
+          "playerHref": "/players/c/colemde01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -520,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Amal McCaskill",
+          "playerHref": "/players/m/mccasam01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2014.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 86241.89999999994,
+        "vorp": 62.59999999999997
+      }
+    },
+    {
+      "id": "dumarjo01x-40",
+      "sourceId": 40,
+      "date": "2004-08-04",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Horace Jenkins",
+      "participants": [
+        {
+          "name": "Horace Jenkins",
+          "playerHref": "/players/j/jenkiho01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -478.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -478.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 85763.49999999994,
+        "vorp": 62.49999999999997
+      }
+    },
+    {
+      "id": "dumarjo01x-41",
+      "sourceId": 41,
+      "date": "2004-09-30",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Nigel Dixon",
+      "participants": [
+        {
+          "name": "Nigel Dixon",
+          "playerHref": "/players/d/dixonni01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 85763.49999999994,
+        "vorp": 62.49999999999997
+      }
+    },
+    {
+      "id": "dumarjo01x-42",
+      "sourceId": 42,
+      "date": "2004-10-01",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Smush Parker",
+      "participants": [
+        {
+          "name": "Smush Parker",
+          "playerHref": "/players/p/parkesm01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -572,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -572,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 85191.49999999994,
+        "vorp": 62.39999999999997
+      }
+    },
+    {
+      "id": "dumarjo01x-43",
+      "sourceId": 43,
+      "date": "2005-01-05",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Anthony Goldwire",
+      "participants": [
+        {
+          "name": "Anthony Goldwire",
+          "playerHref": "/players/g/goldwan01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -247.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -247.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 84943.99999999994,
+        "vorp": 62.39999999999997
+      }
+    },
+    {
+      "id": "dumarjo01x-44",
+      "sourceId": 44,
+      "date": "2005-01-21",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Carlos Arroyo; Sent out Elden Campbell and Joel Freeland",
+      "participants": [
+        {
+          "name": "Elden Campbell",
+          "playerHref": "/players/c/campbel01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Joel Freeland",
+          "playerHref": "/players/f/freeljo01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Carlos Arroyo",
+          "playerHref": "/players/a/arroyca01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -3649.7999999999997,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3649.7999999999997,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 81294.19999999994,
+        "vorp": 62.19999999999997
+      }
+    },
+    {
+      "id": "dumarjo01x-45",
+      "sourceId": 45,
+      "date": "2005-03-04",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Elden Campbell",
+      "participants": [
+        {
+          "name": "Elden Campbell",
+          "playerHref": "/players/c/campbel01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -2176,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2176,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": 79118.19999999994,
+        "vorp": 61.79999999999997
+      }
+    },
+    {
+      "id": "dumarjo01x-46",
+      "sourceId": 46,
+      "date": "2005-06-28",
+      "type": "draft",
+      "tenureTeam": "DET",
+      "summary": "Drafted Jason Maxiell, Amir Johnson, and Alex Acker",
+      "participants": [
+        {
+          "name": "Jason Maxiell",
+          "playerHref": "/players/m/maxieja01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -23242.300000000003,
+            "vorp": -0.8999999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Amir Johnson",
+          "playerHref": "/players/j/johnsam01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -245.69999999999982,
+            "vorp": 0.8999999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alex Acker",
+          "playerHref": "/players/a/ackeral01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -452.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -23940.500000000004,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 55177.69999999994,
+        "vorp": 61.69999999999997
+      }
+    },
+    {
+      "id": "dumarjo01x-47",
+      "sourceId": 47,
+      "date": "2005-08-26",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Dale Davis",
+      "participants": [
+        {
+          "name": "Dale Davis",
+          "playerHref": "/players/d/davisda01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -929.9999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -929.9999999999999,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 54247.69999999994,
+        "vorp": 61.69999999999997
+      }
+    },
+    {
+      "id": "dumarjo01x-48",
+      "sourceId": 48,
+      "date": "2005-09-03",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Maurice Evans",
+      "participants": [
+        {
+          "name": "Maurice Evans",
+          "playerHref": "/players/e/evansma01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 227.8,
+            "vorp": 0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 227.8,
+        "vorp": 0.6
+      },
+      "runningValues": {
+        "bpm": 54475.49999999994,
+        "vorp": 62.29999999999997
+      }
+    },
+    {
+      "id": "dumarjo01x-49",
+      "sourceId": 49,
+      "date": "2005-10-03",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Rookie contract for Andreas Glyniadakis",
+      "participants": [
+        {
+          "name": "Andreas Glyniadakis",
+          "playerHref": "/players/g/glynian01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 54475.49999999994,
+        "vorp": 62.29999999999997
+      }
+    },
+    {
+      "id": "dumarjo01x-50",
+      "sourceId": 50,
+      "date": "2005-10-03",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Alejandro Carmona Sanchez",
+      "participants": [
+        {
+          "name": "Alejandro Carmona Sanchez",
+          "playerHref": "/players/c/carmoal01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 54475.49999999994,
+        "vorp": 62.29999999999997
+      }
+    },
+    {
+      "id": "dumarjo01x-51",
+      "sourceId": 51,
+      "date": "2005-10-03",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Todd Day",
+      "participants": [
+        {
+          "name": "Todd Day",
+          "playerHref": "/players/d/dayto01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 54475.49999999994,
+        "vorp": 62.29999999999997
+      }
+    },
+    {
+      "id": "dumarjo01x-52",
+      "sourceId": 52,
+      "date": "2005-10-31",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added DaJuan Summers; Sent out Ronald Dupree",
+      "participants": [
+        {
+          "name": "Ronald Dupree",
+          "playerHref": "/players/d/duprero01.html",
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 1007,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "DaJuan Summers",
+          "playerHref": "/players/s/summeda01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1007,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 55482.49999999994,
+        "vorp": 62.39999999999997
+      }
+    },
+    {
+      "id": "dumarjo01x-53",
+      "sourceId": 53,
+      "date": "2006-02-15",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Kelvin Cato and Rodney Stuckey; Sent out Carlos Arroyo and Darko Miličić",
+      "participants": [
+        {
+          "name": "Carlos Arroyo",
+          "playerHref": "/players/a/arroyca01.html",
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 1413.1000000000001,
+            "vorp": -1.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Darko Miličić",
+          "playerHref": "/players/m/milicda01.html",
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 580.3,
+            "vorp": -1.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kelvin Cato",
+          "playerHref": "/players/c/catoke01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -251.60000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rodney Stuckey",
+          "playerHref": "/players/s/stuckro01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1741.8000000000002,
+        "vorp": -2.3
+      },
+      "runningValues": {
+        "bpm": 57224.299999999945,
+        "vorp": 60.099999999999966
+      }
+    },
+    {
+      "id": "dumarjo01x-54",
+      "sourceId": 54,
+      "date": "2006-03-01",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Tony Delk",
+      "participants": [
+        {
+          "name": "Tony Delk",
+          "playerHref": "/players/d/delkto01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -37.800000000000004,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -37.800000000000004,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 57186.49999999994,
+        "vorp": 60.29999999999997
+      }
+    },
+    {
+      "id": "dumarjo01x-55",
+      "sourceId": 55,
+      "date": "2006-06-28",
+      "type": "draft",
+      "tenureTeam": "DET",
+      "summary": "Drafted Will Blalock",
+      "participants": [
+        {
+          "name": "Will Blalock",
+          "playerHref": "/players/b/blalowi01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -962.8,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -962.8,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 56223.69999999994,
+        "vorp": 60.099999999999966
+      }
+    },
+    {
+      "id": "dumarjo01x-56",
+      "sourceId": 56,
+      "date": "2006-06-28",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Cheikh Samb; Sent out Maurice Evans",
+      "participants": [
+        {
+          "name": "Maurice Evans",
+          "playerHref": "/players/e/evansma01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 3791.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cheikh Samb",
+          "playerHref": "/players/s/sambch01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -71.3,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3720.2999999999997,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 59943.999999999935,
+        "vorp": 60.099999999999966
+      }
+    },
+    {
+      "id": "dumarjo01x-57",
+      "sourceId": 57,
+      "date": "2006-07-17",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Ronald Dupree",
+      "participants": [
+        {
+          "name": "Ronald Dupree",
+          "playerHref": "/players/d/duprero01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -458.7,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -458.7,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 59485.29999999994,
+        "vorp": 59.999999999999964
+      }
+    },
+    {
+      "id": "dumarjo01x-58",
+      "sourceId": 58,
+      "date": "2006-07-18",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Nazr Mohammed",
+      "participants": [
+        {
+          "name": "Nazr Mohammed",
+          "playerHref": "/players/m/mohamna01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -2175.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2175.5,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 57309.79999999994,
+        "vorp": 59.89999999999996
+      }
+    },
+    {
+      "id": "dumarjo01x-59",
+      "sourceId": 59,
+      "date": "2006-07-18",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Ronald Murray",
+      "participants": [
+        {
+          "name": "Ronald Murray",
+          "playerHref": "/players/m/murraro01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -4308.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4308.2,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 53001.59999999994,
+        "vorp": 59.79999999999996
+      }
+    },
+    {
+      "id": "dumarjo01x-60",
+      "sourceId": 60,
+      "date": "2006-09-28",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Rick Rickert",
+      "participants": [
+        {
+          "name": "Rick Rickert",
+          "playerHref": "/players/r/rickeri01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 53001.59999999994,
+        "vorp": 59.79999999999996
+      }
+    },
+    {
+      "id": "dumarjo01x-61",
+      "sourceId": 61,
+      "date": "2007-01-16",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Chris Webber",
+      "participants": [
+        {
+          "name": "Chris Webber",
+          "playerHref": "/players/w/webbech01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 2170.9,
+            "vorp": 1.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2170.9,
+        "vorp": 1.2
+      },
+      "runningValues": {
+        "bpm": 55172.49999999994,
+        "vorp": 60.999999999999964
+      }
+    },
+    {
+      "id": "dumarjo01x-62",
+      "sourceId": 62,
+      "date": "2007-06-15",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Jonas Jerebko and Kyle Singler; Sent out Carlos Delfino",
+      "participants": [
+        {
+          "name": "Carlos Delfino",
+          "playerHref": "/players/d/delfica01.html",
+          "direction": "out",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": -771.2,
+            "vorp": -1.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jonas Jerebko",
+          "playerHref": "/players/j/jerebjo01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kyle Singler",
+          "playerHref": "/players/s/singlky01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -771.2,
+        "vorp": -1.2
+      },
+      "runningValues": {
+        "bpm": 54401.299999999945,
+        "vorp": 59.79999999999996
+      }
+    },
+    {
+      "id": "dumarjo01x-63",
+      "sourceId": 63,
+      "date": "2007-06-28",
+      "type": "draft",
+      "tenureTeam": "DET",
+      "summary": "Drafted Rodney Stuckey, Arron Afflalo, and Sammy Mejia",
+      "participants": [
+        {
+          "name": "Rodney Stuckey",
+          "playerHref": "/players/s/stuckro01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -11948.9,
+            "vorp": 4.199999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Arron Afflalo",
+          "playerHref": "/players/a/afflaar01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -4663.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sammy Mejia",
+          "playerHref": "/players/m/mejiasa01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -16612.3,
+        "vorp": 4.1
+      },
+      "runningValues": {
+        "bpm": 37788.99999999994,
+        "vorp": 63.899999999999956
+      }
+    },
+    {
+      "id": "dumarjo01x-64",
+      "sourceId": 64,
+      "date": "2007-08-16",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Jarvis Hayes",
+      "participants": [
+        {
+          "name": "Jarvis Hayes",
+          "playerHref": "/players/h/hayesja01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -772.1999999999999,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -772.1999999999999,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": 37016.799999999945,
+        "vorp": 64.39999999999995
+      }
+    },
+    {
+      "id": "dumarjo01x-65",
+      "sourceId": 65,
+      "date": "2007-09-28",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Gerald Fitch",
+      "participants": [
+        {
+          "name": "Gerald Fitch",
+          "playerHref": "/players/f/fitchge01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 37016.799999999945,
+        "vorp": 64.39999999999995
+      }
+    },
+    {
+      "id": "dumarjo01x-66",
+      "sourceId": 66,
+      "date": "2007-12-14",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Primož Brezec and Walter Herrmann; Sent out Nazr Mohammed",
+      "participants": [
+        {
+          "name": "Nazr Mohammed",
+          "playerHref": "/players/m/mohamna01.html",
+          "direction": "out",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 7746.6,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Primož Brezec",
+          "playerHref": "/players/b/brezepr01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -225.39999999999998,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Walter Herrmann",
+          "playerHref": "/players/h/herrmwa01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -822.3,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 6698.900000000001,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": 43715.69999999994,
+        "vorp": 64.79999999999995
+      }
+    },
+    {
+      "id": "dumarjo01x-67",
+      "sourceId": 67,
+      "date": "2008-02-21",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Juan Dixon; Sent out Primož Brezec",
+      "participants": [
+        {
+          "name": "Primož Brezec",
+          "playerHref": "/players/b/brezepr01.html",
+          "direction": "out",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 880,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Juan Dixon",
+          "playerHref": "/players/d/dixonju01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -439.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 440.8,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 44156.49999999994,
+        "vorp": 64.99999999999996
+      }
+    },
+    {
+      "id": "dumarjo01x-68",
+      "sourceId": 68,
+      "date": "2008-03-04",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Theo Ratliff",
+      "participants": [
+        {
+          "name": "Theo Ratliff",
+          "playerHref": "/players/r/ratlith01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -156.1,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -156.1,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 44000.39999999994,
+        "vorp": 65.09999999999995
+      }
+    },
+    {
+      "id": "dumarjo01x-69",
+      "sourceId": 69,
+      "date": "2008-06-26",
+      "type": "draft",
+      "tenureTeam": "DET",
+      "summary": "Drafted D.J. White and Deron Washington",
+      "participants": [
+        {
+          "name": "D.J. White",
+          "playerHref": "/players/w/whitedj01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Deron Washington",
+          "playerHref": "/players/w/washide02.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 44000.39999999994,
+        "vorp": 65.09999999999995
+      }
+    },
+    {
+      "id": "dumarjo01x-70",
+      "sourceId": 70,
+      "date": "2008-06-26",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Trent Plaisted and Walter Sharpe; Sent out D.J. White",
+      "participants": [
+        {
+          "name": "D.J. White",
+          "playerHref": "/players/w/whitedj01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Trent Plaisted",
+          "playerHref": "/players/p/plaistr01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Walter Sharpe",
+          "playerHref": "/players/s/sharpwa01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -204,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -204,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 43796.39999999994,
+        "vorp": 65.09999999999995
+      }
+    },
+    {
+      "id": "dumarjo01x-71",
+      "sourceId": 71,
+      "date": "2008-07-30",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Will Bynum",
+      "participants": [
+        {
+          "name": "Will Bynum",
+          "playerHref": "/players/b/bynumwi01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -9645.3,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -9645.3,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 34151.09999999995,
+        "vorp": 65.29999999999995
+      }
+    },
+    {
+      "id": "dumarjo01x-72",
+      "sourceId": 72,
+      "date": "2008-08-04",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Kwame Brown",
+      "participants": [
+        {
+          "name": "Kwame Brown",
+          "playerHref": "/players/b/brownkw01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -6127.5,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6127.5,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": 28023.599999999948,
+        "vorp": 64.59999999999995
+      }
+    },
+    {
+      "id": "dumarjo01x-73",
+      "sourceId": 73,
+      "date": "2008-11-03",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Allen Iverson; Sent out Chauncey Billups, Antonio McDyess, and Cheikh Samb",
+      "participants": [
+        {
+          "name": "Chauncey Billups",
+          "playerHref": "/players/b/billuch01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -22982,
+            "vorp": -9.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Antonio McDyess",
+          "playerHref": "/players/m/mcdyean01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cheikh Samb",
+          "playerHref": "/players/s/sambch01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 285.6,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Allen Iverson",
+          "playerHref": "/players/i/iversal01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 197,
+            "vorp": 1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -22499.4,
+        "vorp": -8.3
+      },
+      "runningValues": {
+        "bpm": 5524.199999999948,
+        "vorp": 56.299999999999955
+      }
+    },
+    {
+      "id": "dumarjo01x-74",
+      "sourceId": 74,
+      "date": "2009-02-16",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Peyton Siva; Sent out Alex Acker and Trey Thompkins",
+      "participants": [
+        {
+          "name": "Alex Acker",
+          "playerHref": "/players/a/ackeral01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 787.6,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Trey Thompkins",
+          "playerHref": "/players/t/thomptr02.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 678.3000000000001,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Peyton Siva",
+          "playerHref": "/players/s/sivape01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1465.9,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 6990.0999999999485,
+        "vorp": 56.49999999999996
+      }
+    },
+    {
+      "id": "dumarjo01x-75",
+      "sourceId": 75,
+      "date": "2009-06-23",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Fabricio Oberto; Sent out Amir Johnson",
+      "participants": [
+        {
+          "name": "Amir Johnson",
+          "playerHref": "/players/j/johnsam01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Fabricio Oberto",
+          "playerHref": "/players/o/obertfa01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 6990.0999999999485,
+        "vorp": 56.49999999999996
+      }
+    },
+    {
+      "id": "dumarjo01x-76",
+      "sourceId": 76,
+      "date": "2009-06-25",
+      "type": "draft",
+      "tenureTeam": "DET",
+      "summary": "Drafted Austin Daye, DaJuan Summers, Jonas Jerebko, and Chase Budinger",
+      "participants": [
+        {
+          "name": "Austin Daye",
+          "playerHref": "/players/d/dayeau01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -6519.900000000001,
+            "vorp": 0.10000000000000003
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "DaJuan Summers",
+          "playerHref": "/players/s/summeda01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -3976.6000000000004,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jonas Jerebko",
+          "playerHref": "/players/j/jerebjo01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -5378.099999999999,
+            "vorp": 1.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chase Budinger",
+          "playerHref": "/players/b/budinch01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -15874.599999999999,
+        "vorp": 1.0000000000000002
+      },
+      "runningValues": {
+        "bpm": -8884.500000000051,
+        "vorp": 57.49999999999996
+      }
+    },
+    {
+      "id": "dumarjo01x-77",
+      "sourceId": 77,
+      "date": "2009-06-25",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Kim English; Sent out Chase Budinger",
+      "participants": [
+        {
+          "name": "Chase Budinger",
+          "playerHref": "/players/b/budinch01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -1954,
+            "vorp": -2.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kim English",
+          "playerHref": "/players/e/engliki01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1954,
+        "vorp": -2.7
+      },
+      "runningValues": {
+        "bpm": -10838.500000000051,
+        "vorp": 54.799999999999955
+      }
+    },
+    {
+      "id": "dumarjo01x-78",
+      "sourceId": 78,
+      "date": "2009-07-08",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Ben Gordon",
+      "participants": [
+        {
+          "name": "Ben Gordon",
+          "playerHref": "/players/g/gordobe01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -10126.1,
+            "vorp": 2.7755575615628914e-17
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -10126.1,
+        "vorp": 2.7755575615628914e-17
+      },
+      "runningValues": {
+        "bpm": -20964.60000000005,
+        "vorp": 54.799999999999955
+      }
+    },
+    {
+      "id": "dumarjo01x-79",
+      "sourceId": 79,
+      "date": "2009-07-09",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Charlie Villanueva",
+      "participants": [
+        {
+          "name": "Charlie Villanueva",
+          "playerHref": "/players/v/villach01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1224.4,
+            "vorp": 2.3000000000000003
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1224.4,
+        "vorp": 2.3000000000000003
+      },
+      "runningValues": {
+        "bpm": -22189.00000000005,
+        "vorp": 57.09999999999995
+      }
+    },
+    {
+      "id": "dumarjo01x-80",
+      "sourceId": 80,
+      "date": "2009-07-13",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Vernon Macklin; Sent out Arron Afflalo and Walter Sharpe",
+      "participants": [
+        {
+          "name": "Arron Afflalo",
+          "playerHref": "/players/a/afflaar01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 576.2000000000003,
+            "vorp": -4.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Walter Sharpe",
+          "playerHref": "/players/s/sharpwa01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Vernon Macklin",
+          "playerHref": "/players/m/macklve01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 576.2000000000003,
+        "vorp": -4.1
+      },
+      "runningValues": {
+        "bpm": -21612.80000000005,
+        "vorp": 52.99999999999995
+      }
+    },
+    {
+      "id": "dumarjo01x-81",
+      "sourceId": 81,
+      "date": "2009-07-22",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Chris Wilcox",
+      "participants": [
+        {
+          "name": "Chris Wilcox",
+          "playerHref": "/players/w/wilcoch01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -3068.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3068.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -24681.60000000005,
+        "vorp": 52.99999999999995
+      }
+    },
+    {
+      "id": "dumarjo01x-82",
+      "sourceId": 82,
+      "date": "2009-08-12",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Ben Wallace",
+      "participants": [
+        {
+          "name": "Ben Wallace",
+          "playerHref": "/players/w/wallabe01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 4438.5,
+            "vorp": 3.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4438.5,
+        "vorp": 3.2
+      },
+      "runningValues": {
+        "bpm": -20243.10000000005,
+        "vorp": 56.19999999999995
+      }
+    },
+    {
+      "id": "dumarjo01x-83",
+      "sourceId": 83,
+      "date": "2009-09-28",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Chucky Atkins",
+      "participants": [
+        {
+          "name": "Chucky Atkins",
+          "playerHref": "/players/a/atkinch01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -2769.2,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2769.2,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -23012.30000000005,
+        "vorp": 55.799999999999955
+      }
+    },
+    {
+      "id": "dumarjo01x-84",
+      "sourceId": 84,
+      "date": "2010-06-24",
+      "type": "draft",
+      "tenureTeam": "DET",
+      "summary": "Drafted Greg Monroe and Terrico White",
+      "participants": [
+        {
+          "name": "Greg Monroe",
+          "playerHref": "/players/m/monrogr01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 15884.3,
+            "vorp": 10
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Terrico White",
+          "playerHref": "/players/w/whitete01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 15884.3,
+        "vorp": 10
+      },
+      "runningValues": {
+        "bpm": -7128.000000000051,
+        "vorp": 65.79999999999995
+      }
+    },
+    {
+      "id": "dumarjo01x-85",
+      "sourceId": 85,
+      "date": "2010-08-16",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Tracy McGrady",
+      "participants": [
+        {
+          "name": "Tracy McGrady",
+          "playerHref": "/players/m/mcgratr01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 1011.5999999999999,
+            "vorp": 1.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1011.5999999999999,
+        "vorp": 1.1
+      },
+      "runningValues": {
+        "bpm": -6116.400000000051,
+        "vorp": 66.89999999999995
+      }
+    },
+    {
+      "id": "dumarjo01x-86",
+      "sourceId": 86,
+      "date": "2011-06-23",
+      "type": "draft",
+      "tenureTeam": "DET",
+      "summary": "Drafted Brandon Knight, Kyle Singler, and Vernon Macklin",
+      "participants": [
+        {
+          "name": "Brandon Knight",
+          "playerHref": "/players/k/knighbr03.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -12362.900000000001,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kyle Singler",
+          "playerHref": "/players/s/singlky01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -12338.699999999999,
+            "vorp": -0.09999999999999995
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Vernon Macklin",
+          "playerHref": "/players/m/macklve01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 148.5,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -24553.1,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": -30669.50000000005,
+        "vorp": 66.19999999999995
+      }
+    },
+    {
+      "id": "dumarjo01x-87",
+      "sourceId": 87,
+      "date": "2011-12-10",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Damien Wilkins",
+      "participants": [
+        {
+          "name": "Damien Wilkins",
+          "playerHref": "/players/w/wilkida02.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -3595.7999999999997,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3595.7999999999997,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -34265.300000000054,
+        "vorp": 65.79999999999994
+      }
+    },
+    {
+      "id": "dumarjo01x-88",
+      "sourceId": 88,
+      "date": "2011-12-12",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Jake Voskuhl",
+      "participants": [
+        {
+          "name": "Jake Voskuhl",
+          "playerHref": "/players/v/voskuja01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -34265.300000000054,
+        "vorp": 65.79999999999994
+      }
+    },
+    {
+      "id": "dumarjo01x-89",
+      "sourceId": 89,
+      "date": "2012-01-20",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Walker Russell",
+      "participants": [
+        {
+          "name": "Walker Russell",
+          "playerHref": "/players/r/russewa02.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1927.8000000000002,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1927.8000000000002,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -36193.10000000006,
+        "vorp": 65.49999999999994
+      }
+    },
+    {
+      "id": "dumarjo01x-90",
+      "sourceId": 90,
+      "date": "2012-06-26",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Corey Maggette; Sent out Ben Gordon and Noah Vonleh",
+      "participants": [
+        {
+          "name": "Ben Gordon",
+          "playerHref": "/players/g/gordobe01.html",
+          "direction": "out",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 6978,
+            "vorp": 0.8999999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Noah Vonleh",
+          "playerHref": "/players/v/vonleno01.html",
+          "direction": "out",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Corey Maggette",
+          "playerHref": "/players/m/maggeco01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1490.6,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5487.4,
+        "vorp": 0.7
+      },
+      "runningValues": {
+        "bpm": -30705.700000000055,
+        "vorp": 66.19999999999995
+      }
+    },
+    {
+      "id": "dumarjo01x-91",
+      "sourceId": 91,
+      "date": "2012-06-28",
+      "type": "draft",
+      "tenureTeam": "DET",
+      "summary": "Drafted Andre Drummond, Khris Middleton, and Kim English",
+      "participants": [
+        {
+          "name": "Andre Drummond",
+          "playerHref": "/players/d/drumman01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Khris Middleton",
+          "playerHref": "/players/m/middlkh01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -902.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kim English",
+          "playerHref": "/players/e/engliki01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1709.4,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2611.9,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -33317.60000000006,
+        "vorp": 65.99999999999994
+      }
+    },
+    {
+      "id": "dumarjo01x-92",
+      "sourceId": 92,
+      "date": "2012-07-10",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Rookie contract for Andre Drummond",
+      "participants": [
+        {
+          "name": "Andre Drummond",
+          "playerHref": "/players/d/drumman01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 27631.3,
+            "vorp": 16.1
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 27631.3,
+        "vorp": 16.1
+      },
+      "runningValues": {
+        "bpm": -5686.3000000000575,
+        "vorp": 82.09999999999994
+      }
+    },
+    {
+      "id": "dumarjo01x-93",
+      "sourceId": 93,
+      "date": "2012-07-14",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Viacheslav Kravtsov",
+      "participants": [
+        {
+          "name": "Viacheslav Kravtsov",
+          "playerHref": "/players/k/kravtvi01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -448,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -448,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -6134.3000000000575,
+        "vorp": 82.09999999999994
+      }
+    },
+    {
+      "id": "dumarjo01x-94",
+      "sourceId": 94,
+      "date": "2012-10-01",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Jonny Flynn",
+      "participants": [
+        {
+          "name": "Jonny Flynn",
+          "playerHref": "/players/f/flynnjo01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -6134.3000000000575,
+        "vorp": 82.09999999999994
+      }
+    },
+    {
+      "id": "dumarjo01x-95",
+      "sourceId": 95,
+      "date": "2012-10-01",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Terrence Williams",
+      "participants": [
+        {
+          "name": "Terrence Williams",
+          "playerHref": "/players/w/willite01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -6134.3000000000575,
+        "vorp": 82.09999999999994
+      }
+    },
+    {
+      "id": "dumarjo01x-96",
+      "sourceId": 96,
+      "date": "2013-01-30",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added José Calderón; Sent out Austin Daye and Tayshaun Prince",
+      "participants": [
+        {
+          "name": "Austin Daye",
+          "playerHref": "/players/d/dayeau01.html",
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -360.8,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tayshaun Prince",
+          "playerHref": "/players/p/princta01.html",
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 6736.6,
+            "vorp": -0.19999999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "José Calderón",
+          "playerHref": "/players/c/caldejo01.html",
+          "direction": "in",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 4455.5,
+            "vorp": 1.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 10831.3,
+        "vorp": 1.3
+      },
+      "runningValues": {
+        "bpm": 4696.999999999943,
+        "vorp": 83.39999999999993
+      }
+    },
+    {
+      "id": "dumarjo01x-98",
+      "sourceId": 98,
+      "date": "2013-06-27",
+      "type": "draft",
+      "tenureTeam": "DET",
+      "summary": "Drafted Kentavious Caldwell-Pope, Tony Mitchell, and Peyton Siva",
+      "participants": [
+        {
+          "name": "Kentavious Caldwell-Pope",
+          "playerHref": "/players/c/caldwke01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tony Mitchell",
+          "playerHref": "/players/m/mitchto02.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Peyton Siva",
+          "playerHref": "/players/s/sivape01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 4696.999999999943,
+        "vorp": 83.39999999999993
+      }
+    },
+    {
+      "id": "dumarjo01x-99",
+      "sourceId": 99,
+      "date": "2013-07-10",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Josh Smith",
+      "participants": [
+        {
+          "name": "Josh Smith",
+          "playerHref": "/players/s/smithjo03.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -840,
+            "vorp": 1.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -840,
+        "vorp": 1.6
+      },
+      "runningValues": {
+        "bpm": 3856.9999999999427,
+        "vorp": 84.99999999999993
+      }
+    },
+    {
+      "id": "dumarjo01x-100",
+      "sourceId": 100,
+      "date": "2013-07-15",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Gigi Datome",
+      "participants": [
+        {
+          "name": "Gigi Datome",
+          "playerHref": "/players/d/datomlu01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1422.9,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1422.9,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 2434.0999999999426,
+        "vorp": 84.79999999999993
+      }
+    },
+    {
+      "id": "dumarjo01x-101",
+      "sourceId": 101,
+      "date": "2013-07-15",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Will Bynum",
+      "participants": [
+        {
+          "name": "Will Bynum",
+          "playerHref": "/players/b/bynumwi01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -2213.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2213.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 220.69999999994252,
+        "vorp": 84.79999999999993
+      }
+    },
+    {
+      "id": "dumarjo01x-102",
+      "sourceId": 102,
+      "date": "2013-07-16",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Chauncey Billups",
+      "participants": [
+        {
+          "name": "Chauncey Billups",
+          "playerHref": "/players/b/billuch01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1792.2,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1792.2,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -1571.5000000000575,
+        "vorp": 84.49999999999993
+      }
+    },
+    {
+      "id": "dumarjo01x-103",
+      "sourceId": 103,
+      "date": "2013-07-19",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Rookie contract for Kentavious Caldwell-Pope",
+      "participants": [
+        {
+          "name": "Kentavious Caldwell-Pope",
+          "playerHref": "/players/c/caldwke01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -9697.9,
+            "vorp": 2.3
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -9697.9,
+        "vorp": 2.3
+      },
+      "runningValues": {
+        "bpm": -11269.400000000058,
+        "vorp": 86.79999999999993
+      }
+    },
+    {
+      "id": "dumarjo01x-104",
+      "sourceId": 104,
+      "date": "2013-07-19",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Rookie contract for Tony Mitchell",
+      "participants": [
+        {
+          "name": "Tony Mitchell",
+          "playerHref": "/players/m/mitchto02.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 31.6,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 31.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -11237.800000000057,
+        "vorp": 86.79999999999993
+      }
+    },
+    {
+      "id": "dumarjo01x-105",
+      "sourceId": 105,
+      "date": "2013-07-31",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Brandon Jennings; Sent out Brandon Knight, Viacheslav Kravtsov, and Khris Middleton",
+      "participants": [
+        {
+          "name": "Brandon Knight",
+          "playerHref": "/players/k/knighbr03.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -3020,
+            "vorp": -2.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Viacheslav Kravtsov",
+          "playerHref": "/players/k/kravtvi01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Khris Middleton",
+          "playerHref": "/players/m/middlkh01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -19026.899999999998,
+            "vorp": -16.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Brandon Jennings",
+          "playerHref": "/players/j/jennibr01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 4102.099999999999,
+            "vorp": 3.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -17944.8,
+        "vorp": -16.200000000000003
+      },
+      "runningValues": {
+        "bpm": -29182.600000000057,
+        "vorp": 70.59999999999992
+      }
+    },
+    {
+      "id": "dumarjo01x-106",
+      "sourceId": 106,
+      "date": "2013-08-05",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Rookie contract for Peyton Siva",
+      "participants": [
+        {
+          "name": "Peyton Siva",
+          "playerHref": "/players/s/sivape01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1411.2,
+            "vorp": -0.2
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -1411.2,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -30593.800000000057,
+        "vorp": 70.39999999999992
+      }
+    },
+    {
+      "id": "dumarjo01x-107",
+      "sourceId": 107,
+      "date": "2013-08-21",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Josh Harrellson",
+      "participants": [
+        {
+          "name": "Josh Harrellson",
+          "playerHref": "/players/h/harrejo01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -190.2,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -190.2,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -30784.00000000006,
+        "vorp": 70.49999999999991
+      }
+    },
+    {
+      "id": "dumarjo01x-110",
+      "sourceId": 110,
+      "date": "2025-06-17",
+      "type": "trade",
+      "tenureTeam": "NOP",
+      "summary": "Added Mojave King, Asa Newell, and future ('2025', '1st') round pick; Sent out Keaton Wagler and future ('2026', '1st') round pick",
+      "participants": [
+        {
+          "name": "Keaton Wagler",
+          "playerHref": "/players/w/wagleke01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mojave King",
+          "playerHref": "/players/k/kingmo01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Asa Newell",
+          "playerHref": "/players/n/newelas01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '1st') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -30784.00000000006,
+        "vorp": 70.49999999999991
+      }
+    },
+    {
+      "id": "dumarjo01x-111",
+      "sourceId": 111,
+      "date": "2025-06-25",
+      "type": "draft",
+      "tenureTeam": "NOP",
+      "summary": "Drafted Jeremiah Fears and Asa Newell",
+      "participants": [
+        {
+          "name": "Jeremiah Fears",
+          "playerHref": "/players/f/fearsje01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Asa Newell",
+          "playerHref": "/players/n/newelas01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -30784.00000000006,
+        "vorp": 70.49999999999991
+      }
+    },
+    {
+      "id": "dumarjo01x-112",
+      "sourceId": 112,
+      "date": "2025-06-25",
+      "type": "trade",
+      "tenureTeam": "NOP",
+      "summary": "Added Derik Queen; Sent out Asa Newell, Kingston Flemings, and future ('2026', '1st') round pick",
+      "participants": [
+        {
+          "name": "Asa Newell",
+          "playerHref": "/players/n/newelas01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 975.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kingston Flemings",
+          "playerHref": "/players/f/flemiki01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 1032,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Derik Queen",
+          "playerHref": "/players/q/queende01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2007.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -28776.50000000006,
+        "vorp": 70.49999999999991
+      }
+    },
+    {
+      "id": "dumarjo01x-113",
+      "sourceId": 113,
+      "date": "2025-07-03",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Hunter Dickinson",
+      "participants": [
+        {
+          "name": "Hunter Dickinson",
+          "playerHref": "/players/d/dickihu01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": -478.8,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -478.8,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -29255.300000000057,
+        "vorp": 70.39999999999992
+      }
+    },
+    {
+      "id": "dumarjo01x-114",
+      "sourceId": 114,
+      "date": "2025-07-03",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Trey Alexander",
+      "participants": [
+        {
+          "name": "Trey Alexander",
+          "playerHref": "/players/a/alexatr01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": -177.60000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -177.60000000000002,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -29432.900000000056,
+        "vorp": 70.39999999999992
+      }
+    },
+    {
+      "id": "dumarjo01x-115",
+      "sourceId": 115,
+      "date": "2025-07-05",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Derik Queen",
+      "participants": [
+        {
+          "name": "Derik Queen",
+          "playerHref": "/players/q/queende01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": -1553,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1553,
+        "vorp": 0.8
+      },
+      "runningValues": {
+        "bpm": -30985.900000000056,
+        "vorp": 71.19999999999992
+      }
+    },
+    {
+      "id": "dumarjo01x-116",
+      "sourceId": 116,
+      "date": "2025-07-05",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Rookie contract for Jeremiah Fears",
+      "participants": [
+        {
+          "name": "Jeremiah Fears",
+          "playerHref": "/players/f/fearsje01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": -6940,
+            "vorp": -0.5
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -6940,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -37925.90000000005,
+        "vorp": 70.69999999999992
+      }
+    },
+    {
+      "id": "dumarjo01x-117",
+      "sourceId": 117,
+      "date": "2025-07-06",
+      "type": "trade",
+      "tenureTeam": "NOP",
+      "summary": "Added Saddiq Bey, Micah Peavy, and Jordan Poole; Sent out CJ McCollum, Kelly Olynyk, future ('2027', '2nd') round pick, and Mojave King",
+      "participants": [
+        {
+          "name": "CJ McCollum",
+          "playerHref": "/players/m/mccolcj01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 1623,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kelly Olynyk",
+          "playerHref": "/players/o/olynyke01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mojave King",
+          "playerHref": "/players/k/kingmo01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Saddiq Bey",
+          "playerHref": "/players/b/beysa01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Micah Peavy",
+          "playerHref": "/players/p/peavymi01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jordan Poole",
+          "playerHref": "/players/p/poolejo01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1623,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -36302.90000000005,
+        "vorp": 70.59999999999992
+      }
+    },
+    {
+      "id": "dumarjo01x-118",
+      "sourceId": 118,
+      "date": "2025-07-06",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Micah Peavy",
+      "participants": [
+        {
+          "name": "Micah Peavy",
+          "playerHref": "/players/p/peavymi01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": -4747.6,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4747.6,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": -41050.50000000005,
+        "vorp": 69.89999999999992
+      }
+    },
+    {
+      "id": "dumarjo01x-119",
+      "sourceId": 119,
+      "date": "2025-07-07",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Kevon Looney",
+      "participants": [
+        {
+          "name": "Kevon Looney",
+          "playerHref": "/players/l/looneke01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": -554.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -554.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -41604.90000000005,
+        "vorp": 69.89999999999992
+      }
+    },
+    {
+      "id": "dumarjo01x-120",
+      "sourceId": 120,
+      "date": "2025-07-30",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Bryce McGowens",
+      "participants": [
+        {
+          "name": "Bryce McGowens",
+          "playerHref": "/players/m/mcgowbr01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": -2618.6,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2618.6,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -44223.50000000005,
+        "vorp": 69.69999999999992
+      }
+    },
+    {
+      "id": "dumarjo01x-121",
+      "sourceId": 121,
+      "date": "2025-07-31",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Jaden Springer",
+      "participants": [
+        {
+          "name": "Jaden Springer",
+          "playerHref": "/players/s/sprinja01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44223.50000000005,
+        "vorp": 69.69999999999992
+      }
+    },
+    {
+      "id": "dumarjo01x-122",
+      "sourceId": 122,
+      "date": "2025-09-02",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Garrison Brooks",
+      "participants": [
+        {
+          "name": "Garrison Brooks",
+          "playerHref": "/players/b/brookga01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44223.50000000005,
+        "vorp": 69.69999999999992
+      }
+    },
+    {
+      "id": "dumarjo01x-123",
+      "sourceId": 123,
+      "date": "2025-09-02",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Jalen McDaniels",
+      "participants": [
+        {
+          "name": "Jalen McDaniels",
+          "playerHref": "/players/m/mcdanja01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44223.50000000005,
+        "vorp": 69.69999999999992
+      }
+    },
+    {
+      "id": "dumarjo01x-124",
+      "sourceId": 124,
+      "date": "2025-10-23",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed DeAndre Jordan",
+      "participants": [
+        {
+          "name": "DeAndre Jordan",
+          "playerHref": "/players/j/jordade01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": -39.800000000000004,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -39.800000000000004,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -44263.300000000054,
+        "vorp": 69.79999999999991
+      }
+    },
+    {
+      "id": "dumarjo01x-125",
+      "sourceId": 125,
+      "date": "2026-02-05",
+      "type": "trade",
+      "tenureTeam": "NOP",
+      "summary": "Added Dalen Terry, Jaron Pierre Jr., future ('2026', '2nd') round pick, and future ('2027', '2nd') round pick; Sent out Jose Alvarado and Latavious Williams",
+      "participants": [
+        {
+          "name": "Jose Alvarado",
+          "playerHref": "/players/a/alvarjo01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 86.39999999999998,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Latavious Williams",
+          "playerHref": "/players/w/willila01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dalen Terry",
+          "playerHref": "/players/t/terryda01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jaron Pierre Jr.",
+          "playerHref": "/players/p/pierrja01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 86.39999999999998,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -44176.90000000005,
+        "vorp": 69.49999999999991
+      }
+    },
+    {
+      "id": "dumarjo01x-126",
+      "sourceId": 126,
+      "date": "2026-03-04",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Josh Oduro",
+      "participants": [
+        {
+          "name": "Josh Oduro",
+          "playerHref": "/players/o/odurojo01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": -631.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -631.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -44808.300000000054,
+        "vorp": 69.39999999999992
+      }
+    },
+    {
+      "id": "dumarjo01x-127",
+      "sourceId": 127,
+      "date": "2026-06-24",
+      "type": "draft",
+      "tenureTeam": "NOP",
+      "summary": "Drafted Jaron Pierre Jr.",
+      "participants": [
+        {
+          "name": "Jaron Pierre Jr.",
+          "playerHref": "/players/p/pierrja01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44808.300000000054,
+        "vorp": 69.39999999999992
+      }
+    },
+    {
+      "id": "dumarjo01x-128",
+      "sourceId": 128,
+      "date": "2026-07-07",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Hunter Dickinson",
+      "participants": [
+        {
+          "name": "Hunter Dickinson",
+          "playerHref": "/players/d/dickihu01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44808.300000000054,
+        "vorp": 69.39999999999992
+      }
+    },
+    {
+      "id": "dumarjo01x-129",
+      "sourceId": 129,
+      "date": "2026-07-10",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed DeAndre Jordan",
+      "participants": [
+        {
+          "name": "DeAndre Jordan",
+          "playerHref": "/players/j/jordade01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 30.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 30.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44777.800000000054,
+        "vorp": 69.39999999999992
+      }
+    },
+    {
+      "id": "dumarjo01x-130",
+      "sourceId": 130,
+      "date": "2026-07-23",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Rookie contract for Jaron Pierre Jr.",
+      "participants": [
+        {
+          "name": "Jaron Pierre Jr.",
+          "playerHref": "/players/p/pierrja01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": -442.79999999999995,
+            "vorp": -0.1
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -442.79999999999995,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -45220.60000000006,
+        "vorp": 69.29999999999993
+      }
+    },
+    {
+      "id": "dumarjo01x-131",
+      "sourceId": 131,
+      "date": "2026-07-25",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Kobe Bufkin",
+      "participants": [
+        {
+          "name": "Kobe Bufkin",
+          "playerHref": "/players/b/bufkiko01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -45220.60000000006,
+        "vorp": 69.29999999999993
+      }
+    },
+    {
+      "id": "dumarjo01x-132",
+      "sourceId": 132,
+      "date": "2026-07-28",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Christian Koloko",
+      "participants": [
+        {
+          "name": "Christian Koloko",
+          "playerHref": "/players/k/kolokch01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -45220.60000000006,
+        "vorp": 69.29999999999993
+      }
+    },
+    {
+      "id": "dumarjo01x-133",
+      "sourceId": 133,
+      "date": "2026-08-04",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Caleb Houstan",
+      "participants": [
+        {
+          "name": "Caleb Houstan",
+          "playerHref": "/players/h/houstca01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -45220.60000000006,
+        "vorp": 69.29999999999993
+      }
+    },
+    {
+      "id": "dumarjo01x-134",
+      "sourceId": 134,
+      "date": "2026-08-17",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Trendon Watford",
+      "participants": [
+        {
+          "name": "Trendon Watford",
+          "playerHref": "/players/w/watfotr01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": -95.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -95.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -45316.00000000006,
+        "vorp": 69.29999999999993
+      }
+    },
+    {
+      "id": "dumarjo01x-135",
+      "sourceId": 135,
+      "date": "2026-08-18",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Malik Dia",
+      "participants": [
+        {
+          "name": "Malik Dia",
+          "playerHref": "/players/d/diama01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -45316.00000000006,
+        "vorp": 69.29999999999993
+      }
+    },
+    {
+      "id": "dumarjo01x-136",
+      "sourceId": 136,
+      "date": "2026-09-08",
+      "type": "trade",
+      "tenureTeam": "NOP",
+      "summary": "Added Taj Gibson and A.J. Johnson; Sent out Jordan Hawkins and Micah Peavy",
+      "participants": [
+        {
+          "name": "Jordan Hawkins",
+          "playerHref": "/players/h/hawkijo01.html",
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Micah Peavy",
+          "playerHref": "/players/p/peavymi01.html",
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Taj Gibson",
+          "playerHref": "/players/g/gibsota01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "A.J. Johnson",
+          "playerHref": "/players/j/johnsaj01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": -269.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -269.5,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -45585.50000000006,
+        "vorp": 69.19999999999993
+      }
+    },
+    {
+      "id": "dumarjo01x-137",
+      "sourceId": 137,
+      "date": "2026-09-10",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Bennedict Mathurin",
+      "participants": [
+        {
+          "name": "Bennedict Mathurin",
+          "playerHref": "/players/m/mathube01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": -1527.2,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1527.2,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -47112.700000000055,
+        "vorp": 68.89999999999993
+      }
+    },
+    {
+      "id": "dumarjo01x-138",
+      "sourceId": 138,
+      "date": "2026-09-24",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Julian Reese",
+      "participants": [
+        {
+          "name": "Julian Reese",
+          "playerHref": "/players/r/reeseju01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": -246.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -246.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -47359.10000000006,
+        "vorp": 68.89999999999993
+      }
+    }
+  ]
+}

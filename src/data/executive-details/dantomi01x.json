@@ -1,0 +1,312 @@
+{
+  "slug": "dantomi01x",
+  "sourceRowCount": 14,
+  "tenures": [
+    {
+      "teamCode": "DEN",
+      "startDate": "1998-03-04",
+      "endDate": "2006-06-28"
+    },
+    {
+      "teamCode": "PHO",
+      "startDate": "2006-06-28",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "dantomi01x-0",
+      "sourceId": 0,
+      "date": "1998-03-04",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Cory Alexander",
+      "participants": [
+        {
+          "name": "Cory Alexander",
+          "playerHref": "/players/a/alexaco01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -2161.4999999999995,
+            "vorp": 0.39999999999999997
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2161.4999999999995,
+        "vorp": 0.39999999999999997
+      },
+      "runningValues": {
+        "bpm": -2161.4999999999995,
+        "vorp": 0.39999999999999997
+      }
+    },
+    {
+      "id": "dantomi01x-1",
+      "sourceId": 1,
+      "date": "2006-06-28",
+      "type": "draft",
+      "tenureTeam": "PHO",
+      "summary": "Drafted Rajon Rondo and Sergio Rodríguez",
+      "participants": [
+        {
+          "name": "Rajon Rondo",
+          "playerHref": "/players/r/rondora01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sergio Rodríguez",
+          "playerHref": "/players/r/rodrise01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -2161.4999999999995,
+        "vorp": 0.39999999999999997
+      }
+    },
+    {
+      "id": "dantomi01x-2",
+      "sourceId": 2,
+      "date": "2006-06-28",
+      "type": "trade",
+      "tenureTeam": "PHO",
+      "summary": "Sent out Sergio Rodríguez",
+      "participants": [
+        {
+          "name": "Sergio Rodríguez",
+          "playerHref": "/players/r/rodrise01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 4986.8,
+            "vorp": -0.10000000000000003
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4986.8,
+        "vorp": -0.10000000000000003
+      },
+      "runningValues": {
+        "bpm": 2825.3000000000006,
+        "vorp": 0.29999999999999993
+      }
+    },
+    {
+      "id": "dantomi01x-3",
+      "sourceId": 3,
+      "date": "2006-06-28",
+      "type": "trade",
+      "tenureTeam": "PHO",
+      "summary": "Added Rudy Fernández; Sent out Brian Grant and Rajon Rondo",
+      "participants": [
+        {
+          "name": "Brian Grant",
+          "playerHref": "/players/g/grantbr01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rajon Rondo",
+          "playerHref": "/players/r/rondora01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": -40074.1,
+            "vorp": -18.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rudy Fernández",
+          "playerHref": "/players/f/fernaru01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -40074.1,
+        "vorp": -18.7
+      },
+      "runningValues": {
+        "bpm": -37248.799999999996,
+        "vorp": -18.4
+      }
+    },
+    {
+      "id": "dantomi01x-4",
+      "sourceId": 4,
+      "date": "2006-07-13",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Eric Piatkowski",
+      "participants": [
+        {
+          "name": "Eric Piatkowski",
+          "playerHref": "/players/p/piatker01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -519.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -519.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -37768.2,
+        "vorp": -18.4
+      }
+    },
+    {
+      "id": "dantomi01x-5",
+      "sourceId": 5,
+      "date": "2006-07-20",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Marcus Banks",
+      "participants": [
+        {
+          "name": "Marcus Banks",
+          "playerHref": "/players/b/banksma01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -2678.8,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2678.8,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -40447,
+        "vorp": -18.7
+      }
+    },
+    {
+      "id": "dantomi01x-6",
+      "sourceId": 6,
+      "date": "2006-07-27",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Sean Marks",
+      "participants": [
+        {
+          "name": "Sean Marks",
+          "playerHref": "/players/m/marksse01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -410.7,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -410.7,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -40857.7,
+        "vorp": -18.7
+      }
+    },
+    {
+      "id": "dantomi01x-7",
+      "sourceId": 7,
+      "date": "2006-08-31",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Jumaine Jones",
+      "participants": [
+        {
+          "name": "Jumaine Jones",
+          "playerHref": "/players/j/jonesju01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -1021.2,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1021.2,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -41878.899999999994,
+        "vorp": -18.9
+      }
+    },
+    {
+      "id": "dantomi01x-8",
+      "sourceId": 8,
+      "date": "2006-11-07",
+      "type": "signing",
+      "tenureTeam": "PHO",
+      "summary": "Signed Jalen Rose",
+      "participants": [
+        {
+          "name": "Jalen Rose",
+          "playerHref": "/players/r/roseja01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 295.2,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 295.2,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -41583.7,
+        "vorp": -18.7
+      }
+    }
+  ]
+}

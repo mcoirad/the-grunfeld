@@ -6,6 +6,7 @@ export default defineConfig({
   base: "/the-grunfeld",
   output: "static",
   integrations: [preact()],
+  devToolbar: { enabled: false },
   build: {
     assets: "assets",
   },

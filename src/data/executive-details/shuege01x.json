@@ -1,0 +1,677 @@
+{
+  "slug": "shuege01x",
+  "sourceRowCount": 27,
+  "tenures": [
+    {
+      "teamCode": "PHI",
+      "startDate": "1973-09-28",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "shuege01x-0",
+      "sourceId": 0,
+      "date": "1973-09-28",
+      "type": "trade",
+      "tenureTeam": "PHI",
+      "summary": "Added Toby Kimball",
+      "participants": [
+        {
+          "name": "Toby Kimball",
+          "playerHref": "/players/k/kimbato01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "shuege01x-1",
+      "sourceId": 1,
+      "date": "1974-02-13",
+      "type": "trade",
+      "tenureTeam": "PHI",
+      "summary": "Added Larry Cannon",
+      "participants": [
+        {
+          "name": "Larry Cannon",
+          "playerHref": "/players/c/cannola01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "shuege01x-2",
+      "sourceId": 2,
+      "date": "1990-08-01",
+      "type": "trade",
+      "tenureTeam": "PHI",
+      "summary": "Added Manute Bol; Sent out Chris Gatling",
+      "participants": [
+        {
+          "name": "Chris Gatling",
+          "playerHref": "/players/g/gatlich01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 3498,
+            "vorp": -2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Manute Bol",
+          "playerHref": "/players/b/bolma01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -5104,
+            "vorp": 0.6000000000000001
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1606,
+        "vorp": -1.4
+      },
+      "runningValues": {
+        "bpm": -1606,
+        "vorp": -1.4
+      }
+    },
+    {
+      "id": "shuege01x-3",
+      "sourceId": 3,
+      "date": "1990-10-03",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Rickey Green",
+      "participants": [
+        {
+          "name": "Rickey Green",
+          "playerHref": "/players/g/greenri01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -4720.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4720.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -6326.8,
+        "vorp": -1.4
+      }
+    },
+    {
+      "id": "shuege01x-4",
+      "sourceId": 4,
+      "date": "1990-10-04",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Brian Rahilly",
+      "participants": [
+        {
+          "name": "Brian Rahilly",
+          "playerHref": "/players/r/rahilbr01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -6326.8,
+        "vorp": -1.4
+      }
+    },
+    {
+      "id": "shuege01x-5",
+      "sourceId": 5,
+      "date": "1990-10-04",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Kenny Travis",
+      "participants": [
+        {
+          "name": "Kenny Travis",
+          "playerHref": "/players/t/travike01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -6326.8,
+        "vorp": -1.4
+      }
+    },
+    {
+      "id": "shuege01x-6",
+      "sourceId": 6,
+      "date": "1990-10-04",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Carlton McKinney",
+      "participants": [
+        {
+          "name": "Carlton McKinney",
+          "playerHref": "/players/m/mckinca01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -6326.8,
+        "vorp": -1.4
+      }
+    },
+    {
+      "id": "shuege01x-7",
+      "sourceId": 7,
+      "date": "1990-10-28",
+      "type": "trade",
+      "tenureTeam": "PHI",
+      "summary": "Added Jayson Williams; Sent out Sharone Wright",
+      "participants": [
+        {
+          "name": "Sharone Wright",
+          "playerHref": "/players/w/wrighsh01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jayson Williams",
+          "playerHref": "/players/w/willija01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -9015,
+            "vorp": -1.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -9015,
+        "vorp": -1.7
+      },
+      "runningValues": {
+        "bpm": -15341.8,
+        "vorp": -3.0999999999999996
+      }
+    },
+    {
+      "id": "shuege01x-8",
+      "sourceId": 8,
+      "date": "1990-11-10",
+      "type": "trade",
+      "tenureTeam": "PHI",
+      "summary": "Added Alvaro Teheran; Sent out Bob Thornton",
+      "participants": [
+        {
+          "name": "Bob Thornton",
+          "playerHref": "/players/t/thornbo01.html",
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 1243,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alvaro Teheran",
+          "playerHref": "/players/t/teheral01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1243,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": -14098.8,
+        "vorp": -2.8
+      }
+    },
+    {
+      "id": "shuege01x-9",
+      "sourceId": 9,
+      "date": "1990-11-16",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Jim Farmer",
+      "participants": [
+        {
+          "name": "Jim Farmer",
+          "playerHref": "/players/f/farmeji01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -146.9,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -146.9,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -14245.699999999999,
+        "vorp": -2.8
+      }
+    },
+    {
+      "id": "shuege01x-10",
+      "sourceId": 10,
+      "date": "1990-11-20",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Andre Turner",
+      "participants": [
+        {
+          "name": "Andre Turner",
+          "playerHref": "/players/t/turnean01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -2391.9,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2391.9,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -16637.6,
+        "vorp": -2.6999999999999997
+      }
+    },
+    {
+      "id": "shuege01x-11",
+      "sourceId": 11,
+      "date": "1990-12-28",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Mario Elie",
+      "participants": [
+        {
+          "name": "Mario Elie",
+          "playerHref": "/players/e/eliema01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -332,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -332,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -16969.6,
+        "vorp": -2.8
+      }
+    },
+    {
+      "id": "shuege01x-12",
+      "sourceId": 12,
+      "date": "1991-01-04",
+      "type": "trade",
+      "tenureTeam": "PHI",
+      "summary": "Added Armen Gilliam and Dave Hoppen; Sent out Mike Gminski",
+      "participants": [
+        {
+          "name": "Mike Gminski",
+          "playerHref": "/players/g/gminsmi01.html",
+          "direction": "out",
+          "teamCode": "CHH",
+          "values": {
+            "bpm": 4204.5,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Armen Gilliam",
+          "playerHref": "/players/g/gilliar01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -6738.199999999999,
+            "vorp": 1.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dave Hoppen",
+          "playerHref": "/players/h/hoppeda01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -673.6,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3207.299999999999,
+        "vorp": 1.1
+      },
+      "runningValues": {
+        "bpm": -20176.899999999994,
+        "vorp": -1.7
+      }
+    },
+    {
+      "id": "shuege01x-13",
+      "sourceId": 13,
+      "date": "1991-01-28",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Tony Harris",
+      "participants": [
+        {
+          "name": "Tony Harris",
+          "playerHref": "/players/h/harrito01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -672.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -672.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -20849.299999999996,
+        "vorp": -1.8
+      }
+    },
+    {
+      "id": "shuege01x-14",
+      "sourceId": 14,
+      "date": "1991-04-17",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Robert Reid",
+      "participants": [
+        {
+          "name": "Robert Reid",
+          "playerHref": "/players/r/reidro01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -440.3,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -440.3,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -21289.599999999995,
+        "vorp": -1.9000000000000001
+      }
+    },
+    {
+      "id": "shuege01x-15",
+      "sourceId": 15,
+      "date": "1991-06-26",
+      "type": "draft",
+      "tenureTeam": "PHI",
+      "summary": "Drafted Alvaro Teheran",
+      "participants": [
+        {
+          "name": "Alvaro Teheran",
+          "playerHref": "/players/t/teheral01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -21289.599999999995,
+        "vorp": -1.9000000000000001
+      }
+    },
+    {
+      "id": "shuege01x-16",
+      "sourceId": 16,
+      "date": "1991-07-10",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Charles Shackleford",
+      "participants": [
+        {
+          "name": "Charles Shackleford",
+          "playerHref": "/players/s/shackch01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -5651.7,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5651.7,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -26941.299999999996,
+        "vorp": -2.3000000000000003
+      }
+    },
+    {
+      "id": "shuege01x-17",
+      "sourceId": 17,
+      "date": "1991-07-19",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Mitchell Wiggins",
+      "participants": [
+        {
+          "name": "Mitchell Wiggins",
+          "playerHref": "/players/w/wiggimi01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -3641.6000000000004,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3641.6000000000004,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": -30582.899999999994,
+        "vorp": -2.9000000000000004
+      }
+    },
+    {
+      "id": "shuege01x-18",
+      "sourceId": 18,
+      "date": "1991-10-26",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Tharon Mayes",
+      "participants": [
+        {
+          "name": "Tharon Mayes",
+          "playerHref": "/players/m/mayesth01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -1333,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1333,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -31915.899999999994,
+        "vorp": -3.1000000000000005
+      }
+    },
+    {
+      "id": "shuege01x-19",
+      "sourceId": 19,
+      "date": "1991-12-03",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Michael Ansley",
+      "participants": [
+        {
+          "name": "Michael Ansley",
+          "playerHref": "/players/a/anslemi01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -217.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -217.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -32133.499999999993,
+        "vorp": -3.1000000000000005
+      }
+    },
+    {
+      "id": "shuege01x-20",
+      "sourceId": 20,
+      "date": "1991-12-22",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Greg Grant",
+      "participants": [
+        {
+          "name": "Greg Grant",
+          "playerHref": "/players/g/grantgr01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -5631.8,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5631.8,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -37765.299999999996,
+        "vorp": -3.4000000000000004
+      }
+    }
+  ]
+}

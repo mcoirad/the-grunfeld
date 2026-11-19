@@ -1,0 +1,4194 @@
+{
+  "slug": "weavetr99x",
+  "sourceRowCount": 206,
+  "tenures": [
+    {
+      "teamCode": "DET",
+      "startDate": "2020-06-26",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "weavetr99x-0",
+      "sourceId": 0,
+      "date": "2020-06-26",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Justin Patton",
+      "participants": [
+        {
+          "name": "Justin Patton",
+          "playerHref": "/players/p/pattoju01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "weavetr99x-1",
+      "sourceId": 1,
+      "date": "2020-11-18",
+      "type": "draft",
+      "tenureTeam": "DET",
+      "summary": "Drafted Killian Hayes",
+      "participants": [
+        {
+          "name": "Killian Hayes",
+          "playerHref": "/players/h/hayeski01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "weavetr99x-2",
+      "sourceId": 2,
+      "date": "2020-11-18",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Tony Bradley and Saben Lee",
+      "participants": [
+        {
+          "name": "Tony Bradley",
+          "playerHref": "/players/b/bradlto01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Saben Lee",
+          "playerHref": "/players/l/leesa01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "weavetr99x-3",
+      "sourceId": 3,
+      "date": "2020-11-19",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Saben Lee",
+      "participants": [
+        {
+          "name": "Saben Lee",
+          "playerHref": "/players/l/leesa01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1562,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1562,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -1562,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "weavetr99x-4",
+      "sourceId": 4,
+      "date": "2020-11-19",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Saddiq Bey, Jaylen Hands, Dzanan Musa, JT Thor, and Rodney McGruder; Sent out Luke Kennard, Justin Patton, Julian Phillips, Jonathan Mogbo, Bogoljub Markovic, Jaron Pierre Jr., future ('2025', '2nd') round pick, future ('2026', '2nd') round pick, and Bruce Brown",
+      "participants": [
+        {
+          "name": "Luke Kennard",
+          "playerHref": "/players/k/kennalu01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 493.79999999999984,
+            "vorp": -1.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Justin Patton",
+          "playerHref": "/players/p/pattoju01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Julian Phillips",
+          "playerHref": "/players/p/phillju01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jonathan Mogbo",
+          "playerHref": "/players/m/mogbojo01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bogoljub Markovic",
+          "playerHref": "/players/m/markobo01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jaron Pierre Jr.",
+          "playerHref": "/players/p/pierrja01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bruce Brown",
+          "playerHref": "/players/b/brownbr01.html",
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -1096.7,
+            "vorp": -1.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Saddiq Bey",
+          "playerHref": "/players/b/beysa01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jaylen Hands",
+          "playerHref": "/players/h/handsja01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dzanan Musa",
+          "playerHref": "/players/m/musadz01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "JT Thor",
+          "playerHref": "/players/t/thorjt01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rodney McGruder",
+          "playerHref": "/players/m/mcgruro01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -602.9000000000002,
+        "vorp": -3.8
+      },
+      "runningValues": {
+        "bpm": -2164.9000000000005,
+        "vorp": -3.8
+      }
+    },
+    {
+      "id": "weavetr99x-5",
+      "sourceId": 5,
+      "date": "2020-11-20",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Dewayne Dedmon; Sent out Tony Snell and Khyri Thomas",
+      "participants": [
+        {
+          "name": "Tony Snell",
+          "playerHref": "/players/s/snellto01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 496,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Khyri Thomas",
+          "playerHref": "/players/t/thomakh01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dewayne Dedmon",
+          "playerHref": "/players/d/dedmode01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 496,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -1668.9000000000005,
+        "vorp": -4.2
+      }
+    },
+    {
+      "id": "weavetr99x-6",
+      "sourceId": 6,
+      "date": "2020-11-22",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Jerami Grant and Nikola Radičević",
+      "participants": [
+        {
+          "name": "Jerami Grant",
+          "playerHref": "/players/g/grantje01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 3811.9,
+            "vorp": 2.5999999999999996
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Nikola Radičević",
+          "playerHref": "/players/r/radicni01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3811.9,
+        "vorp": 2.5999999999999996
+      },
+      "runningValues": {
+        "bpm": 2142.9999999999995,
+        "vorp": -1.6000000000000005
+      }
+    },
+    {
+      "id": "weavetr99x-7",
+      "sourceId": 7,
+      "date": "2020-11-23",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Zhaire Smith; Sent out Tony Bradley",
+      "participants": [
+        {
+          "name": "Tony Bradley",
+          "playerHref": "/players/b/bradlto01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -947.0999999999999,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Zhaire Smith",
+          "playerHref": "/players/s/smithzh01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -947.0999999999999,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": 1195.8999999999996,
+        "vorp": -2.0000000000000004
+      }
+    },
+    {
+      "id": "weavetr99x-8",
+      "sourceId": 8,
+      "date": "2020-11-24",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Christian Wood",
+      "participants": [
+        {
+          "name": "Christian Wood",
+          "playerHref": "/players/w/woodch01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 1195.8999999999996,
+        "vorp": -2.0000000000000004
+      }
+    },
+    {
+      "id": "weavetr99x-9",
+      "sourceId": 9,
+      "date": "2020-11-24",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Trevor Ariza, Isaiah Stewart, and future ('2027', '2nd') round pick; Sent out Christian Wood, Luka Garza, Joan Beringer, and future ('2025', '1st') round pick",
+      "participants": [
+        {
+          "name": "Christian Wood",
+          "playerHref": "/players/w/woodch01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -5206.8,
+            "vorp": -3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Luka Garza",
+          "playerHref": "/players/g/garzalu01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Joan Beringer",
+          "playerHref": "/players/b/berinjo01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Trevor Ariza",
+          "playerHref": "/players/a/arizatr01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Isaiah Stewart",
+          "playerHref": "/players/s/stewais01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5206.8,
+        "vorp": -3
+      },
+      "runningValues": {
+        "bpm": -4010.9000000000005,
+        "vorp": -5
+      }
+    },
+    {
+      "id": "weavetr99x-10",
+      "sourceId": 10,
+      "date": "2020-11-27",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Delon Wright; Sent out Trevor Ariza",
+      "participants": [
+        {
+          "name": "Trevor Ariza",
+          "playerHref": "/players/a/arizatr01.html",
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Delon Wright",
+          "playerHref": "/players/w/wrighde01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -4010.9000000000005,
+        "vorp": -5
+      }
+    },
+    {
+      "id": "weavetr99x-11",
+      "sourceId": 11,
+      "date": "2020-11-30",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Rookie contract for Killian Hayes",
+      "participants": [
+        {
+          "name": "Killian Hayes",
+          "playerHref": "/players/h/hayeski01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -21495.300000000003,
+            "vorp": -2.7
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -21495.300000000003,
+        "vorp": -2.7
+      },
+      "runningValues": {
+        "bpm": -25506.200000000004,
+        "vorp": -7.7
+      }
+    },
+    {
+      "id": "weavetr99x-12",
+      "sourceId": 12,
+      "date": "2020-11-30",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Saddiq Bey",
+      "participants": [
+        {
+          "name": "Saddiq Bey",
+          "playerHref": "/players/b/beysa01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -2665.7,
+            "vorp": 2.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2665.7,
+        "vorp": 2.4
+      },
+      "runningValues": {
+        "bpm": -28171.900000000005,
+        "vorp": -5.300000000000001
+      }
+    },
+    {
+      "id": "weavetr99x-13",
+      "sourceId": 13,
+      "date": "2020-11-30",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Isaiah Stewart",
+      "participants": [
+        {
+          "name": "Isaiah Stewart",
+          "playerHref": "/players/s/stewais01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -12793.6,
+            "vorp": 1.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -12793.6,
+        "vorp": 1.3
+      },
+      "runningValues": {
+        "bpm": -40965.50000000001,
+        "vorp": -4.000000000000001
+      }
+    },
+    {
+      "id": "weavetr99x-14",
+      "sourceId": 14,
+      "date": "2020-12-01",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Mason Plumlee",
+      "participants": [
+        {
+          "name": "Mason Plumlee",
+          "playerHref": "/players/p/plumlma01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 3297.8,
+            "vorp": 1.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3297.8,
+        "vorp": 1.6
+      },
+      "runningValues": {
+        "bpm": -37667.700000000004,
+        "vorp": -2.400000000000001
+      }
+    },
+    {
+      "id": "weavetr99x-15",
+      "sourceId": 15,
+      "date": "2020-12-01",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Deividas Sirvydis",
+      "participants": [
+        {
+          "name": "Deividas Sirvydis",
+          "playerHref": "/players/s/sirvyde01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -704.8999999999999,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -704.8999999999999,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -38372.600000000006,
+        "vorp": -2.500000000000001
+      }
+    },
+    {
+      "id": "weavetr99x-16",
+      "sourceId": 16,
+      "date": "2020-12-01",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Jahlil Okafor",
+      "participants": [
+        {
+          "name": "Jahlil Okafor",
+          "playerHref": "/players/o/okafoja01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1110.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1110.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -39483.00000000001,
+        "vorp": -2.600000000000001
+      }
+    },
+    {
+      "id": "weavetr99x-17",
+      "sourceId": 17,
+      "date": "2020-12-01",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Wayne Ellington",
+      "participants": [
+        {
+          "name": "Wayne Ellington",
+          "playerHref": "/players/e/ellinwa01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -202.4,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -202.4,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": -39685.40000000001,
+        "vorp": -2.100000000000001
+      }
+    },
+    {
+      "id": "weavetr99x-18",
+      "sourceId": 18,
+      "date": "2020-12-01",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Josh Jackson",
+      "participants": [
+        {
+          "name": "Josh Jackson",
+          "playerHref": "/players/j/jacksjo02.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -7225.200000000001,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -7225.200000000001,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": -46910.600000000006,
+        "vorp": -2.8000000000000007
+      }
+    },
+    {
+      "id": "weavetr99x-19",
+      "sourceId": 19,
+      "date": "2020-12-02",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Louis King",
+      "participants": [
+        {
+          "name": "Louis King",
+          "playerHref": "/players/k/kinglo02.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -46910.600000000006,
+        "vorp": -2.8000000000000007
+      }
+    },
+    {
+      "id": "weavetr99x-20",
+      "sourceId": 20,
+      "date": "2020-12-27",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Frank Jackson",
+      "participants": [
+        {
+          "name": "Frank Jackson",
+          "playerHref": "/players/j/jacksfr01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1254.6,
+            "vorp": 0.09999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1254.6,
+        "vorp": 0.09999999999999998
+      },
+      "runningValues": {
+        "bpm": -48165.200000000004,
+        "vorp": -2.7000000000000006
+      }
+    },
+    {
+      "id": "weavetr99x-21",
+      "sourceId": 21,
+      "date": "2021-02-08",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Dennis Smith and Isaiah Livers; Sent out Derrick Rose",
+      "participants": [
+        {
+          "name": "Derrick Rose",
+          "playerHref": "/players/r/rosede01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -2460.999999999999,
+            "vorp": -1.5999999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dennis Smith",
+          "playerHref": "/players/s/smithde03.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 274.4,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Isaiah Livers",
+          "playerHref": "/players/l/liveris01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2186.599999999999,
+        "vorp": -1.2999999999999998
+      },
+      "runningValues": {
+        "bpm": -50351.8,
+        "vorp": -4.000000000000001
+      }
+    },
+    {
+      "id": "weavetr99x-22",
+      "sourceId": 22,
+      "date": "2021-03-13",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Hamidou Diallo; Sent out Sviatoslav Mykhailiuk and future ('2027', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Sviatoslav Mykhailiuk",
+          "playerHref": "/players/m/mykhasv01.html",
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 2277,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Hamidou Diallo",
+          "playerHref": "/players/d/diallha01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1487.9999999999998,
+            "vorp": -0.09999999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 789.0000000000002,
+        "vorp": 0.10000000000000003
+      },
+      "runningValues": {
+        "bpm": -49562.8,
+        "vorp": -3.900000000000001
+      }
+    },
+    {
+      "id": "weavetr99x-23",
+      "sourceId": 23,
+      "date": "2021-03-18",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Tyler Cook",
+      "participants": [
+        {
+          "name": "Tyler Cook",
+          "playerHref": "/players/c/cookty01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -49562.8,
+        "vorp": -3.900000000000001
+      }
+    },
+    {
+      "id": "weavetr99x-24",
+      "sourceId": 24,
+      "date": "2021-03-25",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Cory Joseph and Luka Garza; Sent out Delon Wright",
+      "participants": [
+        {
+          "name": "Delon Wright",
+          "playerHref": "/players/w/wrighde01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -765.6,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cory Joseph",
+          "playerHref": "/players/j/josepco01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 451.8000000000002,
+            "vorp": 0.4000000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Luka Garza",
+          "playerHref": "/players/g/garzalu01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -313.79999999999984,
+        "vorp": -0.1999999999999999
+      },
+      "runningValues": {
+        "bpm": -49876.6,
+        "vorp": -4.1000000000000005
+      }
+    },
+    {
+      "id": "weavetr99x-25",
+      "sourceId": 25,
+      "date": "2021-04-07",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Tyler Cook",
+      "participants": [
+        {
+          "name": "Tyler Cook",
+          "playerHref": "/players/c/cookty01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1220.8999999999999,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1220.8999999999999,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -51097.5,
+        "vorp": -4.2
+      }
+    },
+    {
+      "id": "weavetr99x-26",
+      "sourceId": 26,
+      "date": "2021-07-29",
+      "type": "draft",
+      "tenureTeam": "DET",
+      "summary": "Drafted Cade Cunningham, JT Thor, Isaiah Livers, and Luka Garza",
+      "participants": [
+        {
+          "name": "Cade Cunningham",
+          "playerHref": "/players/c/cunnica01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "JT Thor",
+          "playerHref": "/players/t/thorjt01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Isaiah Livers",
+          "playerHref": "/players/l/liveris01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Luka Garza",
+          "playerHref": "/players/g/garzalu01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -51097.5,
+        "vorp": -4.2
+      }
+    },
+    {
+      "id": "weavetr99x-27",
+      "sourceId": 27,
+      "date": "2021-08-06",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Kelly Olynyk",
+      "participants": [
+        {
+          "name": "Kelly Olynyk",
+          "playerHref": "/players/o/olynyke01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 1146,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1146,
+        "vorp": 0.7
+      },
+      "runningValues": {
+        "bpm": -49951.5,
+        "vorp": -3.5
+      }
+    },
+    {
+      "id": "weavetr99x-28",
+      "sourceId": 28,
+      "date": "2021-08-06",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Trey Lyles",
+      "participants": [
+        {
+          "name": "Trey Lyles",
+          "playerHref": "/players/l/lylestr01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": -49951.5,
+        "vorp": -3
+      }
+    },
+    {
+      "id": "weavetr99x-29",
+      "sourceId": 29,
+      "date": "2021-08-06",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Saben Lee",
+      "participants": [
+        {
+          "name": "Saben Lee",
+          "playerHref": "/players/l/leesa01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -241.60000000000002,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -241.60000000000002,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -50193.1,
+        "vorp": -2.8
+      }
+    },
+    {
+      "id": "weavetr99x-30",
+      "sourceId": 30,
+      "date": "2021-08-06",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Rookie contract for Isaiah Livers",
+      "participants": [
+        {
+          "name": "Isaiah Livers",
+          "playerHref": "/players/l/liveris01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -6453.700000000001,
+            "vorp": -0.6
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -6453.700000000001,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": -56646.8,
+        "vorp": -3.4
+      }
+    },
+    {
+      "id": "weavetr99x-31",
+      "sourceId": 31,
+      "date": "2021-08-06",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Balša Koprivica; Sent out Mason Plumlee and JT Thor",
+      "participants": [
+        {
+          "name": "Mason Plumlee",
+          "playerHref": "/players/p/plumlma01.html",
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": -4149.6,
+            "vorp": -2.8000000000000003
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "JT Thor",
+          "playerHref": "/players/t/thorjt01.html",
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 8854.8,
+            "vorp": 1.2999999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Balša Koprivica",
+          "playerHref": "/players/k/kopriba01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4705.199999999999,
+        "vorp": -1.5000000000000004
+      },
+      "runningValues": {
+        "bpm": -51941.600000000006,
+        "vorp": -4.9
+      }
+    },
+    {
+      "id": "weavetr99x-32",
+      "sourceId": 32,
+      "date": "2021-08-08",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Rookie contract for Cade Cunningham",
+      "participants": [
+        {
+          "name": "Cade Cunningham",
+          "playerHref": "/players/c/cunnica01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 22743.8,
+            "vorp": 10.600000000000001
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 22743.8,
+        "vorp": 10.600000000000001
+      },
+      "runningValues": {
+        "bpm": -29197.800000000007,
+        "vorp": 5.700000000000001
+      }
+    },
+    {
+      "id": "weavetr99x-33",
+      "sourceId": 33,
+      "date": "2021-08-08",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Rodney McGruder",
+      "participants": [
+        {
+          "name": "Rodney McGruder",
+          "playerHref": "/players/m/mcgruro01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1841.6,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1841.6,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -31039.400000000005,
+        "vorp": 5.900000000000001
+      }
+    },
+    {
+      "id": "weavetr99x-34",
+      "sourceId": 34,
+      "date": "2021-08-10",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Frank Jackson",
+      "participants": [
+        {
+          "name": "Frank Jackson",
+          "playerHref": "/players/j/jacksfr01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -3957.6,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3957.6,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -34997.00000000001,
+        "vorp": 5.500000000000001
+      }
+    },
+    {
+      "id": "weavetr99x-35",
+      "sourceId": 35,
+      "date": "2021-08-10",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Cory Joseph",
+      "participants": [
+        {
+          "name": "Cory Joseph",
+          "playerHref": "/players/j/josepco01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -5040.5,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5040.5,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -40037.50000000001,
+        "vorp": 5.700000000000001
+      }
+    },
+    {
+      "id": "weavetr99x-36",
+      "sourceId": 36,
+      "date": "2021-08-16",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Chris Smith",
+      "participants": [
+        {
+          "name": "Chris Smith",
+          "playerHref": "/players/s/smithch07.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -40037.50000000001,
+        "vorp": 5.700000000000001
+      }
+    },
+    {
+      "id": "weavetr99x-37",
+      "sourceId": 37,
+      "date": "2021-08-16",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Rookie contract for Luka Garza",
+      "participants": [
+        {
+          "name": "Luka Garza",
+          "playerHref": "/players/g/garzalu01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -972.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -972.5,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -41010.00000000001,
+        "vorp": 5.600000000000001
+      }
+    },
+    {
+      "id": "weavetr99x-38",
+      "sourceId": 38,
+      "date": "2021-08-16",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Jamorko Pickett",
+      "participants": [
+        {
+          "name": "Jamorko Pickett",
+          "playerHref": "/players/p/pickeja01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -41010.00000000001,
+        "vorp": 5.600000000000001
+      }
+    },
+    {
+      "id": "weavetr99x-39",
+      "sourceId": 39,
+      "date": "2021-08-19",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Hamidou Diallo",
+      "participants": [
+        {
+          "name": "Hamidou Diallo",
+          "playerHref": "/players/d/diallha01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -2028.8999999999999,
+            "vorp": 0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2028.8999999999999,
+        "vorp": 0.6
+      },
+      "runningValues": {
+        "bpm": -43038.90000000001,
+        "vorp": 6.200000000000001
+      }
+    },
+    {
+      "id": "weavetr99x-40",
+      "sourceId": 40,
+      "date": "2021-09-04",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added DeAndre Jordan, Ismael Kamagate, Kyle Filipowski, Noah Penda, future ('2025', '2nd') round pick, and future ('2027', '2nd') round pick; Sent out Sekou Doumbouya and Jahlil Okafor",
+      "participants": [
+        {
+          "name": "Sekou Doumbouya",
+          "playerHref": "/players/d/doumbse01.html",
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jahlil Okafor",
+          "playerHref": "/players/o/okafoja01.html",
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "DeAndre Jordan",
+          "playerHref": "/players/j/jordade01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ismael Kamagate",
+          "playerHref": "/players/k/kamagis01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kyle Filipowski",
+          "playerHref": "/players/f/filipky01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Noah Penda",
+          "playerHref": "/players/p/pendano01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -43038.90000000001,
+        "vorp": 6.200000000000001
+      }
+    },
+    {
+      "id": "weavetr99x-41",
+      "sourceId": 41,
+      "date": "2021-09-16",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Anthony Tarke",
+      "participants": [
+        {
+          "name": "Anthony Tarke",
+          "playerHref": "/players/t/tarkean01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -43038.90000000001,
+        "vorp": 6.200000000000001
+      }
+    },
+    {
+      "id": "weavetr99x-42",
+      "sourceId": 42,
+      "date": "2021-09-24",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Jamorko Pickett",
+      "participants": [
+        {
+          "name": "Jamorko Pickett",
+          "playerHref": "/players/p/pickeja01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -862.4000000000001,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -862.4000000000001,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -43901.30000000001,
+        "vorp": 6.100000000000001
+      }
+    },
+    {
+      "id": "weavetr99x-43",
+      "sourceId": 43,
+      "date": "2021-09-27",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Deividas Sirvydis",
+      "participants": [
+        {
+          "name": "Deividas Sirvydis",
+          "playerHref": "/players/s/sirvyde01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -43901.30000000001,
+        "vorp": 6.100000000000001
+      }
+    },
+    {
+      "id": "weavetr99x-44",
+      "sourceId": 44,
+      "date": "2021-09-27",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Derrick Walton Jr.",
+      "participants": [
+        {
+          "name": "Derrick Walton Jr.",
+          "playerHref": "/players/w/waltode01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -43901.30000000001,
+        "vorp": 6.100000000000001
+      }
+    },
+    {
+      "id": "weavetr99x-45",
+      "sourceId": 45,
+      "date": "2021-09-27",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Cassius Stanley",
+      "participants": [
+        {
+          "name": "Cassius Stanley",
+          "playerHref": "/players/s/stanlca01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -43901.30000000001,
+        "vorp": 6.100000000000001
+      }
+    },
+    {
+      "id": "weavetr99x-46",
+      "sourceId": 46,
+      "date": "2021-09-29",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Jared Cunningham",
+      "participants": [
+        {
+          "name": "Jared Cunningham",
+          "playerHref": "/players/c/cunnija01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -43901.30000000001,
+        "vorp": 6.100000000000001
+      }
+    },
+    {
+      "id": "weavetr99x-47",
+      "sourceId": 47,
+      "date": "2021-12-23",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Cheick Diallo",
+      "participants": [
+        {
+          "name": "Cheick Diallo",
+          "playerHref": "/players/d/diallch01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -232.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -232.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44133.80000000001,
+        "vorp": 6.100000000000001
+      }
+    },
+    {
+      "id": "weavetr99x-48",
+      "sourceId": 48,
+      "date": "2021-12-25",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Derrick Walton",
+      "participants": [
+        {
+          "name": "Derrick Walton",
+          "playerHref": "/players/w/waltode01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -464.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -464.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -44598.20000000001,
+        "vorp": 6.000000000000002
+      }
+    },
+    {
+      "id": "weavetr99x-49",
+      "sourceId": 49,
+      "date": "2021-12-25",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Cassius Stanley",
+      "participants": [
+        {
+          "name": "Cassius Stanley",
+          "playerHref": "/players/s/stanlca01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44598.20000000001,
+        "vorp": 6.000000000000002
+      }
+    },
+    {
+      "id": "weavetr99x-50",
+      "sourceId": 50,
+      "date": "2021-12-26",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Deividas Sirvydis",
+      "participants": [
+        {
+          "name": "Deividas Sirvydis",
+          "playerHref": "/players/s/sirvyde01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -232.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -232.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44830.40000000001,
+        "vorp": 6.000000000000002
+      }
+    },
+    {
+      "id": "weavetr99x-51",
+      "sourceId": 51,
+      "date": "2021-12-28",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Justin Robinson",
+      "participants": [
+        {
+          "name": "Justin Robinson",
+          "playerHref": "/players/r/robinju01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -627.9,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -627.9,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -45458.30000000001,
+        "vorp": 5.900000000000002
+      }
+    },
+    {
+      "id": "weavetr99x-52",
+      "sourceId": 52,
+      "date": "2021-12-28",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Trayvon Palmer",
+      "participants": [
+        {
+          "name": "Trayvon Palmer",
+          "playerHref": "/players/p/palmetr01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -253.3,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -253.3,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -45711.60000000001,
+        "vorp": 5.8000000000000025
+      }
+    },
+    {
+      "id": "weavetr99x-53",
+      "sourceId": 53,
+      "date": "2021-12-29",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Micah Potter",
+      "participants": [
+        {
+          "name": "Micah Potter",
+          "playerHref": "/players/p/pottemi01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -217,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -217,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -45928.60000000001,
+        "vorp": 5.8000000000000025
+      }
+    },
+    {
+      "id": "weavetr99x-54",
+      "sourceId": 54,
+      "date": "2021-12-31",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Jaysean Paige",
+      "participants": [
+        {
+          "name": "Jaysean Paige",
+          "playerHref": "/players/p/paigeja01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -218.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -218.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -46147.000000000015,
+        "vorp": 5.8000000000000025
+      }
+    },
+    {
+      "id": "weavetr99x-55",
+      "sourceId": 55,
+      "date": "2022-01-10",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Bol Bol; Sent out Rodney McGruder",
+      "participants": [
+        {
+          "name": "Rodney McGruder",
+          "playerHref": "/players/m/mcgruro01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bol Bol",
+          "playerHref": "/players/b/bolbo01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -46147.000000000015,
+        "vorp": 5.8000000000000025
+      }
+    },
+    {
+      "id": "weavetr99x-56",
+      "sourceId": 56,
+      "date": "2022-01-21",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Cassius Stanley",
+      "participants": [
+        {
+          "name": "Cassius Stanley",
+          "playerHref": "/players/s/stanlca01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -899,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -899,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -47046.000000000015,
+        "vorp": 5.600000000000002
+      }
+    },
+    {
+      "id": "weavetr99x-57",
+      "sourceId": 57,
+      "date": "2022-02-10",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Marvin Bagley III; Sent out Josh Jackson, Trey Lyles, and Isaiah Wong",
+      "participants": [
+        {
+          "name": "Josh Jackson",
+          "playerHref": "/players/j/jacksjo02.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 1119.3,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Trey Lyles",
+          "playerHref": "/players/l/lylestr01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 3832.7,
+            "vorp": -1.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Isaiah Wong",
+          "playerHref": "/players/w/wongis01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Marvin Bagley III",
+          "playerHref": "/players/b/baglema01.html",
+          "direction": "in",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": -2320.5,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2631.5,
+        "vorp": -1.2000000000000002
+      },
+      "runningValues": {
+        "bpm": -44414.500000000015,
+        "vorp": 4.400000000000003
+      }
+    },
+    {
+      "id": "weavetr99x-58",
+      "sourceId": 58,
+      "date": "2022-03-24",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Braxton Key",
+      "participants": [
+        {
+          "name": "Braxton Key",
+          "playerHref": "/players/k/keybr01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44414.500000000015,
+        "vorp": 4.400000000000003
+      }
+    },
+    {
+      "id": "weavetr99x-59",
+      "sourceId": 59,
+      "date": "2022-04-03",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Carsen Edwards",
+      "participants": [
+        {
+          "name": "Carsen Edwards",
+          "playerHref": "/players/e/edwarca01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -734.7,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -734.7,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -45149.20000000001,
+        "vorp": 4.300000000000003
+      }
+    },
+    {
+      "id": "weavetr99x-60",
+      "sourceId": 60,
+      "date": "2022-04-03",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Braxton Key",
+      "participants": [
+        {
+          "name": "Braxton Key",
+          "playerHref": "/players/k/keybr01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -566,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -566,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -45715.20000000001,
+        "vorp": 4.200000000000004
+      }
+    },
+    {
+      "id": "weavetr99x-61",
+      "sourceId": 61,
+      "date": "2022-06-23",
+      "type": "draft",
+      "tenureTeam": "DET",
+      "summary": "Drafted Jaden Ivey and Ismael Kamagate",
+      "participants": [
+        {
+          "name": "Jaden Ivey",
+          "playerHref": "/players/i/iveyja01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ismael Kamagate",
+          "playerHref": "/players/k/kamagis01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -45715.20000000001,
+        "vorp": 4.200000000000004
+      }
+    },
+    {
+      "id": "weavetr99x-62",
+      "sourceId": 62,
+      "date": "2022-07-02",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Rookie contract for Jaden Ivey",
+      "participants": [
+        {
+          "name": "Jaden Ivey",
+          "playerHref": "/players/i/iveyja01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -14420.4,
+            "vorp": -0.49999999999999983
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -14420.4,
+        "vorp": -0.49999999999999983
+      },
+      "runningValues": {
+        "bpm": -60135.60000000001,
+        "vorp": 3.7000000000000037
+      }
+    },
+    {
+      "id": "weavetr99x-63",
+      "sourceId": 63,
+      "date": "2022-07-02",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Buddy Boeheim",
+      "participants": [
+        {
+          "name": "Buddy Boeheim",
+          "playerHref": "/players/b/boehebu01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -846,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -846,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -60981.60000000001,
+        "vorp": 3.5000000000000036
+      }
+    },
+    {
+      "id": "weavetr99x-64",
+      "sourceId": 64,
+      "date": "2022-07-06",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Gabriele Procida, Nolan Traoré, Bogoljub Markovic, Braden Smith, future ('2025', '1st') round pick, future ('2025', '2nd') round pick, and future ('2026', '2nd') round pick; Sent out Jerami Grant and Ismael Kamagate",
+      "participants": [
+        {
+          "name": "Jerami Grant",
+          "playerHref": "/players/g/grantje01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 3070.6000000000004,
+            "vorp": -2.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ismael Kamagate",
+          "playerHref": "/players/k/kamagis01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Gabriele Procida",
+          "playerHref": "/players/p/prociga01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Nolan Traoré",
+          "playerHref": "/players/t/traorno01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bogoljub Markovic",
+          "playerHref": "/players/m/markobo01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Braden Smith",
+          "playerHref": "/players/s/smithbr01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '1st') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3070.6000000000004,
+        "vorp": -2.9
+      },
+      "runningValues": {
+        "bpm": -57911.000000000015,
+        "vorp": 0.6000000000000036
+      }
+    },
+    {
+      "id": "weavetr99x-65",
+      "sourceId": 65,
+      "date": "2022-07-06",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Marvin Bagley III",
+      "participants": [
+        {
+          "name": "Marvin Bagley III",
+          "playerHref": "/players/b/baglema01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1464.6,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1464.6,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": -59375.60000000001,
+        "vorp": 1.0000000000000036
+      }
+    },
+    {
+      "id": "weavetr99x-66",
+      "sourceId": 66,
+      "date": "2022-07-06",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Jalen Duren and Kemba Walker; Sent out Nolan Traoré and future ('2025', '1st') round pick",
+      "participants": [
+        {
+          "name": "Nolan Traoré",
+          "playerHref": "/players/t/traorno01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jalen Duren",
+          "playerHref": "/players/d/durenja01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kemba Walker",
+          "playerHref": "/players/w/walkeke02.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -59375.60000000001,
+        "vorp": 1.0000000000000036
+      }
+    },
+    {
+      "id": "weavetr99x-67",
+      "sourceId": 67,
+      "date": "2022-07-07",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Jalen Duren",
+      "participants": [
+        {
+          "name": "Jalen Duren",
+          "playerHref": "/players/d/durenja01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 14994.7,
+            "vorp": 7.699999999999999
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 14994.7,
+        "vorp": 7.699999999999999
+      },
+      "runningValues": {
+        "bpm": -44380.90000000001,
+        "vorp": 8.700000000000003
+      }
+    },
+    {
+      "id": "weavetr99x-68",
+      "sourceId": 68,
+      "date": "2022-07-11",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Alec Burks, Nerlens Noel, James Nnaji, Izaiyah Nelson, and future ('2026', '2nd') round pick; Sent out Nikola Radičević and future ('2025', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Nikola Radičević",
+          "playerHref": "/players/r/radicni01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alec Burks",
+          "playerHref": "/players/b/burksal01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 985.9999999999998,
+            "vorp": 1.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Nerlens Noel",
+          "playerHref": "/players/n/noelne01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -288.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "James Nnaji",
+          "playerHref": "/players/n/nnajija01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Izaiyah Nelson",
+          "playerHref": "/players/n/nelsoiz01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 697.1999999999998,
+        "vorp": 1.3
+      },
+      "runningValues": {
+        "bpm": -43683.70000000001,
+        "vorp": 10.000000000000004
+      }
+    },
+    {
+      "id": "weavetr99x-69",
+      "sourceId": 69,
+      "date": "2022-08-01",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Rodney McGruder",
+      "participants": [
+        {
+          "name": "Rodney McGruder",
+          "playerHref": "/players/m/mcgruro01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -786,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -786,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -44469.70000000001,
+        "vorp": 10.100000000000003
+      }
+    },
+    {
+      "id": "weavetr99x-70",
+      "sourceId": 70,
+      "date": "2022-08-01",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Kevin Knox",
+      "participants": [
+        {
+          "name": "Kevin Knox",
+          "playerHref": "/players/k/knoxke01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -4236.4,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4236.4,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -48706.10000000001,
+        "vorp": 9.600000000000003
+      }
+    },
+    {
+      "id": "weavetr99x-71",
+      "sourceId": 71,
+      "date": "2022-09-12",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Micah Potter",
+      "participants": [
+        {
+          "name": "Micah Potter",
+          "playerHref": "/players/p/pottemi01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -48706.10000000001,
+        "vorp": 9.600000000000003
+      }
+    },
+    {
+      "id": "weavetr99x-72",
+      "sourceId": 72,
+      "date": "2022-09-14",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Keifer Sykes",
+      "participants": [
+        {
+          "name": "Keifer Sykes",
+          "playerHref": "/players/s/sykeske01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -48706.10000000001,
+        "vorp": 9.600000000000003
+      }
+    },
+    {
+      "id": "weavetr99x-73",
+      "sourceId": 73,
+      "date": "2022-09-19",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Kyler Edwards",
+      "participants": [
+        {
+          "name": "Kyler Edwards",
+          "playerHref": "/players/e/edwarky01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -48706.10000000001,
+        "vorp": 9.600000000000003
+      }
+    },
+    {
+      "id": "weavetr99x-74",
+      "sourceId": 74,
+      "date": "2022-09-22",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Bojan Bogdanovic; Sent out Saben Lee and Kelly Olynyk",
+      "participants": [
+        {
+          "name": "Saben Lee",
+          "playerHref": "/players/l/leesa01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kelly Olynyk",
+          "playerHref": "/players/o/olynyke01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": -3426.2000000000003,
+            "vorp": -2.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bojan Bogdanovic",
+          "playerHref": "/players/b/bogdabo02.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -419.70000000000005,
+            "vorp": 1.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3845.9000000000005,
+        "vorp": -1
+      },
+      "runningValues": {
+        "bpm": -52552.00000000001,
+        "vorp": 8.600000000000003
+      }
+    },
+    {
+      "id": "weavetr99x-75",
+      "sourceId": 75,
+      "date": "2022-09-25",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Stanley Umude",
+      "participants": [
+        {
+          "name": "Stanley Umude",
+          "playerHref": "/players/u/umudest01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -52552.00000000001,
+        "vorp": 8.600000000000003
+      }
+    },
+    {
+      "id": "weavetr99x-76",
+      "sourceId": 76,
+      "date": "2022-09-25",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Jules Bernard",
+      "participants": [
+        {
+          "name": "Jules Bernard",
+          "playerHref": "/players/b/bernaju01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -52552.00000000001,
+        "vorp": 8.600000000000003
+      }
+    },
+    {
+      "id": "weavetr99x-77",
+      "sourceId": 77,
+      "date": "2022-10-14",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Devontae Cacok",
+      "participants": [
+        {
+          "name": "Devontae Cacok",
+          "playerHref": "/players/c/cacokde01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -52552.00000000001,
+        "vorp": 8.600000000000003
+      }
+    },
+    {
+      "id": "weavetr99x-78",
+      "sourceId": 78,
+      "date": "2022-12-26",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Jared Rhoden",
+      "participants": [
+        {
+          "name": "Jared Rhoden",
+          "playerHref": "/players/r/rhodeja01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1188,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1188,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -53740.00000000001,
+        "vorp": 8.400000000000004
+      }
+    },
+    {
+      "id": "weavetr99x-79",
+      "sourceId": 79,
+      "date": "2023-02-09",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added James Wiseman; Sent out Kevin Knox and Saddiq Bey",
+      "participants": [
+        {
+          "name": "Kevin Knox",
+          "playerHref": "/players/k/knoxke01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 1651.3999999999999,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Saddiq Bey",
+          "playerHref": "/players/b/beysa01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 3397.1,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "James Wiseman",
+          "playerHref": "/players/w/wisemja01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -445.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4603.1,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -49136.90000000001,
+        "vorp": 8.100000000000003
+      }
+    },
+    {
+      "id": "weavetr99x-80",
+      "sourceId": 80,
+      "date": "2023-02-10",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Stanley Umude",
+      "participants": [
+        {
+          "name": "Stanley Umude",
+          "playerHref": "/players/u/umudest01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 97.19999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 97.19999999999999,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -49039.70000000001,
+        "vorp": 8.100000000000003
+      }
+    },
+    {
+      "id": "weavetr99x-81",
+      "sourceId": 81,
+      "date": "2023-02-23",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed R.J. Hampton",
+      "participants": [
+        {
+          "name": "R.J. Hampton",
+          "playerHref": "/players/h/hamptrj01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1711.6000000000001,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1711.6000000000001,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -50751.30000000001,
+        "vorp": 7.900000000000003
+      }
+    },
+    {
+      "id": "weavetr99x-82",
+      "sourceId": 82,
+      "date": "2023-03-03",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Eugene Omoruyi",
+      "participants": [
+        {
+          "name": "Eugene Omoruyi",
+          "playerHref": "/players/o/omorueu01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -50751.30000000001,
+        "vorp": 7.900000000000003
+      }
+    },
+    {
+      "id": "weavetr99x-83",
+      "sourceId": 83,
+      "date": "2023-03-23",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Eugene Omoruyi",
+      "participants": [
+        {
+          "name": "Eugene Omoruyi",
+          "playerHref": "/players/o/omorueu01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1529.3,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1529.3,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -52280.60000000001,
+        "vorp": 7.700000000000003
+      }
+    },
+    {
+      "id": "weavetr99x-84",
+      "sourceId": 84,
+      "date": "2023-06-22",
+      "type": "draft",
+      "tenureTeam": "DET",
+      "summary": "Drafted Ausar Thompson and James Nnaji",
+      "participants": [
+        {
+          "name": "Ausar Thompson",
+          "playerHref": "/players/t/thompau01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "James Nnaji",
+          "playerHref": "/players/n/nnajija01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -52280.60000000001,
+        "vorp": 7.700000000000003
+      }
+    },
+    {
+      "id": "weavetr99x-85",
+      "sourceId": 85,
+      "date": "2023-06-28",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Marcus Sasser; Sent out James Nnaji, Noah Penda, Braden Smith, future ('2025', '2nd') round pick, and future ('2026', '2nd') round pick",
+      "participants": [
+        {
+          "name": "James Nnaji",
+          "playerHref": "/players/n/nnajija01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Noah Penda",
+          "playerHref": "/players/p/pendano01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Braden Smith",
+          "playerHref": "/players/s/smithbr01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Marcus Sasser",
+          "playerHref": "/players/s/sassema01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -52280.60000000001,
+        "vorp": 7.700000000000003
+      }
+    },
+    {
+      "id": "weavetr99x-86",
+      "sourceId": 86,
+      "date": "2023-07-02",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Rookie contract for Ausar Thompson",
+      "participants": [
+        {
+          "name": "Ausar Thompson",
+          "playerHref": "/players/t/thompau01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 5657.6,
+            "vorp": 3.9
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 5657.6,
+        "vorp": 3.9
+      },
+      "runningValues": {
+        "bpm": -46623.000000000015,
+        "vorp": 11.600000000000003
+      }
+    },
+    {
+      "id": "weavetr99x-87",
+      "sourceId": 87,
+      "date": "2023-07-02",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Malcolm Cazalon",
+      "participants": [
+        {
+          "name": "Malcolm Cazalon",
+          "playerHref": "/players/c/cazalma01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -27.299999999999997,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -27.299999999999997,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -46650.30000000002,
+        "vorp": 11.600000000000003
+      }
+    },
+    {
+      "id": "weavetr99x-88",
+      "sourceId": 88,
+      "date": "2023-07-02",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Jared Rhoden",
+      "participants": [
+        {
+          "name": "Jared Rhoden",
+          "playerHref": "/players/r/rhodeja01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -612.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -612.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -47262.80000000002,
+        "vorp": 11.600000000000003
+      }
+    },
+    {
+      "id": "weavetr99x-89",
+      "sourceId": 89,
+      "date": "2023-07-05",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Marcus Sasser",
+      "participants": [
+        {
+          "name": "Marcus Sasser",
+          "playerHref": "/players/s/sassema01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -4776.099999999999,
+            "vorp": 0.09999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4776.099999999999,
+        "vorp": 0.09999999999999998
+      },
+      "runningValues": {
+        "bpm": -52038.900000000016,
+        "vorp": 11.700000000000003
+      }
+    },
+    {
+      "id": "weavetr99x-90",
+      "sourceId": 90,
+      "date": "2023-07-06",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Monte Morris; Sent out future ('2027', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Monte Morris",
+          "playerHref": "/players/m/morrimo01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -462.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -462.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -52501.30000000002,
+        "vorp": 11.600000000000003
+      }
+    },
+    {
+      "id": "weavetr99x-91",
+      "sourceId": 91,
+      "date": "2023-07-06",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Joe Harris, future ('2027', '2nd') round pick, and future ('2029', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Joe Harris",
+          "playerHref": "/players/h/harrijo01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -986,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2029', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -986,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -53487.30000000002,
+        "vorp": 11.400000000000004
+      }
+    },
+    {
+      "id": "weavetr99x-92",
+      "sourceId": 92,
+      "date": "2023-10-23",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Stanley Umude",
+      "participants": [
+        {
+          "name": "Stanley Umude",
+          "playerHref": "/players/u/umudest01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -491.20000000000005,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -491.20000000000005,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -53978.500000000015,
+        "vorp": 11.400000000000004
+      }
+    },
+    {
+      "id": "weavetr99x-93",
+      "sourceId": 93,
+      "date": "2023-11-08",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Kevin Knox",
+      "participants": [
+        {
+          "name": "Kevin Knox",
+          "playerHref": "/players/k/knoxke01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -2576,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2576,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -56554.500000000015,
+        "vorp": 11.000000000000004
+      }
+    },
+    {
+      "id": "weavetr99x-94",
+      "sourceId": 94,
+      "date": "2024-01-14",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Danilo Gallinari and Mike Muscala; Sent out Marvin Bagley, Isaiah Livers, Bogoljub Markovic, Izaiyah Nelson, future ('2025', '2nd') round pick, and future ('2026', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Marvin Bagley",
+          "playerHref": "/players/b/baglema01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -518.2,
+            "vorp": -0.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Isaiah Livers",
+          "playerHref": "/players/l/liveris01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bogoljub Markovic",
+          "playerHref": "/players/m/markobo01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Izaiyah Nelson",
+          "playerHref": "/players/n/nelsoiz01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Danilo Gallinari",
+          "playerHref": "/players/g/gallida01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 612,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Muscala",
+          "playerHref": "/players/m/muscami01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -376.20000000000005,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -282.4000000000001,
+        "vorp": -0.6000000000000001
+      },
+      "runningValues": {
+        "bpm": -56836.90000000001,
+        "vorp": 10.400000000000002
+      }
+    },
+    {
+      "id": "weavetr99x-95",
+      "sourceId": 95,
+      "date": "2024-02-08",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Simone Fontecchio; Sent out Kevin Knox, Gabriele Procida, and Kyle Filipowski",
+      "participants": [
+        {
+          "name": "Kevin Knox",
+          "playerHref": "/players/k/knoxke01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Gabriele Procida",
+          "playerHref": "/players/p/prociga01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kyle Filipowski",
+          "playerHref": "/players/f/filipky01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 4115.1,
+            "vorp": -0.7000000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Simone Fontecchio",
+          "playerHref": "/players/f/fontesi01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -3345.2999999999997,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 769.8000000000006,
+        "vorp": -0.7000000000000001
+      },
+      "runningValues": {
+        "bpm": -56067.10000000001,
+        "vorp": 9.700000000000003
+      }
+    },
+    {
+      "id": "weavetr99x-96",
+      "sourceId": 96,
+      "date": "2024-02-08",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Danuel House and Cam Spencer; Sent out future ('2028', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Danuel House",
+          "playerHref": "/players/h/houseda01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cam Spencer",
+          "playerHref": "/players/s/spencca01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2028', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -56067.10000000001,
+        "vorp": 9.700000000000003
+      }
+    },
+    {
+      "id": "weavetr99x-97",
+      "sourceId": 97,
+      "date": "2024-02-08",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Ryan Arcidiacono, Malachi Flynn, Evan Fournier, and Quentin Grimes; Sent out Bojan Bogdanovic and Alec Burks",
+      "participants": [
+        {
+          "name": "Bojan Bogdanovic",
+          "playerHref": "/players/b/bogdabo02.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 2673.6,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alec Burks",
+          "playerHref": "/players/b/burksal01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 2394.7000000000003,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ryan Arcidiacono",
+          "playerHref": "/players/a/arcidry01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Malachi Flynn",
+          "playerHref": "/players/f/flynnma01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -444.6,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Evan Fournier",
+          "playerHref": "/players/f/fournev01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -2055.7999999999997,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Quentin Grimes",
+          "playerHref": "/players/g/grimequ01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -920,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1647.9,
+        "vorp": 0.49999999999999994
+      },
+      "runningValues": {
+        "bpm": -54419.20000000002,
+        "vorp": 10.200000000000003
+      }
+    },
+    {
+      "id": "weavetr99x-98",
+      "sourceId": 98,
+      "date": "2024-02-08",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Troy Brown Jr., Shake Milton, and future ('2030', '2nd') round pick; Sent out Monte Morris",
+      "participants": [
+        {
+          "name": "Monte Morris",
+          "playerHref": "/players/m/morrimo01.html",
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": -816,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Troy Brown Jr.",
+          "playerHref": "/players/b/browntr01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -2251.8,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Shake Milton",
+          "playerHref": "/players/m/miltosh01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 18.9,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2030', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3048.9,
+        "vorp": -0.8
+      },
+      "runningValues": {
+        "bpm": -57468.10000000002,
+        "vorp": 9.400000000000002
+      }
+    },
+    {
+      "id": "weavetr99x-99",
+      "sourceId": 99,
+      "date": "2024-02-12",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Tosan Evbuomwan",
+      "participants": [
+        {
+          "name": "Tosan Evbuomwan",
+          "playerHref": "/players/e/evbuoto01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -57468.10000000002,
+        "vorp": 9.400000000000002
+      }
+    },
+    {
+      "id": "weavetr99x-100",
+      "sourceId": 100,
+      "date": "2024-02-23",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Buddy Boeheim",
+      "participants": [
+        {
+          "name": "Buddy Boeheim",
+          "playerHref": "/players/b/boehebu01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -294,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -294,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -57762.10000000002,
+        "vorp": 9.400000000000002
+      }
+    },
+    {
+      "id": "weavetr99x-101",
+      "sourceId": 101,
+      "date": "2024-02-23",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Tosan Evbuomwan",
+      "participants": [
+        {
+          "name": "Tosan Evbuomwan",
+          "playerHref": "/players/e/evbuoto01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -644.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -644.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -58406.70000000002,
+        "vorp": 9.400000000000002
+      }
+    },
+    {
+      "id": "weavetr99x-102",
+      "sourceId": 102,
+      "date": "2024-03-06",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Taj Gibson",
+      "participants": [
+        {
+          "name": "Taj Gibson",
+          "playerHref": "/players/g/gibsota01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -58406.70000000002,
+        "vorp": 9.400000000000002
+      }
+    },
+    {
+      "id": "weavetr99x-103",
+      "sourceId": 103,
+      "date": "2024-03-16",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Taj Gibson",
+      "participants": [
+        {
+          "name": "Taj Gibson",
+          "playerHref": "/players/g/gibsota01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 62.400000000000006,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 62.400000000000006,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -58344.30000000002,
+        "vorp": 9.400000000000002
+      }
+    },
+    {
+      "id": "weavetr99x-104",
+      "sourceId": 104,
+      "date": "2024-03-20",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Chimezie Metu",
+      "participants": [
+        {
+          "name": "Chimezie Metu",
+          "playerHref": "/players/m/metuch01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -58344.30000000002,
+        "vorp": 9.400000000000002
+      }
+    },
+    {
+      "id": "weavetr99x-105",
+      "sourceId": 105,
+      "date": "2024-03-30",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Chimezie Metu",
+      "participants": [
+        {
+          "name": "Chimezie Metu",
+          "playerHref": "/players/m/metuch01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -534.3000000000001,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -534.3000000000001,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -58878.60000000002,
+        "vorp": 9.500000000000002
+      }
+    },
+    {
+      "id": "weavetr99x-106",
+      "sourceId": 106,
+      "date": "2024-04-03",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Jaylen Nowell",
+      "participants": [
+        {
+          "name": "Jaylen Nowell",
+          "playerHref": "/players/n/nowelja01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -5.800000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5.800000000000001,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -58884.40000000002,
+        "vorp": 9.500000000000002
+      }
+    }
+  ]
+}

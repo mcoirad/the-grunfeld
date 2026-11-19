@@ -1,0 +1,3278 @@
+{
+  "slug": "ferryda01x",
+  "sourceRowCount": 150,
+  "tenures": [
+    {
+      "teamCode": "CLE",
+      "startDate": "2005-06-28",
+      "endDate": "2012-06-28"
+    },
+    {
+      "teamCode": "ATL",
+      "startDate": "2012-06-28",
+      "endDate": "2019-03-01"
+    },
+    {
+      "teamCode": "NOP",
+      "startDate": "2019-03-01",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "ferryda01x-0",
+      "sourceId": 0,
+      "date": "2005-06-28",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Martynas Andriuškevičius; Sent out Ejike Ugboaja",
+      "participants": [
+        {
+          "name": "Ejike Ugboaja",
+          "playerHref": "/players/u/ugboaej01.html",
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Martynas Andriuškevičius",
+          "playerHref": "/players/a/andrima01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 46.800000000000004,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 46.800000000000004,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 46.800000000000004,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "ferryda01x-1",
+      "sourceId": 1,
+      "date": "2005-06-28",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Lior Eliyahu; Sent out Jiří Welsch",
+      "participants": [
+        {
+          "name": "Jiří Welsch",
+          "playerHref": "/players/w/welscji01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 1905.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lior Eliyahu",
+          "playerHref": "/players/e/eliyali01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1905.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 1952,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "ferryda01x-2",
+      "sourceId": 2,
+      "date": "2005-08-02",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Larry Hughes",
+      "participants": [
+        {
+          "name": "Larry Hughes",
+          "playerHref": "/players/h/hughela01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -6404.1,
+            "vorp": 0.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6404.1,
+        "vorp": 0.9
+      },
+      "runningValues": {
+        "bpm": -4452.1,
+        "vorp": 0.9
+      }
+    },
+    {
+      "id": "ferryda01x-3",
+      "sourceId": 3,
+      "date": "2005-08-02",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Donyell Marshall",
+      "participants": [
+        {
+          "name": "Donyell Marshall",
+          "playerHref": "/players/m/marshdo01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 1790.8999999999999,
+            "vorp": 2.3000000000000003
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1790.8999999999999,
+        "vorp": 2.3000000000000003
+      },
+      "runningValues": {
+        "bpm": -2661.2000000000007,
+        "vorp": 3.2
+      }
+    },
+    {
+      "id": "ferryda01x-4",
+      "sourceId": 4,
+      "date": "2005-09-08",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Damon Jones",
+      "participants": [
+        {
+          "name": "Damon Jones",
+          "playerHref": "/players/j/jonesda01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -3418.8,
+            "vorp": 1.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3418.8,
+        "vorp": 1.5
+      },
+      "runningValues": {
+        "bpm": -6080.000000000001,
+        "vorp": 4.7
+      }
+    },
+    {
+      "id": "ferryda01x-5",
+      "sourceId": 5,
+      "date": "2005-09-17",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Alan Henderson",
+      "participants": [
+        {
+          "name": "Alan Henderson",
+          "playerHref": "/players/h/hendeal01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1115.1000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1115.1000000000001,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -7195.100000000001,
+        "vorp": 4.7
+      }
+    },
+    {
+      "id": "ferryda01x-6",
+      "sourceId": 6,
+      "date": "2005-09-27",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Zendon Hamilton",
+      "participants": [
+        {
+          "name": "Zendon Hamilton",
+          "playerHref": "/players/h/hamilze01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -59.800000000000004,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -59.800000000000004,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -7254.9000000000015,
+        "vorp": 4.7
+      }
+    },
+    {
+      "id": "ferryda01x-7",
+      "sourceId": 7,
+      "date": "2005-09-27",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Mike Wilks",
+      "participants": [
+        {
+          "name": "Mike Wilks",
+          "playerHref": "/players/w/wilksmi01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1798.2,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1798.2,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -9053.100000000002,
+        "vorp": 4.4
+      }
+    },
+    {
+      "id": "ferryda01x-8",
+      "sourceId": 8,
+      "date": "2005-10-03",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Obinna Ekezie",
+      "participants": [
+        {
+          "name": "Obinna Ekezie",
+          "playerHref": "/players/e/ekeziob01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -9053.100000000002,
+        "vorp": 4.4
+      }
+    },
+    {
+      "id": "ferryda01x-9",
+      "sourceId": 9,
+      "date": "2005-10-03",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Jahidi White",
+      "participants": [
+        {
+          "name": "Jahidi White",
+          "playerHref": "/players/w/whiteja01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -9053.100000000002,
+        "vorp": 4.4
+      }
+    },
+    {
+      "id": "ferryda01x-10",
+      "sourceId": 10,
+      "date": "2005-10-03",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Kelenna Azubuike",
+      "participants": [
+        {
+          "name": "Kelenna Azubuike",
+          "playerHref": "/players/a/azubuke01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -9053.100000000002,
+        "vorp": 4.4
+      }
+    },
+    {
+      "id": "ferryda01x-11",
+      "sourceId": 11,
+      "date": "2005-10-03",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Filiberto Rivera",
+      "participants": [
+        {
+          "name": "Filiberto Rivera",
+          "playerHref": "/players/r/riverfi01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -9053.100000000002,
+        "vorp": 4.4
+      }
+    },
+    {
+      "id": "ferryda01x-12",
+      "sourceId": 12,
+      "date": "2005-10-03",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Mengke Bateer",
+      "participants": [
+        {
+          "name": "Mengke Bateer",
+          "playerHref": "/players/b/bateeme01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -9053.100000000002,
+        "vorp": 4.4
+      }
+    },
+    {
+      "id": "ferryda01x-13",
+      "sourceId": 13,
+      "date": "2006-02-06",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Stephen Graham",
+      "participants": [
+        {
+          "name": "Stephen Graham",
+          "playerHref": "/players/g/grahast01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -725.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -725.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -9778.500000000002,
+        "vorp": 4.300000000000001
+      }
+    },
+    {
+      "id": "ferryda01x-14",
+      "sourceId": 14,
+      "date": "2006-02-23",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Lee Nailon and Daniel Gibson",
+      "participants": [
+        {
+          "name": "Lee Nailon",
+          "playerHref": "/players/n/nailole01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Daniel Gibson",
+          "playerHref": "/players/g/gibsoda01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -9778.500000000002,
+        "vorp": 4.300000000000001
+      }
+    },
+    {
+      "id": "ferryda01x-15",
+      "sourceId": 15,
+      "date": "2006-02-23",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Ronald Murray; Sent out Mike Wilks",
+      "participants": [
+        {
+          "name": "Mike Wilks",
+          "playerHref": "/players/w/wilksmi01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 989.8999999999999,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ronald Murray",
+          "playerHref": "/players/m/murraro01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1437.8,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -447.9000000000001,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -10226.400000000001,
+        "vorp": 4.400000000000001
+      }
+    },
+    {
+      "id": "ferryda01x-16",
+      "sourceId": 16,
+      "date": "2006-06-28",
+      "type": "draft",
+      "tenureTeam": "CLE",
+      "summary": "Drafted Shannon Brown, Daniel Gibson, and Ejike Ugboaja",
+      "participants": [
+        {
+          "name": "Shannon Brown",
+          "playerHref": "/players/b/brownsh01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -2415.8,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Daniel Gibson",
+          "playerHref": "/players/g/gibsoda01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -8979.6,
+            "vorp": 2.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ejike Ugboaja",
+          "playerHref": "/players/u/ugboaej01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -11395.400000000001,
+        "vorp": 2
+      },
+      "runningValues": {
+        "bpm": -21621.800000000003,
+        "vorp": 6.4
+      }
+    },
+    {
+      "id": "ferryda01x-17",
+      "sourceId": 17,
+      "date": "2006-08-18",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Eddie Basden; Sent out Martynas Andriuškevičius",
+      "participants": [
+        {
+          "name": "Martynas Andriuškevičius",
+          "playerHref": "/players/a/andrima01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eddie Basden",
+          "playerHref": "/players/b/basdeed01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -21621.800000000003,
+        "vorp": 6.4
+      }
+    },
+    {
+      "id": "ferryda01x-18",
+      "sourceId": 18,
+      "date": "2006-08-18",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Scot Pollard",
+      "participants": [
+        {
+          "name": "Scot Pollard",
+          "playerHref": "/players/p/pollasc01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -599.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -599.5,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -22221.300000000003,
+        "vorp": 6.300000000000001
+      }
+    },
+    {
+      "id": "ferryda01x-19",
+      "sourceId": 19,
+      "date": "2006-09-05",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed David Wesley",
+      "participants": [
+        {
+          "name": "David Wesley",
+          "playerHref": "/players/w/wesleda01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1091.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1091.2,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -23312.500000000004,
+        "vorp": 6.200000000000001
+      }
+    },
+    {
+      "id": "ferryda01x-20",
+      "sourceId": 20,
+      "date": "2006-10-03",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Brandon Hunter",
+      "participants": [
+        {
+          "name": "Brandon Hunter",
+          "playerHref": "/players/h/huntebr01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -23312.500000000004,
+        "vorp": 6.200000000000001
+      }
+    },
+    {
+      "id": "ferryda01x-21",
+      "sourceId": 21,
+      "date": "2006-10-13",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Dwayne Jones; Sent out Luke Jackson",
+      "participants": [
+        {
+          "name": "Luke Jackson",
+          "playerHref": "/players/j/jackslu02.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dwayne Jones",
+          "playerHref": "/players/j/jonesdw02.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1922.4,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1922.4,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -25234.900000000005,
+        "vorp": 6.000000000000001
+      }
+    },
+    {
+      "id": "ferryda01x-22",
+      "sourceId": 22,
+      "date": "2007-09-27",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Devin Brown",
+      "participants": [
+        {
+          "name": "Devin Brown",
+          "playerHref": "/players/b/brownde02.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -3700.2000000000003,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3700.2000000000003,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -28935.100000000006,
+        "vorp": 5.900000000000001
+      }
+    },
+    {
+      "id": "ferryda01x-23",
+      "sourceId": 23,
+      "date": "2007-09-28",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Darius Rice",
+      "participants": [
+        {
+          "name": "Darius Rice",
+          "playerHref": "/players/r/riceda01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -28935.100000000006,
+        "vorp": 5.900000000000001
+      }
+    },
+    {
+      "id": "ferryda01x-24",
+      "sourceId": 24,
+      "date": "2007-09-29",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Cedric Simmons; Sent out David Wesley",
+      "participants": [
+        {
+          "name": "David Wesley",
+          "playerHref": "/players/w/wesleda01.html",
+          "direction": "out",
+          "teamCode": "NOH",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cedric Simmons",
+          "playerHref": "/players/s/simmoce01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -448.79999999999995,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -448.79999999999995,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -29383.900000000005,
+        "vorp": 5.800000000000002
+      }
+    },
+    {
+      "id": "ferryda01x-25",
+      "sourceId": 25,
+      "date": "2007-10-29",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Demetris Nichols",
+      "participants": [
+        {
+          "name": "Demetris Nichols",
+          "playerHref": "/players/n/nichode01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -392,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -392,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -29775.900000000005,
+        "vorp": 5.700000000000002
+      }
+    },
+    {
+      "id": "ferryda01x-26",
+      "sourceId": 26,
+      "date": "2008-02-21",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Joe Smith, Ben Wallace, Danny Green, Wally Szczerbiak, and Delonte West; Sent out Donyell Marshall, Ira Newble, Shannon Brown, Drew Gooden, Larry Hughes, and Cedric Simmons",
+      "participants": [
+        {
+          "name": "Donyell Marshall",
+          "playerHref": "/players/m/marshdo01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 460,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ira Newble",
+          "playerHref": "/players/n/newblir01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 164.89999999999998,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Shannon Brown",
+          "playerHref": "/players/b/brownsh01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 598.4,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Drew Gooden",
+          "playerHref": "/players/g/goodedr01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 2154.6,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Larry Hughes",
+          "playerHref": "/players/h/hughela01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 1706.4,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cedric Simmons",
+          "playerHref": "/players/s/simmoce01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 291.99999999999994,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Joe Smith",
+          "playerHref": "/players/s/smithjo02.html",
+          "direction": "in",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": -687.6,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ben Wallace",
+          "playerHref": "/players/w/wallabe01.html",
+          "direction": "in",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 650.8000000000001,
+            "vorp": 1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Danny Green",
+          "playerHref": "/players/g/greenda02.html",
+          "direction": "in",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Wally Szczerbiak",
+          "playerHref": "/players/s/szczewa02.html",
+          "direction": "in",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 826,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Delonte West",
+          "playerHref": "/players/w/westde01.html",
+          "direction": "in",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": -2035.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4129.9,
+        "vorp": 1.7
+      },
+      "runningValues": {
+        "bpm": -25646,
+        "vorp": 7.400000000000001
+      }
+    },
+    {
+      "id": "ferryda01x-27",
+      "sourceId": 27,
+      "date": "2008-02-22",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Kaniel Dickens",
+      "participants": [
+        {
+          "name": "Kaniel Dickens",
+          "playerHref": "/players/d/dickeka01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -32.400000000000006,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -32.400000000000006,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -25678.4,
+        "vorp": 7.400000000000001
+      }
+    },
+    {
+      "id": "ferryda01x-28",
+      "sourceId": 28,
+      "date": "2008-02-22",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Billy Thomas",
+      "participants": [
+        {
+          "name": "Billy Thomas",
+          "playerHref": "/players/t/thomabi01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -350.20000000000005,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -350.20000000000005,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -26028.600000000002,
+        "vorp": 7.300000000000002
+      }
+    },
+    {
+      "id": "ferryda01x-29",
+      "sourceId": 29,
+      "date": "2008-03-13",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Lance Allred",
+      "participants": [
+        {
+          "name": "Lance Allred",
+          "playerHref": "/players/a/allrela01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -110,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -110,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -26138.600000000002,
+        "vorp": 7.300000000000002
+      }
+    },
+    {
+      "id": "ferryda01x-30",
+      "sourceId": 30,
+      "date": "2008-06-26",
+      "type": "draft",
+      "tenureTeam": "CLE",
+      "summary": "Drafted J.J. Hickson",
+      "participants": [
+        {
+          "name": "J.J. Hickson",
+          "playerHref": "/players/h/hicksjj01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -13196.199999999999,
+            "vorp": -0.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -13196.199999999999,
+        "vorp": -0.9
+      },
+      "runningValues": {
+        "bpm": -39334.8,
+        "vorp": 6.400000000000001
+      }
+    },
+    {
+      "id": "ferryda01x-31",
+      "sourceId": 31,
+      "date": "2008-06-26",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Darnell Jackson; Sent out Robert Dozier",
+      "participants": [
+        {
+          "name": "Robert Dozier",
+          "playerHref": "/players/d/doziero01.html",
+          "direction": "out",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Darnell Jackson",
+          "playerHref": "/players/j/jacksda01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -3367.2,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3367.2,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -42702,
+        "vorp": 5.900000000000001
+      }
+    },
+    {
+      "id": "ferryda01x-32",
+      "sourceId": 32,
+      "date": "2008-06-26",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Sasha Kaun",
+      "participants": [
+        {
+          "name": "Sasha Kaun",
+          "playerHref": "/players/k/kaunsa01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -256.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -256.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -42958.5,
+        "vorp": 5.900000000000001
+      }
+    },
+    {
+      "id": "ferryda01x-33",
+      "sourceId": 33,
+      "date": "2008-08-04",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Tarence Kinsey",
+      "participants": [
+        {
+          "name": "Tarence Kinsey",
+          "playerHref": "/players/k/kinseta01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -858.7,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -858.7,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -43817.2,
+        "vorp": 5.800000000000002
+      }
+    },
+    {
+      "id": "ferryda01x-34",
+      "sourceId": 34,
+      "date": "2008-08-13",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Mo Williams; Sent out Joe Smith and Damon Jones",
+      "participants": [
+        {
+          "name": "Joe Smith",
+          "playerHref": "/players/s/smithjo02.html",
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 1312.8999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Damon Jones",
+          "playerHref": "/players/j/jonesda01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 432,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mo Williams",
+          "playerHref": "/players/w/willima01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1744.8999999999999,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -42072.299999999996,
+        "vorp": 5.900000000000001
+      }
+    },
+    {
+      "id": "ferryda01x-35",
+      "sourceId": 35,
+      "date": "2008-09-05",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Lorenzen Wright",
+      "participants": [
+        {
+          "name": "Lorenzen Wright",
+          "playerHref": "/players/w/wrighlo02.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -825,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -825,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -42897.299999999996,
+        "vorp": 5.800000000000002
+      }
+    },
+    {
+      "id": "ferryda01x-36",
+      "sourceId": 36,
+      "date": "2008-09-29",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Jawad Williams",
+      "participants": [
+        {
+          "name": "Jawad Williams",
+          "playerHref": "/players/w/willija04.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -42897.299999999996,
+        "vorp": 5.800000000000002
+      }
+    },
+    {
+      "id": "ferryda01x-37",
+      "sourceId": 37,
+      "date": "2008-09-30",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Ronald Dupree",
+      "participants": [
+        {
+          "name": "Ronald Dupree",
+          "playerHref": "/players/d/duprero01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -42897.299999999996,
+        "vorp": 5.800000000000002
+      }
+    },
+    {
+      "id": "ferryda01x-38",
+      "sourceId": 38,
+      "date": "2009-01-12",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Jawad Williams",
+      "participants": [
+        {
+          "name": "Jawad Williams",
+          "playerHref": "/players/w/willija04.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -42897.299999999996,
+        "vorp": 5.800000000000002
+      }
+    },
+    {
+      "id": "ferryda01x-39",
+      "sourceId": 39,
+      "date": "2009-02-03",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Trey Johnson",
+      "participants": [
+        {
+          "name": "Trey Johnson",
+          "playerHref": "/players/j/johnstr01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -319.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -319.2,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -43216.49999999999,
+        "vorp": 5.700000000000002
+      }
+    },
+    {
+      "id": "ferryda01x-40",
+      "sourceId": 40,
+      "date": "2009-03-04",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Joe Smith",
+      "participants": [
+        {
+          "name": "Joe Smith",
+          "playerHref": "/players/s/smithjo02.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -43216.49999999999,
+        "vorp": 5.900000000000002
+      }
+    },
+    {
+      "id": "ferryda01x-41",
+      "sourceId": 41,
+      "date": "2009-04-09",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Jawad Williams",
+      "participants": [
+        {
+          "name": "Jawad Williams",
+          "playerHref": "/players/w/willija04.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -5659.700000000001,
+            "vorp": -0.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5659.700000000001,
+        "vorp": -0.9
+      },
+      "runningValues": {
+        "bpm": -48876.2,
+        "vorp": 5.000000000000002
+      }
+    },
+    {
+      "id": "ferryda01x-42",
+      "sourceId": 42,
+      "date": "2009-06-25",
+      "type": "draft",
+      "tenureTeam": "CLE",
+      "summary": "Drafted Christian Eyenga and Danny Green",
+      "participants": [
+        {
+          "name": "Christian Eyenga",
+          "playerHref": "/players/e/eyengch01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -4310.9,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Danny Green",
+          "playerHref": "/players/g/greenda02.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 91,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4219.9,
+        "vorp": -0.39999999999999997
+      },
+      "runningValues": {
+        "bpm": -53096.1,
+        "vorp": 4.600000000000002
+      }
+    },
+    {
+      "id": "ferryda01x-43",
+      "sourceId": 43,
+      "date": "2009-06-26",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Shaquille O'Neal; Sent out Sasha Pavlović, Ben Wallace, and Dwayne Collins",
+      "participants": [
+        {
+          "name": "Sasha Pavlović",
+          "playerHref": "/players/p/pavloal01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ben Wallace",
+          "playerHref": "/players/w/wallabe01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dwayne Collins",
+          "playerHref": "/players/c/collidw01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "playerHref": "/players/o/onealsh01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -248,
+            "vorp": 0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -248,
+        "vorp": 0.6
+      },
+      "runningValues": {
+        "bpm": -53344.1,
+        "vorp": 5.200000000000002
+      }
+    },
+    {
+      "id": "ferryda01x-44",
+      "sourceId": 44,
+      "date": "2009-06-26",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Emir Preldžić",
+      "participants": [
+        {
+          "name": "Emir Preldžić",
+          "playerHref": "/players/p/preldem01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -53344.1,
+        "vorp": 5.200000000000002
+      }
+    },
+    {
+      "id": "ferryda01x-45",
+      "sourceId": 45,
+      "date": "2009-07-13",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Anthony Parker",
+      "participants": [
+        {
+          "name": "Anthony Parker",
+          "playerHref": "/players/p/parkean01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -6916.7,
+            "vorp": 1.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6916.7,
+        "vorp": 1.1
+      },
+      "runningValues": {
+        "bpm": -60260.799999999996,
+        "vorp": 6.3000000000000025
+      }
+    },
+    {
+      "id": "ferryda01x-46",
+      "sourceId": 46,
+      "date": "2009-07-24",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Jamario Moon",
+      "participants": [
+        {
+          "name": "Jamario Moon",
+          "playerHref": "/players/m/moonja01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 861.5999999999999,
+            "vorp": 1.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 861.5999999999999,
+        "vorp": 1.1
+      },
+      "runningValues": {
+        "bpm": -59399.2,
+        "vorp": 7.400000000000002
+      }
+    },
+    {
+      "id": "ferryda01x-47",
+      "sourceId": 47,
+      "date": "2009-08-12",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Leon Powe",
+      "participants": [
+        {
+          "name": "Leon Powe",
+          "playerHref": "/players/p/powele01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -1962.3000000000002,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1962.3000000000002,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -61361.5,
+        "vorp": 7.100000000000002
+      }
+    },
+    {
+      "id": "ferryda01x-48",
+      "sourceId": 48,
+      "date": "2009-09-28",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Andre Barrett",
+      "participants": [
+        {
+          "name": "Andre Barrett",
+          "playerHref": "/players/b/barrean01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -61361.5,
+        "vorp": 7.100000000000002
+      }
+    },
+    {
+      "id": "ferryda01x-49",
+      "sourceId": 49,
+      "date": "2009-10-01",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Coby Karl",
+      "participants": [
+        {
+          "name": "Coby Karl",
+          "playerHref": "/players/k/karlco01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -200.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -200.5,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -61562,
+        "vorp": 7.000000000000003
+      }
+    },
+    {
+      "id": "ferryda01x-50",
+      "sourceId": 50,
+      "date": "2010-01-23",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Cedric Jackson",
+      "participants": [
+        {
+          "name": "Cedric Jackson",
+          "playerHref": "/players/j/jacksce01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -148,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -148,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -61710,
+        "vorp": 7.000000000000003
+      }
+    },
+    {
+      "id": "ferryda01x-51",
+      "sourceId": 51,
+      "date": "2010-02-17",
+      "type": "trade",
+      "tenureTeam": "CLE",
+      "summary": "Added Sebastian Telfair and Antawn Jamison; Sent out Zydrunas Ilgauskas, Emir Preldžić, and Lazar Hayward",
+      "participants": [
+        {
+          "name": "Zydrunas Ilgauskas",
+          "playerHref": "/players/i/ilgauzy01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Emir Preldžić",
+          "playerHref": "/players/p/preldem01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lazar Hayward",
+          "playerHref": "/players/h/haywala01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sebastian Telfair",
+          "playerHref": "/players/t/telfase01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -2502.6,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Antawn Jamison",
+          "playerHref": "/players/j/jamisan01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 478.5,
+            "vorp": 0.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2024.1,
+        "vorp": 0.6000000000000001
+      },
+      "runningValues": {
+        "bpm": -63734.1,
+        "vorp": 7.600000000000003
+      }
+    },
+    {
+      "id": "ferryda01x-52",
+      "sourceId": 52,
+      "date": "2010-03-23",
+      "type": "signing",
+      "tenureTeam": "CLE",
+      "summary": "Signed Zydrunas Ilgauskas",
+      "participants": [
+        {
+          "name": "Zydrunas Ilgauskas",
+          "playerHref": "/players/i/ilgauzy01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -4954.3,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4954.3,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": -68688.4,
+        "vorp": 7.0000000000000036
+      }
+    },
+    {
+      "id": "ferryda01x-53",
+      "sourceId": 53,
+      "date": "2012-06-28",
+      "type": "draft",
+      "tenureTeam": "ATL",
+      "summary": "Drafted John Jenkins and Mike Scott",
+      "participants": [
+        {
+          "name": "John Jenkins",
+          "playerHref": "/players/j/jenkijo01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -1612.1000000000001,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Scott",
+          "playerHref": "/players/s/scottmi01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -5416.300000000001,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -7028.4000000000015,
+        "vorp": 1.1
+      },
+      "runningValues": {
+        "bpm": -75716.8,
+        "vorp": 8.100000000000003
+      }
+    },
+    {
+      "id": "ferryda01x-54",
+      "sourceId": 54,
+      "date": "2012-07-11",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Devin Harris; Sent out Marvin Williams",
+      "participants": [
+        {
+          "name": "Marvin Williams",
+          "playerHref": "/players/w/willima02.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 1899.7,
+            "vorp": -1.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Devin Harris",
+          "playerHref": "/players/h/harride01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 142.1,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2041.8,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -73675,
+        "vorp": 7.600000000000003
+      }
+    },
+    {
+      "id": "ferryda01x-55",
+      "sourceId": 55,
+      "date": "2012-07-11",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Jordan Farmar, Anthony Morrow, Johan Petro, DeShawn Stevenson, Jordan Williams, Shane Larkin, and Frank Jackson; Sent out Joe Johnson",
+      "participants": [
+        {
+          "name": "Joe Johnson",
+          "playerHref": "/players/j/johnsjo02.html",
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 4599.1,
+            "vorp": -3.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jordan Farmar",
+          "playerHref": "/players/f/farmajo01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Anthony Morrow",
+          "playerHref": "/players/m/morroan01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -240.8,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Johan Petro",
+          "playerHref": "/players/p/petrojo01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -1760,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "DeShawn Stevenson",
+          "playerHref": "/players/s/stevede01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -2779.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jordan Williams",
+          "playerHref": "/players/w/willijo03.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Shane Larkin",
+          "playerHref": "/players/l/larkish01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Frank Jackson",
+          "playerHref": "/players/j/jacksfr01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -180.89999999999964,
+        "vorp": -4.1
+      },
+      "runningValues": {
+        "bpm": -73855.9,
+        "vorp": 3.5000000000000036
+      }
+    },
+    {
+      "id": "ferryda01x-56",
+      "sourceId": 56,
+      "date": "2012-07-12",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Lou Williams",
+      "participants": [
+        {
+          "name": "Lou Williams",
+          "playerHref": "/players/w/willilo02.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -4780.6,
+            "vorp": 0.7999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4780.6,
+        "vorp": 0.7999999999999998
+      },
+      "runningValues": {
+        "bpm": -78636.5,
+        "vorp": 4.300000000000003
+      }
+    },
+    {
+      "id": "ferryda01x-57",
+      "sourceId": 57,
+      "date": "2012-07-16",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Kyle Korver",
+      "participants": [
+        {
+          "name": "Kyle Korver",
+          "playerHref": "/players/k/korveky01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 10816.199999999999,
+            "vorp": 8.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 10816.199999999999,
+        "vorp": 8.1
+      },
+      "runningValues": {
+        "bpm": -67820.3,
+        "vorp": 12.400000000000002
+      }
+    },
+    {
+      "id": "ferryda01x-58",
+      "sourceId": 58,
+      "date": "2012-07-30",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Sofoklis Schortsanitis; Sent out Willie Green",
+      "participants": [
+        {
+          "name": "Willie Green",
+          "playerHref": "/players/g/greenwi01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 3731.2000000000003,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sofoklis Schortsanitis",
+          "playerHref": "/players/s/schorso01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3731.2000000000003,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -64089.100000000006,
+        "vorp": 12.400000000000002
+      }
+    },
+    {
+      "id": "ferryda01x-59",
+      "sourceId": 59,
+      "date": "2012-09-27",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed James Anderson",
+      "participants": [
+        {
+          "name": "James Anderson",
+          "playerHref": "/players/a/anderja01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -64089.100000000006,
+        "vorp": 12.400000000000002
+      }
+    },
+    {
+      "id": "ferryda01x-60",
+      "sourceId": 60,
+      "date": "2012-09-27",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Carldell Johnson",
+      "participants": [
+        {
+          "name": "Carldell Johnson",
+          "playerHref": "/players/j/johnsca01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -64089.100000000006,
+        "vorp": 12.400000000000002
+      }
+    },
+    {
+      "id": "ferryda01x-61",
+      "sourceId": 61,
+      "date": "2012-09-27",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Keith Benson",
+      "participants": [
+        {
+          "name": "Keith Benson",
+          "playerHref": "/players/b/bensoke02.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -64089.100000000006,
+        "vorp": 12.400000000000002
+      }
+    },
+    {
+      "id": "ferryda01x-62",
+      "sourceId": 62,
+      "date": "2012-09-27",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Damion James",
+      "participants": [
+        {
+          "name": "Damion James",
+          "playerHref": "/players/j/jamesda01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -64089.100000000006,
+        "vorp": 12.400000000000002
+      }
+    },
+    {
+      "id": "ferryda01x-63",
+      "sourceId": 63,
+      "date": "2012-09-27",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Anthony Tolliver",
+      "participants": [
+        {
+          "name": "Anthony Tolliver",
+          "playerHref": "/players/t/tollian01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -2889,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2889,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -66978.1,
+        "vorp": 12.100000000000001
+      }
+    },
+    {
+      "id": "ferryda01x-64",
+      "sourceId": 64,
+      "date": "2013-01-21",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Jannero Pargo",
+      "participants": [
+        {
+          "name": "Jannero Pargo",
+          "playerHref": "/players/p/pargoja01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -440.7,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -440.7,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -67418.8,
+        "vorp": 12.100000000000001
+      }
+    },
+    {
+      "id": "ferryda01x-65",
+      "sourceId": 65,
+      "date": "2013-02-21",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Jeremy Tyler",
+      "participants": [
+        {
+          "name": "Jeremy Tyler",
+          "playerHref": "/players/t/tylerje01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -16,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -16,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -67434.8,
+        "vorp": 12.100000000000001
+      }
+    },
+    {
+      "id": "ferryda01x-66",
+      "sourceId": 66,
+      "date": "2013-02-21",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Dahntay Jones; Sent out Anthony Morrow",
+      "participants": [
+        {
+          "name": "Anthony Morrow",
+          "playerHref": "/players/m/morroan01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 459.2,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dahntay Jones",
+          "playerHref": "/players/j/jonesda02.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -2514.6,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2055.4,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -69490.20000000001,
+        "vorp": 11.8
+      }
+    },
+    {
+      "id": "ferryda01x-67",
+      "sourceId": 67,
+      "date": "2013-03-06",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Shelvin Mack",
+      "participants": [
+        {
+          "name": "Shelvin Mack",
+          "playerHref": "/players/m/macksh01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -4324.6,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4324.6,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": -73814.80000000002,
+        "vorp": 12.100000000000001
+      }
+    },
+    {
+      "id": "ferryda01x-69",
+      "sourceId": 69,
+      "date": "2013-06-27",
+      "type": "draft",
+      "tenureTeam": "ATL",
+      "summary": "Drafted Dennis Schröder, Shane Larkin, Raul Neto, and James Ennis",
+      "participants": [
+        {
+          "name": "Dennis Schröder",
+          "playerHref": "/players/s/schrode01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Shane Larkin",
+          "playerHref": "/players/l/larkish01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Raul Neto",
+          "playerHref": "/players/n/netora01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "James Ennis",
+          "playerHref": "/players/e/ennisja01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -73814.80000000002,
+        "vorp": 12.100000000000001
+      }
+    },
+    {
+      "id": "ferryda01x-70",
+      "sourceId": 70,
+      "date": "2013-06-27",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Jared Cunningham, Mike Muscala, and Lucas Nogueira; Sent out Shane Larkin",
+      "participants": [
+        {
+          "name": "Shane Larkin",
+          "playerHref": "/players/l/larkish01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 1858.1999999999998,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jared Cunningham",
+          "playerHref": "/players/c/cunnija01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -248.60000000000002,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Muscala",
+          "playerHref": "/players/m/muscami01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lucas Nogueira",
+          "playerHref": "/players/n/noguelu01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1609.6,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -72205.20000000003,
+        "vorp": 12.200000000000001
+      }
+    },
+    {
+      "id": "ferryda01x-71",
+      "sourceId": 71,
+      "date": "2013-06-27",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Sterling Brown; Sent out James Ennis",
+      "participants": [
+        {
+          "name": "James Ennis",
+          "playerHref": "/players/e/ennisja01.html",
+          "direction": "out",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": 1588.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sterling Brown",
+          "playerHref": "/players/b/brownst02.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1588.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -70616.80000000003,
+        "vorp": 12.100000000000001
+      }
+    },
+    {
+      "id": "ferryda01x-72",
+      "sourceId": 72,
+      "date": "2013-06-27",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Pat Connaughton; Sent out Raul Neto",
+      "participants": [
+        {
+          "name": "Raul Neto",
+          "playerHref": "/players/n/netora01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 3871.9999999999995,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Pat Connaughton",
+          "playerHref": "/players/c/connapa01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3871.9999999999995,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -66744.80000000003,
+        "vorp": 11.600000000000001
+      }
+    },
+    {
+      "id": "ferryda01x-73",
+      "sourceId": 73,
+      "date": "2013-07-10",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Paul Millsap",
+      "participants": [
+        {
+          "name": "Paul Millsap",
+          "playerHref": "/players/m/millspa01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 30874.3,
+            "vorp": 12.700000000000001
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 30874.3,
+        "vorp": 12.700000000000001
+      },
+      "runningValues": {
+        "bpm": -35870.50000000003,
+        "vorp": 24.300000000000004
+      }
+    },
+    {
+      "id": "ferryda01x-74",
+      "sourceId": 74,
+      "date": "2013-07-10",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Rookie contract for Dennis Schröder",
+      "participants": [
+        {
+          "name": "Dennis Schröder",
+          "playerHref": "/players/s/schrode01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -9129.6,
+            "vorp": 1.9
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -9129.6,
+        "vorp": 1.9
+      },
+      "runningValues": {
+        "bpm": -45000.10000000003,
+        "vorp": 26.200000000000003
+      }
+    },
+    {
+      "id": "ferryda01x-75",
+      "sourceId": 75,
+      "date": "2013-07-15",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Elton Brand",
+      "participants": [
+        {
+          "name": "Elton Brand",
+          "playerHref": "/players/b/brandel01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -2399.2,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2399.2,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": -47399.300000000025,
+        "vorp": 26.6
+      }
+    },
+    {
+      "id": "ferryda01x-76",
+      "sourceId": 76,
+      "date": "2013-07-29",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Gustavo Ayón",
+      "participants": [
+        {
+          "name": "Gustavo Ayón",
+          "playerHref": "/players/a/ayongu01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -471.90000000000003,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -471.90000000000003,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -47871.200000000026,
+        "vorp": 26.700000000000003
+      }
+    },
+    {
+      "id": "ferryda01x-77",
+      "sourceId": 77,
+      "date": "2013-08-03",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed DeMarre Carroll",
+      "participants": [
+        {
+          "name": "DeMarre Carroll",
+          "playerHref": "/players/c/carrode01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 5360,
+            "vorp": 3.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5360,
+        "vorp": 3.6
+      },
+      "runningValues": {
+        "bpm": -42511.200000000026,
+        "vorp": 30.300000000000004
+      }
+    },
+    {
+      "id": "ferryda01x-78",
+      "sourceId": 78,
+      "date": "2014-01-11",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed James Nunnally",
+      "participants": [
+        {
+          "name": "James Nunnally",
+          "playerHref": "/players/n/nunnaja01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -351,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -351,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -42862.200000000026,
+        "vorp": 30.200000000000003
+      }
+    },
+    {
+      "id": "ferryda01x-79",
+      "sourceId": 79,
+      "date": "2014-02-01",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Cartier Martin",
+      "participants": [
+        {
+          "name": "Cartier Martin",
+          "playerHref": "/players/m/martica01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -42862.200000000026,
+        "vorp": 30.200000000000003
+      }
+    },
+    {
+      "id": "ferryda01x-80",
+      "sourceId": 80,
+      "date": "2014-02-11",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Cartier Martin",
+      "participants": [
+        {
+          "name": "Cartier Martin",
+          "playerHref": "/players/m/martica01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -42862.200000000026,
+        "vorp": 30.200000000000003
+      }
+    },
+    {
+      "id": "ferryda01x-81",
+      "sourceId": 81,
+      "date": "2014-02-20",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Antawn Jamison; Sent out Cenk Akyol",
+      "participants": [
+        {
+          "name": "Cenk Akyol",
+          "playerHref": "/players/a/akyolce01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Antawn Jamison",
+          "playerHref": "/players/j/jamisan01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -42862.200000000026,
+        "vorp": 30.200000000000003
+      }
+    },
+    {
+      "id": "ferryda01x-82",
+      "sourceId": 82,
+      "date": "2014-02-21",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Cartier Martin",
+      "participants": [
+        {
+          "name": "Cartier Martin",
+          "playerHref": "/players/m/martica01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -1150.8,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1150.8,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -44013.00000000003,
+        "vorp": 30.300000000000004
+      }
+    },
+    {
+      "id": "ferryda01x-83",
+      "sourceId": 83,
+      "date": "2014-02-22",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Dexter Pittman",
+      "participants": [
+        {
+          "name": "Dexter Pittman",
+          "playerHref": "/players/p/pittmde01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -72.9,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -72.9,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44085.90000000003,
+        "vorp": 30.300000000000004
+      }
+    },
+    {
+      "id": "ferryda01x-84",
+      "sourceId": 84,
+      "date": "2014-02-27",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Mike Muscala",
+      "participants": [
+        {
+          "name": "Mike Muscala",
+          "playerHref": "/players/m/muscami01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 37.90000000000009,
+            "vorp": 1.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 37.90000000000009,
+        "vorp": 1.9
+      },
+      "runningValues": {
+        "bpm": -44048.00000000003,
+        "vorp": 32.2
+      }
+    },
+    {
+      "id": "ferryda01x-85",
+      "sourceId": 85,
+      "date": "2014-06-26",
+      "type": "draft",
+      "tenureTeam": "ATL",
+      "summary": "Drafted Adreian Payne and Edy Tavares",
+      "participants": [
+        {
+          "name": "Adreian Payne",
+          "playerHref": "/players/p/paynead01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Edy Tavares",
+          "playerHref": "/players/t/tavarwa01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -135.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -135.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -44183.80000000003,
+        "vorp": 32.2
+      }
+    },
+    {
+      "id": "ferryda01x-86",
+      "sourceId": 86,
+      "date": "2014-06-27",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Lamar Patterson; Sent out Pat Connaughton",
+      "participants": [
+        {
+          "name": "Pat Connaughton",
+          "playerHref": "/players/c/connapa01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 1223.3000000000004,
+            "vorp": -4.6000000000000005
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lamar Patterson",
+          "playerHref": "/players/p/pattela01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -2466.5,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1243.1999999999996,
+        "vorp": -5.000000000000001
+      },
+      "runningValues": {
+        "bpm": -45427.00000000003,
+        "vorp": 27.200000000000003
+      }
+    },
+    {
+      "id": "ferryda01x-87",
+      "sourceId": 87,
+      "date": "2014-06-29",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added John Salmons; Sent out Lucas Nogueira and Lou Williams",
+      "participants": [
+        {
+          "name": "Lucas Nogueira",
+          "playerHref": "/players/n/noguelu01.html",
+          "direction": "out",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": -4110.4,
+            "vorp": -2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lou Williams",
+          "playerHref": "/players/w/willilo02.html",
+          "direction": "out",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": -5241.6,
+            "vorp": -2.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Salmons",
+          "playerHref": "/players/s/salmojo01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -9352,
+        "vorp": -4.3
+      },
+      "runningValues": {
+        "bpm": -54779.00000000003,
+        "vorp": 22.900000000000002
+      }
+    },
+    {
+      "id": "ferryda01x-88",
+      "sourceId": 88,
+      "date": "2014-07-10",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Thabo Sefolosha",
+      "participants": [
+        {
+          "name": "Thabo Sefolosha",
+          "playerHref": "/players/s/sefolth01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -54779.00000000003,
+        "vorp": 22.900000000000002
+      }
+    },
+    {
+      "id": "ferryda01x-89",
+      "sourceId": 89,
+      "date": "2014-07-15",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Georgios Printezis and Thabo Sefolosha; Sent out Sofoklis Schortsanitis",
+      "participants": [
+        {
+          "name": "Sofoklis Schortsanitis",
+          "playerHref": "/players/s/schorso01.html",
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Georgios Printezis",
+          "playerHref": "/players/p/printgi01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Thabo Sefolosha",
+          "playerHref": "/players/s/sefolth01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 3020.8,
+            "vorp": 3.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3020.8,
+        "vorp": 3.1
+      },
+      "runningValues": {
+        "bpm": -51758.200000000026,
+        "vorp": 26.000000000000004
+      }
+    },
+    {
+      "id": "ferryda01x-90",
+      "sourceId": 90,
+      "date": "2014-07-25",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Rookie contract for Adreian Payne",
+      "participants": [
+        {
+          "name": "Adreian Payne",
+          "playerHref": "/players/p/paynead01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -199.5,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -199.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -51957.700000000026,
+        "vorp": 26.000000000000004
+      }
+    },
+    {
+      "id": "ferryda01x-91",
+      "sourceId": 91,
+      "date": "2019-03-01",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Dairis Bertāns",
+      "participants": [
+        {
+          "name": "Dairis Bertāns",
+          "playerHref": "/players/b/bertada02.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": -1469.6000000000001,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1469.6000000000001,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -53427.300000000025,
+        "vorp": 25.700000000000003
+      }
+    }
+  ]
+}

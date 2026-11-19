@@ -1,0 +1,2016 @@
+{
+  "slug": "buckwbu99x",
+  "sourceRowCount": 98,
+  "tenures": [
+    {
+      "teamCode": "POR",
+      "startDate": "1986-01-14",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "buckwbu99x-1",
+      "sourceId": 1,
+      "date": "1986-01-14",
+      "type": "trade",
+      "tenureTeam": "POR",
+      "summary": "Added Arvydas Sabonis and Rolando Ferreira; Sent out Darnell Valentine and Tom Garrick",
+      "participants": [
+        {
+          "name": "Darnell Valentine",
+          "playerHref": "/players/v/valenda01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 5144.700000000001,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tom Garrick",
+          "playerHref": "/players/g/garrito01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 5834.9,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Arvydas Sabonis",
+          "playerHref": "/players/s/sabonar01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rolando Ferreira",
+          "playerHref": "/players/f/ferrero01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 10979.6,
+        "vorp": -1.2999999999999998
+      },
+      "runningValues": {
+        "bpm": 10979.6,
+        "vorp": -1.2999999999999998
+      }
+    },
+    {
+      "id": "buckwbu99x-2",
+      "sourceId": 2,
+      "date": "1986-02-24",
+      "type": "signing",
+      "tenureTeam": "POR",
+      "summary": "Signed Brian Martin",
+      "participants": [
+        {
+          "name": "Brian Martin",
+          "playerHref": "/players/m/martibr01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 10979.6,
+        "vorp": -1.2999999999999998
+      }
+    },
+    {
+      "id": "buckwbu99x-3",
+      "sourceId": 3,
+      "date": "1986-03-26",
+      "type": "signing",
+      "tenureTeam": "POR",
+      "summary": "Signed Brian Martin",
+      "participants": [
+        {
+          "name": "Brian Martin",
+          "playerHref": "/players/m/martibr01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -231,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -231,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 10748.6,
+        "vorp": -1.4
+      }
+    },
+    {
+      "id": "buckwbu99x-4",
+      "sourceId": 4,
+      "date": "1986-05-06",
+      "type": "signing",
+      "tenureTeam": "POR",
+      "summary": "Signed Fernando Martín",
+      "participants": [
+        {
+          "name": "Fernando Martín",
+          "playerHref": "/players/m/martife01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -1503.8000000000002,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1503.8000000000002,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": 9244.8,
+        "vorp": -1.7
+      }
+    },
+    {
+      "id": "buckwbu99x-7",
+      "sourceId": 7,
+      "date": "1986-06-17",
+      "type": "draft",
+      "tenureTeam": "POR",
+      "summary": "Drafted Walter Berry, Arvydas Sabonis, Panagiotis Fasoulas, Juden Smith, Dražen Petrović, David Shaffer, Jerry Adams, Tony Hampton, and Randy Schiff",
+      "participants": [
+        {
+          "name": "Walter Berry",
+          "playerHref": "/players/b/berrywa01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 197.6,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Arvydas Sabonis",
+          "playerHref": "/players/s/sabonar01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 49917.600000000006,
+            "vorp": 18.400000000000002
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Panagiotis Fasoulas",
+          "playerHref": "/players/f/fasoupa01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Juden Smith",
+          "playerHref": "/players/s/smithju01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dražen Petrović",
+          "playerHref": "/players/p/petrodr01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "David Shaffer",
+          "playerHref": "/players/s/shaffda01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jerry Adams",
+          "playerHref": "/players/a/adamsje01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tony Hampton",
+          "playerHref": "/players/h/hamptto01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Randy Schiff",
+          "playerHref": "/players/s/schifra01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 50115.200000000004,
+        "vorp": 18.500000000000004
+      },
+      "runningValues": {
+        "bpm": 59360.00000000001,
+        "vorp": 16.8
+      }
+    },
+    {
+      "id": "buckwbu99x-8",
+      "sourceId": 8,
+      "date": "1986-06-17",
+      "type": "trade",
+      "tenureTeam": "POR",
+      "summary": "Added Larry Krystkowiak, Winston Garland, and Brett Roberts; Sent out Steve Colter",
+      "participants": [
+        {
+          "name": "Steve Colter",
+          "playerHref": "/players/c/coltest01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 1229.8,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Larry Krystkowiak",
+          "playerHref": "/players/k/krystla01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Winston Garland",
+          "playerHref": "/players/g/garlawi01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Brett Roberts",
+          "playerHref": "/players/r/roberbr02.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1229.8,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 60589.80000000001,
+        "vorp": 16.900000000000002
+      }
+    },
+    {
+      "id": "buckwbu99x-9",
+      "sourceId": 9,
+      "date": "1986-06-19",
+      "type": "trade",
+      "tenureTeam": "POR",
+      "summary": "Added Steve Johnson; Sent out Larry Krystkowiak and Mychal Thompson",
+      "participants": [
+        {
+          "name": "Larry Krystkowiak",
+          "playerHref": "/players/k/krystla01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 3413.6,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mychal Thompson",
+          "playerHref": "/players/t/thompmy01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 2178,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Johnson",
+          "playerHref": "/players/j/johnsst03.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -11855.2,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6263.6,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": 54326.20000000001,
+        "vorp": 16.5
+      }
+    },
+    {
+      "id": "buckwbu99x-10",
+      "sourceId": 10,
+      "date": "1986-08-07",
+      "type": "signing",
+      "tenureTeam": "POR",
+      "summary": "Signed Mike Holton",
+      "participants": [
+        {
+          "name": "Mike Holton",
+          "playerHref": "/players/h/holtomi01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -3786.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3786.6,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 50539.60000000001,
+        "vorp": 16.4
+      }
+    },
+    {
+      "id": "buckwbu99x-11",
+      "sourceId": 11,
+      "date": "1986-08-27",
+      "type": "signing",
+      "tenureTeam": "POR",
+      "summary": "Signed Perry Young",
+      "participants": [
+        {
+          "name": "Perry Young",
+          "playerHref": "/players/y/youngpe01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 50539.60000000001,
+        "vorp": 16.4
+      }
+    },
+    {
+      "id": "buckwbu99x-12",
+      "sourceId": 12,
+      "date": "1986-11-11",
+      "type": "trade",
+      "tenureTeam": "POR",
+      "summary": "Added Chris Engler; Sent out Winston Garland",
+      "participants": [
+        {
+          "name": "Winston Garland",
+          "playerHref": "/players/g/garlawi01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chris Engler",
+          "playerHref": "/players/e/englech01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 85,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 85,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 50624.60000000001,
+        "vorp": 16.4
+      }
+    },
+    {
+      "id": "buckwbu99x-13",
+      "sourceId": 13,
+      "date": "1986-12-18",
+      "type": "trade",
+      "tenureTeam": "POR",
+      "summary": "Added Kevin Duckworth; Sent out Walter Berry",
+      "participants": [
+        {
+          "name": "Walter Berry",
+          "playerHref": "/players/b/berrywa01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 3589.4,
+            "vorp": -0.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kevin Duckworth",
+          "playerHref": "/players/d/duckwke01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -47972.69999999999,
+            "vorp": -4.6000000000000005
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -44383.29999999999,
+        "vorp": -5.500000000000001
+      },
+      "runningValues": {
+        "bpm": 6241.300000000025,
+        "vorp": 10.899999999999999
+      }
+    },
+    {
+      "id": "buckwbu99x-14",
+      "sourceId": 14,
+      "date": "1987-02-13",
+      "type": "signing",
+      "tenureTeam": "POR",
+      "summary": "Signed Joe Binion",
+      "participants": [
+        {
+          "name": "Joe Binion",
+          "playerHref": "/players/b/biniojo01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -86.7,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -86.7,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 6154.600000000025,
+        "vorp": 10.899999999999999
+      }
+    },
+    {
+      "id": "buckwbu99x-15",
+      "sourceId": 15,
+      "date": "1987-02-24",
+      "type": "signing",
+      "tenureTeam": "POR",
+      "summary": "Signed Perry Young",
+      "participants": [
+        {
+          "name": "Perry Young",
+          "playerHref": "/players/y/youngpe01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -358.8,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -358.8,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 5795.800000000025,
+        "vorp": 10.799999999999999
+      }
+    },
+    {
+      "id": "buckwbu99x-16",
+      "sourceId": 16,
+      "date": "1987-03-16",
+      "type": "signing",
+      "tenureTeam": "POR",
+      "summary": "Signed Ron Rowan",
+      "participants": [
+        {
+          "name": "Ron Rowan",
+          "playerHref": "/players/r/rowanro01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 136,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 136,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 5931.800000000025,
+        "vorp": 10.799999999999999
+      }
+    },
+    {
+      "id": "buckwbu99x-17",
+      "sourceId": 17,
+      "date": "1987-04-16",
+      "type": "signing",
+      "tenureTeam": "POR",
+      "summary": "Signed Charles Jones",
+      "participants": [
+        {
+          "name": "Charles Jones",
+          "playerHref": "/players/j/jonesch02.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 5931.800000000025,
+        "vorp": 10.799999999999999
+      }
+    },
+    {
+      "id": "buckwbu99x-18",
+      "sourceId": 18,
+      "date": "1987-06-22",
+      "type": "draft",
+      "tenureTeam": "POR",
+      "summary": "Drafted Ronnie Murphy, Lester Fonville, Nikita Wilson, Kevin Gamble, Norwood Barber, David Moss, Bernard Jackson, and Kenny Stone",
+      "participants": [
+        {
+          "name": "Ronnie Murphy",
+          "playerHref": "/players/m/murphro01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -1032.3999999999999,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lester Fonville",
+          "playerHref": "/players/f/fonvile01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Nikita Wilson",
+          "playerHref": "/players/w/wilsoni01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -610.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kevin Gamble",
+          "playerHref": "/players/g/gamblke01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -133,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Norwood Barber",
+          "playerHref": "/players/b/barbeno01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "David Moss",
+          "playerHref": "/players/m/mossda01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bernard Jackson",
+          "playerHref": "/players/j/johnsbe01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kenny Stone",
+          "playerHref": "/players/s/stoneke01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1775.6,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": 4156.200000000025,
+        "vorp": 10.5
+      }
+    },
+    {
+      "id": "buckwbu99x-19",
+      "sourceId": 19,
+      "date": "1987-10-10",
+      "type": "signing",
+      "tenureTeam": "POR",
+      "summary": "Signed Charles Jones",
+      "participants": [
+        {
+          "name": "Charles Jones",
+          "playerHref": "/players/j/jonesch02.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -1116,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1116,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 3040.2000000000253,
+        "vorp": 10.3
+      }
+    },
+    {
+      "id": "buckwbu99x-20",
+      "sourceId": 20,
+      "date": "1987-10-13",
+      "type": "trade",
+      "tenureTeam": "POR",
+      "summary": "Added Anthony Mason; Sent out Kermit Washington",
+      "participants": [
+        {
+          "name": "Kermit Washington",
+          "playerHref": "/players/w/washike01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 151.20000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Anthony Mason",
+          "playerHref": "/players/m/masonan01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 151.20000000000002,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 3191.400000000025,
+        "vorp": 10.3
+      }
+    },
+    {
+      "id": "buckwbu99x-21",
+      "sourceId": 21,
+      "date": "1987-11-10",
+      "type": "signing",
+      "tenureTeam": "POR",
+      "summary": "Signed Maurice Lucas",
+      "participants": [
+        {
+          "name": "Maurice Lucas",
+          "playerHref": "/players/l/lucasma01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -2620.2000000000003,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2620.2000000000003,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 571.2000000000248,
+        "vorp": 10.200000000000001
+      }
+    },
+    {
+      "id": "buckwbu99x-22",
+      "sourceId": 22,
+      "date": "1988-02-23",
+      "type": "trade",
+      "tenureTeam": "POR",
+      "summary": "Added Jerry Sichting; Sent out Jim Paxson",
+      "participants": [
+        {
+          "name": "Jim Paxson",
+          "playerHref": "/players/p/paxsoji02.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 9518.5,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jerry Sichting",
+          "playerHref": "/players/s/sichtje01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -1759.8,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 7758.7,
+        "vorp": 0.7000000000000001
+      },
+      "runningValues": {
+        "bpm": 8329.900000000025,
+        "vorp": 10.900000000000002
+      }
+    },
+    {
+      "id": "buckwbu99x-23",
+      "sourceId": 23,
+      "date": "1988-06-28",
+      "type": "draft",
+      "tenureTeam": "POR",
+      "summary": "Drafted Mark Bryant, Rolando Ferreira, Anthony Mason, and Craig Neal",
+      "participants": [
+        {
+          "name": "Mark Bryant",
+          "playerHref": "/players/b/bryanma01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -18420.5,
+            "vorp": -1.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rolando Ferreira",
+          "playerHref": "/players/f/ferrero01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -788.8,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Anthony Mason",
+          "playerHref": "/players/m/masonan01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Craig Neal",
+          "playerHref": "/players/n/nealcr01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -874.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -20083.8,
+        "vorp": -1.8
+      },
+      "runningValues": {
+        "bpm": -11753.899999999974,
+        "vorp": 9.100000000000003
+      }
+    },
+    {
+      "id": "buckwbu99x-24",
+      "sourceId": 24,
+      "date": "1988-09-01",
+      "type": "signing",
+      "tenureTeam": "POR",
+      "summary": "Signed Richard Anderson",
+      "participants": [
+        {
+          "name": "Richard Anderson",
+          "playerHref": "/players/a/anderri01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 108.2,
+            "vorp": 0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 108.2,
+        "vorp": 0.6
+      },
+      "runningValues": {
+        "bpm": -11645.699999999973,
+        "vorp": 9.700000000000003
+      }
+    },
+    {
+      "id": "buckwbu99x-25",
+      "sourceId": 25,
+      "date": "1988-10-06",
+      "type": "signing",
+      "tenureTeam": "POR",
+      "summary": "Signed Darwin Cook",
+      "participants": [
+        {
+          "name": "Darwin Cook",
+          "playerHref": "/players/c/cookda01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -11645.699999999973,
+        "vorp": 9.700000000000003
+      }
+    },
+    {
+      "id": "buckwbu99x-26",
+      "sourceId": 26,
+      "date": "1988-10-06",
+      "type": "signing",
+      "tenureTeam": "POR",
+      "summary": "Signed Adrian Branch",
+      "participants": [
+        {
+          "name": "Adrian Branch",
+          "playerHref": "/players/b/brancad01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -1135.3999999999999,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1135.3999999999999,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -12781.099999999973,
+        "vorp": 9.800000000000002
+      }
+    },
+    {
+      "id": "buckwbu99x-27",
+      "sourceId": 27,
+      "date": "1988-11-02",
+      "type": "signing",
+      "tenureTeam": "POR",
+      "summary": "Signed Danny Young",
+      "participants": [
+        {
+          "name": "Danny Young",
+          "playerHref": "/players/y/youngda01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 1595,
+            "vorp": 2.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1595,
+        "vorp": 2.1
+      },
+      "runningValues": {
+        "bpm": -11186.099999999973,
+        "vorp": 11.900000000000002
+      }
+    },
+    {
+      "id": "buckwbu99x-30",
+      "sourceId": 30,
+      "date": "1989-02-23",
+      "type": "trade",
+      "tenureTeam": "POR",
+      "summary": "Added Byron Irvin; Sent out Kiki Vandeweghe",
+      "participants": [
+        {
+          "name": "Kiki Vandeweghe",
+          "playerHref": "/players/v/vandeki01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 3723.7000000000003,
+            "vorp": -1.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Byron Irvin",
+          "playerHref": "/players/i/irvinby01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3723.7000000000003,
+        "vorp": -1.2
+      },
+      "runningValues": {
+        "bpm": -7462.399999999972,
+        "vorp": 10.700000000000003
+      }
+    },
+    {
+      "id": "buckwbu99x-31",
+      "sourceId": 31,
+      "date": "1989-02-24",
+      "type": "signing",
+      "tenureTeam": "POR",
+      "summary": "Signed Brook Steppe",
+      "participants": [
+        {
+          "name": "Brook Steppe",
+          "playerHref": "/players/s/steppbr01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -7462.399999999972,
+        "vorp": 10.700000000000003
+      }
+    },
+    {
+      "id": "buckwbu99x-32",
+      "sourceId": 32,
+      "date": "1989-02-28",
+      "type": "signing",
+      "tenureTeam": "POR",
+      "summary": "Signed Clinton Wheeler",
+      "participants": [
+        {
+          "name": "Clinton Wheeler",
+          "playerHref": "/players/w/wheelcl01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -7462.399999999972,
+        "vorp": 10.700000000000003
+      }
+    },
+    {
+      "id": "buckwbu99x-33",
+      "sourceId": 33,
+      "date": "1989-03-17",
+      "type": "signing",
+      "tenureTeam": "POR",
+      "summary": "Signed Brook Steppe",
+      "participants": [
+        {
+          "name": "Brook Steppe",
+          "playerHref": "/players/s/steppbr01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -390.40000000000003,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -390.40000000000003,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -7852.799999999972,
+        "vorp": 10.700000000000003
+      }
+    },
+    {
+      "id": "buckwbu99x-34",
+      "sourceId": 34,
+      "date": "1989-03-20",
+      "type": "signing",
+      "tenureTeam": "POR",
+      "summary": "Signed Clinton Wheeler",
+      "participants": [
+        {
+          "name": "Clinton Wheeler",
+          "playerHref": "/players/w/wheelcl01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -21.1,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -21.1,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -7873.899999999972,
+        "vorp": 10.800000000000002
+      }
+    },
+    {
+      "id": "buckwbu99x-35",
+      "sourceId": 35,
+      "date": "1989-06-24",
+      "type": "trade",
+      "tenureTeam": "POR",
+      "summary": "Added Buck Williams; Sent out Sam Bowie and Mookie Blaylock",
+      "participants": [
+        {
+          "name": "Sam Bowie",
+          "playerHref": "/players/b/bowiesa01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 5015.200000000001,
+            "vorp": -2.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mookie Blaylock",
+          "playerHref": "/players/b/blaylmo01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 1795.5,
+            "vorp": -2.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Buck Williams",
+          "playerHref": "/players/w/willibu01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -2083.5,
+            "vorp": 8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4727.200000000001,
+        "vorp": 2.4000000000000004
+      },
+      "runningValues": {
+        "bpm": -3146.6999999999716,
+        "vorp": 13.200000000000003
+      }
+    },
+    {
+      "id": "buckwbu99x-36",
+      "sourceId": 36,
+      "date": "1989-06-27",
+      "type": "draft",
+      "tenureTeam": "POR",
+      "summary": "Drafted Byron Irvin and Clifford Robinson",
+      "participants": [
+        {
+          "name": "Byron Irvin",
+          "playerHref": "/players/i/irvinby01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 488,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Clifford Robinson",
+          "playerHref": "/players/r/robincl02.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 17404.199999999997,
+            "vorp": 14.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 17892.199999999997,
+        "vorp": 14.8
+      },
+      "runningValues": {
+        "bpm": 14745.500000000025,
+        "vorp": 28.000000000000004
+      }
+    },
+    {
+      "id": "buckwbu99x-37",
+      "sourceId": 37,
+      "date": "1989-07-24",
+      "type": "signing",
+      "tenureTeam": "POR",
+      "summary": "Signed Wayne Cooper",
+      "participants": [
+        {
+          "name": "Wayne Cooper",
+          "playerHref": "/players/c/coopewa01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -3700.4000000000005,
+            "vorp": 0.19999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3700.4000000000005,
+        "vorp": 0.19999999999999998
+      },
+      "runningValues": {
+        "bpm": 11045.100000000024,
+        "vorp": 28.200000000000003
+      }
+    },
+    {
+      "id": "buckwbu99x-38",
+      "sourceId": 38,
+      "date": "1989-08-01",
+      "type": "signing",
+      "tenureTeam": "POR",
+      "summary": "Rookie contract for Dražen Petrović",
+      "participants": [
+        {
+          "name": "Dražen Petrović",
+          "playerHref": "/players/p/petrodr01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 497.9000000000001,
+            "vorp": 0.7
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 497.9000000000001,
+        "vorp": 0.7
+      },
+      "runningValues": {
+        "bpm": 11543.000000000024,
+        "vorp": 28.900000000000002
+      }
+    },
+    {
+      "id": "buckwbu99x-39",
+      "sourceId": 39,
+      "date": "1989-08-22",
+      "type": "signing",
+      "tenureTeam": "POR",
+      "summary": "Signed Nate Johnston",
+      "participants": [
+        {
+          "name": "Nate Johnston",
+          "playerHref": "/players/j/johnsna01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 11543.000000000024,
+        "vorp": 28.900000000000002
+      }
+    },
+    {
+      "id": "buckwbu99x-40",
+      "sourceId": 40,
+      "date": "1989-10-17",
+      "type": "trade",
+      "tenureTeam": "POR",
+      "summary": "Added Robert Reid; Sent out Richard Anderson",
+      "participants": [
+        {
+          "name": "Richard Anderson",
+          "playerHref": "/players/a/anderri01.html",
+          "direction": "out",
+          "teamCode": "CHH",
+          "values": {
+            "bpm": -422.79999999999995,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Robert Reid",
+          "playerHref": "/players/r/reidro01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -221,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -643.8,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": 10899.200000000024,
+        "vorp": 28.500000000000004
+      }
+    },
+    {
+      "id": "buckwbu99x-41",
+      "sourceId": 41,
+      "date": "1990-01-08",
+      "type": "signing",
+      "tenureTeam": "POR",
+      "summary": "Signed Nate Johnston",
+      "participants": [
+        {
+          "name": "Nate Johnston",
+          "playerHref": "/players/j/johnsna01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 10899.200000000024,
+        "vorp": 28.500000000000004
+      }
+    },
+    {
+      "id": "buckwbu99x-42",
+      "sourceId": 42,
+      "date": "1990-01-29",
+      "type": "signing",
+      "tenureTeam": "POR",
+      "summary": "Signed Nate Johnston",
+      "participants": [
+        {
+          "name": "Nate Johnston",
+          "playerHref": "/players/j/johnsna01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -392.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -392.2,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 10507.000000000024,
+        "vorp": 28.400000000000002
+      }
+    },
+    {
+      "id": "buckwbu99x-43",
+      "sourceId": 43,
+      "date": "1990-06-27",
+      "type": "draft",
+      "tenureTeam": "POR",
+      "summary": "Drafted Alaa Abdelnaby",
+      "participants": [
+        {
+          "name": "Alaa Abdelnaby",
+          "playerHref": "/players/a/abdelal01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -3762.4,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3762.4,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": 6744.600000000024,
+        "vorp": 28.1
+      }
+    },
+    {
+      "id": "buckwbu99x-44",
+      "sourceId": 44,
+      "date": "1990-08-01",
+      "type": "trade",
+      "tenureTeam": "POR",
+      "summary": "Added Danny Ainge; Sent out Byron Irvin, Pete Chilcutt, and Brett Roberts",
+      "participants": [
+        {
+          "name": "Byron Irvin",
+          "playerHref": "/players/i/irvinby01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Pete Chilcutt",
+          "playerHref": "/players/c/chilcpe01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 5555.4,
+            "vorp": 0.10000000000000003
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Brett Roberts",
+          "playerHref": "/players/r/roberbr02.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Danny Ainge",
+          "playerHref": "/players/a/aingeda01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 9357.5,
+            "vorp": 4.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 14912.9,
+        "vorp": 4.199999999999999
+      },
+      "runningValues": {
+        "bpm": 21657.500000000022,
+        "vorp": 32.300000000000004
+      }
+    },
+    {
+      "id": "buckwbu99x-45",
+      "sourceId": 45,
+      "date": "1990-09-01",
+      "type": "signing",
+      "tenureTeam": "POR",
+      "summary": "Signed Todd Mitchell",
+      "participants": [
+        {
+          "name": "Todd Mitchell",
+          "playerHref": "/players/m/mitchto01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 21657.500000000022,
+        "vorp": 32.300000000000004
+      }
+    },
+    {
+      "id": "buckwbu99x-46",
+      "sourceId": 46,
+      "date": "1990-09-01",
+      "type": "signing",
+      "tenureTeam": "POR",
+      "summary": "Signed Dwayne McClain",
+      "participants": [
+        {
+          "name": "Dwayne McClain",
+          "playerHref": "/players/m/mccladw01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 21657.500000000022,
+        "vorp": 32.300000000000004
+      }
+    },
+    {
+      "id": "buckwbu99x-47",
+      "sourceId": 47,
+      "date": "1991-01-23",
+      "type": "trade",
+      "tenureTeam": "POR",
+      "summary": "Added Walter Davis and Reggie Smith; Sent out Dražen Petrović and Kevin Thompson",
+      "participants": [
+        {
+          "name": "Dražen Petrović",
+          "playerHref": "/players/p/petrodr01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": -5646,
+            "vorp": -4.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kevin Thompson",
+          "playerHref": "/players/t/thompke01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Walter Davis",
+          "playerHref": "/players/d/daviswa03.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -965.8000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Reggie Smith",
+          "playerHref": "/players/s/smithre01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6611.8,
+        "vorp": -4.6
+      },
+      "runningValues": {
+        "bpm": 15045.700000000023,
+        "vorp": 27.700000000000003
+      }
+    },
+    {
+      "id": "buckwbu99x-48",
+      "sourceId": 48,
+      "date": "1991-06-26",
+      "type": "draft",
+      "tenureTeam": "POR",
+      "summary": "Drafted Marcus Kennedy",
+      "participants": [
+        {
+          "name": "Marcus Kennedy",
+          "playerHref": "/players/k/kennema01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 15045.700000000023,
+        "vorp": 27.700000000000003
+      }
+    },
+    {
+      "id": "buckwbu99x-49",
+      "sourceId": 49,
+      "date": "1991-06-26",
+      "type": "trade",
+      "tenureTeam": "POR",
+      "summary": "Added Lamont Strothers; Sent out Tyus Edney and Tim Young",
+      "participants": [
+        {
+          "name": "Tyus Edney",
+          "playerHref": "/players/e/edneyty01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tim Young",
+          "playerHref": "/players/y/youngti01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 657.6,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lamont Strothers",
+          "playerHref": "/players/s/strotla01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -209.10000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 448.5,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 15494.200000000023,
+        "vorp": 27.800000000000004
+      }
+    },
+    {
+      "id": "buckwbu99x-50",
+      "sourceId": 50,
+      "date": "1991-09-01",
+      "type": "signing",
+      "tenureTeam": "POR",
+      "summary": "Signed Stuart Gray",
+      "participants": [
+        {
+          "name": "Stuart Gray",
+          "playerHref": "/players/g/grayst01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 15494.200000000023,
+        "vorp": 27.800000000000004
+      }
+    },
+    {
+      "id": "buckwbu99x-51",
+      "sourceId": 51,
+      "date": "1991-09-16",
+      "type": "signing",
+      "tenureTeam": "POR",
+      "summary": "Signed Gerald Paddio",
+      "participants": [
+        {
+          "name": "Gerald Paddio",
+          "playerHref": "/players/p/paddige01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 15494.200000000023,
+        "vorp": 27.800000000000004
+      }
+    },
+    {
+      "id": "buckwbu99x-52",
+      "sourceId": 52,
+      "date": "1991-09-16",
+      "type": "signing",
+      "tenureTeam": "POR",
+      "summary": "Signed Robert Pack",
+      "participants": [
+        {
+          "name": "Robert Pack",
+          "playerHref": "/players/p/packro01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -2413.8,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2413.8,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 13080.400000000023,
+        "vorp": 27.700000000000003
+      }
+    },
+    {
+      "id": "buckwbu99x-53",
+      "sourceId": 53,
+      "date": "1991-10-04",
+      "type": "signing",
+      "tenureTeam": "POR",
+      "summary": "Signed Ennis Whatley",
+      "participants": [
+        {
+          "name": "Ennis Whatley",
+          "playerHref": "/players/w/whatlen01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 222.2,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 222.2,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 13302.600000000024,
+        "vorp": 27.900000000000002
+      }
+    },
+    {
+      "id": "buckwbu99x-54",
+      "sourceId": 54,
+      "date": "1992-06-24",
+      "type": "draft",
+      "tenureTeam": "POR",
+      "summary": "Drafted Dave Johnson and Reggie Smith",
+      "participants": [
+        {
+          "name": "Dave Johnson",
+          "playerHref": "/players/j/johnsda01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -2563.2000000000003,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Reggie Smith",
+          "playerHref": "/players/s/smithre01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -1957.6,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4520.8,
+        "vorp": -0.8
+      },
+      "runningValues": {
+        "bpm": 8781.800000000023,
+        "vorp": 27.1
+      }
+    },
+    {
+      "id": "buckwbu99x-55",
+      "sourceId": 55,
+      "date": "1992-07-01",
+      "type": "trade",
+      "tenureTeam": "POR",
+      "summary": "Added Tracy Murray; Sent out Alaa Abdelnaby",
+      "participants": [
+        {
+          "name": "Alaa Abdelnaby",
+          "playerHref": "/players/a/abdelal01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 556.5,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tracy Murray",
+          "playerHref": "/players/m/murratr01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -2331.1,
+            "vorp": 0.29999999999999993
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1774.6,
+        "vorp": 0.3999999999999999
+      },
+      "runningValues": {
+        "bpm": 7007.200000000023,
+        "vorp": 27.500000000000004
+      }
+    },
+    {
+      "id": "buckwbu99x-56",
+      "sourceId": 56,
+      "date": "1992-07-03",
+      "type": "signing",
+      "tenureTeam": "POR",
+      "summary": "Signed Rod Strickland",
+      "participants": [
+        {
+          "name": "Rod Strickland",
+          "playerHref": "/players/s/stricro02.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 37778.49999999999,
+            "vorp": 14.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 37778.49999999999,
+        "vorp": 14.8
+      },
+      "runningValues": {
+        "bpm": 44785.70000000001,
+        "vorp": 42.300000000000004
+      }
+    }
+  ]
+}

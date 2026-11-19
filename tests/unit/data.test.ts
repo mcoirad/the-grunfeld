@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { loadExecutiveSnapshot } from "../../src/lib/data";
+import { loadExecutiveDetail, loadExecutiveSnapshot } from "../../src/lib/data";
 import { executivesSchema } from "../../src/lib/schema";
 
 describe("committed executive snapshot", () => {
@@ -22,10 +22,23 @@ describe("committed executive snapshot", () => {
     const { executives } = loadExecutiveSnapshot();
     const nullable = executives.find((executive) =>
       Object.values(executive.metrics.bpm.categories).some(
-        (category) => category.percentile === null,
+        (category) => category.percentiles.overall === null,
       ),
     );
     expect(nullable).toBeDefined();
     expect(nullable?.isNoob).toBe(true);
+  });
+
+  it("loads grouped detail data that reconciles to the aggregate snapshot", () => {
+    const { executives, metadata } = loadExecutiveSnapshot();
+    const detail = loadExecutiveDetail("moreyda99x");
+    const morey = executives.find(({ slug }) => slug === "moreyda99x");
+    expect(metadata.detailFileCount).toBe(173);
+    expect(metadata.transactionCount).toBe(16192);
+    expect(detail.tenures.map(({ teamCode }) => teamCode)).toEqual(["HOU", "PHI"]);
+    expect(detail.transactions.at(-1)?.runningValues.bpm).toBeCloseTo(
+      morey?.metrics.bpm.finalValue ?? 0,
+      5,
+    );
   });
 });

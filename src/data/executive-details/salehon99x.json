@@ -1,0 +1,1482 @@
+{
+  "slug": "salehon99x",
+  "sourceRowCount": 74,
+  "tenures": [
+    {
+      "teamCode": "ATL",
+      "startDate": "2025-06-25",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "salehon99x-0",
+      "sourceId": 0,
+      "date": "2025-06-25",
+      "type": "draft",
+      "tenureTeam": "ATL",
+      "summary": "Drafted Derik Queen and Drake Powell",
+      "participants": [
+        {
+          "name": "Derik Queen",
+          "playerHref": "/players/q/queende01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Drake Powell",
+          "playerHref": "/players/p/poweldr01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "salehon99x-1",
+      "sourceId": 1,
+      "date": "2025-06-25",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Asa Newell, Kingston Flemings, and future ('2026', '1st') round pick; Sent out Derik Queen",
+      "participants": [
+        {
+          "name": "Derik Queen",
+          "playerHref": "/players/q/queende01.html",
+          "direction": "out",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 1553,
+            "vorp": -0.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Asa Newell",
+          "playerHref": "/players/n/newelas01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kingston Flemings",
+          "playerHref": "/players/f/flemiki01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '1st') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1553,
+        "vorp": -0.8
+      },
+      "runningValues": {
+        "bpm": 1553,
+        "vorp": -0.8
+      }
+    },
+    {
+      "id": "salehon99x-2",
+      "sourceId": 2,
+      "date": "2025-07-03",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Eli N'Diaye",
+      "participants": [
+        {
+          "name": "Eli N'Diaye",
+          "playerHref": "/players/n/ndiayel01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 1553,
+        "vorp": -0.8
+      }
+    },
+    {
+      "id": "salehon99x-3",
+      "sourceId": 3,
+      "date": "2025-07-03",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Asa Newell",
+      "participants": [
+        {
+          "name": "Asa Newell",
+          "playerHref": "/players/n/newelas01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -975.5,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -975.5,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 577.5,
+        "vorp": -0.7000000000000001
+      }
+    },
+    {
+      "id": "salehon99x-4",
+      "sourceId": 4,
+      "date": "2025-07-06",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Nickeil Alexander-Walker; Sent out future ('2027', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Nickeil Alexander-Walker",
+          "playerHref": "/players/a/alexani01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 3079,
+            "vorp": 2.3000000000000003
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3079,
+        "vorp": 2.3000000000000003
+      },
+      "runningValues": {
+        "bpm": 3656.5,
+        "vorp": 1.6
+      }
+    },
+    {
+      "id": "salehon99x-5",
+      "sourceId": 5,
+      "date": "2025-07-06",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Clint Capela",
+      "participants": [
+        {
+          "name": "Clint Capela",
+          "playerHref": "/players/c/capelca01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 3656.5,
+        "vorp": 1.6
+      }
+    },
+    {
+      "id": "salehon99x-6",
+      "sourceId": 6,
+      "date": "2025-07-06",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added David Roddy and future ('2031', '2nd') round pick; Sent out Daeqwon Plowden and Clint Capela",
+      "participants": [
+        {
+          "name": "Daeqwon Plowden",
+          "playerHref": "/players/p/plowdda01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Clint Capela",
+          "playerHref": "/players/c/capelca01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -608.4,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "David Roddy",
+          "playerHref": "/players/r/roddyda01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2031', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -608.4,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": 3048.1,
+        "vorp": 0.9000000000000001
+      }
+    },
+    {
+      "id": "salehon99x-7",
+      "sourceId": 7,
+      "date": "2025-07-07",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Kristaps Porzingis, Narcisse Ngoy, and future ('2026', '2nd') round pick; Sent out Terance Mann, Drake Powell, Georges Niang, and future ('2031', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Terance Mann",
+          "playerHref": "/players/m/mannte01.html",
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 5923.099999999999,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Drake Powell",
+          "playerHref": "/players/p/poweldr01.html",
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 8154,
+            "vorp": 1.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Georges Niang",
+          "playerHref": "/players/n/niangge01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2031', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kristaps Porzingis",
+          "playerHref": "/players/p/porzikr01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Narcisse Ngoy",
+          "playerHref": "/players/n/ngoyna01.html",
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 14077.099999999999,
+        "vorp": 2
+      },
+      "runningValues": {
+        "bpm": 17125.199999999997,
+        "vorp": 2.9000000000000004
+      }
+    },
+    {
+      "id": "salehon99x-8",
+      "sourceId": 8,
+      "date": "2025-07-08",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Luke Kennard",
+      "participants": [
+        {
+          "name": "Luke Kennard",
+          "playerHref": "/players/k/kennalu01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 472,
+            "vorp": 0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 472,
+        "vorp": 0.6
+      },
+      "runningValues": {
+        "bpm": 17597.199999999997,
+        "vorp": 3.5000000000000004
+      }
+    },
+    {
+      "id": "salehon99x-9",
+      "sourceId": 9,
+      "date": "2025-07-10",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Jacob Toppin",
+      "participants": [
+        {
+          "name": "Jacob Toppin",
+          "playerHref": "/players/t/toppija01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 8.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 8.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 17605.699999999997,
+        "vorp": 3.5000000000000004
+      }
+    },
+    {
+      "id": "salehon99x-10",
+      "sourceId": 10,
+      "date": "2025-07-11",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Nikola Djurisic",
+      "participants": [
+        {
+          "name": "Nikola Djurisic",
+          "playerHref": "/players/d/djurini01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 17605.699999999997,
+        "vorp": 3.5000000000000004
+      }
+    },
+    {
+      "id": "salehon99x-11",
+      "sourceId": 11,
+      "date": "2025-07-18",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Keaton Wallace",
+      "participants": [
+        {
+          "name": "Keaton Wallace",
+          "playerHref": "/players/w/wallake01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -1447.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1447.2,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 16158.499999999996,
+        "vorp": 3.4000000000000004
+      }
+    },
+    {
+      "id": "salehon99x-12",
+      "sourceId": 12,
+      "date": "2025-08-18",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed N'Faly Dante",
+      "participants": [
+        {
+          "name": "N'Faly Dante",
+          "playerHref": "/players/n/nfalyda01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -67.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -67.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 16090.999999999996,
+        "vorp": 3.4000000000000004
+      }
+    },
+    {
+      "id": "salehon99x-13",
+      "sourceId": 13,
+      "date": "2025-09-16",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Sent out Kobe Bufkin",
+      "participants": [
+        {
+          "name": "Kobe Bufkin",
+          "playerHref": "/players/b/bufkiko01.html",
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 16090.999999999996,
+        "vorp": 3.4000000000000004
+      }
+    },
+    {
+      "id": "salehon99x-14",
+      "sourceId": 14,
+      "date": "2025-10-18",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Caleb Houstan",
+      "participants": [
+        {
+          "name": "Caleb Houstan",
+          "playerHref": "/players/h/houstca01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 22.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 22.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 16113.499999999996,
+        "vorp": 3.4000000000000004
+      }
+    },
+    {
+      "id": "salehon99x-15",
+      "sourceId": 15,
+      "date": "2025-12-23",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Malik Williams",
+      "participants": [
+        {
+          "name": "Malik Williams",
+          "playerHref": "/players/w/willima11.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 16113.499999999996,
+        "vorp": 3.4000000000000004
+      }
+    },
+    {
+      "id": "salehon99x-16",
+      "sourceId": 16,
+      "date": "2025-12-31",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed RayJ Dennis",
+      "participants": [
+        {
+          "name": "RayJ Dennis",
+          "playerHref": "/players/d/dennira01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -244.8,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -244.8,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 15868.699999999997,
+        "vorp": 3.3000000000000003
+      }
+    },
+    {
+      "id": "salehon99x-17",
+      "sourceId": 17,
+      "date": "2026-01-09",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Corey Kispert and CJ McCollum; Sent out Trae Young",
+      "participants": [
+        {
+          "name": "Trae Young",
+          "playerHref": "/players/y/youngtr01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 368,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Corey Kispert",
+          "playerHref": "/players/k/kispeco01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -990.5999999999997,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "CJ McCollum",
+          "playerHref": "/players/m/mccolcj01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 768.5999999999999,
+            "vorp": 1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 146.00000000000023,
+        "vorp": 0.9
+      },
+      "runningValues": {
+        "bpm": 16014.699999999997,
+        "vorp": 4.2
+      }
+    },
+    {
+      "id": "salehon99x-18",
+      "sourceId": 18,
+      "date": "2026-01-16",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Christian Koloko",
+      "participants": [
+        {
+          "name": "Christian Koloko",
+          "playerHref": "/players/k/kolokch01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -1029.6,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1029.6,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 14985.099999999997,
+        "vorp": 4
+      }
+    },
+    {
+      "id": "salehon99x-19",
+      "sourceId": 19,
+      "date": "2026-02-01",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Duop Reath, future ('2027', '2nd') round pick, and future ('2030', '2nd') round pick; Sent out Vit Krejci",
+      "participants": [
+        {
+          "name": "Vit Krejci",
+          "playerHref": "/players/k/krejcvi01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 1132.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Duop Reath",
+          "playerHref": "/players/r/reathdu01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2030', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1132.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 16117.899999999996,
+        "vorp": 4
+      }
+    },
+    {
+      "id": "salehon99x-20",
+      "sourceId": 20,
+      "date": "2026-02-05",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Jock Landale",
+      "participants": [
+        {
+          "name": "Jock Landale",
+          "playerHref": "/players/l/landajo01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 44.60000000000002,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 44.60000000000002,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 16162.499999999996,
+        "vorp": 4.2
+      }
+    },
+    {
+      "id": "salehon99x-21",
+      "sourceId": 21,
+      "date": "2026-02-05",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Buddy Hield and Jonathan Kuminga; Sent out Kristaps Porzingis",
+      "participants": [
+        {
+          "name": "Kristaps Porzingis",
+          "playerHref": "/players/p/porzikr01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 71.2,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Buddy Hield",
+          "playerHref": "/players/h/hieldbu01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -56.1,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jonathan Kuminga",
+          "playerHref": "/players/k/kuminjo01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 35.4,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 50.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 16212.999999999996,
+        "vorp": 4.2
+      }
+    },
+    {
+      "id": "salehon99x-22",
+      "sourceId": 22,
+      "date": "2026-02-05",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Gabe Vincent and future ('2032', '2nd') round pick; Sent out Luke Kennard",
+      "participants": [
+        {
+          "name": "Luke Kennard",
+          "playerHref": "/players/k/kennalu01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 294.8,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Gabe Vincent",
+          "playerHref": "/players/v/vincega01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -1088,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2032', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -793.2,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": 15419.799999999996,
+        "vorp": 3.8000000000000003
+      }
+    },
+    {
+      "id": "salehon99x-23",
+      "sourceId": 23,
+      "date": "2026-03-04",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Keshon Gilbert",
+      "participants": [
+        {
+          "name": "Keshon Gilbert",
+          "playerHref": "/players/g/gilbeke01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -23.400000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -23.400000000000002,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 15396.399999999996,
+        "vorp": 3.8000000000000003
+      }
+    },
+    {
+      "id": "salehon99x-24",
+      "sourceId": 24,
+      "date": "2026-04-06",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Tony Bradley",
+      "participants": [
+        {
+          "name": "Tony Bradley",
+          "playerHref": "/players/b/bradlto01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -210.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -210.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 15185.599999999997,
+        "vorp": 3.8000000000000003
+      }
+    },
+    {
+      "id": "salehon99x-25",
+      "sourceId": 25,
+      "date": "2026-06-23",
+      "type": "draft",
+      "tenureTeam": "ATL",
+      "summary": "Drafted Kingston Flemings, Zuby Ejiofor, and Narcisse Ngoy",
+      "participants": [
+        {
+          "name": "Kingston Flemings",
+          "playerHref": "/players/f/flemiki01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Zuby Ejiofor",
+          "playerHref": "/players/e/ejiofzu01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Narcisse Ngoy",
+          "playerHref": "/players/n/ngoyna01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 15185.599999999997,
+        "vorp": 3.8000000000000003
+      }
+    },
+    {
+      "id": "salehon99x-26",
+      "sourceId": 26,
+      "date": "2026-06-23",
+      "type": "draft",
+      "tenureTeam": "ATL",
+      "summary": "Drafted Kingston Flemings, Zuby Ejiofor, and Narcisse Ngoy",
+      "participants": [
+        {
+          "name": "Kingston Flemings",
+          "playerHref": "/players/f/flemiki01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        },
+        {
+          "name": "Zuby Ejiofor",
+          "playerHref": "/players/e/ejiofzu01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        },
+        {
+          "name": "Narcisse Ngoy",
+          "playerHref": "/players/n/ngoyna01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 15185.599999999997,
+        "vorp": 3.8000000000000003
+      }
+    },
+    {
+      "id": "salehon99x-28",
+      "sourceId": 28,
+      "date": "2026-06-24",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Henri Veesaar; Sent out Narcisse Ngoy",
+      "participants": [
+        {
+          "name": "Narcisse Ngoy",
+          "playerHref": "/players/n/ngoyna01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Henri Veesaar",
+          "playerHref": "/players/v/veesahe01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 15185.599999999997,
+        "vorp": 3.8000000000000003
+      }
+    },
+    {
+      "id": "salehon99x-29",
+      "sourceId": 29,
+      "date": "2026-06-30",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Devin Carter and future ('2033', '2nd') round pick; Sent out Alpha Kaba",
+      "participants": [
+        {
+          "name": "Alpha Kaba",
+          "playerHref": "/players/k/kabaal01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Devin Carter",
+          "playerHref": "/players/c/cartede02.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2033', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 15185.599999999997,
+        "vorp": 3.8000000000000003
+      }
+    },
+    {
+      "id": "salehon99x-30",
+      "sourceId": 30,
+      "date": "2026-07-01",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Henri Veesaar",
+      "participants": [
+        {
+          "name": "Henri Veesaar",
+          "playerHref": "/players/v/veesahe01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 15185.599999999997,
+        "vorp": 3.8000000000000003
+      }
+    },
+    {
+      "id": "salehon99x-31",
+      "sourceId": 31,
+      "date": "2026-07-01",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Rookie contract for Zuby Ejiofor",
+      "participants": [
+        {
+          "name": "Zuby Ejiofor",
+          "playerHref": "/players/e/ejiofzu01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 9,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 9,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 15194.599999999997,
+        "vorp": 3.8000000000000003
+      }
+    },
+    {
+      "id": "salehon99x-32",
+      "sourceId": 32,
+      "date": "2026-07-02",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Rookie contract for Kingston Flemings",
+      "participants": [
+        {
+          "name": "Kingston Flemings",
+          "playerHref": "/players/f/flemiki01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -1032,
+            "vorp": -0.1
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -1032,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 14162.599999999997,
+        "vorp": 3.7
+      }
+    },
+    {
+      "id": "salehon99x-33",
+      "sourceId": 33,
+      "date": "2026-07-06",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Aaron Wiggins; Sent out future ('2030', '2nd') round pick and future ('2032', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Aaron Wiggins",
+          "playerHref": "/players/w/wiggiaa01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -179.5,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2030', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2032', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -179.5,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 13983.099999999997,
+        "vorp": 3.8000000000000003
+      }
+    },
+    {
+      "id": "salehon99x-34",
+      "sourceId": 34,
+      "date": "2026-07-10",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Jock Landale",
+      "participants": [
+        {
+          "name": "Jock Landale",
+          "playerHref": "/players/l/landajo01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -583.8000000000001,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -583.8000000000001,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 13399.299999999997,
+        "vorp": 3.7
+      }
+    },
+    {
+      "id": "salehon99x-35",
+      "sourceId": 35,
+      "date": "2026-07-19",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Ryan Nembhard and Luguentz Dort; Sent out Zaccharie Risacher",
+      "participants": [
+        {
+          "name": "Zaccharie Risacher",
+          "playerHref": "/players/r/risacza01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 66.4,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ryan Nembhard",
+          "playerHref": "/players/n/nembhry01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Luguentz Dort",
+          "playerHref": "/players/d/dortlu01.html",
+          "direction": "in",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 66.4,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 13465.699999999997,
+        "vorp": 3.5
+      }
+    },
+    {
+      "id": "salehon99x-36",
+      "sourceId": 36,
+      "date": "2026-07-22",
+      "type": "signing",
+      "tenureTeam": "ATL",
+      "summary": "Signed Jalen Wilson",
+      "participants": [
+        {
+          "name": "Jalen Wilson",
+          "playerHref": "/players/w/wilsoja03.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 13465.699999999997,
+        "vorp": 3.5
+      }
+    },
+    {
+      "id": "salehon99x-37",
+      "sourceId": 37,
+      "date": "2026-09-22",
+      "type": "trade",
+      "tenureTeam": "ATL",
+      "summary": "Added Dorian Finney-Smith; Sent out Buddy Hield and Ryan Nembhard",
+      "participants": [
+        {
+          "name": "Buddy Hield",
+          "playerHref": "/players/h/hieldbu01.html",
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ryan Nembhard",
+          "playerHref": "/players/n/nembhry01.html",
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dorian Finney-Smith",
+          "playerHref": "/players/f/finnedo01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -85.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -85.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 13379.899999999998,
+        "vorp": 3.5
+      }
+    }
+  ]
+}

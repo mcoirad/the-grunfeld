@@ -1,0 +1,5570 @@
+{
+  "slug": "stonera99x",
+  "sourceRowCount": 282,
+  "tenures": [
+    {
+      "teamCode": "HOU",
+      "startDate": "2020-11-19",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "stonera99x-1",
+      "sourceId": 1,
+      "date": "2020-11-19",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Mason Jones",
+      "participants": [
+        {
+          "name": "Mason Jones",
+          "playerHref": "/players/j/jonesma05.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "stonera99x-2",
+      "sourceId": 2,
+      "date": "2020-11-22",
+      "type": "trade",
+      "tenureTeam": "HOU",
+      "summary": "Added Trevor Ariza, Isaiah Stewart, and Usman Garuba; Sent out Robert Covington",
+      "participants": [
+        {
+          "name": "Robert Covington",
+          "playerHref": "/players/c/covinro01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 1268.6,
+            "vorp": -1.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Trevor Ariza",
+          "playerHref": "/players/a/arizatr01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Isaiah Stewart",
+          "playerHref": "/players/s/stewais01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Usman Garuba",
+          "playerHref": "/players/g/garubus01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1268.6,
+        "vorp": -1.5
+      },
+      "runningValues": {
+        "bpm": 1268.6,
+        "vorp": -1.5
+      }
+    },
+    {
+      "id": "stonera99x-3",
+      "sourceId": 3,
+      "date": "2020-11-24",
+      "type": "trade",
+      "tenureTeam": "HOU",
+      "summary": "Added Christian Wood, Luka Garza, Joan Beringer, and future ('2025', '1st') round pick; Sent out Trevor Ariza, Isaiah Stewart, and future ('2027', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Trevor Ariza",
+          "playerHref": "/players/a/arizatr01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Isaiah Stewart",
+          "playerHref": "/players/s/stewais01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 12793.6,
+            "vorp": -1.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Christian Wood",
+          "playerHref": "/players/w/woodch01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 5206.8,
+            "vorp": 3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Luka Garza",
+          "playerHref": "/players/g/garzalu01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Joan Beringer",
+          "playerHref": "/players/b/berinjo01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '1st') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 18000.4,
+        "vorp": 1.7
+      },
+      "runningValues": {
+        "bpm": 19269,
+        "vorp": 0.20000000000000018
+      }
+    },
+    {
+      "id": "stonera99x-4",
+      "sourceId": 4,
+      "date": "2020-11-25",
+      "type": "trade",
+      "tenureTeam": "HOU",
+      "summary": "Added Kenyon Martin Jr.; Sent out Luka Garza",
+      "participants": [
+        {
+          "name": "Luka Garza",
+          "playerHref": "/players/g/garzalu01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kenyon Martin Jr.",
+          "playerHref": "/players/m/martike04.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 19269,
+        "vorp": 0.20000000000000018
+      }
+    },
+    {
+      "id": "stonera99x-5",
+      "sourceId": 5,
+      "date": "2020-11-25",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Sterling Brown",
+      "participants": [
+        {
+          "name": "Sterling Brown",
+          "playerHref": "/players/b/brownst02.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -1966.4,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1966.4,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 17302.6,
+        "vorp": 0.30000000000000016
+      }
+    },
+    {
+      "id": "stonera99x-6",
+      "sourceId": 6,
+      "date": "2020-11-25",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Bruno Caboclo",
+      "participants": [
+        {
+          "name": "Bruno Caboclo",
+          "playerHref": "/players/c/cabocbr01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -360,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -360,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 16942.6,
+        "vorp": 0.20000000000000015
+      }
+    },
+    {
+      "id": "stonera99x-7",
+      "sourceId": 7,
+      "date": "2020-11-25",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Jae'Sean Tate",
+      "participants": [
+        {
+          "name": "Jae'Sean Tate",
+          "playerHref": "/players/t/tateja01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -6560.999999999999,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6560.999999999999,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": 10381.599999999999,
+        "vorp": 0.6000000000000002
+      }
+    },
+    {
+      "id": "stonera99x-8",
+      "sourceId": 8,
+      "date": "2020-11-25",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Austin rivers",
+      "participants": [
+        {
+          "name": "Austin rivers",
+          "playerHref": "/players/r/riverau01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 10381.599999999999,
+        "vorp": 0.6000000000000002
+      }
+    },
+    {
+      "id": "stonera99x-9",
+      "sourceId": 9,
+      "date": "2020-11-27",
+      "type": "trade",
+      "tenureTeam": "HOU",
+      "summary": "Added Issuf Sanon; Sent out Tadija Dragicevic, Axel Hervelle, Sergio Llull, and Austin Rivers",
+      "participants": [
+        {
+          "name": "Tadija Dragicevic",
+          "playerHref": "/players/d/dragita01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Axel Hervelle",
+          "playerHref": "/players/h/herveax01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sergio Llull",
+          "playerHref": "/players/l/llullse01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Austin Rivers",
+          "playerHref": "/players/r/riverau01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 972.4000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Issuf Sanon",
+          "playerHref": "/players/s/sanonis01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 972.4000000000001,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 11353.999999999998,
+        "vorp": 0.6000000000000002
+      }
+    },
+    {
+      "id": "stonera99x-10",
+      "sourceId": 10,
+      "date": "2020-11-30",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Gerald Green",
+      "participants": [
+        {
+          "name": "Gerald Green",
+          "playerHref": "/players/g/greenge01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 11353.999999999998,
+        "vorp": 0.6000000000000002
+      }
+    },
+    {
+      "id": "stonera99x-11",
+      "sourceId": 11,
+      "date": "2020-11-30",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Kenyon Martin Jr.",
+      "participants": [
+        {
+          "name": "Kenyon Martin Jr.",
+          "playerHref": "/players/m/martike04.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -5348.4,
+            "vorp": 1.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5348.4,
+        "vorp": 1.1
+      },
+      "runningValues": {
+        "bpm": 6005.5999999999985,
+        "vorp": 1.7000000000000002
+      }
+    },
+    {
+      "id": "stonera99x-12",
+      "sourceId": 12,
+      "date": "2020-11-30",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Jerian Grant",
+      "participants": [
+        {
+          "name": "Jerian Grant",
+          "playerHref": "/players/g/grantje02.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 6005.5999999999985,
+        "vorp": 1.7000000000000002
+      }
+    },
+    {
+      "id": "stonera99x-13",
+      "sourceId": 13,
+      "date": "2020-11-30",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed DeMarcus Cousins",
+      "participants": [
+        {
+          "name": "DeMarcus Cousins",
+          "playerHref": "/players/c/couside01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -50.6,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -50.6,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 5954.999999999998,
+        "vorp": 1.9000000000000001
+      }
+    },
+    {
+      "id": "stonera99x-14",
+      "sourceId": 14,
+      "date": "2020-12-02",
+      "type": "trade",
+      "tenureTeam": "HOU",
+      "summary": "Added John Wall, Bruce Thornton, future ('2026', '2nd') round pick, and future ('2027', '2nd') round pick; Sent out Russell Westbrook",
+      "participants": [
+        {
+          "name": "Russell Westbrook",
+          "playerHref": "/players/w/westbru01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": -8765.300000000001,
+            "vorp": -3.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Wall",
+          "playerHref": "/players/w/walljo01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -901.5999999999999,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bruce Thornton",
+          "playerHref": "/players/t/thornbr01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -292,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -9958.900000000001,
+        "vorp": -3.1
+      },
+      "runningValues": {
+        "bpm": -4003.900000000003,
+        "vorp": -1.1999999999999997
+      }
+    },
+    {
+      "id": "stonera99x-15",
+      "sourceId": 15,
+      "date": "2020-12-17",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed William McDowell-White",
+      "participants": [
+        {
+          "name": "William McDowell-White",
+          "playerHref": "/players/m/mcdowwi01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -4003.900000000003,
+        "vorp": -1.1999999999999997
+      }
+    },
+    {
+      "id": "stonera99x-16",
+      "sourceId": 16,
+      "date": "2020-12-19",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Brodric Thomas",
+      "participants": [
+        {
+          "name": "Brodric Thomas",
+          "playerHref": "/players/t/thomabr01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -151.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -151.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -4155.100000000003,
+        "vorp": -1.1999999999999997
+      }
+    },
+    {
+      "id": "stonera99x-17",
+      "sourceId": 17,
+      "date": "2021-01-16",
+      "type": "trade",
+      "tenureTeam": "HOU",
+      "summary": "Added Rodions Kurucs, Tari Eason, Reed Sheppard, Mikel Brown Jr., future ('2025', '1st') round pick, future ('2026', '1st') round pick, future ('2027', '1st') round pick, Dante Exum, MarJon Beauchamp, and Victor Oladipo; Sent out Jalen Pickett and James Harden",
+      "participants": [
+        {
+          "name": "Jalen Pickett",
+          "playerHref": "/players/p/pickeja02.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "James Harden",
+          "playerHref": "/players/h/hardeja01.html",
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -16827,
+            "vorp": -5.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rodions Kurucs",
+          "playerHref": "/players/k/kurucro01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tari Eason",
+          "playerHref": "/players/e/easonta01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Reed Sheppard",
+          "playerHref": "/players/s/sheppre01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mikel Brown Jr.",
+          "playerHref": "/players/b/brownmi02.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '1st') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '1st') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '1st') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dante Exum",
+          "playerHref": "/players/e/exumda01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -440.79999999999995,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "MarJon Beauchamp",
+          "playerHref": "/players/b/beaucma01.html",
+          "direction": "in",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Victor Oladipo",
+          "playerHref": "/players/o/oladivi01.html",
+          "direction": "in",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -30,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -17297.8,
+        "vorp": -5.7
+      },
+      "runningValues": {
+        "bpm": -21452.9,
+        "vorp": -6.9
+      }
+    },
+    {
+      "id": "stonera99x-18",
+      "sourceId": 18,
+      "date": "2021-01-22",
+      "type": "trade",
+      "tenureTeam": "HOU",
+      "summary": "Added Kevin Porter Jr.",
+      "participants": [
+        {
+          "name": "Kevin Porter Jr.",
+          "playerHref": "/players/p/porteke02.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -4759.300000000001,
+            "vorp": 1.2000000000000002
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4759.300000000001,
+        "vorp": 1.2000000000000002
+      },
+      "runningValues": {
+        "bpm": -26212.200000000004,
+        "vorp": -5.7
+      }
+    },
+    {
+      "id": "stonera99x-19",
+      "sourceId": 19,
+      "date": "2021-02-12",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Ray Spalding",
+      "participants": [
+        {
+          "name": "Ray Spalding",
+          "playerHref": "/players/s/spaldra01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -271.7,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -271.7,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -26483.900000000005,
+        "vorp": -5.8
+      }
+    },
+    {
+      "id": "stonera99x-20",
+      "sourceId": 20,
+      "date": "2021-02-19",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Justin Patton",
+      "participants": [
+        {
+          "name": "Justin Patton",
+          "playerHref": "/players/p/pattoju01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -543.4000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -543.4000000000001,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -27027.300000000007,
+        "vorp": -5.8
+      }
+    },
+    {
+      "id": "stonera99x-21",
+      "sourceId": 21,
+      "date": "2021-03-08",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Anthony Lamb",
+      "participants": [
+        {
+          "name": "Anthony Lamb",
+          "playerHref": "/players/l/lamban01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -2490,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2490,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -29517.300000000007,
+        "vorp": -6.2
+      }
+    },
+    {
+      "id": "stonera99x-22",
+      "sourceId": 22,
+      "date": "2021-03-11",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Mason Jones",
+      "participants": [
+        {
+          "name": "Mason Jones",
+          "playerHref": "/players/j/jonesma05.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -1013.0999999999999,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1013.0999999999999,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -30530.400000000005,
+        "vorp": -6.3
+      }
+    },
+    {
+      "id": "stonera99x-23",
+      "sourceId": 23,
+      "date": "2021-03-19",
+      "type": "trade",
+      "tenureTeam": "HOU",
+      "summary": "Added D.J. Augustin, D.J. Wilson, Josh Christopher, and Kobe Brown; Sent out Rodions Kurucs, P.J. Tucker, Isaiah Todd, and MarJon Beauchamp",
+      "participants": [
+        {
+          "name": "Rodions Kurucs",
+          "playerHref": "/players/k/kurucro01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -74.80000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "P.J. Tucker",
+          "playerHref": "/players/t/tuckepj01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 1151.3,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Isaiah Todd",
+          "playerHref": "/players/t/toddis01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "MarJon Beauchamp",
+          "playerHref": "/players/b/beaucma01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 5972.5,
+            "vorp": 0.7999999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "D.J. Augustin",
+          "playerHref": "/players/a/augusdj01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -3025,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "D.J. Wilson",
+          "playerHref": "/players/w/wilsodj01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -885.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Josh Christopher",
+          "playerHref": "/players/c/chrisjo01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kobe Brown",
+          "playerHref": "/players/b/brownko01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3138.4,
+        "vorp": 0.4999999999999999
+      },
+      "runningValues": {
+        "bpm": -27392.000000000004,
+        "vorp": -5.8
+      }
+    },
+    {
+      "id": "stonera99x-24",
+      "sourceId": 24,
+      "date": "2021-03-25",
+      "type": "trade",
+      "tenureTeam": "HOU",
+      "summary": "Added Avery Bradley and Kelly Olynyk; Sent out Victor Oladipo",
+      "participants": [
+        {
+          "name": "Victor Oladipo",
+          "playerHref": "/players/o/oladivi01.html",
+          "direction": "out",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": 3052.2999999999997,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Avery Bradley",
+          "playerHref": "/players/b/bradlav01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -2697.9,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kelly Olynyk",
+          "playerHref": "/players/o/olynyke01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 3192,
+            "vorp": 1.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3546.3999999999996,
+        "vorp": 0.7999999999999999
+      },
+      "runningValues": {
+        "bpm": -23845.600000000006,
+        "vorp": -5
+      }
+    },
+    {
+      "id": "stonera99x-25",
+      "sourceId": 25,
+      "date": "2021-04-03",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Armoni Brooks",
+      "participants": [
+        {
+          "name": "Armoni Brooks",
+          "playerHref": "/players/b/brookar01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -1663.9999999999995,
+            "vorp": -0.20000000000000007
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1663.9999999999995,
+        "vorp": -0.20000000000000007
+      },
+      "runningValues": {
+        "bpm": -25509.600000000006,
+        "vorp": -5.2
+      }
+    },
+    {
+      "id": "stonera99x-26",
+      "sourceId": 26,
+      "date": "2021-05-07",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Khyri Thomas",
+      "participants": [
+        {
+          "name": "Khyri Thomas",
+          "playerHref": "/players/t/thomakh01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -25509.600000000006,
+        "vorp": -5.2
+      }
+    },
+    {
+      "id": "stonera99x-27",
+      "sourceId": 27,
+      "date": "2021-05-10",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Cameron Oliver",
+      "participants": [
+        {
+          "name": "Cameron Oliver",
+          "playerHref": "/players/o/oliveca01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -25509.600000000006,
+        "vorp": -5.2
+      }
+    },
+    {
+      "id": "stonera99x-28",
+      "sourceId": 28,
+      "date": "2021-05-14",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Cam Reynolds",
+      "participants": [
+        {
+          "name": "Cam Reynolds",
+          "playerHref": "/players/r/reynoca01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -25509.600000000006,
+        "vorp": -5.2
+      }
+    },
+    {
+      "id": "stonera99x-29",
+      "sourceId": 29,
+      "date": "2021-05-14",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Khyri Thomas",
+      "participants": [
+        {
+          "name": "Khyri Thomas",
+          "playerHref": "/players/t/thomakh01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -25509.600000000006,
+        "vorp": -5.2
+      }
+    },
+    {
+      "id": "stonera99x-30",
+      "sourceId": 30,
+      "date": "2021-07-29",
+      "type": "draft",
+      "tenureTeam": "HOU",
+      "summary": "Drafted Jalen Green, Usman Garuba, and Josh Christopher",
+      "participants": [
+        {
+          "name": "Jalen Green",
+          "playerHref": "/players/g/greenja05.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Usman Garuba",
+          "playerHref": "/players/g/garubus01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Josh Christopher",
+          "playerHref": "/players/c/chrisjo01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -25509.600000000006,
+        "vorp": -5.2
+      }
+    },
+    {
+      "id": "stonera99x-31",
+      "sourceId": 31,
+      "date": "2021-07-30",
+      "type": "trade",
+      "tenureTeam": "HOU",
+      "summary": "Added Alperen Şengün; Sent out Joan Beringer, Bruce Thornton, future ('2025', '1st') round pick, future ('2026', '2nd') round pick, and future ('2027', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Joan Beringer",
+          "playerHref": "/players/b/berinjo01.html",
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bruce Thornton",
+          "playerHref": "/players/t/thornbr01.html",
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alperen Şengün",
+          "playerHref": "/players/s/sengual01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -25509.600000000006,
+        "vorp": -5.2
+      }
+    },
+    {
+      "id": "stonera99x-32",
+      "sourceId": 32,
+      "date": "2021-08-04",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Rookie contract for Jalen Green",
+      "participants": [
+        {
+          "name": "Jalen Green",
+          "playerHref": "/players/g/greenja05.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -11616.4,
+            "vorp": 2.2
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -11616.4,
+        "vorp": 2.2
+      },
+      "runningValues": {
+        "bpm": -37126.00000000001,
+        "vorp": -3
+      }
+    },
+    {
+      "id": "stonera99x-33",
+      "sourceId": 33,
+      "date": "2021-08-06",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Rookie contract for Josh Christopher",
+      "participants": [
+        {
+          "name": "Josh Christopher",
+          "playerHref": "/players/c/chrisjo01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -8048.799999999999,
+            "vorp": -1
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -8048.799999999999,
+        "vorp": -1
+      },
+      "runningValues": {
+        "bpm": -45174.8,
+        "vorp": -4
+      }
+    },
+    {
+      "id": "stonera99x-34",
+      "sourceId": 34,
+      "date": "2021-08-06",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Alperen Şengün",
+      "participants": [
+        {
+          "name": "Alperen Şengün",
+          "playerHref": "/players/s/sengual01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 35985.799999999996,
+            "vorp": 14.599999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 35985.799999999996,
+        "vorp": 14.599999999999998
+      },
+      "runningValues": {
+        "bpm": -9189.000000000007,
+        "vorp": 10.599999999999998
+      }
+    },
+    {
+      "id": "stonera99x-35",
+      "sourceId": 35,
+      "date": "2021-08-07",
+      "type": "trade",
+      "tenureTeam": "HOU",
+      "summary": "Added Daniel Theis",
+      "participants": [
+        {
+          "name": "Daniel Theis",
+          "playerHref": "/players/t/theisda01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -1985.6,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1985.6,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -11174.600000000008,
+        "vorp": 10.399999999999999
+      }
+    },
+    {
+      "id": "stonera99x-36",
+      "sourceId": 36,
+      "date": "2021-08-08",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed David Nwaba",
+      "participants": [
+        {
+          "name": "David Nwaba",
+          "playerHref": "/players/n/nwabada01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -365.4,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -365.4,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -11540.000000000007,
+        "vorp": 10.599999999999998
+      }
+    },
+    {
+      "id": "stonera99x-37",
+      "sourceId": 37,
+      "date": "2021-08-13",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Matthew Hurt",
+      "participants": [
+        {
+          "name": "Matthew Hurt",
+          "playerHref": "/players/h/hurtma01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -11540.000000000007,
+        "vorp": 10.599999999999998
+      }
+    },
+    {
+      "id": "stonera99x-38",
+      "sourceId": 38,
+      "date": "2021-08-15",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Rookie contract for Usman Garuba",
+      "participants": [
+        {
+          "name": "Usman Garuba",
+          "playerHref": "/players/g/garubus01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -1574,
+            "vorp": 0.30000000000000004
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -1574,
+        "vorp": 0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -13114.000000000007,
+        "vorp": 10.899999999999999
+      }
+    },
+    {
+      "id": "stonera99x-39",
+      "sourceId": 39,
+      "date": "2021-08-24",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Daishen Nix",
+      "participants": [
+        {
+          "name": "Daishen Nix",
+          "playerHref": "/players/n/nixda01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -13114.000000000007,
+        "vorp": 10.899999999999999
+      }
+    },
+    {
+      "id": "stonera99x-40",
+      "sourceId": 40,
+      "date": "2021-08-24",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Tyler Bey",
+      "participants": [
+        {
+          "name": "Tyler Bey",
+          "playerHref": "/players/b/beyty01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -13114.000000000007,
+        "vorp": 10.899999999999999
+      }
+    },
+    {
+      "id": "stonera99x-41",
+      "sourceId": 41,
+      "date": "2021-08-26",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Armoni Brooks",
+      "participants": [
+        {
+          "name": "Armoni Brooks",
+          "playerHref": "/players/b/brookar01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -13114.000000000007,
+        "vorp": 10.899999999999999
+      }
+    },
+    {
+      "id": "stonera99x-42",
+      "sourceId": 42,
+      "date": "2021-09-06",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Anthony Lamb",
+      "participants": [
+        {
+          "name": "Anthony Lamb",
+          "playerHref": "/players/l/lamban01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -13114.000000000007,
+        "vorp": 10.899999999999999
+      }
+    },
+    {
+      "id": "stonera99x-43",
+      "sourceId": 43,
+      "date": "2021-09-17",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Dante Exum",
+      "participants": [
+        {
+          "name": "Dante Exum",
+          "playerHref": "/players/e/exumda01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -13114.000000000007,
+        "vorp": 10.899999999999999
+      }
+    },
+    {
+      "id": "stonera99x-44",
+      "sourceId": 44,
+      "date": "2021-09-26",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Tyler Bey",
+      "participants": [
+        {
+          "name": "Tyler Bey",
+          "playerHref": "/players/b/beyty01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -13114.000000000007,
+        "vorp": 10.899999999999999
+      }
+    },
+    {
+      "id": "stonera99x-45",
+      "sourceId": 45,
+      "date": "2021-10-06",
+      "type": "trade",
+      "tenureTeam": "HOU",
+      "summary": "Added Sekou Doumbouya and Jaylen Wells",
+      "participants": [
+        {
+          "name": "Sekou Doumbouya",
+          "playerHref": "/players/d/doumbse01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jaylen Wells",
+          "playerHref": "/players/w/wellsja01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -13114.000000000007,
+        "vorp": 10.899999999999999
+      }
+    },
+    {
+      "id": "stonera99x-46",
+      "sourceId": 46,
+      "date": "2021-10-13",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Armoni Brooks",
+      "participants": [
+        {
+          "name": "Armoni Brooks",
+          "playerHref": "/players/b/brookar01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -3036.0000000000005,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3036.0000000000005,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -16150.000000000007,
+        "vorp": 10.499999999999998
+      }
+    },
+    {
+      "id": "stonera99x-47",
+      "sourceId": 47,
+      "date": "2021-10-13",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Marcus Foster",
+      "participants": [
+        {
+          "name": "Marcus Foster",
+          "playerHref": "/players/f/fostema01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -16150.000000000007,
+        "vorp": 10.499999999999998
+      }
+    },
+    {
+      "id": "stonera99x-48",
+      "sourceId": 48,
+      "date": "2021-10-15",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Christian Vital",
+      "participants": [
+        {
+          "name": "Christian Vital",
+          "playerHref": "/players/v/vitalch01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -16150.000000000007,
+        "vorp": 10.499999999999998
+      }
+    },
+    {
+      "id": "stonera99x-49",
+      "sourceId": 49,
+      "date": "2021-10-15",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Daishen Nix",
+      "participants": [
+        {
+          "name": "Daishen Nix",
+          "playerHref": "/players/n/nixda01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -7611.4,
+            "vorp": -1.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -7611.4,
+        "vorp": -1.3
+      },
+      "runningValues": {
+        "bpm": -23761.40000000001,
+        "vorp": 9.199999999999998
+      }
+    },
+    {
+      "id": "stonera99x-50",
+      "sourceId": 50,
+      "date": "2021-10-17",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Mfiondu Kabengele",
+      "participants": [
+        {
+          "name": "Mfiondu Kabengele",
+          "playerHref": "/players/k/kabenmf01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -23761.40000000001,
+        "vorp": 9.199999999999998
+      }
+    },
+    {
+      "id": "stonera99x-51",
+      "sourceId": 51,
+      "date": "2021-10-18",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Garrison Mathews",
+      "participants": [
+        {
+          "name": "Garrison Mathews",
+          "playerHref": "/players/m/mathega01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -5442.6,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5442.6,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -29204.000000000007,
+        "vorp": 8.999999999999998
+      }
+    },
+    {
+      "id": "stonera99x-52",
+      "sourceId": 52,
+      "date": "2021-12-18",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Trevelin Queen",
+      "participants": [
+        {
+          "name": "Trevelin Queen",
+          "playerHref": "/players/q/queentr01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 140.6,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 140.6,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -29063.40000000001,
+        "vorp": 9.099999999999998
+      }
+    },
+    {
+      "id": "stonera99x-53",
+      "sourceId": 53,
+      "date": "2021-12-28",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed DeJon Jarreau",
+      "participants": [
+        {
+          "name": "DeJon Jarreau",
+          "playerHref": "/players/j/jarrede01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -29063.40000000001,
+        "vorp": 9.099999999999998
+      }
+    },
+    {
+      "id": "stonera99x-54",
+      "sourceId": 54,
+      "date": "2022-02-10",
+      "type": "trade",
+      "tenureTeam": "HOU",
+      "summary": "Added Bruno Fernando, Enes Freedom, and Dennis Schroder; Sent out Daniel Theis",
+      "participants": [
+        {
+          "name": "Daniel Theis",
+          "playerHref": "/players/t/theisda01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 39.300000000000004,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bruno Fernando",
+          "playerHref": "/players/f/fernabr01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 141,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Enes Freedom",
+          "playerHref": "/players/k/kanteen01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dennis Schroder",
+          "playerHref": "/players/s/schrode01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -1777.6000000000001,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1597.3000000000002,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -30660.700000000008,
+        "vorp": 8.799999999999999
+      }
+    },
+    {
+      "id": "stonera99x-55",
+      "sourceId": 55,
+      "date": "2022-03-23",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Anthony Lamb",
+      "participants": [
+        {
+          "name": "Anthony Lamb",
+          "playerHref": "/players/l/lamban01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -30660.700000000008,
+        "vorp": 8.799999999999999
+      }
+    },
+    {
+      "id": "stonera99x-56",
+      "sourceId": 56,
+      "date": "2022-06-23",
+      "type": "draft",
+      "tenureTeam": "HOU",
+      "summary": "Drafted Jabari Smith and Tari Eason",
+      "participants": [
+        {
+          "name": "Jabari Smith",
+          "playerHref": "/players/s/smithja05.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tari Eason",
+          "playerHref": "/players/e/easonta01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -30660.700000000008,
+        "vorp": 8.799999999999999
+      }
+    },
+    {
+      "id": "stonera99x-57",
+      "sourceId": 57,
+      "date": "2022-06-24",
+      "type": "trade",
+      "tenureTeam": "HOU",
+      "summary": "Added Sterling Brown, Trey Burke, Marquese Chriss, Boban Marjanović, and Wendell Moore Jr.; Sent out Christian Wood",
+      "participants": [
+        {
+          "name": "Christian Wood",
+          "playerHref": "/players/w/woodch01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": -2780.8,
+            "vorp": -1.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sterling Brown",
+          "playerHref": "/players/b/brownst02.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Trey Burke",
+          "playerHref": "/players/b/burketr01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Marquese Chriss",
+          "playerHref": "/players/c/chrisma01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Boban Marjanović",
+          "playerHref": "/players/m/marjabo01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Wendell Moore Jr.",
+          "playerHref": "/players/m/moorewe01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2780.8,
+        "vorp": -1.5
+      },
+      "runningValues": {
+        "bpm": -33441.50000000001,
+        "vorp": 7.299999999999999
+      }
+    },
+    {
+      "id": "stonera99x-58",
+      "sourceId": 58,
+      "date": "2022-06-24",
+      "type": "trade",
+      "tenureTeam": "HOU",
+      "summary": "Added TyTy Washington Jr., Mohamed Diawara, future ('2025', '2nd') round pick, and future ('2027', '2nd') round pick; Sent out Wendell Moore Jr.",
+      "participants": [
+        {
+          "name": "Wendell Moore Jr.",
+          "playerHref": "/players/m/moorewe01.html",
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 569.7,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "TyTy Washington Jr.",
+          "playerHref": "/players/w/washity02.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mohamed Diawara",
+          "playerHref": "/players/d/diawamo01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 569.7,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -32871.80000000001,
+        "vorp": 7.299999999999999
+      }
+    },
+    {
+      "id": "stonera99x-59",
+      "sourceId": 59,
+      "date": "2022-07-01",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Trevor Hudgins",
+      "participants": [
+        {
+          "name": "Trevor Hudgins",
+          "playerHref": "/players/h/hudgitr01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -235.20000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -235.20000000000002,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -33107.00000000001,
+        "vorp": 7.299999999999999
+      }
+    },
+    {
+      "id": "stonera99x-60",
+      "sourceId": 60,
+      "date": "2022-07-01",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Rookie contract for Tari Eason",
+      "participants": [
+        {
+          "name": "Tari Eason",
+          "playerHref": "/players/e/easonta01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 574.3999999999996,
+            "vorp": 2.7
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 574.3999999999996,
+        "vorp": 2.7
+      },
+      "runningValues": {
+        "bpm": -32532.600000000006,
+        "vorp": 10
+      }
+    },
+    {
+      "id": "stonera99x-61",
+      "sourceId": 61,
+      "date": "2022-07-01",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Rookie contract for Jabari Smith Jr.",
+      "participants": [
+        {
+          "name": "Jabari Smith Jr.",
+          "playerHref": "/players/s/smithja05.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -12482.300000000001,
+            "vorp": 1.9
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -12482.300000000001,
+        "vorp": 1.9
+      },
+      "runningValues": {
+        "bpm": -45014.90000000001,
+        "vorp": 11.9
+      }
+    },
+    {
+      "id": "stonera99x-62",
+      "sourceId": 62,
+      "date": "2022-07-01",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed TyTy Washington Jr.",
+      "participants": [
+        {
+          "name": "TyTy Washington Jr.",
+          "playerHref": "/players/w/washity02.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -2727.9,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2727.9,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -47742.80000000001,
+        "vorp": 11.4
+      }
+    },
+    {
+      "id": "stonera99x-63",
+      "sourceId": 63,
+      "date": "2022-07-06",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Jae'Sean Tate",
+      "participants": [
+        {
+          "name": "Jae'Sean Tate",
+          "playerHref": "/players/t/tateja01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -4981.6,
+            "vorp": -0.09999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4981.6,
+        "vorp": -0.09999999999999998
+      },
+      "runningValues": {
+        "bpm": -52724.40000000001,
+        "vorp": 11.3
+      }
+    },
+    {
+      "id": "stonera99x-64",
+      "sourceId": 64,
+      "date": "2022-07-26",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Bruno Fernando",
+      "participants": [
+        {
+          "name": "Bruno Fernando",
+          "playerHref": "/players/f/fernabr01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -52724.40000000001,
+        "vorp": 11.3
+      }
+    },
+    {
+      "id": "stonera99x-65",
+      "sourceId": 65,
+      "date": "2022-09-30",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Bruno Fernando",
+      "participants": [
+        {
+          "name": "Bruno Fernando",
+          "playerHref": "/players/f/fernabr01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -618.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -618.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -53343.20000000001,
+        "vorp": 11.3
+      }
+    },
+    {
+      "id": "stonera99x-66",
+      "sourceId": 66,
+      "date": "2022-09-30",
+      "type": "trade",
+      "tenureTeam": "HOU",
+      "summary": "Added Derrick Favors, Maurice Harkless, Ty Jerome, Theo Maledon, Tyler Nickel, and future ('2026', '2nd') round pick; Sent out Sterling Brown, Trey Burke, Marquese Chriss, and David Nwaba",
+      "participants": [
+        {
+          "name": "Sterling Brown",
+          "playerHref": "/players/b/brownst02.html",
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Trey Burke",
+          "playerHref": "/players/b/burketr01.html",
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Marquese Chriss",
+          "playerHref": "/players/c/chrisma01.html",
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "David Nwaba",
+          "playerHref": "/players/n/nwabada01.html",
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Derrick Favors",
+          "playerHref": "/players/f/favorde01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Maurice Harkless",
+          "playerHref": "/players/h/harklma01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ty Jerome",
+          "playerHref": "/players/j/jeromty01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Theo Maledon",
+          "playerHref": "/players/m/maledth01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tyler Nickel",
+          "playerHref": "/players/n/nickety01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -53343.20000000001,
+        "vorp": 11.3
+      }
+    },
+    {
+      "id": "stonera99x-67",
+      "sourceId": 67,
+      "date": "2022-10-08",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Willie Cauley-Stein",
+      "participants": [
+        {
+          "name": "Willie Cauley-Stein",
+          "playerHref": "/players/c/caulewi01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -53343.20000000001,
+        "vorp": 11.3
+      }
+    },
+    {
+      "id": "stonera99x-68",
+      "sourceId": 68,
+      "date": "2022-10-11",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Trhae Mitchell",
+      "participants": [
+        {
+          "name": "Trhae Mitchell",
+          "playerHref": "/players/m/mitchtr01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -53343.20000000001,
+        "vorp": 11.3
+      }
+    },
+    {
+      "id": "stonera99x-69",
+      "sourceId": 69,
+      "date": "2022-10-12",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Pierria Henry",
+      "participants": [
+        {
+          "name": "Pierria Henry",
+          "playerHref": "/players/h/henrypi01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -53343.20000000001,
+        "vorp": 11.3
+      }
+    },
+    {
+      "id": "stonera99x-70",
+      "sourceId": 70,
+      "date": "2023-02-09",
+      "type": "trade",
+      "tenureTeam": "HOU",
+      "summary": "Added John Wall, Cam Whitmore, and Danny Green; Sent out Eric Gordon and Kobe Brown",
+      "participants": [
+        {
+          "name": "Eric Gordon",
+          "playerHref": "/players/g/gordoer01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kobe Brown",
+          "playerHref": "/players/b/brownko01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 2746.8999999999996,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Wall",
+          "playerHref": "/players/w/walljo01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -981.5,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cam Whitmore",
+          "playerHref": "/players/w/whitmca01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Danny Green",
+          "playerHref": "/players/g/greenda02.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": -374.09999999999997,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1391.2999999999997,
+        "vorp": -0.09999999999999998
+      },
+      "runningValues": {
+        "bpm": -51951.90000000001,
+        "vorp": 11.2
+      }
+    },
+    {
+      "id": "stonera99x-71",
+      "sourceId": 71,
+      "date": "2023-02-09",
+      "type": "trade",
+      "tenureTeam": "HOU",
+      "summary": "Added Justin Holiday, Frank Kaminsky, Ulrich Chomche, Jahmai Mashack, and future ('2025', '2nd') round pick; Sent out Bruno Fernando and Garrison Mathews",
+      "participants": [
+        {
+          "name": "Bruno Fernando",
+          "playerHref": "/players/f/fernabr01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 1701.3000000000002,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Garrison Mathews",
+          "playerHref": "/players/m/mathega01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 4339.2,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Justin Holiday",
+          "playerHref": "/players/h/holidju01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Frank Kaminsky",
+          "playerHref": "/players/k/kaminfr01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 218.3,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ulrich Chomche",
+          "playerHref": "/players/c/chomcul01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jahmai Mashack",
+          "playerHref": "/players/m/mashaja01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 6258.8,
+        "vorp": 0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -45693.100000000006,
+        "vorp": 11.499999999999998
+      }
+    },
+    {
+      "id": "stonera99x-72",
+      "sourceId": 72,
+      "date": "2023-02-12",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Boban Marjanović",
+      "participants": [
+        {
+          "name": "Boban Marjanović",
+          "playerHref": "/players/m/marjabo01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 273.6,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 273.6,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -45419.50000000001,
+        "vorp": 11.699999999999998
+      }
+    },
+    {
+      "id": "stonera99x-73",
+      "sourceId": 73,
+      "date": "2023-02-27",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Willie Cauley-Stein",
+      "participants": [
+        {
+          "name": "Willie Cauley-Stein",
+          "playerHref": "/players/c/caulewi01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -45419.50000000001,
+        "vorp": 11.699999999999998
+      }
+    },
+    {
+      "id": "stonera99x-74",
+      "sourceId": 74,
+      "date": "2023-03-23",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed D.J. Augustin",
+      "participants": [
+        {
+          "name": "D.J. Augustin",
+          "playerHref": "/players/a/augusdj01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -45419.50000000001,
+        "vorp": 11.699999999999998
+      }
+    },
+    {
+      "id": "stonera99x-75",
+      "sourceId": 75,
+      "date": "2023-04-09",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Willie Cauley-Stein",
+      "participants": [
+        {
+          "name": "Willie Cauley-Stein",
+          "playerHref": "/players/c/caulewi01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -45419.50000000001,
+        "vorp": 11.699999999999998
+      }
+    },
+    {
+      "id": "stonera99x-77",
+      "sourceId": 77,
+      "date": "2023-06-22",
+      "type": "draft",
+      "tenureTeam": "HOU",
+      "summary": "Drafted Amen Thompson and Cam Whitmore",
+      "participants": [
+        {
+          "name": "Amen Thompson",
+          "playerHref": "/players/t/thompam01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cam Whitmore",
+          "playerHref": "/players/w/whitmca01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -45419.50000000001,
+        "vorp": 11.699999999999998
+      }
+    },
+    {
+      "id": "stonera99x-78",
+      "sourceId": 78,
+      "date": "2023-06-29",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Darius Days",
+      "participants": [
+        {
+          "name": "Darius Days",
+          "playerHref": "/players/d/daysda01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -45419.50000000001,
+        "vorp": 11.699999999999998
+      }
+    },
+    {
+      "id": "stonera99x-79",
+      "sourceId": 79,
+      "date": "2023-07-01",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Trevor Hudgins",
+      "participants": [
+        {
+          "name": "Trevor Hudgins",
+          "playerHref": "/players/h/hudgitr01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -45419.50000000001,
+        "vorp": 11.699999999999998
+      }
+    },
+    {
+      "id": "stonera99x-80",
+      "sourceId": 80,
+      "date": "2023-07-03",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Rookie contract for Cam Whitmore",
+      "participants": [
+        {
+          "name": "Cam Whitmore",
+          "playerHref": "/players/w/whitmca01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 336.1,
+            "vorp": 1
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 336.1,
+        "vorp": 1
+      },
+      "runningValues": {
+        "bpm": -45083.40000000001,
+        "vorp": 12.699999999999998
+      }
+    },
+    {
+      "id": "stonera99x-81",
+      "sourceId": 81,
+      "date": "2023-07-03",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Rookie contract for Amen Thompson",
+      "participants": [
+        {
+          "name": "Amen Thompson",
+          "playerHref": "/players/t/thompam01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 19999.2,
+            "vorp": 8.5
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 19999.2,
+        "vorp": 8.5
+      },
+      "runningValues": {
+        "bpm": -25084.200000000008,
+        "vorp": 21.199999999999996
+      }
+    },
+    {
+      "id": "stonera99x-82",
+      "sourceId": 82,
+      "date": "2023-07-06",
+      "type": "trade",
+      "tenureTeam": "HOU",
+      "summary": "Added Patty Mills and future ('2028', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Patty Mills",
+          "playerHref": "/players/m/millspa02.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2028', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -25084.200000000008,
+        "vorp": 21.199999999999996
+      }
+    },
+    {
+      "id": "stonera99x-83",
+      "sourceId": 83,
+      "date": "2023-07-06",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Jeff Green",
+      "participants": [
+        {
+          "name": "Jeff Green",
+          "playerHref": "/players/g/greenje02.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -2455.6,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2455.6,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -27539.800000000007,
+        "vorp": 21.399999999999995
+      }
+    },
+    {
+      "id": "stonera99x-84",
+      "sourceId": 84,
+      "date": "2023-07-06",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Jock Landale",
+      "participants": [
+        {
+          "name": "Jock Landale",
+          "playerHref": "/players/l/landajo01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 123.7,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 123.7,
+        "vorp": 0.7
+      },
+      "runningValues": {
+        "bpm": -27416.100000000006,
+        "vorp": 22.099999999999994
+      }
+    },
+    {
+      "id": "stonera99x-85",
+      "sourceId": 85,
+      "date": "2023-07-07",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Fred VanVleet",
+      "participants": [
+        {
+          "name": "Fred VanVleet",
+          "playerHref": "/players/v/vanvlfr01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 10757.099999999999,
+            "vorp": 5.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 10757.099999999999,
+        "vorp": 5.1
+      },
+      "runningValues": {
+        "bpm": -16659.000000000007,
+        "vorp": 27.199999999999996
+      }
+    },
+    {
+      "id": "stonera99x-86",
+      "sourceId": 86,
+      "date": "2023-07-08",
+      "type": "trade",
+      "tenureTeam": "HOU",
+      "summary": "Added Alpha Kaba, Tyler Bilodeau, future ('2026', '2nd') round pick, future ('2027', '2nd') round pick, and Dillon Brooks; Sent out Patty Mills, KJ Simpson, future ('2029', '2nd') round pick, future ('2030', '2nd') round pick, Josh Christopher, Kenyon Martin, Usman Garuba, TyTy Washington Jr., Mohamed Diawara, future ('2025', '2nd') round pick, and future ('2028', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Patty Mills",
+          "playerHref": "/players/m/millspa02.html",
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "KJ Simpson",
+          "playerHref": "/players/s/simpskj01.html",
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2029', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2030', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Josh Christopher",
+          "playerHref": "/players/c/chrisjo01.html",
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kenyon Martin",
+          "playerHref": "/players/m/martike04.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 186,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Usman Garuba",
+          "playerHref": "/players/g/garubus01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "TyTy Washington Jr.",
+          "playerHref": "/players/w/washity02.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mohamed Diawara",
+          "playerHref": "/players/d/diawamo01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2028', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alpha Kaba",
+          "playerHref": "/players/k/kabaal01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tyler Bilodeau",
+          "playerHref": "/players/b/bilodty01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dillon Brooks",
+          "playerHref": "/players/b/brookdi01.html",
+          "direction": "in",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 186,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -16473.000000000007,
+        "vorp": 27.199999999999996
+      }
+    },
+    {
+      "id": "stonera99x-87",
+      "sourceId": 87,
+      "date": "2023-07-10",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Aaron Holiday",
+      "participants": [
+        {
+          "name": "Aaron Holiday",
+          "playerHref": "/players/h/holidaa01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -1903.5000000000002,
+            "vorp": 0.20000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1903.5000000000002,
+        "vorp": 0.20000000000000004
+      },
+      "runningValues": {
+        "bpm": -18376.500000000007,
+        "vorp": 27.399999999999995
+      }
+    },
+    {
+      "id": "stonera99x-88",
+      "sourceId": 88,
+      "date": "2023-07-28",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Joshua Obiesie",
+      "participants": [
+        {
+          "name": "Joshua Obiesie",
+          "playerHref": "/players/o/obiesjo01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -18376.500000000007,
+        "vorp": 27.399999999999995
+      }
+    },
+    {
+      "id": "stonera99x-89",
+      "sourceId": 89,
+      "date": "2023-08-01",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Jermaine Samuels",
+      "participants": [
+        {
+          "name": "Jermaine Samuels",
+          "playerHref": "/players/s/samueje01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 48,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 48,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -18328.500000000007,
+        "vorp": 27.399999999999995
+      }
+    },
+    {
+      "id": "stonera99x-90",
+      "sourceId": 90,
+      "date": "2023-09-19",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Boban Marjanović",
+      "participants": [
+        {
+          "name": "Boban Marjanović",
+          "playerHref": "/players/m/marjabo01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -14.200000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -14.200000000000001,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -18342.700000000008,
+        "vorp": 27.399999999999995
+      }
+    },
+    {
+      "id": "stonera99x-91",
+      "sourceId": 91,
+      "date": "2023-10-04",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Reggie Bullock",
+      "participants": [
+        {
+          "name": "Reggie Bullock",
+          "playerHref": "/players/b/bullore01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -1000.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1000.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -19343.500000000007,
+        "vorp": 27.399999999999995
+      }
+    },
+    {
+      "id": "stonera99x-92",
+      "sourceId": 92,
+      "date": "2023-10-17",
+      "type": "trade",
+      "tenureTeam": "HOU",
+      "summary": "Added Victor Oladipo and Jeremiah Robinson-Earl; Sent out Kevin Porter Jr., future ('2027', '2nd') round pick, and future ('2028', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Kevin Porter Jr.",
+          "playerHref": "/players/p/porteke02.html",
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Victor Oladipo",
+          "playerHref": "/players/o/oladivi01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jeremiah Robinson-Earl",
+          "playerHref": "/players/r/robinje02.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2028', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "OKC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -19343.500000000007,
+        "vorp": 27.399999999999995
+      }
+    },
+    {
+      "id": "stonera99x-93",
+      "sourceId": 93,
+      "date": "2023-10-23",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Nate Hinton",
+      "participants": [
+        {
+          "name": "Nate Hinton",
+          "playerHref": "/players/h/hintona01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 270,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 270,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -19073.500000000007,
+        "vorp": 27.499999999999996
+      }
+    },
+    {
+      "id": "stonera99x-94",
+      "sourceId": 94,
+      "date": "2023-10-23",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Jeenathan Williams",
+      "participants": [
+        {
+          "name": "Jeenathan Williams",
+          "playerHref": "/players/w/willije02.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -206.39999999999998,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -206.39999999999998,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -19279.90000000001,
+        "vorp": 27.499999999999996
+      }
+    },
+    {
+      "id": "stonera99x-95",
+      "sourceId": 95,
+      "date": "2024-02-01",
+      "type": "trade",
+      "tenureTeam": "HOU",
+      "summary": "Added Steven Adams; Sent out Victor Oladipo, Ulrich Chomche, Jaylen Wells, Will Richard, and future ('2025', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Victor Oladipo",
+          "playerHref": "/players/o/oladivi01.html",
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ulrich Chomche",
+          "playerHref": "/players/c/chomcul01.html",
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jaylen Wells",
+          "playerHref": "/players/w/wellsja01.html",
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 10177.6,
+            "vorp": 0.39999999999999997
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Will Richard",
+          "playerHref": "/players/r/richawi02.html",
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steven Adams",
+          "playerHref": "/players/a/adamsst01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -120.50000000000001,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "MEM",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 10057.1,
+        "vorp": 1.2
+      },
+      "runningValues": {
+        "bpm": -9222.800000000008,
+        "vorp": 28.699999999999996
+      }
+    },
+    {
+      "id": "stonera99x-96",
+      "sourceId": 96,
+      "date": "2024-06-26",
+      "type": "draft",
+      "tenureTeam": "HOU",
+      "summary": "Drafted Reed Sheppard",
+      "participants": [
+        {
+          "name": "Reed Sheppard",
+          "playerHref": "/players/s/sheppre01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -9222.800000000008,
+        "vorp": 28.699999999999996
+      }
+    },
+    {
+      "id": "stonera99x-97",
+      "sourceId": 97,
+      "date": "2024-06-26",
+      "type": "trade",
+      "tenureTeam": "HOU",
+      "summary": "Added Khaman Maluach, future ('2025', '1st') round pick, future ('2027', '1st') round pick, and future ('2029', '1st') round pick; Sent out Danny Wolf, Mikel Brown Jr., future ('2025', '1st') round pick, future ('2026', '1st') round pick, and future ('2029', '1st') round pick",
+      "participants": [
+        {
+          "name": "Danny Wolf",
+          "playerHref": "/players/w/wolfda01.html",
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 3528.6,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mikel Brown Jr.",
+          "playerHref": "/players/b/brownmi02.html",
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 1160,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Khaman Maluach",
+          "playerHref": "/players/m/maluakh01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '1st') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '1st') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2029', '1st') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2025', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2029', '1st') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4688.6,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": -4534.200000000008,
+        "vorp": 29.099999999999994
+      }
+    },
+    {
+      "id": "stonera99x-98",
+      "sourceId": 98,
+      "date": "2024-06-27",
+      "type": "draft",
+      "tenureTeam": "HOU",
+      "summary": "Drafted Pelle Larsson",
+      "participants": [
+        {
+          "name": "Pelle Larsson",
+          "playerHref": "/players/l/larsspe01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -4534.200000000008,
+        "vorp": 29.099999999999994
+      }
+    },
+    {
+      "id": "stonera99x-99",
+      "sourceId": 99,
+      "date": "2024-06-27",
+      "type": "trade",
+      "tenureTeam": "HOU",
+      "summary": "Added A.J. Griffin; Sent out Pelle Larsson",
+      "participants": [
+        {
+          "name": "Pelle Larsson",
+          "playerHref": "/players/l/larsspe01.html",
+          "direction": "out",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": 5098,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "A.J. Griffin",
+          "playerHref": "/players/g/griffaj01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5098,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": 563.799999999992,
+        "vorp": 28.799999999999994
+      }
+    },
+    {
+      "id": "stonera99x-100",
+      "sourceId": 100,
+      "date": "2024-07-02",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Rookie contract for Reed Sheppard",
+      "participants": [
+        {
+          "name": "Reed Sheppard",
+          "playerHref": "/players/s/sheppre01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 4366.6,
+            "vorp": 2.6
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 4366.6,
+        "vorp": 2.6
+      },
+      "runningValues": {
+        "bpm": 4930.399999999992,
+        "vorp": 31.399999999999995
+      }
+    },
+    {
+      "id": "stonera99x-101",
+      "sourceId": 101,
+      "date": "2024-07-03",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Nate Williams Jr.",
+      "participants": [
+        {
+          "name": "Nate Williams Jr.",
+          "playerHref": "/players/w/willije02.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -837.9,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -837.9,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 4092.4999999999923,
+        "vorp": 31.299999999999994
+      }
+    },
+    {
+      "id": "stonera99x-102",
+      "sourceId": 102,
+      "date": "2024-07-06",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Aaron Holiday",
+      "participants": [
+        {
+          "name": "Aaron Holiday",
+          "playerHref": "/players/h/holidaa01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -158.4000000000001,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -158.4000000000001,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": 3934.099999999992,
+        "vorp": 31.599999999999994
+      }
+    },
+    {
+      "id": "stonera99x-103",
+      "sourceId": 103,
+      "date": "2024-07-09",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed N'Faly Dante",
+      "participants": [
+        {
+          "name": "N'Faly Dante",
+          "playerHref": "/players/n/nfalyda01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 122.39999999999999,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 122.39999999999999,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 4056.4999999999923,
+        "vorp": 31.699999999999996
+      }
+    },
+    {
+      "id": "stonera99x-104",
+      "sourceId": 104,
+      "date": "2024-07-25",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Jack McVeigh",
+      "participants": [
+        {
+          "name": "Jack McVeigh",
+          "playerHref": "/players/m/mcveija01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -331.1,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -331.1,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 3725.3999999999924,
+        "vorp": 31.599999999999994
+      }
+    },
+    {
+      "id": "stonera99x-105",
+      "sourceId": 105,
+      "date": "2025-02-06",
+      "type": "trade",
+      "tenureTeam": "HOU",
+      "summary": "Added Cody Zeller; Sent out Alpha Kaba",
+      "participants": [
+        {
+          "name": "Alpha Kaba",
+          "playerHref": "/players/k/kabaal01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cody Zeller",
+          "playerHref": "/players/z/zelleco01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 3725.3999999999924,
+        "vorp": 31.599999999999994
+      }
+    },
+    {
+      "id": "stonera99x-106",
+      "sourceId": 106,
+      "date": "2025-02-06",
+      "type": "trade",
+      "tenureTeam": "HOU",
+      "summary": "Added Jaden Springer, future ('2027', '2nd') round pick, and future ('2030', '2nd') round pick; Sent out future ('2031', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Jaden Springer",
+          "playerHref": "/players/s/sprinja01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2030', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2031', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 3725.3999999999924,
+        "vorp": 31.599999999999994
+      }
+    },
+    {
+      "id": "stonera99x-107",
+      "sourceId": 107,
+      "date": "2025-03-03",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed David Roddy",
+      "participants": [
+        {
+          "name": "David Roddy",
+          "playerHref": "/players/r/roddyda01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -290.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -290.5,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 3434.8999999999924,
+        "vorp": 31.499999999999993
+      }
+    },
+    {
+      "id": "stonera99x-108",
+      "sourceId": 108,
+      "date": "2025-06-25",
+      "type": "draft",
+      "tenureTeam": "HOU",
+      "summary": "Drafted Khaman Maluach and Jahmai Mashack",
+      "participants": [
+        {
+          "name": "Khaman Maluach",
+          "playerHref": "/players/m/maluakh01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jahmai Mashack",
+          "playerHref": "/players/m/mashaja01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 3434.8999999999924,
+        "vorp": 31.499999999999993
+      }
+    },
+    {
+      "id": "stonera99x-109",
+      "sourceId": 109,
+      "date": "2025-07-05",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Kevon Harris",
+      "participants": [
+        {
+          "name": "Kevon Harris",
+          "playerHref": "/players/h/harrike01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 3434.8999999999924,
+        "vorp": 31.499999999999993
+      }
+    },
+    {
+      "id": "stonera99x-110",
+      "sourceId": 110,
+      "date": "2025-07-05",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Jae'sean Tate",
+      "participants": [
+        {
+          "name": "Jae'sean Tate",
+          "playerHref": "/players/t/tateja01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -1579.5,
+            "vorp": -0.20000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1579.5,
+        "vorp": -0.20000000000000004
+      },
+      "runningValues": {
+        "bpm": 1855.3999999999924,
+        "vorp": 31.299999999999994
+      }
+    },
+    {
+      "id": "stonera99x-111",
+      "sourceId": 111,
+      "date": "2025-07-06",
+      "type": "trade",
+      "tenureTeam": "HOU",
+      "summary": "Added Mojave King, Jack Kayil, future ('2026', '2nd') round pick, and future ('2029', '2nd') round pick; Sent out Cam Whitmore",
+      "participants": [
+        {
+          "name": "Cam Whitmore",
+          "playerHref": "/players/w/whitmca01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 1168.2,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mojave King",
+          "playerHref": "/players/k/kingmo01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jack Kayil",
+          "playerHref": "/players/k/kayilja01.html",
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2029', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1168.2,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 3023.599999999992,
+        "vorp": 31.399999999999995
+      }
+    },
+    {
+      "id": "stonera99x-112",
+      "sourceId": 112,
+      "date": "2025-07-06",
+      "type": "trade",
+      "tenureTeam": "HOU",
+      "summary": "Added Clint Capela and Kevin Durant; Sent out Dillon Brooks, Jalen Green, Khaman Maluach, Tyler Nickel, future ('2026', '2nd') round pick, future ('2032', '2nd') round pick, Jahmai Mashack, Tyler Bilodeau, future ('2030', '2nd') round pick, David Roddy, and future ('2031', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Dillon Brooks",
+          "playerHref": "/players/b/brookdi01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 5686.5,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jalen Green",
+          "playerHref": "/players/g/greenja05.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 2606.2000000000003,
+            "vorp": 0.09999999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Khaman Maluach",
+          "playerHref": "/players/m/maluakh01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 1783.6000000000001,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tyler Nickel",
+          "playerHref": "/players/n/nickety01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2032', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jahmai Mashack",
+          "playerHref": "/players/m/mashaja01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tyler Bilodeau",
+          "playerHref": "/players/b/bilodty01.html",
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2026', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2030', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "David Roddy",
+          "playerHref": "/players/r/roddyda01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2031', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Clint Capela",
+          "playerHref": "/players/c/capelca01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kevin Durant",
+          "playerHref": "/players/d/duranke01.html",
+          "direction": "in",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 10076.300000000001,
+        "vorp": 0.6
+      },
+      "runningValues": {
+        "bpm": 13099.899999999992,
+        "vorp": 31.999999999999996
+      }
+    },
+    {
+      "id": "stonera99x-113",
+      "sourceId": 113,
+      "date": "2025-07-06",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Fred VanVleet",
+      "participants": [
+        {
+          "name": "Fred VanVleet",
+          "playerHref": "/players/v/vanvlfr01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 1152,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1152,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": 14251.899999999992,
+        "vorp": 32.5
+      }
+    },
+    {
+      "id": "stonera99x-114",
+      "sourceId": 114,
+      "date": "2025-07-06",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Dorian Finney-Smith",
+      "participants": [
+        {
+          "name": "Dorian Finney-Smith",
+          "playerHref": "/players/f/finnedo01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -2666,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2666,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": 11585.899999999992,
+        "vorp": 32.1
+      }
+    },
+    {
+      "id": "stonera99x-115",
+      "sourceId": 115,
+      "date": "2025-07-08",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Aaron Holiday",
+      "participants": [
+        {
+          "name": "Aaron Holiday",
+          "playerHref": "/players/h/holidaa01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -1874.3999999999999,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1874.3999999999999,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 9711.499999999993,
+        "vorp": 32
+      }
+    },
+    {
+      "id": "stonera99x-116",
+      "sourceId": 116,
+      "date": "2025-07-09",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Jeff Green",
+      "participants": [
+        {
+          "name": "Jeff Green",
+          "playerHref": "/players/g/greenje02.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -979.9999999999999,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -979.9999999999999,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 8731.499999999993,
+        "vorp": 31.8
+      }
+    },
+    {
+      "id": "stonera99x-117",
+      "sourceId": 117,
+      "date": "2025-07-22",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Josh Okogie",
+      "participants": [
+        {
+          "name": "Josh Okogie",
+          "playerHref": "/players/o/okogijo01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -1624.8,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1624.8,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": 7106.6999999999925,
+        "vorp": 32.1
+      }
+    },
+    {
+      "id": "stonera99x-118",
+      "sourceId": 118,
+      "date": "2025-07-26",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed JD Davison",
+      "participants": [
+        {
+          "name": "JD Davison",
+          "playerHref": "/players/d/davisjd01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -239.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -239.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 6866.899999999992,
+        "vorp": 32.1
+      }
+    },
+    {
+      "id": "stonera99x-119",
+      "sourceId": 119,
+      "date": "2025-07-26",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Isaiah Crawford",
+      "participants": [
+        {
+          "name": "Isaiah Crawford",
+          "playerHref": "/players/c/crawfis01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -276,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -276,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 6590.899999999992,
+        "vorp": 32.1
+      }
+    },
+    {
+      "id": "stonera99x-120",
+      "sourceId": 120,
+      "date": "2025-12-02",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Tyler Smith",
+      "participants": [
+        {
+          "name": "Tyler Smith",
+          "playerHref": "/players/s/smithty02.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 6590.899999999992,
+        "vorp": 32.1
+      }
+    },
+    {
+      "id": "stonera99x-121",
+      "sourceId": 121,
+      "date": "2026-01-03",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Tristen Newton",
+      "participants": [
+        {
+          "name": "Tristen Newton",
+          "playerHref": "/players/n/newtotr01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 100.80000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 100.80000000000001,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 6691.6999999999925,
+        "vorp": 32.1
+      }
+    },
+    {
+      "id": "stonera99x-122",
+      "sourceId": 122,
+      "date": "2026-06-24",
+      "type": "draft",
+      "tenureTeam": "HOU",
+      "summary": "Drafted Jack Kayil and Ugonna Onyenso",
+      "participants": [
+        {
+          "name": "Jack Kayil",
+          "playerHref": "/players/k/kayilja01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ugonna Onyenso",
+          "playerHref": "/players/o/onyenug01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 6691.6999999999925,
+        "vorp": 32.1
+      }
+    },
+    {
+      "id": "stonera99x-123",
+      "sourceId": 123,
+      "date": "2026-06-24",
+      "type": "trade",
+      "tenureTeam": "HOU",
+      "summary": "Added Nick Martinelli and Bruce Thornton; Sent out Jack Kayil, Mojave King, and Ugonna Onyenso",
+      "participants": [
+        {
+          "name": "Jack Kayil",
+          "playerHref": "/players/k/kayilja01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mojave King",
+          "playerHref": "/players/k/kingmo01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ugonna Onyenso",
+          "playerHref": "/players/o/onyenug01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Nick Martinelli",
+          "playerHref": "/players/m/martini01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bruce Thornton",
+          "playerHref": "/players/t/thornbr01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 6691.6999999999925,
+        "vorp": 32.1
+      }
+    },
+    {
+      "id": "stonera99x-124",
+      "sourceId": 124,
+      "date": "2026-06-24",
+      "type": "trade",
+      "tenureTeam": "HOU",
+      "summary": "Sent out Nick Martinelli",
+      "participants": [
+        {
+          "name": "Nick Martinelli",
+          "playerHref": "/players/m/martini01.html",
+          "direction": "out",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -121,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -121,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 6570.6999999999925,
+        "vorp": 32.1
+      }
+    },
+    {
+      "id": "stonera99x-125",
+      "sourceId": 125,
+      "date": "2026-07-06",
+      "type": "trade",
+      "tenureTeam": "HOU",
+      "summary": "Added future ('2033', '2nd') round pick; Sent out Dorian Finney-Smith, future ('2027', '2nd') round pick, future ('2028', '2nd') round pick, and future ('2033', '2nd') round pick",
+      "participants": [
+        {
+          "name": "Dorian Finney-Smith",
+          "playerHref": "/players/f/finnedo01.html",
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2033', '2nd') round pick",
+          "playerHref": null,
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2027', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2028', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "future ('2033', '2nd') round pick",
+          "playerHref": null,
+          "direction": "out",
+          "teamCode": "CHO",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 6570.6999999999925,
+        "vorp": 32.1
+      }
+    },
+    {
+      "id": "stonera99x-126",
+      "sourceId": 126,
+      "date": "2026-07-07",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Bruce Thornton",
+      "participants": [
+        {
+          "name": "Bruce Thornton",
+          "playerHref": "/players/t/thornbr01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -292,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -292,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 6278.6999999999925,
+        "vorp": 32
+      }
+    },
+    {
+      "id": "stonera99x-127",
+      "sourceId": 127,
+      "date": "2026-07-07",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Quadir Copeland",
+      "participants": [
+        {
+          "name": "Quadir Copeland",
+          "playerHref": "/players/c/copelqu01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 6278.6999999999925,
+        "vorp": 32
+      }
+    },
+    {
+      "id": "stonera99x-128",
+      "sourceId": 128,
+      "date": "2026-07-08",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Bogdan Bogdanovic",
+      "participants": [
+        {
+          "name": "Bogdan Bogdanovic",
+          "playerHref": "/players/b/bogdabo01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 19.5,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 19.5,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 6298.1999999999925,
+        "vorp": 32.1
+      }
+    },
+    {
+      "id": "stonera99x-129",
+      "sourceId": 129,
+      "date": "2026-07-09",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Tari Eason",
+      "participants": [
+        {
+          "name": "Tari Eason",
+          "playerHref": "/players/e/easonta01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -523.6,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -523.6,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 5774.599999999992,
+        "vorp": 32.2
+      }
+    },
+    {
+      "id": "stonera99x-130",
+      "sourceId": 130,
+      "date": "2026-07-10",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Marcus Smart",
+      "participants": [
+        {
+          "name": "Marcus Smart",
+          "playerHref": "/players/s/smartma01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -154.4,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -154.4,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 5620.1999999999925,
+        "vorp": 32.300000000000004
+      }
+    },
+    {
+      "id": "stonera99x-131",
+      "sourceId": 131,
+      "date": "2026-07-22",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Isaiah Crawford",
+      "participants": [
+        {
+          "name": "Isaiah Crawford",
+          "playerHref": "/players/c/crawfis01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 226.8,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 226.8,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 5846.999999999993,
+        "vorp": 32.400000000000006
+      }
+    },
+    {
+      "id": "stonera99x-132",
+      "sourceId": 132,
+      "date": "2026-07-23",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Oscar Tshiebwe",
+      "participants": [
+        {
+          "name": "Oscar Tshiebwe",
+          "playerHref": "/players/t/tshieos01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 5846.999999999993,
+        "vorp": 32.400000000000006
+      }
+    },
+    {
+      "id": "stonera99x-133",
+      "sourceId": 133,
+      "date": "2026-07-23",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Jae'sean Tate",
+      "participants": [
+        {
+          "name": "Jae'sean Tate",
+          "playerHref": "/players/t/tateja01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": -273.8,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -273.8,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 5573.1999999999925,
+        "vorp": 32.300000000000004
+      }
+    },
+    {
+      "id": "stonera99x-134",
+      "sourceId": 134,
+      "date": "2026-07-24",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Julian Phillips",
+      "participants": [
+        {
+          "name": "Julian Phillips",
+          "playerHref": "/players/p/phillju01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 5573.1999999999925,
+        "vorp": 32.300000000000004
+      }
+    },
+    {
+      "id": "stonera99x-135",
+      "sourceId": 135,
+      "date": "2026-08-17",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Sean Pedulla",
+      "participants": [
+        {
+          "name": "Sean Pedulla",
+          "playerHref": "/players/p/pedulse01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 5573.1999999999925,
+        "vorp": 32.300000000000004
+      }
+    },
+    {
+      "id": "stonera99x-136",
+      "sourceId": 136,
+      "date": "2026-08-26",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Rafael Castro",
+      "participants": [
+        {
+          "name": "Rafael Castro",
+          "playerHref": "/players/c/castrra01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 5573.1999999999925,
+        "vorp": 32.300000000000004
+      }
+    },
+    {
+      "id": "stonera99x-137",
+      "sourceId": 137,
+      "date": "2026-10-19",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Oscar Tshiebwe",
+      "participants": [
+        {
+          "name": "Oscar Tshiebwe",
+          "playerHref": "/players/t/tshieos01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 61.2,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 61.2,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 5634.399999999992,
+        "vorp": 32.400000000000006
+      }
+    },
+    {
+      "id": "stonera99x-138",
+      "sourceId": 138,
+      "date": "2026-10-19",
+      "type": "signing",
+      "tenureTeam": "HOU",
+      "summary": "Signed Julian Phillips",
+      "participants": [
+        {
+          "name": "Julian Phillips",
+          "playerHref": "/players/p/phillju01.html",
+          "direction": "in",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 5634.399999999992,
+        "vorp": 32.400000000000006
+      }
+    }
+  ]
+}

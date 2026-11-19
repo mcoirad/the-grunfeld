@@ -1,0 +1,3306 @@
+{
+  "slug": "attleal01x",
+  "sourceRowCount": 194,
+  "tenures": [
+    {
+      "teamCode": "GSW",
+      "startDate": "1976-06-08",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "attleal01x-0",
+      "sourceId": 0,
+      "date": "1976-06-08",
+      "type": "draft",
+      "tenureTeam": "GSW",
+      "summary": "Drafted Robert Parish, Sonny Parker, Marshall Rogers, Jeff Fosnes, Carl Bird, Dwayne Barnett, Gene Cunningham, Jesse Campbell, Stan Boskovich, Howard Smith, and Ken Smith",
+      "participants": [
+        {
+          "name": "Robert Parish",
+          "playerHref": "/players/p/parisro01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 5354.900000000001,
+            "vorp": 5.3999999999999995
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sonny Parker",
+          "playerHref": "/players/p/parkeso01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 19827.600000000002,
+            "vorp": 10.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Marshall Rogers",
+          "playerHref": "/players/r/rogerma01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1214.4,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jeff Fosnes",
+          "playerHref": "/players/f/fosneje01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Carl Bird",
+          "playerHref": "/players/b/birdca01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dwayne Barnett",
+          "playerHref": "/players/b/barnedu01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Gene Cunningham",
+          "playerHref": "/players/c/cunnige01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jesse Campbell",
+          "playerHref": "/players/c/campbje01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Stan Boskovich",
+          "playerHref": "/players/b/boskost01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Howard Smith",
+          "playerHref": "/players/s/smithho01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ken Smith",
+          "playerHref": "/players/s/smithke04.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 23968.100000000002,
+        "vorp": 15.5
+      },
+      "runningValues": {
+        "bpm": 23968.100000000002,
+        "vorp": 15.5
+      }
+    },
+    {
+      "id": "attleal01x-1",
+      "sourceId": 1,
+      "date": "1977-01-18",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Wesley Cox; Sent out George Johnson",
+      "participants": [
+        {
+          "name": "George Johnson",
+          "playerHref": "/players/j/johnsge02.html",
+          "direction": "out",
+          "teamCode": "BUF",
+          "values": {
+            "bpm": -633,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Wesley Cox",
+          "playerHref": "/players/c/coxwe01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -633,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": 23335.100000000002,
+        "vorp": 14.8
+      }
+    },
+    {
+      "id": "attleal01x-2",
+      "sourceId": 2,
+      "date": "1977-02-24",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Larry McNeill",
+      "participants": [
+        {
+          "name": "Larry McNeill",
+          "playerHref": "/players/m/mcneila01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -540.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -540.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 22794.9,
+        "vorp": 14.8
+      }
+    },
+    {
+      "id": "attleal01x-3",
+      "sourceId": 3,
+      "date": "1977-06-10",
+      "type": "draft",
+      "tenureTeam": "GSW",
+      "summary": "Drafted Rickey Green, Wesley Cox, Ricky Love, Marlon Redmond, Roy Smith, Leartha Scott, Ray Epps, Jack Phelan, Jerry Thruston, and Ricky Marsh",
+      "participants": [
+        {
+          "name": "Rickey Green",
+          "playerHref": "/players/g/greenri01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -3184.2,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Wesley Cox",
+          "playerHref": "/players/c/coxwe01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -4882.5,
+            "vorp": -0.8999999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ricky Love",
+          "playerHref": "/players/l/loveri01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Marlon Redmond",
+          "playerHref": "/players/r/redmoma01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Roy Smith",
+          "playerHref": "/players/s/smithro03.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Leartha Scott",
+          "playerHref": "/players/s/scottle01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ray Epps",
+          "playerHref": "/players/e/eppsra01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -302.40000000000003,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jack Phelan",
+          "playerHref": "/players/p/phelaja03.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jerry Thruston",
+          "playerHref": "/players/t/thursje01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ricky Marsh",
+          "playerHref": "/players/m/marshri01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -2638.1,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -11007.2,
+        "vorp": -1.4
+      },
+      "runningValues": {
+        "bpm": 11787.7,
+        "vorp": 13.4
+      }
+    },
+    {
+      "id": "attleal01x-5",
+      "sourceId": 5,
+      "date": "1977-10-03",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed E.C. Coleman",
+      "participants": [
+        {
+          "name": "E.C. Coleman",
+          "playerHref": "/players/c/colemec01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -3962.2000000000003,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3962.2000000000003,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 7825.5,
+        "vorp": 13.3
+      }
+    },
+    {
+      "id": "attleal01x-7",
+      "sourceId": 7,
+      "date": "1978-01-05",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Nate Williams; Sent out Tommie Green",
+      "participants": [
+        {
+          "name": "Tommie Green",
+          "playerHref": "/players/g/greento01.html",
+          "direction": "out",
+          "teamCode": "NOJ",
+          "values": {
+            "bpm": 3397.8,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Nate Williams",
+          "playerHref": "/players/w/willina01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3397.8,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": 11223.3,
+        "vorp": 13.8
+      }
+    },
+    {
+      "id": "attleal01x-9",
+      "sourceId": 9,
+      "date": "1978-06-07",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Raymond Townsend; Sent out Albert King",
+      "participants": [
+        {
+          "name": "Albert King",
+          "playerHref": "/players/k/kingal01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Raymond Townsend",
+          "playerHref": "/players/t/townsra01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 11223.3,
+        "vorp": 13.8
+      }
+    },
+    {
+      "id": "attleal01x-10",
+      "sourceId": 10,
+      "date": "1978-06-09",
+      "type": "draft",
+      "tenureTeam": "GSW",
+      "summary": "Drafted Purvis Short, Raymond Townsend, Wayne Cooper, Steve Neff, Derrick Jackson, Bubba Wilson, Buzz Harnett, Rick Bernard, Tony Searcy, Bobby Humbles, and Mike Muff",
+      "participants": [
+        {
+          "name": "Purvis Short",
+          "playerHref": "/players/s/shortpu01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 6925.1,
+            "vorp": 11.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Raymond Townsend",
+          "playerHref": "/players/t/townsra01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -5791,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Wayne Cooper",
+          "playerHref": "/players/c/coopewa01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -8936.5,
+            "vorp": -1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Neff",
+          "playerHref": "/players/n/neffst01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Derrick Jackson",
+          "playerHref": "/players/j/jacksde02.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bubba Wilson",
+          "playerHref": "/players/w/wilsobu01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -757.9,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Buzz Harnett",
+          "playerHref": "/players/h/hartnbu01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rick Bernard",
+          "playerHref": "/players/b/bernari01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tony Searcy",
+          "playerHref": "/players/s/searcto01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bobby Humbles",
+          "playerHref": "/players/h/humblbo01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Muff",
+          "playerHref": "/players/m/muffmi01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -8560.3,
+        "vorp": 9.8
+      },
+      "runningValues": {
+        "bpm": 2663.0000000000014,
+        "vorp": 23.6
+      }
+    },
+    {
+      "id": "attleal01x-12",
+      "sourceId": 12,
+      "date": "1978-07-15",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Tom Abernethy",
+      "participants": [
+        {
+          "name": "Tom Abernethy",
+          "playerHref": "/players/a/abernto01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -540.8999999999997,
+            "vorp": 1.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -540.8999999999997,
+        "vorp": 1.1
+      },
+      "runningValues": {
+        "bpm": 2122.1000000000017,
+        "vorp": 24.700000000000003
+      }
+    },
+    {
+      "id": "attleal01x-13",
+      "sourceId": 13,
+      "date": "1978-10-09",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Larry Smith; Sent out Rickey Green",
+      "participants": [
+        {
+          "name": "Rickey Green",
+          "playerHref": "/players/g/greenri01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 1724,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Larry Smith",
+          "playerHref": "/players/s/smithla01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1724,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 3846.1000000000017,
+        "vorp": 24.900000000000002
+      }
+    },
+    {
+      "id": "attleal01x-14",
+      "sourceId": 14,
+      "date": "1978-10-11",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Danny Salisbury; Sent out Charles Dudley",
+      "participants": [
+        {
+          "name": "Charles Dudley",
+          "playerHref": "/players/d/dudlech01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 2462.4,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Danny Salisbury",
+          "playerHref": "/players/s/salisda01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2462.4,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": 6308.500000000002,
+        "vorp": 25.200000000000003
+      }
+    },
+    {
+      "id": "attleal01x-15",
+      "sourceId": 15,
+      "date": "1979-01-30",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Jo Jo White; Sent out Larry Demic",
+      "participants": [
+        {
+          "name": "Larry Demic",
+          "playerHref": "/players/d/demicla01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jo Jo White",
+          "playerHref": "/players/w/whitejo01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 6308.500000000002,
+        "vorp": 25.200000000000003
+      }
+    },
+    {
+      "id": "attleal01x-16",
+      "sourceId": 16,
+      "date": "1979-02-20",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Tony Robertson",
+      "participants": [
+        {
+          "name": "Tony Robertson",
+          "playerHref": "/players/r/roberto01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -296,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -296,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 6012.500000000002,
+        "vorp": 25.200000000000003
+      }
+    },
+    {
+      "id": "attleal01x-17",
+      "sourceId": 17,
+      "date": "1979-06-25",
+      "type": "draft",
+      "tenureTeam": "GSW",
+      "summary": "Drafted Danny Salisbury, Cheese Johnson, Ron Ripley, Jerry Sichting, George Lett, Jim Mitchem, Ren Watson, Mario Butler, Gene Ransom, and Kevin Heenan",
+      "participants": [
+        {
+          "name": "Danny Salisbury",
+          "playerHref": "/players/s/salisda01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cheese Johnson",
+          "playerHref": "/players/j/johnsch02.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -291.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ron Ripley",
+          "playerHref": "/players/r/riplero01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jerry Sichting",
+          "playerHref": "/players/s/sichtje01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "George Lett",
+          "playerHref": "/players/l/lettge01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jim Mitchem",
+          "playerHref": "/players/m/mitchji01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ren Watson",
+          "playerHref": "/players/w/watsore01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mario Butler",
+          "playerHref": "/players/b/butlema01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Gene Ransom",
+          "playerHref": "/players/r/ransoge01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kevin Heenan",
+          "playerHref": "/players/h/heenake01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -291.5,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 5721.000000000002,
+        "vorp": 25.1
+      }
+    },
+    {
+      "id": "attleal01x-18",
+      "sourceId": 18,
+      "date": "1979-09-07",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed John Coughran",
+      "participants": [
+        {
+          "name": "John Coughran",
+          "playerHref": "/players/c/coughjo01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 5721.000000000002,
+        "vorp": 25.1
+      }
+    },
+    {
+      "id": "attleal01x-19",
+      "sourceId": 19,
+      "date": "1979-12-05",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Darnell Hillman",
+      "participants": [
+        {
+          "name": "Darnell Hillman",
+          "playerHref": "/players/h/hillmda01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 5721.000000000002,
+        "vorp": 25.1
+      }
+    },
+    {
+      "id": "attleal01x-20",
+      "sourceId": 20,
+      "date": "1979-12-15",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed John Coughran",
+      "participants": [
+        {
+          "name": "John Coughran",
+          "playerHref": "/players/c/coughjo01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1040,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1040,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": 4681.000000000002,
+        "vorp": 24.8
+      }
+    },
+    {
+      "id": "attleal01x-21",
+      "sourceId": 21,
+      "date": "1980-01-01",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Jim Brogan",
+      "participants": [
+        {
+          "name": "Jim Brogan",
+          "playerHref": "/players/b/brogaji01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 4681.000000000002,
+        "vorp": 24.8
+      }
+    },
+    {
+      "id": "attleal01x-22",
+      "sourceId": 22,
+      "date": "1980-06-09",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Rickey Brown and Joe Barry Carroll; Sent out Robert Parish and Kevin McHale",
+      "participants": [
+        {
+          "name": "Robert Parish",
+          "playerHref": "/players/p/parisro01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": -71909.5,
+            "vorp": -35.699999999999996
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kevin McHale",
+          "playerHref": "/players/m/mchalke01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": -75196.2,
+            "vorp": -34.300000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rickey Brown",
+          "playerHref": "/players/b/brownri01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Joe Barry Carroll",
+          "playerHref": "/players/c/carrojo01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -147105.7,
+        "vorp": -70
+      },
+      "runningValues": {
+        "bpm": -142424.7,
+        "vorp": -45.2
+      }
+    },
+    {
+      "id": "attleal01x-23",
+      "sourceId": 23,
+      "date": "1980-06-10",
+      "type": "draft",
+      "tenureTeam": "GSW",
+      "summary": "Drafted Joe Barry Carroll, Rickey Brown, Larry Smith, Jeff Ruland, John Virgil, Robert Scott, Don Carfino, Neil Bresnahan, Lorenzo Romar, Kurt Kanaskie, Billy Reid, and Tim Higgins",
+      "participants": [
+        {
+          "name": "Joe Barry Carroll",
+          "playerHref": "/players/c/carrojo01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -2915.8,
+            "vorp": 8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rickey Brown",
+          "playerHref": "/players/b/brownri01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -11936,
+            "vorp": -1.7000000000000002
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Larry Smith",
+          "playerHref": "/players/s/smithla01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -25946.300000000003,
+            "vorp": 2.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jeff Ruland",
+          "playerHref": "/players/r/rulanje01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Virgil",
+          "playerHref": "/players/v/virgijo01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Robert Scott",
+          "playerHref": "/players/s/scottro01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Don Carfino",
+          "playerHref": "/players/c/carlido01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Neil Bresnahan",
+          "playerHref": "/players/b/bresnne01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lorenzo Romar",
+          "playerHref": "/players/r/romarlo01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -4293.1,
+            "vorp": 1.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kurt Kanaskie",
+          "playerHref": "/players/k/kanasku01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Billy Reid",
+          "playerHref": "/players/r/reidbi01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -3343.2,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tim Higgins",
+          "playerHref": "/players/h/higgiti01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -48434.4,
+        "vorp": 9.5
+      },
+      "runningValues": {
+        "bpm": -190859.1,
+        "vorp": -35.7
+      }
+    },
+    {
+      "id": "attleal01x-24",
+      "sourceId": 24,
+      "date": "1980-06-10",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Sam Williams; Sent out Jeff Ruland",
+      "participants": [
+        {
+          "name": "Jeff Ruland",
+          "playerHref": "/players/r/rulanje01.html",
+          "direction": "out",
+          "teamCode": "WSB",
+          "values": {
+            "bpm": -25122.600000000002,
+            "vorp": -11.900000000000002
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sam Williams",
+          "playerHref": "/players/w/willisa02.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -25122.600000000002,
+        "vorp": -11.900000000000002
+      },
+      "runningValues": {
+        "bpm": -215981.7,
+        "vorp": -47.60000000000001
+      }
+    },
+    {
+      "id": "attleal01x-25",
+      "sourceId": 25,
+      "date": "1980-07-11",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Bill Mayfield",
+      "participants": [
+        {
+          "name": "Bill Mayfield",
+          "playerHref": "/players/m/mayfibi01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -215981.7,
+        "vorp": -47.60000000000001
+      }
+    },
+    {
+      "id": "attleal01x-26",
+      "sourceId": 26,
+      "date": "1980-07-16",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Rudy White",
+      "participants": [
+        {
+          "name": "Rudy White",
+          "playerHref": "/players/w/whiteru01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -133.3,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -133.3,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -216115,
+        "vorp": -47.60000000000001
+      }
+    },
+    {
+      "id": "attleal01x-27",
+      "sourceId": 27,
+      "date": "1980-08-28",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added World B. Free; Sent out Phil Smith and Lancaster Gordon",
+      "participants": [
+        {
+          "name": "Phil Smith",
+          "playerHref": "/players/s/smithph01.html",
+          "direction": "out",
+          "teamCode": "SDC",
+          "values": {
+            "bpm": 4235.2,
+            "vorp": -0.9000000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lancaster Gordon",
+          "playerHref": "/players/g/gordola01.html",
+          "direction": "out",
+          "teamCode": "SDC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "World B. Free",
+          "playerHref": "/players/f/freewo01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 3693,
+            "vorp": 3.9000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 7928.2,
+        "vorp": 3
+      },
+      "runningValues": {
+        "bpm": -208186.8,
+        "vorp": -44.60000000000001
+      }
+    },
+    {
+      "id": "attleal01x-28",
+      "sourceId": 28,
+      "date": "1980-09-10",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Sent out Jo Jo White",
+      "participants": [
+        {
+          "name": "Jo Jo White",
+          "playerHref": "/players/w/whitejo01.html",
+          "direction": "out",
+          "teamCode": "KCK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -208186.8,
+        "vorp": -44.60000000000001
+      }
+    },
+    {
+      "id": "attleal01x-29",
+      "sourceId": 29,
+      "date": "1980-09-11",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Bernard King; Sent out Wayne Cooper and Ken Green",
+      "participants": [
+        {
+          "name": "Wayne Cooper",
+          "playerHref": "/players/c/coopewa01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 6390,
+            "vorp": 0.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ken Green",
+          "playerHref": "/players/g/greenke01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bernard King",
+          "playerHref": "/players/k/kingbe01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 14453.400000000001,
+            "vorp": 6.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 20843.4,
+        "vorp": 7.6000000000000005
+      },
+      "runningValues": {
+        "bpm": -187343.4,
+        "vorp": -37.00000000000001
+      }
+    },
+    {
+      "id": "attleal01x-30",
+      "sourceId": 30,
+      "date": "1980-11-03",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Lewis Lloyd; Sent out Rudy White",
+      "participants": [
+        {
+          "name": "Rudy White",
+          "playerHref": "/players/w/whiteru01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 792,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lewis Lloyd",
+          "playerHref": "/players/l/lloydle01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 792,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -186551.4,
+        "vorp": -36.800000000000004
+      }
+    },
+    {
+      "id": "attleal01x-31",
+      "sourceId": 31,
+      "date": "1981-01-21",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Phil Chenier",
+      "participants": [
+        {
+          "name": "Phil Chenier",
+          "playerHref": "/players/c/cheniph01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -186551.4,
+        "vorp": -36.800000000000004
+      }
+    },
+    {
+      "id": "attleal01x-32",
+      "sourceId": 32,
+      "date": "1981-02-12",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Joe Hassett",
+      "participants": [
+        {
+          "name": "Joe Hassett",
+          "playerHref": "/players/h/hassejo01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 809.1,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 809.1,
+        "vorp": 0.8
+      },
+      "runningValues": {
+        "bpm": -185742.3,
+        "vorp": -36.00000000000001
+      }
+    },
+    {
+      "id": "attleal01x-33",
+      "sourceId": 33,
+      "date": "1981-02-26",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Billy Mayfield",
+      "participants": [
+        {
+          "name": "Billy Mayfield",
+          "playerHref": "/players/m/mayfibi01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -248.39999999999998,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -248.39999999999998,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -185990.69999999998,
+        "vorp": -36.10000000000001
+      }
+    },
+    {
+      "id": "attleal01x-34",
+      "sourceId": 34,
+      "date": "1981-03-19",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed John Mengelt",
+      "participants": [
+        {
+          "name": "John Mengelt",
+          "playerHref": "/players/m/mengejo01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -185990.69999999998,
+        "vorp": -36.10000000000001
+      }
+    },
+    {
+      "id": "attleal01x-35",
+      "sourceId": 35,
+      "date": "1981-06-08",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Mike Gale; Sent out Audie Norris and Mike Smrek",
+      "participants": [
+        {
+          "name": "Audie Norris",
+          "playerHref": "/players/n/norriau01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 9356.8,
+            "vorp": 1.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Smrek",
+          "playerHref": "/players/s/smrekmi01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Gale",
+          "playerHref": "/players/g/galemi01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 9356.8,
+        "vorp": 1.1
+      },
+      "runningValues": {
+        "bpm": -176633.9,
+        "vorp": -35.00000000000001
+      }
+    },
+    {
+      "id": "attleal01x-36",
+      "sourceId": 36,
+      "date": "1981-06-09",
+      "type": "draft",
+      "tenureTeam": "GSW",
+      "summary": "Drafted Sam Williams, Carlton Neverson, Lewis Lloyd, Terry Adolph, Hank McDowell, Carter Scott, Robbie Dosty, Yasutaka Okayama, Doug Murrey, and Barry Brooks",
+      "participants": [
+        {
+          "name": "Sam Williams",
+          "playerHref": "/players/w/willisa02.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 87.10000000000005,
+            "vorp": 1.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Carlton Neverson",
+          "playerHref": "/players/n/neverca01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lewis Lloyd",
+          "playerHref": "/players/l/lloydle01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 1441.5,
+            "vorp": 1.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Terry Adolph",
+          "playerHref": "/players/a/adolpte01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Hank McDowell",
+          "playerHref": "/players/m/mcdowha01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1478.5,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Carter Scott",
+          "playerHref": "/players/s/scottca02.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Robbie Dosty",
+          "playerHref": "/players/d/dostyro01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Yasutaka Okayama",
+          "playerHref": "/players/o/okayaya01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Doug Murrey",
+          "playerHref": "/players/m/murredo02.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Barry Brooks",
+          "playerHref": "/players/b/brookba01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 50.100000000000136,
+        "vorp": 2.4
+      },
+      "runningValues": {
+        "bpm": -176583.8,
+        "vorp": -32.60000000000001
+      }
+    },
+    {
+      "id": "attleal01x-37",
+      "sourceId": 37,
+      "date": "1981-10-19",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Derek Smith and Steve Burtt; Sent out John Lucas",
+      "participants": [
+        {
+          "name": "John Lucas",
+          "playerHref": "/players/l/lucasjo01.html",
+          "direction": "out",
+          "teamCode": "WSB",
+          "values": {
+            "bpm": -3645.4,
+            "vorp": -2.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Derek Smith",
+          "playerHref": "/players/s/smithde02.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Burtt",
+          "playerHref": "/players/b/burttst01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3645.4,
+        "vorp": -2.1
+      },
+      "runningValues": {
+        "bpm": -180229.19999999998,
+        "vorp": -34.70000000000001
+      }
+    },
+    {
+      "id": "attleal01x-38",
+      "sourceId": 38,
+      "date": "1981-10-19",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed John Lucas",
+      "participants": [
+        {
+          "name": "John Lucas",
+          "playerHref": "/players/l/lucasjo01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -180229.19999999998,
+        "vorp": -34.70000000000001
+      }
+    },
+    {
+      "id": "attleal01x-39",
+      "sourceId": 39,
+      "date": "1982-06-19",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Pace Mannion; Sent out Wayne Sappleton",
+      "participants": [
+        {
+          "name": "Wayne Sappleton",
+          "playerHref": "/players/s/sapplwa01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 1877.3999999999999,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Pace Mannion",
+          "playerHref": "/players/m/mannipa01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1877.3999999999999,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": -178351.8,
+        "vorp": -34.40000000000001
+      }
+    },
+    {
+      "id": "attleal01x-40",
+      "sourceId": 40,
+      "date": "1982-06-23",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Wayne Sappleton; Sent out Doc Rivers",
+      "participants": [
+        {
+          "name": "Doc Rivers",
+          "playerHref": "/players/r/riverdo01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Wayne Sappleton",
+          "playerHref": "/players/s/sapplwa01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -178351.8,
+        "vorp": -34.40000000000001
+      }
+    },
+    {
+      "id": "attleal01x-41",
+      "sourceId": 41,
+      "date": "1982-06-29",
+      "type": "draft",
+      "tenureTeam": "GSW",
+      "summary": "Drafted Lester Conner, Derek Smith, Wayne Sappleton, Chris Engler, Ken Stancell, Albert Irving, David Vann, Matt Waldron, Mark King, Nick Morken, and Randy Whieldon",
+      "participants": [
+        {
+          "name": "Lester Conner",
+          "playerHref": "/players/c/connele01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 6298.7,
+            "vorp": 5.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Derek Smith",
+          "playerHref": "/players/s/smithde02.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1062.6000000000001,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Wayne Sappleton",
+          "playerHref": "/players/s/sapplwa01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chris Engler",
+          "playerHref": "/players/e/englech01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -4923.9,
+            "vorp": -0.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ken Stancell",
+          "playerHref": "/players/s/stancke01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Albert Irving",
+          "playerHref": "/players/i/irvinal01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "David Vann",
+          "playerHref": "/players/v/vannda01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Matt Waldron",
+          "playerHref": "/players/w/waldrma01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mark King",
+          "playerHref": "/players/k/kingma02.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Nick Morken",
+          "playerHref": "/players/m/morkeni01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Randy Whieldon",
+          "playerHref": "/players/w/whielra01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 312.1999999999998,
+        "vorp": 3.9
+      },
+      "runningValues": {
+        "bpm": -178039.59999999998,
+        "vorp": -30.50000000000001
+      }
+    },
+    {
+      "id": "attleal01x-42",
+      "sourceId": 42,
+      "date": "1982-10-22",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Micheal Ray Richardson and Scott McCollum; Sent out Bernard King",
+      "participants": [
+        {
+          "name": "Bernard King",
+          "playerHref": "/players/k/kingbe01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -30011.899999999998,
+            "vorp": -11.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Micheal Ray Richardson",
+          "playerHref": "/players/r/richami01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -859.2,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Scott McCollum",
+          "playerHref": "/players/m/mccolsc01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -30871.1,
+        "vorp": -10.799999999999999
+      },
+      "runningValues": {
+        "bpm": -208910.69999999998,
+        "vorp": -41.30000000000001
+      }
+    },
+    {
+      "id": "attleal01x-43",
+      "sourceId": 43,
+      "date": "1982-10-28",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Terry Duerod",
+      "participants": [
+        {
+          "name": "Terry Duerod",
+          "playerHref": "/players/d/duerote01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -245,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -245,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -209155.69999999998,
+        "vorp": -41.40000000000001
+      }
+    },
+    {
+      "id": "attleal01x-44",
+      "sourceId": 44,
+      "date": "1982-12-05",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Larry Kenon",
+      "participants": [
+        {
+          "name": "Larry Kenon",
+          "playerHref": "/players/k/kenonla01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -496.09999999999997,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -496.09999999999997,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -209651.8,
+        "vorp": -41.500000000000014
+      }
+    },
+    {
+      "id": "attleal01x-45",
+      "sourceId": 45,
+      "date": "1982-12-15",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Ron Brewer; Sent out World B. Free",
+      "participants": [
+        {
+          "name": "World B. Free",
+          "playerHref": "/players/f/freewo01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": -19972.3,
+            "vorp": -9.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ron Brewer",
+          "playerHref": "/players/b/brewero01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -3327,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -23299.3,
+        "vorp": -9.6
+      },
+      "runningValues": {
+        "bpm": -232951.09999999998,
+        "vorp": -51.100000000000016
+      }
+    },
+    {
+      "id": "attleal01x-46",
+      "sourceId": 46,
+      "date": "1983-01-10",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Sent out Larry Kenon",
+      "participants": [
+        {
+          "name": "Larry Kenon",
+          "playerHref": "/players/k/kenonla01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 374.4,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 374.4,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -232576.69999999998,
+        "vorp": -51.30000000000002
+      }
+    },
+    {
+      "id": "attleal01x-47",
+      "sourceId": 47,
+      "date": "1983-02-06",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Sleepy Floyd and Mickey Johnson; Sent out Micheal Ray Richardson",
+      "participants": [
+        {
+          "name": "Micheal Ray Richardson",
+          "playerHref": "/players/r/richami01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": -21328.3,
+            "vorp": -8.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sleepy Floyd",
+          "playerHref": "/players/f/floydsl01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 21723.3,
+            "vorp": 11.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mickey Johnson",
+          "playerHref": "/players/j/johnsmi01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1186.6,
+            "vorp": 2.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -791.5999999999999,
+        "vorp": 5.199999999999999
+      },
+      "runningValues": {
+        "bpm": -233368.3,
+        "vorp": -46.10000000000002
+      }
+    },
+    {
+      "id": "attleal01x-48",
+      "sourceId": 48,
+      "date": "1983-02-15",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Othell Wilson; Sent out Rickey Brown",
+      "participants": [
+        {
+          "name": "Rickey Brown",
+          "playerHref": "/players/b/brownri01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 7871.9,
+            "vorp": 1.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Othell Wilson",
+          "playerHref": "/players/w/wilsoot01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 7871.9,
+        "vorp": 1.1
+      },
+      "runningValues": {
+        "bpm": -225496.4,
+        "vorp": -45.00000000000002
+      }
+    },
+    {
+      "id": "attleal01x-50",
+      "sourceId": 50,
+      "date": "1983-06-28",
+      "type": "draft",
+      "tenureTeam": "GSW",
+      "summary": "Drafted Russell Cross, Pace Mannion, Mike Holton, Peter Thibeaux, Greg Hines, Tom Heywood, Peter Williams, Doug Harris, Greg Goorjian, and Michael Zeno",
+      "participants": [
+        {
+          "name": "Russell Cross",
+          "playerHref": "/players/c/crossru01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -247.79999999999998,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Pace Mannion",
+          "playerHref": "/players/m/mannipa01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1172.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Holton",
+          "playerHref": "/players/h/holtomi01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Peter Thibeaux",
+          "playerHref": "/players/t/thibepe01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Greg Hines",
+          "playerHref": "/players/h/hinesgr01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tom Heywood",
+          "playerHref": "/players/h/heywoto01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Peter Williams",
+          "playerHref": "/players/w/willipe02.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Doug Harris",
+          "playerHref": "/players/h/harrido01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Greg Goorjian",
+          "playerHref": "/players/g/goorjgr01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Michael Zeno",
+          "playerHref": "/players/z/zenomi01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1420.3,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -226916.69999999998,
+        "vorp": -45.00000000000002
+      }
+    },
+    {
+      "id": "attleal01x-51",
+      "sourceId": 51,
+      "date": "1983-08-16",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Darren Tillis; Sent out Johnny Newman",
+      "participants": [
+        {
+          "name": "Johnny Newman",
+          "playerHref": "/players/n/newmajo01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 5619,
+            "vorp": 0.6000000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Darren Tillis",
+          "playerHref": "/players/t/tillida01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -4015,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1604,
+        "vorp": -0.09999999999999987
+      },
+      "runningValues": {
+        "bpm": -225312.69999999998,
+        "vorp": -45.10000000000002
+      }
+    },
+    {
+      "id": "attleal01x-53",
+      "sourceId": 53,
+      "date": "1983-09-30",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Mike Bratz",
+      "participants": [
+        {
+          "name": "Mike Bratz",
+          "playerHref": "/players/b/bratzmi01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -2907.2,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2907.2,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": -228219.9,
+        "vorp": -44.700000000000024
+      }
+    },
+    {
+      "id": "attleal01x-54",
+      "sourceId": 54,
+      "date": "1983-11-12",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Gary Plummer; Sent out Sam Williams",
+      "participants": [
+        {
+          "name": "Sam Williams",
+          "playerHref": "/players/w/willisa02.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 3695.2999999999997,
+            "vorp": -0.09999999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Gary Plummer",
+          "playerHref": "/players/p/plummga01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3695.2999999999997,
+        "vorp": -0.09999999999999998
+      },
+      "runningValues": {
+        "bpm": -224524.6,
+        "vorp": -44.800000000000026
+      }
+    },
+    {
+      "id": "attleal01x-55",
+      "sourceId": 55,
+      "date": "1983-12-01",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Don Collins",
+      "participants": [
+        {
+          "name": "Don Collins",
+          "playerHref": "/players/c/collido02.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -2009.7,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2009.7,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -226534.30000000002,
+        "vorp": -44.800000000000026
+      }
+    },
+    {
+      "id": "attleal01x-56",
+      "sourceId": 56,
+      "date": "1984-01-20",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Manute Bol; Sent out Ron Brewer",
+      "participants": [
+        {
+          "name": "Ron Brewer",
+          "playerHref": "/players/b/brewero01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 3827.1000000000004,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Manute Bol",
+          "playerHref": "/players/b/bolma01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -3268.1,
+            "vorp": 0.7999999999999999
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 559.0000000000005,
+        "vorp": 1.2999999999999998
+      },
+      "runningValues": {
+        "bpm": -225975.30000000002,
+        "vorp": -43.50000000000003
+      }
+    },
+    {
+      "id": "attleal01x-57",
+      "sourceId": 57,
+      "date": "1984-06-19",
+      "type": "draft",
+      "tenureTeam": "GSW",
+      "summary": "Drafted Steve Burtt, Jay Murphy, Othell Wilson, Gary Plummer, Lewis Jackson, Steve Bartek, Scott McCollum, Tony Martin, Cliff Higgins, Paul Brozovich, Mitch Arnold, and Tim Bell",
+      "participants": [
+        {
+          "name": "Steve Burtt",
+          "playerHref": "/players/b/burttst01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -3135,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jay Murphy",
+          "playerHref": "/players/m/murphja01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Othell Wilson",
+          "playerHref": "/players/w/wilsoot01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -2268,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Gary Plummer",
+          "playerHref": "/players/p/plummga01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lewis Jackson",
+          "playerHref": "/players/j/jacksle03.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Bartek",
+          "playerHref": "/players/b/bartest01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Scott McCollum",
+          "playerHref": "/players/m/mccolsc01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tony Martin",
+          "playerHref": "/players/m/martito01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cliff Higgins",
+          "playerHref": "/players/h/higgicl01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Paul Brozovich",
+          "playerHref": "/players/b/brozopa01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mitch Arnold",
+          "playerHref": "/players/a/arnolmi01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tim Bell",
+          "playerHref": "/players/b/bellti01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5403,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -231378.30000000002,
+        "vorp": -44.00000000000003
+      }
+    },
+    {
+      "id": "attleal01x-58",
+      "sourceId": 58,
+      "date": "1984-06-19",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Jerome Whitehead; Sent out Jay Murphy",
+      "participants": [
+        {
+          "name": "Jay Murphy",
+          "playerHref": "/players/m/murphja01.html",
+          "direction": "out",
+          "teamCode": "SDC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jerome Whitehead",
+          "playerHref": "/players/w/whiteje01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -26479.100000000002,
+            "vorp": -3.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -26479.100000000002,
+        "vorp": -3.7
+      },
+      "runningValues": {
+        "bpm": -257857.40000000002,
+        "vorp": -47.70000000000003
+      }
+    },
+    {
+      "id": "attleal01x-59",
+      "sourceId": 59,
+      "date": "1984-09-07",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Chuck Aleksinas",
+      "participants": [
+        {
+          "name": "Chuck Aleksinas",
+          "playerHref": "/players/a/aleksch01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -6238.4,
+            "vorp": -1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6238.4,
+        "vorp": -1
+      },
+      "runningValues": {
+        "bpm": -264095.80000000005,
+        "vorp": -48.70000000000003
+      }
+    },
+    {
+      "id": "attleal01x-60",
+      "sourceId": 60,
+      "date": "1984-09-09",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Rookie contract for Peter Thibeaux",
+      "participants": [
+        {
+          "name": "Peter Thibeaux",
+          "playerHref": "/players/t/thibepe01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -5218.5,
+            "vorp": -0.9
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -5218.5,
+        "vorp": -0.9
+      },
+      "runningValues": {
+        "bpm": -269314.30000000005,
+        "vorp": -49.60000000000003
+      }
+    },
+    {
+      "id": "attleal01x-61",
+      "sourceId": 61,
+      "date": "1984-09-24",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Rookie contract for Gary Plummer",
+      "participants": [
+        {
+          "name": "Gary Plummer",
+          "playerHref": "/players/p/plummga01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -5124.599999999999,
+            "vorp": -0.9
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -5124.599999999999,
+        "vorp": -0.9
+      },
+      "runningValues": {
+        "bpm": -274438.9,
+        "vorp": -50.50000000000003
+      }
+    },
+    {
+      "id": "attleal01x-62",
+      "sourceId": 62,
+      "date": "1985-03-11",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Terry Teagle",
+      "participants": [
+        {
+          "name": "Terry Teagle",
+          "playerHref": "/players/t/teaglte01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -21941.5,
+            "vorp": -1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -21941.5,
+        "vorp": -1
+      },
+      "runningValues": {
+        "bpm": -296380.4,
+        "vorp": -51.50000000000003
+      }
+    },
+    {
+      "id": "attleal01x-63",
+      "sourceId": 63,
+      "date": "1985-06-17",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Greg Ballard; Sent out Manute Bol and Duane Washington",
+      "participants": [
+        {
+          "name": "Manute Bol",
+          "playerHref": "/players/b/bolma01.html",
+          "direction": "out",
+          "teamCode": "WSB",
+          "values": {
+            "bpm": -3512.6,
+            "vorp": -3.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Duane Washington",
+          "playerHref": "/players/w/washidu01.html",
+          "direction": "out",
+          "teamCode": "WSB",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Greg Ballard",
+          "playerHref": "/players/b/ballagr01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -5107.9,
+            "vorp": 0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -8620.5,
+        "vorp": -3
+      },
+      "runningValues": {
+        "bpm": -305000.9,
+        "vorp": -54.50000000000003
+      }
+    },
+    {
+      "id": "attleal01x-64",
+      "sourceId": 64,
+      "date": "1985-06-18",
+      "type": "draft",
+      "tenureTeam": "GSW",
+      "summary": "Drafted Chris Mullin, Bobby Lee Hurt, Brad Wright, Luster Goodwin, Greg Cavener, Gerald Crosby, and Eric Boyd",
+      "participants": [
+        {
+          "name": "Chris Mullin",
+          "playerHref": "/players/m/mullich01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 83835.7,
+            "vorp": 35.300000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bobby Lee Hurt",
+          "playerHref": "/players/h/hurtbo01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Brad Wright",
+          "playerHref": "/players/w/wrighbr01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Luster Goodwin",
+          "playerHref": "/players/g/goodwlu01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Greg Cavener",
+          "playerHref": "/players/c/cavengr01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Gerald Crosby",
+          "playerHref": "/players/c/crosbge01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eric Boyd",
+          "playerHref": "/players/b/boyder01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 83835.7,
+        "vorp": 35.300000000000004
+      },
+      "runningValues": {
+        "bpm": -221165.2,
+        "vorp": -19.200000000000024
+      }
+    },
+    {
+      "id": "attleal01x-65",
+      "sourceId": 65,
+      "date": "1985-08-21",
+      "type": "trade",
+      "tenureTeam": "GSW",
+      "summary": "Added Wendell Alexis; Sent out Mickey Johnson",
+      "participants": [
+        {
+          "name": "Mickey Johnson",
+          "playerHref": "/players/j/johnsmi01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 2203.6,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Wendell Alexis",
+          "playerHref": "/players/a/alexiwe01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2203.6,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": -218961.6,
+        "vorp": -19.500000000000025
+      }
+    },
+    {
+      "id": "attleal01x-66",
+      "sourceId": 66,
+      "date": "1985-08-29",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Ron Crevier",
+      "participants": [
+        {
+          "name": "Ron Crevier",
+          "playerHref": "/players/c/creviro01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -30.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -30.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -218992.2,
+        "vorp": -19.500000000000025
+      }
+    },
+    {
+      "id": "attleal01x-67",
+      "sourceId": 67,
+      "date": "1985-09-12",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Chris McNealy",
+      "participants": [
+        {
+          "name": "Chris McNealy",
+          "playerHref": "/players/m/mcneach01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -218992.2,
+        "vorp": -19.500000000000025
+      }
+    },
+    {
+      "id": "attleal01x-68",
+      "sourceId": 68,
+      "date": "1985-10-24",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Geoff Huston",
+      "participants": [
+        {
+          "name": "Geoff Huston",
+          "playerHref": "/players/h/hustoge01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -1208,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1208,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": -220200.2,
+        "vorp": -19.200000000000024
+      }
+    },
+    {
+      "id": "attleal01x-69",
+      "sourceId": 69,
+      "date": "1985-10-24",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Pete Verhoeven",
+      "participants": [
+        {
+          "name": "Pete Verhoeven",
+          "playerHref": "/players/v/verhope01.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -2172.1,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2172.1,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -222372.30000000002,
+        "vorp": -19.400000000000023
+      }
+    },
+    {
+      "id": "attleal01x-70",
+      "sourceId": 70,
+      "date": "1985-10-24",
+      "type": "signing",
+      "tenureTeam": "GSW",
+      "summary": "Signed Guy Williams",
+      "participants": [
+        {
+          "name": "Guy Williams",
+          "playerHref": "/players/w/willigu02.html",
+          "direction": "in",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -52.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -52.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -222424.80000000002,
+        "vorp": -19.400000000000023
+      }
+    }
+  ]
+}

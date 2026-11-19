@@ -1,0 +1,7286 @@
+{
+  "slug": "buforrc99x",
+  "sourceRowCount": 294,
+  "tenures": [
+    {
+      "teamCode": "SAS",
+      "startDate": "2002-07-17",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "buforrc99x-0",
+      "sourceId": 0,
+      "date": "2002-07-17",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Manu Ginóbili",
+      "participants": [
+        {
+          "name": "Manu Ginóbili",
+          "playerHref": "/players/g/ginobma01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 13114.899999999994,
+            "vorp": 5.200000000000003
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 13114.899999999994,
+        "vorp": 5.200000000000003
+      },
+      "runningValues": {
+        "bpm": 13114.899999999994,
+        "vorp": 5.200000000000003
+      }
+    },
+    {
+      "id": "buforrc99x-1",
+      "sourceId": 1,
+      "date": "2002-08-05",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added Erick Barkley, Steve Kerr, and Andreas Glyniadakis; Sent out Antonio Daniels, Amal McCaskill, and Charles Smith",
+      "participants": [
+        {
+          "name": "Antonio Daniels",
+          "playerHref": "/players/d/daniean01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -872,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Amal McCaskill",
+          "playerHref": "/players/m/mccasam01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Charles Smith",
+          "playerHref": "/players/s/smithch04.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 377,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Erick Barkley",
+          "playerHref": "/players/b/barkler01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Kerr",
+          "playerHref": "/players/k/kerrst01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 95.2,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Andreas Glyniadakis",
+          "playerHref": "/players/g/glynian01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -399.8,
+        "vorp": -0.19999999999999996
+      },
+      "runningValues": {
+        "bpm": 12715.099999999995,
+        "vorp": 5.000000000000003
+      }
+    },
+    {
+      "id": "buforrc99x-2",
+      "sourceId": 2,
+      "date": "2002-08-26",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Kevin Willis",
+      "participants": [
+        {
+          "name": "Kevin Willis",
+          "playerHref": "/players/w/willike02.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -3779.4,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3779.4,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": 8935.699999999995,
+        "vorp": 4.600000000000002
+      }
+    },
+    {
+      "id": "buforrc99x-3",
+      "sourceId": 3,
+      "date": "2002-09-30",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Mikki Moore",
+      "participants": [
+        {
+          "name": "Mikki Moore",
+          "playerHref": "/players/m/mooremi01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 8935.699999999995,
+        "vorp": 4.600000000000002
+      }
+    },
+    {
+      "id": "buforrc99x-4",
+      "sourceId": 4,
+      "date": "2002-09-30",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Devin Brown",
+      "participants": [
+        {
+          "name": "Devin Brown",
+          "playerHref": "/players/b/brownde02.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 8935.699999999995,
+        "vorp": 4.600000000000002
+      }
+    },
+    {
+      "id": "buforrc99x-5",
+      "sourceId": 5,
+      "date": "2002-10-03",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added Mengke Bateer; Sent out Andreas Glyniadakis",
+      "participants": [
+        {
+          "name": "Andreas Glyniadakis",
+          "playerHref": "/players/g/glynian01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mengke Bateer",
+          "playerHref": "/players/b/bateeme01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -759,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -759,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 8176.699999999995,
+        "vorp": 4.400000000000002
+      }
+    },
+    {
+      "id": "buforrc99x-6",
+      "sourceId": 6,
+      "date": "2002-11-03",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Devin Brown",
+      "participants": [
+        {
+          "name": "Devin Brown",
+          "playerHref": "/players/b/brownde02.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -134.19999999999993,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -134.19999999999993,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 8042.499999999995,
+        "vorp": 4.400000000000002
+      }
+    },
+    {
+      "id": "buforrc99x-7",
+      "sourceId": 7,
+      "date": "2002-11-20",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Anthony Goldwire",
+      "participants": [
+        {
+          "name": "Anthony Goldwire",
+          "playerHref": "/players/g/goldwan01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -290.7,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -290.7,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 7751.799999999996,
+        "vorp": 4.400000000000002
+      }
+    },
+    {
+      "id": "buforrc99x-8",
+      "sourceId": 8,
+      "date": "2003-06-26",
+      "type": "draft",
+      "tenureTeam": "SAS",
+      "summary": "Drafted Leandro Barbosa",
+      "participants": [
+        {
+          "name": "Leandro Barbosa",
+          "playerHref": "/players/b/barbole01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 7751.799999999996,
+        "vorp": 4.400000000000002
+      }
+    },
+    {
+      "id": "buforrc99x-9",
+      "sourceId": 9,
+      "date": "2003-06-26",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added David Lee; Sent out Leandro Barbosa",
+      "participants": [
+        {
+          "name": "Leandro Barbosa",
+          "playerHref": "/players/b/barbole01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -2700.6000000000004,
+            "vorp": -7.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "David Lee",
+          "playerHref": "/players/l/leeda02.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 2658.6,
+            "vorp": 1.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -42.000000000000455,
+        "vorp": -6
+      },
+      "runningValues": {
+        "bpm": 7709.799999999996,
+        "vorp": -1.5999999999999983
+      }
+    },
+    {
+      "id": "buforrc99x-10",
+      "sourceId": 10,
+      "date": "2003-07-16",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Rasho Nesterović",
+      "participants": [
+        {
+          "name": "Rasho Nesterović",
+          "playerHref": "/players/n/nestera01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -933.6999999999998,
+            "vorp": 2.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -933.6999999999998,
+        "vorp": 2.7
+      },
+      "runningValues": {
+        "bpm": 6776.099999999996,
+        "vorp": 1.1000000000000019
+      }
+    },
+    {
+      "id": "buforrc99x-11",
+      "sourceId": 11,
+      "date": "2003-07-24",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Robert Horry",
+      "participants": [
+        {
+          "name": "Robert Horry",
+          "playerHref": "/players/h/horryro01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 13987.1,
+            "vorp": 6.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 13987.1,
+        "vorp": 6.4
+      },
+      "runningValues": {
+        "bpm": 20763.199999999997,
+        "vorp": 7.500000000000002
+      }
+    },
+    {
+      "id": "buforrc99x-12",
+      "sourceId": 12,
+      "date": "2003-07-24",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added Ron Mercer and Hedo Türkoğlu; Sent out Danny Ferry",
+      "participants": [
+        {
+          "name": "Danny Ferry",
+          "playerHref": "/players/f/ferryda01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ron Mercer",
+          "playerHref": "/players/m/mercero01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -1806,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Hedo Türkoğlu",
+          "playerHref": "/players/t/turkohe01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 5182.5,
+            "vorp": 2.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3376.5,
+        "vorp": 2.0999999999999996
+      },
+      "runningValues": {
+        "bpm": 24139.699999999997,
+        "vorp": 9.600000000000001
+      }
+    },
+    {
+      "id": "buforrc99x-13",
+      "sourceId": 13,
+      "date": "2003-07-30",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Anthony Carter",
+      "participants": [
+        {
+          "name": "Anthony Carter",
+          "playerHref": "/players/c/cartean01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -939.6,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -939.6,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 23200.1,
+        "vorp": 9.400000000000002
+      }
+    },
+    {
+      "id": "buforrc99x-14",
+      "sourceId": 14,
+      "date": "2003-07-31",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Devin Brown",
+      "participants": [
+        {
+          "name": "Devin Brown",
+          "playerHref": "/players/b/brownde02.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 794.3000000000001,
+            "vorp": 1.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 794.3000000000001,
+        "vorp": 1.1
+      },
+      "runningValues": {
+        "bpm": 23994.399999999998,
+        "vorp": 10.500000000000002
+      }
+    },
+    {
+      "id": "buforrc99x-15",
+      "sourceId": 15,
+      "date": "2003-09-26",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Alex Garcia",
+      "participants": [
+        {
+          "name": "Alex Garcia",
+          "playerHref": "/players/g/garcial01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -175.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -175.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 23818.899999999998,
+        "vorp": 10.500000000000002
+      }
+    },
+    {
+      "id": "buforrc99x-16",
+      "sourceId": 16,
+      "date": "2003-09-29",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Dan Langhi",
+      "participants": [
+        {
+          "name": "Dan Langhi",
+          "playerHref": "/players/l/langhda01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 23818.899999999998,
+        "vorp": 10.500000000000002
+      }
+    },
+    {
+      "id": "buforrc99x-17",
+      "sourceId": 17,
+      "date": "2003-09-29",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Sean Marks",
+      "participants": [
+        {
+          "name": "Sean Marks",
+          "playerHref": "/players/m/marksse01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 23818.899999999998,
+        "vorp": 10.500000000000002
+      }
+    },
+    {
+      "id": "buforrc99x-18",
+      "sourceId": 18,
+      "date": "2003-10-17",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Shane Heal",
+      "participants": [
+        {
+          "name": "Shane Heal",
+          "playerHref": "/players/h/healsh01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -259.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -259.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 23559.699999999997,
+        "vorp": 10.500000000000002
+      }
+    },
+    {
+      "id": "buforrc99x-19",
+      "sourceId": 19,
+      "date": "2003-10-25",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Sent out Erick Barkley",
+      "participants": [
+        {
+          "name": "Erick Barkley",
+          "playerHref": "/players/b/barkler01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 23559.699999999997,
+        "vorp": 10.500000000000002
+      }
+    },
+    {
+      "id": "buforrc99x-20",
+      "sourceId": 20,
+      "date": "2003-10-31",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Jason Hart",
+      "participants": [
+        {
+          "name": "Jason Hart",
+          "playerHref": "/players/h/hartja01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 132,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 132,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": 23691.699999999997,
+        "vorp": 10.900000000000002
+      }
+    },
+    {
+      "id": "buforrc99x-21",
+      "sourceId": 21,
+      "date": "2003-11-17",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Sean Marks",
+      "participants": [
+        {
+          "name": "Sean Marks",
+          "playerHref": "/players/m/marksse01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -1457.7,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1457.7,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 22233.999999999996,
+        "vorp": 10.800000000000002
+      }
+    },
+    {
+      "id": "buforrc99x-22",
+      "sourceId": 22,
+      "date": "2004-01-09",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Charlie Ward",
+      "participants": [
+        {
+          "name": "Charlie Ward",
+          "playerHref": "/players/w/wardch01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -467.50000000000006,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -467.50000000000006,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 21766.499999999996,
+        "vorp": 10.900000000000002
+      }
+    },
+    {
+      "id": "buforrc99x-23",
+      "sourceId": 23,
+      "date": "2004-03-08",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Matt Carroll",
+      "participants": [
+        {
+          "name": "Matt Carroll",
+          "playerHref": "/players/c/carroma01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -248.60000000000002,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -248.60000000000002,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 21517.899999999998,
+        "vorp": 10.800000000000002
+      }
+    },
+    {
+      "id": "buforrc99x-24",
+      "sourceId": 24,
+      "date": "2004-06-24",
+      "type": "draft",
+      "tenureTeam": "SAS",
+      "summary": "Drafted Beno Udrih, Romain Sato, and Sergei Karaulov",
+      "participants": [
+        {
+          "name": "Beno Udrih",
+          "playerHref": "/players/u/udrihbe01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -2395.8999999999996,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Romain Sato",
+          "playerHref": "/players/s/satoro01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sergei Karaulov",
+          "playerHref": "/players/k/karause01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2395.8999999999996,
+        "vorp": 0.8
+      },
+      "runningValues": {
+        "bpm": 19122,
+        "vorp": 11.600000000000003
+      }
+    },
+    {
+      "id": "buforrc99x-25",
+      "sourceId": 25,
+      "date": "2004-06-24",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added Viktor Sanikidze; Sent out Cenk Akyol",
+      "participants": [
+        {
+          "name": "Cenk Akyol",
+          "playerHref": "/players/a/akyolce01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Viktor Sanikidze",
+          "playerHref": "/players/s/sanikvi01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 19122,
+        "vorp": 11.600000000000003
+      }
+    },
+    {
+      "id": "buforrc99x-26",
+      "sourceId": 26,
+      "date": "2004-07-15",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Brent Barry",
+      "participants": [
+        {
+          "name": "Brent Barry",
+          "playerHref": "/players/b/barrybr01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 17287.8,
+            "vorp": 6.999999999999999
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 17287.8,
+        "vorp": 6.999999999999999
+      },
+      "runningValues": {
+        "bpm": 36409.8,
+        "vorp": 18.6
+      }
+    },
+    {
+      "id": "buforrc99x-27",
+      "sourceId": 27,
+      "date": "2004-07-15",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Manu Ginóbili",
+      "participants": [
+        {
+          "name": "Manu Ginóbili",
+          "playerHref": "/players/g/ginobma01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 69040.59999999999,
+            "vorp": 22.400000000000002
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 69040.59999999999,
+        "vorp": 22.400000000000002
+      },
+      "runningValues": {
+        "bpm": 105450.4,
+        "vorp": 41
+      }
+    },
+    {
+      "id": "buforrc99x-28",
+      "sourceId": 28,
+      "date": "2004-07-15",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Rookie contract for Romain Sato",
+      "participants": [
+        {
+          "name": "Romain Sato",
+          "playerHref": "/players/s/satoro01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 105450.4,
+        "vorp": 41
+      }
+    },
+    {
+      "id": "buforrc99x-29",
+      "sourceId": 29,
+      "date": "2004-08-04",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Tony Massenburg",
+      "participants": [
+        {
+          "name": "Tony Massenburg",
+          "playerHref": "/players/m/masseto01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -3704.7,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3704.7,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": 101745.7,
+        "vorp": 40.4
+      }
+    },
+    {
+      "id": "buforrc99x-30",
+      "sourceId": 30,
+      "date": "2004-08-25",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Linton Johnson",
+      "participants": [
+        {
+          "name": "Linton Johnson",
+          "playerHref": "/players/j/johnsli01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -148.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -148.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 101597.2,
+        "vorp": 40.4
+      }
+    },
+    {
+      "id": "buforrc99x-31",
+      "sourceId": 31,
+      "date": "2004-10-01",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Ruben Boumtje-Boumtje",
+      "participants": [
+        {
+          "name": "Ruben Boumtje-Boumtje",
+          "playerHref": "/players/b/boumtru01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 101597.2,
+        "vorp": 40.4
+      }
+    },
+    {
+      "id": "buforrc99x-32",
+      "sourceId": 32,
+      "date": "2004-10-27",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Mike Wilks",
+      "participants": [
+        {
+          "name": "Mike Wilks",
+          "playerHref": "/players/w/wilksmi01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -305.8,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -305.8,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 101291.4,
+        "vorp": 40.5
+      }
+    },
+    {
+      "id": "buforrc99x-33",
+      "sourceId": 33,
+      "date": "2005-02-24",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added Jamison Brewer and Nazr Mohammed; Sent out Malik Rose, David Lee, and Mardy Collins",
+      "participants": [
+        {
+          "name": "Malik Rose",
+          "playerHref": "/players/r/rosema01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 14804.9,
+            "vorp": 2.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "David Lee",
+          "playerHref": "/players/l/leeda02.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": -16055,
+            "vorp": -9.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mardy Collins",
+          "playerHref": "/players/c/collima01.html",
+          "direction": "out",
+          "teamCode": "NYK",
+          "values": {
+            "bpm": 6938.800000000001,
+            "vorp": 0.9999999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jamison Brewer",
+          "playerHref": "/players/b/breweja01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Nazr Mohammed",
+          "playerHref": "/players/m/mohamna01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -4682.4,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1006.3000000000011,
+        "vorp": -6.699999999999999
+      },
+      "runningValues": {
+        "bpm": 102297.7,
+        "vorp": 33.800000000000004
+      }
+    },
+    {
+      "id": "buforrc99x-34",
+      "sourceId": 34,
+      "date": "2005-03-17",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Dion Glover",
+      "participants": [
+        {
+          "name": "Dion Glover",
+          "playerHref": "/players/g/glovedi01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 163.2,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 163.2,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 102460.9,
+        "vorp": 33.900000000000006
+      }
+    },
+    {
+      "id": "buforrc99x-35",
+      "sourceId": 35,
+      "date": "2005-04-04",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Glenn Robinson",
+      "participants": [
+        {
+          "name": "Glenn Robinson",
+          "playerHref": "/players/r/robingl01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 109.89999999999999,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 109.89999999999999,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 102570.79999999999,
+        "vorp": 34.00000000000001
+      }
+    },
+    {
+      "id": "buforrc99x-36",
+      "sourceId": 36,
+      "date": "2005-06-28",
+      "type": "draft",
+      "tenureTeam": "SAS",
+      "summary": "Drafted Ian Mahinmi",
+      "participants": [
+        {
+          "name": "Ian Mahinmi",
+          "playerHref": "/players/m/mahinia01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 19.799999999999983,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 19.799999999999983,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 102590.59999999999,
+        "vorp": 34.10000000000001
+      }
+    },
+    {
+      "id": "buforrc99x-37",
+      "sourceId": 37,
+      "date": "2005-08-02",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Fabricio Oberto",
+      "participants": [
+        {
+          "name": "Fabricio Oberto",
+          "playerHref": "/players/o/obertfa01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -4174.3,
+            "vorp": 1.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4174.3,
+        "vorp": 1.1
+      },
+      "runningValues": {
+        "bpm": 98416.29999999999,
+        "vorp": 35.20000000000001
+      }
+    },
+    {
+      "id": "buforrc99x-38",
+      "sourceId": 38,
+      "date": "2005-08-29",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Nick Van Exel",
+      "participants": [
+        {
+          "name": "Nick Van Exel",
+          "playerHref": "/players/v/vanexni01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -1084.6000000000001,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1084.6000000000001,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 97331.69999999998,
+        "vorp": 35.40000000000001
+      }
+    },
+    {
+      "id": "buforrc99x-39",
+      "sourceId": 39,
+      "date": "2005-09-02",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Michael Finley",
+      "participants": [
+        {
+          "name": "Michael Finley",
+          "playerHref": "/players/f/finlemi01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -1742.8999999999999,
+            "vorp": 3.9999999999999996
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1742.8999999999999,
+        "vorp": 3.9999999999999996
+      },
+      "runningValues": {
+        "bpm": 95588.79999999999,
+        "vorp": 39.40000000000001
+      }
+    },
+    {
+      "id": "buforrc99x-40",
+      "sourceId": 40,
+      "date": "2005-09-13",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Sharrod Ford",
+      "participants": [
+        {
+          "name": "Sharrod Ford",
+          "playerHref": "/players/f/fordsh02.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 95588.79999999999,
+        "vorp": 39.40000000000001
+      }
+    },
+    {
+      "id": "buforrc99x-41",
+      "sourceId": 41,
+      "date": "2005-09-13",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Jawad Williams",
+      "participants": [
+        {
+          "name": "Jawad Williams",
+          "playerHref": "/players/w/willija04.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 95588.79999999999,
+        "vorp": 39.40000000000001
+      }
+    },
+    {
+      "id": "buforrc99x-42",
+      "sourceId": 42,
+      "date": "2005-09-28",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Kyle Bailey",
+      "participants": [
+        {
+          "name": "Kyle Bailey",
+          "playerHref": "/players/b/baileky01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 95588.79999999999,
+        "vorp": 39.40000000000001
+      }
+    },
+    {
+      "id": "buforrc99x-43",
+      "sourceId": 43,
+      "date": "2005-09-29",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Stephen Graham",
+      "participants": [
+        {
+          "name": "Stephen Graham",
+          "playerHref": "/players/g/grahast01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 95588.79999999999,
+        "vorp": 39.40000000000001
+      }
+    },
+    {
+      "id": "buforrc99x-44",
+      "sourceId": 44,
+      "date": "2005-11-09",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Melvin Sanders",
+      "participants": [
+        {
+          "name": "Melvin Sanders",
+          "playerHref": "/players/s/sandeme01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -429.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -429.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 95159.4,
+        "vorp": 39.30000000000001
+      }
+    },
+    {
+      "id": "buforrc99x-45",
+      "sourceId": 45,
+      "date": "2005-11-17",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Alex Scales",
+      "participants": [
+        {
+          "name": "Alex Scales",
+          "playerHref": "/players/s/scaleal01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 95159.4,
+        "vorp": 39.30000000000001
+      }
+    },
+    {
+      "id": "buforrc99x-46",
+      "sourceId": 46,
+      "date": "2006-06-21",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added Matt Bonner, Eric Williams, and Jack McClinton; Sent out Rasho Nesterović",
+      "participants": [
+        {
+          "name": "Rasho Nesterović",
+          "playerHref": "/players/n/nestera01.html",
+          "direction": "out",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 998.3999999999999,
+            "vorp": -1.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Matt Bonner",
+          "playerHref": "/players/b/bonnema01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 12454.8,
+            "vorp": 7.999999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eric Williams",
+          "playerHref": "/players/w/willier01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -44,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jack McClinton",
+          "playerHref": "/players/m/mcclija01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 13409.199999999999,
+        "vorp": 6.499999999999999
+      },
+      "runningValues": {
+        "bpm": 108568.59999999999,
+        "vorp": 45.80000000000001
+      }
+    },
+    {
+      "id": "buforrc99x-47",
+      "sourceId": 47,
+      "date": "2006-06-28",
+      "type": "draft",
+      "tenureTeam": "SAS",
+      "summary": "Drafted Damir Markota",
+      "participants": [
+        {
+          "name": "Damir Markota",
+          "playerHref": "/players/m/markoda01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 108568.59999999999,
+        "vorp": 45.80000000000001
+      }
+    },
+    {
+      "id": "buforrc99x-48",
+      "sourceId": 48,
+      "date": "2006-06-28",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added Marcus Williams; Sent out Damir Markota",
+      "participants": [
+        {
+          "name": "Damir Markota",
+          "playerHref": "/players/m/markoda01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 1428,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Marcus Williams",
+          "playerHref": "/players/w/willima04.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1428,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": 109996.59999999999,
+        "vorp": 46.10000000000001
+      }
+    },
+    {
+      "id": "buforrc99x-49",
+      "sourceId": 49,
+      "date": "2006-07-12",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Jacque Vaughn",
+      "participants": [
+        {
+          "name": "Jacque Vaughn",
+          "playerHref": "/players/v/vaughja01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -7457.3,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -7457.3,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": 102539.29999999999,
+        "vorp": 45.400000000000006
+      }
+    },
+    {
+      "id": "buforrc99x-50",
+      "sourceId": 50,
+      "date": "2006-07-21",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Jackie Butler",
+      "participants": [
+        {
+          "name": "Jackie Butler",
+          "playerHref": "/players/b/butleja01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -854.9000000000001,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -854.9000000000001,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 101684.4,
+        "vorp": 45.2
+      }
+    },
+    {
+      "id": "buforrc99x-51",
+      "sourceId": 51,
+      "date": "2006-08-02",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Francisco Elson",
+      "participants": [
+        {
+          "name": "Francisco Elson",
+          "playerHref": "/players/e/elsonfr01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -4614.6,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4614.6,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 97069.79999999999,
+        "vorp": 45
+      }
+    },
+    {
+      "id": "buforrc99x-52",
+      "sourceId": 52,
+      "date": "2006-09-14",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Jared Reiner",
+      "participants": [
+        {
+          "name": "Jared Reiner",
+          "playerHref": "/players/r/reineja01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 97069.79999999999,
+        "vorp": 45
+      }
+    },
+    {
+      "id": "buforrc99x-53",
+      "sourceId": 53,
+      "date": "2006-09-19",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Olu Famutimi",
+      "participants": [
+        {
+          "name": "Olu Famutimi",
+          "playerHref": "/players/f/famutol01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 97069.79999999999,
+        "vorp": 45
+      }
+    },
+    {
+      "id": "buforrc99x-54",
+      "sourceId": 54,
+      "date": "2006-11-03",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed James White",
+      "participants": [
+        {
+          "name": "James White",
+          "playerHref": "/players/w/whiteja02.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -534.3,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -534.3,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 96535.49999999999,
+        "vorp": 44.9
+      }
+    },
+    {
+      "id": "buforrc99x-55",
+      "sourceId": 55,
+      "date": "2007-02-13",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added Melvin Ely; Sent out Eric Williams and Robert Vaden",
+      "participants": [
+        {
+          "name": "Eric Williams",
+          "playerHref": "/players/w/willier01.html",
+          "direction": "out",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 389.40000000000003,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Robert Vaden",
+          "playerHref": "/players/v/vadenro01.html",
+          "direction": "out",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Melvin Ely",
+          "playerHref": "/players/e/elyme01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -507,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -117.59999999999997,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 96417.89999999998,
+        "vorp": 44.9
+      }
+    },
+    {
+      "id": "buforrc99x-56",
+      "sourceId": 56,
+      "date": "2007-06-28",
+      "type": "draft",
+      "tenureTeam": "SAS",
+      "summary": "Drafted Tiago Splitter, Marcus Williams, and Georgios Printezis",
+      "participants": [
+        {
+          "name": "Tiago Splitter",
+          "playerHref": "/players/s/splitti01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 6045,
+            "vorp": 3.4000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Marcus Williams",
+          "playerHref": "/players/w/willima04.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -3.6000000000000014,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Georgios Printezis",
+          "playerHref": "/players/p/printgi01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 6041.4,
+        "vorp": 3.4000000000000004
+      },
+      "runningValues": {
+        "bpm": 102459.29999999997,
+        "vorp": 48.3
+      }
+    },
+    {
+      "id": "buforrc99x-57",
+      "sourceId": 57,
+      "date": "2007-06-28",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added Goran Dragić; Sent out Georgios Printezis",
+      "participants": [
+        {
+          "name": "Georgios Printezis",
+          "playerHref": "/players/p/printgi01.html",
+          "direction": "out",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Goran Dragić",
+          "playerHref": "/players/d/dragigo01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 102459.29999999997,
+        "vorp": 48.3
+      }
+    },
+    {
+      "id": "buforrc99x-58",
+      "sourceId": 58,
+      "date": "2007-07-12",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added Vassilis Spanoulis and Nando De Colo; Sent out Jackie Butler and Luis Scola",
+      "participants": [
+        {
+          "name": "Jackie Butler",
+          "playerHref": "/players/b/butleja01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Luis Scola",
+          "playerHref": "/players/s/scolalu01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 4449.4,
+            "vorp": -4.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Vassilis Spanoulis",
+          "playerHref": "/players/s/spanova01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Nando De Colo",
+          "playerHref": "/players/d/decolna01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4449.4,
+        "vorp": -4.7
+      },
+      "runningValues": {
+        "bpm": 106908.69999999997,
+        "vorp": 43.599999999999994
+      }
+    },
+    {
+      "id": "buforrc99x-59",
+      "sourceId": 59,
+      "date": "2007-08-16",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Ime Udoka",
+      "participants": [
+        {
+          "name": "Ime Udoka",
+          "playerHref": "/players/u/udokaim01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -1157.7,
+            "vorp": 0.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1157.7,
+        "vorp": 0.9
+      },
+      "runningValues": {
+        "bpm": 105750.99999999997,
+        "vorp": 44.49999999999999
+      }
+    },
+    {
+      "id": "buforrc99x-60",
+      "sourceId": 60,
+      "date": "2007-10-01",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Darius Washington",
+      "participants": [
+        {
+          "name": "Darius Washington",
+          "playerHref": "/players/w/washida01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -686.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -686.2,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 105064.79999999997,
+        "vorp": 44.39999999999999
+      }
+    },
+    {
+      "id": "buforrc99x-61",
+      "sourceId": 61,
+      "date": "2007-10-01",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Anthony Lever Pedroza",
+      "participants": [
+        {
+          "name": "Anthony Lever Pedroza",
+          "playerHref": "/players/l/leveran01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 105064.79999999997,
+        "vorp": 44.39999999999999
+      }
+    },
+    {
+      "id": "buforrc99x-62",
+      "sourceId": 62,
+      "date": "2007-10-02",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Keith Langford",
+      "participants": [
+        {
+          "name": "Keith Langford",
+          "playerHref": "/players/l/langfke01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 105064.79999999997,
+        "vorp": 44.39999999999999
+      }
+    },
+    {
+      "id": "buforrc99x-63",
+      "sourceId": 63,
+      "date": "2007-10-29",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Sent out Beno Udrih",
+      "participants": [
+        {
+          "name": "Beno Udrih",
+          "playerHref": "/players/u/udrihbe01.html",
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 105064.79999999997,
+        "vorp": 44.39999999999999
+      }
+    },
+    {
+      "id": "buforrc99x-64",
+      "sourceId": 64,
+      "date": "2007-12-28",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Keith Langford",
+      "participants": [
+        {
+          "name": "Keith Langford",
+          "playerHref": "/players/l/langfke01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -150,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -150,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 104914.79999999997,
+        "vorp": 44.39999999999999
+      }
+    },
+    {
+      "id": "buforrc99x-65",
+      "sourceId": 65,
+      "date": "2007-12-29",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed DerMarr Johnson",
+      "participants": [
+        {
+          "name": "DerMarr Johnson",
+          "playerHref": "/players/j/johnsde03.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 104914.79999999997,
+        "vorp": 44.39999999999999
+      }
+    },
+    {
+      "id": "buforrc99x-66",
+      "sourceId": 66,
+      "date": "2008-01-10",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Jeremy Richardson",
+      "participants": [
+        {
+          "name": "Jeremy Richardson",
+          "playerHref": "/players/r/richaje01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -49.3,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -49.3,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 104865.49999999997,
+        "vorp": 44.39999999999999
+      }
+    },
+    {
+      "id": "buforrc99x-67",
+      "sourceId": 67,
+      "date": "2008-02-03",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Damon Stoudamire",
+      "participants": [
+        {
+          "name": "Damon Stoudamire",
+          "playerHref": "/players/s/stoudda01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -2436.7000000000003,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2436.7000000000003,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": 102428.79999999997,
+        "vorp": 43.99999999999999
+      }
+    },
+    {
+      "id": "buforrc99x-68",
+      "sourceId": 68,
+      "date": "2008-02-20",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added Kurt Thomas; Sent out Brent Barry, Francisco Elson, and Rodrigue Beaubois",
+      "participants": [
+        {
+          "name": "Brent Barry",
+          "playerHref": "/players/b/barrybr01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Francisco Elson",
+          "playerHref": "/players/e/elsonfr01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 2455.2000000000003,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rodrigue Beaubois",
+          "playerHref": "/players/b/beaubro01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kurt Thomas",
+          "playerHref": "/players/t/thomaku01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -997.6000000000001,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1457.6000000000001,
+        "vorp": 1.2
+      },
+      "runningValues": {
+        "bpm": 103886.39999999997,
+        "vorp": 45.199999999999996
+      }
+    },
+    {
+      "id": "buforrc99x-69",
+      "sourceId": 69,
+      "date": "2008-03-24",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Brent Barry",
+      "participants": [
+        {
+          "name": "Brent Barry",
+          "playerHref": "/players/b/barrybr01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 1939,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1939,
+        "vorp": 0.8
+      },
+      "runningValues": {
+        "bpm": 105825.39999999997,
+        "vorp": 45.99999999999999
+      }
+    },
+    {
+      "id": "buforrc99x-70",
+      "sourceId": 70,
+      "date": "2008-04-01",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Bobby Jones",
+      "participants": [
+        {
+          "name": "Bobby Jones",
+          "playerHref": "/players/j/jonesbo02.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -40,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -40,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 105785.39999999997,
+        "vorp": 45.99999999999999
+      }
+    },
+    {
+      "id": "buforrc99x-71",
+      "sourceId": 71,
+      "date": "2008-04-11",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed DerMarr Johnson",
+      "participants": [
+        {
+          "name": "DerMarr Johnson",
+          "playerHref": "/players/j/johnsde03.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 70,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 70,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 105855.39999999997,
+        "vorp": 45.99999999999999
+      }
+    },
+    {
+      "id": "buforrc99x-72",
+      "sourceId": 72,
+      "date": "2008-06-26",
+      "type": "draft",
+      "tenureTeam": "SAS",
+      "summary": "Drafted George Hill, Goran Dragić, and James Gist",
+      "participants": [
+        {
+          "name": "George Hill",
+          "playerHref": "/players/h/hillge01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 1607.8000000000002,
+            "vorp": 3.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Goran Dragić",
+          "playerHref": "/players/d/dragigo01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "James Gist",
+          "playerHref": "/players/g/gistja01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1607.8000000000002,
+        "vorp": 3.3
+      },
+      "runningValues": {
+        "bpm": 107463.19999999997,
+        "vorp": 49.29999999999999
+      }
+    },
+    {
+      "id": "buforrc99x-73",
+      "sourceId": 73,
+      "date": "2008-06-28",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added Malik Hairston and DeJuan Blair; Sent out Goran Dragić",
+      "participants": [
+        {
+          "name": "Goran Dragić",
+          "playerHref": "/players/d/dragigo01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -8209.899999999998,
+            "vorp": -7.1000000000000005
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Malik Hairston",
+          "playerHref": "/players/h/hairsma01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -912.3,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "DeJuan Blair",
+          "playerHref": "/players/b/blairde01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -9122.199999999997,
+        "vorp": -7.1000000000000005
+      },
+      "runningValues": {
+        "bpm": 98340.99999999997,
+        "vorp": 42.19999999999999
+      }
+    },
+    {
+      "id": "buforrc99x-74",
+      "sourceId": 74,
+      "date": "2008-07-11",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Roger Mason",
+      "participants": [
+        {
+          "name": "Roger Mason",
+          "playerHref": "/players/m/masonro01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -4064.4,
+            "vorp": 1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4064.4,
+        "vorp": 1
+      },
+      "runningValues": {
+        "bpm": 94276.59999999998,
+        "vorp": 43.19999999999999
+      }
+    },
+    {
+      "id": "buforrc99x-75",
+      "sourceId": 75,
+      "date": "2008-07-23",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Anthony Tolliver",
+      "participants": [
+        {
+          "name": "Anthony Tolliver",
+          "playerHref": "/players/t/tollian01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -811.1999999999999,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -811.1999999999999,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 93465.39999999998,
+        "vorp": 43.09999999999999
+      }
+    },
+    {
+      "id": "buforrc99x-76",
+      "sourceId": 76,
+      "date": "2008-09-17",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Desmon Farmer",
+      "participants": [
+        {
+          "name": "Desmon Farmer",
+          "playerHref": "/players/f/farmede01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -534.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -534.6,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 92930.79999999997,
+        "vorp": 42.999999999999986
+      }
+    },
+    {
+      "id": "buforrc99x-77",
+      "sourceId": 77,
+      "date": "2008-09-17",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Devin Green",
+      "participants": [
+        {
+          "name": "Devin Green",
+          "playerHref": "/players/g/greende01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 92930.79999999997,
+        "vorp": 42.999999999999986
+      }
+    },
+    {
+      "id": "buforrc99x-78",
+      "sourceId": 78,
+      "date": "2008-11-16",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Blake Ahearn",
+      "participants": [
+        {
+          "name": "Blake Ahearn",
+          "playerHref": "/players/a/ahearbl01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -17.1,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -17.1,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 92913.69999999997,
+        "vorp": 42.999999999999986
+      }
+    },
+    {
+      "id": "buforrc99x-79",
+      "sourceId": 79,
+      "date": "2009-01-16",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Austin Croshere",
+      "participants": [
+        {
+          "name": "Austin Croshere",
+          "playerHref": "/players/c/croshau01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -177.1,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -177.1,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 92736.59999999996,
+        "vorp": 42.999999999999986
+      }
+    },
+    {
+      "id": "buforrc99x-80",
+      "sourceId": 80,
+      "date": "2009-02-25",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Pops Mensah-Bonsu",
+      "participants": [
+        {
+          "name": "Pops Mensah-Bonsu",
+          "playerHref": "/players/m/mensapo01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 162,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 162,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 92898.59999999996,
+        "vorp": 43.09999999999999
+      }
+    },
+    {
+      "id": "buforrc99x-81",
+      "sourceId": 81,
+      "date": "2009-03-05",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Drew Gooden",
+      "participants": [
+        {
+          "name": "Drew Gooden",
+          "playerHref": "/players/g/goodedr01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -608,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -608,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 92290.59999999996,
+        "vorp": 43.09999999999999
+      }
+    },
+    {
+      "id": "buforrc99x-82",
+      "sourceId": 82,
+      "date": "2009-04-08",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Rookie contract for Marcus Williams",
+      "participants": [
+        {
+          "name": "Marcus Williams",
+          "playerHref": "/players/w/willima04.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 67.19999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 67.19999999999999,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 92357.79999999996,
+        "vorp": 43.09999999999999
+      }
+    },
+    {
+      "id": "buforrc99x-83",
+      "sourceId": 83,
+      "date": "2009-06-23",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added Richard Jefferson; Sent out Bruce Bowen, Fabricio Oberto, and Kurt Thomas",
+      "participants": [
+        {
+          "name": "Bruce Bowen",
+          "playerHref": "/players/b/bowenbr01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Fabricio Oberto",
+          "playerHref": "/players/o/obertfa01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kurt Thomas",
+          "playerHref": "/players/t/thomaku01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 2307.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Richard Jefferson",
+          "playerHref": "/players/j/jefferi01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 719.3,
+            "vorp": 3.1999999999999997
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3027.1000000000004,
+        "vorp": 3.1999999999999997
+      },
+      "runningValues": {
+        "bpm": 95384.89999999997,
+        "vorp": 46.29999999999999
+      }
+    },
+    {
+      "id": "buforrc99x-84",
+      "sourceId": 84,
+      "date": "2009-06-25",
+      "type": "draft",
+      "tenureTeam": "SAS",
+      "summary": "Drafted DeJuan Blair, Jack McClinton, and Nando De Colo",
+      "participants": [
+        {
+          "name": "DeJuan Blair",
+          "playerHref": "/players/b/blairde01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -3683.3,
+            "vorp": 1.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jack McClinton",
+          "playerHref": "/players/m/mcclija01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Nando De Colo",
+          "playerHref": "/players/d/decolna01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3683.3,
+        "vorp": 1.9
+      },
+      "runningValues": {
+        "bpm": 91701.59999999996,
+        "vorp": 48.19999999999999
+      }
+    },
+    {
+      "id": "buforrc99x-85",
+      "sourceId": 85,
+      "date": "2009-07-10",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Antonio McDyess",
+      "participants": [
+        {
+          "name": "Antonio McDyess",
+          "playerHref": "/players/m/mcdyean01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -2587.9,
+            "vorp": 0.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2587.9,
+        "vorp": 0.9
+      },
+      "runningValues": {
+        "bpm": 89113.69999999997,
+        "vorp": 49.09999999999999
+      }
+    },
+    {
+      "id": "buforrc99x-86",
+      "sourceId": 86,
+      "date": "2009-07-25",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Theo Ratliff",
+      "participants": [
+        {
+          "name": "Theo Ratliff",
+          "playerHref": "/players/r/ratlith01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -750.3,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -750.3,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 88363.39999999997,
+        "vorp": 48.999999999999986
+      }
+    },
+    {
+      "id": "buforrc99x-87",
+      "sourceId": 87,
+      "date": "2009-08-13",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Marcus Haislip",
+      "participants": [
+        {
+          "name": "Marcus Haislip",
+          "playerHref": "/players/h/haislma01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -96.80000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -96.80000000000001,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 88266.59999999996,
+        "vorp": 48.999999999999986
+      }
+    },
+    {
+      "id": "buforrc99x-88",
+      "sourceId": 88,
+      "date": "2009-09-21",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Keith Bogans",
+      "participants": [
+        {
+          "name": "Keith Bogans",
+          "playerHref": "/players/b/boganke01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -1870.8,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1870.8,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": 86395.79999999996,
+        "vorp": 49.29999999999998
+      }
+    },
+    {
+      "id": "buforrc99x-89",
+      "sourceId": 89,
+      "date": "2009-09-23",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Dwayne Jones",
+      "participants": [
+        {
+          "name": "Dwayne Jones",
+          "playerHref": "/players/j/jonesdw02.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 86395.79999999996,
+        "vorp": 49.29999999999998
+      }
+    },
+    {
+      "id": "buforrc99x-90",
+      "sourceId": 90,
+      "date": "2010-02-18",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Sent out Theo Ratliff",
+      "participants": [
+        {
+          "name": "Theo Ratliff",
+          "playerHref": "/players/r/ratlith01.html",
+          "direction": "out",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 936,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 936,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 87331.79999999996,
+        "vorp": 49.19999999999998
+      }
+    },
+    {
+      "id": "buforrc99x-91",
+      "sourceId": 91,
+      "date": "2010-03-10",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Cedric Jackson",
+      "participants": [
+        {
+          "name": "Cedric Jackson",
+          "playerHref": "/players/j/jacksce01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 165,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 165,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 87496.79999999996,
+        "vorp": 49.29999999999998
+      }
+    },
+    {
+      "id": "buforrc99x-92",
+      "sourceId": 92,
+      "date": "2010-03-13",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Garrett Temple",
+      "participants": [
+        {
+          "name": "Garrett Temple",
+          "playerHref": "/players/t/templga01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -462.90000000000003,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -462.90000000000003,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 87033.89999999997,
+        "vorp": 49.29999999999998
+      }
+    },
+    {
+      "id": "buforrc99x-93",
+      "sourceId": 93,
+      "date": "2010-03-29",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Alonzo Gee",
+      "participants": [
+        {
+          "name": "Alonzo Gee",
+          "playerHref": "/players/g/geeal01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -165.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -165.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 86868.29999999996,
+        "vorp": 49.29999999999998
+      }
+    },
+    {
+      "id": "buforrc99x-94",
+      "sourceId": 94,
+      "date": "2010-04-08",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Manu Ginóbili",
+      "participants": [
+        {
+          "name": "Manu Ginóbili",
+          "playerHref": "/players/g/ginobma01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 37690.8,
+            "vorp": 12.899999999999999
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 37690.8,
+        "vorp": 12.899999999999999
+      },
+      "runningValues": {
+        "bpm": 124559.09999999996,
+        "vorp": 62.19999999999998
+      }
+    },
+    {
+      "id": "buforrc99x-95",
+      "sourceId": 95,
+      "date": "2010-06-24",
+      "type": "draft",
+      "tenureTeam": "SAS",
+      "summary": "Drafted James Anderson and Ryan Richards",
+      "participants": [
+        {
+          "name": "James Anderson",
+          "playerHref": "/players/a/anderja01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -2958.4999999999995,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ryan Richards",
+          "playerHref": "/players/r/richary01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2958.4999999999995,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": 121600.59999999996,
+        "vorp": 61.899999999999984
+      }
+    },
+    {
+      "id": "buforrc99x-96",
+      "sourceId": 96,
+      "date": "2010-07-22",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Gary Neal",
+      "participants": [
+        {
+          "name": "Gary Neal",
+          "playerHref": "/players/n/nealga01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -3594.1,
+            "vorp": 1.2999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3594.1,
+        "vorp": 1.2999999999999998
+      },
+      "runningValues": {
+        "bpm": 118006.49999999996,
+        "vorp": 63.19999999999998
+      }
+    },
+    {
+      "id": "buforrc99x-97",
+      "sourceId": 97,
+      "date": "2010-09-27",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Bobby Simmons",
+      "participants": [
+        {
+          "name": "Bobby Simmons",
+          "playerHref": "/players/s/simmobo01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -188.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -188.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 117817.69999999995,
+        "vorp": 63.19999999999998
+      }
+    },
+    {
+      "id": "buforrc99x-98",
+      "sourceId": 98,
+      "date": "2010-11-05",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Chris Quinn",
+      "participants": [
+        {
+          "name": "Chris Quinn",
+          "playerHref": "/players/q/quinnch01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -1255.6,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1255.6,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 116562.09999999995,
+        "vorp": 62.99999999999998
+      }
+    },
+    {
+      "id": "buforrc99x-99",
+      "sourceId": 99,
+      "date": "2010-11-17",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Danny Green",
+      "participants": [
+        {
+          "name": "Danny Green",
+          "playerHref": "/players/g/greenda02.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 116562.09999999995,
+        "vorp": 62.99999999999998
+      }
+    },
+    {
+      "id": "buforrc99x-100",
+      "sourceId": 100,
+      "date": "2010-11-24",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Ime Udoka",
+      "participants": [
+        {
+          "name": "Ime Udoka",
+          "playerHref": "/players/u/udokaim01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -403,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -403,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 116159.09999999995,
+        "vorp": 62.99999999999998
+      }
+    },
+    {
+      "id": "buforrc99x-101",
+      "sourceId": 101,
+      "date": "2011-01-16",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Larry Owens",
+      "participants": [
+        {
+          "name": "Larry Owens",
+          "playerHref": "/players/o/owensla01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 65.10000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 65.10000000000001,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 116224.19999999995,
+        "vorp": 62.99999999999998
+      }
+    },
+    {
+      "id": "buforrc99x-102",
+      "sourceId": 102,
+      "date": "2011-02-08",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Steve Novak",
+      "participants": [
+        {
+          "name": "Steve Novak",
+          "playerHref": "/players/n/novakst01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 906.1999999999999,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 906.1999999999999,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": 117130.39999999995,
+        "vorp": 63.299999999999976
+      }
+    },
+    {
+      "id": "buforrc99x-103",
+      "sourceId": 103,
+      "date": "2011-03-04",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Othyus Jeffers",
+      "participants": [
+        {
+          "name": "Othyus Jeffers",
+          "playerHref": "/players/j/jeffeot01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -115.20000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -115.20000000000002,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 117015.19999999995,
+        "vorp": 63.299999999999976
+      }
+    },
+    {
+      "id": "buforrc99x-104",
+      "sourceId": 104,
+      "date": "2011-03-16",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Danny Green",
+      "participants": [
+        {
+          "name": "Danny Green",
+          "playerHref": "/players/g/greenda02.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 26439.8,
+            "vorp": 10.600000000000001
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 26439.8,
+        "vorp": 10.600000000000001
+      },
+      "runningValues": {
+        "bpm": 143454.99999999994,
+        "vorp": 73.89999999999998
+      }
+    },
+    {
+      "id": "buforrc99x-105",
+      "sourceId": 105,
+      "date": "2011-03-25",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Da'Sean Butler",
+      "participants": [
+        {
+          "name": "Da'Sean Butler",
+          "playerHref": "/players/b/butleda03.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 143454.99999999994,
+        "vorp": 73.89999999999998
+      }
+    },
+    {
+      "id": "buforrc99x-106",
+      "sourceId": 106,
+      "date": "2011-06-23",
+      "type": "draft",
+      "tenureTeam": "SAS",
+      "summary": "Drafted Cory Joseph and Ádám Hanga",
+      "participants": [
+        {
+          "name": "Cory Joseph",
+          "playerHref": "/players/j/josepco01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 1378.7999999999997,
+            "vorp": 1.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ádám Hanga",
+          "playerHref": "/players/h/hangaad01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1378.7999999999997,
+        "vorp": 1.9
+      },
+      "runningValues": {
+        "bpm": 144833.79999999993,
+        "vorp": 75.79999999999998
+      }
+    },
+    {
+      "id": "buforrc99x-107",
+      "sourceId": 107,
+      "date": "2011-06-23",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added Dāvis Bertāns, Kawhi Leonard, and Erazem Lorbek; Sent out George Hill",
+      "participants": [
+        {
+          "name": "George Hill",
+          "playerHref": "/players/h/hillge01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -23464.2,
+            "vorp": -11.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dāvis Bertāns",
+          "playerHref": "/players/b/bertada01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kawhi Leonard",
+          "playerHref": "/players/l/leonaka01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 32628.600000000006,
+            "vorp": 12.000000000000002
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Erazem Lorbek",
+          "playerHref": "/players/l/lorbeer01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 9164.400000000005,
+        "vorp": 0.9000000000000021
+      },
+      "runningValues": {
+        "bpm": 153998.19999999995,
+        "vorp": 76.69999999999999
+      }
+    },
+    {
+      "id": "buforrc99x-108",
+      "sourceId": 108,
+      "date": "2011-12-09",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed T.J. Ford",
+      "participants": [
+        {
+          "name": "T.J. Ford",
+          "playerHref": "/players/f/fordtj01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -401.1,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -401.1,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 153597.09999999995,
+        "vorp": 76.69999999999999
+      }
+    },
+    {
+      "id": "buforrc99x-109",
+      "sourceId": 109,
+      "date": "2011-12-12",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Gani Lawal",
+      "participants": [
+        {
+          "name": "Gani Lawal",
+          "playerHref": "/players/l/lawalga01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 153597.09999999995,
+        "vorp": 76.69999999999999
+      }
+    },
+    {
+      "id": "buforrc99x-110",
+      "sourceId": 110,
+      "date": "2012-01-04",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Ike Diogu",
+      "participants": [
+        {
+          "name": "Ike Diogu",
+          "playerHref": "/players/d/dioguik01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -172.20000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -172.20000000000002,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 153424.89999999994,
+        "vorp": 76.69999999999999
+      }
+    },
+    {
+      "id": "buforrc99x-111",
+      "sourceId": 111,
+      "date": "2012-01-11",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Malcolm Thomas",
+      "participants": [
+        {
+          "name": "Malcolm Thomas",
+          "playerHref": "/players/t/thomama01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -139.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -139.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 153285.39999999994,
+        "vorp": 76.69999999999999
+      }
+    },
+    {
+      "id": "buforrc99x-112",
+      "sourceId": 112,
+      "date": "2012-02-20",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Eric Dawson",
+      "participants": [
+        {
+          "name": "Eric Dawson",
+          "playerHref": "/players/d/dawsoer01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -230.10000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -230.10000000000002,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 153055.29999999993,
+        "vorp": 76.69999999999999
+      }
+    },
+    {
+      "id": "buforrc99x-113",
+      "sourceId": 113,
+      "date": "2012-03-15",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added Stephen Jackson; Sent out T.J. Ford, Richard Jefferson, and Festus Ezeli",
+      "participants": [
+        {
+          "name": "T.J. Ford",
+          "playerHref": "/players/f/fordtj01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Richard Jefferson",
+          "playerHref": "/players/j/jefferi01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 1898.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Festus Ezeli",
+          "playerHref": "/players/e/ezelife01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 4680.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Stephen Jackson",
+          "playerHref": "/players/j/jacksst02.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -3812.5,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2766.1000000000004,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": 155821.39999999994,
+        "vorp": 76.39999999999999
+      }
+    },
+    {
+      "id": "buforrc99x-114",
+      "sourceId": 114,
+      "date": "2012-03-23",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Boris Diaw",
+      "participants": [
+        {
+          "name": "Boris Diaw",
+          "playerHref": "/players/d/diawbo01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 4451.6,
+            "vorp": 4.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4451.6,
+        "vorp": 4.9
+      },
+      "runningValues": {
+        "bpm": 160272.99999999994,
+        "vorp": 81.3
+      }
+    },
+    {
+      "id": "buforrc99x-115",
+      "sourceId": 115,
+      "date": "2012-03-24",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Justin Dentmon",
+      "participants": [
+        {
+          "name": "Justin Dentmon",
+          "playerHref": "/players/d/dentmju01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -142.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -142.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 160130.49999999994,
+        "vorp": 81.3
+      }
+    },
+    {
+      "id": "buforrc99x-116",
+      "sourceId": 116,
+      "date": "2012-03-27",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Patty Mills",
+      "participants": [
+        {
+          "name": "Patty Mills",
+          "playerHref": "/players/m/millspa02.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 12004.8,
+            "vorp": 6.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 12004.8,
+        "vorp": 6.5
+      },
+      "runningValues": {
+        "bpm": 172135.29999999993,
+        "vorp": 87.8
+      }
+    },
+    {
+      "id": "buforrc99x-117",
+      "sourceId": 117,
+      "date": "2012-04-25",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Derrick Byars",
+      "participants": [
+        {
+          "name": "Derrick Byars",
+          "playerHref": "/players/b/byarsde01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -173.9,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -173.9,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 171961.39999999994,
+        "vorp": 87.8
+      }
+    },
+    {
+      "id": "buforrc99x-118",
+      "sourceId": 118,
+      "date": "2012-06-28",
+      "type": "draft",
+      "tenureTeam": "SAS",
+      "summary": "Drafted Marcus Denmon",
+      "participants": [
+        {
+          "name": "Marcus Denmon",
+          "playerHref": "/players/d/denmoma01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 171961.39999999994,
+        "vorp": 87.8
+      }
+    },
+    {
+      "id": "buforrc99x-119",
+      "sourceId": 119,
+      "date": "2012-07-13",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Rookie contract for Nando De Colo",
+      "participants": [
+        {
+          "name": "Nando De Colo",
+          "playerHref": "/players/d/decolna01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -1104,
+            "vorp": 0.4
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -1104,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": 170857.39999999994,
+        "vorp": 88.2
+      }
+    },
+    {
+      "id": "buforrc99x-120",
+      "sourceId": 120,
+      "date": "2012-09-27",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Derrick Brown",
+      "participants": [
+        {
+          "name": "Derrick Brown",
+          "playerHref": "/players/b/brownde04.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 170857.39999999994,
+        "vorp": 88.2
+      }
+    },
+    {
+      "id": "buforrc99x-121",
+      "sourceId": 121,
+      "date": "2012-09-27",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Josh Powell",
+      "participants": [
+        {
+          "name": "Josh Powell",
+          "playerHref": "/players/p/poweljo01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 170857.39999999994,
+        "vorp": 88.2
+      }
+    },
+    {
+      "id": "buforrc99x-122",
+      "sourceId": 122,
+      "date": "2012-10-01",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Sherron Collins",
+      "participants": [
+        {
+          "name": "Sherron Collins",
+          "playerHref": "/players/c/collish01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 170857.39999999994,
+        "vorp": 88.2
+      }
+    },
+    {
+      "id": "buforrc99x-123",
+      "sourceId": 123,
+      "date": "2012-10-01",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Eddy Curry",
+      "participants": [
+        {
+          "name": "Eddy Curry",
+          "playerHref": "/players/c/curryed01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 170857.39999999994,
+        "vorp": 88.2
+      }
+    },
+    {
+      "id": "buforrc99x-124",
+      "sourceId": 124,
+      "date": "2012-11-21",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Rookie contract for James Anderson",
+      "participants": [
+        {
+          "name": "James Anderson",
+          "playerHref": "/players/a/anderja01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 37.6,
+            "vorp": 0.1
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 37.6,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 170894.99999999994,
+        "vorp": 88.3
+      }
+    },
+    {
+      "id": "buforrc99x-125",
+      "sourceId": 125,
+      "date": "2013-01-23",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Aron Baynes",
+      "participants": [
+        {
+          "name": "Aron Baynes",
+          "playerHref": "/players/b/baynear01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -5791.200000000001,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5791.200000000001,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": 165103.79999999993,
+        "vorp": 87.7
+      }
+    },
+    {
+      "id": "buforrc99x-126",
+      "sourceId": 126,
+      "date": "2013-04-16",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Tracy McGrady",
+      "participants": [
+        {
+          "name": "Tracy McGrady",
+          "playerHref": "/players/m/mcgratr01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 165103.79999999993,
+        "vorp": 87.7
+      }
+    },
+    {
+      "id": "buforrc99x-127",
+      "sourceId": 127,
+      "date": "2013-06-27",
+      "type": "draft",
+      "tenureTeam": "SAS",
+      "summary": "Drafted Livio Jean-Charles and Deshaun Thomas",
+      "participants": [
+        {
+          "name": "Livio Jean-Charles",
+          "playerHref": "/players/j/jeancli01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Deshaun Thomas",
+          "playerHref": "/players/t/thomade01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 165103.79999999993,
+        "vorp": 87.7
+      }
+    },
+    {
+      "id": "buforrc99x-128",
+      "sourceId": 128,
+      "date": "2013-07-11",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Marco Belinelli",
+      "participants": [
+        {
+          "name": "Marco Belinelli",
+          "playerHref": "/players/b/belinma01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 1371.6000000000004,
+            "vorp": 2.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1371.6000000000004,
+        "vorp": 2.1
+      },
+      "runningValues": {
+        "bpm": 166475.39999999994,
+        "vorp": 89.8
+      }
+    },
+    {
+      "id": "buforrc99x-129",
+      "sourceId": 129,
+      "date": "2013-07-11",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Jeff Ayres",
+      "participants": [
+        {
+          "name": "Jeff Ayres",
+          "playerHref": "/players/p/pendeje02.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -2803.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2803.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 163671.89999999994,
+        "vorp": 89.8
+      }
+    },
+    {
+      "id": "buforrc99x-130",
+      "sourceId": 130,
+      "date": "2013-07-11",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Manu Ginóbili",
+      "participants": [
+        {
+          "name": "Manu Ginóbili",
+          "playerHref": "/players/g/ginobma01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 163671.89999999994,
+        "vorp": 89.8
+      }
+    },
+    {
+      "id": "buforrc99x-131",
+      "sourceId": 131,
+      "date": "2013-07-11",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Manu Ginóbili",
+      "participants": [
+        {
+          "name": "Manu Ginóbili",
+          "playerHref": "/players/g/ginobma01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 8897.899999999998,
+            "vorp": 3.8999999999999995
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 8897.899999999998,
+        "vorp": 3.8999999999999995
+      },
+      "runningValues": {
+        "bpm": 172569.79999999993,
+        "vorp": 93.7
+      }
+    },
+    {
+      "id": "buforrc99x-132",
+      "sourceId": 132,
+      "date": "2013-07-13",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Rookie contract for Tiago Splitter",
+      "participants": [
+        {
+          "name": "Tiago Splitter",
+          "playerHref": "/players/s/splitti01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 3131.6,
+            "vorp": 1.9000000000000001
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 3131.6,
+        "vorp": 1.9000000000000001
+      },
+      "runningValues": {
+        "bpm": 175701.39999999994,
+        "vorp": 95.60000000000001
+      }
+    },
+    {
+      "id": "buforrc99x-133",
+      "sourceId": 133,
+      "date": "2014-01-24",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Othyus Jeffers",
+      "participants": [
+        {
+          "name": "Othyus Jeffers",
+          "playerHref": "/players/j/jeffeot01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -30.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -30.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 175670.79999999993,
+        "vorp": 95.60000000000001
+      }
+    },
+    {
+      "id": "buforrc99x-134",
+      "sourceId": 134,
+      "date": "2014-02-01",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Shannon Brown",
+      "participants": [
+        {
+          "name": "Shannon Brown",
+          "playerHref": "/players/b/brownsh01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -1060.9,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1060.9,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 174609.89999999994,
+        "vorp": 95.4
+      }
+    },
+    {
+      "id": "buforrc99x-135",
+      "sourceId": 135,
+      "date": "2014-02-20",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added Austin Daye; Sent out Nando De Colo",
+      "participants": [
+        {
+          "name": "Nando De Colo",
+          "playerHref": "/players/d/decolna01.html",
+          "direction": "out",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": -19.3,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Austin Daye",
+          "playerHref": "/players/d/dayeau01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -1585.3,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1604.6,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": 173005.29999999996,
+        "vorp": 95.10000000000001
+      }
+    },
+    {
+      "id": "buforrc99x-136",
+      "sourceId": 136,
+      "date": "2014-04-03",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Damion James",
+      "participants": [
+        {
+          "name": "Damion James",
+          "playerHref": "/players/j/jamesda01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 173005.29999999996,
+        "vorp": 95.10000000000001
+      }
+    },
+    {
+      "id": "buforrc99x-137",
+      "sourceId": 137,
+      "date": "2014-04-13",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Damion James",
+      "participants": [
+        {
+          "name": "Damion James",
+          "playerHref": "/players/j/jamesda01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -229.99999999999997,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -229.99999999999997,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 172775.29999999996,
+        "vorp": 95.10000000000001
+      }
+    },
+    {
+      "id": "buforrc99x-138",
+      "sourceId": 138,
+      "date": "2014-06-26",
+      "type": "draft",
+      "tenureTeam": "SAS",
+      "summary": "Drafted Kyle Anderson, Jordan McRae, and Cory Jefferson",
+      "participants": [
+        {
+          "name": "Kyle Anderson",
+          "playerHref": "/players/a/anderky01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jordan McRae",
+          "playerHref": "/players/m/mcraejo01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cory Jefferson",
+          "playerHref": "/players/j/jeffeco01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 172775.29999999996,
+        "vorp": 95.10000000000001
+      }
+    },
+    {
+      "id": "buforrc99x-139",
+      "sourceId": 139,
+      "date": "2014-06-26",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added Nemanja Dangubić; Sent out Jordan McRae",
+      "participants": [
+        {
+          "name": "Jordan McRae",
+          "playerHref": "/players/m/mcraejo01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Nemanja Dangubić",
+          "playerHref": "/players/d/dangune01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 172775.29999999996,
+        "vorp": 95.10000000000001
+      }
+    },
+    {
+      "id": "buforrc99x-140",
+      "sourceId": 140,
+      "date": "2014-06-26",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Sent out Cory Jefferson",
+      "participants": [
+        {
+          "name": "Cory Jefferson",
+          "playerHref": "/players/j/jeffeco01.html",
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 1593,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1593,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 174368.29999999996,
+        "vorp": 95.2
+      }
+    },
+    {
+      "id": "buforrc99x-141",
+      "sourceId": 141,
+      "date": "2014-07-07",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Bryce Cotton",
+      "participants": [
+        {
+          "name": "Bryce Cotton",
+          "playerHref": "/players/c/cottobr01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 174368.29999999996,
+        "vorp": 95.2
+      }
+    },
+    {
+      "id": "buforrc99x-142",
+      "sourceId": 142,
+      "date": "2014-07-10",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Rookie contract for Kyle Anderson",
+      "participants": [
+        {
+          "name": "Kyle Anderson",
+          "playerHref": "/players/a/anderky01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 8616.2,
+            "vorp": 4.6
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 8616.2,
+        "vorp": 4.6
+      },
+      "runningValues": {
+        "bpm": 182984.49999999997,
+        "vorp": 99.8
+      }
+    },
+    {
+      "id": "buforrc99x-143",
+      "sourceId": 143,
+      "date": "2014-08-05",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed JaMychal Green",
+      "participants": [
+        {
+          "name": "JaMychal Green",
+          "playerHref": "/players/g/greenja01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 182984.49999999997,
+        "vorp": 99.8
+      }
+    },
+    {
+      "id": "buforrc99x-144",
+      "sourceId": 144,
+      "date": "2014-08-25",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Josh Davis",
+      "participants": [
+        {
+          "name": "Josh Davis",
+          "playerHref": "/players/d/davisjo03.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 182984.49999999997,
+        "vorp": 99.8
+      }
+    },
+    {
+      "id": "buforrc99x-145",
+      "sourceId": 145,
+      "date": "2014-09-26",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed John Holland",
+      "participants": [
+        {
+          "name": "John Holland",
+          "playerHref": "/players/h/hollajo02.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 182984.49999999997,
+        "vorp": 99.8
+      }
+    },
+    {
+      "id": "buforrc99x-146",
+      "sourceId": 146,
+      "date": "2014-10-24",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Robert Vaden",
+      "participants": [
+        {
+          "name": "Robert Vaden",
+          "playerHref": "/players/v/vadenro01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 182984.49999999997,
+        "vorp": 99.8
+      }
+    },
+    {
+      "id": "buforrc99x-147",
+      "sourceId": 147,
+      "date": "2014-10-24",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Fuquan Edwin",
+      "participants": [
+        {
+          "name": "Fuquan Edwin",
+          "playerHref": "/players/e/edwinfu01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 182984.49999999997,
+        "vorp": 99.8
+      }
+    },
+    {
+      "id": "buforrc99x-148",
+      "sourceId": 148,
+      "date": "2015-01-18",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed JaMychal Green",
+      "participants": [
+        {
+          "name": "JaMychal Green",
+          "playerHref": "/players/g/greenja01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -102.49999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -102.49999999999999,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 182881.99999999997,
+        "vorp": 99.8
+      }
+    },
+    {
+      "id": "buforrc99x-149",
+      "sourceId": 149,
+      "date": "2015-01-28",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Reggie Williams",
+      "participants": [
+        {
+          "name": "Reggie Williams",
+          "playerHref": "/players/w/willire02.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 182881.99999999997,
+        "vorp": 99.8
+      }
+    },
+    {
+      "id": "buforrc99x-150",
+      "sourceId": 150,
+      "date": "2015-02-20",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Reggie Williams",
+      "participants": [
+        {
+          "name": "Reggie Williams",
+          "playerHref": "/players/w/willire02.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -304.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -304.5,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 182577.49999999997,
+        "vorp": 99.8
+      }
+    },
+    {
+      "id": "buforrc99x-151",
+      "sourceId": 151,
+      "date": "2015-06-25",
+      "type": "draft",
+      "tenureTeam": "SAS",
+      "summary": "Drafted Nikola Milutinov and Cady Lalanne",
+      "participants": [
+        {
+          "name": "Nikola Milutinov",
+          "playerHref": "/players/m/milutni01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cady Lalanne",
+          "playerHref": "/players/l/lalanca01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 182577.49999999997,
+        "vorp": 99.8
+      }
+    },
+    {
+      "id": "buforrc99x-152",
+      "sourceId": 152,
+      "date": "2015-07-09",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed LaMarcus Aldridge",
+      "participants": [
+        {
+          "name": "LaMarcus Aldridge",
+          "playerHref": "/players/a/aldrila01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 7068.299999999999,
+            "vorp": 4.199999999999999
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 7068.299999999999,
+        "vorp": 4.199999999999999
+      },
+      "runningValues": {
+        "bpm": 189645.79999999996,
+        "vorp": 104
+      }
+    },
+    {
+      "id": "buforrc99x-153",
+      "sourceId": 153,
+      "date": "2015-07-09",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Tim Duncan",
+      "participants": [
+        {
+          "name": "Tim Duncan",
+          "playerHref": "/players/d/duncati01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 4608,
+            "vorp": 2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4608,
+        "vorp": 2
+      },
+      "runningValues": {
+        "bpm": 194253.79999999996,
+        "vorp": 106
+      }
+    },
+    {
+      "id": "buforrc99x-154",
+      "sourceId": 154,
+      "date": "2015-07-09",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added Ray McCallum; Sent out Isaiah Cousins",
+      "participants": [
+        {
+          "name": "Isaiah Cousins",
+          "playerHref": "/players/c/cousiis01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ray McCallum",
+          "playerHref": "/players/m/mccalra01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -435.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -435.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 193818.59999999995,
+        "vorp": 106
+      }
+    },
+    {
+      "id": "buforrc99x-155",
+      "sourceId": 155,
+      "date": "2015-07-09",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added Georgios Printezis; Sent out Tiago Splitter",
+      "participants": [
+        {
+          "name": "Tiago Splitter",
+          "playerHref": "/players/s/splitti01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 984.3,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Georgios Printezis",
+          "playerHref": "/players/p/printgi01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 984.3,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 194802.89999999994,
+        "vorp": 106
+      }
+    },
+    {
+      "id": "buforrc99x-156",
+      "sourceId": 156,
+      "date": "2015-07-14",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Danny Green",
+      "participants": [
+        {
+          "name": "Danny Green",
+          "playerHref": "/players/g/greenda02.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 4430.200000000001,
+            "vorp": 4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4430.200000000001,
+        "vorp": 4
+      },
+      "runningValues": {
+        "bpm": 199233.09999999995,
+        "vorp": 110
+      }
+    },
+    {
+      "id": "buforrc99x-157",
+      "sourceId": 157,
+      "date": "2015-07-15",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Matt Bonner",
+      "participants": [
+        {
+          "name": "Matt Bonner",
+          "playerHref": "/players/b/bonnema01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 453.20000000000005,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 453.20000000000005,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 199686.29999999996,
+        "vorp": 110.2
+      }
+    },
+    {
+      "id": "buforrc99x-158",
+      "sourceId": 158,
+      "date": "2015-07-16",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Kawhi Leonard",
+      "participants": [
+        {
+          "name": "Kawhi Leonard",
+          "playerHref": "/players/l/leonaka01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 46766.2,
+            "vorp": 14.299999999999999
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 46766.2,
+        "vorp": 14.299999999999999
+      },
+      "runningValues": {
+        "bpm": 246452.49999999994,
+        "vorp": 124.5
+      }
+    },
+    {
+      "id": "buforrc99x-159",
+      "sourceId": 159,
+      "date": "2015-07-17",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed David West",
+      "participants": [
+        {
+          "name": "David West",
+          "playerHref": "/players/w/westda01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 4071.6,
+            "vorp": 1.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4071.6,
+        "vorp": 1.7
+      },
+      "runningValues": {
+        "bpm": 250524.09999999995,
+        "vorp": 126.2
+      }
+    },
+    {
+      "id": "buforrc99x-160",
+      "sourceId": 160,
+      "date": "2015-07-17",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Boban Marjanović",
+      "participants": [
+        {
+          "name": "Boban Marjanović",
+          "playerHref": "/players/m/marjabo01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 2184.4,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2184.4,
+        "vorp": 0.8
+      },
+      "runningValues": {
+        "bpm": 252708.49999999994,
+        "vorp": 127
+      }
+    },
+    {
+      "id": "buforrc99x-161",
+      "sourceId": 161,
+      "date": "2015-07-20",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Manu Ginóbili",
+      "participants": [
+        {
+          "name": "Manu Ginóbili",
+          "playerHref": "/players/g/ginobma01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 4082.4000000000005,
+            "vorp": 1.6000000000000003
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4082.4000000000005,
+        "vorp": 1.6000000000000003
+      },
+      "runningValues": {
+        "bpm": 256790.89999999994,
+        "vorp": 128.6
+      }
+    },
+    {
+      "id": "buforrc99x-162",
+      "sourceId": 162,
+      "date": "2015-07-22",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Jimmer Fredette",
+      "participants": [
+        {
+          "name": "Jimmer Fredette",
+          "playerHref": "/players/f/fredeji01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 256790.89999999994,
+        "vorp": 128.6
+      }
+    },
+    {
+      "id": "buforrc99x-163",
+      "sourceId": 163,
+      "date": "2015-07-22",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Jonathon Simmons",
+      "participants": [
+        {
+          "name": "Jonathon Simmons",
+          "playerHref": "/players/s/simmojo02.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -5814.300000000001,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5814.300000000001,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": 250976.59999999995,
+        "vorp": 128.29999999999998
+      }
+    },
+    {
+      "id": "buforrc99x-164",
+      "sourceId": 164,
+      "date": "2015-09-28",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Rasual Butler",
+      "participants": [
+        {
+          "name": "Rasual Butler",
+          "playerHref": "/players/b/butlera01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 1252.8,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1252.8,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": 252229.39999999994,
+        "vorp": 128.79999999999998
+      }
+    },
+    {
+      "id": "buforrc99x-165",
+      "sourceId": 165,
+      "date": "2015-09-28",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Youssou Ndoye",
+      "participants": [
+        {
+          "name": "Youssou Ndoye",
+          "playerHref": "/players/n/ndoyeyo01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 252229.39999999994,
+        "vorp": 128.79999999999998
+      }
+    },
+    {
+      "id": "buforrc99x-166",
+      "sourceId": 166,
+      "date": "2015-09-28",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Keifer Sykes",
+      "participants": [
+        {
+          "name": "Keifer Sykes",
+          "playerHref": "/players/s/sykeske01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 252229.39999999994,
+        "vorp": 128.79999999999998
+      }
+    },
+    {
+      "id": "buforrc99x-167",
+      "sourceId": 167,
+      "date": "2015-09-28",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Rookie contract for Deshaun Thomas",
+      "participants": [
+        {
+          "name": "Deshaun Thomas",
+          "playerHref": "/players/t/thomade01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 252229.39999999994,
+        "vorp": 128.79999999999998
+      }
+    },
+    {
+      "id": "buforrc99x-168",
+      "sourceId": 168,
+      "date": "2015-10-22",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Julian Washburn",
+      "participants": [
+        {
+          "name": "Julian Washburn",
+          "playerHref": "/players/w/washbju01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 252229.39999999994,
+        "vorp": 128.79999999999998
+      }
+    },
+    {
+      "id": "buforrc99x-169",
+      "sourceId": 169,
+      "date": "2016-02-29",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Andre Miller",
+      "participants": [
+        {
+          "name": "Andre Miller",
+          "playerHref": "/players/m/millean02.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -235.3,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -235.3,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 251994.09999999995,
+        "vorp": 128.79999999999998
+      }
+    },
+    {
+      "id": "buforrc99x-170",
+      "sourceId": 170,
+      "date": "2016-03-09",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Kevin Martin",
+      "participants": [
+        {
+          "name": "Kevin Martin",
+          "playerHref": "/players/m/martike02.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -887.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -887.4,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 251106.69999999995,
+        "vorp": 128.7
+      }
+    },
+    {
+      "id": "buforrc99x-171",
+      "sourceId": 171,
+      "date": "2016-06-23",
+      "type": "draft",
+      "tenureTeam": "SAS",
+      "summary": "Drafted Dejounte Murray",
+      "participants": [
+        {
+          "name": "Dejounte Murray",
+          "playerHref": "/players/m/murrade01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 251106.69999999995,
+        "vorp": 128.7
+      }
+    },
+    {
+      "id": "buforrc99x-172",
+      "sourceId": 172,
+      "date": "2016-07-08",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added Olivier Hanlan; Sent out Boris Diaw and Khalifa Diop",
+      "participants": [
+        {
+          "name": "Boris Diaw",
+          "playerHref": "/players/d/diawbo01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 3207.5,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Khalifa Diop",
+          "playerHref": "/players/d/diopkh01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Olivier Hanlan",
+          "playerHref": "/players/h/hanlaol01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3207.5,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 254314.19999999995,
+        "vorp": 128.79999999999998
+      }
+    },
+    {
+      "id": "buforrc99x-173",
+      "sourceId": 173,
+      "date": "2016-07-14",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Rookie contract for Dejounte Murray",
+      "participants": [
+        {
+          "name": "Dejounte Murray",
+          "playerHref": "/players/m/murrade01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 14283.9,
+            "vorp": 7.800000000000001
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 14283.9,
+        "vorp": 7.800000000000001
+      },
+      "runningValues": {
+        "bpm": 268598.1,
+        "vorp": 136.6
+      }
+    },
+    {
+      "id": "buforrc99x-174",
+      "sourceId": 174,
+      "date": "2016-07-14",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Pau Gasol",
+      "participants": [
+        {
+          "name": "Pau Gasol",
+          "playerHref": "/players/g/gasolpa01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 6507.999999999999,
+            "vorp": 2.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 6507.999999999999,
+        "vorp": 2.5
+      },
+      "runningValues": {
+        "bpm": 275106.1,
+        "vorp": 139.1
+      }
+    },
+    {
+      "id": "buforrc99x-175",
+      "sourceId": 175,
+      "date": "2016-07-14",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Dewayne Dedmon",
+      "participants": [
+        {
+          "name": "Dewayne Dedmon",
+          "playerHref": "/players/d/dedmode01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 798,
+            "vorp": 0.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 798,
+        "vorp": 0.9
+      },
+      "runningValues": {
+        "bpm": 275904.1,
+        "vorp": 140
+      }
+    },
+    {
+      "id": "buforrc99x-176",
+      "sourceId": 176,
+      "date": "2016-07-14",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Dāvis Bertāns",
+      "participants": [
+        {
+          "name": "Dāvis Bertāns",
+          "playerHref": "/players/b/bertada01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 2679.4,
+            "vorp": 1.6999999999999997
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2679.4,
+        "vorp": 1.6999999999999997
+      },
+      "runningValues": {
+        "bpm": 278583.5,
+        "vorp": 141.7
+      }
+    },
+    {
+      "id": "buforrc99x-177",
+      "sourceId": 177,
+      "date": "2016-07-14",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Bryn Forbes",
+      "participants": [
+        {
+          "name": "Bryn Forbes",
+          "playerHref": "/players/f/forbebr01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -6241.700000000001,
+            "vorp": -0.6000000000000001
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6241.700000000001,
+        "vorp": -0.6000000000000001
+      },
+      "runningValues": {
+        "bpm": 272341.8,
+        "vorp": 141.1
+      }
+    },
+    {
+      "id": "buforrc99x-178",
+      "sourceId": 178,
+      "date": "2016-07-14",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Ryan Arcidiacono",
+      "participants": [
+        {
+          "name": "Ryan Arcidiacono",
+          "playerHref": "/players/a/arcidry01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 272341.8,
+        "vorp": 141.1
+      }
+    },
+    {
+      "id": "buforrc99x-179",
+      "sourceId": 179,
+      "date": "2016-07-14",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Manu Ginóbili",
+      "participants": [
+        {
+          "name": "Manu Ginóbili",
+          "playerHref": "/players/g/ginobma01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 1807.3999999999999,
+            "vorp": 1.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1807.3999999999999,
+        "vorp": 1.1
+      },
+      "runningValues": {
+        "bpm": 274149.2,
+        "vorp": 142.2
+      }
+    },
+    {
+      "id": "buforrc99x-180",
+      "sourceId": 180,
+      "date": "2016-07-22",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Rookie contract for Livio Jean-Charles",
+      "participants": [
+        {
+          "name": "Livio Jean-Charles",
+          "playerHref": "/players/j/jeancli01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 274149.2,
+        "vorp": 142.2
+      }
+    },
+    {
+      "id": "buforrc99x-181",
+      "sourceId": 181,
+      "date": "2016-07-29",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Patricio Garino",
+      "participants": [
+        {
+          "name": "Patricio Garino",
+          "playerHref": "/players/g/garinpa01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 274149.2,
+        "vorp": 142.2
+      }
+    },
+    {
+      "id": "buforrc99x-182",
+      "sourceId": 182,
+      "date": "2016-08-02",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed David Lee",
+      "participants": [
+        {
+          "name": "David Lee",
+          "playerHref": "/players/l/leeda02.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 2658.6,
+            "vorp": 1.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2658.6,
+        "vorp": 1.4
+      },
+      "runningValues": {
+        "bpm": 276807.8,
+        "vorp": 143.6
+      }
+    },
+    {
+      "id": "buforrc99x-183",
+      "sourceId": 183,
+      "date": "2016-09-09",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Rookie contract for Ryan Richards",
+      "participants": [
+        {
+          "name": "Ryan Richards",
+          "playerHref": "/players/r/richary01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 276807.8,
+        "vorp": 143.6
+      }
+    },
+    {
+      "id": "buforrc99x-184",
+      "sourceId": 184,
+      "date": "2016-09-23",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Rookie contract for Marcus Denmon",
+      "participants": [
+        {
+          "name": "Marcus Denmon",
+          "playerHref": "/players/d/denmoma01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 276807.8,
+        "vorp": 143.6
+      }
+    },
+    {
+      "id": "buforrc99x-185",
+      "sourceId": 185,
+      "date": "2016-09-26",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Joel Anthony",
+      "participants": [
+        {
+          "name": "Joel Anthony",
+          "playerHref": "/players/a/anthojo01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 276807.8,
+        "vorp": 143.6
+      }
+    },
+    {
+      "id": "buforrc99x-186",
+      "sourceId": 186,
+      "date": "2016-09-26",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Nicolás Laprovíttola",
+      "participants": [
+        {
+          "name": "Nicolás Laprovíttola",
+          "playerHref": "/players/l/laproni01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -678.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -678.6,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 276129.2,
+        "vorp": 143.5
+      }
+    },
+    {
+      "id": "buforrc99x-187",
+      "sourceId": 187,
+      "date": "2017-01-23",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Joel Anthony",
+      "participants": [
+        {
+          "name": "Joel Anthony",
+          "playerHref": "/players/a/anthojo01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 276129.2,
+        "vorp": 143.5
+      }
+    },
+    {
+      "id": "buforrc99x-188",
+      "sourceId": 188,
+      "date": "2017-02-12",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Joel Anthony",
+      "participants": [
+        {
+          "name": "Joel Anthony",
+          "playerHref": "/players/a/anthojo01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -244,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -244,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 275885.2,
+        "vorp": 143.5
+      }
+    },
+    {
+      "id": "buforrc99x-189",
+      "sourceId": 189,
+      "date": "2017-06-22",
+      "type": "draft",
+      "tenureTeam": "SAS",
+      "summary": "Drafted Derrick White and Jaron Blossomgame",
+      "participants": [
+        {
+          "name": "Derrick White",
+          "playerHref": "/players/w/whitede01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jaron Blossomgame",
+          "playerHref": "/players/b/blossja01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 275885.2,
+        "vorp": 143.5
+      }
+    },
+    {
+      "id": "buforrc99x-190",
+      "sourceId": 190,
+      "date": "2017-07-06",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Rudy Gay",
+      "participants": [
+        {
+          "name": "Rudy Gay",
+          "playerHref": "/players/g/gayru01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 984.8000000000002,
+            "vorp": 0.8999999999999999
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 984.8000000000002,
+        "vorp": 0.8999999999999999
+      },
+      "runningValues": {
+        "bpm": 276870,
+        "vorp": 144.4
+      }
+    },
+    {
+      "id": "buforrc99x-191",
+      "sourceId": 191,
+      "date": "2017-07-06",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Rookie contract for Derrick White",
+      "participants": [
+        {
+          "name": "Derrick White",
+          "playerHref": "/players/w/whitede01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 8113,
+            "vorp": 5.199999999999999
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 8113,
+        "vorp": 5.199999999999999
+      },
+      "runningValues": {
+        "bpm": 284983,
+        "vorp": 149.6
+      }
+    },
+    {
+      "id": "buforrc99x-192",
+      "sourceId": 192,
+      "date": "2017-07-14",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Brandon Paul",
+      "participants": [
+        {
+          "name": "Brandon Paul",
+          "playerHref": "/players/p/paulbr01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -1958.3999999999999,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1958.3999999999999,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 283024.6,
+        "vorp": 149.4
+      }
+    },
+    {
+      "id": "buforrc99x-193",
+      "sourceId": 193,
+      "date": "2017-07-18",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Joffrey Lauvergne",
+      "participants": [
+        {
+          "name": "Joffrey Lauvergne",
+          "playerHref": "/players/l/lauvejo01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -534,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -534,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 282490.6,
+        "vorp": 149.5
+      }
+    },
+    {
+      "id": "buforrc99x-194",
+      "sourceId": 194,
+      "date": "2017-07-24",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Matt Costello",
+      "participants": [
+        {
+          "name": "Matt Costello",
+          "playerHref": "/players/c/costema01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -22.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -22.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 282468.19999999995,
+        "vorp": 149.5
+      }
+    },
+    {
+      "id": "buforrc99x-195",
+      "sourceId": 195,
+      "date": "2017-07-24",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Pau Gasol",
+      "participants": [
+        {
+          "name": "Pau Gasol",
+          "playerHref": "/players/g/gasolpa01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 7447.8,
+            "vorp": 3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 7447.8,
+        "vorp": 3
+      },
+      "runningValues": {
+        "bpm": 289915.99999999994,
+        "vorp": 152.5
+      }
+    },
+    {
+      "id": "buforrc99x-196",
+      "sourceId": 196,
+      "date": "2017-08-04",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Patty Mills",
+      "participants": [
+        {
+          "name": "Patty Mills",
+          "playerHref": "/players/m/millspa02.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -4892.2,
+            "vorp": 2.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4892.2,
+        "vorp": 2.4
+      },
+      "runningValues": {
+        "bpm": 285023.79999999993,
+        "vorp": 154.9
+      }
+    },
+    {
+      "id": "buforrc99x-197",
+      "sourceId": 197,
+      "date": "2017-08-23",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed London Perrantes",
+      "participants": [
+        {
+          "name": "London Perrantes",
+          "playerHref": "/players/p/perralo01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 285023.79999999993,
+        "vorp": 154.9
+      }
+    },
+    {
+      "id": "buforrc99x-198",
+      "sourceId": 198,
+      "date": "2017-08-24",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Manu Ginóbili",
+      "participants": [
+        {
+          "name": "Manu Ginóbili",
+          "playerHref": "/players/g/ginobma01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -1688.7,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1688.7,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 283335.0999999999,
+        "vorp": 155.1
+      }
+    },
+    {
+      "id": "buforrc99x-199",
+      "sourceId": 199,
+      "date": "2017-09-11",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Darrun Hilliard",
+      "participants": [
+        {
+          "name": "Darrun Hilliard",
+          "playerHref": "/players/h/hillida01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -750.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -750.5,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 282584.5999999999,
+        "vorp": 155
+      }
+    },
+    {
+      "id": "buforrc99x-200",
+      "sourceId": 200,
+      "date": "2017-09-25",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Amida Brimah",
+      "participants": [
+        {
+          "name": "Amida Brimah",
+          "playerHref": "/players/b/brimaam01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 282584.5999999999,
+        "vorp": 155
+      }
+    },
+    {
+      "id": "buforrc99x-201",
+      "sourceId": 201,
+      "date": "2017-10-16",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed LaMarcus Aldridge",
+      "participants": [
+        {
+          "name": "LaMarcus Aldridge",
+          "playerHref": "/players/a/aldrila01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 16587.7,
+            "vorp": 8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 16587.7,
+        "vorp": 8
+      },
+      "runningValues": {
+        "bpm": 299172.29999999993,
+        "vorp": 163
+      }
+    },
+    {
+      "id": "buforrc99x-202",
+      "sourceId": 202,
+      "date": "2018-06-21",
+      "type": "draft",
+      "tenureTeam": "SAS",
+      "summary": "Drafted Lonnie Walker and Chimezie Metu",
+      "participants": [
+        {
+          "name": "Lonnie Walker",
+          "playerHref": "/players/w/walkelo01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chimezie Metu",
+          "playerHref": "/players/m/metuch01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 299172.29999999993,
+        "vorp": 163
+      }
+    },
+    {
+      "id": "buforrc99x-203",
+      "sourceId": 203,
+      "date": "2018-07-11",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Rudy Gay",
+      "participants": [
+        {
+          "name": "Rudy Gay",
+          "playerHref": "/players/g/gayru01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 2578.7999999999997,
+            "vorp": 1.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2578.7999999999997,
+        "vorp": 1.6
+      },
+      "runningValues": {
+        "bpm": 301751.0999999999,
+        "vorp": 164.6
+      }
+    },
+    {
+      "id": "buforrc99x-204",
+      "sourceId": 204,
+      "date": "2018-07-11",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Dāvis Bertāns",
+      "participants": [
+        {
+          "name": "Dāvis Bertāns",
+          "playerHref": "/players/b/bertada01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 2121.6,
+            "vorp": 1.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2121.6,
+        "vorp": 1.4
+      },
+      "runningValues": {
+        "bpm": 303872.6999999999,
+        "vorp": 166
+      }
+    },
+    {
+      "id": "buforrc99x-205",
+      "sourceId": 205,
+      "date": "2018-07-11",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Rookie contract for Lonnie Walker",
+      "participants": [
+        {
+          "name": "Lonnie Walker",
+          "playerHref": "/players/w/walkelo01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -13402.6,
+            "vorp": -1.3
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -13402.6,
+        "vorp": -1.3
+      },
+      "runningValues": {
+        "bpm": 290470.0999999999,
+        "vorp": 164.7
+      }
+    },
+    {
+      "id": "buforrc99x-206",
+      "sourceId": 206,
+      "date": "2018-07-18",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added DeMar DeRozan, Jakob Pöltl, and Keldon Johnson; Sent out Danny Green and Kawhi Leonard",
+      "participants": [
+        {
+          "name": "Danny Green",
+          "playerHref": "/players/g/greenda02.html",
+          "direction": "out",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": -4210.4,
+            "vorp": -2.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kawhi Leonard",
+          "playerHref": "/players/l/leonaka01.html",
+          "direction": "out",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": -14562,
+            "vorp": -4.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "DeMar DeRozan",
+          "playerHref": "/players/d/derozde01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 13730.8,
+            "vorp": 7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jakob Pöltl",
+          "playerHref": "/players/p/poeltja01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 10983.6,
+            "vorp": 6.500000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Keldon Johnson",
+          "playerHref": "/players/j/johnske04.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5941.999999999998,
+        "vorp": 6.6000000000000005
+      },
+      "runningValues": {
+        "bpm": 296412.09999999986,
+        "vorp": 171.3
+      }
+    },
+    {
+      "id": "buforrc99x-207",
+      "sourceId": 207,
+      "date": "2018-07-19",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Dante Cunningham",
+      "participants": [
+        {
+          "name": "Dante Cunningham",
+          "playerHref": "/players/c/cunnida01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -556.8,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -556.8,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": 295855.2999999999,
+        "vorp": 171.60000000000002
+      }
+    },
+    {
+      "id": "buforrc99x-208",
+      "sourceId": 208,
+      "date": "2018-07-20",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Marco Belinelli",
+      "participants": [
+        {
+          "name": "Marco Belinelli",
+          "playerHref": "/players/b/belinma01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -5469.6,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5469.6,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 290385.6999999999,
+        "vorp": 171.50000000000003
+      }
+    },
+    {
+      "id": "buforrc99x-209",
+      "sourceId": 209,
+      "date": "2018-07-20",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Bryn Forbes",
+      "participants": [
+        {
+          "name": "Bryn Forbes",
+          "playerHref": "/players/f/forbebr01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -7938.6,
+            "vorp": 0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -7938.6,
+        "vorp": 0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": 282447.0999999999,
+        "vorp": 171.80000000000004
+      }
+    },
+    {
+      "id": "buforrc99x-210",
+      "sourceId": 210,
+      "date": "2018-08-29",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Quincy Pondexter",
+      "participants": [
+        {
+          "name": "Quincy Pondexter",
+          "playerHref": "/players/p/pondequ01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -262.8,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -262.8,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": 282184.29999999993,
+        "vorp": 171.90000000000003
+      }
+    },
+    {
+      "id": "buforrc99x-211",
+      "sourceId": 211,
+      "date": "2018-09-04",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Rookie contract for Chimezie Metu",
+      "participants": [
+        {
+          "name": "Chimezie Metu",
+          "playerHref": "/players/m/metuch01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -1083,
+            "vorp": -0.1
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -1083,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 281101.29999999993,
+        "vorp": 171.80000000000004
+      }
+    },
+    {
+      "id": "buforrc99x-212",
+      "sourceId": 212,
+      "date": "2018-09-20",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Rookie contract for Jaron Blossomgame",
+      "participants": [
+        {
+          "name": "Jaron Blossomgame",
+          "playerHref": "/players/b/blossja01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 281101.29999999993,
+        "vorp": 171.80000000000004
+      }
+    },
+    {
+      "id": "buforrc99x-213",
+      "sourceId": 213,
+      "date": "2018-09-20",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Olivier Hanlan",
+      "participants": [
+        {
+          "name": "Olivier Hanlan",
+          "playerHref": "/players/h/hanlaol01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 281101.29999999993,
+        "vorp": 171.80000000000004
+      }
+    },
+    {
+      "id": "buforrc99x-214",
+      "sourceId": 214,
+      "date": "2018-09-20",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Drew Eubanks",
+      "participants": [
+        {
+          "name": "Drew Eubanks",
+          "playerHref": "/players/e/eubandr01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -1350.5,
+            "vorp": 0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1350.5,
+        "vorp": 0.5
+      },
+      "runningValues": {
+        "bpm": 279750.79999999993,
+        "vorp": 172.30000000000004
+      }
+    },
+    {
+      "id": "buforrc99x-215",
+      "sourceId": 215,
+      "date": "2018-09-24",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Nick Johnson",
+      "participants": [
+        {
+          "name": "Nick Johnson",
+          "playerHref": "/players/j/johnsni01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 279750.79999999993,
+        "vorp": 172.30000000000004
+      }
+    },
+    {
+      "id": "buforrc99x-216",
+      "sourceId": 216,
+      "date": "2018-11-20",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Ben Moore",
+      "participants": [
+        {
+          "name": "Ben Moore",
+          "playerHref": "/players/m/moorebe01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 279750.79999999993,
+        "vorp": 172.30000000000004
+      }
+    },
+    {
+      "id": "buforrc99x-217",
+      "sourceId": 217,
+      "date": "2019-04-04",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Donatas Motiejūnas",
+      "participants": [
+        {
+          "name": "Donatas Motiejūnas",
+          "playerHref": "/players/m/motiedo01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -279.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -279.5,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 279471.29999999993,
+        "vorp": 172.20000000000005
+      }
+    },
+    {
+      "id": "buforrc99x-218",
+      "sourceId": 218,
+      "date": "2019-06-20",
+      "type": "draft",
+      "tenureTeam": "SAS",
+      "summary": "Drafted Luka Šamanić, Keldon Johnson, and Quinndary Weatherspoon",
+      "participants": [
+        {
+          "name": "Luka Šamanić",
+          "playerHref": "/players/s/samanlu01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Keldon Johnson",
+          "playerHref": "/players/j/johnske04.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Quinndary Weatherspoon",
+          "playerHref": "/players/w/weathqu01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 279471.29999999993,
+        "vorp": 172.20000000000005
+      }
+    },
+    {
+      "id": "buforrc99x-219",
+      "sourceId": 219,
+      "date": "2019-07-01",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Rookie contract for Luka Šamanić",
+      "participants": [
+        {
+          "name": "Luka Šamanić",
+          "playerHref": "/players/s/samanlu01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -1706,
+            "vorp": -0.2
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -1706,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 277765.29999999993,
+        "vorp": 172.00000000000006
+      }
+    },
+    {
+      "id": "buforrc99x-220",
+      "sourceId": 220,
+      "date": "2019-07-01",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Rookie contract for Keldon Johnson",
+      "participants": [
+        {
+          "name": "Keldon Johnson",
+          "playerHref": "/players/j/johnske04.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -12534.3,
+            "vorp": 3.4
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -12534.3,
+        "vorp": 3.4
+      },
+      "runningValues": {
+        "bpm": 265230.99999999994,
+        "vorp": 175.40000000000006
+      }
+    },
+    {
+      "id": "buforrc99x-221",
+      "sourceId": 221,
+      "date": "2019-07-06",
+      "type": "trade",
+      "tenureTeam": "SAS",
+      "summary": "Added DeMarre Carroll; Sent out Davis Bertans and Nemanja Dangubic",
+      "participants": [
+        {
+          "name": "Davis Bertans",
+          "playerHref": "/players/b/bertada01.html",
+          "direction": "out",
+          "teamCode": "WAS",
+          "values": {
+            "bpm": 1600.2,
+            "vorp": -1.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Nemanja Dangubic",
+          "playerHref": "/players/d/dangune01.html",
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "DeMarre Carroll",
+          "playerHref": "/players/c/carrode01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -945,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 655.2,
+        "vorp": -1.5
+      },
+      "runningValues": {
+        "bpm": 265886.19999999995,
+        "vorp": 173.90000000000006
+      }
+    },
+    {
+      "id": "buforrc99x-222",
+      "sourceId": 222,
+      "date": "2019-07-08",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Rookie contract for Quinndary Weatherspoon",
+      "participants": [
+        {
+          "name": "Quinndary Weatherspoon",
+          "playerHref": "/players/w/weathqu01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -1174.4,
+            "vorp": -0.2
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -1174.4,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 264711.79999999993,
+        "vorp": 173.70000000000007
+      }
+    },
+    {
+      "id": "buforrc99x-223",
+      "sourceId": 223,
+      "date": "2019-07-08",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Rudy Gay",
+      "participants": [
+        {
+          "name": "Rudy Gay",
+          "playerHref": "/players/g/gayru01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -1304.6,
+            "vorp": 1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1304.6,
+        "vorp": 1
+      },
+      "runningValues": {
+        "bpm": 263407.19999999995,
+        "vorp": 174.70000000000007
+      }
+    },
+    {
+      "id": "buforrc99x-224",
+      "sourceId": 224,
+      "date": "2019-07-12",
+      "type": "signing",
+      "tenureTeam": "SAS",
+      "summary": "Signed Trey Lyles",
+      "participants": [
+        {
+          "name": "Trey Lyles",
+          "playerHref": "/players/l/lylestr01.html",
+          "direction": "in",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": -2042.5,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2042.5,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": 261364.69999999995,
+        "vorp": 175.00000000000009
+      }
+    }
+  ]
+}

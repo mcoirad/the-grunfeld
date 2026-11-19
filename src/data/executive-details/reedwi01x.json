@@ -1,0 +1,1840 @@
+{
+  "slug": "reedwi01x",
+  "sourceRowCount": 82,
+  "tenures": [
+    {
+      "teamCode": "BRK",
+      "startDate": "1990-06-25",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "reedwi01x-0",
+      "sourceId": 0,
+      "date": "1990-06-25",
+      "type": "trade",
+      "tenureTeam": "BRK",
+      "summary": "Added Reggie Theus; Sent out Adonis Jordan and Rashard Griffith",
+      "participants": [
+        {
+          "name": "Adonis Jordan",
+          "playerHref": "/players/j/jordaad01.html",
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rashard Griffith",
+          "playerHref": "/players/g/griffra01.html",
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Reggie Theus",
+          "playerHref": "/players/t/theusre01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -3250.5000000000005,
+            "vorp": 0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3250.5000000000005,
+        "vorp": 0.6
+      },
+      "runningValues": {
+        "bpm": -3250.5000000000005,
+        "vorp": 0.6
+      }
+    },
+    {
+      "id": "reedwi01x-1",
+      "sourceId": 1,
+      "date": "1990-06-26",
+      "type": "trade",
+      "tenureTeam": "BRK",
+      "summary": "Added Tate George, Von McDade, and P.J. Brown; Sent out Dennis Hopson",
+      "participants": [
+        {
+          "name": "Dennis Hopson",
+          "playerHref": "/players/h/hopsode01.html",
+          "direction": "out",
+          "teamCode": "CHI",
+          "values": {
+            "bpm": 2945,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tate George",
+          "playerHref": "/players/g/georgta01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Von McDade",
+          "playerHref": "/players/m/mcdadvo01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "P.J. Brown",
+          "playerHref": "/players/b/brownpj01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2945,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": -305.50000000000045,
+        "vorp": 1
+      }
+    },
+    {
+      "id": "reedwi01x-2",
+      "sourceId": 2,
+      "date": "1990-06-27",
+      "type": "draft",
+      "tenureTeam": "BRK",
+      "summary": "Drafted Derrick Coleman and Tate George",
+      "participants": [
+        {
+          "name": "Derrick Coleman",
+          "playerHref": "/players/c/colemde01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 32859.8,
+            "vorp": 14.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tate George",
+          "playerHref": "/players/g/georgta01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -6921.4,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 25938.4,
+        "vorp": 13.700000000000001
+      },
+      "runningValues": {
+        "bpm": 25632.9,
+        "vorp": 14.700000000000001
+      }
+    },
+    {
+      "id": "reedwi01x-3",
+      "sourceId": 3,
+      "date": "1990-06-27",
+      "type": "trade",
+      "tenureTeam": "BRK",
+      "summary": "Added Jud Buechler",
+      "participants": [
+        {
+          "name": "Jud Buechler",
+          "playerHref": "/players/b/buechju01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -1719.8000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1719.8000000000002,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 23913.100000000002,
+        "vorp": 14.700000000000001
+      }
+    },
+    {
+      "id": "reedwi01x-4",
+      "sourceId": 4,
+      "date": "1990-08-16",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Dan Godfread",
+      "participants": [
+        {
+          "name": "Dan Godfread",
+          "playerHref": "/players/g/godfrda01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 23913.100000000002,
+        "vorp": 14.700000000000001
+      }
+    },
+    {
+      "id": "reedwi01x-5",
+      "sourceId": 5,
+      "date": "1990-08-23",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Doug Lee",
+      "participants": [
+        {
+          "name": "Doug Lee",
+          "playerHref": "/players/l/leedo01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 23913.100000000002,
+        "vorp": 14.700000000000001
+      }
+    },
+    {
+      "id": "reedwi01x-6",
+      "sourceId": 6,
+      "date": "1990-10-01",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Kurk Lee",
+      "participants": [
+        {
+          "name": "Kurk Lee",
+          "playerHref": "/players/l/leeku01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -1669.5,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1669.5,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": 22243.600000000002,
+        "vorp": 14.4
+      }
+    },
+    {
+      "id": "reedwi01x-7",
+      "sourceId": 7,
+      "date": "1990-10-01",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Dan O'Sullivan",
+      "participants": [
+        {
+          "name": "Dan O'Sullivan",
+          "playerHref": "/players/o/osullda01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 22243.600000000002,
+        "vorp": 14.4
+      }
+    },
+    {
+      "id": "reedwi01x-8",
+      "sourceId": 8,
+      "date": "1991-01-16",
+      "type": "trade",
+      "tenureTeam": "BRK",
+      "summary": "Added Greg Anderson; Sent out Lester Conner",
+      "participants": [
+        {
+          "name": "Lester Conner",
+          "playerHref": "/players/c/connele01.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -2468.8,
+            "vorp": -1.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Greg Anderson",
+          "playerHref": "/players/a/andergr01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 172.79999999999998,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2296,
+        "vorp": -1.5
+      },
+      "runningValues": {
+        "bpm": 19947.600000000002,
+        "vorp": 12.9
+      }
+    },
+    {
+      "id": "reedwi01x-9",
+      "sourceId": 9,
+      "date": "1991-01-23",
+      "type": "trade",
+      "tenureTeam": "BRK",
+      "summary": "Added Terry Mills, Dražen Petrović, and Kevin Thompson; Sent out Greg Anderson and Bryant Stith",
+      "participants": [
+        {
+          "name": "Greg Anderson",
+          "playerHref": "/players/a/andergr01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 13384.3,
+            "vorp": 1.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bryant Stith",
+          "playerHref": "/players/s/stithbr01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 9427.900000000001,
+            "vorp": -4.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Terry Mills",
+          "playerHref": "/players/m/millste01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -669.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dražen Petrović",
+          "playerHref": "/players/p/petrodr01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -372.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kevin Thompson",
+          "playerHref": "/players/t/thompke01.html",
+          "direction": "in",
+          "teamCode": "POR",
+          "values": {
+            "bpm": -464,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 21306.2,
+        "vorp": -2.6999999999999997
+      },
+      "runningValues": {
+        "bpm": 41253.8,
+        "vorp": 10.200000000000001
+      }
+    },
+    {
+      "id": "reedwi01x-10",
+      "sourceId": 10,
+      "date": "1991-06-26",
+      "type": "draft",
+      "tenureTeam": "BRK",
+      "summary": "Drafted Kenny Anderson and Von McDade",
+      "participants": [
+        {
+          "name": "Kenny Anderson",
+          "playerHref": "/players/a/anderke01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 19910.1,
+            "vorp": 10
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Von McDade",
+          "playerHref": "/players/m/mcdadvo01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 19910.1,
+        "vorp": 10
+      },
+      "runningValues": {
+        "bpm": 61163.9,
+        "vorp": 20.200000000000003
+      }
+    },
+    {
+      "id": "reedwi01x-11",
+      "sourceId": 11,
+      "date": "1991-09-27",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Melvin Newbern",
+      "participants": [
+        {
+          "name": "Melvin Newbern",
+          "playerHref": "/players/n/newbeme01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 61163.9,
+        "vorp": 20.200000000000003
+      }
+    },
+    {
+      "id": "reedwi01x-12",
+      "sourceId": 12,
+      "date": "1991-09-30",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Emanual Davis",
+      "participants": [
+        {
+          "name": "Emanual Davis",
+          "playerHref": "/players/d/davisem01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 61163.9,
+        "vorp": 20.200000000000003
+      }
+    },
+    {
+      "id": "reedwi01x-13",
+      "sourceId": 13,
+      "date": "1991-10-01",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Doug Lee",
+      "participants": [
+        {
+          "name": "Doug Lee",
+          "playerHref": "/players/l/leedo01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -1043.8,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1043.8,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 60120.1,
+        "vorp": 20.1
+      }
+    },
+    {
+      "id": "reedwi01x-14",
+      "sourceId": 14,
+      "date": "1991-10-01",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Rookie contract for Von McDade",
+      "participants": [
+        {
+          "name": "Von McDade",
+          "playerHref": "/players/m/mcdadvo01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 60120.1,
+        "vorp": 20.1
+      }
+    },
+    {
+      "id": "reedwi01x-15",
+      "sourceId": 15,
+      "date": "1991-10-04",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Rafael Addison",
+      "participants": [
+        {
+          "name": "Rafael Addison",
+          "playerHref": "/players/a/addisra01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -8759.7,
+            "vorp": -1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -8759.7,
+        "vorp": -1
+      },
+      "runningValues": {
+        "bpm": 51360.399999999994,
+        "vorp": 19.1
+      }
+    },
+    {
+      "id": "reedwi01x-16",
+      "sourceId": 16,
+      "date": "1991-10-07",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Dave Feitl",
+      "participants": [
+        {
+          "name": "Dave Feitl",
+          "playerHref": "/players/f/feitlda01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 51360.399999999994,
+        "vorp": 19.1
+      }
+    },
+    {
+      "id": "reedwi01x-17",
+      "sourceId": 17,
+      "date": "1991-11-13",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Dave Feitl",
+      "participants": [
+        {
+          "name": "Dave Feitl",
+          "playerHref": "/players/f/feitlda01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -1225,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1225,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": 50135.399999999994,
+        "vorp": 18.900000000000002
+      }
+    },
+    {
+      "id": "reedwi01x-19",
+      "sourceId": 19,
+      "date": "1992-06-24",
+      "type": "draft",
+      "tenureTeam": "BRK",
+      "summary": "Drafted P.J. Brown and Steve Rogers",
+      "participants": [
+        {
+          "name": "P.J. Brown",
+          "playerHref": "/players/b/brownpj01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -2509,
+            "vorp": 3.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Rogers",
+          "playerHref": "/players/r/rogerst01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2509,
+        "vorp": 3.1
+      },
+      "runningValues": {
+        "bpm": 47626.399999999994,
+        "vorp": 22.000000000000004
+      }
+    },
+    {
+      "id": "reedwi01x-20",
+      "sourceId": 20,
+      "date": "1992-07-01",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Doug Lee",
+      "participants": [
+        {
+          "name": "Doug Lee",
+          "playerHref": "/players/l/leedo01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 47626.399999999994,
+        "vorp": 22.000000000000004
+      }
+    },
+    {
+      "id": "reedwi01x-21",
+      "sourceId": 21,
+      "date": "1992-07-30",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Dan O'Sullivan",
+      "participants": [
+        {
+          "name": "Dan O'Sullivan",
+          "playerHref": "/players/o/osullda01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 47618.399999999994,
+        "vorp": 22.000000000000004
+      }
+    },
+    {
+      "id": "reedwi01x-22",
+      "sourceId": 22,
+      "date": "1992-10-01",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Dwayne Schintzius",
+      "participants": [
+        {
+          "name": "Dwayne Schintzius",
+          "playerHref": "/players/s/schindw01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -3559.5,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3559.5,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": 44058.899999999994,
+        "vorp": 21.500000000000004
+      }
+    },
+    {
+      "id": "reedwi01x-23",
+      "sourceId": 23,
+      "date": "1992-10-07",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Melvin Newbern",
+      "participants": [
+        {
+          "name": "Melvin Newbern",
+          "playerHref": "/players/n/newbeme01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 44058.899999999994,
+        "vorp": 21.500000000000004
+      }
+    },
+    {
+      "id": "reedwi01x-24",
+      "sourceId": 24,
+      "date": "1992-10-07",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Chucky Brown",
+      "participants": [
+        {
+          "name": "Chucky Brown",
+          "playerHref": "/players/b/brownch01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -2490.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2490.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 41568.299999999996,
+        "vorp": 21.500000000000004
+      }
+    },
+    {
+      "id": "reedwi01x-25",
+      "sourceId": 25,
+      "date": "1992-10-08",
+      "type": "trade",
+      "tenureTeam": "BRK",
+      "summary": "Added Jayson Williams; Sent out William Njoku and Kebu Stewart",
+      "participants": [
+        {
+          "name": "William Njoku",
+          "playerHref": "/players/n/njokuwi01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kebu Stewart",
+          "playerHref": "/players/s/stewake01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 154,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jayson Williams",
+          "playerHref": "/players/w/willija01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -18616.1,
+            "vorp": -0.3000000000000001
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -18462.1,
+        "vorp": -0.3000000000000001
+      },
+      "runningValues": {
+        "bpm": 23106.199999999997,
+        "vorp": 21.200000000000003
+      }
+    },
+    {
+      "id": "reedwi01x-26",
+      "sourceId": 26,
+      "date": "1992-11-03",
+      "type": "trade",
+      "tenureTeam": "BRK",
+      "summary": "Added Rumeal Robinson; Sent out Mookie Blaylock and Roy Hinson",
+      "participants": [
+        {
+          "name": "Mookie Blaylock",
+          "playerHref": "/players/b/blaylmo01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": -90960.8,
+            "vorp": -32.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Roy Hinson",
+          "playerHref": "/players/h/hinsoro01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rumeal Robinson",
+          "playerHref": "/players/r/robinru01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -3021.8,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -93982.6,
+        "vorp": -32.3
+      },
+      "runningValues": {
+        "bpm": -70876.40000000001,
+        "vorp": -11.099999999999998
+      }
+    },
+    {
+      "id": "reedwi01x-27",
+      "sourceId": 27,
+      "date": "1992-11-09",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Rick Mahorn",
+      "participants": [
+        {
+          "name": "Rick Mahorn",
+          "playerHref": "/players/m/mahorri01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -8730.4,
+            "vorp": -1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -8730.4,
+        "vorp": -1
+      },
+      "runningValues": {
+        "bpm": -79606.8,
+        "vorp": -12.099999999999998
+      }
+    },
+    {
+      "id": "reedwi01x-28",
+      "sourceId": 28,
+      "date": "1993-01-07",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Maurice Cheeks",
+      "participants": [
+        {
+          "name": "Maurice Cheeks",
+          "playerHref": "/players/c/cheekma01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 510,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 510,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": -79096.8,
+        "vorp": -11.699999999999998
+      }
+    },
+    {
+      "id": "reedwi01x-29",
+      "sourceId": 29,
+      "date": "1993-02-06",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Bernard King",
+      "participants": [
+        {
+          "name": "Bernard King",
+          "playerHref": "/players/k/kingbe01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -430,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -430,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -79526.8,
+        "vorp": -11.599999999999998
+      }
+    },
+    {
+      "id": "reedwi01x-30",
+      "sourceId": 30,
+      "date": "1993-03-30",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Doug Lee",
+      "participants": [
+        {
+          "name": "Doug Lee",
+          "playerHref": "/players/l/leedo01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -290.40000000000003,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -290.40000000000003,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -79817.2,
+        "vorp": -11.699999999999998
+      }
+    },
+    {
+      "id": "reedwi01x-31",
+      "sourceId": 31,
+      "date": "1993-04-09",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Dave Hoppen",
+      "participants": [
+        {
+          "name": "Dave Hoppen",
+          "playerHref": "/players/h/hoppeda01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -58,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -58,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -79875.2,
+        "vorp": -11.699999999999998
+      }
+    },
+    {
+      "id": "reedwi01x-32",
+      "sourceId": 32,
+      "date": "1993-06-21",
+      "type": "trade",
+      "tenureTeam": "BRK",
+      "summary": "Added Benoit Benjamin; Sent out Sam Bowie and Toby Bailey",
+      "participants": [
+        {
+          "name": "Sam Bowie",
+          "playerHref": "/players/b/bowiesa01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 3940.8,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Toby Bailey",
+          "playerHref": "/players/b/baileto01.html",
+          "direction": "out",
+          "teamCode": "LAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Benoit Benjamin",
+          "playerHref": "/players/b/benjabe01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -8108.4,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4167.599999999999,
+        "vorp": -0.19999999999999998
+      },
+      "runningValues": {
+        "bpm": -84042.79999999999,
+        "vorp": -11.899999999999999
+      }
+    },
+    {
+      "id": "reedwi01x-33",
+      "sourceId": 33,
+      "date": "1993-06-30",
+      "type": "trade",
+      "tenureTeam": "BRK",
+      "summary": "Added John Best",
+      "participants": [
+        {
+          "name": "John Best",
+          "playerHref": "/players/b/bestjo01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -84042.79999999999,
+        "vorp": -11.899999999999999
+      }
+    },
+    {
+      "id": "reedwi01x-34",
+      "sourceId": 34,
+      "date": "1993-06-30",
+      "type": "draft",
+      "tenureTeam": "BRK",
+      "summary": "Drafted Rex Walters and John Best",
+      "participants": [
+        {
+          "name": "Rex Walters",
+          "playerHref": "/players/w/waltere01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -4041.399999999999,
+            "vorp": -0.09999999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "John Best",
+          "playerHref": "/players/b/bestjo01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4041.399999999999,
+        "vorp": -0.09999999999999998
+      },
+      "runningValues": {
+        "bpm": -88084.19999999998,
+        "vorp": -11.999999999999998
+      }
+    },
+    {
+      "id": "reedwi01x-35",
+      "sourceId": 35,
+      "date": "1993-07-08",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Kevin Edwards",
+      "participants": [
+        {
+          "name": "Kevin Edwards",
+          "playerHref": "/players/e/edwarke01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -6535.4,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6535.4,
+        "vorp": 0.8
+      },
+      "runningValues": {
+        "bpm": -94619.59999999998,
+        "vorp": -11.199999999999998
+      }
+    },
+    {
+      "id": "reedwi01x-36",
+      "sourceId": 36,
+      "date": "1993-07-27",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed David Wesley",
+      "participants": [
+        {
+          "name": "David Wesley",
+          "playerHref": "/players/w/wesleda01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -487.8,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -487.8,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -95107.39999999998,
+        "vorp": -10.999999999999998
+      }
+    },
+    {
+      "id": "reedwi01x-37",
+      "sourceId": 37,
+      "date": "1993-08-11",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Armen Gilliam",
+      "participants": [
+        {
+          "name": "Armen Gilliam",
+          "playerHref": "/players/g/gilliar01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 5698.599999999999,
+            "vorp": 5.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5698.599999999999,
+        "vorp": 5.1
+      },
+      "runningValues": {
+        "bpm": -89408.79999999997,
+        "vorp": -5.899999999999999
+      }
+    },
+    {
+      "id": "reedwi01x-38",
+      "sourceId": 38,
+      "date": "1993-11-11",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Ron Anderson",
+      "participants": [
+        {
+          "name": "Ron Anderson",
+          "playerHref": "/players/a/anderro01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -334.4,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -334.4,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -89743.19999999997,
+        "vorp": -5.899999999999999
+      }
+    },
+    {
+      "id": "reedwi01x-39",
+      "sourceId": 39,
+      "date": "1993-12-10",
+      "type": "trade",
+      "tenureTeam": "BRK",
+      "summary": "Added Johnny Newman; Sent out Rumeal Robinson",
+      "participants": [
+        {
+          "name": "Rumeal Robinson",
+          "playerHref": "/players/r/robinru01.html",
+          "direction": "out",
+          "teamCode": "CHH",
+          "values": {
+            "bpm": 1140,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Johnny Newman",
+          "playerHref": "/players/n/newmajo01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -9935,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -8795,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": -98538.19999999997,
+        "vorp": -5.499999999999998
+      }
+    },
+    {
+      "id": "reedwi01x-40",
+      "sourceId": 40,
+      "date": "1994-03-24",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Dave Jamerson",
+      "participants": [
+        {
+          "name": "Dave Jamerson",
+          "playerHref": "/players/j/jamerda01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -247,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -247,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -98785.19999999997,
+        "vorp": -5.599999999999998
+      }
+    },
+    {
+      "id": "reedwi01x-41",
+      "sourceId": 41,
+      "date": "1994-06-20",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Sean Higgins",
+      "participants": [
+        {
+          "name": "Sean Higgins",
+          "playerHref": "/players/h/higgise01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -4777.5,
+            "vorp": -0.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4777.5,
+        "vorp": -0.8
+      },
+      "runningValues": {
+        "bpm": -103562.69999999997,
+        "vorp": -6.399999999999998
+      }
+    },
+    {
+      "id": "reedwi01x-43",
+      "sourceId": 43,
+      "date": "1994-06-29",
+      "type": "draft",
+      "tenureTeam": "BRK",
+      "summary": "Drafted Yinka Dare",
+      "participants": [
+        {
+          "name": "Yinka Dare",
+          "playerHref": "/players/d/dareyi01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -8367.5,
+            "vorp": -1.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -8367.5,
+        "vorp": -1.5
+      },
+      "runningValues": {
+        "bpm": -111930.19999999997,
+        "vorp": -7.899999999999998
+      }
+    },
+    {
+      "id": "reedwi01x-44",
+      "sourceId": 44,
+      "date": "1994-07-29",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Chris Childs",
+      "participants": [
+        {
+          "name": "Chris Childs",
+          "playerHref": "/players/c/childch01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 1362.8,
+            "vorp": 2.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1362.8,
+        "vorp": 2.1
+      },
+      "runningValues": {
+        "bpm": -110567.39999999997,
+        "vorp": -5.799999999999997
+      }
+    },
+    {
+      "id": "reedwi01x-45",
+      "sourceId": 45,
+      "date": "1994-09-01",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Ryan Lorthridge",
+      "participants": [
+        {
+          "name": "Ryan Lorthridge",
+          "playerHref": "/players/l/lorthry01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -110567.39999999997,
+        "vorp": -5.799999999999997
+      }
+    },
+    {
+      "id": "reedwi01x-46",
+      "sourceId": 46,
+      "date": "1994-10-06",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Sleepy Floyd",
+      "participants": [
+        {
+          "name": "Sleepy Floyd",
+          "playerHref": "/players/f/floydsl01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -5152.2,
+            "vorp": -0.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5152.2,
+        "vorp": -0.9
+      },
+      "runningValues": {
+        "bpm": -115719.59999999996,
+        "vorp": -6.6999999999999975
+      }
+    },
+    {
+      "id": "reedwi01x-47",
+      "sourceId": 47,
+      "date": "1995-06-28",
+      "type": "draft",
+      "tenureTeam": "BRK",
+      "summary": "Drafted Ed O'Bannon",
+      "participants": [
+        {
+          "name": "Ed O'Bannon",
+          "playerHref": "/players/o/obanned01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -5656.5,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5656.5,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -121376.09999999996,
+        "vorp": -7.1999999999999975
+      }
+    },
+    {
+      "id": "reedwi01x-48",
+      "sourceId": 48,
+      "date": "1995-10-06",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Robert Werdann",
+      "participants": [
+        {
+          "name": "Robert Werdann",
+          "playerHref": "/players/w/werdaro01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -455.69999999999993,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -455.69999999999993,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -121831.79999999996,
+        "vorp": -7.1999999999999975
+      }
+    },
+    {
+      "id": "reedwi01x-49",
+      "sourceId": 49,
+      "date": "1995-10-09",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Vern Fleming",
+      "participants": [
+        {
+          "name": "Vern Fleming",
+          "playerHref": "/players/f/flemive01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -5066.3,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5066.3,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -126898.09999999996,
+        "vorp": -7.599999999999998
+      }
+    },
+    {
+      "id": "reedwi01x-50",
+      "sourceId": 50,
+      "date": "1995-10-09",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Gerald Madkins",
+      "participants": [
+        {
+          "name": "Gerald Madkins",
+          "playerHref": "/players/m/madkige01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -126898.09999999996,
+        "vorp": -7.599999999999998
+      }
+    },
+    {
+      "id": "reedwi01x-51",
+      "sourceId": 51,
+      "date": "1995-10-13",
+      "type": "signing",
+      "tenureTeam": "BRK",
+      "summary": "Signed Gerald Glass",
+      "participants": [
+        {
+          "name": "Gerald Glass",
+          "playerHref": "/players/g/glassge01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -22.400000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -22.400000000000002,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -126920.49999999996,
+        "vorp": -7.599999999999998
+      }
+    },
+    {
+      "id": "reedwi01x-52",
+      "sourceId": 52,
+      "date": "1995-11-30",
+      "type": "trade",
+      "tenureTeam": "BRK",
+      "summary": "Added Shawn Bradley, Greg Graham, and Tim Perry; Sent out Derrick Coleman, Sean Higgins, and Rex Walters",
+      "participants": [
+        {
+          "name": "Derrick Coleman",
+          "playerHref": "/players/c/colemde01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -2337.7999999999993,
+            "vorp": -5.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sean Higgins",
+          "playerHref": "/players/h/higgise01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 3206,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rex Walters",
+          "playerHref": "/players/w/waltere01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 2178.6,
+            "vorp": -0.19999999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Shawn Bradley",
+          "playerHref": "/players/b/bradlsh01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -2931.3,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Greg Graham",
+          "playerHref": "/players/g/grahagr01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -1261,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tim Perry",
+          "playerHref": "/players/p/perryti01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 16.7,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1128.7999999999995,
+        "vorp": -4.2
+      },
+      "runningValues": {
+        "bpm": -128049.29999999996,
+        "vorp": -11.799999999999995
+      }
+    },
+    {
+      "id": "reedwi01x-53",
+      "sourceId": 53,
+      "date": "1996-01-19",
+      "type": "trade",
+      "tenureTeam": "BRK",
+      "summary": "Added Kendall Gill and Khalid Reeves; Sent out Kenny Anderson and Gerald Glass",
+      "participants": [
+        {
+          "name": "Kenny Anderson",
+          "playerHref": "/players/a/anderke01.html",
+          "direction": "out",
+          "teamCode": "CHH",
+          "values": {
+            "bpm": -4426.8,
+            "vorp": -1.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Gerald Glass",
+          "playerHref": "/players/g/glassge01.html",
+          "direction": "out",
+          "teamCode": "CHH",
+          "values": {
+            "bpm": 112.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kendall Gill",
+          "playerHref": "/players/g/gillke01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 12327.3,
+            "vorp": 8.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Khalid Reeves",
+          "playerHref": "/players/r/reevekh01.html",
+          "direction": "in",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": -3793.3,
+            "vorp": -0.19999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4219.699999999999,
+        "vorp": 6.800000000000001
+      },
+      "runningValues": {
+        "bpm": -123829.59999999995,
+        "vorp": -4.999999999999996
+      }
+    }
+  ]
+}

@@ -1,0 +1,886 @@
+{
+  "slug": "collido01x",
+  "sourceRowCount": 46,
+  "tenures": [
+    {
+      "teamCode": "DET",
+      "startDate": "1995-06-28",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "collido01x-1",
+      "sourceId": 1,
+      "date": "1995-06-28",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Randolph Childress, Theo Ratliff, and Don Reid; Sent out Shawn Respert",
+      "participants": [
+        {
+          "name": "Shawn Respert",
+          "playerHref": "/players/r/respesh01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Randolph Childress",
+          "playerHref": "/players/c/childra01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Theo Ratliff",
+          "playerHref": "/players/r/ratlith01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Don Reid",
+          "playerHref": "/players/r/reiddo01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "collido01x-2",
+      "sourceId": 2,
+      "date": "1995-06-28",
+      "type": "draft",
+      "tenureTeam": "DET",
+      "summary": "Drafted Theo Ratliff, Randolph Childress, Lou Roe, and Don Reid",
+      "participants": [
+        {
+          "name": "Theo Ratliff",
+          "playerHref": "/players/r/ratlith01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -230.90000000000015,
+            "vorp": 1.7000000000000002
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Randolph Childress",
+          "playerHref": "/players/c/childra01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -291,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lou Roe",
+          "playerHref": "/players/r/roelo01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1116,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Don Reid",
+          "playerHref": "/players/r/reiddo01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -5295.1,
+            "vorp": 0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6933,
+        "vorp": 1.8
+      },
+      "runningValues": {
+        "bpm": -6933,
+        "vorp": 1.8
+      }
+    },
+    {
+      "id": "collido01x-3",
+      "sourceId": 3,
+      "date": "1995-09-20",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Otis Thorpe; Sent out Randolph Childress and Bill Curley",
+      "participants": [
+        {
+          "name": "Randolph Childress",
+          "playerHref": "/players/c/childra01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 1987.5,
+            "vorp": 0.30000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bill Curley",
+          "playerHref": "/players/c/curlebi01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Otis Thorpe",
+          "playerHref": "/players/t/thorpot01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -2733,
+            "vorp": 2.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -745.5,
+        "vorp": 2.4000000000000004
+      },
+      "runningValues": {
+        "bpm": -7678.5,
+        "vorp": 4.2
+      }
+    },
+    {
+      "id": "collido01x-4",
+      "sourceId": 4,
+      "date": "1995-10-05",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Steve Bardo",
+      "participants": [
+        {
+          "name": "Steve Bardo",
+          "playerHref": "/players/b/bardost01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -319.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -319.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -7998.3,
+        "vorp": 4.2
+      }
+    },
+    {
+      "id": "collido01x-5",
+      "sourceId": 5,
+      "date": "1996-01-31",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Michael Curry",
+      "participants": [
+        {
+          "name": "Michael Curry",
+          "playerHref": "/players/c/currymi01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -7998.3,
+        "vorp": 4.2
+      }
+    },
+    {
+      "id": "collido01x-6",
+      "sourceId": 6,
+      "date": "1996-02-22",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Michael Curry",
+      "participants": [
+        {
+          "name": "Michael Curry",
+          "playerHref": "/players/c/currymi01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1048.6000000000022,
+            "vorp": 0.10000000000000009
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1048.6000000000022,
+        "vorp": 0.10000000000000009
+      },
+      "runningValues": {
+        "bpm": -9046.900000000001,
+        "vorp": 4.300000000000001
+      }
+    },
+    {
+      "id": "collido01x-7",
+      "sourceId": 7,
+      "date": "1996-06-26",
+      "type": "draft",
+      "tenureTeam": "DET",
+      "summary": "Drafted Jerome Williams",
+      "participants": [
+        {
+          "name": "Jerome Williams",
+          "playerHref": "/players/w/willije01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 4467.7,
+            "vorp": 4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4467.7,
+        "vorp": 4
+      },
+      "runningValues": {
+        "bpm": -4579.200000000002,
+        "vorp": 8.3
+      }
+    },
+    {
+      "id": "collido01x-8",
+      "sourceId": 8,
+      "date": "1996-06-28",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Ron Riley; Sent out Eddie Elisma",
+      "participants": [
+        {
+          "name": "Eddie Elisma",
+          "playerHref": "/players/e/elismed01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ron Riley",
+          "playerHref": "/players/r/rileyro02.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -4579.200000000002,
+        "vorp": 8.3
+      }
+    },
+    {
+      "id": "collido01x-9",
+      "sourceId": 9,
+      "date": "1996-07-15",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Michael Curry",
+      "participants": [
+        {
+          "name": "Michael Curry",
+          "playerHref": "/players/c/currymi01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -26364.6,
+            "vorp": -2.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -26364.6,
+        "vorp": -2.7
+      },
+      "runningValues": {
+        "bpm": -30943.8,
+        "vorp": 5.6000000000000005
+      }
+    },
+    {
+      "id": "collido01x-10",
+      "sourceId": 10,
+      "date": "1996-07-15",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Stacey Augmon and Grant Long; Sent out Alain Digbeau, Cal Bowdler, Dion Glover, and Lari Ketner",
+      "participants": [
+        {
+          "name": "Alain Digbeau",
+          "playerHref": "/players/d/digbeal01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cal Bowdler",
+          "playerHref": "/players/b/bowdlca01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 4359.6,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dion Glover",
+          "playerHref": "/players/g/glovedi01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 10257.6,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lari Ketner",
+          "playerHref": "/players/k/ketnela01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Stacey Augmon",
+          "playerHref": "/players/a/augmost01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -934.4000000000001,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Grant Long",
+          "playerHref": "/players/l/longgr01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1512.5,
+            "vorp": 0.6000000000000001
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 12170.300000000001,
+        "vorp": 0.7000000000000001
+      },
+      "runningValues": {
+        "bpm": -18773.499999999996,
+        "vorp": 6.300000000000001
+      }
+    },
+    {
+      "id": "collido01x-11",
+      "sourceId": 11,
+      "date": "1996-08-05",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Rick Mahorn",
+      "participants": [
+        {
+          "name": "Rick Mahorn",
+          "playerHref": "/players/m/mahorri01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -4641.5,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4641.5,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": -23414.999999999996,
+        "vorp": 5.6000000000000005
+      }
+    },
+    {
+      "id": "collido01x-12",
+      "sourceId": 12,
+      "date": "1996-08-30",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Litterial Green",
+      "participants": [
+        {
+          "name": "Litterial Green",
+          "playerHref": "/players/g/greenli01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -93.3,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -93.3,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -23508.299999999996,
+        "vorp": 5.7
+      }
+    },
+    {
+      "id": "collido01x-13",
+      "sourceId": 13,
+      "date": "1996-09-17",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Kenny Smith",
+      "participants": [
+        {
+          "name": "Kenny Smith",
+          "playerHref": "/players/s/smithke01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 140.8,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 140.8,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -23367.499999999996,
+        "vorp": 5.8
+      }
+    },
+    {
+      "id": "collido01x-14",
+      "sourceId": 14,
+      "date": "1996-09-18",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Ben Handlogten",
+      "participants": [
+        {
+          "name": "Ben Handlogten",
+          "playerHref": "/players/h/handlbe01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -23367.499999999996,
+        "vorp": 5.8
+      }
+    },
+    {
+      "id": "collido01x-15",
+      "sourceId": 15,
+      "date": "1997-01-24",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Randolph Childress, Reggie Jordan, and Aaron McKie; Sent out Stacey Augmon",
+      "participants": [
+        {
+          "name": "Stacey Augmon",
+          "playerHref": "/players/a/augmost01.html",
+          "direction": "out",
+          "teamCode": "POR",
+          "values": {
+            "bpm": 47.29999999999981,
+            "vorp": -2.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Randolph Childress",
+          "playerHref": "/players/c/childra01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -291,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Reggie Jordan",
+          "playerHref": "/players/j/jordare01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Aaron McKie",
+          "playerHref": "/players/m/mckieaa01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 1133.4,
+            "vorp": 0.8999999999999999
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 889.6999999999999,
+        "vorp": -1.7000000000000002
+      },
+      "runningValues": {
+        "bpm": -22477.799999999996,
+        "vorp": 4.1
+      }
+    },
+    {
+      "id": "collido01x-16",
+      "sourceId": 16,
+      "date": "1997-06-25",
+      "type": "draft",
+      "tenureTeam": "DET",
+      "summary": "Drafted Scot Pollard and Charles O'Bannon",
+      "participants": [
+        {
+          "name": "Scot Pollard",
+          "playerHref": "/players/p/pollasc01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -602.3,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Charles O'Bannon",
+          "playerHref": "/players/o/obannch01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -821.4000000000001,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1423.7,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -23901.499999999996,
+        "vorp": 4.1
+      }
+    },
+    {
+      "id": "collido01x-17",
+      "sourceId": 17,
+      "date": "1997-08-07",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Darko Miličić; Sent out Otis Thorpe",
+      "participants": [
+        {
+          "name": "Otis Thorpe",
+          "playerHref": "/players/t/thorpot01.html",
+          "direction": "out",
+          "teamCode": "VAN",
+          "values": {
+            "bpm": 3777.6,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Darko Miličić",
+          "playerHref": "/players/m/milicda01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -4065,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -287.4000000000001,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": -24188.899999999998,
+        "vorp": 3.499999999999999
+      }
+    },
+    {
+      "id": "collido01x-18",
+      "sourceId": 18,
+      "date": "1997-08-16",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Bison Dele",
+      "participants": [
+        {
+          "name": "Bison Dele",
+          "playerHref": "/players/d/delebi01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -1177,
+            "vorp": 1.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1177,
+        "vorp": 1.6
+      },
+      "runningValues": {
+        "bpm": -25365.899999999998,
+        "vorp": 5.1
+      }
+    },
+    {
+      "id": "collido01x-19",
+      "sourceId": 19,
+      "date": "1997-10-25",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Malik Sealy",
+      "participants": [
+        {
+          "name": "Malik Sealy",
+          "playerHref": "/players/s/sealyma01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -984.5999999999999,
+            "vorp": 0.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -984.5999999999999,
+        "vorp": 0.6
+      },
+      "runningValues": {
+        "bpm": -26350.499999999996,
+        "vorp": 5.699999999999999
+      }
+    },
+    {
+      "id": "collido01x-20",
+      "sourceId": 20,
+      "date": "1997-12-18",
+      "type": "trade",
+      "tenureTeam": "DET",
+      "summary": "Added Eric Montross, Jerry Stackhouse, and Alex Acker; Sent out Aaron McKie, Theo Ratliff, and Carlos Delfino",
+      "participants": [
+        {
+          "name": "Aaron McKie",
+          "playerHref": "/players/m/mckieaa01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -11420.400000000001,
+            "vorp": -9.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Theo Ratliff",
+          "playerHref": "/players/r/ratlith01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -8785.1,
+            "vorp": -5.999999999999999
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Carlos Delfino",
+          "playerHref": "/players/d/delfica01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eric Montross",
+          "playerHref": "/players/m/montrer01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -9816.4,
+            "vorp": -1.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jerry Stackhouse",
+          "playerHref": "/players/s/stackje01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 23767.7,
+            "vorp": 12.100000000000001
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alex Acker",
+          "playerHref": "/players/a/ackeral01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -452.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6706.700000000001,
+        "vorp": -5.299999999999999
+      },
+      "runningValues": {
+        "bpm": -33057.2,
+        "vorp": 0.4000000000000018
+      }
+    },
+    {
+      "id": "collido01x-21",
+      "sourceId": 21,
+      "date": "1998-01-17",
+      "type": "signing",
+      "tenureTeam": "DET",
+      "summary": "Signed Steve Henson",
+      "participants": [
+        {
+          "name": "Steve Henson",
+          "playerHref": "/players/h/hensost01.html",
+          "direction": "in",
+          "teamCode": "DET",
+          "values": {
+            "bpm": -259,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -259,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -33316.2,
+        "vorp": 0.4000000000000018
+      }
+    }
+  ]
+}

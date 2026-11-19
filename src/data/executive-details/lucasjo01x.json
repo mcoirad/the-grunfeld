@@ -1,0 +1,1015 @@
+{
+  "slug": "lucasjo01x",
+  "sourceRowCount": 43,
+  "tenures": [
+    {
+      "teamCode": "PHI",
+      "startDate": "1994-06-29",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "lucasjo01x-0",
+      "sourceId": 0,
+      "date": "1994-06-29",
+      "type": "draft",
+      "tenureTeam": "PHI",
+      "summary": "Drafted Sharone Wright, B.J. Tyler, and Derrick Alston",
+      "participants": [
+        {
+          "name": "Sharone Wright",
+          "playerHref": "/players/w/wrighsh01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -12220.4,
+            "vorp": -1.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "B.J. Tyler",
+          "playerHref": "/players/t/tylerbj01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Derrick Alston",
+          "playerHref": "/players/a/alstode01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -7041,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -19261.4,
+        "vorp": -1.9
+      },
+      "runningValues": {
+        "bpm": -19261.4,
+        "vorp": -1.9
+      }
+    },
+    {
+      "id": "lucasjo01x-1",
+      "sourceId": 1,
+      "date": "1994-07-25",
+      "type": "trade",
+      "tenureTeam": "PHI",
+      "summary": "Added Jamie Feick; Sent out Eric Leckner",
+      "participants": [
+        {
+          "name": "Eric Leckner",
+          "playerHref": "/players/l/leckner01.html",
+          "direction": "out",
+          "teamCode": "DET",
+          "values": {
+            "bpm": 4357.1,
+            "vorp": 0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jamie Feick",
+          "playerHref": "/players/f/feickja01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4357.1,
+        "vorp": 0.7
+      },
+      "runningValues": {
+        "bpm": -14904.300000000001,
+        "vorp": -1.2
+      }
+    },
+    {
+      "id": "lucasjo01x-2",
+      "sourceId": 2,
+      "date": "1994-07-28",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Scott Williams",
+      "participants": [
+        {
+          "name": "Scott Williams",
+          "playerHref": "/players/w/willisc01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -10817.800000000001,
+            "vorp": -0.6000000000000001
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -10817.800000000001,
+        "vorp": -0.6000000000000001
+      },
+      "runningValues": {
+        "bpm": -25722.100000000002,
+        "vorp": -1.8
+      }
+    },
+    {
+      "id": "lucasjo01x-3",
+      "sourceId": 3,
+      "date": "1994-10-05",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Tate George",
+      "participants": [
+        {
+          "name": "Tate George",
+          "playerHref": "/players/g/georgta01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -25722.100000000002,
+        "vorp": -1.8
+      }
+    },
+    {
+      "id": "lucasjo01x-4",
+      "sourceId": 4,
+      "date": "1994-10-05",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Rookie contract for B.J. Tyler",
+      "participants": [
+        {
+          "name": "B.J. Tyler",
+          "playerHref": "/players/t/tylerbj01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -4045,
+            "vorp": -0.6
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -4045,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": -29767.100000000002,
+        "vorp": -2.4
+      }
+    },
+    {
+      "id": "lucasjo01x-5",
+      "sourceId": 5,
+      "date": "1994-10-06",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Steve Bardo",
+      "participants": [
+        {
+          "name": "Steve Bardo",
+          "playerHref": "/players/b/bardost01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -29767.100000000002,
+        "vorp": -2.4
+      }
+    },
+    {
+      "id": "lucasjo01x-6",
+      "sourceId": 6,
+      "date": "1994-10-08",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Lloyd Daniels",
+      "participants": [
+        {
+          "name": "Lloyd Daniels",
+          "playerHref": "/players/d/daniell01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -611.0999999999999,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -611.0999999999999,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -30378.2,
+        "vorp": -2.5
+      }
+    },
+    {
+      "id": "lucasjo01x-7",
+      "sourceId": 7,
+      "date": "1994-11-08",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Willie Burton",
+      "participants": [
+        {
+          "name": "Willie Burton",
+          "playerHref": "/players/b/burtowi01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -1720.4,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1720.4,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": -32098.600000000002,
+        "vorp": -2.1
+      }
+    },
+    {
+      "id": "lucasjo01x-8",
+      "sourceId": 8,
+      "date": "1994-11-15",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Jaren Jackson",
+      "participants": [
+        {
+          "name": "Jaren Jackson",
+          "playerHref": "/players/j/jacksja01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -822.4000000000001,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -822.4000000000001,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -32921,
+        "vorp": -2.2
+      }
+    },
+    {
+      "id": "lucasjo01x-9",
+      "sourceId": 9,
+      "date": "1995-01-05",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Jeff Grayer",
+      "participants": [
+        {
+          "name": "Jeff Grayer",
+          "playerHref": "/players/g/grayeje01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -4282.2,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4282.2,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -37203.2,
+        "vorp": -2.7
+      }
+    },
+    {
+      "id": "lucasjo01x-10",
+      "sourceId": 10,
+      "date": "1995-02-15",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Kevin Pritchard",
+      "participants": [
+        {
+          "name": "Kevin Pritchard",
+          "playerHref": "/players/p/pritcke01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -511.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -511.2,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -37714.399999999994,
+        "vorp": -2.8000000000000003
+      }
+    },
+    {
+      "id": "lucasjo01x-11",
+      "sourceId": 11,
+      "date": "1995-02-17",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Jerome Harmon",
+      "participants": [
+        {
+          "name": "Jerome Harmon",
+          "playerHref": "/players/h/harmoje01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -505.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -505.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -38219.99999999999,
+        "vorp": -2.8000000000000003
+      }
+    },
+    {
+      "id": "lucasjo01x-12",
+      "sourceId": 12,
+      "date": "1995-03-24",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Alaa Abdelnaby",
+      "participants": [
+        {
+          "name": "Alaa Abdelnaby",
+          "playerHref": "/players/a/abdelal01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -741,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -741,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -38960.99999999999,
+        "vorp": -3.0000000000000004
+      }
+    },
+    {
+      "id": "lucasjo01x-13",
+      "sourceId": 13,
+      "date": "1995-03-27",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Alphonso Ford",
+      "participants": [
+        {
+          "name": "Alphonso Ford",
+          "playerHref": "/players/f/fordal01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -1068.2,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1068.2,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -40029.19999999999,
+        "vorp": -3.2000000000000006
+      }
+    },
+    {
+      "id": "lucasjo01x-14",
+      "sourceId": 14,
+      "date": "1995-04-04",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Corey Gaines",
+      "participants": [
+        {
+          "name": "Corey Gaines",
+          "playerHref": "/players/g/gaineco01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -1148,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1148,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -41177.19999999999,
+        "vorp": -3.3000000000000007
+      }
+    },
+    {
+      "id": "lucasjo01x-15",
+      "sourceId": 15,
+      "date": "1995-06-28",
+      "type": "draft",
+      "tenureTeam": "PHI",
+      "summary": "Drafted Jerry Stackhouse",
+      "participants": [
+        {
+          "name": "Jerry Stackhouse",
+          "playerHref": "/players/s/stackje01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -9890.6,
+            "vorp": 0.7999999999999999
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -9890.6,
+        "vorp": 0.7999999999999999
+      },
+      "runningValues": {
+        "bpm": -51067.79999999999,
+        "vorp": -2.500000000000001
+      }
+    },
+    {
+      "id": "lucasjo01x-16",
+      "sourceId": 16,
+      "date": "1995-09-21",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Richard Dumas",
+      "participants": [
+        {
+          "name": "Richard Dumas",
+          "playerHref": "/players/d/dumasri02.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -2143.1,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2143.1,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -53210.89999999999,
+        "vorp": -2.700000000000001
+      }
+    },
+    {
+      "id": "lucasjo01x-17",
+      "sourceId": 17,
+      "date": "1995-09-26",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Vernon Maxwell",
+      "participants": [
+        {
+          "name": "Vernon Maxwell",
+          "playerHref": "/players/m/maxweve01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -4868.9,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4868.9,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -58079.79999999999,
+        "vorp": -2.500000000000001
+      }
+    },
+    {
+      "id": "lucasjo01x-18",
+      "sourceId": 18,
+      "date": "1995-10-05",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Charles Smith",
+      "participants": [
+        {
+          "name": "Charles Smith",
+          "playerHref": "/players/s/smithch02.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -58079.79999999999,
+        "vorp": -2.500000000000001
+      }
+    },
+    {
+      "id": "lucasjo01x-19",
+      "sourceId": 19,
+      "date": "1995-10-05",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Elmer Bennett",
+      "participants": [
+        {
+          "name": "Elmer Bennett",
+          "playerHref": "/players/b/benneel01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -739.1999999999999,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -739.1999999999999,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -58818.999999999985,
+        "vorp": -2.700000000000001
+      }
+    },
+    {
+      "id": "lucasjo01x-20",
+      "sourceId": 20,
+      "date": "1995-11-21",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Greg Grant",
+      "participants": [
+        {
+          "name": "Greg Grant",
+          "playerHref": "/players/g/grantgr01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -1064,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1064,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -59882.999999999985,
+        "vorp": -2.800000000000001
+      }
+    },
+    {
+      "id": "lucasjo01x-21",
+      "sourceId": 21,
+      "date": "1995-11-30",
+      "type": "trade",
+      "tenureTeam": "PHI",
+      "summary": "Added Derrick Coleman, Sean Higgins, and Rex Walters; Sent out Shawn Bradley, Greg Graham, and Tim Perry",
+      "participants": [
+        {
+          "name": "Shawn Bradley",
+          "playerHref": "/players/b/bradlsh01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 2931.3,
+            "vorp": -0.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Greg Graham",
+          "playerHref": "/players/g/grahagr01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": 1261,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tim Perry",
+          "playerHref": "/players/p/perryti01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": -16.7,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Derrick Coleman",
+          "playerHref": "/players/c/colemde01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 2337.7999999999993,
+            "vorp": 5.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sean Higgins",
+          "playerHref": "/players/h/higgise01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -3206,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rex Walters",
+          "playerHref": "/players/w/waltere01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -2178.6,
+            "vorp": 0.19999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1128.7999999999997,
+        "vorp": 4.2
+      },
+      "runningValues": {
+        "bpm": -58754.199999999975,
+        "vorp": 1.3999999999999988
+      }
+    },
+    {
+      "id": "lucasjo01x-22",
+      "sourceId": 22,
+      "date": "1995-12-03",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Trevor Ruffin",
+      "participants": [
+        {
+          "name": "Trevor Ruffin",
+          "playerHref": "/players/r/ruffitr01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -3102,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3102,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -61856.199999999975,
+        "vorp": 1.3999999999999988
+      }
+    },
+    {
+      "id": "lucasjo01x-23",
+      "sourceId": 23,
+      "date": "1995-12-07",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Trevor Wilson",
+      "participants": [
+        {
+          "name": "Trevor Wilson",
+          "playerHref": "/players/w/wilsotr01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -61856.199999999975,
+        "vorp": 1.3999999999999988
+      }
+    },
+    {
+      "id": "lucasjo01x-24",
+      "sourceId": 24,
+      "date": "1995-12-12",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Mike Brown",
+      "participants": [
+        {
+          "name": "Mike Brown",
+          "playerHref": "/players/b/brownmi01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -988.1999999999999,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -988.1999999999999,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -62844.39999999997,
+        "vorp": 1.1999999999999988
+      }
+    },
+    {
+      "id": "lucasjo01x-25",
+      "sourceId": 25,
+      "date": "1995-12-12",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Scott Skiles",
+      "participants": [
+        {
+          "name": "Scott Skiles",
+          "playerHref": "/players/s/skilesc01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -991.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -991.2,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -63835.59999999997,
+        "vorp": 1.0999999999999988
+      }
+    },
+    {
+      "id": "lucasjo01x-26",
+      "sourceId": 26,
+      "date": "1996-01-10",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Greg Sutton",
+      "participants": [
+        {
+          "name": "Greg Sutton",
+          "playerHref": "/players/s/suttogr01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -63835.59999999997,
+        "vorp": 1.0999999999999988
+      }
+    },
+    {
+      "id": "lucasjo01x-27",
+      "sourceId": 27,
+      "date": "1996-01-11",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed LaSalle Thompson",
+      "participants": [
+        {
+          "name": "LaSalle Thompson",
+          "playerHref": "/players/t/thompla01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -4483.4,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4483.4,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": -68318.99999999997,
+        "vorp": 0.3999999999999988
+      }
+    },
+    {
+      "id": "lucasjo01x-28",
+      "sourceId": 28,
+      "date": "1996-01-30",
+      "type": "signing",
+      "tenureTeam": "PHI",
+      "summary": "Signed Greg Sutton",
+      "participants": [
+        {
+          "name": "Greg Sutton",
+          "playerHref": "/players/s/suttogr01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -1767,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1767,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -70085.99999999997,
+        "vorp": 0.1999999999999988
+      }
+    },
+    {
+      "id": "lucasjo01x-29",
+      "sourceId": 29,
+      "date": "1996-02-22",
+      "type": "trade",
+      "tenureTeam": "PHI",
+      "summary": "Added Tony Massenburg, Ed Pinckney, Ryan Minor, and James Collins; Sent out Sharone Wright",
+      "participants": [
+        {
+          "name": "Sharone Wright",
+          "playerHref": "/players/w/wrighsh01.html",
+          "direction": "out",
+          "teamCode": "TOR",
+          "values": {
+            "bpm": 9445,
+            "vorp": 1.8000000000000003
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tony Massenburg",
+          "playerHref": "/players/m/masseto01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -3457.2,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ed Pinckney",
+          "playerHref": "/players/p/pincked01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": -543.2,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ryan Minor",
+          "playerHref": "/players/m/minorry01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "James Collins",
+          "playerHref": "/players/c/collija01.html",
+          "direction": "in",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5444.6,
+        "vorp": 1.5000000000000002
+      },
+      "runningValues": {
+        "bpm": -64641.399999999965,
+        "vorp": 1.699999999999999
+      }
+    }
+  ]
+}

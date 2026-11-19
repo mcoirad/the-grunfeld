@@ -1,0 +1,300 @@
+{
+  "slug": "delnevi01x",
+  "sourceRowCount": 14,
+  "tenures": [
+    {
+      "teamCode": "LAC",
+      "startDate": "2012-06-28",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "delnevi01x-0",
+      "sourceId": 0,
+      "date": "2012-06-28",
+      "type": "draft",
+      "tenureTeam": "LAC",
+      "summary": "Drafted Furkan Aldemir",
+      "participants": [
+        {
+          "name": "Furkan Aldemir",
+          "playerHref": "/players/a/aldemfu01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "delnevi01x-1",
+      "sourceId": 1,
+      "date": "2012-06-29",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Lamar Odom; Sent out Mo Williams and Furkan Aldemir",
+      "participants": [
+        {
+          "name": "Mo Williams",
+          "playerHref": "/players/w/willima01.html",
+          "direction": "out",
+          "teamCode": "UTA",
+          "values": {
+            "bpm": 1276.2,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Furkan Aldemir",
+          "playerHref": "/players/a/aldemfu01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lamar Odom",
+          "playerHref": "/players/o/odomla01.html",
+          "direction": "in",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1276.2,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": 1276.2,
+        "vorp": -0.4
+      }
+    },
+    {
+      "id": "delnevi01x-2",
+      "sourceId": 2,
+      "date": "2012-07-11",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Jamal Crawford",
+      "participants": [
+        {
+          "name": "Jamal Crawford",
+          "playerHref": "/players/c/crawfja01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -744,
+            "vorp": 5.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -744,
+        "vorp": 5.1
+      },
+      "runningValues": {
+        "bpm": 532.2,
+        "vorp": 4.699999999999999
+      }
+    },
+    {
+      "id": "delnevi01x-3",
+      "sourceId": 3,
+      "date": "2012-07-11",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Cheick Diallo; Sent out Reggie Evans and Marcus Paige",
+      "participants": [
+        {
+          "name": "Reggie Evans",
+          "playerHref": "/players/e/evansre01.html",
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 5777.799999999999,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Marcus Paige",
+          "playerHref": "/players/p/paigema01.html",
+          "direction": "out",
+          "teamCode": "BRK",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Cheick Diallo",
+          "playerHref": "/players/d/diallch01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5777.799999999999,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 6309.999999999999,
+        "vorp": 4.8999999999999995
+      }
+    },
+    {
+      "id": "delnevi01x-4",
+      "sourceId": 4,
+      "date": "2012-07-18",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Grant Hill",
+      "participants": [
+        {
+          "name": "Grant Hill",
+          "playerHref": "/players/h/hillgr01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -2403.5,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2403.5,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": 3906.499999999999,
+        "vorp": 4.499999999999999
+      }
+    },
+    {
+      "id": "delnevi01x-5",
+      "sourceId": 5,
+      "date": "2012-07-19",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Ryan Hollins",
+      "participants": [
+        {
+          "name": "Ryan Hollins",
+          "playerHref": "/players/h/holliry01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -3435.2,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3435.2,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": 471.2999999999993,
+        "vorp": 4.199999999999999
+      }
+    },
+    {
+      "id": "delnevi01x-6",
+      "sourceId": 6,
+      "date": "2012-07-27",
+      "type": "signing",
+      "tenureTeam": "LAC",
+      "summary": "Signed Ronny Turiaf",
+      "participants": [
+        {
+          "name": "Ronny Turiaf",
+          "playerHref": "/players/t/turiaro01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -1121.6000000000001,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1121.6000000000001,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -650.3000000000009,
+        "vorp": 4.299999999999999
+      }
+    },
+    {
+      "id": "delnevi01x-7",
+      "sourceId": 7,
+      "date": "2012-07-30",
+      "type": "trade",
+      "tenureTeam": "LAC",
+      "summary": "Added Willie Green; Sent out Sofoklis Schortsanitis",
+      "participants": [
+        {
+          "name": "Sofoklis Schortsanitis",
+          "playerHref": "/players/s/schorso01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Willie Green",
+          "playerHref": "/players/g/greenwi01.html",
+          "direction": "in",
+          "teamCode": "LAC",
+          "values": {
+            "bpm": -3731.2000000000003,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -3731.2000000000003,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -4381.500000000001,
+        "vorp": 4.299999999999999
+      }
+    }
+  ]
+}

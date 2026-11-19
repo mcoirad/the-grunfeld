@@ -188,6 +188,9 @@ export function RankingsExplorer({ executives, basePath }: RankingsExplorerProps
             basePath={basePath}
             expanded={state.detail === "deep" || expanded.has(executive.slug)}
             onToggle={() => toggleCard(executive.slug)}
+            profileHref={`${basePath}executives/${executive.slug}/${
+              state.metric === "vorp" ? "?metric=vorp" : ""
+            }`}
             key={executive.slug}
           />
         ))}

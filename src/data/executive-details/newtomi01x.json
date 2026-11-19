@@ -1,0 +1,71 @@
+{
+  "slug": "newtomi01x",
+  "sourceRowCount": 3,
+  "tenures": [
+    {
+      "teamCode": "MIN",
+      "startDate": "2016-03-02",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "newtomi01x-0",
+      "sourceId": 0,
+      "date": "2016-03-02",
+      "type": "signing",
+      "tenureTeam": "MIN",
+      "summary": "Signed Greg Smith",
+      "participants": [
+        {
+          "name": "Greg Smith",
+          "playerHref": "/players/s/smithgr02.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "newtomi01x-1",
+      "sourceId": 1,
+      "date": "2016-03-22",
+      "type": "signing",
+      "tenureTeam": "MIN",
+      "summary": "Signed Greg Smith",
+      "participants": [
+        {
+          "name": "Greg Smith",
+          "playerHref": "/players/s/smithgr02.html",
+          "direction": "in",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": -1036.8000000000002,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1036.8000000000002,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -1036.8000000000002,
+        "vorp": -0.2
+      }
+    }
+  ]
+}

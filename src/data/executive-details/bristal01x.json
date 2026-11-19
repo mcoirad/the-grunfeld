@@ -1,0 +1,2154 @@
+{
+  "slug": "bristal01x",
+  "sourceRowCount": 110,
+  "tenures": [
+    {
+      "teamCode": "CHA",
+      "startDate": "1990-06-27",
+      "endDate": "1997-02-20"
+    },
+    {
+      "teamCode": "DEN",
+      "startDate": "1997-02-20",
+      "endDate": "2004-06-24"
+    },
+    {
+      "teamCode": "NOP",
+      "startDate": "2004-06-24",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "bristal01x-0",
+      "sourceId": 0,
+      "date": "1990-06-27",
+      "type": "draft",
+      "tenureTeam": "CHA",
+      "summary": "Drafted Kendall Gill and Steve Scheffler",
+      "participants": [
+        {
+          "name": "Kendall Gill",
+          "playerHref": "/players/g/gillke01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Scheffler",
+          "playerHref": "/players/s/schefst01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "bristal01x-1",
+      "sourceId": 1,
+      "date": "1990-07-26",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Rookie contract for Steve Scheffler",
+      "participants": [
+        {
+          "name": "Steve Scheffler",
+          "playerHref": "/players/s/schefst01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "bristal01x-2",
+      "sourceId": 2,
+      "date": "1990-07-27",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Doug Roth",
+      "participants": [
+        {
+          "name": "Doug Roth",
+          "playerHref": "/players/r/rothdo01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "bristal01x-3",
+      "sourceId": 3,
+      "date": "1990-07-28",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Johnny Newman",
+      "participants": [
+        {
+          "name": "Johnny Newman",
+          "playerHref": "/players/n/newmajo01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "bristal01x-4",
+      "sourceId": 4,
+      "date": "1990-08-29",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Jim Les",
+      "participants": [
+        {
+          "name": "Jim Les",
+          "playerHref": "/players/l/lesji01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "bristal01x-5",
+      "sourceId": 5,
+      "date": "1990-10-01",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Mel McCants",
+      "participants": [
+        {
+          "name": "Mel McCants",
+          "playerHref": "/players/m/mccanme01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "bristal01x-6",
+      "sourceId": 6,
+      "date": "1991-01-04",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Mike Gminski; Sent out Armen Gilliam and Dave Hoppen",
+      "participants": [
+        {
+          "name": "Armen Gilliam",
+          "playerHref": "/players/g/gilliar01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 6738.199999999999,
+            "vorp": -1.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dave Hoppen",
+          "playerHref": "/players/h/hoppeda01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 673.6,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Gminski",
+          "playerHref": "/players/g/gminsmi01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 7411.799999999999,
+        "vorp": -1.3
+      },
+      "runningValues": {
+        "bpm": 7411.799999999999,
+        "vorp": -1.3
+      }
+    },
+    {
+      "id": "bristal01x-7",
+      "sourceId": 7,
+      "date": "1991-01-14",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Earl Cureton",
+      "participants": [
+        {
+          "name": "Earl Cureton",
+          "playerHref": "/players/c/curetea01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 7411.799999999999,
+        "vorp": -1.3
+      }
+    },
+    {
+      "id": "bristal01x-8",
+      "sourceId": 8,
+      "date": "1991-01-22",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Scott Haffner",
+      "participants": [
+        {
+          "name": "Scott Haffner",
+          "playerHref": "/players/h/haffnsc01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 7411.799999999999,
+        "vorp": -1.3
+      }
+    },
+    {
+      "id": "bristal01x-9",
+      "sourceId": 9,
+      "date": "1991-01-22",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Jeff Sanders",
+      "participants": [
+        {
+          "name": "Jeff Sanders",
+          "playerHref": "/players/s/sandeje01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 7411.799999999999,
+        "vorp": -1.3
+      }
+    },
+    {
+      "id": "bristal01x-10",
+      "sourceId": 10,
+      "date": "1991-01-29",
+      "type": "trade",
+      "tenureTeam": "CHA",
+      "summary": "Added Eric Leckner; Sent out Alex Holcombe and Dejan Bodiroga",
+      "participants": [
+        {
+          "name": "Alex Holcombe",
+          "playerHref": "/players/h/holcoal01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dejan Bodiroga",
+          "playerHref": "/players/b/bodirde01.html",
+          "direction": "out",
+          "teamCode": "SAC",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eric Leckner",
+          "playerHref": "/players/l/leckner01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 7411.799999999999,
+        "vorp": -1.3
+      }
+    },
+    {
+      "id": "bristal01x-11",
+      "sourceId": 11,
+      "date": "1991-02-11",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Scott Haffner",
+      "participants": [
+        {
+          "name": "Scott Haffner",
+          "playerHref": "/players/h/haffnsc01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 7411.799999999999,
+        "vorp": -1.3
+      }
+    },
+    {
+      "id": "bristal01x-12",
+      "sourceId": 12,
+      "date": "1997-02-20",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Vincent Askew, Eddie Johnson, Jason Lawson, and Tremaine Fowlkes; Sent out Mark Jackson and LaSalle Thompson",
+      "participants": [
+        {
+          "name": "Mark Jackson",
+          "playerHref": "/players/j/jacksma01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -20069.4,
+            "vorp": -8.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "LaSalle Thompson",
+          "playerHref": "/players/t/thompla01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 252,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Vincent Askew",
+          "playerHref": "/players/a/askewvi01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -137.70000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eddie Johnson",
+          "playerHref": "/players/j/johnsed03.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jason Lawson",
+          "playerHref": "/players/l/lawsoja01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tremaine Fowlkes",
+          "playerHref": "/players/f/fowlktr01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -19955.100000000002,
+        "vorp": -8.5
+      },
+      "runningValues": {
+        "bpm": -12543.300000000003,
+        "vorp": -9.8
+      }
+    },
+    {
+      "id": "bristal01x-13",
+      "sourceId": 13,
+      "date": "1997-02-20",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Anthony Goldwire and George Zídek; Sent out Ricky Pierce",
+      "participants": [
+        {
+          "name": "Ricky Pierce",
+          "playerHref": "/players/p/piercri01.html",
+          "direction": "out",
+          "teamCode": "CHH",
+          "values": {
+            "bpm": -520,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Anthony Goldwire",
+          "playerHref": "/players/g/goldwan01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -5732.599999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "George Zídek",
+          "playerHref": "/players/z/zidekge01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -476.8,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6729.4,
+        "vorp": -0.6
+      },
+      "runningValues": {
+        "bpm": -19272.7,
+        "vorp": -10.4
+      }
+    },
+    {
+      "id": "bristal01x-14",
+      "sourceId": 14,
+      "date": "1997-02-20",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Jerome Allen; Sent out Darvin Ham",
+      "participants": [
+        {
+          "name": "Darvin Ham",
+          "playerHref": "/players/h/hamda01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": -44.5,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jerome Allen",
+          "playerHref": "/players/a/allenje01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -878.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -923,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -20195.7,
+        "vorp": -10.5
+      }
+    },
+    {
+      "id": "bristal01x-15",
+      "sourceId": 15,
+      "date": "1997-04-06",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Jimmy King",
+      "participants": [
+        {
+          "name": "Jimmy King",
+          "playerHref": "/players/k/kingji02.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 46.2,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 46.2,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -20149.5,
+        "vorp": -10.5
+      }
+    },
+    {
+      "id": "bristal01x-18",
+      "sourceId": 18,
+      "date": "1997-06-25",
+      "type": "draft",
+      "tenureTeam": "DEN",
+      "summary": "Drafted Tony Battie, James Cotton, and Jason Lawson",
+      "participants": [
+        {
+          "name": "Tony Battie",
+          "playerHref": "/players/b/battito01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -5722.8,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "James Cotton",
+          "playerHref": "/players/c/cottoja02.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jason Lawson",
+          "playerHref": "/players/l/lawsoja01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5722.8,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": -25872.3,
+        "vorp": -11.2
+      }
+    },
+    {
+      "id": "bristal01x-19",
+      "sourceId": 19,
+      "date": "1997-06-25",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Danny Fortson, Johnny Newman, and Joe Wolf; Sent out Ervin Johnson",
+      "participants": [
+        {
+          "name": "Ervin Johnson",
+          "playerHref": "/players/j/johnser02.html",
+          "direction": "out",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 12314.599999999999,
+            "vorp": -2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Danny Fortson",
+          "playerHref": "/players/f/fortsda01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -11566.2,
+            "vorp": -1.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Johnny Newman",
+          "playerHref": "/players/n/newmajo01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -5440,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Joe Wolf",
+          "playerHref": "/players/w/wolfjo01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -4098.599999999999,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -8790.2,
+        "vorp": -4.3
+      },
+      "runningValues": {
+        "bpm": -34662.5,
+        "vorp": -15.5
+      }
+    },
+    {
+      "id": "bristal01x-20",
+      "sourceId": 20,
+      "date": "1997-06-25",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Bobby Jackson; Sent out James Cotton and Rashard Lewis",
+      "participants": [
+        {
+          "name": "James Cotton",
+          "playerHref": "/players/c/cottoja02.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": 600.9,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rashard Lewis",
+          "playerHref": "/players/l/lewisra02.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": -45194.100000000006,
+            "vorp": -21.900000000000002
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bobby Jackson",
+          "playerHref": "/players/j/jacksbo01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -5309.2,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -49902.4,
+        "vorp": -22.1
+      },
+      "runningValues": {
+        "bpm": -84564.90000000001,
+        "vorp": -37.6
+      }
+    },
+    {
+      "id": "bristal01x-21",
+      "sourceId": 21,
+      "date": "1997-06-25",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Eric Washington and Kris Clack; Sent out Jason Lawson",
+      "participants": [
+        {
+          "name": "Jason Lawson",
+          "playerHref": "/players/l/lawsoja01.html",
+          "direction": "out",
+          "teamCode": "ORL",
+          "values": {
+            "bpm": -376,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eric Washington",
+          "playerHref": "/players/w/washier01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -7906.3,
+            "vorp": -0.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kris Clack",
+          "playerHref": "/players/c/clackkr01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -8282.3,
+        "vorp": -1
+      },
+      "runningValues": {
+        "bpm": -92847.20000000001,
+        "vorp": -38.6
+      }
+    },
+    {
+      "id": "bristal01x-22",
+      "sourceId": 22,
+      "date": "1997-08-21",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Eric Williams; Sent out Kris Clack and Earl Watson",
+      "participants": [
+        {
+          "name": "Kris Clack",
+          "playerHref": "/players/c/clackkr01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Earl Watson",
+          "playerHref": "/players/w/watsoea01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eric Williams",
+          "playerHref": "/players/w/willier01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -2681,
+            "vorp": -0.19999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2681,
+        "vorp": -0.19999999999999998
+      },
+      "runningValues": {
+        "bpm": -95528.20000000001,
+        "vorp": -38.800000000000004
+      }
+    },
+    {
+      "id": "bristal01x-23",
+      "sourceId": 23,
+      "date": "1997-09-05",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Dean Garrett",
+      "participants": [
+        {
+          "name": "Dean Garrett",
+          "playerHref": "/players/g/garrede01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -6843.2,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -6843.2,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -102371.40000000001,
+        "vorp": -39.2
+      }
+    },
+    {
+      "id": "bristal01x-24",
+      "sourceId": 24,
+      "date": "1997-09-29",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Priest Lauderdale; Sent out Efthimis Rentzias and Hanno Möttölä",
+      "participants": [
+        {
+          "name": "Efthimis Rentzias",
+          "playerHref": "/players/r/rentzef01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Hanno Möttölä",
+          "playerHref": "/players/m/mottoha01.html",
+          "direction": "out",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 13831.900000000001,
+            "vorp": 2.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Priest Lauderdale",
+          "playerHref": "/players/l/laudepr01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -2518.5,
+            "vorp": -0.5
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 11313.400000000001,
+        "vorp": 1.7999999999999998
+      },
+      "runningValues": {
+        "bpm": -91058,
+        "vorp": -37.400000000000006
+      }
+    },
+    {
+      "id": "bristal01x-25",
+      "sourceId": 25,
+      "date": "1997-10-01",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Tyronn Lue, James Posey, Dan McClintock, Joseph Forte, and Rod Grizzard; Sent out Antonio McDyess",
+      "participants": [
+        {
+          "name": "Antonio McDyess",
+          "playerHref": "/players/m/mcdyean01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -3759.9000000000005,
+            "vorp": -2.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tyronn Lue",
+          "playerHref": "/players/l/luety01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "James Posey",
+          "playerHref": "/players/p/poseyja01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1168.8000000000002,
+            "vorp": 3.5
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dan McClintock",
+          "playerHref": "/players/m/mcclida01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -452.4,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Joseph Forte",
+          "playerHref": "/players/f/fortejo01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rod Grizzard",
+          "playerHref": "/players/g/grizzro01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -5381.1,
+        "vorp": 1
+      },
+      "runningValues": {
+        "bpm": -96439.09999999999,
+        "vorp": -36.400000000000006
+      }
+    },
+    {
+      "id": "bristal01x-26",
+      "sourceId": 26,
+      "date": "1997-10-02",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Greg Graham, Steve Scheffler, Ryan Bowen, and Francisco Elson; Sent out Dale Ellis",
+      "participants": [
+        {
+          "name": "Dale Ellis",
+          "playerHref": "/players/e/ellisda01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": -2609.6,
+            "vorp": -2.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Greg Graham",
+          "playerHref": "/players/g/grahagr01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Scheffler",
+          "playerHref": "/players/s/schefst01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Ryan Bowen",
+          "playerHref": "/players/b/bowenry01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -158.6,
+            "vorp": 2.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Francisco Elson",
+          "playerHref": "/players/e/elsonfr01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -7396.3,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -10164.5,
+        "vorp": -0.29999999999999966
+      },
+      "runningValues": {
+        "bpm": -106603.6,
+        "vorp": -36.7
+      }
+    },
+    {
+      "id": "bristal01x-27",
+      "sourceId": 27,
+      "date": "1997-10-20",
+      "type": "trade",
+      "tenureTeam": "DEN",
+      "summary": "Added Sherman Douglas and Eddie House; Sent out Greg Graham",
+      "participants": [
+        {
+          "name": "Greg Graham",
+          "playerHref": "/players/g/grahagr01.html",
+          "direction": "out",
+          "teamCode": "CLE",
+          "values": {
+            "bpm": 481.59999999999997,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Sherman Douglas",
+          "playerHref": "/players/d/douglsh01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Eddie House",
+          "playerHref": "/players/h/houseed01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 481.59999999999997,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -106122,
+        "vorp": -36.6
+      }
+    },
+    {
+      "id": "bristal01x-28",
+      "sourceId": 28,
+      "date": "1997-11-24",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Kiwane Garris",
+      "participants": [
+        {
+          "name": "Kiwane Garris",
+          "playerHref": "/players/g/garriki01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": -1260,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1260,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -107382,
+        "vorp": -36.800000000000004
+      }
+    },
+    {
+      "id": "bristal01x-29",
+      "sourceId": 29,
+      "date": "1997-12-14",
+      "type": "signing",
+      "tenureTeam": "DEN",
+      "summary": "Signed Harold Ellis",
+      "participants": [
+        {
+          "name": "Harold Ellis",
+          "playerHref": "/players/e/ellisha01.html",
+          "direction": "in",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 34.4,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 34.4,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": -107347.6,
+        "vorp": -36.6
+      }
+    },
+    {
+      "id": "bristal01x-30",
+      "sourceId": 30,
+      "date": "2004-06-24",
+      "type": "draft",
+      "tenureTeam": "NOP",
+      "summary": "Drafted J.R. Smith and Tim Pickett",
+      "participants": [
+        {
+          "name": "J.R. Smith",
+          "playerHref": "/players/s/smithjr01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tim Pickett",
+          "playerHref": "/players/p/picketi02.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -107347.6,
+        "vorp": -36.6
+      }
+    },
+    {
+      "id": "bristal01x-31",
+      "sourceId": 31,
+      "date": "2004-07-19",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Chris Andersen",
+      "participants": [
+        {
+          "name": "Chris Andersen",
+          "playerHref": "/players/a/anderch01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -107347.6,
+        "vorp": -36.6
+      }
+    },
+    {
+      "id": "bristal01x-32",
+      "sourceId": 32,
+      "date": "2004-08-03",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Rodney Rogers",
+      "participants": [
+        {
+          "name": "Rodney Rogers",
+          "playerHref": "/players/r/rogerro01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -107347.6,
+        "vorp": -36.6
+      }
+    },
+    {
+      "id": "bristal01x-33",
+      "sourceId": 33,
+      "date": "2004-09-29",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Tremaine Fowlkes",
+      "participants": [
+        {
+          "name": "Tremaine Fowlkes",
+          "playerHref": "/players/f/fowlktr01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -107347.6,
+        "vorp": -36.6
+      }
+    },
+    {
+      "id": "bristal01x-34",
+      "sourceId": 34,
+      "date": "2004-09-29",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Britton Johnsen",
+      "participants": [
+        {
+          "name": "Britton Johnsen",
+          "playerHref": "/players/j/johnsbr01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -107347.6,
+        "vorp": -36.6
+      }
+    },
+    {
+      "id": "bristal01x-35",
+      "sourceId": 35,
+      "date": "2004-09-30",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Junior Harrington",
+      "participants": [
+        {
+          "name": "Junior Harrington",
+          "playerHref": "/players/h/harriju01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -107347.6,
+        "vorp": -36.6
+      }
+    },
+    {
+      "id": "bristal01x-36",
+      "sourceId": 36,
+      "date": "2004-09-30",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Lee Nailon",
+      "participants": [
+        {
+          "name": "Lee Nailon",
+          "playerHref": "/players/n/nailole01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -107347.6,
+        "vorp": -36.6
+      }
+    },
+    {
+      "id": "bristal01x-37",
+      "sourceId": 37,
+      "date": "2004-10-04",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Ray Young",
+      "participants": [
+        {
+          "name": "Ray Young",
+          "playerHref": "/players/y/youngra01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -107347.6,
+        "vorp": -36.6
+      }
+    },
+    {
+      "id": "bristal01x-38",
+      "sourceId": 38,
+      "date": "2004-11-19",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Matt Freije",
+      "participants": [
+        {
+          "name": "Matt Freije",
+          "playerHref": "/players/f/freijma01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -107347.6,
+        "vorp": -36.6
+      }
+    },
+    {
+      "id": "bristal01x-39",
+      "sourceId": 39,
+      "date": "2004-12-03",
+      "type": "trade",
+      "tenureTeam": "NOP",
+      "summary": "Added Dan Dickau and Marcin Gortat; Sent out Darrell Armstrong",
+      "participants": [
+        {
+          "name": "Darrell Armstrong",
+          "playerHref": "/players/a/armstda01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 2948.8,
+            "vorp": 0.09999999999999998
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dan Dickau",
+          "playerHref": "/players/d/dickada01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Marcin Gortat",
+          "playerHref": "/players/g/gortama01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2948.8,
+        "vorp": 0.09999999999999998
+      },
+      "runningValues": {
+        "bpm": -104398.8,
+        "vorp": -36.5
+      }
+    },
+    {
+      "id": "bristal01x-40",
+      "sourceId": 40,
+      "date": "2004-12-04",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Corsley Edwards",
+      "participants": [
+        {
+          "name": "Corsley Edwards",
+          "playerHref": "/players/e/edwarco01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -104398.8,
+        "vorp": -36.5
+      }
+    },
+    {
+      "id": "bristal01x-41",
+      "sourceId": 41,
+      "date": "2004-12-12",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Lonny Baxter",
+      "participants": [
+        {
+          "name": "Lonny Baxter",
+          "playerHref": "/players/b/baxtelo01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -104398.8,
+        "vorp": -36.5
+      }
+    },
+    {
+      "id": "bristal01x-42",
+      "sourceId": 42,
+      "date": "2004-12-27",
+      "type": "trade",
+      "tenureTeam": "NOP",
+      "summary": "Added Jim Jackson and Boštjan Nachbar; Sent out David Wesley",
+      "participants": [
+        {
+          "name": "David Wesley",
+          "playerHref": "/players/w/wesleda01.html",
+          "direction": "out",
+          "teamCode": "HOU",
+          "values": {
+            "bpm": 4506.8,
+            "vorp": -0.9
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jim Jackson",
+          "playerHref": "/players/j/jacksji01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Boštjan Nachbar",
+          "playerHref": "/players/n/nachbbo01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 4506.8,
+        "vorp": -0.9
+      },
+      "runningValues": {
+        "bpm": -99892,
+        "vorp": -37.4
+      }
+    },
+    {
+      "id": "bristal01x-43",
+      "sourceId": 43,
+      "date": "2005-01-05",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Corsley Edwards",
+      "participants": [
+        {
+          "name": "Corsley Edwards",
+          "playerHref": "/players/e/edwarco01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -99892,
+        "vorp": -37.4
+      }
+    },
+    {
+      "id": "bristal01x-44",
+      "sourceId": 44,
+      "date": "2005-01-21",
+      "type": "trade",
+      "tenureTeam": "NOP",
+      "summary": "Added Casey Jacobsen, Maciej Lampe, and Jackson Vroman; Sent out Jim Jackson and Marcin Gortat",
+      "participants": [
+        {
+          "name": "Jim Jackson",
+          "playerHref": "/players/j/jacksji01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 3674.3999999999996,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Marcin Gortat",
+          "playerHref": "/players/g/gortama01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -5348.8,
+            "vorp": -4.1000000000000005
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Casey Jacobsen",
+          "playerHref": "/players/j/jacobca01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Maciej Lampe",
+          "playerHref": "/players/l/lampema01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jackson Vroman",
+          "playerHref": "/players/v/vromaja01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1674.4000000000005,
+        "vorp": -3.9000000000000004
+      },
+      "runningValues": {
+        "bpm": -101566.40000000001,
+        "vorp": -41.3
+      }
+    },
+    {
+      "id": "bristal01x-45",
+      "sourceId": 45,
+      "date": "2005-01-29",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Junior Harrington",
+      "participants": [
+        {
+          "name": "Junior Harrington",
+          "playerHref": "/players/h/harriju01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -101566.40000000001,
+        "vorp": -41.3
+      }
+    },
+    {
+      "id": "bristal01x-46",
+      "sourceId": 46,
+      "date": "2005-02-24",
+      "type": "trade",
+      "tenureTeam": "NOP",
+      "summary": "Added Glenn Robinson; Sent out Jamal Mashburn and Rodney Rogers",
+      "participants": [
+        {
+          "name": "Jamal Mashburn",
+          "playerHref": "/players/m/mashbja01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rodney Rogers",
+          "playerHref": "/players/r/rogerro01.html",
+          "direction": "out",
+          "teamCode": "PHI",
+          "values": {
+            "bpm": 679,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Glenn Robinson",
+          "playerHref": "/players/r/robingl01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 679,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -100887.40000000001,
+        "vorp": -41.4
+      }
+    },
+    {
+      "id": "bristal01x-47",
+      "sourceId": 47,
+      "date": "2005-02-24",
+      "type": "trade",
+      "tenureTeam": "NOP",
+      "summary": "Added Speedy Claxton and Dale Davis; Sent out Baron Davis",
+      "participants": [
+        {
+          "name": "Baron Davis",
+          "playerHref": "/players/d/davisba01.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": -27665.4,
+            "vorp": -11.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Speedy Claxton",
+          "playerHref": "/players/c/claxtsp01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dale Davis",
+          "playerHref": "/players/d/davisda01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -27665.4,
+        "vorp": -11.2
+      },
+      "runningValues": {
+        "bpm": -128552.80000000002,
+        "vorp": -52.599999999999994
+      }
+    },
+    {
+      "id": "bristal01x-48",
+      "sourceId": 48,
+      "date": "2005-06-28",
+      "type": "draft",
+      "tenureTeam": "NOP",
+      "summary": "Drafted Chris Paul and Brandon Bass",
+      "participants": [
+        {
+          "name": "Chris Paul",
+          "playerHref": "/players/p/paulch01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Brandon Bass",
+          "playerHref": "/players/b/bassbr01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -128552.80000000002,
+        "vorp": -52.599999999999994
+      }
+    },
+    {
+      "id": "bristal01x-49",
+      "sourceId": 49,
+      "date": "2005-08-02",
+      "type": "trade",
+      "tenureTeam": "NOP",
+      "summary": "Added Rasual Butler and Kirk Snyder; Sent out Roberto Duenas",
+      "participants": [
+        {
+          "name": "Roberto Duenas",
+          "playerHref": "/players/d/duenaro01.html",
+          "direction": "out",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rasual Butler",
+          "playerHref": "/players/b/butlera01.html",
+          "direction": "in",
+          "teamCode": "NOK",
+          "values": {
+            "bpm": -5563.2,
+            "vorp": 0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Kirk Snyder",
+          "playerHref": "/players/s/snydeki01.html",
+          "direction": "in",
+          "teamCode": "NOK",
+          "values": {
+            "bpm": 786,
+            "vorp": 0.9
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4777.2,
+        "vorp": 1.5
+      },
+      "runningValues": {
+        "bpm": -133330.00000000003,
+        "vorp": -51.099999999999994
+      }
+    },
+    {
+      "id": "bristal01x-50",
+      "sourceId": 50,
+      "date": "2005-08-02",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Arvydas Macijauskas",
+      "participants": [
+        {
+          "name": "Arvydas Macijauskas",
+          "playerHref": "/players/m/macijar01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -133330.00000000003,
+        "vorp": -51.099999999999994
+      }
+    },
+    {
+      "id": "bristal01x-51",
+      "sourceId": 51,
+      "date": "2005-09-26",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Alex Garcia",
+      "participants": [
+        {
+          "name": "Alex Garcia",
+          "playerHref": "/players/g/garcial01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -133330.00000000003,
+        "vorp": -51.099999999999994
+      }
+    },
+    {
+      "id": "bristal01x-52",
+      "sourceId": 52,
+      "date": "2005-09-30",
+      "type": "trade",
+      "tenureTeam": "NOP",
+      "summary": "Added Edin Bavčić; Sent out Dan Dickau",
+      "participants": [
+        {
+          "name": "Dan Dickau",
+          "playerHref": "/players/d/dickada01.html",
+          "direction": "out",
+          "teamCode": "BOS",
+          "values": {
+            "bpm": 561.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Edin Bavčić",
+          "playerHref": "/players/b/bavcied01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 561.6,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -132768.40000000002,
+        "vorp": -51.099999999999994
+      }
+    },
+    {
+      "id": "bristal01x-53",
+      "sourceId": 53,
+      "date": "2005-10-01",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Sean Banks",
+      "participants": [
+        {
+          "name": "Sean Banks",
+          "playerHref": "/players/b/banksse01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -132768.40000000002,
+        "vorp": -51.099999999999994
+      }
+    },
+    {
+      "id": "bristal01x-54",
+      "sourceId": 54,
+      "date": "2005-10-01",
+      "type": "signing",
+      "tenureTeam": "NOP",
+      "summary": "Signed Troy Bell",
+      "participants": [
+        {
+          "name": "Troy Bell",
+          "playerHref": "/players/b/belltr01.html",
+          "direction": "in",
+          "teamCode": "NOP",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -132768.40000000002,
+        "vorp": -51.099999999999994
+      }
+    }
+  ]
+}

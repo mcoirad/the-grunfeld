@@ -7,6 +7,7 @@ interface ExecutiveCardProps {
   basePath: string;
   expanded: boolean;
   onToggle: () => void;
+  profileHref: string;
 }
 
 const CATEGORY_LABELS = {
@@ -38,6 +39,7 @@ export function ExecutiveCard({
   basePath,
   expanded,
   onToggle,
+  profileHref,
 }: ExecutiveCardProps) {
   const selectedMetric = executive.metrics[metric];
   const teamLabel = executive.teams.map(({ code }) => code).join(" · ");
@@ -92,8 +94,8 @@ export function ExecutiveCard({
               return (
                 <div class="grade-chip" key={key}>
                   <small>{label}</small>
-                  <strong data-empty={!category.grade}>
-                    {category.grade ?? "N/A"}
+                  <strong data-empty={!category.grades.overall}>
+                    {category.grades.overall ?? "N/A"}
                   </strong>
                 </div>
               );
@@ -101,18 +103,21 @@ export function ExecutiveCard({
           </div>
         )}
 
-        {detail !== "deep" && (
-          <button
-            class="executive-card__toggle"
-            type="button"
-            aria-expanded={expanded}
-            aria-controls={detailsId}
-            onClick={onToggle}
-          >
-            {expanded ? "Close report" : "View report"}
-            <span aria-hidden="true">{expanded ? "−" : "+"}</span>
-          </button>
-        )}
+        <div class="executive-card__actions">
+          <a class="executive-card__profile" href={profileHref}>View profile</a>
+          {detail !== "deep" && (
+            <button
+              class="executive-card__toggle"
+              type="button"
+              aria-expanded={expanded}
+              aria-controls={detailsId}
+              onClick={onToggle}
+            >
+              {expanded ? "Close report" : "View report"}
+              <span aria-hidden="true">{expanded ? "−" : "+"}</span>
+            </button>
+          )}
+        </div>
       </div>
 
       {expanded && (
@@ -134,18 +139,18 @@ export function ExecutiveCard({
                 <section class="report-category" key={key}>
                   <div class="report-category__heading">
                     <h3>{label}</h3>
-                    <span>{category.grade ?? "N/A"}</span>
+                    <span>{category.grades.overall ?? "N/A"}</span>
                   </div>
                   <div class="percentile-track" aria-hidden="true">
-                    <span style={{ width: `${category.percentile ?? 0}%` }} />
+                    <span style={{ width: `${category.percentiles.overall ?? 0}%` }} />
                   </div>
                   <dl>
                     <div>
                       <dt>Percentile</dt>
                       <dd>
-                        {category.percentile === null
+                        {category.percentiles.overall === null
                           ? "Not enough data"
-                          : `${Math.round(category.percentile)}th`}
+                          : `${Math.round(category.percentiles.overall)}th`}
                       </dd>
                     </div>
                     <div>

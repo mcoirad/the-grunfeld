@@ -1,0 +1,1862 @@
+{
+  "slug": "harride99x",
+  "sourceRowCount": 84,
+  "tenures": [
+    {
+      "teamCode": "MIL",
+      "startDate": "1987-06-21",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "harride99x-0",
+      "sourceId": 0,
+      "date": "1987-06-21",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Gary Leonard; Sent out Scott Skiles",
+      "participants": [
+        {
+          "name": "Scott Skiles",
+          "playerHref": "/players/s/skilesc01.html",
+          "direction": "out",
+          "teamCode": "IND",
+          "values": {
+            "bpm": 5862.7,
+            "vorp": 0.30000000000000004
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Gary Leonard",
+          "playerHref": "/players/l/leonaga01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 5862.7,
+        "vorp": 0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": 5862.7,
+        "vorp": 0.30000000000000004
+      }
+    },
+    {
+      "id": "harride99x-1",
+      "sourceId": 1,
+      "date": "1987-06-22",
+      "type": "draft",
+      "tenureTeam": "MIL",
+      "summary": "Drafted Bob McCann, Winston Garland, J. J. Weber, Darryl Bedford, Brian Vaughns, and Gay Elmore",
+      "participants": [
+        {
+          "name": "Bob McCann",
+          "playerHref": "/players/m/mccanbo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Winston Garland",
+          "playerHref": "/players/g/garlawi01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "J. J. Weber",
+          "playerHref": "/players/w/weberjj01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Darryl Bedford",
+          "playerHref": "/players/b/bedfoda01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Brian Vaughns",
+          "playerHref": "/players/v/vaughbr01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Gay Elmore",
+          "playerHref": "/players/e/elmorga01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 5862.7,
+        "vorp": 0.30000000000000004
+      }
+    },
+    {
+      "id": "harride99x-2",
+      "sourceId": 2,
+      "date": "1987-10-08",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Pace Mannion",
+      "participants": [
+        {
+          "name": "Pace Mannion",
+          "playerHref": "/players/m/mannipa01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -1240.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1240.2,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 4622.5,
+        "vorp": 0.20000000000000004
+      }
+    },
+    {
+      "id": "harride99x-3",
+      "sourceId": 3,
+      "date": "1987-10-08",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed John Stroeder",
+      "participants": [
+        {
+          "name": "John Stroeder",
+          "playerHref": "/players/s/stroejo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -1653.1,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1653.1,
+        "vorp": -0.3
+      },
+      "runningValues": {
+        "bpm": 2969.4,
+        "vorp": -0.09999999999999995
+      }
+    },
+    {
+      "id": "harride99x-4",
+      "sourceId": 4,
+      "date": "1987-11-01",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed John Lucas",
+      "participants": [
+        {
+          "name": "John Lucas",
+          "playerHref": "/players/l/lucasjo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 3532,
+            "vorp": 1.8
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 3532,
+        "vorp": 1.8
+      },
+      "runningValues": {
+        "bpm": 6501.4,
+        "vorp": 1.7000000000000002
+      }
+    },
+    {
+      "id": "harride99x-5",
+      "sourceId": 5,
+      "date": "1987-11-13",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Rickie Winslow",
+      "participants": [
+        {
+          "name": "Rickie Winslow",
+          "playerHref": "/players/w/winslri01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -666,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -666,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 5835.4,
+        "vorp": 1.6
+      }
+    },
+    {
+      "id": "harride99x-6",
+      "sourceId": 6,
+      "date": "1987-11-18",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Larry Krystkowiak; Sent out Charles Davis and Reggie Turner",
+      "participants": [
+        {
+          "name": "Charles Davis",
+          "playerHref": "/players/d/davisch02.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 1009.8000000000001,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Reggie Turner",
+          "playerHref": "/players/t/turnere01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Larry Krystkowiak",
+          "playerHref": "/players/k/krystla01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -14757.3,
+            "vorp": -0.7000000000000001
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -13747.5,
+        "vorp": -0.5
+      },
+      "runningValues": {
+        "bpm": -7912.099999999999,
+        "vorp": 1.1
+      }
+    },
+    {
+      "id": "harride99x-7",
+      "sourceId": 7,
+      "date": "1987-12-05",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Conner Henry",
+      "participants": [
+        {
+          "name": "Conner Henry",
+          "playerHref": "/players/h/henryco01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -594.5,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -594.5,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -8506.599999999999,
+        "vorp": 1
+      }
+    },
+    {
+      "id": "harride99x-8",
+      "sourceId": 8,
+      "date": "1987-12-11",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Andre Moore",
+      "participants": [
+        {
+          "name": "Andre Moore",
+          "playerHref": "/players/m/moorean01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -84.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -84.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -8591.399999999998,
+        "vorp": 1
+      }
+    },
+    {
+      "id": "harride99x-9",
+      "sourceId": 9,
+      "date": "1987-12-29",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Andrew Lang; Sent out Don Nelson",
+      "participants": [
+        {
+          "name": "Don Nelson",
+          "playerHref": "/coaches/nelsodo01c.html",
+          "direction": "out",
+          "teamCode": "GSW",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Andrew Lang",
+          "playerHref": "/players/l/langan01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -4910.4,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4910.4,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -13501.799999999997,
+        "vorp": 0.7
+      }
+    },
+    {
+      "id": "harride99x-10",
+      "sourceId": 10,
+      "date": "1988-01-12",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Dave Hoppen",
+      "participants": [
+        {
+          "name": "Dave Hoppen",
+          "playerHref": "/players/h/hoppeda01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -252,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -252,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -13753.799999999997,
+        "vorp": 0.7
+      }
+    },
+    {
+      "id": "harride99x-11",
+      "sourceId": 11,
+      "date": "1988-02-25",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Jay Humphries; Sent out Craig Hodges and Andrew Lang",
+      "participants": [
+        {
+          "name": "Craig Hodges",
+          "playerHref": "/players/h/hodgecr01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": 119.19999999999999,
+            "vorp": -0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Andrew Lang",
+          "playerHref": "/players/l/langan01.html",
+          "direction": "out",
+          "teamCode": "PHO",
+          "values": {
+            "bpm": -2808.7,
+            "vorp": -3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Jay Humphries",
+          "playerHref": "/players/h/humphja01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 14261.7,
+            "vorp": 8.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 11572.2,
+        "vorp": 5.3999999999999995
+      },
+      "runningValues": {
+        "bpm": -2181.599999999995,
+        "vorp": 6.1
+      }
+    },
+    {
+      "id": "harride99x-12",
+      "sourceId": 12,
+      "date": "1988-06-23",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Fred Roberts; Sent out Scott Haffner",
+      "participants": [
+        {
+          "name": "Scott Haffner",
+          "playerHref": "/players/h/haffnsc01.html",
+          "direction": "out",
+          "teamCode": "MIA",
+          "values": {
+            "bpm": 2850.8999999999996,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Fred Roberts",
+          "playerHref": "/players/r/roberfr01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -11394.1,
+            "vorp": 1.7
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -8543.2,
+        "vorp": 2.1
+      },
+      "runningValues": {
+        "bpm": -10724.799999999996,
+        "vorp": 8.2
+      }
+    },
+    {
+      "id": "harride99x-13",
+      "sourceId": 13,
+      "date": "1988-06-28",
+      "type": "draft",
+      "tenureTeam": "MIL",
+      "summary": "Drafted Jeff Grayer, Tito Horford, and Mike Jones",
+      "participants": [
+        {
+          "name": "Jeff Grayer",
+          "playerHref": "/players/g/grayeje01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -10433.4,
+            "vorp": -0.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tito Horford",
+          "playerHref": "/players/h/horfoti01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Mike Jones",
+          "playerHref": "/players/j/jonesmi01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -10433.4,
+        "vorp": -0.4
+      },
+      "runningValues": {
+        "bpm": -21158.199999999997,
+        "vorp": 7.799999999999999
+      }
+    },
+    {
+      "id": "harride99x-14",
+      "sourceId": 14,
+      "date": "1988-08-01",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Rookie contract for Tito Horford",
+      "participants": [
+        {
+          "name": "Tito Horford",
+          "playerHref": "/players/h/horfoti01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -3408.3999999999996,
+            "vorp": -0.7
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -3408.3999999999996,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": -24566.6,
+        "vorp": 7.099999999999999
+      }
+    },
+    {
+      "id": "harride99x-15",
+      "sourceId": 15,
+      "date": "1988-08-04",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Mark Davis",
+      "participants": [
+        {
+          "name": "Mark Davis",
+          "playerHref": "/players/d/davisma01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -24566.6,
+        "vorp": 7.099999999999999
+      }
+    },
+    {
+      "id": "harride99x-16",
+      "sourceId": 16,
+      "date": "1988-10-04",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Steve Henson; Sent out Jerry Reynolds",
+      "participants": [
+        {
+          "name": "Jerry Reynolds",
+          "playerHref": "/players/r/reynoje01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": -1105.5,
+            "vorp": -0.7
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Henson",
+          "playerHref": "/players/h/hensost01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1105.5,
+        "vorp": -0.7
+      },
+      "runningValues": {
+        "bpm": -25672.1,
+        "vorp": 6.399999999999999
+      }
+    },
+    {
+      "id": "harride99x-17",
+      "sourceId": 17,
+      "date": "1988-10-19",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Jim Les",
+      "participants": [
+        {
+          "name": "Jim Les",
+          "playerHref": "/players/l/lesji01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -25672.1,
+        "vorp": 6.399999999999999
+      }
+    },
+    {
+      "id": "harride99x-18",
+      "sourceId": 18,
+      "date": "1989-01-03",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Andre Turner",
+      "participants": [
+        {
+          "name": "Andre Turner",
+          "playerHref": "/players/t/turnean01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -144.29999999999998,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -144.29999999999998,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -25816.399999999998,
+        "vorp": 6.399999999999999
+      }
+    },
+    {
+      "id": "harride99x-19",
+      "sourceId": 19,
+      "date": "1989-01-15",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Mark Davis",
+      "participants": [
+        {
+          "name": "Mark Davis",
+          "playerHref": "/players/d/davisma01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -25816.399999999998,
+        "vorp": 6.399999999999999
+      }
+    },
+    {
+      "id": "harride99x-20",
+      "sourceId": 20,
+      "date": "1989-01-26",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Mark Davis",
+      "participants": [
+        {
+          "name": "Mark Davis",
+          "playerHref": "/players/d/davisma01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -50.2,
+            "vorp": 0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -50.2,
+        "vorp": 0.1
+      },
+      "runningValues": {
+        "bpm": -25866.6,
+        "vorp": 6.499999999999998
+      }
+    },
+    {
+      "id": "harride99x-21",
+      "sourceId": 21,
+      "date": "1989-02-07",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Tony Brown",
+      "participants": [
+        {
+          "name": "Tony Brown",
+          "playerHref": "/players/b/brownto01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -25866.6,
+        "vorp": 6.499999999999998
+      }
+    },
+    {
+      "id": "harride99x-22",
+      "sourceId": 22,
+      "date": "1989-02-28",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Tony Brown",
+      "participants": [
+        {
+          "name": "Tony Brown",
+          "playerHref": "/players/b/brownto01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -2821.4,
+            "vorp": -0.30000000000000004
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2821.4,
+        "vorp": -0.30000000000000004
+      },
+      "runningValues": {
+        "bpm": -28688,
+        "vorp": 6.199999999999998
+      }
+    },
+    {
+      "id": "harride99x-23",
+      "sourceId": 23,
+      "date": "1989-03-01",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Rickey Green",
+      "participants": [
+        {
+          "name": "Rickey Green",
+          "playerHref": "/players/g/greenri01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 701.4,
+            "vorp": 0.4
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 701.4,
+        "vorp": 0.4
+      },
+      "runningValues": {
+        "bpm": -27986.6,
+        "vorp": 6.599999999999999
+      }
+    },
+    {
+      "id": "harride99x-24",
+      "sourceId": 24,
+      "date": "1989-05-28",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Greg Anderson, Alvin Robertson, and Frank Kornet; Sent out Terry Cummings and Tony Massenburg",
+      "participants": [
+        {
+          "name": "Terry Cummings",
+          "playerHref": "/players/c/cummite01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 3534.300000000001,
+            "vorp": -4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Tony Massenburg",
+          "playerHref": "/players/m/masseto01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 4482.5,
+            "vorp": 0.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Greg Anderson",
+          "playerHref": "/players/a/andergr01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -6857.1,
+            "vorp": -1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Alvin Robertson",
+          "playerHref": "/players/r/roberal01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 26053.3,
+            "vorp": 10.900000000000002
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Frank Kornet",
+          "playerHref": "/players/k/kornefr01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 27213,
+        "vorp": 6.700000000000002
+      },
+      "runningValues": {
+        "bpm": -773.5999999999949,
+        "vorp": 13.3
+      }
+    },
+    {
+      "id": "harride99x-25",
+      "sourceId": 25,
+      "date": "1989-06-15",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Sent out Gary Leonard",
+      "participants": [
+        {
+          "name": "Gary Leonard",
+          "playerHref": "/players/l/leonaga01.html",
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 1066.8,
+            "vorp": 0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 1066.8,
+        "vorp": 0.2
+      },
+      "runningValues": {
+        "bpm": 293.20000000000505,
+        "vorp": 13.5
+      }
+    },
+    {
+      "id": "harride99x-26",
+      "sourceId": 26,
+      "date": "1989-06-27",
+      "type": "draft",
+      "tenureTeam": "MIL",
+      "summary": "Drafted Frank Kornet",
+      "participants": [
+        {
+          "name": "Frank Kornet",
+          "playerHref": "/players/k/kornefr01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 293.20000000000505,
+        "vorp": 13.5
+      }
+    },
+    {
+      "id": "harride99x-27",
+      "sourceId": 27,
+      "date": "1989-08-25",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Rookie contract for Frank Kornet",
+      "participants": [
+        {
+          "name": "Frank Kornet",
+          "playerHref": "/players/k/kornefr01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -3696.3999999999996,
+            "vorp": -0.6000000000000001
+          },
+          "creditedToDraft": true
+        }
+      ],
+      "values": {
+        "bpm": -3696.3999999999996,
+        "vorp": -0.6000000000000001
+      },
+      "runningValues": {
+        "bpm": -3403.1999999999944,
+        "vorp": 12.9
+      }
+    },
+    {
+      "id": "harride99x-28",
+      "sourceId": 28,
+      "date": "1989-09-01",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Dennis Nutt",
+      "participants": [
+        {
+          "name": "Dennis Nutt",
+          "playerHref": "/players/n/nuttde01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -3403.1999999999944,
+        "vorp": 12.9
+      }
+    },
+    {
+      "id": "harride99x-29",
+      "sourceId": 29,
+      "date": "1989-10-06",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Gerald Henderson",
+      "participants": [
+        {
+          "name": "Gerald Henderson",
+          "playerHref": "/players/h/hendege01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -283.8,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -283.8,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -3686.9999999999945,
+        "vorp": 12.9
+      }
+    },
+    {
+      "id": "harride99x-30",
+      "sourceId": 30,
+      "date": "1989-10-06",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Delaney Rudd",
+      "participants": [
+        {
+          "name": "Delaney Rudd",
+          "playerHref": "/players/r/ruddde01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -3686.9999999999945,
+        "vorp": 12.9
+      }
+    },
+    {
+      "id": "harride99x-31",
+      "sourceId": 31,
+      "date": "1989-10-18",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Ben Coleman",
+      "participants": [
+        {
+          "name": "Ben Coleman",
+          "playerHref": "/players/c/colembe01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -1250.5,
+            "vorp": -0.2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -1250.5,
+        "vorp": -0.2
+      },
+      "runningValues": {
+        "bpm": -4937.4999999999945,
+        "vorp": 12.700000000000001
+      }
+    },
+    {
+      "id": "harride99x-32",
+      "sourceId": 32,
+      "date": "1989-10-26",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Pat Durham; Sent out Eric Riley",
+      "participants": [
+        {
+          "name": "Eric Riley",
+          "playerHref": "/players/r/rileyer01.html",
+          "direction": "out",
+          "teamCode": "DAL",
+          "values": {
+            "bpm": 2393.6000000000004,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Pat Durham",
+          "playerHref": "/players/d/durhapa01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2393.6000000000004,
+        "vorp": 0.3
+      },
+      "runningValues": {
+        "bpm": -2543.899999999994,
+        "vorp": 13.000000000000002
+      }
+    },
+    {
+      "id": "harride99x-33",
+      "sourceId": 33,
+      "date": "1990-01-04",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Brad Lohaus and Duane Cooper; Sent out Randy Breuer and Chris Smith",
+      "participants": [
+        {
+          "name": "Randy Breuer",
+          "playerHref": "/players/b/breuera01.html",
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 5761.8,
+            "vorp": -0.6
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Chris Smith",
+          "playerHref": "/players/s/smithch03.html",
+          "direction": "out",
+          "teamCode": "MIN",
+          "values": {
+            "bpm": 9013.3,
+            "vorp": 0.3
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Brad Lohaus",
+          "playerHref": "/players/l/lohaubr01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -376.0999999999999,
+            "vorp": 3.2
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Duane Cooper",
+          "playerHref": "/players/c/coopedu01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 14398.999999999998,
+        "vorp": 2.9000000000000004
+      },
+      "runningValues": {
+        "bpm": 11855.100000000004,
+        "vorp": 15.900000000000002
+      }
+    },
+    {
+      "id": "harride99x-34",
+      "sourceId": 34,
+      "date": "1990-02-27",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Jerry Sichting",
+      "participants": [
+        {
+          "name": "Jerry Sichting",
+          "playerHref": "/players/s/sichtje01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -305.1,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -305.1,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": 11550.000000000004,
+        "vorp": 15.800000000000002
+      }
+    },
+    {
+      "id": "harride99x-35",
+      "sourceId": 35,
+      "date": "1990-06-27",
+      "type": "draft",
+      "tenureTeam": "MIL",
+      "summary": "Drafted Terry Mills and Steve Henson",
+      "participants": [
+        {
+          "name": "Terry Mills",
+          "playerHref": "/players/m/millste01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Steve Henson",
+          "playerHref": "/players/h/hensost01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -2223.3999999999996,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -2223.3999999999996,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 9326.600000000004,
+        "vorp": 15.800000000000002
+      }
+    },
+    {
+      "id": "harride99x-36",
+      "sourceId": 36,
+      "date": "1990-08-01",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Frank Brickowski; Sent out Paul Pressey",
+      "participants": [
+        {
+          "name": "Paul Pressey",
+          "playerHref": "/players/p/presspa01.html",
+          "direction": "out",
+          "teamCode": "SAS",
+          "values": {
+            "bpm": 1838.1000000000001,
+            "vorp": -0.8
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Frank Brickowski",
+          "playerHref": "/players/b/brickfr01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -2615.7,
+            "vorp": 2.8000000000000003
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -777.5999999999997,
+        "vorp": 2
+      },
+      "runningValues": {
+        "bpm": 8549.000000000004,
+        "vorp": 17.8
+      }
+    },
+    {
+      "id": "harride99x-37",
+      "sourceId": 37,
+      "date": "1990-08-01",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Danny Schayes; Sent out Terry Mills",
+      "participants": [
+        {
+          "name": "Terry Mills",
+          "playerHref": "/players/m/millste01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 669.6,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Danny Schayes",
+          "playerHref": "/players/s/schayda01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -9223.8,
+            "vorp": -0.09999999999999998
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -8554.199999999999,
+        "vorp": -0.09999999999999998
+      },
+      "runningValues": {
+        "bpm": -5.199999999995271,
+        "vorp": 17.7
+      }
+    },
+    {
+      "id": "harride99x-38",
+      "sourceId": 38,
+      "date": "1990-09-29",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Pat Durham",
+      "participants": [
+        {
+          "name": "Pat Durham",
+          "playerHref": "/players/d/durhapa01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -5.199999999995271,
+        "vorp": 17.7
+      }
+    },
+    {
+      "id": "harride99x-39",
+      "sourceId": 39,
+      "date": "1990-10-03",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Jay Taylor",
+      "participants": [
+        {
+          "name": "Jay Taylor",
+          "playerHref": "/players/t/tayloja01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -5.199999999995271,
+        "vorp": 17.7
+      }
+    },
+    {
+      "id": "harride99x-40",
+      "sourceId": 40,
+      "date": "1991-01-16",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Lester Conner; Sent out Greg Anderson",
+      "participants": [
+        {
+          "name": "Greg Anderson",
+          "playerHref": "/players/a/andergr01.html",
+          "direction": "out",
+          "teamCode": "NJN",
+          "values": {
+            "bpm": -172.79999999999998,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Lester Conner",
+          "playerHref": "/players/c/connele01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 2468.8,
+            "vorp": 1.6
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 2296,
+        "vorp": 1.5
+      },
+      "runningValues": {
+        "bpm": 2290.8000000000047,
+        "vorp": 19.2
+      }
+    },
+    {
+      "id": "harride99x-41",
+      "sourceId": 41,
+      "date": "1991-02-15",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Dale Ellis; Sent out Ricky Pierce",
+      "participants": [
+        {
+          "name": "Ricky Pierce",
+          "playerHref": "/players/p/piercri01.html",
+          "direction": "out",
+          "teamCode": "SEA",
+          "values": {
+            "bpm": -12032.4,
+            "vorp": -6.4
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Dale Ellis",
+          "playerHref": "/players/e/ellisda01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 1423.1,
+            "vorp": 2
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -10609.3,
+        "vorp": -4.4
+      },
+      "runningValues": {
+        "bpm": -8318.499999999995,
+        "vorp": 14.799999999999999
+      }
+    },
+    {
+      "id": "harride99x-42",
+      "sourceId": 42,
+      "date": "1991-02-27",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Everette Stephens",
+      "participants": [
+        {
+          "name": "Everette Stephens",
+          "playerHref": "/players/s/stephev01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 147.60000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 147.60000000000002,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -8170.899999999994,
+        "vorp": 14.799999999999999
+      }
+    },
+    {
+      "id": "harride99x-43",
+      "sourceId": 43,
+      "date": "1991-04-02",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Adrian Dantley",
+      "participants": [
+        {
+          "name": "Adrian Dantley",
+          "playerHref": "/players/d/dantlad01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -529.2,
+            "vorp": -0.1
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -529.2,
+        "vorp": -0.1
+      },
+      "runningValues": {
+        "bpm": -8700.099999999995,
+        "vorp": 14.7
+      }
+    },
+    {
+      "id": "harride99x-44",
+      "sourceId": 44,
+      "date": "1991-06-26",
+      "type": "draft",
+      "tenureTeam": "MIL",
+      "summary": "Drafted Kevin Brooks and Bobby Phills",
+      "participants": [
+        {
+          "name": "Kevin Brooks",
+          "playerHref": "/players/b/brookke01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Bobby Phills",
+          "playerHref": "/players/p/phillbo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -8700.099999999995,
+        "vorp": 14.7
+      }
+    },
+    {
+      "id": "harride99x-45",
+      "sourceId": 45,
+      "date": "1991-07-01",
+      "type": "trade",
+      "tenureTeam": "MIL",
+      "summary": "Added Anthony Avent; Sent out Kevin Brooks and Rodney Dent",
+      "participants": [
+        {
+          "name": "Kevin Brooks",
+          "playerHref": "/players/b/brookke01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 6047.6,
+            "vorp": 1
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Rodney Dent",
+          "playerHref": "/players/d/dentro01.html",
+          "direction": "out",
+          "teamCode": "DEN",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        },
+        {
+          "name": "Anthony Avent",
+          "playerHref": "/players/a/aventan01.html",
+          "direction": "in",
+          "teamCode": "ATL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 6047.6,
+        "vorp": 1
+      },
+      "runningValues": {
+        "bpm": -2652.4999999999945,
+        "vorp": 15.7
+      }
+    },
+    {
+      "id": "harride99x-46",
+      "sourceId": 46,
+      "date": "1991-07-10",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Moses Malone",
+      "participants": [
+        {
+          "name": "Moses Malone",
+          "playerHref": "/players/m/malonmo01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -81.69999999999999,
+            "vorp": 1.3
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -81.69999999999999,
+        "vorp": 1.3
+      },
+      "runningValues": {
+        "bpm": -2734.1999999999944,
+        "vorp": 17
+      }
+    },
+    {
+      "id": "harride99x-47",
+      "sourceId": 47,
+      "date": "1991-09-20",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Michael Ansley",
+      "participants": [
+        {
+          "name": "Michael Ansley",
+          "playerHref": "/players/a/anslemi01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -2734.1999999999944,
+        "vorp": 17
+      }
+    },
+    {
+      "id": "harride99x-48",
+      "sourceId": 48,
+      "date": "1991-10-03",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Everette Stephens",
+      "participants": [
+        {
+          "name": "Everette Stephens",
+          "playerHref": "/players/s/stephev01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -2734.1999999999944,
+        "vorp": 17
+      }
+    },
+    {
+      "id": "harride99x-49",
+      "sourceId": 49,
+      "date": "1991-10-05",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Billy Thompson",
+      "participants": [
+        {
+          "name": "Billy Thompson",
+          "playerHref": "/players/t/thompbi01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -2734.1999999999944,
+        "vorp": 17
+      }
+    },
+    {
+      "id": "harride99x-51",
+      "sourceId": 51,
+      "date": "1992-02-13",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Jerome Lane",
+      "participants": [
+        {
+          "name": "Jerome Lane",
+          "playerHref": "/players/l/laneje01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -4.199999999999999,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -4.199999999999999,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -2738.399999999994,
+        "vorp": 17
+      }
+    },
+    {
+      "id": "harride99x-52",
+      "sourceId": 52,
+      "date": "1992-03-04",
+      "type": "signing",
+      "tenureTeam": "MIL",
+      "summary": "Signed Dave Popson",
+      "participants": [
+        {
+          "name": "Dave Popson",
+          "playerHref": "/players/p/popsoda01.html",
+          "direction": "in",
+          "teamCode": "MIL",
+          "values": {
+            "bpm": -161.20000000000002,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": -161.20000000000002,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": -2899.599999999994,
+        "vorp": 17
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "littlge01x",
+  "sourceRowCount": 3,
+  "tenures": [
+    {
+      "teamCode": "CHA",
+      "startDate": "1990-04-02",
+      "endDate": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "littlge01x-0",
+      "sourceId": 0,
+      "date": "1990-04-02",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Micheal Williams",
+      "participants": [
+        {
+          "name": "Micheal Williams",
+          "playerHref": "/players/w/willimi02.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    },
+    {
+      "id": "littlge01x-1",
+      "sourceId": 1,
+      "date": "1990-04-14",
+      "type": "signing",
+      "tenureTeam": "CHA",
+      "summary": "Signed Ralph Lewis",
+      "participants": [
+        {
+          "name": "Ralph Lewis",
+          "playerHref": "/players/l/lewisra01.html",
+          "direction": "in",
+          "teamCode": "CHA",
+          "values": {
+            "bpm": 0,
+            "vorp": 0
+          },
+          "creditedToDraft": false
+        }
+      ],
+      "values": {
+        "bpm": 0,
+        "vorp": 0
+      },
+      "runningValues": {
+        "bpm": 0,
+        "vorp": 0
+      }
+    }
+  ]
+}
